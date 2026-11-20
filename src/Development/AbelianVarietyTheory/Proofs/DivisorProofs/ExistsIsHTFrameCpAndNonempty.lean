@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsLatBasisHtLatIffSpanEq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEmbeddingPadicComplexInt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPolAVFibre
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HodgeTateInclusionRaynaudExtensionAlgebraicPointStatement
@@ -7,9 +5,7 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AlCSurjectiveAndLin
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLieTieOfFrMap
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LinearIndependentEvLieOfLieTie
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsAdaptedBasis
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsUniqueFrameChangeByMatrices
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.EvLawsGenFrNonemptyComp
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.FrameLawsOfModuli
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsNumberFieldPoint
 
 set_option autoImplicit false

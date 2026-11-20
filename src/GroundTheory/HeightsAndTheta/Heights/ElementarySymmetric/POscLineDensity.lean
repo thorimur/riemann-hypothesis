@@ -1,7 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StatementsOscLineDensity
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StatementsLaplacianHoloComp
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterFS
+import Mathlib.Analysis.InnerProductSpace.Harmonic.Constructions
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 noncomputable section

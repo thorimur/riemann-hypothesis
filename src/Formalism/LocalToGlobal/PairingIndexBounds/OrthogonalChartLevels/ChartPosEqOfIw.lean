@@ -1,7 +1,5 @@
-import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.FrecAt
-import Formalism.LocalToGlobal.InertKernelTheory.FrameInt
-import Formalism.LocalToGlobal.GroupLattices.LevelGatherings.PosBridge
-import Formalism.LocalRingCardinality.DataKerP
+import Formalism.LocalToGlobal.InertKernelTheory.SecondKernelEntrywiseLastLevel
+import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.GramLevelZeroEqReindex
 
 noncomputable section
 

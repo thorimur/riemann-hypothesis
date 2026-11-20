@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsAdmissibleIntegralBasisChangeOne
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LatticeNormalFormUnipotent
 
 namespace GlobalTheory.Proof.latticeNormalForm_modulo_unipotentSemidirect

@@ -1,4 +1,7 @@
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.RdArith
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open ArithmeticFunction Finset
 

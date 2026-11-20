@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.HasBlockOfOccurs
 open GlobalTheory.ExpFrame Formalism.CohomologicalDescent.DepthNonnegative
 

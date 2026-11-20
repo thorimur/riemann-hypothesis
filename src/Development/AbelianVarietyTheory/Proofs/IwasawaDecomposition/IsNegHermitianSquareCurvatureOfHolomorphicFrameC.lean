@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsNegSqZero
-import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.DifferentiableOnOfTendstoLocallyUniformlyOn
 
 set_option autoImplicit false
 

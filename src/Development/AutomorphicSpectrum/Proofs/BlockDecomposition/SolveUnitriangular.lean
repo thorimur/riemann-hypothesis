@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsUdlOfIsUnit
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace GlobalTheory.CompanionTheory.KmCover
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConstMulEqUnit
 
 open AlgebraicGeometry CategoryTheory Limits

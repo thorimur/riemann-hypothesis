@@ -1,11 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsRootSelectionUnitaryRankOne
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugatesSeparableMatrixCompactModCentralizer
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemKintIffIntegralEntries
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemKintIff
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedExtensionProductDecompositionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GlPiEquivSymmContinuous
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.ValUnitsD
 open Matrix NumberField GlobalTheory.LKTrip GlobalTheory.LKRes GlobalTheory.LKMid GlobalTheory.LKCount
 open scoped TensorProduct Classical
 

@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.PartialDifferential.SobolevFriedrichs
+import GroundTheory.AutomorphicForms.PartialDifferential.SobolevMollifier
 
 namespace GroundTheory.Automorphic.Sobolev
 

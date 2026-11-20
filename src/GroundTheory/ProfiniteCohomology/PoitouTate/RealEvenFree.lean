@@ -1,10 +1,5 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.PoitouTate.RealEvenCoind
-import GroundTheory.ProfiniteCohomology.PoitouTate.RealEvenLevel
-import GroundTheory.ProfiniteCohomology.PoitouTate.RealTraceMap
-import GroundTheory.ProfiniteCohomology.RealPlaces.Vanishing
-import GroundTheory.ProfiniteCohomology.RealPlaces.Devissage
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseMain
+import GroundTheory.ProfiniteCohomology.PoitouTate.RealOdd
+import GroundTheory.ProfiniteCohomology.RealPlaces.Induced
 set_option maxSynthPendingDepth 1
 
 noncomputable section

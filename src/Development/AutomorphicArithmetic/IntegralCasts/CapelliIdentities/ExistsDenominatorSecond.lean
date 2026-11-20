@@ -1,34 +1,4 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
-import Formalism.LocalRingCardinality.Params
-import Formalism.LocalRingCardinality.DataHost
-import Formalism.LocalRingCardinality.DataSpaces
 import Formalism.SharpRestriction.CuspSpanNormBounds.BlockEnds
-import Formalism.FrobeniusOrbits.Statement
-import Formalism.SharpRestriction.CuspSpanNormBounds.Point
-import Formalism.HermitianLattices.StatementLat
-import Formalism.HarderNarasimhan.Statement
-import Formalism.FrobeniusOrbits.HostThickExists
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ZsmulGeneratorEqZeroOfProjection
-import Formalism.WeaklyAdmissibleFiltrations.Statement
-import Formalism.LocalRingCardinality.DataRows
-import Formalism.SatakeDualWeyl.Statement
-import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
-import Formalism.HarderNarasimhan.StatementPl
-import Formalism.HermitianLattices.StatementMass
-import Formalism.LocalRingCardinality.DataArith
-import Formalism.SharpRestriction.CuspSpanNormBounds.PsiEDef
-import Formalism.LatticeSlopes.Statement
-import Formalism.FockGram.StatementHerm
-import Formalism.ThetaLiftIndependence.Statement
-import Formalism.SharpRestriction.CuspSpanNormBounds.DataS
-import Formalism.LocalRingCardinality.DataKernels
-import Formalism.HermitianLattices.StatementMaj
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.FStarCohPfD
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.EmbeddingIntegerAlgebraMap
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.LocModel
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.LocalDiscriminantIsUnit
 
 private lemma den_coprime_of_mul_eq {K V : Type*} [Field K] [NumberField K] [AddCommGroup V] [Module K V]
     [Module (NumberField.RingOfIntegers K) V] [IsScalarTower (NumberField.RingOfIntegers K) K V]

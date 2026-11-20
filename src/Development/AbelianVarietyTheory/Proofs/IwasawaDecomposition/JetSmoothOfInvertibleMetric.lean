@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HolSprayApply
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ContinuousAndSmul
 
 set_option autoImplicit false
 

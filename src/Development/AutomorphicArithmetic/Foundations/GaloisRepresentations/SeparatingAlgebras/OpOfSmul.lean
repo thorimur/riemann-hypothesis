@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SeparatingAlgebras.BlockBoundAlt
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsAlgebraicFormWeightLevelSmoothAtPlaceStatement
+import Development.AbelianVarietyTheory.Definitions.Divisors.GenTyL
 
 noncomputable section
 

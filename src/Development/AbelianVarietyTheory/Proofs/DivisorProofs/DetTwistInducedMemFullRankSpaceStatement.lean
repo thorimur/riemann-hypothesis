@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetTwistInducedMemFullRankSpace
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusThreeBlockApply
 open GlobalTheory.SmGL GlobalTheory.PRep GlobalTheory.LeviBlockExponent GlobalTheory.IndJacBlock
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.det_twist_induced_mem_full_rank_space : ∀ (k : Type) [Field k] [ValuativeRel k] [TopologicalSpace k] [IsNonarchimedeanLocalField k]

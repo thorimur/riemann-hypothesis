@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.WeaklyAdmissibleFiltrations.Statement
 
 theorem UpperTheory.Reformulated.B.Qf14.phi_mul :

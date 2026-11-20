@@ -1,8 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsArith
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherTail
 import GroundTheory.HeightsAndTheta.Heights.Intersections.IsMultiHomogFirstCoordinate
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterDivSupp
+import GroundTheory.HeightsAndTheta.Heights.Intersections.ProjLineRankTwoPushforwardHypotheses
 set_option maxSynthPendingDepth 1
 
 noncomputable section

@@ -1,7 +1,6 @@
 import Formalism.CharacterColumnKernels.StatementColKer
 import Formalism.CharacterColumnKernels.IdempotentNormalForms.LengthKerSmulLe
-import Formalism.CharacterColumnKernels.IdempotentNormalForms.LengthKerOfDetEqZero
-import Formalism.CharacterColumnKernels.IdempotentNormalForms.LengthEqKerAddRange
+import Mathlib.Algebra.Order.PUnit
 
 open Finset
 

@@ -1,7 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRelOneStep
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRelTorsionBound
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRelChartPoly
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

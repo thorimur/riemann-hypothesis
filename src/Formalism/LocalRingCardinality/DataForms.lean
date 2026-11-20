@@ -1,10 +1,9 @@
-import Mathlib
-import Formalism.LocalRingCardinality.Params
 import Formalism.LocalRingCardinality.DataHost
 import Formalism.LocalRingCardinality.DataCoeff
 import Formalism.LocalRingCardinality.DataArith
 import Formalism.LocalRingCardinality.DataKernels
 import Formalism.LocalRingCardinality.DataRows
+import Mathlib.NumberTheory.Harmonic.EulerMascheroni
 
 noncomputable section
 

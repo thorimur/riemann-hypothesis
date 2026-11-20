@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsSatVecUOfIsSphericalU
 
 namespace GlobalTheory.LFun

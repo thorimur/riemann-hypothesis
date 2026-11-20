@@ -1,6 +1,7 @@
-import Mathlib
-import GroundTheory.LocalFields.ArtinConductorInduced
 import GroundTheory.LocalFields.ConductorMatch
+import GroundTheory.LocalFields.ArtinConductor
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

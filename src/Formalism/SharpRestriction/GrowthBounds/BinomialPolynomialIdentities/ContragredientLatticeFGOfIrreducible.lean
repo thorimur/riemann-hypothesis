@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.NablaDualLatticeOfIrreducibleLowestGenerated
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

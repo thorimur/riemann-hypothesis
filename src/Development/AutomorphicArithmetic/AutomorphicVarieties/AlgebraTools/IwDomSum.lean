@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HeckePairTop
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.IwLeviSum
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.IwFactTorus
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.IwHkApply

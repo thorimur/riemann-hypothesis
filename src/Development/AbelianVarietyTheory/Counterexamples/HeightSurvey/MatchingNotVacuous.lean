@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.ThetaFramePf
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ChartPullbacks.CubePullbacks.CubePull
+import Formalism.LocalToGlobal.ProjectiveLattices.IntFrames
 
 noncomputable section
 

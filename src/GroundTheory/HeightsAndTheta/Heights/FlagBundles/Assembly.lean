@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PUnipotentLeadingMinor
-import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PUnipotentCoordinates
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PPluckerFrameChange
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PGramSumOfMinors
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.POmitStepPolynomial
@@ -12,9 +10,6 @@ import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PBlochOverlap
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PSectionNormLog
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PGKernelIdentity
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PMixedCoefficient
-import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PSphereHeightUniform
-import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PSphereMoment
-import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PFibrePushforward
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PZonalKernel
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PSphereLongitudeCoordinates
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.PZonalHeightReduction

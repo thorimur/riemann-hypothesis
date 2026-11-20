@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.ExistsIntEKMulVbar
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField

@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BlowPolSt
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.SiegelToroidalIntegral
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ToroidalChartsForFan
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SysExOfPolEx
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PolExStOfPublished
 

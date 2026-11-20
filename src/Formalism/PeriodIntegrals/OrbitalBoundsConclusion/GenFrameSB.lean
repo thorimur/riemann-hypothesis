@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.NablaSpans.MinorProdSpanHasCompl
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MonomialFrameSpan.GenFrameSBOfSpan
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MonomialFrameSpan.BasisMonomialsApply
 

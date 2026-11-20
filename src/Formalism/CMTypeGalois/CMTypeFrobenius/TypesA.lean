@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.CMTypeGalois.StatementGroup
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Finset
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.Algebraicity
 
 open NumberField Module WeierstrassCurve GroundTheory.Arith.Abelian

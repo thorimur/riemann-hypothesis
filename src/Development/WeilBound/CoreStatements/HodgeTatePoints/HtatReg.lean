@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IntegralClosureHeightEqOneOfLiesOver
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HcptgenRing
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HcptgenChart

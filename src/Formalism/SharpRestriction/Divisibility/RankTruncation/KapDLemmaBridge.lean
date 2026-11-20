@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.LiftErrorLocal
-import Formalism.LocalRingCardinality.DataKap
 import Formalism.SharpRestriction.Divisibility.RankTruncation.KapDLemma
 
 namespace ConditionalKappaBounds.KapD

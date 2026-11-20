@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.RatDatOfReal
 import Formalism.LocalToGlobal.IndefiniteReal.TrISepWith
 
 noncomputable section

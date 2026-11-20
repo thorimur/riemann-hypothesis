@@ -1,12 +1,10 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.GLinkQuot
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.LevelS
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.InflKer
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.TameEq
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.IsClosedOfClosedFiniteIndex
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.PtTail
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.GlobEuler
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.DecZhat
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.QuotProf
+import Mathlib.Topology.Algebra.ProperAction.Basic
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Module UpperTheory.V UpperTheory.V.Fr UpperTheory.V.GC
 

@@ -1,7 +1,8 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CyclicCupDefs
-import GroundTheory.TateCohomology.TateLow
 import GroundTheory.TateCohomology.TateZeroClass
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.Data.Rat.Star
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

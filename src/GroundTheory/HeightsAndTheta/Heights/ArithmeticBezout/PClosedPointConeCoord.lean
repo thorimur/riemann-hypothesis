@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsClosedPointConeCoord
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.KrullDimension.NonZeroDivisors
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

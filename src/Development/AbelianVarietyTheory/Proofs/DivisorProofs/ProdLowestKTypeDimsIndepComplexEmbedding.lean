@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.OneMeasureSizes
 import Formalism.LocalToGlobal.IndefiniteReal.FockTheta.ParabolicAtStandardWeylElement
 import Development.AbelianVarietyTheory.Counterexamples.TwistSurvey.ConjModelCast

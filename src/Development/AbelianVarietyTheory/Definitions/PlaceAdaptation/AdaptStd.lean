@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.ExistsSecTieFOfTies
-import Formalism.LocalToGlobal.ProjectiveLattices.PlaceBelow
-import Formalism.LocalToGlobal.ProjectiveLattices.ThShort
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ThExprUniqOfChartIndep2
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.GermExCut
 
 set_option autoImplicit false

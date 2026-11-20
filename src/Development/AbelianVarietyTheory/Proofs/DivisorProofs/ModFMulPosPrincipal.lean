@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.PairingDivisors.StatementA
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsFinSetSplitPlacesCoprimeConductor
+import Development.AbelianVarietyTheory.Definitions.Divisors.EntireEqOfHalfPlane
+import Mathlib.Algebra.AffineMonoid.Basic
 
 open NumberField IsDedekindDomain GlobalTheory.CMVal
 

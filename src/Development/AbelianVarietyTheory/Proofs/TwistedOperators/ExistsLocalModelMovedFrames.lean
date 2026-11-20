@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.EpsVEqOne
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsInvariantForm
 
 noncomputable section
 

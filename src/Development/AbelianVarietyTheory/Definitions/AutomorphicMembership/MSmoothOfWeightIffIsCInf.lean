@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.CxStage
 
 set_option autoImplicit false

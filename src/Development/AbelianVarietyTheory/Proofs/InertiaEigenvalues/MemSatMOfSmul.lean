@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
 
 namespace GlobalTheory.NL.Coker

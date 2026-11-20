@@ -1,6 +1,10 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.GCauchyStatement
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.DifferentiableOnOfTendstoLocallyUniformlyOn
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.AlgebraicTopology.FundamentalGroupoid.SimplyConnected
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.Convex.Contractible
+import Mathlib.RingTheory.PicardGroup
 
 open Complex ReciprocityTheory.ChartRestriction.G.I2 Filter Topology
 

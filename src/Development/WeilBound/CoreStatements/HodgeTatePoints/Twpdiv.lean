@@ -1,6 +1,7 @@
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.IsPolLatticePlane
 import Development.WeilBound.CoreStatements.HodgeTatePoints.TwpdivHopf
 import Development.WeilBound.CoreStatements.HodgeTatePoints.TwpdivTate
+import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.PairingExtends
+import Mathlib.GroupTheory.IndexNSmul
 
 noncomputable section
 

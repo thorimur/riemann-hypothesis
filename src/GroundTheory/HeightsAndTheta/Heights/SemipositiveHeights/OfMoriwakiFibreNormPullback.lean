@@ -1,24 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.IsConjInvariantHZcomb
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PUpperNormalisation
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PMonomialShift
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PNefOnGenericOfSemipos
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.AssemblyBase
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PSmallGenHeightsNonneg
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.MoriwakiHSFull
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSecEq
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PConductor
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PRootGridLower
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PGridSeparation
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PNormalLocusRep
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PFibreNormBound
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PProjAvoidingForm
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSegreArith
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PFibreRepresentatives
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PAvoidFormFinite
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PFibreNormMax
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PMetricMaxComparison
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.MoriwakiSt
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.ForSecondHalf

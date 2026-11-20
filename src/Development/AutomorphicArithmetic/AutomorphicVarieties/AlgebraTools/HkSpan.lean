@@ -1,6 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkDefs
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkBern
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkInd
 
 open MvPolynomial Equiv UpperTheory.V.AlgebraTools.Hk
 

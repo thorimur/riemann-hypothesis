@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.GlobalFields.NormResidueSymbol.CyclotomicBase
 import GroundTheory.GlobalFields.IdeleClassGroup.InvariantsGalois
+import GroundTheory.GlobalFields.NormResidueSymbol.Functorial
+import GroundTheory.GlobalFields.NormResidueSymbol.Surjective
 
 namespace GroundTheory.Global
 

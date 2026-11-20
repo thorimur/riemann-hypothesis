@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank.RankHomology
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelGenB
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.KLevTop
 
 open NumberField IsDedekindDomain GlobalTheory.CuspRep UpperTheory.V.Af
 

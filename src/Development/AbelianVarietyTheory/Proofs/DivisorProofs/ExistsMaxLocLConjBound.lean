@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.UnrOutside
 
 open Complex ComplexConjugate

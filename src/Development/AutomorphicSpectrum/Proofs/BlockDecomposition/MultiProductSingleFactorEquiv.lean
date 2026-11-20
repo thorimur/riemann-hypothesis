@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClOfSelf
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.GeometricLemmaCellOneBlockSwapEquiv
 

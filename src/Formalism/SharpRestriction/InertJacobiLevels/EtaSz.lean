@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.InertJacobiLevels.ExistsLarge
-import Formalism.SharpRestriction.InertJacobiLevels.TiesAtY
+import Formalism.SharpRestriction.InertJacobiLevels.AsmIface
+import Formalism.SharpRestriction.InertJacobiLevels.TiesAsm
 
 noncomputable section
 

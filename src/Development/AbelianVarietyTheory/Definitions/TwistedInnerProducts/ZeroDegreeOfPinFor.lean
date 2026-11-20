@@ -1,7 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.HeckePin
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsFamilyIffRationalHecke
 import Development.AbelianVarietyTheory.Statements.HeckeThetaIntegrals.ExistsIsHeckeSetting
+import Formalism.LocalToGlobal.IndefiniteReal.ConcretePkgSpec
+import Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.NHkRow
 
 set_option autoImplicit false
 

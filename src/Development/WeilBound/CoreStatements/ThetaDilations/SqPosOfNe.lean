@@ -1,4 +1,8 @@
 import Development.WeilBound.CoreStatements.ThetaDilations.IsOpenCoset
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open MeasureTheory Topology Set Matrix
 open scoped ENNReal ComplexConjugate MatrixGroups

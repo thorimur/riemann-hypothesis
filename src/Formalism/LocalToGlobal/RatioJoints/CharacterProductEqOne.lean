@@ -1,7 +1,5 @@
 import Formalism.LocalToGlobal.ClassS
 import Formalism.LocalToGlobal.RatioJoints.IsRatioAt
-import Formalism.LocalToGlobal.UnitaryNorms.CharDiv
-import Formalism.LocalToGlobal.JointCharacters.SameChr
 
 noncomputable section
 

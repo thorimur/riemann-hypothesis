@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UpqRep
 import Formalism.PeriodIntegrals.KFinSmooth
 import Formalism.PeriodIntegrals.HCMult
 

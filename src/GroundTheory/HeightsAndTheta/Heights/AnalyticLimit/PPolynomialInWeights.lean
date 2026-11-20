@@ -1,6 +1,6 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.PotentialTheory.PotentialContDiffAt
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.ConvergenceStatements
+import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.EnergySum
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.AnalyticLimit

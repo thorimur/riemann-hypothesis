@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsBlockOrderedSumEquivTrueIndex
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.VecOfMulToMatMul
 
 noncomputable section

@@ -1,6 +1,7 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyGlue
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyDelta
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePSplitLA
+import Formalism.LocalToGlobal.CharacterGerms.RowTiePProjFBTop
 
 namespace Formalism.L2.FormalSeriesBounds
 

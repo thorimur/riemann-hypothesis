@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.PExtra
-import Formalism.SharpRestriction.GlobalSchurBounds.ThickPlacesCorollaryOfAnyTranslate
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExactRanksOfRecord
 open Formalism.BasicNotions Formalism.MainNotions
 

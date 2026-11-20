@@ -1,5 +1,11 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.IrreducibleConnected.StEntirePolynomialGrowth
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Complex.RemovableSingularity
+import Mathlib.LinearAlgebra.Lagrange
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

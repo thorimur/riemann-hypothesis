@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ZeroOfAe
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.L2NormScaling
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.BesselNeZeroOfCyclicOrbit
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.SmoothAdd
 
 open MeasureTheory Matrix
 open scoped InnerProductSpace ENNReal

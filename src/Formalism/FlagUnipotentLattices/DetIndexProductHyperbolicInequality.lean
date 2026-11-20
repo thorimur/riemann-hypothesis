@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HyperbolicPlaceProducts.Statement
 import Formalism.HyperbolicPlaceProducts.DetIndexProductHyperbolicInequality
 

@@ -2,6 +2,8 @@ import ReciprocityTheory.ClassFieldTheory.LocalClassField.UnrDefs
 import Lemmata.PadicNatCastNorm.NormNatCastOfNotDvd
 import Lemmata.FirstBlockLemmaC.Imports
 import Lemmata.FirstBlockLemmaD.Imports
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.NumberTheory.Padics.ProperSpace
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions
 

@@ -1,7 +1,7 @@
-import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.RankDiagIte
-import Formalism.WachLatticeTwists.RamifiedBlockRings.RightIdealImageOfSurjective
-import Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.BridgeDet
-import Formalism.CharacterColumnKernels.IdempotentNormalForms.IsUnitDetOfConst
+import Formalism.CharacterColumnKernels.IdempotentNormalForms.GlobalConcreteOf
+import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.RingDataObjects
+import Formalism.WachLatticeTwists.RamifiedBlockRings.Statement
+import Mathlib.RingTheory.PiTensorProduct
 
 open Finset Classical
 

@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.TraceLatticeLeThetaLatticeAtPlace
-import Formalism.LocalToGlobal.IndefiniteReal.ThPinsR
+import Development.AbelianVarietyTheory.Definitions.Foundations.ThetaSeriesTies
 
 set_option autoImplicit false
 

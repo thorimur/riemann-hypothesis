@@ -1,8 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GL2.IdeleModuleDetOfMemMaxCompact
 import GroundTheory.AutomorphicForms.GL2.GJMatrixAdelic
-import GroundTheory.AutomorphicForms.ReductionIwasawa
-import GroundTheory.AutomorphicForms.ReductionHeight
+import GroundTheory.AutomorphicForms.ReductionMahler
 
 set_option maxSynthPendingDepth 1
 

@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CellFunctorOfCharCentral
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SizeMatrixCharacterSlotExistsStatement
+import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.GeometricLemmaFiltration
 
 noncomputable section
 

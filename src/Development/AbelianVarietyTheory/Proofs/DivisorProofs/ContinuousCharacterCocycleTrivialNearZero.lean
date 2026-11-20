@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ImportsTerMore
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

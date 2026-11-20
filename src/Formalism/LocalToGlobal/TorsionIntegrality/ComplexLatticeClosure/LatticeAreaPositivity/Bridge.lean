@@ -1,5 +1,7 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.ComplexLatticeClosure.IsLatClosure
 import Formalism.LocalToGlobal.TorsionIntegrality.ComplexLatticeClosure.ExistsInitialThetaValue
+import Formalism.LocalToGlobal.GlobalTheory.GL3.CubicFields.PeriodRelations.BrLamConjEq
+import Formalism.LocalToGlobal.GlobalTheory.GL3.CubicFields.PeriodRelations.ConjCls
 
 noncomputable section
 

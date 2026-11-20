@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.LocalFields.BrauerInductionCharacters
 import GroundTheory.LocalFields.BrauerInductionInduced
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

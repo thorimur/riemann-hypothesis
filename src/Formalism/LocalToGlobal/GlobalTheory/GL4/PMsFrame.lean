@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL4.PLinks
+import Formalism.SharpRestriction.GlobalSchurBounds.FlipTwoThree
 
 noncomputable section
 

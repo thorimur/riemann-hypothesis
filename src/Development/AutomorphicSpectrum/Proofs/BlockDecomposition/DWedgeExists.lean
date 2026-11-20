@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.HodgeSurjectivity.FormLaws
 
 open CrystallineSemistableComparison.Onto

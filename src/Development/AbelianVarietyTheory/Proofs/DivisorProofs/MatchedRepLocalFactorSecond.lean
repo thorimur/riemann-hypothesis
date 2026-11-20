@@ -1,9 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsMaxThOne
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemFinPt
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTranspAlt
 import Development.AutomorphicArithmetic.LocalEmbeddings.IterateDopSum
 import Development.AutomorphicArithmetic.LocalEmbeddings.SmoothInfTransp
 open NumberField IsDedekindDomain Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes GlobalTheory.WeilM GlobalTheory.AdelicU GlobalTheory.LFun GlobalTheory.IndefiniteRowSideFullHecke.WeilTensorModels GlobalTheory.ThK

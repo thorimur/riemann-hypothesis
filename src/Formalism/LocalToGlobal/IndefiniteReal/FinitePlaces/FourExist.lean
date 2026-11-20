@@ -1,4 +1,6 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.FourModel
+import Mathlib.RingTheory.PiTensorProduct
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option linter.style.haveILetI false
 

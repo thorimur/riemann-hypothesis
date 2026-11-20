@@ -4,6 +4,8 @@ import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FiniteExtensionTopology
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FiniteExtensionTopology.ExpCongruenceExtendsToSum
 import Formalism.AdicCompletionExports.AdicCompleteRingEquiv.IsAdicCompleteOfRingEquiv
 import Development.AutomorphicArithmetic.CyclotomicBounds.FactorizationConductorLeLocalLevel
+import Formalism.SharpRestriction.LevelLetterCocycles.GoodCongruenceDataOf
+import Mathlib.NumberTheory.Padics.ProperSpace
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

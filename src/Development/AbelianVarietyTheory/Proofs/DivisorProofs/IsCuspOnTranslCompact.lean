@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsSquareIntegrableIffMemL2
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsConstAlongSingleton
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AutomorphicConjMaxCompact
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AutomorphicFiniteTranslate
 open scoped TensorProduct NNReal Matrix ComplexConjugate

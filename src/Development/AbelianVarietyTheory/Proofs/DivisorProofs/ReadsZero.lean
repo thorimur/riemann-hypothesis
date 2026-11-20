@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.HtValOnSubset
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.FramedFlatCoordinates
 import Formalism.LocalToGlobal.ProjectiveLattices.IsChartIff
+import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsFlatSecRankZero
 
 set_option autoImplicit false
 

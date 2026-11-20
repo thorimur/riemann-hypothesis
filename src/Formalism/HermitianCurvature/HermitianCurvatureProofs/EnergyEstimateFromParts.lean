@@ -1,6 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.WeightedL2ConstMul
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.Cauchy
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.Markov
+import Mathlib.Algebra.Order.Field.GeomSum
 
 namespace Formalism.FourierDecayAlt.P
 

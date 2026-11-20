@@ -1,4 +1,3 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.CovOfPoints
 import Development.EtaleCohomology.EtaleSheaves.RelativeCohomologyForgetInjectiveDegreeZeroOfSub
 import Development.EtaleCohomology.EtaleSheaves.SecondDegreeKilling.LeafKill2Of
@@ -6,6 +5,7 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCofilteredLim
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsStrictlyHenselianEtaleStalkOverPointStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtaleSheafSectionsSepGlueOfSurjectiveFamily
 import Development.EtaleCohomology.EtaleDuality.TASCohSplitPfEmpty
+import Mathlib.AlgebraicGeometry.AffineTransitionLimit
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

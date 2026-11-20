@@ -1,6 +1,9 @@
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DeformationCaseFiniteComponents
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.LiftLambdaBound
+import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.GeneralDiagonalMatrix
+import Development.AbelianVarietyTheory.Definitions.Divisors.EigLatLe
+import Development.AbelianVarietyTheory.Definitions.Divisors.QuoIff
+import Development.AbelianVarietyTheory.Definitions.Divisors.UnifOfSpaceEq
+import Formalism.LocalToGlobal.ProjectiveLattices.ModelAt
 
 set_option synthInstance.maxHeartbeats 200000
 

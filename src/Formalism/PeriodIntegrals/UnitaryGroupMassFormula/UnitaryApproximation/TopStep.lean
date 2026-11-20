@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryApproximation.MemIntOEOfIsIntegral
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryApproximation.Development
 

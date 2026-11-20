@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualStackedDegree
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualLatticeIndex
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualTopLatticeChange
@@ -6,6 +5,7 @@ import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesGenIndexTrans
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesGenIndexDet
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesLatticeBasis
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesIsLattice
+import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualTopStacked
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

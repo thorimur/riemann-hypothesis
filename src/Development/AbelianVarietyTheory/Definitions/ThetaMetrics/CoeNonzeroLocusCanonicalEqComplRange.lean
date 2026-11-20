@@ -1,6 +1,6 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.DivSheaf
 import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.IsRegularFnIffOfIsAffineOpen
+import Mathlib.AlgebraicGeometry.Morphisms.WeaklyEtale
 
 set_option autoImplicit false
 

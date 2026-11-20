@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LowKAllPos
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
 
 open Matrix Finset
 

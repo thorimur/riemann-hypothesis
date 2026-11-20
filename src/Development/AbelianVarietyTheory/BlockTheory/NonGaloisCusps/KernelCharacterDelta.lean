@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.PowerSeriesOneAddConstMulXMulInv
+import Mathlib.NumberTheory.Padics.MahlerBasis
+import Mathlib.RingTheory.PowerSeries.Binomial
 
 noncomputable section
 namespace GlobalTheory.IndefiniteRowSideFullHecke.FrobeniusBinomialReduction

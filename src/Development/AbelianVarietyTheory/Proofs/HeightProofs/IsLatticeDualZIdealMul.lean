@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.WeightFamilies
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.CuspFormNormData
 
 open NumberField Matrix Formalism.BasicNotions GlobalTheory.IndefiniteRowSideFullHecke.TotallyPositiveExponents GlobalTheory.IndefiniteRowSideFullHecke.CuspFormFieldDegree

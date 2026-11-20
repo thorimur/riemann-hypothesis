@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzTensorRightOperator
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasTemperateGrowthElim
 
 open GlobalTheory.SliceSchwartz
 set_option maxHeartbeats 1000000 in

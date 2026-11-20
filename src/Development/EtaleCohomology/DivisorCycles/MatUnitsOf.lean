@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.DivisorCycles.CycleCount
+import Mathlib.RingTheory.TotallySplit
 
 open Matrix
 

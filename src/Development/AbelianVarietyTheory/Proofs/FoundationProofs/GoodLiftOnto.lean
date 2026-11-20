@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.ThetaSeriesTies
-import Formalism.LocalToGlobal.IndefiniteReal.ConcretePkgSpec
-import Formalism.LocalToGlobal.Columns.CoefColLemmas
 
 set_option autoImplicit false
 

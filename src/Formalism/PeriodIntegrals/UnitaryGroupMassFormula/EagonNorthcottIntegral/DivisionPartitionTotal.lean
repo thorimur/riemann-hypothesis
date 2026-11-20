@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.YHom
 
 noncomputable section

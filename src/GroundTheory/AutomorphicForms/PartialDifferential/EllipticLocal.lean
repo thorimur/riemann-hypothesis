@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.PartialDifferential.EllipticOperators
+import Mathlib.Topology.MetricSpace.Contracting
 
 namespace GroundTheory.Automorphic.Sobolev
 

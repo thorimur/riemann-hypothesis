@@ -1,11 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.PlaceDegreeData
 import Development.AbelianVarietyTheory.BlockTheory.SiegelWeilLocal.UnitarySchurProjector
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SesqEqZeroOfDiagEqZero
-import Development.AbelianVarietyTheory.Statements.CuspFrameWeights.EigenfunctionFiniteCoefficients
-import Formalism.RealPlaceAnalysis.FinalF
-import Formalism.SharpRestriction.CuspSpanNormBounds.CayleySignature
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.SchurOrthogonalityIndefiniteUnitaryGroup
 
 open MeasureTheory Formalism.MainNotions.S Formalism.MainNotions.PlaceDegreeData GlobalTheory.IndefiniteRowSideFullHecke.UnitarySchurOrthogonality
 open scoped InnerProductSpace

@@ -1,7 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.QLocTied
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.HostPins
-import Formalism.DoubleCosetMeasures.LatticeCoset
+import Formalism.SharpRestriction.Divisibility.ZetaProductPairs
+import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Card
 
 open MeasureTheory Matrix NumberField IsDedekindDomain Formalism.BasicNotions Formalism.DoubleCosetMeasures Formalism.L2.Host Formalism.L2.DIV Formalism.L2.DIV.QLoc GlobalTheory.Mem.HD
 

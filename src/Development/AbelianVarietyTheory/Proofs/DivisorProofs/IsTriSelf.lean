@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.GrNormCompCast
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniREqUni
+import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsIsEffAddNsmulDiv
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 set_option autoImplicit false
 

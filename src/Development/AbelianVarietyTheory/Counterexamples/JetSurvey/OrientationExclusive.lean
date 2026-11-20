@@ -1,8 +1,5 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.H1algStatement
-import Formalism.LocalToGlobal.ProjectiveLattices.DepRun
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.SpanResCharNeBot
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.WeightFloorInequalities
+import Formalism.LocalToGlobal.ProjectiveLattices.PartitionExtendByZeroAntitone
+import Formalism.SharpRestriction.Divisibility.AbelianOpenPart.OEOsInjective
 
 noncomputable section
 

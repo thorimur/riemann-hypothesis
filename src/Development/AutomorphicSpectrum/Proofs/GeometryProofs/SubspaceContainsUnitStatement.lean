@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.SubspaceContainsUnit
-import Mathlib
 open scoped TensorProduct
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.subspace_contains_unit : ∀ (k : Type) [Field k] [IsAlgClosed k] (R : Type) [CommRing R] [Algebra k R] [Module.Finite k R]

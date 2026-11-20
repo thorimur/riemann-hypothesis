@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.EllipticTorsion.JetsCube
 
 open PowerSeries

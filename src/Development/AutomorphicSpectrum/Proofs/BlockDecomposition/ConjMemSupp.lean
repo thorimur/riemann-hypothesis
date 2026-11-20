@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PlaneSupports.PlaneSupp
 
 noncomputable section

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.RecTExists
+import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.DepthZeroTypeInertia
 
 noncomputable section
 

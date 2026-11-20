@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnnihilatorOpenCompact
 open Matrix
 open scoped Topology

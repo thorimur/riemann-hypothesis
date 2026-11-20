@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsAdelicSplit
 import GroundTheory.HeightsAndTheta.Theta.RealPlace
 

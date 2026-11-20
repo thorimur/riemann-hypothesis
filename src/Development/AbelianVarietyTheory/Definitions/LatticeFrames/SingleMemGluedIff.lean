@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.IntOfKeeps
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.PlacedP
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSmulOfMemFlagSubOne
-import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FinitePartTraceCharacterIdempotentInverseDiffere
 
 noncomputable section
 

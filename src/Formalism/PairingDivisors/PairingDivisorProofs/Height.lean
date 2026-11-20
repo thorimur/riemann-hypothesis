@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PairingDivisors.PairingDivisorProofs.SumValuationNat
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Module NumberField IsDedekindDomain Finset
 open Formalism.DivisionValues (vw lw conjPl)

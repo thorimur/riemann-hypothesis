@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LeadMinor
-import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PLatticesAgree
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PHeightOneIntersection
+import Mathlib.Algebra.Module.Lattice
 
 open Module NumberField GlobalTheory.CompanionTheory.Ar.HT TensorProduct
 

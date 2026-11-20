@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.SmoothMapLocalizationCompat
-import Mathlib
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.smooth_map_localization_compat : ∀ (Ω₀ Ω : Type) [Field Ω₀] [Field Ω] [CharZero Ω₀] [CharZero Ω] [Algebra Ω₀ Ω] (A₀ : Subalgebra ℤ Ω₀)
     (A₁ : Subalgebra ℤ Ω) (φ : A₀ →+* A₁), (∀ a, ((φ a : A₁) : Ω) = algebraMap Ω₀ Ω a) → φ.Smooth →

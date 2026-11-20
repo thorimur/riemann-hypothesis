@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalEndomorphisms.ValSurjective
 
 open NumberField IsDedekindDomain Uniformity

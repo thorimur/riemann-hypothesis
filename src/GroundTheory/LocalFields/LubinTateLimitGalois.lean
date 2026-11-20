@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.LocalFields.LubinTateTowerMaps
-import GroundTheory.LocalFields.ExamplesLaurent
+import Mathlib.Topology.Algebra.Ring.Compact
 
 noncomputable section
 

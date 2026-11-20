@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.GrowthSums.StatementA
 
 noncomputable section

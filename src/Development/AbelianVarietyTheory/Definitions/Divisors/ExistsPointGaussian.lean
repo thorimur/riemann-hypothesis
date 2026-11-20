@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.HodgeTateLatticePointFinrankTateModule
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.IsPowPolAVPowPolOf
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsMatrixOrderActionOnPower
+import Mathlib.NumberTheory.Zsqrtd.GaussianInt
 
 set_option autoImplicit false
 

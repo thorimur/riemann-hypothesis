@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsL2OnDiagonalOfIsL2Metric
 
 open CategoryTheory AlgebraicGeometry Set Matrix MeasureTheory MonObj

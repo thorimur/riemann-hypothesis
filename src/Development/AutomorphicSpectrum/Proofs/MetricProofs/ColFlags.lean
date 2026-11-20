@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Statements.MetricStatements.ExistsFlagModelBaseMetric
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.CoordTieCompEquiv
 

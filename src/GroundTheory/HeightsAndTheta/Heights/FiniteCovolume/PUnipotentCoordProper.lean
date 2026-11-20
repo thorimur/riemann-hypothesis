@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.HermitianOrthogonal
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StUnipotentCoordProper
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PHermAtPlace
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.IsAlgebraicOfTrdegEq
 import Formalism.LocalToGlobal.ProjectiveLattices.FreeBridge
 import Development.AbelianVarietyTheory.Proofs.GenericRegularity.ExistsCuspOfIntegralAll

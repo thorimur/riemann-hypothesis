@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.LatticeBasics.IsCompactIntV
 import Development.AutomorphicSpectrum.Proofs.TwistedProofs.ExtensionEmbeddingEvInfRealAd
 import Development.AutomorphicSpectrum.Proofs.TwistedProofs.EqZeroOfPiInf

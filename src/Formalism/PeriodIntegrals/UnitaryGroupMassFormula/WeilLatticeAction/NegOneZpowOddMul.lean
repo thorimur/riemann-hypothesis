@@ -1,4 +1,6 @@
 import Formalism.PeriodIntegrals.WOnLatG
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace PI.UnitaryGroupMassFormula.WOnLatG
 

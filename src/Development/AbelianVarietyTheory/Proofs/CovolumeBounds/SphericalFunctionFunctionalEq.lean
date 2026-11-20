@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.IsKMeas
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.GramPositiveVolumeContinuousStatement
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.KsetTransitiveStatement
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.HalfVolumeEquivariantStatement

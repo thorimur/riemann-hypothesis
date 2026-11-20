@@ -1,8 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HeckeTateFunctionalEquationCM
-import GroundTheory.GlobalFields.TateThesis.RootNumberLocalFinite
-import GroundTheory.GlobalFields.AnalyticClassNumber.HeckeContinued
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.ContinuousIdeleCircle
+import Development.AbelianVarietyTheory.Definitions.Divisors.EntireEqOfHalfPlane
+import GroundTheory.GlobalFields.TateThesis.NonvanishingPrimes
 
 noncomputable section
 

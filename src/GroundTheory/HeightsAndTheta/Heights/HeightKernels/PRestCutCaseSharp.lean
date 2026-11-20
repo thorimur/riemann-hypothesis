@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsRest
+import Mathlib.Tactic.Monotonicity.Lemmas
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

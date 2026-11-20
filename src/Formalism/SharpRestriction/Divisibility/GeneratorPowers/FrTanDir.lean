@@ -1,6 +1,6 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanPf
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.BoxTuple
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanDirAlg
+import Formalism.LocalToGlobal.ProjectiveLattices.EmbKCoe
+import Formalism.LocalToGlobal.ProjectiveLattices.OneLtAbsNormReal
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 set_option autoImplicit false
 

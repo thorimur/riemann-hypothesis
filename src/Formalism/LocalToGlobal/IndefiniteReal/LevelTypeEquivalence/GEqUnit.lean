@@ -1,8 +1,3 @@
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.GEqBase
-import Formalism.LocalToGlobal.IndefiniteReal.MultLemmas
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.IoUniq
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.GEqMain
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.RightInv
 import Formalism.LocalToGlobal.Divisibility.DefGroupLemmas
 
 noncomputable section

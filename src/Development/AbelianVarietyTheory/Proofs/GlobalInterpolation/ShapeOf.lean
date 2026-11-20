@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.TopShape
+import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.APerTw
+import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DRS
 open Formalism.BasicNotions Formalism.MainNotions GlobalTheory.Fc
 
 set_option maxHeartbeats 4000000 in

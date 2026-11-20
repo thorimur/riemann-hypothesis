@@ -1,6 +1,4 @@
 import Formalism.SharpRestriction.GlobalSchurBounds.ProductFirstZerothParts
-import Formalism.LocalRingCardinality.DataKerP
-import Formalism.LocalRingCardinality.DataDIV
 import Formalism.SharpRestriction.GrowthBounds.WeilJacquetShalikaLaw
 
 noncomputable section

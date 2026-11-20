@@ -1,6 +1,17 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.Objects
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.BundleObjects
+import Mathlib.Algebra.Category.ModuleCat.Sheaf.PullbackFree
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Algebra.Module.Submodule.Order
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.AlgebraicGeometry.Modules.Sheaf
+import Mathlib.AlgebraicGeometry.Morphisms.WeaklyEtale
+import Mathlib.AlgebraicGeometry.Normalization
+import Mathlib.AlgebraicGeometry.QuasiAffine
+import Mathlib.CategoryTheory.Sites.LocalSite
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.NumberTheory.Padics.PadicIntegers
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PicardGroup
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Model

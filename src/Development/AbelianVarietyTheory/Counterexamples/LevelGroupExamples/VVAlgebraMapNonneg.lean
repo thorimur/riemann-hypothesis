@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.IntAllFree
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 
 noncomputable section
 

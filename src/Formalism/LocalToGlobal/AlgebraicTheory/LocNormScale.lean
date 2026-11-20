@@ -1,11 +1,8 @@
 import Formalism.LocalToGlobal.AlgebraicTheory.SplitPlaceScaledBound
-import Formalism.LocalToGlobal.AlgebraicTheory.AlgebraicTheoryProofs.LinearSubstitutionDiagonal
 import Formalism.LocalToGlobal.AlgebraicTheory.AlgebraicTheoryProofs.KernelIndexForm
 import Formalism.LocalToGlobal.AlgebraicTheory.AlgebraicTheoryProofs.CardTwoSidedQuotient
 import Formalism.LocalToGlobal.AlgebraicTheory.AlgebraicTheoryProofs.KerHalf
 import Formalism.LocalToGlobal.AlgebraicTheory.AlgebraicTheoryProofs.KerJet
-import Formalism.LocalToGlobal.AlgebraicTheory.AlgebraicTheoryProofs.NormInter
-import Formalism.LocalToGlobal.AlgebraicTheory.AlgebraicTheoryProofs.NormPow
 
 namespace Formalism.L2.AlgTh
 

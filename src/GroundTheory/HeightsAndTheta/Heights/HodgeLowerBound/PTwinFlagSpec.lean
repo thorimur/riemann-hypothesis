@@ -1,8 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.HypLineFurther
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.HypLineMore
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.HypLineBis
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.HypLineAlt
+import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.Values
 set_option maxSynthPendingDepth 1
 
 noncomputable section

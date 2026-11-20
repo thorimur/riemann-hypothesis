@@ -1,4 +1,5 @@
-import Development.AbelianVarietyTheory.Definitions.SpanningFamilies.IsHeatZero
+import Development.AbelianVarietyTheory.Definitions.SpanningFamilies.FirstCoordinateAdmissible
+import Mathlib.Analysis.Matrix.PosDef
 
 open Matrix Complex Unitary
 open scoped ComplexOrder

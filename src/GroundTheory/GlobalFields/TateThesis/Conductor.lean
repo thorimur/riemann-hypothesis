@@ -1,7 +1,6 @@
-import Mathlib
-import GroundTheory.GlobalFields.IdeleGroups.InfiniteProjInfiniteEmbeddingOfNe
 import GroundTheory.GlobalFields.IdeleGroups.Restricted
 import GroundTheory.GlobalFields.TateThesis.LocalConductor
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Topology Filter NumberField IsDedekindDomain Function
 open scoped NumberField.AdeleRing RestrictedProduct

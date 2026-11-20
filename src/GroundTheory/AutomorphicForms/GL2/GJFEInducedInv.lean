@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GL2.GJFEDefs
+import GroundTheory.AutomorphicForms.MeasuresChart
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 noncomputable section
 

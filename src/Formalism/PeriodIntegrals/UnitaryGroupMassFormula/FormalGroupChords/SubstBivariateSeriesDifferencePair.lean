@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.FglChordFactor
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FormalGroupChords.DerivativeFlog
 
 noncomputable section

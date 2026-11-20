@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutHL2
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.BaseIndexConstantInjective
 
 open Matrix
 open scoped ComplexConjugate

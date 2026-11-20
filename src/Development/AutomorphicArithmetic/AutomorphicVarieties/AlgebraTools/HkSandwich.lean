@@ -1,12 +1,8 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkDefs
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.SwapOne
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkDedekind
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkBern
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.SwapOneAlt
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkDdSpec
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.DeEqDet
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.EqOneOfStrictMono
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkInd
+import Mathlib.Algebra.AffineMonoid.UniqueSums
 
 open MvPolynomial Equiv UpperTheory.V.AlgebraTools.Hk
 

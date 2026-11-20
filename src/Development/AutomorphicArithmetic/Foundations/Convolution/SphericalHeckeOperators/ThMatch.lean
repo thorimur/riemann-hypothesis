@@ -1,5 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SymSum
-import Development.AutomorphicArithmetic.Foundations.Convolution.TwistedLocalOrbits.Match
 import Development.AutomorphicArithmetic.Foundations.Convolution.TwistedLocalOrbits.ElemMatch
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DefBridge
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.UnrQ

@@ -1,8 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEX2
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutHBPts
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BlockTwoDiagonalZeroSize
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.AestronglyMeasurableGermIntegrand
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.Block3MulBlocks
 
 noncomputable section
 

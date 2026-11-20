@@ -1,6 +1,3 @@
-import Mathlib
-import GroundTheory.LocalFields.LowerIndex
-import GroundTheory.LocalFields.IntermediateField
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.RamificationLowerIndex
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CapelliComplements.GeneralBFactAlt
 

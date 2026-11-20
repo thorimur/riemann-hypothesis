@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.Live
 
 set_option genSizeOfSpec false

@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.EtaleClopenDescent.BothToSecondRelation
 import Development.AutomorphicArithmetic.CommutativeAlgebra.EquivOfAffineBijective
+import Development.EtaleCohomology.EtaleSheaves.LeafChartRing
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.t_E6Cut UpperTheory.Aff
 
 theorem UpperTheory.representable_of_affine :

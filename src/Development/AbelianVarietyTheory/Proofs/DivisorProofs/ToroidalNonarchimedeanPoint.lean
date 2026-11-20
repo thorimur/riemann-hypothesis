@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BlockUniOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentFrameAtIntegralPoint
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsEquivOfIsGrpPullback
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RegFlagged
 
 set_option autoImplicit false
 

@@ -1,4 +1,5 @@
 import CompanionTheory.ThickeningEstimates.LieGroupReduction.IsoOfIntegral
+import CompanionTheory.ThickeningEstimates.LieGroupReduction.HasDerivAtSchwartzToL2
 
 noncomputable section
 

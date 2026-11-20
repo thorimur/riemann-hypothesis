@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.ExistenceOfLattices.PermutesRefl
-import Formalism.LocalToGlobal.ProjectiveLattices.UnFree
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.PrincipalRootReZeroImSq
 
 open NumberField

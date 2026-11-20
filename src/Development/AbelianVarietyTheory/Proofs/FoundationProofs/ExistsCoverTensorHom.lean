@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.BesselHermitianTheta.AllTied
+import Formalism.LocalRingCardinality.DataTheta
 
 open Formalism.BasicNotions Formalism.BasicNotions.TH Formalism.L2.Theta MeasureTheory
 open scoped Matrix Kronecker

@@ -1,5 +1,7 @@
 import Formalism.HermitianCurvature.StatementKB
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.TheoremPIntegralOfPlaces
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.Fourier.Inversion
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open MeasureTheory Filter Topology Real NumberField
 open scoped FourierTransform RealInnerProductSpace ComplexConjugate

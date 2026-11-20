@@ -1,6 +1,7 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AnalyticDeterminants.ContDiffOnSecondCayleyBlockEntries
 import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AnalyticDeterminants.IteratedFderivRightTranslation
+import Mathlib.Analysis.Calculus.FDeriv.ContinuousMultilinearMap
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
 
 noncomputable section
 

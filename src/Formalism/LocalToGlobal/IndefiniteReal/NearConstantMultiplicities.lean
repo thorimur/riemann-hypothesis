@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.PackageFromPrimitiveStatements
 import Formalism.LocalToGlobal.IndefiniteReal.CutPassage3
 

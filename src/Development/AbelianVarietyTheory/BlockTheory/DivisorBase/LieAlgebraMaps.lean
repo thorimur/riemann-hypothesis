@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.StAvDefs
 
 set_option autoImplicit false

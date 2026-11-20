@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.FrobeniusStableSubspaceElement
-import Mathlib
 open scoped TensorProduct
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.frobenius_stable_subspace_element : ∀ (k : Type) [Field k] [IsAlgClosed k] (p : ℕ) [Fact p.Prime] [CharP k p]

@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Theta.WeilNonarch
-import GroundTheory.LocalFields.LocalZeta
 
 noncomputable section
 

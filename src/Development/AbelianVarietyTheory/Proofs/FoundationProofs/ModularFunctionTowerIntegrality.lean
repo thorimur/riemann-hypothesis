@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.EigenOfTwoStep
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.OverAffineJLineComapSlGalStatement
+import Mathlib.Topology.Sheaves.Presheaf
 open scoped MatrixGroups TensorProduct
 open Matrix GlobalTheory.KZ
 

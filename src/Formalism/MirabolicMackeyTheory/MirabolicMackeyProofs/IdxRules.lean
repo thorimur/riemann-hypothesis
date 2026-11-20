@@ -1,8 +1,4 @@
-import Mathlib
 import Formalism.MirabolicMackeyTheory.StatementL
-import Formalism.HermitianLattices.HermitianLatticesProofs.LocBasic
-import Formalism.HermitianLattices.HermitianLatticesProofs.IndexBasic
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ImageLcv
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.IdxChange
 
 open Module NumberField IsDedekindDomain

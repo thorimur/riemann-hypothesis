@@ -1,7 +1,12 @@
-import Mathlib
-import Formalism.SatakeDualWeyl.Statement
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.RationalPointsLeHolds
 import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.ClassAct
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.InnerProductSpace.Dual
+import Mathlib.NumberTheory.NumberField.InfiniteAdeleRing
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

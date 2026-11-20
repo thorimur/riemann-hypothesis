@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.NcLgpLe
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.NcIotaInj
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.StmtNumEOf
 
 noncomputable section
 

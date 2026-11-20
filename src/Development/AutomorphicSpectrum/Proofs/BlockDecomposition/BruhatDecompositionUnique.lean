@@ -1,5 +1,9 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.FiniteTypeHarishChandra.SupportExistsAll
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open ReciprocityTheory.Ty.Fin Formalism.IrreducibleCountingLemmas.TYPES
 

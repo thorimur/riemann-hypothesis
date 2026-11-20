@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.DisintegrationDensityExists
 
 open MeasureTheory Topology Set

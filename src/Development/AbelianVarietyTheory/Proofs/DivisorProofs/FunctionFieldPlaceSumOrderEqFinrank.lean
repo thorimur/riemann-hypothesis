@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsAdmissibleIntegralBasisChangeOne
-import GroundTheory.FunctionField.PlaceSum
 
 set_option autoImplicit false
 

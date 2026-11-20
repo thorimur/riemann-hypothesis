@@ -1,8 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCutOffTube
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StTubeFormCompare
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StTubeEuclMass
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSheetSumMeasurable
+import Mathlib.RingTheory.PicardGroup
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

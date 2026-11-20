@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RelIndexCj
 open GlobalTheory.ClassRefine GlobalTheory.ClassPet
 

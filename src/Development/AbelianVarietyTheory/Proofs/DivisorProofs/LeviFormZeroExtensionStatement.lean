@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviFormZeroExtension
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshPoisson
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
 open Filter Topology Set Metric MeasureTheory ReciprocityTheory.AnForm
 open scoped ContDiff
 set_option maxHeartbeats 1000000 in

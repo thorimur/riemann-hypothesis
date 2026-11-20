@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WordAppendSingle
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsRapidInf
 

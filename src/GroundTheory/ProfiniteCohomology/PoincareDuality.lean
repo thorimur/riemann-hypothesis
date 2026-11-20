@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.PoincareDuality.Devissage
 set_option maxSynthPendingDepth 1
 

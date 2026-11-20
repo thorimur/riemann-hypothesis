@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTieUpFBrR
+import Formalism.LocalToGlobal.CharacterGerms.RowTieUpFBrI
 
 set_option autoImplicit false
 

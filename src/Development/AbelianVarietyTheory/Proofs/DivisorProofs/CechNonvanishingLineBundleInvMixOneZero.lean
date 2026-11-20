@@ -1,8 +1,5 @@
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.Tri
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.IsGermGIffExistsFrame
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.LBTransport
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SemiabelianSchemes.PrecompleteBases.PsbLb
-import Development.AbelianVarietyTheory.Definitions.AbelianSchemeLaws.IsScalarTowerOfAlgebraMapEq
 
 set_option autoImplicit false
 

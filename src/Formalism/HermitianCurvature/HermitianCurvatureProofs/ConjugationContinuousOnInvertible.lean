@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.WeylElementCommutesLevelOne
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlochKatoDuality
 
 open Matrix MeasureTheory Filter Topology

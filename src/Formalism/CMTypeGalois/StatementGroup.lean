@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.StatementCM
+import Mathlib.Analysis.Fourier.FiniteAbelian.Orthogonality
 
 open Finset
 

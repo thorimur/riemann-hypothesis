@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.UnitTraceSumBounds.CBFiLower
 
 noncomputable section

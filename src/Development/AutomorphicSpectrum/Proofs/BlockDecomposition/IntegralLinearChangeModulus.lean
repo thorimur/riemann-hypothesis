@@ -1,8 +1,8 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AvgVanish
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapMulVecOfMemTD
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StableRangeOneDetUnitElementary
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HaarMeasureAdditiveAutomorphismScale
+import Development.AbelianVarietyTheory.Definitions.Divisors.LineOppositeParabolicUnitaryLeviSectionEq
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothIntegralLinear
 
 noncomputable section
 

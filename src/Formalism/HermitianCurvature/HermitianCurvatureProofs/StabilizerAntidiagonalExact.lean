@@ -1,4 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LowerParabolicCoordinates
+import Formalism.FormalDegreeBessel.FormalDegreeRatio.ReverseCauchySchwarzHolds
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.RingTheory.TotallySplit
 
 open Matrix Formalism.FourierDecayAlt Formalism.QuantumDeterminants
 open scoped ComplexConjugate

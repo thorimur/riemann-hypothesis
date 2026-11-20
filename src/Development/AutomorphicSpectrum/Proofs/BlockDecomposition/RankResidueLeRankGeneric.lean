@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsNonzeroMinorOfRank
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.KvFintype
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 namespace GlobalTheory.CompanionTheory.Jp
 

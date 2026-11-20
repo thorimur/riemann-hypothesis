@@ -1,5 +1,6 @@
-import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohTop
 import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohEuler
+import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohCmp
+import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohField
 
 namespace PositivityTheory.LocalTateOrthogonality.Gcoh
 

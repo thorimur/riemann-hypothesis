@@ -1,8 +1,5 @@
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.DeligneLocalConstants
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.PowFamIsDeligneMeas
-import GroundTheory.GlobalFields.TateThesis.HeckeChar
-import GroundTheory.LocalFields.LocalZetaEpsilon
 import GroundTheory.LocalFields.LocalZetaGauss
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ExistsOfLocalLanglands
 
 noncomputable section
 

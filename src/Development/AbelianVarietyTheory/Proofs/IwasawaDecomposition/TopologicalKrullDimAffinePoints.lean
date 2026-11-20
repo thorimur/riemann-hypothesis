@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsClosedFlagsIff
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.UniMatBlockTriangular
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.KrullDimension.Polynomial
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 open Module TopologicalSpace GlobalTheory.FlagPts
 
 set_option autoImplicit false

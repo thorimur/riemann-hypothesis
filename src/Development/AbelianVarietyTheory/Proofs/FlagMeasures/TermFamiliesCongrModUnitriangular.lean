@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.IsTermOver
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 open Formalism.MainNotions.S
 
 namespace GlobalTheory.SlocCong

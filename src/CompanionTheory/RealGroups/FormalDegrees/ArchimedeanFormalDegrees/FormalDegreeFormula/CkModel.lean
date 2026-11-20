@@ -1,6 +1,4 @@
 import CompanionTheory.RealGroups.FormalDegrees.ArchimedeanFormalDegrees.FormalDegreeFormula.ModelFunctionsMultiply
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelTau
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Weight
 
 noncomputable section
 

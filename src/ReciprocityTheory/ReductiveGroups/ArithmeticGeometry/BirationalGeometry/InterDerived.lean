@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.RationalSections.ThmISt
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

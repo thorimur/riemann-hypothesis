@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.HostConj
-import ReciprocityTheory.ReductiveGroups.LocalHeights.Imports
+import CompanionTheory.AutomorphicTheory.HeckeStandardModules.InvMemRl
 
 open Formalism.BasicNotions NumberField
 

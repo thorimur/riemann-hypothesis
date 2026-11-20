@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AdelicHermitianForms.SqSubLeNormSub
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField IsDedekindDomain GlobalTheory.QNorm
 open scoped WithZero

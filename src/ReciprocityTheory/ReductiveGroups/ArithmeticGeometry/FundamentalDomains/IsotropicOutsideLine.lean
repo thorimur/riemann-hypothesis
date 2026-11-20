@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.FundamentalDomainPointBound
+import Mathlib.LinearAlgebra.Matrix.PosDef
 
 namespace ReciprocityTheory.ChartRestriction.G.FD
 

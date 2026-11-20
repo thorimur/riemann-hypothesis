@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolPrime
-import GroundTheory.LocalFields.LocalArtinMap
-import GroundTheory.LocalFields.LocalReciprocityUniversal
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

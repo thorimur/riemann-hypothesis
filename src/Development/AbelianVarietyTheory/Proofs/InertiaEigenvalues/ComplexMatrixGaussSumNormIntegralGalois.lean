@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixGaussSumSingularAndInvertible
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixGaussSumMulDualEqCardPowSqStatement
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.Fourier.FiniteAbelian.PontryaginDuality
 
 open Matrix Finset
 open scoped TensorProduct Classical

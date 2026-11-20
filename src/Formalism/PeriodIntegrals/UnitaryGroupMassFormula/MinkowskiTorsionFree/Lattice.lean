@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.MinkowskiQ
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.Minkowski
 

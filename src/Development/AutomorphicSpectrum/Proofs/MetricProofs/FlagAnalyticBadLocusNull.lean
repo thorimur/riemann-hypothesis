@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.BasePartFlagPt
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentRowsAnalytic
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.BaseMetricPullbackFamilyStatement
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAnalyticDenseGoodPointsStatement

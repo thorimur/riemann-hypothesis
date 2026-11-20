@@ -1,5 +1,6 @@
 import Formalism.WachLatticeTwists.HerrComplexInjectivity.GammaSubOneStatedForm
-import Formalism.WachLatticeTwists.WachProductBases.WachConsequencesFurther
+import Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.InvariantBasisAverage
+import Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.SaturationIntersectionHolds
 
 noncomputable section
 

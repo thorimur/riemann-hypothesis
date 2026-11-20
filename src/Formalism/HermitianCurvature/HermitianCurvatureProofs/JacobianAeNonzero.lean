@@ -1,5 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LinearChangeOfVariablesBis
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FourthWeightDensityOfParts
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open Matrix Formalism.FourierDecayAlt MeasureTheory
 open scoped ENNReal

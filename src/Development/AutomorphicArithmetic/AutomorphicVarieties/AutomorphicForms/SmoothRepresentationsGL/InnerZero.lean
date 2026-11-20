@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.SmoothRepresentationsGL.ExistsCombComb
 import GroundTheory.AutomorphicForms.L2LocalComponents.Summand
 

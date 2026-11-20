@@ -1,6 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsProjFrameGraphDeg
-import GroundTheory.HeightsAndTheta.Heights.Intersections.QuotientMapImageZInjective
+import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsProjFrameGraph
+import Mathlib.RingTheory.Henselian
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.ProjDefs
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.MixedFieldContraction.GenericFibreKerTarget
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

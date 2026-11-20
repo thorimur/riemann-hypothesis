@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.FirstKernelLawReading
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.NrmIdNonneg
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.MtType
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.KernelBasisDeterminantAbsAtPlaceStatement
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.RhoThreeOfOfDeterminantCharacterFiniteOrderTypeStatement
 

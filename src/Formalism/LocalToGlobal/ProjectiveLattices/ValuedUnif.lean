@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.RealPt
+import Formalism.LocalToGlobal.ProjectiveLattices.NormalizedValuationMul
+import Formalism.LocalToGlobal.ProjectiveLattices.SecPtOrd
 
 noncomputable section
 

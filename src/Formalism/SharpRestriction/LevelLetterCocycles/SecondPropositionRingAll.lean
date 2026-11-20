@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.SecondRankCount
+import Formalism.SharpRestriction.LevelLetterCocycles.DownSlotProposition
 
 noncomputable section
 

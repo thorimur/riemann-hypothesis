@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBergman
+import Mathlib.Algebra.Order.Star.Real
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

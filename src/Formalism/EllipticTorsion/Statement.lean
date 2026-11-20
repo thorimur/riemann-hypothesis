@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.FormalGroupLog.Statement
+import Mathlib.AlgebraicGeometry.EllipticCurve.Weierstrass
+import Mathlib.RingTheory.PowerSeries.Log
 
 open PowerSeries
 

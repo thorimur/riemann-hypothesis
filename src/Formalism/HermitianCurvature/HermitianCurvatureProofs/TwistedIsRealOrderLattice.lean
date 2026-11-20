@@ -1,4 +1,11 @@
 import Formalism.HermitianCurvature.PrimeToDifferent
+import Mathlib.NumberTheory.NumberField.Discriminant.Basic
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Separation.CompletelyRegular
 
 namespace Formalism.FourierDecayAlt.P.S6x5
 

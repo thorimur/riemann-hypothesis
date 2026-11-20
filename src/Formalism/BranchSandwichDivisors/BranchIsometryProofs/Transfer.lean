@@ -1,8 +1,7 @@
-import Mathlib
 import Formalism.BranchSandwichDivisors.StatementL
 import Formalism.BranchSandwichDivisors.BranchIsometryProofs.TransferMean
 import Formalism.MeanHeightDescent.AverageDegreeBounds.GoodBadCut
-import Formalism.HarderNarasimhan.ShiftInvariance
+import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SlopeIneqMean
 
 open Module NumberField
 open scoped Matrix

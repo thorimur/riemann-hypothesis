@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.FirstKernelLawReading
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.FormsAre
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.DifferentiableSumU
 
 noncomputable section

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.CoefModLemmas
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.DualLatticeIsLatticeAndHermitianDual
 
 namespace GlobalTheory

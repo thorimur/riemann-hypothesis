@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarEqZeroOfHolomorphic
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WedgeContrSelfApply
 
 set_option autoImplicit false
 noncomputable section

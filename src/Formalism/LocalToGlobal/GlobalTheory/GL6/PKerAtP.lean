@@ -1,8 +1,6 @@
 import Formalism.LocalToGlobal.UnitaryNorms.UnramT
-import Formalism.LocalToGlobal.GlobalTheory.GL6.PDnDil
-import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLcInt
-import Formalism.LocalToGlobal.GlobalTheory.GL6.PRLocW
-import Formalism.LocalToGlobal.GlobalTheory.GL4.PFrames
+import Formalism.LocalToGlobal.GlobalTheory.BaseLatticeSelfDual
+import Formalism.LocalToGlobal.GlobalTheory.GL6.PRLocV
 
 noncomputable section
 

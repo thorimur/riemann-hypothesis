@@ -1,6 +1,8 @@
-import Mathlib
-import Formalism.PeriodIntegrals.IdxCalc
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ElementDenominator
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Algebra.Module.LocalizedModule.Exact
+import Mathlib.RingTheory.SimpleRing.Principal
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

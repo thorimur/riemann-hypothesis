@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.HeightFunctions.IntUnit
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.JointQOfSmallField
 
 noncomputable section

@@ -1,5 +1,5 @@
-import Development.WeilBound.CoreStatements.AbelianHeightsDuality.ZarhinTrick.PolQuasiInverse
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.ZarhinDualPolarisation.FlatFiniteFibres.FlatOfFibresFinite
+import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsFinFlatSub
+import Development.AutomorphicSpectrum.Statements.AlgebraStatements.IsPolarisationOfRelAmple
 
 set_option autoImplicit false
 

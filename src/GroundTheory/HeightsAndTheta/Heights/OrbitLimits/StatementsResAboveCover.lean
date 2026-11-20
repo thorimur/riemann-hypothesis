@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsDivPushResFibreGerms
 set_option maxSynthPendingDepth 1
 

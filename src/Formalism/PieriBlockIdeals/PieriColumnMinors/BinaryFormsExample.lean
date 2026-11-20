@@ -1,6 +1,7 @@
 import Formalism.PieriBlockIdeals.LemmaDSkeletonUnit
 import Formalism.PieriBlockIdeals.PieriColumnMinors.Symmetrization
 import Formalism.PieriBlockIdeals.PieriColumnMinors.DividedPowerZeroZeroVector
+import Mathlib.LinearAlgebra.Eigenspace.Basic
 
 open Polynomial
 

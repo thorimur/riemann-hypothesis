@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.LatticeConditions
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.CrystallineCocycleTransportConjugation
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.CompatibleCoboundaries
 

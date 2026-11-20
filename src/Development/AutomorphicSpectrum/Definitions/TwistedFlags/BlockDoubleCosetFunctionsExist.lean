@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.TwistedFlags.OneMemOffK
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.InstBorelGL
 

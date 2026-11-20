@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.SymplecticTensorMeasures
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.IntegralTransport
 
 noncomputable section

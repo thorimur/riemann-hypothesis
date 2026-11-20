@@ -1,8 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.Counterexample.StatementsMuMetric
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.PPtsIntegralPoints
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.POrbitDegree
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ConservationDegreeFormOfExistence
+import GroundTheory.HeightsAndTheta.Heights.HeightComparison.POrbitCurve
 set_option maxSynthPendingDepth 1
 
 noncomputable section

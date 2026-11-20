@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.PublishedTheorems.SmoothVectorEstimates.RowS
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
 
 noncomputable section
 

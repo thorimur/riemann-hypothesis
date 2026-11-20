@@ -1,4 +1,6 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.CountZDefs
+import Formalism.LFunctionBounds.LFunctionBoundsProofs.LFunctionEqGOfOneLt
+import Mathlib.Tactic.ENatToNat
 
 open Complex Finset
 

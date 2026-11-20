@@ -1,6 +1,6 @@
-import Mathlib
-import Formalism.QuotientMetricDivisors.ProdFormula
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SelectionLemmas
+import Formalism.QuotientMetricDivisors.Statement
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Module NumberField IsDedekindDomain Matrix
 open scoped Matrix

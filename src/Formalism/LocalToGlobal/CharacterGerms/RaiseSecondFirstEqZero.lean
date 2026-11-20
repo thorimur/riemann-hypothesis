@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.CanonicalGaugeFirstPartialLawEq
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.CocycleRightZeroThd
 
 noncomputable section
 

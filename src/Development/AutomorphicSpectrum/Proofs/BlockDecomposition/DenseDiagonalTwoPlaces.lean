@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PlaneSupports.PlaneSupp
 import GroundTheory.GlobalFields.Adele.WeakApprox
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousSingleV
 

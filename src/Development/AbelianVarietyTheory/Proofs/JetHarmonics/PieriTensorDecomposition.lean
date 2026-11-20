@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Jets.SideFam
-import Development.AbelianVarietyTheory.Definitions.Jets.SumIoPr
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.NumericalFamilyShapeGapsStatement
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.DiscreteSeriesUnitarySmoothBasicStatement
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.SmoothMapsClosureStatement
@@ -8,6 +5,7 @@ import Development.AbelianVarietyTheory.Proofs.JetHarmonics.DiscreteSeriesParame
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.TensorDecompositionParameters
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IsFRepDualStandardUnitaryRepStatement
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IsFRepExteriorPowerStandardRepStatement
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 open BranchingSupport Formalism.FourierDecayAlt Formalism.FourierDecayAlt.ThreeDimData Matrix MeasureTheory Finset
 open scoped InnerProductSpace ENNReal

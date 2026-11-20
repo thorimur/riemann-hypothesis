@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.CartanInvolutionConjTransposeMul
 
 open Matrix Filter Topology Set

@@ -1,7 +1,6 @@
 import Formalism.WachLatticeTwists.WachProductBases.Statement
-import Formalism.CoboundaryTransfers.GammaStableTransfers.MemCoboundariesOfIsOneCoboundary
 import Formalism.CoboundaryTransfers.GammaStableTransfers.GammaStableOfGammaQUnitHolds
-import Formalism.CoboundaryTransfers.GammaStableTransfers.DiffOneSmulOfTower
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

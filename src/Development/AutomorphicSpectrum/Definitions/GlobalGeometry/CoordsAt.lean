@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsCptGen
 
 noncomputable section

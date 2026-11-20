@@ -1,7 +1,6 @@
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.RanksFramesClosed
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.TSelF
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ExactRanksAlongTiedFamily
+import Development.AbelianVarietyTheory.Proofs.FlagMeasures.TFrameOfRanksRowThree
+import Formalism.SharpRestriction.SmoothDesignExistence.DGamSmooth
 
 set_option synthInstance.maxHeartbeats 200000
 

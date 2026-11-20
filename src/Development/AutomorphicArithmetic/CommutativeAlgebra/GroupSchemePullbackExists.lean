@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.GeometricFlagBases.FinModel
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenModelBaseChangeUniv
 open UpperTheory.Gal.Int.Geo

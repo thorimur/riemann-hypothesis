@@ -1,4 +1,3 @@
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.InstBorelGL
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.LocalFieldUniformizerNormPropertiesStatement
 open MeasureTheory Matrix GlobalTheory.CompanionTheory.QL
 open scoped ComplexConjugate ValuativeRel

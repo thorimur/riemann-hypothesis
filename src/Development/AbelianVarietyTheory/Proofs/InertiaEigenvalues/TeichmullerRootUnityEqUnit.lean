@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.IsGauss
 open GlobalTheory.PMon.Gauss
 open scoped Formalism.Per

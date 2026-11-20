@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.EllipticTorsion.FormalGroupPointsNoTorsion
+import Mathlib.RingTheory.LaurentSeries
 
 open PowerSeries
 

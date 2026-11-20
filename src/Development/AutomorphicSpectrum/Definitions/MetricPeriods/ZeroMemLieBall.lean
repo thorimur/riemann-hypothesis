@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsCompactDualHaar
 
 noncomputable section

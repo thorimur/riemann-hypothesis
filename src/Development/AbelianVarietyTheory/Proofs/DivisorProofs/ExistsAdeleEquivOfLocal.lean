@@ -1,6 +1,12 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.AdelicScalarMultiplier
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.IdeleNormTraceForm
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Data.Rat.Star
+import Mathlib.NumberTheory.Padics.HeightOneSpectrum
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.Polynomial.Basic
 
 open NumberField IsDedekindDomain TensorProduct
 

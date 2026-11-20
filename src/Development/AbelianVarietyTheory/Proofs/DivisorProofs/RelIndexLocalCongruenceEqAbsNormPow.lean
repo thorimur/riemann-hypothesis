@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsTamagawa
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.TamagawaSpecialUnitary
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulVecMemGenLatSmul
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GoodRing
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LevelMapAdditiveStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LevelMapEqZeroIffStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LevelMapMemSkewTraceStatement

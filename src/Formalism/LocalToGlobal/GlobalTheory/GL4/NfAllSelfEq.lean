@@ -1,4 +1,6 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL4.CfMemTwId
+import Formalism.LocalToGlobal.Columns.FockNormSubstitutionBound
+import Formalism.LocalToGlobal.GlobalTheory.GL4.CoeffMemOfIntSpanAt
+import Formalism.LocalToGlobal.GlobalTheory.GL4.ThirdPropositionOfClass
 
 open Module NumberField IsDedekindDomain MvPolynomial
 open scoped Matrix

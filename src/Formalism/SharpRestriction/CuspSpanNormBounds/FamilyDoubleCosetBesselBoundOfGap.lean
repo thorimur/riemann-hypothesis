@@ -1,6 +1,5 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.BesselBoundFamilyOfDoubleCoset
-import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSB
 import Formalism.HermitianCurvature.BesselNonvanishingReduction
+import Formalism.SharpRestriction.CuspSpanNormBounds.OnePlaceEstimates
 
 open MeasureTheory Matrix Finset
 open scoped InnerProductSpace

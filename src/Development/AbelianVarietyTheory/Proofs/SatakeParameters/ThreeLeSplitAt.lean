@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.OrbitPlaces
-import Formalism.LocalRingCardinality.CoeNeZeroOfNotMem
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.CapLeWidth
 open Formalism.MainNotions Formalism.BasicNotions Formalism.MainNotions.G Classical
 

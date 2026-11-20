@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsLatMeasurableConst
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.AutPointRationalEquivariance
+import Mathlib.Data.Matrix.ColumnRowPartitioned
 
 open MeasureTheory NumberField Matrix Finset Formalism.MainNotions.S GlobalTheory.Count GlobalTheory.FlagMeas GlobalTheory.FlagBase
 open scoped TensorProduct

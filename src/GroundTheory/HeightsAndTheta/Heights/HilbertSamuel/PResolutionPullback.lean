@@ -1,7 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsResolutionPullback
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.ADensStC
+import Mathlib.Analysis.Analytic.Polynomial
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

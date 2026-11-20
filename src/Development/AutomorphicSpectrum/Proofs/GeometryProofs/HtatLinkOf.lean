@@ -1,15 +1,9 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.PowValIntCast
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatLat
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatPol
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatLev
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatReg
 import Development.WeilBound.CoreStatements.HodgeTatePoints.Hcptgen
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IntegralClosureHeightEqOneOfLiesOver
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.IsPolLatticePlane
-import Development.AutomorphicSpectrum.Statements.AlgebraStatements.HodgeTateNormComparison
-import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.Birational
-import Development.WeilBound.CoreStatements.HodgeTatePoints.TwhopfSec
 import Development.WeilBound.CoreStatements.HodgeTatePoints.BtLink
 
 noncomputable section

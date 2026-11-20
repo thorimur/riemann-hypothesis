@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CurveDVRSpecialization.FlipTwoThree
+import Mathlib.RingTheory.KrullDimension.NonZeroDivisors
+import Mathlib.Topology.Sheaves.Presheaf
 
 open UpperTheory.V.Pr in
 private theorem UpperTheory.V.Pr.exists_prime_qdim {R : Type} [CommRing R] (J : Ideal R) (n : ℕ)

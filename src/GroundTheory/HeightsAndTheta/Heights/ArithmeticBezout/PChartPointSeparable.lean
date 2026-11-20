@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.OfFreeParAlgIndep
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsChartPointSeparable
 set_option maxSynthPendingDepth 1
 

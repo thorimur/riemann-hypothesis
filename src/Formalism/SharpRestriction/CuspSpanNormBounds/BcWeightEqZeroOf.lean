@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.StarVecMulDM
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open MeasureTheory Matrix Finset
 open scoped ContDiff

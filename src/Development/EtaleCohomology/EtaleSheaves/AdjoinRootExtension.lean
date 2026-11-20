@@ -1,5 +1,9 @@
 import Development.EtaleCohomology.EtaleSheaves.AdjoinRootExtension.AdjoinRootOfInjective
 import Development.EtaleCohomology.EtaleSheaves.EtaleBaseChangeFractionFieldIndEtaleOverPolynomi
+import Mathlib.Algebra.Colimit.Ring
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.CategoryTheory.Functor.OfSequence
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 open CategoryTheory Polynomial

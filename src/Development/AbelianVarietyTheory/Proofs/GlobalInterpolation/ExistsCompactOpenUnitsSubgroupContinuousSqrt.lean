@@ -1,5 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FibOfZero
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 open MeasureTheory Topology
 
 namespace GlobalTheory.QuadFibre

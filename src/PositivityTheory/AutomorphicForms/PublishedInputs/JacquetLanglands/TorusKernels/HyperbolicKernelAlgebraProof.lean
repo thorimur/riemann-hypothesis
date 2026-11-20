@@ -1,4 +1,6 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.IsHolVOf
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RChar2
+import Formalism.GaloisIrreducibility.GaloisIrreducibilityProofs.OneNonUnit
 
 noncomputable section
 

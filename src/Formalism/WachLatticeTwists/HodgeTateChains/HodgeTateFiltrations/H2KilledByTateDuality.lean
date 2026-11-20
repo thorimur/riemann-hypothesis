@@ -1,5 +1,5 @@
 import Formalism.WachLatticeTwists.HodgeTateChains.H2KilledByTateDuality
-import Formalism.WachLatticeTwists.HodgeTateChains.HodgeTateFiltrations.TwistKill
+import Formalism.WachLatticeTwists.HodgeTateChains.HodgeTateFiltrations.InverseOperatorFromInjectivity
 
 noncomputable section
 

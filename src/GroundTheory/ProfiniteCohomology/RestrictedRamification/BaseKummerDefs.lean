@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseDefs
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.SUnits
-import GroundTheory.ProfiniteCohomology.GaloisCohomology.Kummer
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

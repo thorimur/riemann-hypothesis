@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.StFSSmallFinite
 import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.StSmallFormsFinite
-import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.FSScaled
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PConductor
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSecEq
 set_option maxSynthPendingDepth 1

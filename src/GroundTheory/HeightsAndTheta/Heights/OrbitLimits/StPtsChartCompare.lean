@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSheet
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StPtsSegreChart
 set_option maxSynthPendingDepth 1
 

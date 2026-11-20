@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RInv2
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.AntisymmetrizedProductEqFactorialSmulQdet
 

@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.OrbitalIntegrals.GeoTransport
+import GroundTheory.GlobalFields.SemilocalAlgebras.Galois
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
 
 open NumberField IsDedekindDomain ValuativeRel PositivityTheory.Rg.Tf.Loc GroundTheory.Global GroundTheory.Global.SemiLocal PositivityTheory.Rg.Tf.Geo
 open scoped TensorProduct

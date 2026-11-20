@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsSemilocRankAdjoin
+import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsSemilocRing
+import Mathlib.FieldTheory.Relrank
 set_option maxSynthPendingDepth 1
 
 noncomputable section

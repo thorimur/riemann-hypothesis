@@ -1,5 +1,4 @@
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.NotMemPlacesOverOfNe
-import Development.AutomorphicArithmetic.ThetaCorrespondence.CuspidalSupport.CuspOfCq
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TypeConditions.AutomorphicGaloisAdmissible
 
 noncomputable section

@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePDescJet
+import Formalism.LocalToGlobal.CharacterGerms.RowTieDesc
 
 set_option autoImplicit false
 

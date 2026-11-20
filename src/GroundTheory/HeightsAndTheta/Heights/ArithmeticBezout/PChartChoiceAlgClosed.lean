@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsChartChoiceAlgClosed
+import GroundTheory.HeightsAndTheta.Heights.ChowForms.Statements
+import Mathlib.Combinatorics.Nullstellensatz
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

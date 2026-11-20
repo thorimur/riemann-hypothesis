@@ -1,7 +1,5 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.CechLevels.Cech0Iso
 import Development.EtaleCohomology.EtaleSheaves.SpectrumLimits.LevelsGenOfSpecLim
-import Development.EtaleCohomology.EtaleSheaves.CechLevelsGeneration.LevelsOfGen
 import Development.EtaleCohomology.EtaleSheaves.SpecLimPf
 
 namespace UpperTheory.Et.CechLevelsEtaleAxioms

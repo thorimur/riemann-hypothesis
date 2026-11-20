@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.OnePlusPowerAssembly
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MemOfAssembleMem
+import Mathlib.Algebra.Module.Lattice
 
 noncomputable section
 namespace GlobalTheory.PsiShiftProof

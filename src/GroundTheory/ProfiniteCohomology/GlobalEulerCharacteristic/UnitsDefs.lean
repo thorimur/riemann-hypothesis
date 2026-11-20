@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.HerbrandQuotients.SUnitsRep
 set_option maxSynthPendingDepth 1
 

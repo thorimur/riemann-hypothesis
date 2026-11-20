@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.OverExtAlgebraMap
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

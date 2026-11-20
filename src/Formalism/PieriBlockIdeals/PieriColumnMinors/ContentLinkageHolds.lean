@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.PieriBlockIdeals.Statement
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

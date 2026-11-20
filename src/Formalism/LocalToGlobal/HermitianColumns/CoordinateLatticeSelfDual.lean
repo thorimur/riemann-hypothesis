@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.HermitianColumns.InLocalDiscriminantKernel
+import Mathlib.NumberTheory.NumberField.AdeleRing
 
 noncomputable section
 

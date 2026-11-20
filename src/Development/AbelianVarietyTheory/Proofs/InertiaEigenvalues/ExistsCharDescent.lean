@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsDvrExtensionEmbedding
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.NumberTheory.RamificationInertia.Galois
 
 noncomputable section
 

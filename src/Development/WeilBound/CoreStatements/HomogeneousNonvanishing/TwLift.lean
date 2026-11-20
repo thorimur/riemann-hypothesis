@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.ProIsoAt
+import Mathlib.LinearAlgebra.BilinearForm.TensorProduct
+import Mathlib.NumberTheory.Padics.RingHoms
+import Mathlib.Tactic.Polynomial.Basic
 open NumberField TensorProduct GlobalTheory.CompanionTheory.Ar
 
 namespace PositivityTheory.UnitarySelfGeneration

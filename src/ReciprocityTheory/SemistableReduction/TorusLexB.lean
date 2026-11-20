@@ -1,4 +1,10 @@
 import ReciprocityTheory.SemistableReduction.SphereLogIntegrableStatement
+import Mathlib.MeasureTheory.Integral.Pi
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Algebra.MvPolynomial
 
 namespace ReciprocityTheory.MultiplicativeHeights.TorusLexOrder
 

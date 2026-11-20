@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.FlipTwoThree
 import Formalism.LocalToGlobal.HermitianColumns.ColsHerm
 import Formalism.LocalToGlobal.HermitianForms.FormsTied

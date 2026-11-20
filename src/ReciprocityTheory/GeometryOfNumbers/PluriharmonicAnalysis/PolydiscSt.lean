@@ -1,4 +1,5 @@
 import ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.DiscSt
+import Mathlib.Topology.Separation.CompletelyRegular
 
 namespace ReciprocityTheory.GeometryOfNumbersTheory
 

@@ -1,9 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.BlockAnti
 import Formalism.PeriodIntegrals.QuotInv
-import Formalism.HermitianCurvature.WeylElementCommutesLevelOne
-import Formalism.LocalRingCardinality.DataCD
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GroupGeneratedByExp
+import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.UpperOff
 
 noncomputable section
 

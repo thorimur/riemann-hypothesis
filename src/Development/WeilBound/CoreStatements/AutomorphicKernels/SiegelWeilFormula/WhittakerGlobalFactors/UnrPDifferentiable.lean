@@ -1,5 +1,11 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.WhitGenOf
-import Development.WeilBound.ThetaLifts.LatticeBasics.EulerHalf
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.AlgebraicTopology.FundamentalGroupoid.SimplyConnected
+import Mathlib.Analysis.Complex.LocallyUniformLimit
+import Mathlib.Analysis.Convex.Contractible
+import Mathlib.Analysis.SpecialFunctions.Complex.LogBounds
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import ReciprocityTheory.Chebotarev.EulerSum
 
 noncomputable section
 

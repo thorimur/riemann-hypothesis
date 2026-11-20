@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsLinearLimitOfCompatibleFamily
-import GroundTheory.PAdicHodge.AxLemma
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.exists_linearMap_limit_of_compatible_approximations : ∀ (l : ℕ) [Fact l.Prime] (M : Type) [AddCommGroup M] [Module ℤ_[l] M] (B : Submodule ℤ_[l] M) (R : ℕ → M → PadicAlgCl l → Prop) (C : ℝ),
   (∀ n, ∀ b ∈ B, ∃ x, R n b x) →

@@ -1,8 +1,8 @@
 import Formalism.HermitianCurvature.WeylElementCommutesLevelOne
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaSesquilinearity
 import Formalism.RealPlaceAnalysis.FinalF
-import Formalism.FormalDegreeBessel.FinalG
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.LiftErrorLocal
+import Formalism.RealPlaceAnalysis.RealPlaceTaylor.RightDerivativeZeroOutsideSupport
 
 open Matrix MeasureTheory Filter Topology
 open scoped ComplexConjugate ENNReal NNReal

@@ -1,6 +1,5 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.DzRedTil
-import Development.DiscreteGroups.GlobalIrreducibility.DzRedSupp
+import GroundTheory.AutomorphicForms.Iwasawa
 
 noncomputable section
 

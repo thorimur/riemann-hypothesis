@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.InertJacobiLevels.EtaSz
-import Formalism.SharpRestriction.InertJacobiLevels.TwoPrimeFieldSatisfiesConditions
+import Formalism.SharpRestriction.InertJacobiLevels.TwoPrimeFieldMemLevelOfCoprime
 
 noncomputable section
 

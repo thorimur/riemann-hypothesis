@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpTie
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.ChartChg
 

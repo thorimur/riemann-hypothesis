@@ -1,5 +1,7 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.MaIntEmpty
+import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
+import Mathlib.Analysis.Calculus.BumpFunction.Normed
+import Mathlib.MeasureTheory.Integral.CircleAverage
 
 namespace ReciprocityTheory.AnForm.A
 

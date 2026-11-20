@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.BlockDeterminants.ExponentialEntries.RightSub
+import Development.AbelianVarietyTheory.PublishedTheorems.PublishedFoundations.FiniteIntertwining
+import Mathlib.Order.Interval.Finset.Box
 
 open Formalism.BasicNotions UpperTheory.TP.RP MvPolynomial
 

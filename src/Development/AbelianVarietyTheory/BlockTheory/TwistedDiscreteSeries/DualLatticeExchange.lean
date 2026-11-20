@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.MatrixMeasurableSpace
-import Development.AbelianVarietyTheory.Definitions.Foundations.SimpleSum
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.HasConductorMulShift
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 open MeasureTheory ValuativeRel Matrix IsLocalRing
 open scoped Pointwise

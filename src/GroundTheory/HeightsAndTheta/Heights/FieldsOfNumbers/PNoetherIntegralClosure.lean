@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsNoetherIntegralClosure
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.NoetherReduction
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.NoetherCharP

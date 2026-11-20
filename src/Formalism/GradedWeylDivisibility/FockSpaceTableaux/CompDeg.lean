@@ -1,4 +1,3 @@
-import Formalism.GradedWeylDivisibility.StatementC
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LCcompLemmas
 
 open MvPolynomial

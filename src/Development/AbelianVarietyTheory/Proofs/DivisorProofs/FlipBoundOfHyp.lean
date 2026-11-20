@@ -1,10 +1,9 @@
-import Mathlib
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PlaceSzNonneg
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteCoefficientBound
 import Development.AutomorphicArithmetic.LocalEmbeddings.ArchFlip
 import Development.AutomorphicArithmetic.DivisorFrames.ConjSizeHeckeCharLocalOfMemRangeEmbedding
 import Development.AutomorphicArithmetic.DivisorFrames.LocalGridTensorSizeLeOneOfUnimodular
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.OppositePathLocalTotalTensorMemCoefficientField
 open GlobalTheory.SumSize GlobalTheory.RowClaim GlobalTheory.ArchTens
 
 section

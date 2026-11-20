@@ -1,5 +1,5 @@
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.XiIntH
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.TLeftH
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.GaNonneg
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.XphiLinInd
 
 noncomputable section
 

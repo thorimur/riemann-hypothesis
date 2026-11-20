@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.PCoordCurveAlgebraic
+import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.CoordCurveDegree
 set_option maxSynthPendingDepth 1
 
 noncomputable section

@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.CharacterBoxes.ExistsPageN
+import Mathlib.NumberTheory.NumberField.ClassNumber
 
 noncomputable section
 

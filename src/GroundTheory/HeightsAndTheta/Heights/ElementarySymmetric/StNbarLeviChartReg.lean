@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StNbarLeviChartFam
 set_option maxSynthPendingDepth 1
 

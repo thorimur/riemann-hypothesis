@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.LamPS
-import Formalism.SharpRestriction.LevelLetterCocycles.BaseChangePreservesUnitaryOf
+import Formalism.SharpRestriction.LevelLetterCocycles.FrobeniusPowUniformizerFactorisation
 
 noncomputable section
 

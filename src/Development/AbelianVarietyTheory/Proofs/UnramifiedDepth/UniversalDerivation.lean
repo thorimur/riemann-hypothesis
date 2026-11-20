@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.FstHomCompSqzOfLeibniz
-import ReciprocityTheory.DualLattices.EvCotStatement
+import Mathlib.Tactic.ENatToNat
+import ReciprocityTheory.DualLattices.TowerZeroSurjective
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

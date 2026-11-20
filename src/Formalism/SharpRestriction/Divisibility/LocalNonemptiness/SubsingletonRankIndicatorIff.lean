@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.Divisibility.ModuliIntegralCharts
 import Formalism.SharpRestriction.Divisibility.LocalNonemptiness.NonemptyCoefficientFieldPrime
+import Mathlib.Algebra.Ring.BooleanRing
 
 noncomputable section
 

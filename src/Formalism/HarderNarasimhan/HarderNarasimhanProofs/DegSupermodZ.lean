@@ -1,5 +1,6 @@
 import Formalism.HarderNarasimhan.DegSupermodZ
 import Formalism.LatticeSlopes.ExistsSaturatedSlopeEqMuMax
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open Module Submodule
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralFintypeProd
 
 open MeasureTheory

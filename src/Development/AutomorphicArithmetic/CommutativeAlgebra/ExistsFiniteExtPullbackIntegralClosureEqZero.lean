@@ -1,5 +1,6 @@
-import Mathlib
-import Development.EtaleCohomology.EtaleSheaves.LeafKillCut
+import Development.EtaleCohomology.EtaleSheaves.H0TwistOverClosedField
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.E4
 

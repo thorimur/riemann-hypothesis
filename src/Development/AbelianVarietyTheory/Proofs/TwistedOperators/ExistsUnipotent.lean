@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ScaledBasisMemChainLattice
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnipotentRadicalBasic
 
 open MeasureTheory ValuativeRel Matrix
 open scoped Pointwise

@@ -1,6 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.MatsushimaLattice
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsUnitaryRepR
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.RepresentationTheory.Coinduced
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.Functoriality
 
 noncomputable section
 

@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.MainEqFam
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.MainEqAna
-import Formalism.LocalRingCardinality.DataTies
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LocOf
 
 noncomputable section

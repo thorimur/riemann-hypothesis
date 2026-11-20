@@ -1,9 +1,6 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSt
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PPtsAddFirst
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PDeLeSemiPos
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PRFormula
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.IsMultiHomogPlaneCoordinate
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PoincareLelongLimit
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.LelongSectionLimit
 set_option maxSynthPendingDepth 1

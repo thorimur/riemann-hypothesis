@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.JConvOfJDom
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BesselDomainMeasurable
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.SmoothWordsAll
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CellSmoothness
 
 noncomputable section

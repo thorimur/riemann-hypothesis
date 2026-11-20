@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.CrystallineDescent.PatchOneAlt
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.CoreAtQIffRowQ
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.IsSplitAtOfDegOne

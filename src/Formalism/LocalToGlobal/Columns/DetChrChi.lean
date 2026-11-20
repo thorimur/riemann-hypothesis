@@ -1,9 +1,5 @@
 import Formalism.LocalToGlobal.Columns.DetChrOfChi
 import Formalism.LocalToGlobal.Columns.Target
-import Formalism.LocalToGlobal.Columns.RecLevelCls
-import Formalism.LocalToGlobal.Columns.AdelicLemmas
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsSpan
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsGlobApprox
 
 noncomputable section
 

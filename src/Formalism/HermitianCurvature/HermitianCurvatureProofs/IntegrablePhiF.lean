@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PsiMajNonneg
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.IntegralAdjoint
 
 noncomputable section
 

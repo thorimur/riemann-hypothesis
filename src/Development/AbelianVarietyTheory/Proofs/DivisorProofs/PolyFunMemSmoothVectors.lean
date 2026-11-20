@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPlaceRep
+import Development.AbelianVarietyTheory.Proofs.HeightProofs.ExistsSigmaList
 
 noncomputable section
 

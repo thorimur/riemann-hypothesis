@@ -1,9 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadGlue
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsIsoGlueTwo
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PVectorBundleLocal
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadBundle
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.GlueCoherence
+import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsGlueTwo
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Model

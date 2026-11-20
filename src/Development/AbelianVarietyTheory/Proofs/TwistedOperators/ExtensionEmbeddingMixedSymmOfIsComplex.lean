@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.HeckeLEntireAndNonzeroAtOne
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsSmoothMulExtensionOfContinuousChar
+import Mathlib.Topology.Homotopy.Lifting
 
 noncomputable section
 

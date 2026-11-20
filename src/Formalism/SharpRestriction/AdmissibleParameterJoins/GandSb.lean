@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.GrowthBounds.SelectionLemmas
 import Formalism.SharpRestriction.GlobalSchurBounds.CMFieldLemmas
 
 noncomputable section

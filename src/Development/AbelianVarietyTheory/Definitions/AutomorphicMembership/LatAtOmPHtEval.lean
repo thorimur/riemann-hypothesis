@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsQuasicoherentDualOm
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.FibLatPreSubSpanSubLe
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.PairVEqZeroOfMemLieSpan
 
 set_option autoImplicit false
 

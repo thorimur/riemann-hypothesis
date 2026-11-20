@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.NotCoboundaryConstantOne
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open Polynomial

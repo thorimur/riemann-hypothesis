@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.SetTheory.ZFC.PSet
 
 noncomputable section
 

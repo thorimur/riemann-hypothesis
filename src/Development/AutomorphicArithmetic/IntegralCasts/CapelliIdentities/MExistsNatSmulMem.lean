@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataSpaces
 
 private theorem UpperTheory.Reformulated.B.Qh47.exists_nat_mul_integral {E : Type} [Field E] [NumberField E]

@@ -1,8 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.ArchimedeanThetaValues.CarchAt
-import Development.AbelianVarietyTheory.Definitions.ThetaValues.GamAt
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.IsBoundedByPowerOfAtLeastTwoInvD4ep0
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.LogLeSelf
+import Formalism.LocalRingCardinality.CoeNeZeroOfNotMem
 
 section
 open AlgebraicGeometry CategoryTheory CategoryTheory.Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField IsDedekindDomain

@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.HasQIff
 import Development.AbelianVarietyTheory.Definitions.Foundations.ExpUpper
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModJTau
+import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModDefs
 
 noncomputable section
 

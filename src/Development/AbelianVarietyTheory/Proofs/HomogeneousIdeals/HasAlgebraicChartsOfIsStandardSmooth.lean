@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsOpenPartialHomeomorphAnalytic
+import Mathlib.Geometry.Manifold.ContMDiff.NormedSpace
+import Mathlib.Geometry.Manifold.MFDeriv.SpecificFunctions
+import Mathlib.RingTheory.RingHom.StandardSmooth
 
 namespace GlobalTheory.AffinePoints
 

@@ -1,4 +1,10 @@
-import Formalism.GL3MeanSquares.InverseNormLeOfIntegerInner
+import Formalism.GL3MeanSquares.ConcavityEquidistribution
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.Fourier.FiniteAbelian.Orthogonality
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.GroupTheory.DoubleCoset
+import Mathlib.RingTheory.FractionalIdeal.Norm
 
 namespace Formalism.HermitianLattices.ExplicitEstimates
 

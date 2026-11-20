@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.PPrimeLogSum
 import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.ImportsBis
 set_option maxSynthPendingDepth 1

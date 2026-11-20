@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsFinSetSplitPlacesCoprimeConductor
 import Development.AbelianVarietyTheory.BlockTheory.AdelicCMFields.UnitaryHeckeCharacterIdele
+import Mathlib.NumberTheory.NumberField.ClassNumber
 
 noncomputable section
 

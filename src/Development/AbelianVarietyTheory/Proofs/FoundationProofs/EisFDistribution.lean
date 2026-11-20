@@ -1,5 +1,15 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.Integral
+import Mathlib.Data.Int.Star
+import Mathlib.Data.Rat.Star
+import Mathlib.NumberTheory.ZetaValues
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Finset GlobalTheory.KummerEisensteinGalois
 

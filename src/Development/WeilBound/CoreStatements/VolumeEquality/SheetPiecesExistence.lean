@@ -4,9 +4,6 @@ import Development.WeilBound.CoreStatements.VolumeEquality.ChartMeets
 import Development.WeilBound.CoreStatements.VolumeEquality.CoverRoots
 import Development.WeilBound.CoreStatements.VolumeEquality.LocInj
 import Development.WeilBound.CoreStatements.VolumeEquality.BaseUnif
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsSheetCover
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsHolPeriods
-import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.ThreeLeLevel
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField Matrix Filter Topology
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.Semi
 open GroundTheory.Heights₂.Heights.LowerBoundFree GlobalTheory.CompanionTheory.Ar GlobalTheory.CompanionTheory.Ar.Cusp MeasureTheory

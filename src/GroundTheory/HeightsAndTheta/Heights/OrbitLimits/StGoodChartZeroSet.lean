@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StGoodChartModel
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StSegreChartZeroSet
 set_option maxSynthPendingDepth 1
 
 noncomputable section

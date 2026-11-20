@@ -1,11 +1,4 @@
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.ParConsts
-import Formalism.SharpRestriction.GrowthBounds.UnramifiedQuadraticSetting
-import Formalism.SharpRestriction.GrowthBounds.ObjPol
 import Formalism.SharpRestriction.GrowthBounds.ObjBridge
-import Formalism.SharpRestriction.GrowthBounds.CovariantDegrees
-import Formalism.SharpRestriction.GrowthBounds.StatementOfDegreeAndBound
-import Formalism.SharpRestriction.GrowthBounds.ConclusionA2
 import Formalism.SharpRestriction.GrowthBounds.ValuationLowestDegreeRename
 
 noncomputable section

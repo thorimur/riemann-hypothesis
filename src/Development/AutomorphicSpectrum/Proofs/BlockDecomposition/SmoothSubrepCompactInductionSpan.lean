@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenFixedOfSubgroup
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CompactInductionTwistedKernel
 
 open GlobalTheory.PRep Topology

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.CuspidalSplittingPositivity
 set_option maxSynthPendingDepth 1
 

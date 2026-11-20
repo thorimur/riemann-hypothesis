@@ -1,9 +1,3 @@
-import Formalism.HermitianCurvature.StatementQ
-import Formalism.PeriodIntegrals.ContractionsCovariantIff
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmColExp
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmRowExp
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmRowForm
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmSkip
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmStar
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmIndep
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmLemD
@@ -22,6 +16,9 @@ import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnVMonic
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WeylLevelElementProperties
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnYLeibniz
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnZeroLevel
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExponentialFirstColumn.FirstColumnSplitBijective
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowExpansionMinor.FirstColumnSplitBijective
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SkipSuccessorIndex.SkipSucc2
 
 theorem Formalism.FourierDecayAlt.P.expansion_first_column : Formalism.FourierDecayAlt.Q.ExpFirstCol := PI.QmColExpWork.expFirstCol
 

@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.LamPS
+import Formalism.SharpRestriction.LevelLetterCocycles.LocalFormOfThreeInputs
 
 noncomputable section
 

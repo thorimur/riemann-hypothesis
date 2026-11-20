@@ -1,5 +1,4 @@
 import ReciprocityTheory.GroupCohomology.CupConnRightStatement
-import ReciprocityTheory.GroupCohomology.DEqZeroOfMemB
 import ReciprocityTheory.GroupCohomology.ComapZeroCoboundariesEqBot
 
 namespace ReciprocityTheory.Coh

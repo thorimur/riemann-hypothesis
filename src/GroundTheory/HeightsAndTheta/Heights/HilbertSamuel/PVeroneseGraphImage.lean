@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsVeroneseGraph
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSecondVeronese
 set_option maxSynthPendingDepth 1

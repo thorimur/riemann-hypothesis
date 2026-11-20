@@ -1,6 +1,6 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.AmpNZCut
-import Formalism.HermitianCurvature.WeylElementCommutesLevelOne
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.Transported
+import Formalism.HermitianCurvature.BesselNonvanishingReduction
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 open MeasureTheory
 open scoped ENNReal InnerProductSpace

@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.CoeffProdRename
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIdTorusEltOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ImportsTerLast
 

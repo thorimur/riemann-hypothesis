@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.AutomorphicTheory.ThetaDilations.Nuabs
 
 open NumberField IsDedekindDomain MeasureTheory Topology

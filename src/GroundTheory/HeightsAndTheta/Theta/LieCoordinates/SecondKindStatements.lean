@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.RealGroupsLie
+import Mathlib.Analysis.InnerProductSpace.SingularValues
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Theta

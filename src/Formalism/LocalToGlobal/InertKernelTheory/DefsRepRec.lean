@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.InertKernelTheory.DefsRepComb
+import Formalism.LocalToGlobal.KernelLattices.FirstKernelLawReading
 
 noncomputable section
 

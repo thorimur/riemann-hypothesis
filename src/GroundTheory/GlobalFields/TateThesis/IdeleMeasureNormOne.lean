@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.IdeleMeasure
+import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms
+import Mathlib.Algebra.Order.Positive.Field
 
 open NumberField IsDedekindDomain Topology Filter MeasureTheory TopologicalSpace Real
 open scoped NumberField.AdeleRing ENNReal NNReal

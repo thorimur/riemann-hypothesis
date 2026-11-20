@@ -1,9 +1,6 @@
-import Mathlib
-import Formalism.SharpRestriction.ParConsts
 import Formalism.SharpRestriction.CuspSpanNormBounds.LeSCSCl
-import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
-import Formalism.SharpRestriction.CuspSpanNormBounds.StandingNumericalData
 import Formalism.SharpRestriction.CuspSpanNormBounds.FlagEEqHyperbolic
+import Mathlib.Analysis.InnerProductSpace.Positive
 
 noncomputable section
 

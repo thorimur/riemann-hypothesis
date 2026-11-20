@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PUnipotentModulusHomeo
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PUnipotentModulusHaar
 

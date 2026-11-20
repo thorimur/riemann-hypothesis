@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GenusMassVolumes
+import Mathlib.Algebra.Quaternion
 
 noncomputable section
 

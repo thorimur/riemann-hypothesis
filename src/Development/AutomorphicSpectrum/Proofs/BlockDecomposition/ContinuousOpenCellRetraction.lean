@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsBump
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCIndValue
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousMirProj
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MirProjEqOneOfMem
 
 open Matrix GlobalTheory.PRep GlobalTheory.SmGL GlobalTheory.BZMir GlobalTheory.BZMir.Leib GlobalTheory.RgGu.Leib GlobalTheory.CompanionTheory.BZPhiPG GlobalTheory.CompanionTheory.BZPhiPG.OntoO Topology

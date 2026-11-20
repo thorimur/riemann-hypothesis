@@ -1,8 +1,6 @@
-import Formalism.SharpRestriction.GrowthBounds.StatementOfDegreeAndBound
-import Mathlib
-import Formalism.ThetaLogCoordinates.JacobiPathWeights.PathBasisTheorem
-import Formalism.ThetaLogCoordinates.JacobiPathWeights.JacobiMinorProofs.UnitAndFieldPowerLemmas
-import Formalism.ThetaLogCoordinates.JacobiPathWeights.JacobiMinorProofs.MemSpanImageIff
+import Formalism.SharpRestriction.GrowthBounds.ObjPol
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Formalism.ThetaLogCoordinates.JacobiPathWeights.IndexWeightsDominance
 
 noncomputable section
 

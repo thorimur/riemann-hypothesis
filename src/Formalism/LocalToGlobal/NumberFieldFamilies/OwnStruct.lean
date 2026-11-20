@@ -1,4 +1,5 @@
-import Lean
+import Lean.Elab.Command
+import Std.Do.Triple.SpecLemmas
 
 namespace Formalism.L2.Fam.KCopy
 

@@ -1,6 +1,6 @@
 import Development.AutomorphicArithmetic.CoprimeRanks.SecondSetNoRelation
 import Development.AutomorphicArithmetic.CoprimeRanks.AnyFramewindow
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.ExistsHostAxEven
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.OfRawToHostRaw
 
 open NumberField Formalism.FrobeniusOrbits Formalism.HC
 

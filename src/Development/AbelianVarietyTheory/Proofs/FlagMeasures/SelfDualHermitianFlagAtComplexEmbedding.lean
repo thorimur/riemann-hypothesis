@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.LowersMulZero
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.PerpSetBaseChange
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.MainTheorem

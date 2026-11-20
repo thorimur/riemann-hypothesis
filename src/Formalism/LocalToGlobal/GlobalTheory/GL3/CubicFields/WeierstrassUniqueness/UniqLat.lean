@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL3.CubicFields.ComplexMultiplication.UniqInvOfLat
+import Formalism.LocalToGlobal.GlobalTheory.GL3.Statement
 
 noncomputable section
 

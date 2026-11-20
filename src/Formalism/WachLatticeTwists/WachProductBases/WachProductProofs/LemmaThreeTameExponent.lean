@@ -1,5 +1,7 @@
 import Formalism.WachLatticeTwists.WachProductBases.Statement
 import Formalism.LagrangeIdealLifts.CocyclePolynomialDivision.CompsOfMemMap
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 
 noncomputable section
 

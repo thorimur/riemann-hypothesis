@@ -1,9 +1,12 @@
-import Mathlib
 import GroundTheory.GlobalFields.SUnits
 import GroundTheory.GlobalFields.KummerTheory.Unramified
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.IsUnramifiedOutsideIffLeMaxUnramifiedOutside
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.SUnitsDefs
 import GroundTheory.ProfiniteCohomology.GaloisCohomology.Kummer
+import Mathlib.Data.Int.Star
+import Mathlib.NumberTheory.RamificationInertia.Valuation
+import Mathlib.RingTheory.DedekindDomain.FiniteAdeleRing
+import Mathlib.RingTheory.Valuation.Integral
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

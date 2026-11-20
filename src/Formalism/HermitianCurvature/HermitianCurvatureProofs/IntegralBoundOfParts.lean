@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BuiltBoundsCompactOfParts
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GramLocSetCApp
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.GramLocTendsto
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SizeAtMinusW
 
 namespace Formalism.FourierDecayAlt.P.PBASM

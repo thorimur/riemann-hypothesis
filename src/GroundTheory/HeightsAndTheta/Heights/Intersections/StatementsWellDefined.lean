@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsArith
 set_option maxSynthPendingDepth 1
 

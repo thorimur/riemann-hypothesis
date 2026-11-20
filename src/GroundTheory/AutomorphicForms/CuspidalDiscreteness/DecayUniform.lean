@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.CuspidalDiscreteness.ExistsNormRconvLeSiegel
 
 open MeasureTheory Set Filter Topology Function

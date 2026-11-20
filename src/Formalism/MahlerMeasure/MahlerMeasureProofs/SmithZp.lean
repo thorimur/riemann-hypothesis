@@ -1,5 +1,7 @@
 import Formalism.MahlerMeasure.StatementD
 import Formalism.SmithDeterminants.TruncationChainBoundNonnegExponents
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 
 namespace Formalism.GM
 

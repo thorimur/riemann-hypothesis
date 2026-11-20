@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.EmbTraceSum
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EmbeddingTraceSum.Imports
+import Mathlib.RingTheory.SimpleRing.Principal
 
 theorem sumEqTrace_holds : PI.EmbTraceSum := by
   intro E _ _ K φ₀ S _ emb hinj hext hcard y

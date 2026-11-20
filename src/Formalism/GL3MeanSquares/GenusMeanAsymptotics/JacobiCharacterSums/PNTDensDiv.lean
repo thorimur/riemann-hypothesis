@@ -1,5 +1,6 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.PNTDensSt
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.CountZMoll
+import Mathlib.NumberTheory.Harmonic.Bounds
 
 open Complex Finset
 

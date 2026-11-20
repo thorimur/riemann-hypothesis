@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FactorsOfPerturb
+import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.ExtendedStatementOfParts
 
 noncomputable section
 

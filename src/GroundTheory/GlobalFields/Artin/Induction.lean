@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.InductionLocal
 set_option maxSynthPendingDepth 1
 

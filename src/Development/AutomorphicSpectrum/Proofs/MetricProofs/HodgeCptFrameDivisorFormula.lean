@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.ColFlags
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.GenUIsGenFam
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.FlagFramesGenericModelLeftStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.TensorEquivOfBasisExtensionStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.FlagBundleUnderEquivStatement
@@ -14,6 +11,7 @@ import Development.AutomorphicSpectrum.Proofs.MetricProofs.HodgeCptDescentGeneri
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.IsGenFamRevInvSubfamilyStatement
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.ExistsGenericTriangularFactorizationStatement
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.IsGenFamAlgebraicIndependentFinrankStatement
+import Development.AutomorphicSpectrum.Proofs.GeometryProofs.GenericFlagOverGenericField
 
 noncomputable section
 

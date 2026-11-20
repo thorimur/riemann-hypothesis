@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadNbhd
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadStep
 set_option maxSynthPendingDepth 1

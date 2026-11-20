@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.BaseRankDimension
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndefiniteScaleThetaDegreeStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndefiniteScaleThetaLimitStatement

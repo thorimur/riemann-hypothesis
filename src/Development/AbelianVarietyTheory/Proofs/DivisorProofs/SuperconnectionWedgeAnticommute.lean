@@ -1,9 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameAtApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarAddVectorScalar
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DBaseApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WedgeWedgeOfLt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SgnInsertOfNotMemNe
+import Mathlib.RingTheory.PicardGroup
 open Matrix MeasureTheory Set Filter Topology GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe GlobalTheory.TorsionForm GlobalTheory.TorsionForm.Gauge GlobalTheory.TorsionForm.Fibrewise
 open scoped ContDiff
 

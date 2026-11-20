@@ -1,7 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.RosatiLatticeNorms.LamPtClauses
-import Development.AbelianVarietyTheory.Definitions.CMLattices.LamLetters
 import Development.AbelianVarietyTheory.Definitions.CMLattices.ExistsIsThetaDegOfIsLocalModel
+import Formalism.LocalToGlobal.ProjectiveLattices.PartitionExtendByZeroAntitone
 open NumberField Formalism.BasicNotions Formalism.MainNotions Formalism.L2.Pj GlobalTheory GlobalTheory.CM
 
 namespace GlobalTheory.LamF

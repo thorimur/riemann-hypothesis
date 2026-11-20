@@ -1,9 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.Statements
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.AssemblyAnalytic
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.AssemblySympl
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.AssemblyLines
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.CoordFirst
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.CoordSiegel
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.CoordWeak
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ShortVectors

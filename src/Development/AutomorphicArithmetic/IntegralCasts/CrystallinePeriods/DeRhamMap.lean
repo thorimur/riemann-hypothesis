@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.TruncLogEqOfPowEqZero
 
 noncomputable section

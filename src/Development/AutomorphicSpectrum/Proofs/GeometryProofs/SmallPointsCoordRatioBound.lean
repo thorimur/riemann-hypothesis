@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.EmbedsGeneric
-import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.GoodOrigin
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalRingPointsExistsUniqueStatement
+import Development.AutomorphicSpectrum.Definitions.MetricPeriods.HasMultiplier
 
 noncomputable section
 

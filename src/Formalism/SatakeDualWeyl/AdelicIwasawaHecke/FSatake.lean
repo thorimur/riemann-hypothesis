@@ -1,4 +1,3 @@
-import Formalism.SatakeDualWeyl.StatementF
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.FSatakeC
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.HeckeActMem
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.HeckeConvolutionMemHolds

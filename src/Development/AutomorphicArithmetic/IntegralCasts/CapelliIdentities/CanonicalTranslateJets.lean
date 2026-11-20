@@ -1,8 +1,4 @@
-import Mathlib
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
-import Formalism.LocalRingCardinality.Params
-import Formalism.LocalRingCardinality.DataHost
 
 theorem UpperTheory.Reformulated.B.CanonicalTranslateJets.K_repr :
     ∀ (D : Formalism.BasicNotions.D7),

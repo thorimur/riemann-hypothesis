@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.DualFockLinear.RestNDOfAdm
+import Formalism.SharpRestriction.GrowthBounds.DualFockLinear.NormDegUniv
 
 noncomputable section
 

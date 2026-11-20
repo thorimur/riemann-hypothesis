@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.BigCellVanishingOfCommute
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Formalism.FourierDecayAlt
 

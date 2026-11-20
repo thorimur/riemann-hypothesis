@@ -1,4 +1,6 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.ComplexMinusRealLineMeasureCoordinates
+import Mathlib.MeasureTheory.Order.Group.Lattice
+import Mathlib.Topology.Separation.CompletelyRegular
 
 noncomputable section
 

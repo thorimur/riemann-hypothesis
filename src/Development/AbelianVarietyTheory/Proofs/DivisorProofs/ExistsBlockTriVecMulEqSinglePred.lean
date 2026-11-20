@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EigCongr
+import Formalism.LocalToGlobal.Divisibility.DefGroup
 
 noncomputable section
 

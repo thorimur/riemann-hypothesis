@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.SupportParts
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.LocProdFormula
 

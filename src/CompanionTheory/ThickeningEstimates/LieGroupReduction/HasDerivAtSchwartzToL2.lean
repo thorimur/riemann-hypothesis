@@ -1,4 +1,4 @@
-import CompanionTheory.ThickeningEstimates.LieGroupReduction.MetaDef
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IteratedLineDerivMemWeylAlg
 
 noncomputable section
 

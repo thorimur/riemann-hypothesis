@@ -1,8 +1,5 @@
 import Formalism.SharpRestriction.Divisibility.JetPolynomialLogs.DworkPowerSeriesWeights
-import Formalism.GaussJetBounds.GaussJetProofs.LogarithmWeightComparison
 import Formalism.GaussJetBounds.GaussJetProofs.OrbMul
-import Formalism.GaussJetBounds.GaussJetProofs.OneGauss
-import Formalism.GaussJetBounds.GaussJetProofs.ConstantCoeffAevalLinP
 
 set_option linter.unusedVariables false
 

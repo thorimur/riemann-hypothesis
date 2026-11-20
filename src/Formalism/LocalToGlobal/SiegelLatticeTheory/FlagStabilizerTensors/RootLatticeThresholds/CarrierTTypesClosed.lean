@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CarrierTTypes
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.NotCdomRaiseOfLt
 

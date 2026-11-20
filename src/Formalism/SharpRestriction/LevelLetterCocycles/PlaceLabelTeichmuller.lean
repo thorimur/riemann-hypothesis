@@ -1,8 +1,6 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.PrimesEffectiveChebotarev
-import Formalism.SharpRestriction.LevelLetterCocycles.StatementFamilies.ArithmeticCylinders
-import Formalism.PadicSubsetSums.StableGradedCounts.FixedByAutomorphismInField
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRGoodDualStable
+import Formalism.CyclotomicNorms.NonsquarefreeBounds.NonsquarefreeMonicBoundHolds
+import Formalism.SharpRestriction.LevelLetterCocycles.ResidualIrreducibleOfTheoremThreePrime
 
 noncomputable section
 

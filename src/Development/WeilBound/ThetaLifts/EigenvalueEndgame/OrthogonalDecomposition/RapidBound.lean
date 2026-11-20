@@ -1,5 +1,5 @@
 import Development.WeilBound.ThetaLifts.EigenvalueEndgame.OrthogonalDecomposition.HodgeTateFromSandwich
-import Development.WeilBound.ThetaLifts.FrameEstimates.ThickFrames
+import Development.WeilBound.ThetaLifts.FrameEstimates.SquareIntegrableWeilRange
 
 noncomputable section
 

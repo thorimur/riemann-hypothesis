@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.CohomologicalPurity.LeafChartCut
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 open TensorProduct

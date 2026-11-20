@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.CompIntField
 
 set_option autoImplicit false

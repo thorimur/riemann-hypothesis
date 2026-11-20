@@ -1,10 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsIsFlagBundleRankOne
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.RegularAlteration
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CurveV
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsHomogeneousSides
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamModelDR
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamifiedModelDeRhamOfHeightAlterationStatement
 
 set_option autoImplicit false

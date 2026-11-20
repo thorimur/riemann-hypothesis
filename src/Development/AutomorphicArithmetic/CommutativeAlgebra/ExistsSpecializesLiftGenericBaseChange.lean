@@ -1,4 +1,3 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.H0TwistOverClosedField
 
 open CategoryTheory Limits AlgebraicGeometry Opposite LateralTheory.E.E4

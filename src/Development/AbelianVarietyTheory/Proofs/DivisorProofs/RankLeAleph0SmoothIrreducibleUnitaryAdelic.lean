@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.GaloisLevelStructure.DefsFinTyp
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.FiniteAdeleStrongApproximationModNat
 

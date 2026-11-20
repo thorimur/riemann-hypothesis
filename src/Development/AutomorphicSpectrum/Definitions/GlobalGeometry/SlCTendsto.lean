@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.EvLApply
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.DefiniteFormStabilizerFiniteAwayFromP
+import Formalism.LocalToGlobal.ProjectiveLattices.FamilyUniformisationBasePointOrthogonalBis
 
 noncomputable section
 

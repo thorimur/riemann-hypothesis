@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.MdTendstoSeq
+import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.SumMLSqLeSq
 
 noncomputable section
 

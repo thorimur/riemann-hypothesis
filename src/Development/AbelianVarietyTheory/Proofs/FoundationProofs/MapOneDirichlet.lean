@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.PieceEqPieceT
+import Mathlib.RingTheory.WittVector.IsPoly
 
 open GlobalTheory.KummerEisensteinGalois
 

@@ -1,6 +1,3 @@
-import Formalism.LocalToGlobal.GaloisLevelStructure.DefsGal
-import Formalism.LocalToGlobal.GaloisLevelStructure.DefsLab
-import ReciprocityTheory.GaloisValuations.GlobalA
 import ReciprocityTheory.GaloisValuations.Global
 
 noncomputable section

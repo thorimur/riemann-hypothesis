@@ -1,6 +1,4 @@
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SideRationalCharacterData
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.HeckeOpen
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.Chi1LocIsGal
 
 set_option synthInstance.maxHeartbeats 200000

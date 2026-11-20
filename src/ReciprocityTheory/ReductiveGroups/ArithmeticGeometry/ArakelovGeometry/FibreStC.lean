@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.FibreStB
+import Mathlib.RingTheory.MvPolynomial.Symmetric.FundamentalTheorem
 
 noncomputable section
 

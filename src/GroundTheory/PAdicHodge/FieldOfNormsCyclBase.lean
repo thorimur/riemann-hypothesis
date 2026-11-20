@@ -1,7 +1,5 @@
-import Mathlib
-import GroundTheory.PAdicHodge.FieldOfNormsResidue
-import GroundTheory.PAdicHodge.FWCyclotomic
-import GroundTheory.LocalFields.KroneckerWeber
+import GroundTheory.LocalFields.Examples
+import Mathlib.NumberTheory.Padics.Complex
 set_option maxSynthPendingDepth 1
 
 noncomputable section

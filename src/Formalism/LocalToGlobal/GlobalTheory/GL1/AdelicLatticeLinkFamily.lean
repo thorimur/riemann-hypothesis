@@ -1,12 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.GlobalTheory.GL1.Statement
-import Formalism.LocalToGlobal.GlobalTheory.GL1.CompactFixesLattice.SingleMemLam
-import Formalism.LocalToGlobal.GlobalTheory.GL1.CompactFixesLattice.SingleMemOrb
-import Formalism.GL3MeanSquares.HookFormulaTorsion.DifferenceStableUnderAction
-import Formalism.GL3MeanSquares.HookFormulaTorsion.DifferentIdealConditions
-import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.CMFieldLemmas
-import Formalism.SatakeDualWeyl.KpqSubgroupCompact
-import Formalism.FrobeniusOrbits.RealSubfieldLeCompositum
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Algebra.AffineMonoid.Basic
 
 open IsDedekindDomain TensorProduct NumberField Topology
 

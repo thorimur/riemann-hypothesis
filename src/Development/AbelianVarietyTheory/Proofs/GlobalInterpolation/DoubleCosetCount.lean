@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.StabiliserCardinality
+import Mathlib.Tactic.ENatToNat
 
 namespace GlobalTheory.Proof.DoubleCosetCountGlobalInterpolation
 

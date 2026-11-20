@@ -1,8 +1,5 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.IsChartIff
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDJet
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.LBCorr
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.LBTransport
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.LBLocal
 
 set_option autoImplicit false
 

@@ -1,4 +1,3 @@
-import Development.WeilBound.ThetaLifts.SmallCones.ThetaUniq
 import Development.WeilBound.ThetaLifts.SmallCones.ConeEx
 
 noncomputable section

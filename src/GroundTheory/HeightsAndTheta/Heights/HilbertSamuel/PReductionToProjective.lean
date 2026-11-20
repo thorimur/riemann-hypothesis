@@ -1,9 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsTopPullFS
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsProjDegGenDeg
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenDegMatAct
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFrameChange
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsMetricToFS
+import Mathlib.Analysis.Asymptotics.SpecificAsymptotics
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

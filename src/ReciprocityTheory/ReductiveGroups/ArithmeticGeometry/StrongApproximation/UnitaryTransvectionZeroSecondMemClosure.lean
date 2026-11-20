@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.StrongApproximation.EichAlongSub
 
 namespace ReciprocityTheory.ChartRestriction.G.SA

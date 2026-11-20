@@ -1,4 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.MultiplicityOne.StDefs
+import Mathlib.Geometry.Manifold.Sheaf.Basic
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

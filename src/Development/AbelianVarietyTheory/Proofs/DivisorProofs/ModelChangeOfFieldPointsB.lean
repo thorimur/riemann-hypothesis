@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsLocGrLat
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RegFlagged
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSplitting
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsCoordMat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalModelBaseChangeNormalStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalModelFibreProductNormalStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalModelGenericFibreIsoStatement

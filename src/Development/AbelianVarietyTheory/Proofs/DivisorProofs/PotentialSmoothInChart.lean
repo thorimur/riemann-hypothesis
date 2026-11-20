@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ModelDdcForms
+import ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialOfFun
 
 open ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M
 open scoped ContDiff Topology

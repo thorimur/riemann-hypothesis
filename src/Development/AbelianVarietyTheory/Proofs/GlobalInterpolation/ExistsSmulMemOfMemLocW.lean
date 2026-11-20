@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalRingCardinality.Lemmas
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.FormsStable
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.ExistsBranchingCoordinatesIff
 
 noncomputable section
 

@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.PairingIndexBounds.ModelLatticeMoves.GoodLat
-import Formalism.LocalToGlobal.PairingIndexBounds.ModelLatticeMoves.ModelMoves
+import Formalism.LocalToGlobal.PairingIndexBounds.ModelLatticeMoves.IsBichar
 
 noncomputable section
 open scoped BigOperators

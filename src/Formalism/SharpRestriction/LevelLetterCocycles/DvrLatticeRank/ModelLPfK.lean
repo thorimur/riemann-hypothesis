@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfPt
+import Formalism.SharpRestriction.LevelLetterCocycles.LamPS
 
 noncomputable section
 

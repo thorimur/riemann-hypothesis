@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.TableLineDegreeTwo
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MemIntPts
+import Mathlib.RingTheory.WittVector.IsPoly
 
 namespace GlobalTheory
 

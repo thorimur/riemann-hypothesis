@@ -1,7 +1,5 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.MemZeroSubCoe
-import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.RkMultVNonneg
-import Formalism.SharpRestriction.LevelLetterCocycles.LocalizationQuotientSeparatedDvd
 import Formalism.SharpRestriction.LevelLetterCocycles.ExpRules
+import Formalism.SharpRestriction.LevelLetterCocycles.LatticeBoundsOfThreeParts
 
 noncomputable section
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.AcrisKummerUnits.Splits
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MemIdempotentComplementIff
 
 open CategoryTheory AlgebraicGeometry CrystallineSemistableComparison CrystallineSemistableComparison.R

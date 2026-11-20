@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtChart
+import Mathlib.RingTheory.AdicCompletion.RingHom
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 open IsLocalRing
 
 namespace GlobalTheory.DenseSec

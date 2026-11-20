@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.MackeyFormula.ConjHomotopy
 import GroundTheory.TateCohomology.CupCochains
 set_option maxSynthPendingDepth 1

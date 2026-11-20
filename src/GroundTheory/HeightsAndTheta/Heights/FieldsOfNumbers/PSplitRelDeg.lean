@@ -1,7 +1,6 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsRename
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.ContractBlocksSplitPrime
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameMultiHomog
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.FieldNumbers

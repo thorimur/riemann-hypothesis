@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SubharmonicLogConvexityQuotient
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.EventuallyDifferentiableAtOfContDiffAtTwo
 open scoped ContDiff
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.subharmonic_log_convexity_quotient : ∀ (g : ℝ → ℝ) (δ c : ℝ), 0 < δ → ContDiffOn ℝ 2 g (Set.Ioo 0 δ) →

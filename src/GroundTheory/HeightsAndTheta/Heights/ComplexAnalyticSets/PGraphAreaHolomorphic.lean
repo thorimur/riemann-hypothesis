@@ -1,8 +1,9 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StatementsArea
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StAreaMultiplicity
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGraphAreaHolomorphic
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Analysis.Calculus.ContDiff.WithLp
+import Mathlib.Analysis.Calculus.FDeriv.WithLp
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

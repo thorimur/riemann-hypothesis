@@ -1,5 +1,3 @@
-import Formalism.ThetaLogCoordinates.FockResolutionOnto.ShiftLastLetterThresholds
-import Formalism.PolynomialDimension.MultinomialDepth.PartnerM
 import Formalism.MahlerMeasure.MahlerMeasureProofs.MeanGam
 
 namespace Formalism.InvariantFactorPaths.L4

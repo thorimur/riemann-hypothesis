@@ -1,7 +1,8 @@
-import Mathlib
-import Formalism.HarderNarasimhan.ShiftInvariance
-import Formalism.RealPlaceAnalysis.Complexify
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.TransferenceCoverHolds
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Module.LinearMap.Rat
+import Mathlib.NumberTheory.NumberField.CanonicalEmbedding.Basic
+import Mathlib.RingTheory.PiTensorProduct
 open Formalism.HN Formalism.HermitianLatticesTheory Matrix NumberField Finset
 
 namespace GlobalTheory.TraceCover

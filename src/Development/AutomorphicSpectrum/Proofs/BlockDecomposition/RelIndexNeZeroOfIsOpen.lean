@@ -1,5 +1,4 @@
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TwistBijective
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalAlgebraHolds
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 open GlobalTheory.BCT GlobalTheory.CompanionTheory.SplitConvTw
 open scoped Classical Pointwise
 

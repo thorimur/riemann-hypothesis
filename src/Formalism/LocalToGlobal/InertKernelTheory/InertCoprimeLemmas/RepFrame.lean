@@ -2,6 +2,8 @@ import Formalism.LocalToGlobal.InertKernelTheory.FrameLatMap
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.LocalLevelIsKOneAtT
 import Formalism.LocalToGlobal.InertKernelTheory.StatementJets
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.IntBasis
+import Formalism.LocalToGlobal.InertKernelTheory.DefsRep
+import Formalism.LocalToGlobal.InertKernelTheory.DefsRepFrame
 
 noncomputable section
 

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.DisjointSpanPerpLat
+import Formalism.SatakeDualWeyl.Statement
 
 open scoped Matrix
 open Formalism.UG

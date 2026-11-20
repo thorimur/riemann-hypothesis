@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.GoodOrigin
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.SplitComps
 
 noncomputable section
 

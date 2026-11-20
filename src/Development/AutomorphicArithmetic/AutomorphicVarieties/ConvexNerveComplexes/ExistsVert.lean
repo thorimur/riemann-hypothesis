@@ -1,6 +1,8 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.ConvexNerveComplexes.NerveFaceClosed
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ConvexNerveComplexes.Sublevel
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ConvexNerveComplexes.Perturb
+import Mathlib.Analysis.Convex.KreinMilman
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Set UpperTheory.V.ConeExtensionAcyclic
 

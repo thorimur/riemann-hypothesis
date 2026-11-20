@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.StandardFiveNontrivial
+import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Card
 open Polynomial Classical GlobalTheory.BadShare
 
 namespace GlobalTheory.BadShare

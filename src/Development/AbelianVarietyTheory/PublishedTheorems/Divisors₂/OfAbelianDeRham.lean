@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.AbelianDeRhamStructure
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.CommAlgFunctorCohomologyTwoEqZeroOfIsInitial
+import Development.AbelianVarietyTheory.Definitions.AbelianSchemeLaws.ExistsUniqueEqConstMulEllTheta
+import Mathlib.LinearAlgebra.ExteriorPower.Basis
+import Mathlib.RingTheory.Flat.LocallyFree
 
 set_option autoImplicit false
 

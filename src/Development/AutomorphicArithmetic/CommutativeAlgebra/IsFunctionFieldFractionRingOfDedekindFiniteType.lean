@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.IsChart
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.CurveFunctionField
 
 open GroundTheory.FunctionField UpperTheory.Et.Sel

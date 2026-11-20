@@ -1,4 +1,5 @@
-import ReciprocityTheory.SemistableReduction.SemiDegG
+import Mathlib.RingTheory.SimpleRing.Principal
+import ReciprocityTheory.SemistableReduction.SemiDegF
 
 noncomputable section
 

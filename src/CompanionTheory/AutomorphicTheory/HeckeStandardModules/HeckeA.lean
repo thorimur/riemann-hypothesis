@@ -1,6 +1,7 @@
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.HeckeActMem
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Heckebasic
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.EvalFg
+import Mathlib.Order.CompletePartialOrder
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Formalism.UG Formalism.UG.P
 

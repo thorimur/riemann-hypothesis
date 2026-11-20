@@ -1,13 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.KOneCharacterTrivialNearOne
-import Formalism.LocalToGlobal.Columns.ChainInstY
-import Formalism.LocalToGlobal.Columns.XtSumSingle
 import Formalism.LocalToGlobal.Columns.LastRowColLevSym
-import Formalism.LocalToGlobal.Columns.ChainTopLawB
 import Formalism.LocalToGlobal.Columns.ChainLawPhiTop
-import Formalism.LocalToGlobal.Columns.ChainTopLawTw
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.TopLawQ
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.MemZmuOfPowPred
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.SmulCompSmul
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.LastStepDatumLawK1DepthTwiceMStatement
 

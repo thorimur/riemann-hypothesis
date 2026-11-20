@@ -1,5 +1,27 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.PowLeComapMapPow
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Normed.Algebra.Ultra
+import Mathlib.Analysis.Normed.Field.Approximation
+import Mathlib.Analysis.Normed.Field.Instances
+import Mathlib.Analysis.Normed.Unbundled.SpectralNorm
+import Mathlib.NumberTheory.Ostrowski
+import Mathlib.NumberTheory.Padics.PadicIntegers
+import Mathlib.RingTheory.AdicCompletion.LocalRing
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.KrullDimension.LocalRing
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.Valuation.Discrete.IsDiscreteValuationRing
+import Mathlib.RingTheory.Valuation.Integral
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Polynomial
 

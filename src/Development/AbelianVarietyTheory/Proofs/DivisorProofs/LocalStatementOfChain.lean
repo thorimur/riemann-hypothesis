@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.GlobalHeightBoundIffAtGoodPrimes
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPeriodLocalFinImpLocal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalFiniteOfChain
 open CategoryTheory Limits AlgebraicGeometry IsLocalRing MvPolynomial

@@ -1,15 +1,12 @@
 import Development.WeilBound.ThetaLifts.FrameEstimates.DomWeil
 import Development.WeilBound.ThetaLifts.FrameEstimates.SoSemi
-import Development.WeilBound.ThetaLifts.FrameEstimates.ThickFrames
 import Development.WeilBound.ThetaLifts.FrameEstimates.IContOf
 import Development.WeilBound.ThetaLifts.FrameEstimates.GrpTop
 import Development.WeilBound.ThetaLifts.FrameEstimates.BlockForm
 import Development.WeilBound.ThetaLifts.FrameEstimates.SiegelAll
-import Development.WeilBound.ThetaLifts.FrameEstimates.SqAllC
 import Development.WeilBound.ThetaLifts.FrameEstimates.ThetaSumNeg
 import Development.WeilBound.ThetaLifts.FrameEstimates.HermitianFormDetNeZero
 import Development.WeilBound.ThetaLifts.FrameEstimates.IsCompactIntV
-import Development.WeilBound.ThetaLifts.FrameEstimates.Parity
 import Development.WeilBound.ThetaLifts.FrameEstimates.CoefSum
 import Development.WeilBound.ThetaLifts.FrameEstimates.CoefEq
 import Development.WeilBound.ThetaLifts.FrameEstimates.CoefBd
@@ -17,7 +14,6 @@ import Development.WeilBound.ThetaLifts.FrameEstimates.CoefReal
 import Development.WeilBound.ThetaLifts.FrameEstimates.FourierInj
 import Development.WeilBound.ThetaLifts.FrameEstimates.LatInv
 import Development.WeilBound.ThetaLifts.FrameEstimates.LatMeas
-import Development.WeilBound.ThetaLifts.FrameEstimates.LatCpt
 import Development.WeilBound.ThetaLifts.FrameEstimates.LatArch
 import Development.WeilBound.ThetaLifts.FrameEstimates.LatTor
 import Development.WeilBound.ThetaLifts.FrameEstimates.LatFull

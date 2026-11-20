@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.UnitaryNorms.IsUnitaryNormOf
 import GroundTheory.GlobalFields.WeilGroups.QuasiCharacterDecomposition
 import GroundTheory.GlobalFields.TateThesis.NonvanishingPrimes

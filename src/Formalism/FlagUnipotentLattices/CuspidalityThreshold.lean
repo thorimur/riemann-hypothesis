@@ -1,4 +1,5 @@
-import Formalism.FlagUnipotentLattices.CoveringRadius2
+import Formalism.FlagUnipotentLattices.HalfDifferenceL1Bound
+import Mathlib.NumberTheory.Padics.PadicIntegers
 
 open Finset MeasureTheory NumberField Matrix
 open scoped ComplexOrder

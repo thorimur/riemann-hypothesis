@@ -1,8 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.PairValDefs
-import Formalism.PeriodIntegrals.NormRepChange
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormRepresentationChange.Development
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormRepresentationChange.NlamFrameMem
+import Formalism.SharpRestriction.CuspSpanNormBounds.FlagEEqHyperbolic
 
 noncomputable section
 

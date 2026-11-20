@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetGNeZero
 import Formalism.LocalToGlobal.Divisibility.CoefModLemmas
 

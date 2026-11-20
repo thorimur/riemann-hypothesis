@@ -1,4 +1,4 @@
-import Development.WeilBound.ThetaLifts.LocalTheory.MemPolData
+import Development.WeilBound.ThetaLifts.LocalTheory.UnramifiedMultiplicityOneProportional
 
 noncomputable section
 

@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.HodgeSurjectivity.CupSurjectivity.ProperGenMap
+import Development.WeilBound.CoreStatements.PadicHodgeComparison.HodgeSurjectivity.CupSurjectivity.SumCoordBasisDual
 
 set_option autoImplicit false
 set_option backward.isDefEq.respectTransparency false

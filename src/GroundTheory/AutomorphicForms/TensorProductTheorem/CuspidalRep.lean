@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TensorProductTheorem.CentralCuspSplit
 import GroundTheory.AutomorphicForms.UnitaryAdmissible
 import GroundTheory.AutomorphicForms.GL2Classical.Irreducible

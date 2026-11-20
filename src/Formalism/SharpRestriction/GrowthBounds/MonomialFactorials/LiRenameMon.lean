@@ -1,4 +1,5 @@
 import Formalism.MahlerMeasure.MahlerMeasureProofs.SSDirect
+import Mathlib.Algebra.AffineMonoid.UniqueSums
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Statements.CuspFrameWeights.EigenfunctionFiniteCoefficients
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLocGrowthA
 

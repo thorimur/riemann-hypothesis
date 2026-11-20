@@ -1,5 +1,6 @@
 import Formalism.TruncatedSeriesCounting.PowMemSpanOfMemSpanLinearDistinguished
 import Formalism.FrobeniusContraction.FrobeniusContractionProofs.LenBound
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

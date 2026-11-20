@@ -1,6 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.SingleLetterBiextensionRelation
 import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.UnimodularGram.Orthonormal
+import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KurComplete
+import Mathlib.FieldTheory.KummerExtension
+import Mathlib.Topology.MetricSpace.Contracting
 
 open Formalism.L2.Th1.CM (MaximalUnramifiedExtension)
 open Formalism.L2.Th1.D (OwOK TrDual)

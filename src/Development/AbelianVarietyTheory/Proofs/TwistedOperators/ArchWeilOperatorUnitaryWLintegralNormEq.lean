@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ArchActOne
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.OneParameterOperatorUnique
 

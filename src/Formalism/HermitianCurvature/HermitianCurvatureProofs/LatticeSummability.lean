@@ -1,5 +1,8 @@
 import Formalism.HermitianCurvature.LatticeHerglotzBound
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.MajorantIntegrals
+import Mathlib.MeasureTheory.Integral.Pi
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open MeasureTheory Set Finset Function
 

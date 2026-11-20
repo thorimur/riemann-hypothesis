@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.GoodRoot
-import Development.EtaleCohomology.EtaleSheaves.StandardChartsLineOne
+import Development.EtaleCohomology.EtaleSheaves.LineHigh
+import Mathlib.CategoryTheory.ExtremalEpi
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry IsLocalRing GlobalTheory.EtC UpperTheory.Et LateralTheory.E.t_E2Cut LateralTheory.E.LineOneCut LateralTheory.E.StandardEtaleChartsMultivariableHensel

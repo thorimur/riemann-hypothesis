@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ContinuousMapPFin
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HasSatAtConstOne
 
 noncomputable section
 

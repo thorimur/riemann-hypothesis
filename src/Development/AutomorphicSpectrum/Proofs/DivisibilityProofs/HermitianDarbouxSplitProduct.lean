@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.FiniteNonunitMatrix
+import Mathlib.Analysis.CStarAlgebra.CStarMatrix
 
 open Matrix
 

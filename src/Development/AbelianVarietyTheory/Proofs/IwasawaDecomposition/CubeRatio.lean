@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsRigFr
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsFrRatio
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqPf
 
 set_option autoImplicit false
 

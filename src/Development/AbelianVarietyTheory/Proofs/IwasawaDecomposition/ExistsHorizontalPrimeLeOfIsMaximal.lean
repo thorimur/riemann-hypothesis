@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.IntToRatA
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsValuationSubringLiftOfSpecialFibre
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.RingKrullDimQuotientEqOfMemMinimalPrimes

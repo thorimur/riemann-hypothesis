@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.CoreLatticeEqOfMemCoreStabilizer
 import GroundTheory.AutomorphicForms.DefiniteClassNumber.Finiteness
 

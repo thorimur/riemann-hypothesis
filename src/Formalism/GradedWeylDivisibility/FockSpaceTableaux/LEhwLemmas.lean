@@ -1,7 +1,4 @@
-import Formalism.GradedWeylDivisibility.StatementE
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LHwlineLemmas
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LHwrowLemmas
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.DualWeylDominanceOf
+import Formalism.GradedWeylDivisibility.FinalC
 
 open MvPolynomial
 

@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.GenTyL
 import Development.AbelianVarietyTheory.Definitions.Divisors.OverPair
+import Development.AbelianVarietyTheory.Definitions.Divisors.FlagM3PadicGlobal
 
 noncomputable section
 

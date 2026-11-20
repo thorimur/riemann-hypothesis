@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.ExtendsToFractionField
 open AlgebraicGeometry CategoryTheory
 

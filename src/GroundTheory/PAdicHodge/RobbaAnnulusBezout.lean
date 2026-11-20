@@ -1,11 +1,5 @@
-import Mathlib
-import GroundTheory.PAdicHodge.RobbaSeries
-import GroundTheory.PAdicHodge.HighIndexSingleZeroOne
-import GroundTheory.PAdicHodge.RobbaBounded
-import GroundTheory.PAdicHodge.RobbaNewton
-import GroundTheory.PAdicHodge.RobbaClosed
-import GroundTheory.PAdicHodge.RobbaDivision
 import GroundTheory.PAdicHodge.RobbaPreparation
+import Mathlib.Order.Interval.Finset.Box
 set_option maxSynthPendingDepth 1
 
 noncomputable section

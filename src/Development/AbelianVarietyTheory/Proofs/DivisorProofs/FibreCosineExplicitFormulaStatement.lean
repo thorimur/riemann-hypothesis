@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FibreCosineExplicitFormula
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FsOne
 open MeasureTheory
 open scoped ComplexOrder ENNReal
 set_option maxHeartbeats 1000000 in

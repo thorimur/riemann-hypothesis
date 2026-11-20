@@ -1,7 +1,6 @@
 import Development.AutomorphicArithmetic.CharacterBoxes.Supply
 import Development.AutomorphicArithmetic.CharacterBoxes.DivinNOfHypV
 import Development.AutomorphicArithmetic.PrimitiveCosets.LevelGmLeOnFamilyScales
-import Development.AutomorphicArithmetic.PrimitiveCosets.Imports
 
 noncomputable section
 

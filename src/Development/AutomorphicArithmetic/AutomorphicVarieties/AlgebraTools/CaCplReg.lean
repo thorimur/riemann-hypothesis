@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.IsCplAtSelf
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsRegularLocalRingAdicCompletion
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplUniq
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplEx

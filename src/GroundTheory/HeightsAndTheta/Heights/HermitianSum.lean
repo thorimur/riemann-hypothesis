@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HermitianLattice
 
 namespace GroundTheory.Heights₂.Heights

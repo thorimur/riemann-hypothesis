@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SquareThetaTripleExistsSignatureRankSumLt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsLevi
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.HasSignatureComplement

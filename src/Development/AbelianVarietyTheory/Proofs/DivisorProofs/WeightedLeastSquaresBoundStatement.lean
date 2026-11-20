@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeightedLeastSquaresBound
 open scoped ComplexOrder Matrix
 set_option maxHeartbeats 1000000 in

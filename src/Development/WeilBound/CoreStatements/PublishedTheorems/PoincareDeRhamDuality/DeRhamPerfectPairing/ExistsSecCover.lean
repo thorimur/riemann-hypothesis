@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CrystallineClassMemHodgeFiltrationOfCechRepZero
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsAdditiveOfUniversal
+import Development.AbelianVarietyTheory.Proofs.ModuliProofs.ClsLinCombSingle
 
 set_option autoImplicit false
 

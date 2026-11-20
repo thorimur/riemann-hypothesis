@@ -1,6 +1,8 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.UltraDefs
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MemSpanVariable
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.MvPowerSeries.Order
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Filter UpperTheory.V.AlgebraTools
 open scoped TensorProduct

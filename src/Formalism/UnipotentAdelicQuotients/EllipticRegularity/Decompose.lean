@@ -1,4 +1,8 @@
 import Formalism.UnipotentAdelicQuotients.EllRegStep
+import Mathlib.Analysis.InnerProductSpace.Calculus
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace ZetaZeros.D.EllReg
 

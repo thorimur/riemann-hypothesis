@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ScalPairs
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BetaModuloX.BetaModXOfIota
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BetaModuloX.IotaSurjectiveHolds
 

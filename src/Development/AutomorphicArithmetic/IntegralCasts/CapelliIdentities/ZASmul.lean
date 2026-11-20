@@ -1,8 +1,5 @@
-import Mathlib
 import GroundTheory.PAdicHodge.BdRAlg
 import GroundTheory.PAdicHodge.FactorizationFactorialLe
-import GroundTheory.PAdicHodge.PerfectoidField
-import GroundTheory.PAdicHodge.KerFontaineThetaCompFrobeniusEquivSymmPow
 
 @[reducible] noncomputable def UpperTheory.Reformulated.B.Qi53.Acris :
     (l : ℕ) → [Fact (Nat.Prime l)] → Type :=

@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.BrBase
+import Formalism.SharpRestriction.GrowthBounds.GLWeightTheory
+import Formalism.SharpRestriction.GrowthBounds.ProjectionOfIsotypicDecomposition
 
 noncomputable section
 

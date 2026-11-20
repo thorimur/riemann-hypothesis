@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HarishChandraCentre.Triangular
+import GroundTheory.AutomorphicForms.HarishChandraCentre.ConstantCoeffRhoOneCanonMonomial
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 
 namespace GroundTheory.Automorphic.HarishChandra
 

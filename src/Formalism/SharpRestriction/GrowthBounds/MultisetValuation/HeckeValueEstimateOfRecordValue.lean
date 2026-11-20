@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.TminusLinApply
-import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TheoremCIiiMulti
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.TheoremOfAlternateForm
+import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.GaussElementarySymmetric
 
 noncomputable section
 

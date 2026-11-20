@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.DiffDefs
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.ImgOneGcd
 
 open UpperTheory.HF

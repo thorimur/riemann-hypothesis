@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.IsProbabilityMeasureSphereLaw
+import Mathlib.Algebra.MvPolynomial.SchwartzZippel
+import Mathlib.Data.Rat.Star
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,13 +1,11 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HaarSK
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocPart
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IdeleTop
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSplitBasisCompl
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLeviLiftOfAdaptedPlane
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnipotentFundamentalDomainExists
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicUnitaryFiniteInfiniteSplit
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryHaarRightInvariant
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IsMulRightInvariantOfFundamentalDomain
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsCompactIsOpenUnitsAt
 
 noncomputable section
 

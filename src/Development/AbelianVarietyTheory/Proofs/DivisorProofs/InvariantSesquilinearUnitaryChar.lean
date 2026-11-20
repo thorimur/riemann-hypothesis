@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DiffsZeroOfLev
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FullRk
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegrableFullRankZeta
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FullRankInvariantFormTransportStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FullRankFormLinearExtensionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FullRankInSpanSmallFProductsStatement

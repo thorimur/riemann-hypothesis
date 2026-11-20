@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsAlgHomOfIsBaseChange
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTopFormFrameBaseCoordinatesAddVariablesEtale
+import Mathlib.RingTheory.TensorProduct.IsBaseChangeFree
 open GlobalTheory GlobalTheory.TopForm
 open scoped TensorProduct
 

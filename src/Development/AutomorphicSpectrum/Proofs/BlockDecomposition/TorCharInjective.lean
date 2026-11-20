@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCliff
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CPoly
+import Mathlib.LinearAlgebra.Eigenspace.Pi
 
 noncomputable section
 

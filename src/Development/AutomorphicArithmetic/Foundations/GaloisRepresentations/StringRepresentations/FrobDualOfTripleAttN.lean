@@ -1,6 +1,5 @@
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedOfAttached
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HodgeOfAttached
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PureOfAttached
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.JumpsGoodOfAttached
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FrobDualOfAttached
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HkFrobOfAttached

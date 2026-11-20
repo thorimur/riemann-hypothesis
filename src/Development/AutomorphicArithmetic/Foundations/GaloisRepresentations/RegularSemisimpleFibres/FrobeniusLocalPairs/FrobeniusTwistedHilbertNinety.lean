@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.FrobeniusLocalPairs.FrobeniusTwistedHilbertNinetyAlt
 import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.ExistsNotMem
 import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.GalField
-import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.GalExt
 
 theorem UpperTheory.Gal.InertialTypesAlt.L.hilbert_ninety_frobenius_twisted_finite_algebra :
     UpperTheory.Gal.InertialTypesAlt.L.FrobeniusTwistedHilbertNinety := by

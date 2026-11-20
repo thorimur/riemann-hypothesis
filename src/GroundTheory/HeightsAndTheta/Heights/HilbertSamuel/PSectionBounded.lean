@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSectionRing
 import GroundTheory.PowerSubgroups.CountableNeighbourhoods.PSectionBoundedCountable
 

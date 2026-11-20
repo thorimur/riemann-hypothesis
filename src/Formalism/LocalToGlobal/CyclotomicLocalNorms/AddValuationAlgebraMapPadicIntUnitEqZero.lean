@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.CyclotomicLocalNorms.FiniteDimensionalUnramifiedSubfield
+import Formalism.LocalToGlobal.CyclotomicLocalNorms.NormSubToZModPowVal
 
 noncomputable section
 

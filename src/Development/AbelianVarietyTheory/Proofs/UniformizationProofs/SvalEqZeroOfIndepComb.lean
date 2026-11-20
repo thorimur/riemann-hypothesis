@@ -1,6 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.ValCalc
-import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.IsExtensionPullOver
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsMoveMap
 
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry

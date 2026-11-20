@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.AdicCompletionExports.NonnegativeDivisors.Statement
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 namespace Formalism.AdicCompletionExports.NonnegativeDivisors
 

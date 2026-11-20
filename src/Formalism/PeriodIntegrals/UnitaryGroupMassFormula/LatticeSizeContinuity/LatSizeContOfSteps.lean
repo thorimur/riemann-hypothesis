@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.LatSizeCont
 
 noncomputable section

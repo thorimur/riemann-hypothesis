@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RatVInjective
-import CompanionTheory.AutomorphicTheory.SiegelWeilFiniteness.Bridge
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.Assembly
+import GroundTheory.AutomorphicForms.HermitianExistenceLocal
 
 open NumberField MeasureTheory Matrix Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes GlobalTheory.AdelicU GlobalTheory.SiegelSet PositivityTheory.ThKR GlobalTheory.CompanionTheory.RedCov
 open Formalism.UG (cT)

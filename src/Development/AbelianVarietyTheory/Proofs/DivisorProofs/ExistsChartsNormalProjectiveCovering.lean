@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsUnitNatCastRes
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsAffineIntersectionChartsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitRatioOnChartOverlapStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GluedLineBundleInvertibleStatement

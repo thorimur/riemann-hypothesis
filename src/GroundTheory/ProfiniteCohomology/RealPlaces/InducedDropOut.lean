@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.InducedDefs
 set_option maxSynthPendingDepth 1
 

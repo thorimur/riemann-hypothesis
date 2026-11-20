@@ -1,6 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualTopSimpleSub
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualTopStacked
+import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ScaledExample
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

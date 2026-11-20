@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.AdicCompletionLocal.LocTied
-import Development.AbelianVarietyTheory.CrystallinePeriods.CrisMaps
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsCrisP
 
 noncomputable section

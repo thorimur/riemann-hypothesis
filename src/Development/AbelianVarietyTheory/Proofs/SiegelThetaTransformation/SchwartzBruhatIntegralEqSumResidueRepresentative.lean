@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.EchEqOneIff
 import Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.FinsumQuotientOfLe
+import Mathlib.Data.Int.Star
 open Matrix Complex GlobalTheory.SW GlobalTheory.SW.FourierJ
 open scoped ComplexConjugate Real
 

@@ -1,5 +1,6 @@
-import Formalism.WachLatticeTwists.CoprimeLiftBounds.WachTwistTheorem
 import Formalism.WachLatticeTwists.Statement
+import Formalism.CharacterColumnKernels.CharacterColumnKernelEqualityForm
+import Formalism.WachLatticeTwists.CoprimeLiftBounds.StatBridgeChiOne
 
 open Finset Classical
 

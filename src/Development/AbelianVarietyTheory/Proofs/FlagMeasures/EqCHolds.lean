@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ConstC
 
 noncomputable section

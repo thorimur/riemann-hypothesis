@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.AbsoluteAmplitudeSecondOfSource
+import Formalism.SharpRestriction.CuspSpanNormBounds.LeSCSCl
+import Formalism.SharpRestriction.CuspSpanNormBounds.SBridge
 
 set_option linter.unusedVariables false
 

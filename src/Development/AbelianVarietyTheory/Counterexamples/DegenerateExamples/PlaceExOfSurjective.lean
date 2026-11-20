@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.OneMapT
-import Formalism.LocalToGlobal.IndefiniteReal.LinksChar
+import Formalism.LocalToGlobal.IndefiniteReal.BridgeTie
 
 noncomputable section
 

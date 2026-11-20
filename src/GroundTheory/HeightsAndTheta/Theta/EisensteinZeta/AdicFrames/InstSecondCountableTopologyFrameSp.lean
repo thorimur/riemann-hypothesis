@@ -1,6 +1,4 @@
-import Mathlib
 
-import GroundTheory.AutomorphicForms.AdelicUnitaryGroups.Topology
 import GroundTheory.HeightsAndTheta.Theta.EisensteinZeta.AdicFrames.IsHermitianForExH
 
 set_option linter.unusedSectionVars false

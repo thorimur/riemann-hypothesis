@@ -1,5 +1,7 @@
 import Formalism.HermitianCurvature.LatticeHerglotzBound
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MiddleThirdEstimate
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Filter Topology Finset
 

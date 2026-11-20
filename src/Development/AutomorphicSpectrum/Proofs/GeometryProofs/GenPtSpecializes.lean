@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsCptGen
+import Mathlib.AlgebraicGeometry.FunctionField
 
 noncomputable section
 

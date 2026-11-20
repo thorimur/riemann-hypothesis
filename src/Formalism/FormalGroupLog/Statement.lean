@@ -1,5 +1,9 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CapelliComplements.FirstLemmaM
+import Mathlib.NumberTheory.Padics.PadicIntegers
+import Mathlib.RingTheory.FormalGroup.Basic
+import Mathlib.RingTheory.MvPowerSeries.Derivative
+import Mathlib.RingTheory.MvPowerSeries.Expand
+import Mathlib.RingTheory.MvPowerSeries.GaussNorm
 
 noncomputable section
 

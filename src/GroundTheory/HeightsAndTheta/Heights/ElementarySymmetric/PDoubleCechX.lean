@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.UpdateEraseSubset
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.GraphEquiv
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.DoubleSumEqZero

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CompactSupportCohomology.ShiftNegOneHomologyIsoSymmHom
 set_option maxSynthPendingDepth 1
 

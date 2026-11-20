@@ -1,7 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.ColsS
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.ColXRen
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.ColXSeg
-import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.SgKSPowP
+import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.YcondFactor
 
 noncomputable section
 

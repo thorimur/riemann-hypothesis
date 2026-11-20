@@ -1,10 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.MemRangeOfCls
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.IsFETranslateFeTranslate
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ScalCompSpecMap
 import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.ExistsGeneratorOfBasis
 import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.AbelianSchemeLawsUnconditional
-import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.GlobalFnsHolds
 
 set_option autoImplicit false
 

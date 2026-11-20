@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightSubringPrimeMaximal
+import Mathlib.Algebra.GroupWithZero.Submonoid.CancelMulZero
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
+import Mathlib.RingTheory.SimpleRing.Principal
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

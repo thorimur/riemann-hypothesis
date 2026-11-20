@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.ThetaLiftGeometry.LocalTransferIntertwiners
 import Development.AbelianVarietyTheory.BlockTheory.ThetaLiftGeometry.LocalizationParts
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.DcOpCommOfCommute
@@ -6,7 +5,6 @@ import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.LocSplitProdR
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ForallExistsTransfer
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TypePlacesNotPairwiseConjugate
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RankWeightComponentEq
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassPresExtMemExtBijIsom
 
 noncomputable section
 

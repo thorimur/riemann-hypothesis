@@ -1,5 +1,6 @@
-import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.DualFlatOf
-import Formalism.LocalToGlobal.GroupLattices.FockModels.TestSideFinal
+import Formalism.LocalToGlobal.GroupLattices.FockModels.TestSideDef
+import Formalism.LocalToGlobal.GroupLattices.FockModels.TestSideLat
+import Formalism.SharpRestriction.GrowthBounds.ObjSeg
 
 open MvPolynomial
 

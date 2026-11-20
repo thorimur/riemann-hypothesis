@@ -1,11 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.ParametersTermRelations
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.RealObj
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.DataInst
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.GrowthOfBasic
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SecondDerivativeHolds
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.GermExpansionMatrixFunction
-import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleLayerExistsGenerators
+import Formalism.LocalRingCardinality.DataHost
 
 noncomputable section
 

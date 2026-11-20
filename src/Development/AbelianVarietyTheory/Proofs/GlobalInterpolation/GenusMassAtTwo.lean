@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.GlobalTheory.GL5.DiscreteSeriesOfFormalDegree
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.GenusMassStdAll
 

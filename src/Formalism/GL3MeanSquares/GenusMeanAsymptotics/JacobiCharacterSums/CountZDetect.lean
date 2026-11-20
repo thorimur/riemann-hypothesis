@@ -1,4 +1,6 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.CountZDefs
+import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.LGrowth
+import Mathlib.RingTheory.PiTensorProduct
 
 open Complex Finset
 open scoped ArithmeticFunction.Moebius

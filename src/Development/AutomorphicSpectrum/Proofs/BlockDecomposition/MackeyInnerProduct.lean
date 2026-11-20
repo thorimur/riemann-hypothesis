@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.FiniteTypeHarishChandra.SupportExistsAll
+import Mathlib.Tactic.ENatToNat
 
 open ReciprocityTheory.Ty.Fin
 

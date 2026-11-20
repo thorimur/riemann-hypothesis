@@ -1,8 +1,4 @@
-import Mathlib
 import ReciprocityTheory.SemistableReduction.TorusL2CauchyInequality
-import ReciprocityTheory.SemistableReduction.AeBlockSphereEvalNeZero
-import ReciprocityTheory.SemistableReduction.RestBlockSubstIsMultiHomogeneous
-import ReciprocityTheory.SemistableReduction.IntCoresA
 
 namespace ReciprocityTheory.ChartRestriction.G.T0
 

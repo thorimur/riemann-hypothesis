@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.DeterminantCokernelCount.JetMomEquiv
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.VacuumEntireAndNormalizedJetsAlgebraic
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.TranslateMomentsAll
@@ -9,6 +8,7 @@ import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsContinuousChar
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.AlgEntireTranslate
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsTraceOne
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.MomentCombSplitting
+import Formalism.LocalToGlobal.GlobalTheory.GL3.PLinkChi
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AmbientBaseHeq
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.NoRamifiedNorm
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeUOperatorRationalInvertibleRamifiedFormsStatement

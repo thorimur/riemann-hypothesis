@@ -1,5 +1,5 @@
-import Formalism.GradedWeylDivisibility.StatementA
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.FockSubAdj
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MvPolynomial Formalism.REAL
 

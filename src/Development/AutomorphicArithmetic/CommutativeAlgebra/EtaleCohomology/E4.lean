@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleTopology
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtaleDescentPicardGroupStatement
 

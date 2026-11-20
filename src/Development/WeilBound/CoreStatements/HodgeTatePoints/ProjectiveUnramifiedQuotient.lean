@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUniqueAlgEquivOfCompatibleQuotient
+import Mathlib.RingTheory.AdicCompletion.RingHom
 
 namespace PositivityTheory.HtPt.Mi
 

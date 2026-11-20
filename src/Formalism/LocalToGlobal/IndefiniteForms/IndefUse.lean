@@ -1,8 +1,14 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteForms.IndefSide
-import Formalism.JacquetSubsetSums.SeparationTR
 import Formalism.DivisorInequality.StatementObj
 import Formalism.QuotientMetricDivisors.DivIntoDualShift
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder InnerProductSpace

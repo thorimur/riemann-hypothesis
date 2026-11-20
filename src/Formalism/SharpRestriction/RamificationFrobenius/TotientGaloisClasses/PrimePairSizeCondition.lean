@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
+import Mathlib.NumberTheory.DirichletCharacter.Basic
 
 noncomputable section
 

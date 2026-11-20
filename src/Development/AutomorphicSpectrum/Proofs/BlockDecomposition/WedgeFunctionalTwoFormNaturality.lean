@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.HodgeWedgeFields.H1CommutesBaseChange
+import Mathlib.LinearAlgebra.ExteriorPower.Pairing
 
 set_option autoImplicit false
 

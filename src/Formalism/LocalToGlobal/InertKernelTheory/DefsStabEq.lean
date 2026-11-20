@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.ChartComparison
+import Formalism.SharpRestriction.GrowthBounds.ChartComparison.KerLabelsMu
 
 noncomputable section
 

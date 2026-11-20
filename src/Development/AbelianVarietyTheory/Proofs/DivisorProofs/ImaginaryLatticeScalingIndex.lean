@@ -1,5 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmulMemOfIsIntegral
+import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.DefiniteBound
+import Mathlib.GroupTheory.IndexNSmul
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.ENatToNat
 open NumberField Matrix GlobalTheory.UCls GlobalTheory.SUVol ReciprocityTheory.ChartRestriction.G.FD GlobalTheory.LieDisc
 
 noncomputable section

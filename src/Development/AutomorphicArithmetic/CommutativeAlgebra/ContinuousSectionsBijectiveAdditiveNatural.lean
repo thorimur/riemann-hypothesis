@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleProperBaseChange
-import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.A6supp
+import Mathlib.AlgebraicGeometry.Sites.ConstantSheaf
 
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex UpperTheory.Et
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.WachLatticeTwists.LatticeDualFibres.FibreDualStable
 
 noncomputable section

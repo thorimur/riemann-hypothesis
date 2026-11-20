@@ -1,4 +1,5 @@
 import CompanionTheory.RealGroups.DiscreteSeries.DiscreteSeriesClassification.EquivariantSections.EquivSection
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

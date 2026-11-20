@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.DepthZeroCuspidalLL
 import Formalism.SharpRestriction.LevelLetterCocycles.WildPro
+import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.HasExponentZeroIff
+import Formalism.SharpRestriction.LevelLetterCocycles.BlochKatoPhases
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DTermOrigin
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.DefiningCoordinates
+import Mathlib.Algebra.Module.StablyFree.Basic
 open NumberField IsDedekindDomain GlobalTheory.CMVal GlobalTheory.IndefiniteRowSideFullHecke.DefiningCoordinates GlobalTheory.DeformedSum
 
 noncomputable section

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.ArtinConductorInduced
 import GroundTheory.LocalFields.BrauerInductionInduced
 

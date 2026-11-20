@@ -1,5 +1,6 @@
-import Formalism.SharpRestriction.GrowthBounds.ScaleEdges
-import Formalism.LocalToGlobal.GroupLattices.FockModels.WeylDim
+import Formalism.LocalToGlobal.GroupLattices.FockModels.FlatModels.Letter
+import Formalism.PolynomialDimension.WeylDim
+import Formalism.SharpRestriction.GrowthBounds.UnramifiedQuadraticSetting
 
 noncomputable section
 

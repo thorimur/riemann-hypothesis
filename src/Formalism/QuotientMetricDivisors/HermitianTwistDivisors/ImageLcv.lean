@@ -1,7 +1,6 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.ProdFormula
-import Formalism.HarderNarasimhan.ShiftInvariance
 import Formalism.HermitianLattices.HermitianLatticesProofs.IndexBasic
+import Formalism.HarderNarasimhan.HarderNarasimhanProofs.HtGram
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

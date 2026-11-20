@@ -1,9 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsRootNear
 import Development.AbelianVarietyTheory.Definitions.ExistenceOfLattices.CoeSelfDualLatticeInFrameCoordinatesEq
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.IsOpenCongruenceIdelesAndRealFiniteParts
-import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
-import Formalism.LocalToGlobal.ProjectiveLattices.FamilyUniformisationBasePointOrthogonalBis
 
 section
 open NumberField IsDedekindDomain GlobalTheory.AdLat GlobalTheory.AdLat.RootNear

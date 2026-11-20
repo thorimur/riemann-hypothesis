@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataKerI
-import Formalism.LocalRingCardinality.DataAmbForm
-import Formalism.SharpRestriction.GlobalSchurBounds.GL3Theta
 import Formalism.LocalToGlobal.KernelLattices.ThDistC
 
 open NumberField IsDedekindDomain

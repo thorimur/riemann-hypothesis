@@ -1,7 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapAGrp
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CapAdInv
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.IntegrableCsmul
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.AAInvTrans
 
 open Matrix Finset
 open scoped ContDiff

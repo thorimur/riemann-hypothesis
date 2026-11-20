@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.NoCommonComponentCoordinatesPlane
+import Mathlib.LinearAlgebra.Matrix.PosDef
 set_option maxSynthPendingDepth 1
 
 noncomputable section

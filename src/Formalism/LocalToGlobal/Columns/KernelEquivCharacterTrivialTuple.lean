@@ -1,8 +1,4 @@
-import Formalism.LocalToGlobal.Columns.KerRefArgDUnf
-import Formalism.LocalToGlobal.Columns.ChainLawPhiTop
-import Formalism.LocalToGlobal.Columns.ChainTwKer
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.RkEqcar
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.RkVolLaHyp
+import Formalism.LocalToGlobal.KernelLattices.ColumnData
 
 open NumberField IsDedekindDomain Module Matrix
 

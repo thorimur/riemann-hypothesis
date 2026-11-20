@@ -1,5 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ComparisonMemCechHodgeFiltration
+import Development.AbelianVarietyTheory.Definitions.Divisors.CechDeRhamTotalDifferentialOneFunctionPart
+import Mathlib.Algebra.Ring.BooleanRing
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option autoImplicit false
 

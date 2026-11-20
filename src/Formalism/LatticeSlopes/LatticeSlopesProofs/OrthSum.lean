@@ -1,13 +1,9 @@
-import Formalism.LatticeSlopes.Statement
-import Formalism.LatticeSlopes.CovolAntiSameRank
-import Formalism.LatticeSlopes.LatticeSlopesProofs.DiscreteTopologyOfLe
-import Formalism.LatticeSlopes.LatticeSlopesProofs.CovolEqGram
 import Formalism.LatticeSlopes.LatticeSlopesProofs.CovolPos
 import Formalism.LatticeSlopes.LatticeSlopesProofs.DegQuot
-import Formalism.LatticeSlopes.LatticeSlopesProofs.GramDetLe
 import Formalism.LatticeSlopes.LatticeSlopesProofs.SlopesBdd
 import Formalism.LatticeSlopes.LatticeSlopesProofs.SlopeLeMuMaxOf
 import Formalism.LatticeSlopes.LatticeSlopesProofs.SlopeInequality
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Module Submodule
 

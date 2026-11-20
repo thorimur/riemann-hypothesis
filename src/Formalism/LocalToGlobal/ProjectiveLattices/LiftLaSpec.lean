@@ -1,4 +1,7 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.HeckeFr
+import Formalism.LocalToGlobal.ProjectiveLattices.HeckeStabSet
+import Formalism.LocalToGlobal.ProjectiveLattices.IsLevMove
+import Formalism.LocalToGlobal.ProjectiveLattices.RhoWApply
 
 noncomputable section
 

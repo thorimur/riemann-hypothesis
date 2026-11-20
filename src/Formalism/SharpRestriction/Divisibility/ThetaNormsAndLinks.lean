@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.LiftErrorLocal
 import Formalism.SharpRestriction.Divisibility.FamilyThetaDenominatorValues
 
 noncomputable section

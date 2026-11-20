@@ -1,5 +1,6 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockDegreeOne.FockOperatorsKernel
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockDegreeOne.RedDefs
+import Mathlib.Data.Rat.Star
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

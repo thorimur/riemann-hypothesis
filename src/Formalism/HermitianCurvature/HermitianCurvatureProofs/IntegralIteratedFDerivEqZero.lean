@@ -1,6 +1,6 @@
 import Mathlib.Analysis.Calculus.LineDeriv.IntegrationByParts
 import Mathlib.Analysis.SpecialFunctions.JapaneseBracket
-import Mathlib.Analysis.Calculus.ContDiff.Bounds
+import Mathlib.Data.Nat.Choose.Multinomial
 
 open MeasureTheory Module
 

@@ -1,6 +1,5 @@
 import Development.WeilBound.ThetaLifts.LatticeBasics.BoxSec
 import Development.WeilBound.ThetaLifts.LatticeBasics.HypothesesS
-import Development.WeilBound.ThetaLifts.LatticeBasics.RatEquiv
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzDeterminedBySchrodingerThetaValues
 
 noncomputable section

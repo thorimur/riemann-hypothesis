@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.JetSumTable
 
 open NumberField IsDedekindDomain

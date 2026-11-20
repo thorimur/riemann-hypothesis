@@ -1,4 +1,9 @@
 import Formalism.PolynomialDimension.StatementHar
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 set_option linter.unusedSimpArgs false
 

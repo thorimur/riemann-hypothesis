@@ -1,5 +1,5 @@
-import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AnalyticIntertwiners.Clause1
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Upqcpt
+import Formalism.SharpRestriction.Divisibility.SchurIrreducible
 
 open Matrix
 open scoped InnerProductSpace ComplexConjugate

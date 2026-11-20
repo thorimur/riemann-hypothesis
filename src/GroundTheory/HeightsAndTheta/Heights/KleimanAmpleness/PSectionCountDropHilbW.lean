@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.SectionCountDropHilbWSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsStepTwo
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.InterNumRestrictSt

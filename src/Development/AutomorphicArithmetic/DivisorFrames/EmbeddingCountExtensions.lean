@@ -1,8 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.ValCount
-import Development.AutomorphicArithmetic.DivisorFrames.ExistsComplexExtensionCountable
 import Development.AutomorphicArithmetic.DivisorFrames.FiniteOfFiniteExtensions
-import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsRingEquivOfIsTranscendenceBasis
 open IsLocalRing NumberField IsDedekindDomain GlobalTheory.ValCount
 open scoped Classical
 

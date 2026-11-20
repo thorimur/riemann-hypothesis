@@ -1,5 +1,3 @@
-import Formalism.LocalToGlobal.NumberFieldFamilies.NPartCNd
-import Formalism.LocalToGlobal.GaloisLevelStructure.TiedHecke
 import Formalism.LocalRingCardinality.SpanPowerMembership.NDLocI
 import Formalism.LocalToGlobal.GroupLattices.PerfectRings.IsLocalRingOfComplete
 

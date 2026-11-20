@@ -3,6 +3,7 @@ import Development.EtaleCohomology.TateTwists.EtaleTateTwistSectionsLocallyGener
 import Development.EtaleCohomology.TateTwists.EtaleLocalPropertyBasicClosure
 import Development.EtaleCohomology.TateTwists.EtaleSheafSectionsSeparatedAndGlue
 import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.SelmerDuality.ZModInj
+import Mathlib.Tactic.Polynomial.Basic
 
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex GlobalTheory.EtC
 open scoped TensorProduct DirectSum

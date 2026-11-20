@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.ArchimedeanThetaValues.IsFramedPointChangedByLetters
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.ArcFramePointTruncation
+import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ExistsIsPullQk
 
 noncomputable section
 

@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.LoopTerm
-import Formalism.SharpRestriction.CuspSpanNormBounds.StandingHypothesesHoldFamily
+import Formalism.SharpRestriction.CuspSpanNormBounds.NormalizedLocalScale
 
 noncomputable section
 

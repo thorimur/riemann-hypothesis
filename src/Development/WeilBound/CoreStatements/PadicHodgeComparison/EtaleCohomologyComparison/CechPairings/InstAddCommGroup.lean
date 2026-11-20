@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.OfNatTrans
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.FaceFaceApply
+import Mathlib.Algebra.Category.CommAlgCat.Basic
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 set_option autoImplicit false
 set_option backward.isDefEq.respectTransparency false

@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.FrobeniusPaths.LiftedColumnCongruence
+import Formalism.SharpRestriction.GrowthBounds.FrobeniusPaths.ColStepFactor
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsExtraAlt
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsTerBis
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsTerSide

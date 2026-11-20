@@ -1,10 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationInvariantSchwartzUnique
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzMapBarrelledSpace
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzCompactSupportDenseStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzPairingContinuousFunctionalStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RealCompactPartitionUnityStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationIsometrySchwartzOperatorStatement
+import Mathlib.Analysis.Calculus.BumpFunction.Normed
 
 open MeasureTheory Filter Topology
 open scoped SchwartzMap

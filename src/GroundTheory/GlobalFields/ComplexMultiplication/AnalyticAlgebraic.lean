@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.AnalyticAlgebraicConverse
 
 open Filter Topology Set Polynomial WeierstrassCurve.Affine GroundTheory.Arith.Abelian

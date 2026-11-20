@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.HeckeLFunction
 
 open NumberField Ideal Complex Filter Topology

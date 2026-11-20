@@ -1,5 +1,6 @@
-import Development.WeilBound.CoreStatements.FlagImmersions.Transport
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.RegAtFractionNoetherianClosedStatement
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.HodgeIPIffHodgeFormConj
+import Development.AutomorphicSpectrum.Definitions.MetricPeriods.HasMultiplier
 
 noncomputable section
 

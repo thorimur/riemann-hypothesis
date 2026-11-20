@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
 
 open Formalism.MainNotions.S NumberField

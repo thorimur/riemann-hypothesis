@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.GL3MeanSquares.RankMulPowThreeHalvesLeFourthPower
+import Mathlib.Analysis.SpecialFunctions.Gaussian.FourierTransform
+import Mathlib.Data.Int.Star
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.HermitianLattices.GenusMassVolumes
 

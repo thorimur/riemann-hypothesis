@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.FiniteVanishing.Vanishing
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.FiniteVanishing.Trivial
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.FiniteVanishing.Devissage
-import GroundTheory.ProfiniteCohomology.EulerCharDefs
 import GroundTheory.ProfiniteCohomology.PoincareDuality
 set_option maxSynthPendingDepth 1
 

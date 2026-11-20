@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.FormalBounds
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.FormalIdealMul
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

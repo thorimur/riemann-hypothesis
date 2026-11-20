@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.ValuationLambdaFieldProperties
+import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.ColumnWordReductionOfFour
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IncMatTransposeConjTranspose
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 open scoped TensorProduct Matrix
 open NumberField Formalism.BasicNotions.TH GlobalTheory.RealLift GlobalTheory.FockIncl GlobalTheory.FockInclK
 

@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsClosedFlagsIff
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.UniMatBlockTriangular
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LuLowerLowerTriangular
+import Mathlib.SetTheory.ZFC.PSet
 
 set_option autoImplicit false
 noncomputable section

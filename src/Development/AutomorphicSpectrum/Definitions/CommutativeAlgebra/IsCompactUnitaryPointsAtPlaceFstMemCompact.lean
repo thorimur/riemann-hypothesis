@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.OmStable
 
 noncomputable section

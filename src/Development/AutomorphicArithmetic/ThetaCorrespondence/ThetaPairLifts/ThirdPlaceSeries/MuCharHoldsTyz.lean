@@ -1,5 +1,3 @@
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.MuCharacter
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.HeckeCharEqOfLAdicRealisation
 
 set_option synthInstance.maxHeartbeats 200000

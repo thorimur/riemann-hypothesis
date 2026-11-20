@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.FormsStable
 import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LClosedeqLemmas

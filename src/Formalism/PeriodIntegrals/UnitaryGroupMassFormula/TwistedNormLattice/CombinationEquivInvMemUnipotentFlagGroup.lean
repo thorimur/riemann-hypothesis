@@ -1,4 +1,6 @@
 import Formalism.PeriodIntegrals.TwNormLat
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open NumberField IsDedekindDomain
 

@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsUnitMemOfSpanBaseChange
-import GroundTheory.Brauer.BaseChangeCSA
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorRatAlgebraDecompFactorwiseStatement
+import Mathlib.Algebra.Group.Pi.Units
 
 open scoped TensorProduct
 open Polynomial

@@ -1,7 +1,7 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.UnramifiedWhittaker.BasisSet
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCovering.NCovAd
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsExtraMore
+import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IntAdCpctOpen
 
 noncomputable section
 

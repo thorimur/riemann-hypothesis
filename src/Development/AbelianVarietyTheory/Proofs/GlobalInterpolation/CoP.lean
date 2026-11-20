@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.LowerTieTwAt
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LatAtLattice
 
 noncomputable section
 

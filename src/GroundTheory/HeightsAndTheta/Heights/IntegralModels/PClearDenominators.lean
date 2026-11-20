@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PullbackBasis
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.RatLocalAffine
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PVectorBundleRestrict
+import Mathlib.Tactic.Monotonicity.Lemmas
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Model

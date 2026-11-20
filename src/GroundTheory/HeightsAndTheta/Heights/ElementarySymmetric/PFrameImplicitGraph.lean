@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StFrameImplicitGraph
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.HasStrictFDerivAtEval
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

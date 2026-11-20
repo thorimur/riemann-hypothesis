@@ -1,5 +1,4 @@
 import Development.WeilBound.CoreStatements.LocalThetaKernels.EvlLoc
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsLocallyConstantAddChar
 
 noncomputable section
 

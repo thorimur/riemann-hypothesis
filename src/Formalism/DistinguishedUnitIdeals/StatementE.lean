@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.DistinguishedUnitIdeals.IsCocycle
 
 noncomputable section

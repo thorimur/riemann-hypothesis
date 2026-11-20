@@ -1,4 +1,10 @@
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BasisApply
+import Mathlib.LinearAlgebra.SymplecticGroup
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 open NumberField
 open scoped TensorProduct
 

@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.RightTypeAction0
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RightTypeAction
 
 open Matrix Finset Filter Topology
 

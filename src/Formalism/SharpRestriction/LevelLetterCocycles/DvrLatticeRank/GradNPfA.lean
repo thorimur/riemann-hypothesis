@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.DeltaInvariantUniformizer
+import Formalism.SharpRestriction.LevelLetterCocycles.SplitROfSteps
 
 noncomputable section
 

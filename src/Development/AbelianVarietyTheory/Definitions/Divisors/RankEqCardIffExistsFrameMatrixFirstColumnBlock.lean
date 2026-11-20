@@ -1,5 +1,15 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.T2SpaceGeneralLinearGroup
+import Mathlib.Algebra.Module.Lattice
+import Mathlib.Data.Matrix.ColumnRowPartitioned
+import Mathlib.GroupTheory.DoubleCoset
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Ideal.Quotient.Index
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Topology.Sheaves.Presheaf
 
 open MeasureTheory ValuativeRel Matrix
 open scoped NNReal ENNReal Pointwise

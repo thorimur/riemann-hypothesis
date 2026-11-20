@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.QDivBdQ
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatticeComparisonOnPoints
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeightLogSumAndPrimeBound
 open NumberField IsDedekindDomain Filter Topology

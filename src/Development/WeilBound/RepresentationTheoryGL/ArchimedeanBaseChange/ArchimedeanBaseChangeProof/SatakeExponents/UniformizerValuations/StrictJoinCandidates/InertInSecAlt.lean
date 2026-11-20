@@ -1,5 +1,4 @@
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.InertInSec
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalAlgebraHolds
 
 noncomputable section
 

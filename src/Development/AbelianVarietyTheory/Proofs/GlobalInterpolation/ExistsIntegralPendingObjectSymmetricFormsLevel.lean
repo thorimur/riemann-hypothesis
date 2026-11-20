@@ -1,10 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.HilbertRowConditions.RowPin
-import Formalism.LocalToGlobal.KernelLattices.InterlaceAll
-import Formalism.SharpRestriction.GlobalSchurBounds.ProductFirstZerothParts
-import Formalism.SharpRestriction.GlobalSchurBounds.FiniteModelOfAdmissibleTransports
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.NfAllSmulReB
-import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ExistsOnOfPosDef
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.MulLatMulLat
 import Formalism.LocalToGlobal.Columns.TiedValBwG
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FnOfMapInjective
@@ -13,6 +8,7 @@ import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ExistsIsLocBa
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.CoMTSOfGaInv
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.PtCoMemIntSpan
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ExistsPtEmbOfCoordInt
+import Formalism.LocalToGlobal.GlobalTheory.BlockActions.RestrictionSymmetric
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.MainNotions Formalism.L2.Forms
 
 namespace GlobalTheory.RedPt0Pend

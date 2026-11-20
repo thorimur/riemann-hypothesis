@@ -1,8 +1,3 @@
-import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.FullTiedCBase
-import Formalism.LocalToGlobal.GroupLattices.LinkGConcreteNoKer
-import Formalism.SharpRestriction.SmoothDesignExistence.DGamSmooth
-import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.IntSplitOf
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.RecThm
 import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TieIwLevTieOf
 import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.CmpHyp0P
 import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.SelfDualAtColLevel

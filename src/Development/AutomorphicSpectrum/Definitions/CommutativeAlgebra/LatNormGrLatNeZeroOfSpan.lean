@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.LogAbsVpOfNormalised
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.IdemDen
+import Mathlib.LinearAlgebra.Basis.Flag
+import Mathlib.RingTheory.DedekindDomain.Different
 
 noncomputable section
 

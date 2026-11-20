@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.BlockEvaluation.TruncSpec
+import Mathlib.Analysis.InnerProductSpace.Trace
 
 open MeasureTheory NumberField IsDedekindDomain MvPolynomial Filter Topology UpperTheory.ConvolutionTheory UpperTheory.ConvolutionTheory.C UpperTheory.ConvolutionTheory.Ci
 

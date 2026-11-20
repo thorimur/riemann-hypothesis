@@ -1,6 +1,7 @@
 import ReciprocityTheory.DualLattices.IsFibreSq
 import ReciprocityTheory.DualLattices.ToSigmaAddFstZeroFst
 import ReciprocityTheory.DualLattices.SeriesState
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

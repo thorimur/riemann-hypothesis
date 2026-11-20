@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.WeberFunction
 set_option maxSynthPendingDepth 1
 

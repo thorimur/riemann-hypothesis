@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.BsLApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLuSubring
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LowMulUpULeadMinorNeZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UpUUniqueOfLower

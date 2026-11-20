@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.PlaceBelow
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.NablaValueCopiesBilinearStatement
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.InvariantValueCopiesEqZeroOfLowCoeffStatement
 open scoped BigOperators

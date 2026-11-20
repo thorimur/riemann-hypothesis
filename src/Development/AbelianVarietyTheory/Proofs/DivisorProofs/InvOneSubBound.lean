@@ -1,6 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ZetaPair
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.CountableIdealSummableAbsNormRpow
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.NumberTheory.RamificationInertia.Basic
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 open NumberField IsDedekindDomain Polynomial GlobalTheory.HenQ
 
 noncomputable section

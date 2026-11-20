@@ -1,8 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeJacMeasurable
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsTangentJacCompress
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsKernelProjMeasurable
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeTangentAverage
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

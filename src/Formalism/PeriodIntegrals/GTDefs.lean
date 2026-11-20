@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataCoeff
 import Formalism.PeriodIntegrals.GTBranch
 
 noncomputable section

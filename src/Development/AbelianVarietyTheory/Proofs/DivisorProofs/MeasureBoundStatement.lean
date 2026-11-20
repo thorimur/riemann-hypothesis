@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeasAtOf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExactAtOfOneMeasureStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMeasureOfPrintsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogRatioUpperBoundStatement

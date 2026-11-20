@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaHalfMovesUnderTranslateOtherPlaces
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SuppAtMul
 set_option autoImplicit false
 noncomputable section
 open NumberField IsDedekindDomain

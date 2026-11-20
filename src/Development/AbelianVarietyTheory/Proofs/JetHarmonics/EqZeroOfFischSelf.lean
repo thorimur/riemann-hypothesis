@@ -1,6 +1,8 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.RowDeg
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.InvariantOperatorValueTriangularChange
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Rat.Star
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 set_option autoImplicit false
 

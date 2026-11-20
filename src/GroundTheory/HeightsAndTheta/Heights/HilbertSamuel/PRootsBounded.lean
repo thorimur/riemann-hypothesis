@@ -1,5 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRootsBounded
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Polynomial.CauchyBound
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Algebra.MvPolynomial
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

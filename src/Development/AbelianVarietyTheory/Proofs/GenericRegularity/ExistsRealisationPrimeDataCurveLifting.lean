@@ -1,18 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.RegXInst
-import Formalism.LocalToGlobal.ProjectiveLattices.CurveLocInst
-import Formalism.LocalToGlobal.ProjectiveLattices.LocRingPf
-import Formalism.LocalToGlobal.ProjectiveLattices.TieInst
-import Formalism.LocalToGlobal.ProjectiveLattices.RealPtPf
-import Formalism.LocalToGlobal.ProjectiveLattices.CurveSec
-import Formalism.LocalToGlobal.ProjectiveLattices.LiftSec
-import Formalism.LocalToGlobal.ProjectiveLattices.LiftModelHolds
-import Formalism.LocalToGlobal.ProjectiveLattices.SecPtRed
-import Development.AbelianVarietyTheory.Proofs.GenericRegularity.CurveModelExistsAllPrimesAllPoints
-import Development.AbelianVarietyTheory.Proofs.GenericRegularity.CurveSectionStatement
-import Development.AbelianVarietyTheory.Proofs.GenericRegularity.LocStructStRecord
-import Development.AbelianVarietyTheory.Proofs.GenericRegularity.SectionRatiosIntegral
-import Development.AbelianVarietyTheory.Proofs.GenericRegularity.RealPtNZOfCurveHyp
 import Development.AbelianVarietyTheory.Proofs.GenericRegularity.FiniteDimensionalOfModel
 
 set_option synthInstance.maxHeartbeats 400000

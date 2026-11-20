@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.GramProductBounds
+import Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenericAdmissibleAllConstants
 
 noncomputable section
 

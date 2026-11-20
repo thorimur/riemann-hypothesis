@@ -1,4 +1,9 @@
 import ReciprocityTheory.L2DbarEstimates.Localization.UnweightBackStatement
+import Mathlib.Analysis.SpecialFunctions.SmoothTransition
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace ReciprocityTheory.L2DbarEstimates.F
 

@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.OrbitLabellings.RowDefs
-import Development.AbelianVarietyTheory.Definitions.Jets.DepthNumbersThresholdEq
-import Formalism.LocalToGlobal.CharacterGerms.RowTieMemCFin
-import Formalism.LocalToGlobal.CharacterGerms.RowTieFlagS
 import Development.AutomorphicArithmetic.OrbitLabellings.ExistsOrbitLabellingAtInertPrimeOfOddOrder
 import Development.AutomorphicArithmetic.OrbitLabellings.LabelSetGeoOfEvenOfRankOKOfNotDvdDiscr
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.IsCanonGaugeMapFB

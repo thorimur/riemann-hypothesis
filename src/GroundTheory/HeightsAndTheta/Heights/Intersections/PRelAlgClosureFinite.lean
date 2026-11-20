@@ -1,5 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StRelAlgClosureFinite
+import Mathlib.Algebra.Lie.OfAssociative
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Polynomial.Basic
 set_option maxSynthPendingDepth 1
 
 noncomputable section

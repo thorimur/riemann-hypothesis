@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.Rational
 import GroundTheory.GlobalFields.CyclotomicCharacters.ProfinitePadic
 

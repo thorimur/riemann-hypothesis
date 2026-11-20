@@ -1,7 +1,5 @@
 import Formalism.SizeWindowBrackets.GaloisToProductIsIso
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.StronglyIrreducible
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.CoprimeTwoPow
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Galois
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.FrobMulInertia
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Inertia
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Decomp

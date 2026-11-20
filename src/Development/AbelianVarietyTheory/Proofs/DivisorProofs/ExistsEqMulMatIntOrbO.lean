@@ -1,10 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DiffsZeroOfLev
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FullRk
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatIntIndicatorNeZero
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClopenIntegrabilityFullRankOrbit
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FullRankNormalFormOrbit
-import Development.AbelianVarietyTheory.Definitions.Divisors.EqOfHasValueAtInfinite
+import Mathlib.LinearAlgebra.Matrix.Swap
 
 open MeasureTheory GlobalTheory.SplitFlip GlobalTheory.SplitWeil
 open scoped Matrix

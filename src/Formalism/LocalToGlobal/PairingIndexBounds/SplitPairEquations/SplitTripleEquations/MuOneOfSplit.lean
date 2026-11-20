@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.SelfDualCovolume
 
 noncomputable section

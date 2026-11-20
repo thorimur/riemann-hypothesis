@@ -1,4 +1,5 @@
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PVerticalTwistGenDeg
+import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ExistsLinearIndependentOfGenerates
+import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PGenDegTwist
 
 namespace SheetDecomposition
 

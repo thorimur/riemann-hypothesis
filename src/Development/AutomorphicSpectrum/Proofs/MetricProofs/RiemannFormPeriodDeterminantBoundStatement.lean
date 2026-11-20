@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannFormPeriodDeterminantBound
-import Mathlib
 open Matrix
 open scoped ComplexOrder
 set_option maxHeartbeats 1000000 in

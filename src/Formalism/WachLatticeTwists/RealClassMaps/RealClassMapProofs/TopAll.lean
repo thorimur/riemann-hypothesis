@@ -1,6 +1,5 @@
 import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapEverySecondPlace
 import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapProofs.TheoremNFiveRealLift
-import Formalism.WachLatticeTwists.SplitClassesAll.SplitClassesProofs.TheoremNFiveAllForms
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

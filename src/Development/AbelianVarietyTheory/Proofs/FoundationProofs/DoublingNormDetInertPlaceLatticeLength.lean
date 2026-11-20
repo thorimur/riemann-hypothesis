@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.GraphHeightLattice
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUniqueIsConjAt
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.LengthCommensurableSpanSpanOfDetNeZero
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IrreducibleOfValued
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.OrdLEqNegLog

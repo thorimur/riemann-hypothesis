@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.HodgeWedgeFields.H1CommutesBaseChange
 
 set_option autoImplicit false

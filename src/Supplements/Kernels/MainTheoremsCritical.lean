@@ -1,4 +1,1 @@
-import Supplements.Kernels.MainTheorems
-import Development.AutomorphicArithmetic.AutomorphicVarieties.SmallClassNumbers.ClassNumberThree
-import Development.AutomorphicArithmetic.AutomorphicVarieties.SmallClassNumbers.LenEqZeroIff
-import Development.AutomorphicArithmetic.AutomorphicVarieties.SmallClassNumbers.OnePoint
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd

@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIntegralIndependent
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PPosPartIndependent
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSheetOnlyNull
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFiniteMapOpen

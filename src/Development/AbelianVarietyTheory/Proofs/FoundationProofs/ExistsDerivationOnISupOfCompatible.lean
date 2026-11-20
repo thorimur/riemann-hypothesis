@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.NotIsTrDataGaussianIntOne
+import Mathlib.Algebra.Order.Ring.Star
 
 open GlobalTheory.AlmostEt
 

@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.OperatorsCommuteTranslations
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.AAInvTrans
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IsotropicNormalFormPartial
 

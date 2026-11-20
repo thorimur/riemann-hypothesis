@@ -1,13 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.IsStdFr
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.FamCol
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.XiEqXiOffMul
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.QLev
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ChartZero
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.RatioParts
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.TailRd
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.Placed
 import Formalism.LocalToGlobal.IndefiniteReal.RealRec
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.FamAllQ
 
 set_option genSizeOfSpec false
 set_option genInjectivity false

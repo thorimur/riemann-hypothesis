@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.SumSmulMemOfSumZpowSmulMem
+import Mathlib.Analysis.CStarAlgebra.Classes
 open scoped ComplexConjugate
 open MvPolynomial Matrix
 

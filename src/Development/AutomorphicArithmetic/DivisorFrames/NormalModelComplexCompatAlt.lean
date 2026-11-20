@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.LocalEmbeddings.VertCmp
 import Development.AutomorphicArithmetic.DivisorFrames.ExistsNormalVerticalModel
 import Development.AutomorphicArithmetic.DivisorFrames.VerticalModelMatchCompat
 import Development.AutomorphicArithmetic.DivisorFrames.UnitAtPowDivFnMapOfReadsOfGReads
@@ -9,6 +7,7 @@ import Development.AutomorphicArithmetic.DivisorFrames.NormalModelComplexCompat
 import Development.AutomorphicArithmetic.DivisorFrames.PullClassRationalPower
 import Development.AutomorphicArithmetic.DivisorFrames.PdegSmulPower
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CapDegreeFinitePullback
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalHeightBoundedByPrimeWeights
 open CategoryTheory Limits AlgebraicGeometry IsLocalRing NumberField IsDedekindDomain
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.BasicNotions Formalism.MainNotions Formalism.L2.Pj
 open GlobalTheory GlobalTheory.Cartier GlobalTheory.CechPic GlobalTheory.ProjVar GlobalTheory.TrueGeo GlobalTheory.Vert GlobalTheory.ShFam GlobalTheory.ShFam.Pad GlobalTheory.LocM GlobalTheory.Toroidal

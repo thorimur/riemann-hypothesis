@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.GlobalFields.ComplexMultiplication.DifferentialConstant
+import GroundTheory.ArithmeticGeometry.AbelianVarieties.IsogenyPoints
+import GroundTheory.GlobalFields.ComplexMultiplication.Differential
 
 namespace GroundTheory.Global
 

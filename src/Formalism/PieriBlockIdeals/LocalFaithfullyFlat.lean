@@ -1,7 +1,8 @@
-import Mathlib
-import Formalism.PieriBlockIdeals.ExponentBoundCounterexample
 import Formalism.PieriBlockIdeals.JointTheoremALoc
 import Formalism.SatakeDualWeyl.DualWeylRepApply
+import Formalism.PieriBlockIdeals.StatementLA
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.NumberTheory.Padics.PadicIntegers
 
 open MvPolynomial TensorProduct
 

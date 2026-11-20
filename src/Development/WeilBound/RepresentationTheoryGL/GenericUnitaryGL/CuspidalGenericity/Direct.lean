@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsNontrivialDerivative
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CuspidalIsGeneric
 
 open GlobalTheory.PRep GlobalTheory.SmGL GlobalTheory.LocGL GlobalTheory.BZMir

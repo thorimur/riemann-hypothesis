@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.HxiTZeroComb
-import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.WeilOneD
 
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC UpperTheory.Et
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor

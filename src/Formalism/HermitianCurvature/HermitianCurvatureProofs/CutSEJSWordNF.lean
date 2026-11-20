@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSEJSliceCut
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.FsvMulFsvNeg
 
 open MeasureTheory Filter Topology
 open scoped ComplexConjugate ContDiff

@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.DinvExact
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalInterAlt
+import Mathlib.RingTheory.RegularLocalRing.Defs
 open TensorProduct Module
 open UpperTheory.Gal.crystallineComparison
 

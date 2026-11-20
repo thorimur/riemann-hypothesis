@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.TateCohomology.Characters
 import GroundTheory.TateCohomology.CupProduct
 set_option maxSynthPendingDepth 1

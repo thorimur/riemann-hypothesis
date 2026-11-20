@@ -1,15 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PMixedTwistShift
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperHyperplane
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PSnapperQuotDevissageX
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperHyperplaneMid
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PSnapperSectionX
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperDiffPoly
-import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PRestrLenEuler
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PSubsetDiffConst
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PInterNumEventual
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PInterSumTopVanish
-import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PInterNumAdditive
 
 namespace PositivityTheory.HtPt.Kra
 

@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.TorusSplitting.TorusAtExists
-import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.SymmetricMeasureL2NormEqResolutionL2
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsGeneratorsLattice
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
 
 noncomputable section
 

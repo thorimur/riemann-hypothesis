@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsNoetherProjection
+import Mathlib.RingTheory.NoetherNormalization
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

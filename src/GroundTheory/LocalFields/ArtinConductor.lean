@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.LocalFields.DifferentGalois
+import Mathlib.Data.Rat.Star
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.RepresentationTheory.Character
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

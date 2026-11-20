@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsMoreFurther
 open IsLocalRing Polynomial
 

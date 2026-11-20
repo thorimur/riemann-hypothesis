@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsInertTop
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TauPsiApply
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockDeltaBasePolynomialStatement
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockActionBasePolynomialStatement
 open NumberField Matrix Complex IsDedekindDomain

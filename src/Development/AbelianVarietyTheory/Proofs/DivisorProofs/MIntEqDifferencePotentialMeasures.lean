@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemTChartSource
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TransportedChartHolomorphicCompatStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictChernPart
 open CategoryTheory AlgebraicGeometry Limits NumberField IsDedekindDomain TopologicalSpace

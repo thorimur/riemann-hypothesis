@@ -1,5 +1,6 @@
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.APrimeA
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.APrimeB
+import Mathlib.Analysis.Calculus.InverseFunctionTheorem.ContDiff
 
 namespace ReciprocityTheory.L2DbarEstimates.Y
 

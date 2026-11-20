@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.PairingIndexBounds.HalvesRecursion.RecursiveLatticeMembership.MemLamOfIff
+import Formalism.LocalToGlobal.GlobalTheory.GL3.PIopNorm
 
 noncomputable section
 open scoped BigOperators

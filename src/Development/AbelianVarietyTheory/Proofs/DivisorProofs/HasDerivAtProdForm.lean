@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntertwinerOfCoef
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LowestDegreeComponentNonzero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorIrreducibleModules
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FockFirstActionMatrixUnitEq
 import Formalism.SharpRestriction.Divisibility.LocalNonemptiness.THProvA
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ExpFromBlocks
 

@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsMChart
+import Mathlib.Algebra.Order.Sub.Prod
+import Mathlib.RingTheory.LocalProperties.Reduced
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.FieldNumbers

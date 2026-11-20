@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeReferenceFrame.PPAssemble
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeReferenceFrame.ThetaA
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

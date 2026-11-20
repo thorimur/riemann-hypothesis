@@ -1,5 +1,4 @@
 import Development.EtaleCohomology.EtaleSheaves.LChartPf
-import Mathlib
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.PairingCommutesLiftOperators
 import Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.Decomp
 import Formalism.LocalToGlobal.IndefiniteReal.RationalAdjoints.RangeAdjointRat

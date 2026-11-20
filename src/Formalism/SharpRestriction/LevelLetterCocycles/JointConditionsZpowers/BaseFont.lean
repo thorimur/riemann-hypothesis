@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.DecompositionData
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

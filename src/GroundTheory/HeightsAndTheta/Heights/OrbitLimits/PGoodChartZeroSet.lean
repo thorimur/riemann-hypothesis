@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StGoodChartZeroSet
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PSegreChartZeroSet
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.EvalSmulOfIsHomogeneousAlt

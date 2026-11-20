@@ -1,5 +1,12 @@
 import Formalism.NormUnitaryBounds.Statement
-import Formalism.NormUnitaryBounds.DetPolynomialWeights.ShearCoefficients
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 open MvPolynomial
 

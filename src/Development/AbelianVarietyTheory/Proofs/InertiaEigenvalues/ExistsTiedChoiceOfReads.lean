@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.TwGood
 import Formalism.SharpRestriction.ParamsHeightRankConstant
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsNeSame
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsEquivMapLattice
 
 noncomputable section
 

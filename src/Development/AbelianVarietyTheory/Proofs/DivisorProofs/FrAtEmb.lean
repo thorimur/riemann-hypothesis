@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.OneMapEq
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ReadingsExistRow
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FibExtMarked
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilGramSignature
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsUnitaryOnTheta
 
 noncomputable section
 

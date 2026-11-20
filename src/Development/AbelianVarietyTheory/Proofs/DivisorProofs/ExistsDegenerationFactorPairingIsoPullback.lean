@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LinHomIffLinEnd
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CFxi
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsumLeftPull
 

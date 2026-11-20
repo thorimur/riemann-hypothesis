@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.AdmissibleRank.NormDecompositionCondOfJetConsequence
 import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLbud
 import Formalism.SharpRestriction.CuspSpanNormBounds.StandingHypothesesHoldFamily

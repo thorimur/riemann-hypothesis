@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormIteratedFDerivRemCompLe
+import Mathlib.RingTheory.PiTensorProduct
 
 open Complex MeasureTheory
 

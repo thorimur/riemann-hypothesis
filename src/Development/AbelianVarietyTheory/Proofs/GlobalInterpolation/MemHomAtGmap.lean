@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.BelowFiniteNonempty
-import Development.AbelianVarietyTheory.PublishedTheorems.GlobalTheta.WeylDualWeylLatticesAgreeOfLowestAlcove
-import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.SubstitutionAdjoint
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ExistsUnitaryCarries
 import Formalism.LocalToGlobal.Columns.CoefColLemmas
 

@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeCountingBound.SepDefs
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeSizeContinuity.LatticeIsometry
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

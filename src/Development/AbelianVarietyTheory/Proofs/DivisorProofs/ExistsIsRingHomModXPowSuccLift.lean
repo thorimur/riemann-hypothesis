@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DerivCompM
+import Mathlib.RingTheory.RingHom.Smooth
 
 open GlobalTheory.Nef
 

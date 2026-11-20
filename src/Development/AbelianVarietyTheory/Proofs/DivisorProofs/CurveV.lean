@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsIsFlagBundleRankOne
+import Development.AbelianVarietyTheory.Definitions.Foundations.CurveCl
+import Formalism.LocalRingCardinality.DataDIV
 
 set_option autoImplicit false
 

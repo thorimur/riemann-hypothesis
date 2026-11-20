@@ -1,7 +1,4 @@
-import Mathlib
-import ReciprocityTheory.SemistableReduction.ComapInclusionIsLocalHom
 import ReciprocityTheory.SemistableReduction.GaussValExists
-import ReciprocityTheory.SemistableReduction.GaussValLeIffDivMem
 import ReciprocityTheory.SemistableReduction.GaussIndepOfLeTrdeg
 
 namespace ReciprocityTheory.MultiplicativeHeights

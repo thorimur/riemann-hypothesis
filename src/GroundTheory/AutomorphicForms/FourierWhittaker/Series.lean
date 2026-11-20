@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.FourierWhittaker.IsAddFundamentalDomainImageOfMapVecLattice
 import GroundTheory.GlobalFields.TateThesis.AdelicCharDual
 

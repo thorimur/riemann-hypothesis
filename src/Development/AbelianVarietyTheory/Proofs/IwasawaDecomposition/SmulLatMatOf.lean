@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.ThDistC
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FinAlgOfFinite
 
 noncomputable section

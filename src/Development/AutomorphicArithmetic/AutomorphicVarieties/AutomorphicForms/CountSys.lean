@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.IsoOfFrob
 
 noncomputable section

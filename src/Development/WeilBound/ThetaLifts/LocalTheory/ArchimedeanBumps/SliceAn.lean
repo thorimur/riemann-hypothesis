@@ -1,5 +1,11 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IteratedFDerivSubApply
+import Mathlib.Analysis.LocallyConvex.HahnBanach
+import Mathlib.Analysis.Normed.Operator.BanachSteinhaus
+import Mathlib.LinearAlgebra.Multilinear.FiniteDimensional
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

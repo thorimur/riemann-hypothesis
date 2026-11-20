@@ -1,13 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnipParLeUnipFlag
-import Development.AbelianVarietyTheory.Definitions.Foundations.ConstTermOnMulLeftOfNormalizer
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsSquareIntegrableIffMemL2
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.LanglandsSquareIntegrable
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToGAdMat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DifferentiableOfIsSm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineToGAdDerivative
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.PolarConjTranspose
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 
 noncomputable section
 

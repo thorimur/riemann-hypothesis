@@ -1,10 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsCuspW
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsRegFamConst
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.SiegelEisensteinDoubled
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.SiegelWeilAnisotropicHermitian
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BlockDiagUnitaryHom
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChiDetProps
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHtLeTwoMulQht

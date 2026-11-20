@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.PoitouTate.General
 import GroundTheory.ProfiniteCohomology.PoitouTate.Primary
 import GroundTheory.ProfiniteCohomology.PoitouTate.BrauerInvZOfIsSepClosureCohomologyULiftIntAddEqu
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseDefs
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.Dimension
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.FiniteCompact
 set_option maxSynthPendingDepth 1

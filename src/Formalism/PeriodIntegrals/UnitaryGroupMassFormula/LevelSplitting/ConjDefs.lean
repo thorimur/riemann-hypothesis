@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.SemidirectExistsOfParts
+import Formalism.PeriodIntegrals.LevelKSplit
 
 noncomputable section
 

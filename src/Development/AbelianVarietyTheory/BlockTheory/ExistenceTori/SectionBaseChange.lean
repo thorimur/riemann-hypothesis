@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.ThClassPins
 
 set_option autoImplicit false

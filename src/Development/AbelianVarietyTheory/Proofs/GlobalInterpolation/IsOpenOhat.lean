@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DifferentiableAtChart
 
 open NumberField IsDedekindDomain GlobalTheory.CuspNF Matrix Topology

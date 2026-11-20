@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.MultiplicityOne.Equivariance
+import GroundTheory.AutomorphicForms.MultiplicityOne.NormOne
 
 open MeasureTheory Set Filter Topology Function
 open NumberField IsDedekindDomain

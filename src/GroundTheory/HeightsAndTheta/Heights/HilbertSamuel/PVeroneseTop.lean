@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsVeroneseGraph
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSecondVeronese
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PBlockImageTop

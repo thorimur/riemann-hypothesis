@@ -1,8 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsApplyEqZeroAndEqOne
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.HasAlgebraicChartsOfIsStandardSmooth
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.RingKrullDimQuotientEqOfMemMinimalPrimes
 import ReciprocityTheory.SemistableReduction.AeBlockSphereEvalNeZero
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Geometry.Manifold.MFDeriv.Atlas
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Unramified.LocalStructure
 
 namespace GlobalTheory.AffinePoints
 

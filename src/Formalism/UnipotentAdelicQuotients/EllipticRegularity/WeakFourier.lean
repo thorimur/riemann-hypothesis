@@ -1,4 +1,8 @@
 import Formalism.UnipotentAdelicQuotients.EllRegCut
+import Mathlib.Analysis.InnerProductSpace.Calculus
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Topology.UniformSpace.Uniformizable
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace ZetaZeros.D.EllReg
 

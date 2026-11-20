@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HolValueAtIntegralOfExpansion
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslateEqSumOfIsKFinite
 
 noncomputable section
 

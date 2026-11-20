@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.PredMulSumPadicValNatFactorialAddCardLe
+import Mathlib.RingTheory.AdicCompletion.RingHom
+import Mathlib.RingTheory.MvPowerSeries.Equiv
 
 noncomputable section
 

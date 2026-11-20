@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.Uniqueness
 import GroundTheory.LocalFields.UnitsBasic
 

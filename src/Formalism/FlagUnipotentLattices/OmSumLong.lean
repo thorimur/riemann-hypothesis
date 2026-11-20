@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.HyperbolicPlaceProducts.Statement
 import Formalism.FlagUnipotentLattices.IdealCountLeW
 
 noncomputable section

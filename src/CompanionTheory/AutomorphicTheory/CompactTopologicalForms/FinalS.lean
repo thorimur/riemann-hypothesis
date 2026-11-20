@@ -2,6 +2,7 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.CptCopy2
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSETopFinal
 import CompanionTheory.AutomorphicTheory.CompactTopologicalForms.JacobiFieldSquareIntegrable
 import CompanionTheory.AutomorphicTheory.DiscreteGroupWaves.NFTopFormCpt
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFMainS
 
 namespace Formalism.FourierDecayAlt.P.CutBP.CompactFormNormalFormDomination
 

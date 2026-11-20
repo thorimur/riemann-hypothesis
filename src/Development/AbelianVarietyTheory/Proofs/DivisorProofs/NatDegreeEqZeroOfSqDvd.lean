@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsAdmissibleIntegralBasisChangeOne
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.PowerSeries.NoZeroDivisors
 
 open scoped IntermediateField Polynomial RatFunc
 open GlobalTheory.Nef

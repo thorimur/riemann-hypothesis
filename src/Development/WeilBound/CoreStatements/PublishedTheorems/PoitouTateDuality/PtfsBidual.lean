@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.PoitouTate.PoitouTateNineTermGs
+import GroundTheory.ProfiniteCohomology.PoincareDuality.TensorHomZmodDualIsoZmodMulPairing
 
 noncomputable section
 

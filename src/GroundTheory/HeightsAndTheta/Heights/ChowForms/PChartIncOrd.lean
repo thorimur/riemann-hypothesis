@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ChowForms.StatementsChartIncOrd
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChartLocalOrder
 set_option maxSynthPendingDepth 1
 

@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ExistsIntValuationLtOne
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterDivSupp
+import GroundTheory.HeightsAndTheta.Heights.Intersections.FunFieldLeLocRing
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Inter

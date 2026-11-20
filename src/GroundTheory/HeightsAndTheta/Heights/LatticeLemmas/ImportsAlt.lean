@@ -1,8 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.Imports
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PLocalGlobalIndex
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PLocalLatticeIndex
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PLocalIndex
+import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.Assembly
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.LatticeLemmas

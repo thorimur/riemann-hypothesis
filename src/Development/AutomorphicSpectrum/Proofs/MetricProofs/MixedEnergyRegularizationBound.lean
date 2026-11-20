@@ -1,9 +1,10 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.LeviForms.ConvExpandStatement
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.MaMeasureEqOfConst
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.IsCompactRWSublevel
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.CompactPartIntegralsTendsto
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.LocDensAddOfFunContinuousOn
+import ReciprocityTheory.AnalyticForms.LeviForms.TailBoundB
+import ReciprocityTheory.AnalyticForms.PotentialTheory.AnalyticSubsetChartLocal
 open MeasureTheory Metric Filter Topology ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M ReciprocityTheory.AnForm.P ReciprocityTheory.AnForm.M.FinHolAtlas
 open scoped ContDiff
 

@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.PredMemGamRanks
-import Formalism.LocalToGlobal.Columns.PolyFnLemmas
+import Mathlib.LinearAlgebra.LinearIndependent.BaseChange
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import ReciprocityTheory.NeutralLocalFields.LocalFieldComparison.HCFFromRecipA
+import ReciprocityTheory.NeutralLocalFields.Reciprocity
 
 set_option linter.style.haveILetI false
 

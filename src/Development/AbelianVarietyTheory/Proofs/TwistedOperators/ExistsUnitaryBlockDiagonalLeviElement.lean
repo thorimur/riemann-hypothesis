@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasLenOfLatLen
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSmallerUnitaryGroupEmbedding
+import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.FIwasawaA
 
 open Formalism.UG GlobalTheory.SatakeWeyl
 

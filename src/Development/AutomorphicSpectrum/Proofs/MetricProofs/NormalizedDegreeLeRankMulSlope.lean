@@ -1,5 +1,6 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.MetricPeriods.IsOrthFull
+import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.Slopes
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open GroundTheory.Heights₂.Heights NumberField TensorProduct ComplexAt GlobalTheory.CompanionTheory.Ar Matrix
 open scoped BigOperators ComplexOrder

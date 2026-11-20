@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.GlobalReciprocity.Frobenius
 import GroundTheory.GlobalFields.GlobalReciprocity.LocalSurjective
-import GroundTheory.GlobalFields.KummerTheory.Splitting
 
 namespace GroundTheory.Global
 

@@ -1,4 +1,7 @@
 import ReciprocityTheory.CommutativeAlgebra.CohenMacaulay.ExistsIsRegularOfLeHeight
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Regular.Flat
+import Mathlib.RingTheory.TotallySplit
 
 namespace ReciprocityTheory.CA
 

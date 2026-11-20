@@ -1,6 +1,7 @@
-import Mathlib
-import Formalism.SatakeDualWeyl.Statement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemMatLat
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 open Polynomial Matrix GlobalTheory.LatOrb
 
 namespace GlobalTheory.LatOrbIsLat

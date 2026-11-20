@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.PieriBlockIdeals.PieriColumnMinors.HeightDescentMinors
+import Mathlib.RingTheory.WittVector.Compare
+import Mathlib.RingTheory.WittVector.Complete
+import Mathlib.RingTheory.WittVector.DiscreteValuationRing
 
 noncomputable section
 

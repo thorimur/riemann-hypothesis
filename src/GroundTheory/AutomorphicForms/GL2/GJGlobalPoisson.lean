@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GL2.GJGlobalModulus
 import GroundTheory.AutomorphicForms.GL2.GJMatrixSchwartz
+import CompanionTheory.AutomorphicTheory.UnitriangularMeasure.AdeleCoordinateMeasure.GJGlobalModulus
+import GroundTheory.AutomorphicForms.GL2.GJGlobalDefs
 
 namespace GroundTheory.Automorphic.GJGlobal
 

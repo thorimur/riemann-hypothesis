@@ -1,8 +1,9 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousMulVec
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedCommuteOfIrreducible
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HighestDerivativeOfProduct
-import BuildAid.D3
+import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.SegmentRepresentation
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DualClassTwistNeg
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsSmoothIterPhi
 
 noncomputable section
 

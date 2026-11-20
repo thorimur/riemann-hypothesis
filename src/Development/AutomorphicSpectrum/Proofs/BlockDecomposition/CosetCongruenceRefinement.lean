@@ -1,5 +1,9 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetOff
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

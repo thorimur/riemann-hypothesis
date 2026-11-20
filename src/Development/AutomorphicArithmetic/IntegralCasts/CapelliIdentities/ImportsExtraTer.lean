@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.WeaklyAdmissibleFiltrations.Statement
 
 theorem UpperTheory.Reformulated.B.Ue16.exists_smul_mem :

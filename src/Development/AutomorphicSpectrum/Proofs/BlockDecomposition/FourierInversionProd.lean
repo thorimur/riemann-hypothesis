@@ -1,6 +1,7 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.EisensteinSeries.SiegelEisensteinContinuation.StripEntire
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GaussTubeOfTubeGood
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Analysis.Fourier.Inversion
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

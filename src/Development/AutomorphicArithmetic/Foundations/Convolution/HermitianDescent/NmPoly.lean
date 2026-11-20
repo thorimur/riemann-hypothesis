@@ -1,4 +1,7 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.NormAlmostAll
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Matrix Polynomial NumberField IsDedekindDomain UpperTheory.ConvolutionTheory.D
 open scoped TensorProduct

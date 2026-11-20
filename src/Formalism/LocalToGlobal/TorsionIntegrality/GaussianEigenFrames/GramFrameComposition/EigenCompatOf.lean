@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussianEigenFrames.StatementF
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussianEigenFrames.GramFrameComposition.MatrixFormDiagBlocksBlockEmbed
+import Formalism.LocalToGlobal.TorsionIntegrality.GaussianEigenFrames.StatementB
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

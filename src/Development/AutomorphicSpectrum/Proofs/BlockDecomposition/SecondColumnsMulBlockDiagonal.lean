@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SigmaFiniteParameterProductMeasure
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoefficientLeviEquivariance
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegralShiftHerm
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AddHaarCharLeftRightMatrixMulAdeleTensor
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegralCompChar
+import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemElt
 
 noncomputable section
 open scoped Matrix NNReal ENNReal ComplexConjugate TensorProduct Topology

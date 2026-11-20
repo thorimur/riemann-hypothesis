@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StCoordEmbedBasis
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.NumberTheory.NumberField.CanonicalEmbedding.Basic
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

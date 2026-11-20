@@ -1,8 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.GlobalReciprocity.FinitePlaces
 import GroundTheory.GlobalFields.GlobalReciprocity.RealPlaces
-import GroundTheory.GlobalFields.NormResidueSymbol.Surjective
-import GroundTheory.GlobalFields.Adele.IdeleBasis
 
 namespace GroundTheory.Global
 

@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherFurther
+import GroundTheory.HeightsAndTheta.Heights.Intersections.PullBad
 set_option maxSynthPendingDepth 1
 
 noncomputable section

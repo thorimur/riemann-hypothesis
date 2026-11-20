@@ -1,8 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NablaSchur
 import Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightMemWZero
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LDrowLemmas
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.DualWeylEqEvalAtOneSmulExtremalOfRowWeight
 
 open MvPolynomial Formalism.GradedWeylDivisibility

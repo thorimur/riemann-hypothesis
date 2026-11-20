@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.cut_GCore_GTConnCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.cut_GCore_GenTransferKapCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TheSection

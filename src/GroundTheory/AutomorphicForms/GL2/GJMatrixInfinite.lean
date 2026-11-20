@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.GlobalFields.TateThesis.TraceLatticePoisson
+import GroundTheory.GlobalFields.TateThesis.LatticePoisson
+import GroundTheory.GlobalFields.TateThesis.TraceDualLattice
 
 namespace GroundTheory.Automorphic.GJMatrix
 

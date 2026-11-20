@@ -1,19 +1,7 @@
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.CoprimeTwoPow
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Galois
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.ConjReal
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.RealCyclotomicSubfield
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.FrobMulInertia
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.SplitK
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.MuCardLeTwo
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Inertia
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Decomp
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.CardTrivialFirstComponent
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.OrderOfSignGroupDvdTwo
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.CardExtendedGaloisGroup
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Orbits
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.DiscriminantRealSubfield
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.DiscrB
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Principal
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.ThickOrbit
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.ThickFrames
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.ExistsOpenNormalOrderOf
@@ -22,7 +10,6 @@ import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.NcardEqTwoIff
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.OrbitSg
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.ThickExists
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.EqZeroOfNegEq
-import Formalism.FrobeniusOrbits.RealSubfieldLeCompositum
 
 namespace Formalism.FrobeniusOrbits.Final
 

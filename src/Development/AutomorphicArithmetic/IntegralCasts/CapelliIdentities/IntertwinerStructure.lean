@@ -1,10 +1,4 @@
-import Mathlib
-import Formalism.HermitianCurvature.StatementMA
-import Formalism.HermitianCurvature.StatementQ
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreCut
-import Formalism.HermitianCurvature.StatementM
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeCut
-import Formalism.HermitianCurvature.StatementB
 
 noncomputable def UpperTheory.Reformulated.B.IntertwinerStructure.Intw :
     {Wp Wq : Type} →

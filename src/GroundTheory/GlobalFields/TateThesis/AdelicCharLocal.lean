@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.AdelicChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace GroundTheory.Global
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.ScaledRamifiedLattice
 import Formalism.LocalToGlobal.KernelLattices.ThDistC
 
 open NumberField IsDedekindDomain nonZeroDivisors

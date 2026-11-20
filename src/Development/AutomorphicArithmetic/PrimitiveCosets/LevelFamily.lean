@@ -1,6 +1,6 @@
-import Development.AutomorphicArithmetic.PrimitiveCosets.CoreAtH
 import Development.AutomorphicArithmetic.PrimitiveCosets.GChiEq
 import Development.AutomorphicArithmetic.PrimitiveCosets.GzEq
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ExplicitFormulaErrorOfHostConditions
 
 open UpperTheory.Comparison₂ Deduction.CH Formalism Formalism.HC Formalism.D5 Formalism.RankGapBounds.WeightedMeanData Formalism.LFunctionChainParameters.WeightedSlopeBounds Formalism.LFunctionChainParameters.characterSumData Formalism.LFunctionChainParameters.ThickSetMeanBounds Formalism.LFunctionChainParameters.LErr
   Formalism.LFunctionChainParameters.LChain Formalism.LFunctionChainParameters.LHost

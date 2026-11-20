@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.UnitaryNorms.AdjoinCycZeta
 import Formalism.LocalToGlobal.UnitaryNorms.IotaABijective
 import Formalism.QuotientMetricDivisors.RatHermLcvTwist

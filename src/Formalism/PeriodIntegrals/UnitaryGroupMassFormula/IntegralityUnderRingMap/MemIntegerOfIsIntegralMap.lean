@@ -1,5 +1,9 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.NGDict
+import Formalism.SharpRestriction.CuspSpanNormBounds.IsTermOver
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.Valuation.Integral
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

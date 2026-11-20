@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsFlatLift
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsExteriorAlgebraExtensionOfFrobeniusSemilin
+import Mathlib.LinearAlgebra.ExteriorAlgebra.OfAlternating
+import Mathlib.RingTheory.PiTensorProduct
 
 open GlobalTheory GlobalTheory.DI
 

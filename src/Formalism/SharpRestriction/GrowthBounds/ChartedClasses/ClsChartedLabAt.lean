@@ -1,6 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.ExistsIsCGBases
 import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.InTwSt
-import Formalism.SharpRestriction.GrowthBounds.ChartComparison
 import Formalism.SharpRestriction.GrowthBounds.ChartComparison.YbOfEqOfCls
 import Formalism.LocalToGlobal.GroupLattices.ClassLocalOfEq
 import Formalism.SharpRestriction.GrowthBounds.IntegralWeylLatticeSpan

@@ -1,5 +1,4 @@
-import Development.WeilBound.ThetaLifts.EigenvalueEndgame.UnipotentGroups.UnipUGood
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnipotentBlockColumnIndex
+import Development.WeilBound.ThetaLifts.EigenvalueEndgame.PlaneRemovalConfiguration
 
 noncomputable section
 

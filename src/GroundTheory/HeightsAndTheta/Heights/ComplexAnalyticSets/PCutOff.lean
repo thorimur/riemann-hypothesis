@@ -1,7 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLogLogCut
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCutOffTube
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCutOffGradient
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Topology.Algebra.MvPolynomial
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

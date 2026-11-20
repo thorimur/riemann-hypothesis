@@ -1,5 +1,11 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.WeilDivisor
+import Mathlib.RingTheory.Ideal.UFD
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

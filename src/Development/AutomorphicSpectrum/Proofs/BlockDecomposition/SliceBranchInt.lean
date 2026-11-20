@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSliceBranchInt
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PParamChartInt
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PChartIntCountAdd
@@ -7,7 +6,6 @@ import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PParamCritNull
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PParamOffRegularZero
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PRegularInjectivePieces
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PParamDensIntegrable
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.AssemblyBase
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.BranchProperAtPointHoldsStatement
 
 namespace GlobalTheory.CompanionTheory.Ar.SliceBranch

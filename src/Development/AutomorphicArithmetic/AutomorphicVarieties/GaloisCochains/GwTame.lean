@@ -1,8 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.GLinkQuot
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.LocEuler
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.TameEq
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.IsClosedOfClosedFiniteIndex
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.DecZhat
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Module UpperTheory.V UpperTheory.V.Fr UpperTheory.V.GC
 

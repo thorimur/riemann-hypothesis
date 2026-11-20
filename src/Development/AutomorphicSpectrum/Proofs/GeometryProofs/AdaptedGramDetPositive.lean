@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.IsAdapted
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.GramDetNeZeroOfIndep
+import GroundTheory.HeightsAndTheta.Heights.ArithDegree
 
 open NumberField TensorProduct Matrix GlobalTheory.CompanionTheory.Ar GlobalTheory.CompanionTheory.Ar.Cusp
 open GlobalTheory.CompanionTheory.Ar.RootHt GroundTheory.Heights₂.Heights

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InverseMapCoordDerivativeNeZero
 open scoped ContDiff Topology
 open Filter

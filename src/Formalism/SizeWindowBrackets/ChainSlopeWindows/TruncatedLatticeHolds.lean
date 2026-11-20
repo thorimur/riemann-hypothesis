@@ -1,6 +1,9 @@
 import Formalism.SizeWindowBrackets.LcvBaseChange
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.ExistsNsmulMem
 import Formalism.HermitianLattices.HermitianLatticesProofs.IndexBasic
+import Formalism.HarderNarasimhan.StatementMod
+import Mathlib.Data.Rat.Star
+import Mathlib.NumberTheory.NumberField.Cyclotomic.Embeddings
 
 open Module NumberField
 

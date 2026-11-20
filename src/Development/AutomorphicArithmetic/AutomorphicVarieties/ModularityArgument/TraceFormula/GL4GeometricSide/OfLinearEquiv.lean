@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.GL4GeometricSide.InnerEq
+import GroundTheory.AutomorphicForms.RealIwasawaIntegration
+import Mathlib.LinearAlgebra.PID
 
 noncomputable section
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameAtApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarAddVectorScalar
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ReframeVerticalDerivativeStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMapWedgeCompatStatement

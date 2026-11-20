@@ -1,4 +1,6 @@
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LDlatLemmas
+import Formalism.GradedWeylDivisibility.FinalC
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open MvPolynomial
 

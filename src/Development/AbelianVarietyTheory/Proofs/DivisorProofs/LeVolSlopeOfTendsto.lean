@@ -1,8 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.SemiposAtOfPositive
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsLUBRangeOfMatch
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ValVwProdLe
 
 set_option autoImplicit false
 

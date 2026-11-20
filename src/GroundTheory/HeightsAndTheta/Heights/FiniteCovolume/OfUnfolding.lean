@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.Assembly
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PReducedBasisBound
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PArchCovolumeBound
@@ -8,7 +7,6 @@ import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PTraceHermNondegenera
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PDualLatticeMultiple
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PCoordLatticeFullRank
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PMajorantTransport
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PComplementExtension
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineNormalForm
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PComplementLattice
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PUnfoldAlongSubgroup

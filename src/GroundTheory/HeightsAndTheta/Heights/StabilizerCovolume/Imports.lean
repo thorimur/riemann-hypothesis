@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.ImportsTer
 import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.PFirstMinPos
 set_option maxSynthPendingDepth 1

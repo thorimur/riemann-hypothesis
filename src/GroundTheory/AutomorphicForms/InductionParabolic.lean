@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.Induction
 import GroundTheory.AutomorphicForms.InductionJacquet
 import GroundTheory.AutomorphicForms.InductionParabolicLocal

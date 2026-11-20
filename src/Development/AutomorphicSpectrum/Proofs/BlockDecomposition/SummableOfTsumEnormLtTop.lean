@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.WeilSiegelTheta.ThetaOrbits
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RangeVecMulLinearEq
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfinite

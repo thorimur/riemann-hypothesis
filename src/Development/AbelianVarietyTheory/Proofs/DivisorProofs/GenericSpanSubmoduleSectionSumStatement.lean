@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericSpanSubmoduleSectionSum
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsFrameCokernelP
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFlagOfTriangularFrames
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry
 open GlobalTheory GlobalTheory.VB GlobalTheory.LieFilt GlobalTheory.GrFilt
 open GlobalTheory.Twist (resM)

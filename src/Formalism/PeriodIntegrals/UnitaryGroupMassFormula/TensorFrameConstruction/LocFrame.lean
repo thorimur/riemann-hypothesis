@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ScPiExists
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TensorFrameConstruction.LocalFramePreservesOrthogonal
 
 noncomputable section

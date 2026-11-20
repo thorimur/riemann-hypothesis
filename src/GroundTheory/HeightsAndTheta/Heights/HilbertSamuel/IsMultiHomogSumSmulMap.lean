@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.IsBoundedAtOfIsBoundedH
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsNmSectionsRankBound
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSectionSupBound
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSectionPointValue

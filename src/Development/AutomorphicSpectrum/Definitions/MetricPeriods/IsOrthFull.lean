@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.HeightsSetAll
+import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.Slopes
 
 noncomputable section
 

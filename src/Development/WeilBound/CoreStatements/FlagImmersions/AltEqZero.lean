@@ -1,4 +1,7 @@
 import Development.WeilBound.CoreStatements.FlagImmersions.AltCMul
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

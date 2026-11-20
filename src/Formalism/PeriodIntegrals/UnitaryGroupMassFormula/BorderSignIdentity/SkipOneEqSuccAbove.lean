@@ -1,7 +1,10 @@
 import Formalism.PeriodIntegrals.QmBorderES
 import Formalism.PeriodIntegrals.QmColExp
 import Formalism.PeriodIntegrals.QmRowExp
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.QuantumDetHighestWeightHolds
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 open Finset Formalism.REAL
 

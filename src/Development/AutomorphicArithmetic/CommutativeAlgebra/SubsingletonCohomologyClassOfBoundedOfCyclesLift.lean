@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.CommutativeAlgebra.BconeDefs
+import Development.AbelianVarietyTheory.Definitions.Divisors.GalMapMul
 
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex GlobalTheory.EtC UpperTheory.Bc
 

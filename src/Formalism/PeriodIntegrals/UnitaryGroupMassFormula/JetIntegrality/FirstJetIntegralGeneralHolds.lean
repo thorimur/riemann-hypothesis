@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.JetsPhW
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.JetIntegrality.CoeffSubstOfDegreeEqOne
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.JetIntegrality.ExpLow
 

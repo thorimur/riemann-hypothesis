@@ -1,4 +1,9 @@
 import Formalism.CyclotomicNorms.DiscardKernel
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PowerSeries.Inverse
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 open PowerSeries
 

@@ -1,5 +1,7 @@
 import Formalism.PeriodIntegrals.HaarDefs
 import Formalism.FormalDegreeBessel.FinalG
+import Mathlib.Analysis.Normed.Algebra.MatrixExponential
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open MeasureTheory Matrix Finset
 open scoped InnerProductSpace ContDiff

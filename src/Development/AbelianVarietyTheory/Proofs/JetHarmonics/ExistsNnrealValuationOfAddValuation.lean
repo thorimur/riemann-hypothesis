@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ExistsWeightBasisFiltration
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace GlobalTheory
 

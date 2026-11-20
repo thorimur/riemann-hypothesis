@@ -1,5 +1,10 @@
 import Formalism.HermitianCurvature.StatementJ
 import Lemmata.FiberEquations.FiberEq
+import Mathlib.Algebra.Module.LinearMap.Rat
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Finset NumberField Formalism.FourierDecayAlt Formalism.FourierDecayAlt.J Module
 open scoped ComplexConjugate nonZeroDivisors

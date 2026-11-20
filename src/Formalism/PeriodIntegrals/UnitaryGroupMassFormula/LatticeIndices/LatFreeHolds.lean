@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LatBasisAllOf
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ExistsGl
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SpanTopFamily

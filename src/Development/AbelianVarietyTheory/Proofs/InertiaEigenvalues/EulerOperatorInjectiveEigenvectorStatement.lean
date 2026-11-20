@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EulerOperatorInjectiveEigenvector
 open MeasureTheory Filter Topology
 open scoped InnerProductSpace BigOperators

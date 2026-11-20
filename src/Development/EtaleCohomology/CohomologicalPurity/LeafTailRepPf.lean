@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.CohomologicalPurity.LeafTailPf
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

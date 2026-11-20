@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.HermitianForms.TiedTwSame
-import Formalism.LocalToGlobal.HermitianForms.TiedTwJSym
-import Formalism.LocalToGlobal.HermitianForms.BothSym
+import Formalism.LocalToGlobal.HermitianColumns.TiedCh
+import Formalism.LocalToGlobal.HermitianForms.TiedSym
 
 noncomputable section
 

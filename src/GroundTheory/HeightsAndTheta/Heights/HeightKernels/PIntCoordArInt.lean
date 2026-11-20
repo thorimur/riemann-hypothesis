@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsIntCoordArInt
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualTopBasisChange
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSt
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

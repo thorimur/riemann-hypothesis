@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmRowForm
 
 open Formalism.REAL Finset

@@ -1,6 +1,7 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.RecPJThAllNeBot
 import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.LogSupSumLeOfNonvanishingDetLimit
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.SupBoundPageRows
+import Formalism.LocalToGlobal.ProjectiveLattices.HasDataCondition
+import Formalism.LocalToGlobal.ProjectiveLattices.XcLat
 
 noncomputable section
 

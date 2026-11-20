@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.ExistsNormLeOfNormLtOneFinite
 set_option maxSynthPendingDepth 1
 

@@ -1,4 +1,3 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.UnitarySchrodingerModel.WhitNDgOfLocalOfSteps
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.WhitGenOf
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WhitKA
 

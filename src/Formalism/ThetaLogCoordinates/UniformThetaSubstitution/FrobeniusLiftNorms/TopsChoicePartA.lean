@@ -1,6 +1,10 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.OddLogRelation
 import Formalism.GaussJetBounds.GaussJetProofs.NormNatCastEqPowPadicValNat
+import Mathlib.Data.Finsupp.Pointwise
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.PowerSeries.Expand
+import Mathlib.RingTheory.SimpleRing.Principal
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

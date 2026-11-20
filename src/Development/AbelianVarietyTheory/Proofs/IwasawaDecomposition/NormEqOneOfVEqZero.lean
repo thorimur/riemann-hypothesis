@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.LocalInduction.BridgeInd
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosurePadicInt
 

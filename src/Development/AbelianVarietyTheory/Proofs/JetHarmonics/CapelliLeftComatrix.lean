@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExponentialFirstColumn.FirstColumnSplitBijective
 

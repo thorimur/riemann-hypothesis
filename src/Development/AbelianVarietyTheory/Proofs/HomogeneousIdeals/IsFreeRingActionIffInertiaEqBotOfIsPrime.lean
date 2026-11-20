@@ -1,5 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.ExistsUnitSmulEqOfBijectiveToSpanSingleton
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Etale.Descent
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open scoped TensorProduct
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.PredMulSumPadicValNatFactorialAddCardLe
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.MemPowIffCoeffMem
 
 namespace GlobalTheory.ChF

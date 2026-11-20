@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataTheta
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsFockIPOfFockData
+import Mathlib.Analysis.InnerProductSpace.l2Space
 
 noncomputable section
 namespace GlobalTheory.FockAlg.Model

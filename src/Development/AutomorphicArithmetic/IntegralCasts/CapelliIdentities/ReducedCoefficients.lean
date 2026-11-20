@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HeightAndVanishing.DirichletPrimeToLPartMulLPowerPart
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsIntegralOfNormLeOne
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.DvrOfNormIntegral

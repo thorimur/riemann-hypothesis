@@ -2,6 +2,7 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.OddResidueBounds.Z
 import Development.AutomorphicArithmetic.AutomorphicVarieties.StickelbergerCharacterEval.ExistsPadicIntLiftOfIntegralAt
 import Development.AutomorphicArithmetic.AutomorphicVarieties.OddResidueBounds.YLevel
 import Development.AutomorphicArithmetic.AutomorphicVarieties.OddResidueBounds.YNear
+import Development.AutomorphicArithmetic.AutomorphicVarieties.StickelbergerCharacterEval.MemZpowersIff
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Formalism.GaloisCohomology UpperTheory.V UpperTheory.V.LDataCardLeFinrank UpperTheory.V.Base UpperTheory.V.Kum UpperTheory.V.Bern UpperTheory.V.B4 UpperTheory.V.B5 UpperTheory.V.Odd
 

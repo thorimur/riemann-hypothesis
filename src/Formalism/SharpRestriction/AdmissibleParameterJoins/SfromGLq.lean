@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.SharpRestriction.AdmissibleParameterJoins.SfromGLp
 import Formalism.SharpRestriction.AdmissibleParameterJoins.SfromGLe
+import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Card
 
 noncomputable section
 

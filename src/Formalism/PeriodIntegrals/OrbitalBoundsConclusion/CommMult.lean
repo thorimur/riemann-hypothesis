@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UMultOne
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CommutingMultiplicity.CommMultOf
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CommutingMultiplicity.SchurStepAlt
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CommutingMultiplicity.InjStep

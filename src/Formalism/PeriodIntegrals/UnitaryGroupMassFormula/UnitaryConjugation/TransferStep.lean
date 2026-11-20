@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UMultOne
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
 
 noncomputable section
 

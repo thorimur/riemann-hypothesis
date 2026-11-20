@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.Mfac
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.CAFInvol
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaFunctionHeisenbergInvariant

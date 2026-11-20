@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsMulVal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CartierDualCoalgebraIsoLevelStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBaseChangeMapEq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CubWeilEqTransport

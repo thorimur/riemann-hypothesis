@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.TrDefs
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.MatImage
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.UnitsTrace
 

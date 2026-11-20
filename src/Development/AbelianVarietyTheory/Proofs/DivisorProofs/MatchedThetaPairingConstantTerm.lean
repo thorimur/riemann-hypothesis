@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsCuspW
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsRegFamConst
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AnisotropicPairEisensteinExistsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FormYXNeZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CtConvZero

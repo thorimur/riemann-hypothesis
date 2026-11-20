@@ -1,4 +1,3 @@
-import Formalism.FlagUnipotentLattices.StabiliserComplementDecomposition
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.BlockMinorAbsoluteOfExplicit
 
 namespace Formalism.HermitianLatticeCounting.Final.ExpansionTerms

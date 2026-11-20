@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualStackedGraph
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualTopSimpleStacked
 set_option maxSynthPendingDepth 1
 

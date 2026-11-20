@@ -1,10 +1,6 @@
-import Mathlib
-import GroundTheory.GlobalFields.GlobalReciprocity.General
-import GroundTheory.GlobalFields.GlobalReciprocity.Frobenius
-import GroundTheory.GlobalFields.ClassFieldConsequences.RayClassFieldLocal
 import GroundTheory.GlobalFields.ClassFieldConsequences.ConductorLocal
-import GroundTheory.GlobalFields.TateThesis.HeckeChar
 import GroundTheory.GlobalFields.Artin.InflationTower
+import GroundTheory.GlobalFields.ExistenceTheorem.ExistsIsAbelianGaloisRangeIdeleClassNormEqOfFini
 
 namespace GroundTheory.Global
 

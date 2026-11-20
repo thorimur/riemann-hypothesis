@@ -1,5 +1,5 @@
-import Formalism.WachLatticeTwists.RamifiedBlockRings.LemmaFiveThreeAnyResidueField
-import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.AbsIrrOfSpan
+import Formalism.WachLatticeTwists.RamifiedBlockRings.ChainFromPrimitiveData
+import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.IdempotentImageSurjective
 
 open Finset Classical
 

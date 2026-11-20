@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.GaloisLevelStructure.DefsAutLoc
-import Formalism.LocalToGlobal.GaloisLevelStructure.DefsFinTyp
 
 noncomputable section
 

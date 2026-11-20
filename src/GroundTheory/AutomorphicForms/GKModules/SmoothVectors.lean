@@ -1,6 +1,9 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GKModules.LieAlgebra
 import GroundTheory.AutomorphicForms.UnitaryRepresentations.IsInvariantIffCommuteStarProjection
+import Mathlib.Algebra.Lie.UniversalEnveloping
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace GroundTheory.Automorphic
 

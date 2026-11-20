@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.AlternatingMapSumSmulEqDetSmul
+import Mathlib.LinearAlgebra.ExteriorAlgebra.Basis
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RingHom.StandardSmooth
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 set_option autoImplicit false
 

@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ContragredientTranspose.Character
-import GroundTheory.AutomorphicForms.LocallyProfinite
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
 
 noncomputable section
 

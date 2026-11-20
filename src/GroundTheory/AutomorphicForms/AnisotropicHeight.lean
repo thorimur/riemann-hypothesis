@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.AnisotropicOrbit
 import GroundTheory.AutomorphicForms.AdelicUnitaryGroups
+import GroundTheory.AutomorphicForms.ReductionHeight
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 open NumberField IsDedekindDomain Topology Set Matrix Filter

@@ -1,5 +1,5 @@
 import Development.WeilBound.ThetaLifts.SmallCones.ThetaUniq
-import Development.WeilBound.ThetaLifts.SmallCones.HodgeTateFromSandwich
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 set_option linter.unusedSectionVars false
 

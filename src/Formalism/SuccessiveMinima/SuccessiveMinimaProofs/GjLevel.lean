@@ -1,4 +1,7 @@
 import Formalism.SuccessiveMinima.DefsMink
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 open MeasureTheory Set
 open scoped Pointwise ENNReal

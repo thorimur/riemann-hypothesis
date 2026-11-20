@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.NatCastMemPrimeOf
+import Mathlib.RingTheory.PiTensorProduct
 
 open NumberField
 

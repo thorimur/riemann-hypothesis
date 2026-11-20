@@ -1,4 +1,5 @@
 import Formalism.ThetaLogCoordinates.TraceIsometryWeights.DivStable
+import Mathlib.Order.CompletePartialOrder
 
 namespace Formalism.InvariantFactorPaths.PW
 

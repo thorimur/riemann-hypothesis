@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDACapTodaVGrpCut
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.QminorZero
 
 open Matrix
 

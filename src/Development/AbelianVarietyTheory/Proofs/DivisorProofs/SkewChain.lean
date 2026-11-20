@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnipParLeUnipFlag
-import Development.AbelianVarietyTheory.Definitions.Foundations.ConstTermOnMulLeftOfNormalizer
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemThInt
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasConstTermConst
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsotropicPlaneComplementIdeal
 open scoped TensorProduct NNReal Matrix
 open NumberField IsDedekindDomain MeasureTheory Filter Topology Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes

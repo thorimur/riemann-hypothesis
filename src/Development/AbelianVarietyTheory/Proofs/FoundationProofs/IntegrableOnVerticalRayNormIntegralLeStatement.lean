@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IntegrableOnVerticalRayNormIntegralLe
 open MeasureTheory Filter Topology Set
 set_option maxHeartbeats 1000000 in

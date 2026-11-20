@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.TensorLatticeBounds.DataLoc
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

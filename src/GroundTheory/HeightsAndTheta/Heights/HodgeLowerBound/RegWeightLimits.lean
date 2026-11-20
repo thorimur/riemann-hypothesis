@@ -1,9 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.CpRegPhRegOfNonneg
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.IsCompactImageClosureMid
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.PBoundedGlue
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.PGlueRegularised
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMoll
 set_option maxSynthPendingDepth 1
 
 noncomputable section

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.SIdeleGroups
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace GroundTheory.Global
 

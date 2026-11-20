@@ -1,6 +1,6 @@
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.SymplOHF
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.SplitStab
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.IsLatRepL
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwoMulInvOf
+import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.DCdE
 
 set_option synthInstance.maxHeartbeats 200000
 

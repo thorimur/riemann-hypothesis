@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCurveBranchLength
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCurveNormalisationLength
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StBranchNormalisation
 set_option maxSynthPendingDepth 1
 

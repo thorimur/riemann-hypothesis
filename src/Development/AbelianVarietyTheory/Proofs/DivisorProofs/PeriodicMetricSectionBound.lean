@@ -1,11 +1,11 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarEqZeroOfHolomorphic
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodTorusFlatCoordsInverse
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFundamentalDomainOfIsLat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralFderivApplyEqZeroOfPeriodic
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EqZeroOfSetIntegralFundamentalDomainEqZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelTwoImQuadNonneg
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.D10OfRealEqMulLog
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Matrix MeasureTheory GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe GlobalTheory.TorsionForm GlobalTheory.TorsionForm.FlatAcyc
 open scoped Real ContDiff

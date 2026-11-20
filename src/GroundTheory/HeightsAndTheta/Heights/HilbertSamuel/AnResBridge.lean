@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterBridgeA
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.AnResBridgeSheet
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.AnResBridgeIntegrable

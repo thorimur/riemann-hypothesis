@@ -1,8 +1,5 @@
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.DiffDefs
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.VdFormula
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.LayerBot
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.CardImgOneDvd
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.MemRam
 
 open UpperTheory.HF
 

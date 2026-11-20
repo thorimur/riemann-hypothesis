@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.MonomialMeanResidues.MonomialMean
 import Formalism.MonomialMeanResidues.FilteredDegree
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.GoodOver
 

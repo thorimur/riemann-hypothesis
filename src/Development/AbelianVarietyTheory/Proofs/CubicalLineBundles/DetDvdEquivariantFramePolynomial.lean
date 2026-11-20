@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.CMDeterminantIdeals.StatementG
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ExistsIsHomogeneousOfEquivariant
+import Mathlib.Algebra.AffineMonoid.UniqueSums
 
 set_option autoImplicit false
 

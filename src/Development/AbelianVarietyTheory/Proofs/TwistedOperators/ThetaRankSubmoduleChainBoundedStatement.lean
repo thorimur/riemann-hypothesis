@@ -1,10 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaRankSubmoduleChainBounded
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.DiscreteSeriesHermitianUnique
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.HypothesesAbsDet
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IsSubAug
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.RkSubSuccLe
 
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.theta_rank_submodule_chain_bounded : GlobalTheory.FunPr.Hypotheses₂ → ∀ (k : Type) [Field k] [ValuativeRel k] [TopologicalSpace k] [IsNonarchimedeanLocalField k]

@@ -1,5 +1,14 @@
 import Development.EtaleCohomology.DivisorCycles.CycleCount
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.PowEig
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 
 open Matrix Polynomial
 namespace LateralTheory.DivDb.CycleCount₂

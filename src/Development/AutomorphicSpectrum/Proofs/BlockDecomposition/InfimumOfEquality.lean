@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RankPosOfLeaves
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FinitePlacesOver
 

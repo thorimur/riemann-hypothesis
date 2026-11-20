@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJfSSymDefs
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJfSmoothCut
 
 open Matrix Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

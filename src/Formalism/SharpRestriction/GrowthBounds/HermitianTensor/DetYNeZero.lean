@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DetFactsPAlt
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.NuOfLoZero
+import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.OneMemDualWeyl
 
 noncomputable section
 

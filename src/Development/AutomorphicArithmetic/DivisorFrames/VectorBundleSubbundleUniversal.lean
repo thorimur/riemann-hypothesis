@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsPairBundle
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CmpNaturality
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsFrameOfBijectiveStalk
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AppInjectiveOfFrames
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry TopologicalSpace GlobalTheory GlobalTheory.VB
 
 private theorem rk_cokernel {X : Scheme.{0}} {A E : X.Modules} {u : A ⟶ E} {a n : ℕ} (hu : IsSubbundle u)

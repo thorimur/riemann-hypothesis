@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsLattice
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.HasDerivAtDet
 set_option maxSynthPendingDepth 1
 

@@ -1,8 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.TwoChartAtlas.AdditionLawSecondIdentity
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ThetaSwapFirstTwo
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqA
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqB
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDJet
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.LBPull
 
 set_option autoImplicit false
 noncomputable section

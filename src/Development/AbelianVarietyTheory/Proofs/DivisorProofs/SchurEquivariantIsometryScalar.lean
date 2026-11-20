@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.RealMetaplecticRepresentation
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSchur
+import Mathlib.Analysis.Distribution.AEEqOfIntegralContDiff
+import Mathlib.Analysis.Distribution.SchwartzSpace.Fourier
 
 open scoped Matrix
 open MeasureTheory GlobalTheory.RealWeil

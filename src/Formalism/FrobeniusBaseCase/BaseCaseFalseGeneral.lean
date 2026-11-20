@@ -1,4 +1,3 @@
-import Formalism.FrobeniusBaseCase.FrobeniusBaseCaseProofs.SecondWayHolds
 import Formalism.FrobeniusBaseCase.FrobeniusBaseCaseProofs.BaseCaseFalseGeneralHolds
 import Formalism.FrobeniusBaseCase.FrobeniusBaseCaseProofs.FixAll
 

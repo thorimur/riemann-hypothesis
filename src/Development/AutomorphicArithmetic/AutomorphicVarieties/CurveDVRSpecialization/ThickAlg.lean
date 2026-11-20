@@ -1,7 +1,8 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.WeilGroupCharacters.UniversalOrdinaryDeterminantRing
-import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.DGmap
-import Development.AutomorphicArithmetic.AutomorphicVarieties.CurveDVRSpecialization.SelfTwistEigenvalues.UnipTorsion
-import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.IrreducibleSpans.Burnside
+import Mathlib.RepresentationTheory.AlgebraRepresentation.Basic
+import Mathlib.RingTheory.Congruence.Hom
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

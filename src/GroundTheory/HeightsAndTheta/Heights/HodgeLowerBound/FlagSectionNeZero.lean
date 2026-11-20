@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.DetLineSmooth
 set_option maxSynthPendingDepth 1
 

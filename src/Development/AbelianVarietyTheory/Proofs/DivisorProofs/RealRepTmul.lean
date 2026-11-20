@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.PlacesOverU
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.PtFree
+import Formalism.LocalToGlobal.ProjectiveLattices.VAtVNeBot
 
 noncomputable section
 

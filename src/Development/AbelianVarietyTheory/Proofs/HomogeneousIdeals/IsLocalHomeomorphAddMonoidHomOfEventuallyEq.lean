@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.TendstoUniformlyOnDoublingLogOfContraction
+import Mathlib.Algebra.Module.ZLattice.Basic
+import Mathlib.Analysis.Calculus.InverseFunctionTheorem.ContDiff
+import Mathlib.Topology.IsLocalHomeomorph
 
 open Metric Set Filter Asymptotics
 open scoped Topology

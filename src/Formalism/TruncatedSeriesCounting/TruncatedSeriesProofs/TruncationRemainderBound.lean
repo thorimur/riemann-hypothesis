@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.TruncatedSeriesCounting.StatementX
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 
 namespace Formalism.TruncatedSeriesCounting.X
 

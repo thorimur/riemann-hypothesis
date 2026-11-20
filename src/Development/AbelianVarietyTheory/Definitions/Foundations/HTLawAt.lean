@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.KumValUnique
-import Development.AbelianVarietyTheory.Definitions.Foundations.ZetaSysUOfHalves
 
 noncomputable section
 

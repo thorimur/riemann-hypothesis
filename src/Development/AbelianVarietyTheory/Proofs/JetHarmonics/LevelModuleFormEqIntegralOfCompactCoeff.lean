@@ -1,11 +1,7 @@
-import Mathlib
-import Formalism.HermitianCurvature.StatementTBB
-import Formalism.HermitianCurvature.HerGenC
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.StandardPairingOfHeads
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.HeadGermSmoothExtension
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.RadialExhaustion
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.AeNeZeroComplex
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.MemLevelZeroOfMemGroup
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.ContinuousHsInner
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.WordCorrespondence
 
 noncomputable section
 

@@ -2,6 +2,8 @@ import Development.WeilBound.ThetaLifts.SphericalLattices.FunDefs
 import Development.WeilBound.CoreStatements.LocalThetaKernels.EvlMain
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.Inertof
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.Kcompact
+import Development.WeilBound.CoreStatements.LocalThetaKernels.IwasMain
+import Development.WeilBound.ThetaLifts.SphericalLattices.HoweInert
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitKron
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace PI.UnitKronW
 

@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ParabolicQuotientMeasure
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SplitHomeoApply
 open MeasureTheory Topology
 open scoped ENNReal NNReal Matrix Pointwise
 set_option maxHeartbeats 1000000 in

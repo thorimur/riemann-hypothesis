@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.MulCMemSec
 
 namespace GlobalTheory.CompanionTheory.Ar.ThA

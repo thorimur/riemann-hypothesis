@@ -1,8 +1,8 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.StatementA
-import Formalism.EllipticTorsion.FormalGroupPointsNoTorsion
 import Formalism.LocalToGlobal.TorsionIntegrality.WeierstrassTwoTorsion.FlowTwoTorsionWp
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.LogSigmaOnePullbackSpec
 import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.Series
+import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.StatementT
 
 open PowerSeries
 

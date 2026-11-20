@@ -1,7 +1,7 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.ExponentialNegativity.L2DecayOfCountEscape
 import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.ExponentialNegativity.BoxVolumes.MeasureBoxRingEquivLe
 import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.ExponentialNegativity.BoxVolumes.SumRangeSuccMulSubPred
+import GroundTheory.AutomorphicForms.Reduction
 
 open NumberField MeasureTheory Set Matrix
 open scoped NNReal ENNReal Pointwise

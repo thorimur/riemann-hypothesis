@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.CompactGapsGE
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 open MvPolynomial GlobalTheory.CompanionTheory.Ar.Top
 

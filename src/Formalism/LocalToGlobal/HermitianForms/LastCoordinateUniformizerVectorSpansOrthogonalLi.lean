@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.HermitianForms.PrkSmul
+import Formalism.LocalToGlobal.HermitianForms.PsiZeroNontrivialCharacter
 
 noncomputable section
 

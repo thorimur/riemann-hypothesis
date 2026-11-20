@@ -1,4 +1,4 @@
-import Development.WeilBound.ThetaLifts.LocalTheory.ConeShifts.PureCancel
+import Development.WeilBound.ThetaLifts.LocalTheory.ConeShifts.ArchCone
 
 noncomputable section
 

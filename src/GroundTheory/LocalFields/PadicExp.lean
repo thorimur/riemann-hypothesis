@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.PadicLogHom
 
 namespace GroundTheory.LocalField

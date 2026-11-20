@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.IoDVariableLastEqTopEnd
+import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.SymbolVariableLowerLetter
+import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.RestSegCore
 
 noncomputable section
 

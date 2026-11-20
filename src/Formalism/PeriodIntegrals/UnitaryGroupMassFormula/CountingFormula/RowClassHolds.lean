@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.TraceOneUnramified
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.RowUnitCondition
 

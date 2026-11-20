@@ -1,5 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockJointMultiplicity.GlobalTheory
-import Mathlib
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Bl.general_b_fact_upper_bis_form
 

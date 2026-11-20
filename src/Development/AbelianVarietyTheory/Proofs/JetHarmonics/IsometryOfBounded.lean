@@ -1,10 +1,6 @@
-import Mathlib
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.VectorIsomorphismLevels
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MemLevelZeroOfMemGroup
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsNormBoundThreeFamilies
-import Development.AbelianVarietyTheory.PublishedTheorems.BesselIntegrals.BesselXiIntegrable
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.BetaFinsetSumSmulOfXiExists
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.RadialModuleFormOfXiExists
+import Formalism.HermitianCurvature.HerGenC
 
 open Matrix MeasureTheory Filter Topology
 

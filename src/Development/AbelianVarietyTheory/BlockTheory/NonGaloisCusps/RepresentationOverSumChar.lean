@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.LevelLetterCocycles.DataN
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
+import Mathlib.LinearAlgebra.Charpoly.ToMatrix
+import Mathlib.RepresentationTheory.Semisimple
 
 noncomputable section
 

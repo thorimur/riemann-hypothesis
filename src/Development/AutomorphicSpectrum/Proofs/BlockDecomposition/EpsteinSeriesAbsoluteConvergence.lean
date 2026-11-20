@@ -1,5 +1,5 @@
-import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.VerticalStrips.UnramifiedEulerProductIntegral
+import GroundTheory.AutomorphicForms.GL2Classical.KFinite
 
 set_option maxSynthPendingDepth 1
 set_option synthInstance.maxSize 1000

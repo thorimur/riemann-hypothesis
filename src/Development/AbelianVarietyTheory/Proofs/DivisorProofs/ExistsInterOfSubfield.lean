@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.UnitaryNorms.CharExVal
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterFiniteIdeleValueMemField
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryRationalInfTypeSubgroupAndInfTypeUnique

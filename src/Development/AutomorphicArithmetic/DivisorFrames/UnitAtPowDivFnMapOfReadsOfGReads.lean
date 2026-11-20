@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.LocalEmbeddings.VertCmp
 import Development.AutomorphicArithmetic.DivisorFrames.RegularAtPointExtension
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.JGenSpecializes
 open CategoryTheory Limits AlgebraicGeometry IsLocalRing NumberField IsDedekindDomain

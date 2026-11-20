@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.PAdicHodge.KerFontaineThetaCompFrobeniusEquivSymmPow
+import GroundTheory.PAdicHodge.TiltValuation
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.SimpleRing.Principal
 set_option maxSynthPendingDepth 1
 
 noncomputable section

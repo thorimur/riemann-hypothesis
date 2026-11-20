@@ -1,7 +1,7 @@
 import Formalism.HarderNarasimhan.StatementPl
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SatBasic
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.ShiftInvariance
 import Formalism.LatticeSlopes.ExistsSaturatedSlopeEqMuMax
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open Module NumberField
 

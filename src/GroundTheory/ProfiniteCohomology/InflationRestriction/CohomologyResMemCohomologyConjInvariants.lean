@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.TateCohomology.ConjAction
 import GroundTheory.ProfiniteCohomology.InflationRestriction.DegreeOne
 set_option maxSynthPendingDepth 1

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HasConesIff
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.FormAtIdOfIsMonomial
 
 noncomputable section

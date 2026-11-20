@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsBesPosOfBesselTied
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsOpenKer
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ThetaUnipotentConjugationStatement
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ThetaUnipotentActionCocycleStatement

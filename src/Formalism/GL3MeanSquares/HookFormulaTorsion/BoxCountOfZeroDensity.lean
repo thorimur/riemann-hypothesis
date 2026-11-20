@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.GL3MeanSquares.ZeroDensityBox
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TailFinal
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.CountFinal

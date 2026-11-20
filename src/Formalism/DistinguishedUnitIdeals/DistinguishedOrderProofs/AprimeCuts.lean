@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.DistinguishedUnitIdeals.AprimeCuts
 import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.CutPlace
 import Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.AprimeArith

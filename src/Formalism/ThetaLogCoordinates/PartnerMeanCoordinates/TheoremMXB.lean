@@ -1,4 +1,4 @@
-import Formalism.ThetaLogCoordinates.PartnerMeanCoordinates.TheoremMCB
+import Formalism.MahlerMeasure.StatementTM
 
 namespace Formalism.InvariantFactorPaths.MC
 

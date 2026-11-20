@@ -1,5 +1,11 @@
 import Formalism.PadicSubsetSums.StableGradedCounts.ZBrauerNesbittAlg
 import Lemmata.ScalarExtension.Scal
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.LinearAlgebra.Charpoly.BaseChange
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open Polynomial

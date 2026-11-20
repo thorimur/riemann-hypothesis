@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FockTheta.NormDeltaLowOfFockDeltaLow
-import Formalism.LocalToGlobal.IndefiniteReal.FockTheta.ConjPurelyImaginaryGenerator
 
 noncomputable section
 

@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCMLengthParameters
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StTransverseObjects
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

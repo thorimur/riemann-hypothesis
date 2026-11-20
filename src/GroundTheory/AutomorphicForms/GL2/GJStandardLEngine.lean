@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJStandardLPartial
 
 open MeasureTheory Filter Set Topology IsDedekindDomain NumberField NumberField.mixedEmbedding

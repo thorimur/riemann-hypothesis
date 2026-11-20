@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.TraceIntegralEstimates.AmpNZTie
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.PairMeasScaleN
-import Formalism.HermitianCurvature.StatementD
 
 noncomputable section
 

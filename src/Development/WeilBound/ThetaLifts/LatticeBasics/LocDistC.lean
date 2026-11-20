@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.LatticeBasics.LocDistA
 
 open Filter Topology GlobalTheory.WeilM Matrix

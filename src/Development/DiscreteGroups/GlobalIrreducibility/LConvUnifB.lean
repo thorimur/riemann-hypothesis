@@ -1,9 +1,5 @@
-import Mathlib
-import Development.DiscreteGroups.GlobalIrreducibility.LConvCut
-import Development.DiscreteGroups.GlobalIrreducibility.LConvUnifA
-import GroundTheory.AutomorphicForms.JacquetAdmissible
-import GroundTheory.AutomorphicForms.Cartan
 import GroundTheory.AutomorphicForms.IwahoriFactorization
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

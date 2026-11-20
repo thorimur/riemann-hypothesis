@@ -1,4 +1,7 @@
 import Formalism.CMTypeGalois.StatementField
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
+import Mathlib.Tactic.ENatToNat
 
 open NumberField Ideal
 

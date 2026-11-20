@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GoodConstOfAniso
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SumFrameIdem
+import Development.AbelianVarietyTheory.Definitions.Divisors.LocallyCompactUnipFlag
 
 noncomputable section
 

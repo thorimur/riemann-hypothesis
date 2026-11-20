@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StFlagMinorsBaseChange
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PCauchyBinet
 set_option maxSynthPendingDepth 1

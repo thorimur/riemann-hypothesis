@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ScaledExample
+import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsGrassHeight
+import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLineDegreeDual
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

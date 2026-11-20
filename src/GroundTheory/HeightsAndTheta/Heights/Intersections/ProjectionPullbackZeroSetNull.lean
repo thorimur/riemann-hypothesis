@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.HasStrictFDerivAtEquiv
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsBlockGenFinite
+import GroundTheory.HeightsAndTheta.Heights.Intersections.PullWMemFibre
 set_option maxSynthPendingDepth 1
 
 noncomputable section

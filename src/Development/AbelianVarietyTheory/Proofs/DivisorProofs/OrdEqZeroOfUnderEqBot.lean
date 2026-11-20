@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.CoeNonzeroLocusCanonicalEqComplRange
+import Mathlib.AlgebraicGeometry.OrderOfVanishing
 
 set_option autoImplicit false
 

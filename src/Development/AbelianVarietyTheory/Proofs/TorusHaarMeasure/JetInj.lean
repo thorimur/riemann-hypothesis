@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.UpperBounds.CountAt
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.LocalUnfoldBStatementHolds
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.CuspidalExponentialDecay
-import Development.AbelianVarietyTheory.Definitions.ThetaValues.Generic
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.LintegralNormLtTop
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.Imports
 

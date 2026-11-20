@@ -1,5 +1,6 @@
-import Formalism.WachLatticeTwists.SplitClassesAll.WachTwistSplitTheoremRankForm
 import Formalism.WachLatticeTwists.RamifiedBlockRings.ChainFromPrimitiveData
+import Formalism.WachLatticeTwists.CharacterSplitJumps.WachTwistSplitTheoremFromTorsionBound
+import Formalism.WachLatticeTwists.SplitClassesAll.Statement
 
 open Finset Classical
 

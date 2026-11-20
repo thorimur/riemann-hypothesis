@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.MackeyDefs
 set_option maxSynthPendingDepth 1
 

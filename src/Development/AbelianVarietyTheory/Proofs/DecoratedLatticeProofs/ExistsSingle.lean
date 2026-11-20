@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.DefGroup
 
 noncomputable section

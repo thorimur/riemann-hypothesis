@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.SubgroupCharExtensionOneApply
 import Formalism.LocalToGlobal.IndefiniteReal.ScalarOnPartsFull
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.LevelCuspCharacters

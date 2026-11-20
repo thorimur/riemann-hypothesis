@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpOverFstComp
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentPhiSqZeroNaturality
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentPhiNaturalityModule

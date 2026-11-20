@@ -1,4 +1,9 @@
-import Formalism.LocalToGlobal.CharacterGerms.SelfConjugateRowData
+import Formalism.LocalToGlobal.CharacterGerms.Interface
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.LittleWedderburn
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 set_option autoImplicit false
 

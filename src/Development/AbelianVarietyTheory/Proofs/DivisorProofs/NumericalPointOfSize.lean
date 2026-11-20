@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ESmall
 import Development.AbelianVarietyTheory.Definitions.Foundations.ThetaExponentIdentities
 

@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.PrimitiveGermFrames
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.UniformisationConclusion
+import Formalism.LocalToGlobal.ProjectiveLattices.IsThRule
 
 set_option autoImplicit false
 

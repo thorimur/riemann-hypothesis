@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormMulApplyLeOne
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FullToGlIsSelfAdjoint
+import Mathlib.Tactic.ENatToNat
 open GlobalTheory.JR Matrix MeasureTheory Filter Topology
 
 noncomputable section

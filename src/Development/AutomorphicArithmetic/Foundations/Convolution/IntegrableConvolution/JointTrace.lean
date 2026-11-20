@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.TrDefs
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.CutIrr
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.AlgTrace
+import Mathlib.Analysis.InnerProductSpace.Trace
 
 noncomputable section
 

@@ -1,10 +1,6 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.NormsFree
 import Formalism.LocalToGlobal.ProjectiveLattices.RegQFree
-import Formalism.LocalToGlobal.ProjectiveLattices.IntAllFree
 import Formalism.LocalToGlobal.ProjectiveLattices.UniqFree
-import Formalism.LocalToGlobal.ProjectiveLattices.L2DefiniteCuspForms
 import Formalism.LocalToGlobal.ProjectiveLattices.RegularityR2Quotient
-import Formalism.LocalToGlobal.ProjectiveLattices.IntAll
 import Formalism.LocalToGlobal.ProjectiveLattices.DatIndep
 import Formalism.LocalToGlobal.ProjectiveLattices.IntAllProofFree
 import Formalism.LocalToGlobal.ProjectiveLattices.IntAllProof

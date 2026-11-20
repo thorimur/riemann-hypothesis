@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowSubSuccLe
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ExistsChow
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ChowGraph
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ChowLocal
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ChowSegre
+import Mathlib.AlgebraicGeometry.QuasiAffine
 
 set_option autoImplicit false
 set_option maxSynthPendingDepth 1

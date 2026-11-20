@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.CompositeFormulaOfDensities
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CoordinateSplitAssocMeasurePreserving
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HerClassesOfPartsC
 

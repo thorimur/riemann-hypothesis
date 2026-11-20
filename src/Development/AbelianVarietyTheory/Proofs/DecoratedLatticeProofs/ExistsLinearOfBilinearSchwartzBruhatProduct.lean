@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ProdFnMemSB
 open GlobalTheory.SplitWeil GlobalTheory.LocFlat.CFac
 open scoped TensorProduct

@@ -1,7 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.LocalAtPlace
-import GroundTheory.GlobalFields.Adele.Approximation
 import GroundTheory.GlobalFields.Adele.Discrete
+import Mathlib.Topology.Algebra.ProperAction.Basic
 
 namespace GroundTheory.Global
 

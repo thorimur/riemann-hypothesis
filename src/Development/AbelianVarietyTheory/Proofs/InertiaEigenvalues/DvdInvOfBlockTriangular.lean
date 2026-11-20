@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UdlApply
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IwahoriFactorisation
 

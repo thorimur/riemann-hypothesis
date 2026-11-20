@@ -1,8 +1,4 @@
 import ReciprocityTheory.GroupCohomology.TransgressionStatement
-import ReciprocityTheory.GroupCohomology.DEqZeroOfMemB
-import ReciprocityTheory.GroupCohomology.LowHolds
-import ReciprocityTheory.GroupCohomology.Section
-import ReciprocityTheory.GroupCohomology.InfRes
 import ReciprocityTheory.GroupCohomology.TransgressionB
 
 namespace ReciprocityTheory.Coh

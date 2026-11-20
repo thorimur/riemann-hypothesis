@@ -1,4 +1,3 @@
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.StalkLoc
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.IsOpenAlt
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ExistsMulMemOfAlgebraMapLocRingEqZero
 

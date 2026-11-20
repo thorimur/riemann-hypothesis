@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.GelfandTransference.EnergyIdentity
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.LinearAlgebra.Matrix.PosDef
 
 namespace Formalism.SA.D
 

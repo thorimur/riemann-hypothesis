@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RowsPos
-import Formalism.UnipotentAdelicQuotients.SiegelWeilUnitaryConvergent
 import CompanionTheory.AutomorphicTheory.UniformLocalFormulas.Closed
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.StepChoiceConstantsCOfSiegelWeilAtInfinity
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.RowPositivityOfSiegelWeilConstants

@@ -1,7 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.BetaAtSymm
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.GeneratorValues
 import Development.AbelianVarietyTheory.Counterexamples.LevelGroupExamples.BetaAtClosedPoint
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.RingTheory.PicardGroup
 
 set_option autoImplicit false
 

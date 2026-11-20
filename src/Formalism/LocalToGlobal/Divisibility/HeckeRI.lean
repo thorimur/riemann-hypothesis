@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.LiftLat
 import Formalism.LocalToGlobal.Divisibility.InertRationalAdjoint
 

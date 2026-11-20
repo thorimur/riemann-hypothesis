@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.GL3MeanSquares.SignsFromTrianglesSquares
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Finset
 

@@ -1,13 +1,14 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialPullbackStatement
 import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffFubiniStudyRatioCompChart0
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ExistsAtlas
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ProjectiveLineHomogeneousLift
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.IfaceInh
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeC
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeCB
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSt
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.Objects
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.MvPolynomial.Ideal
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.Separation.Lemmas
 set_option maxSynthPendingDepth 1
 
 noncomputable section

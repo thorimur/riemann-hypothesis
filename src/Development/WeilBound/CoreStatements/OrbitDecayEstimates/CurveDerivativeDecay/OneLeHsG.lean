@@ -1,4 +1,6 @@
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.FrobeniusBoundOfMulNearOne
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.PiTensorProduct
 
 open MeasureTheory Matrix Topology Metric Formalism.REAL
 open scoped ENNReal

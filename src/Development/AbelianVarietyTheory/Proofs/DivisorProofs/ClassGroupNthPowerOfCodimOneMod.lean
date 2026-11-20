@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AlgebraMapQuotBijective
+import Mathlib.Tactic.ENatToNat
 open Polynomial
 
 namespace GlobalTheory.PicDiv

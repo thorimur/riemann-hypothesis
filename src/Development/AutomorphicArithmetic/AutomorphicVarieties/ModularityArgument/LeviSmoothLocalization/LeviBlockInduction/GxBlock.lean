@@ -1,4 +1,8 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.LeviSmoothLocalization.LeviBlockInduction.GxDefs
+import Development.AbelianVarietyTheory.Definitions.Divisors.LineOppositeParabolicUnitaryLeviSectionEq
+import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.GammaLaurentFactors.LaurentBlockInduction.LdDefs
+import GroundTheory.AutomorphicForms.GL2.GJFEBlock
+import GroundTheory.AutomorphicForms.GL2.GJLocalFEGamma
 
 noncomputable section
 

@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.TopNilDefs
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.TnIdem
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 open Filter UpperTheory.V.AlgebraTools
 open scoped TensorProduct

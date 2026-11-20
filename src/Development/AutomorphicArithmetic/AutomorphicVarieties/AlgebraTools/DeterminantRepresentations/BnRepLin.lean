@@ -1,6 +1,8 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.WeilGroupCharacters.RepAlg
 import Formalism.PadicSubsetSums.StableGradedCounts.ZBrauerNesbitt
 import Mathlib.RepresentationTheory.Semisimple
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 
 open Polynomial Matrix UpperTheory.V.W
 

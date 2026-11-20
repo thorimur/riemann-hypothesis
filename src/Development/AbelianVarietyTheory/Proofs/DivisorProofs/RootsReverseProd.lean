@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.CoeffZeroNeOfMonicIrr
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

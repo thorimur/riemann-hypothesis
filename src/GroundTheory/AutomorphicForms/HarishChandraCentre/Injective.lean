@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HarishChandraCentre.Projection
 import GroundTheory.AutomorphicForms.HarishChandraCentre.Fischer
 

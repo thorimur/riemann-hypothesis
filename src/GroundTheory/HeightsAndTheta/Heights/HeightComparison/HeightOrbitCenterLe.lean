@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitCenter
+import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightObjects
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

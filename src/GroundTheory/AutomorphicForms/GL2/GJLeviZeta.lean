@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJLeviZetaConv
 set_option maxSynthPendingDepth 1
 

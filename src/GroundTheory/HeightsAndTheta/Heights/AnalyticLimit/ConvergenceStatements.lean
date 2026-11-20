@@ -1,8 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Objects
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.ConvergenceRate
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.EnergySum
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Telescoping
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.AnalyticLimit

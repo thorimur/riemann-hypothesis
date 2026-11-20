@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CosetRefinement
+import Formalism.LocalToGlobal.Divisibility.Numbers
 
 noncomputable section
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.RealPlaceAnalysis.SmoothOnGVIff
 import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsContDiffExtensionOfIsClosed
 

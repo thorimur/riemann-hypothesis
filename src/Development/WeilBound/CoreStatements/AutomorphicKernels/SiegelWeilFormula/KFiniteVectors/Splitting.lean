@@ -1,5 +1,7 @@
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.KFiniteVectors.IsCompactK
-import GroundTheory.PAdicHodge.NormalizedTrace
+import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.KFiniteVectors.KFinOfMem
+import Development.WeilBound.ThetaLifts.LatticeBasics.BoxFinC
+import Development.WeilBound.ThetaLifts.LatticeBasics.FinLevel
 
 noncomputable section
 

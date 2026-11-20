@@ -1,7 +1,8 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.FiniteAlgebraLocalCompletion
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.DimensionQuotientBound
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.PrimeAvoidanceFibre
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Tactic.ENatToNat
 
 namespace GlobalTheory
 

@@ -1,8 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsChartHessCompare
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsHermFormCompare
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartDensityIntegrable
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ChartGramHess
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Tactic.Monotonicity.Lemmas
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,4 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.ConnectionKillsSeries
+import Mathlib.RingTheory.MvPowerSeries.Rename
+import Mathlib.Tactic.ENatToNat
 
 set_option autoImplicit false
 

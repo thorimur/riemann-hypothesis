@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.FWTie
 import Formalism.LocalToGlobal.ProjectiveLattices.KsHecke
 

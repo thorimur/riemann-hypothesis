@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.ThDistC
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.IndexExponentDegree
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.EmbHInjective
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OrdDetConjFinite
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.SplitOfConjPNe
 

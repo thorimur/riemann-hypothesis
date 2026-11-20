@@ -1,10 +1,10 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SupMeas
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SemidirectQuotientMeasureConjugationInvariantStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConjugationMeasurePreservingSemidirectStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SemidirectMeasureRestrictionNormalPartStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CountableTransversalMeasureExtensionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalizingElementFundamentalDomainScalingStatement
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Dynamics.Ergodic.Action.Regular
 
 open MeasureTheory Pointwise
 

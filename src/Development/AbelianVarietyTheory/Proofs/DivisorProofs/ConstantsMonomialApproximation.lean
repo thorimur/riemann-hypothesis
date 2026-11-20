@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StabilizerEquivLocPart
 open scoped Classical
 

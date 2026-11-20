@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsCopy
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.JoinEquivEqAtReference
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ReferenceCharactersFactorTame
+import Formalism.LocalToGlobal.Columns.Adelic
 
 noncomputable section
 

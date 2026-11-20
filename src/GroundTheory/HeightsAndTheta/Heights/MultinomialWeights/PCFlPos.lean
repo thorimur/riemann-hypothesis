@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.Statements
 import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.PFlagVandermondeHomogeneous
+import Mathlib.Algebra.MvPolynomial.Coeff
 set_option maxSynthPendingDepth 1
 
 noncomputable section

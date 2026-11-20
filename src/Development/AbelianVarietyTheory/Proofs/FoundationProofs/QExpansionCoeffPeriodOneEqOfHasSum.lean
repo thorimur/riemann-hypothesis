@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.PetEqRelIndexMulPetProd
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Tactic.ENatToNat
 
 open UpperHalfPlane ModularForm CongruenceSubgroup MeasureTheory Filter Topology
 open scoped MatrixGroups ModularForm Manifold

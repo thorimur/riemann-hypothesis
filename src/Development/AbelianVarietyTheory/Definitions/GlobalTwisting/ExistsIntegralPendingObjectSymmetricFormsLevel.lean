@@ -1,9 +1,6 @@
-import Mathlib
-import Formalism.LocalRingCardinality.Lemmas
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LClosedeqLemmas
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.ExistsBranchingCoordinatesIff
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsMemberFormsNonempty
+import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
 
 noncomputable section
 

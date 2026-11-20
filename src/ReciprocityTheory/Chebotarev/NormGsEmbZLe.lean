@@ -1,5 +1,9 @@
 import ReciprocityTheory.Chebotarev.Support
 import ReciprocityTheory.Chebotarev.DiscreteTopologyLatOf
+import Mathlib.Algebra.Module.ZLattice.Summable
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.NumberTheory.DirichletCharacter.Bounds
+import ReciprocityTheory.Chebotarev.UnitPart
 
 open NumberField NumberField.mixedEmbedding NumberField.Units
 

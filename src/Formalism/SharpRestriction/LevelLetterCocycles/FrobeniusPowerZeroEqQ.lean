@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.VanishOfXU
+import Formalism.SharpRestriction.LevelLetterCocycles.CoeffAlgMul
+import Formalism.SharpRestriction.LevelLetterCocycles.LevelOneUniformizerCoeffVanish
 
 noncomputable section
 

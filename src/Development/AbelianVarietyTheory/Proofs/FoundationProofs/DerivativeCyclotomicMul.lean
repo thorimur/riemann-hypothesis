@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.NotCoboundaryConstantOne
+import Mathlib.Algebra.DualNumber
+import Mathlib.RingTheory.PiTensorProduct
+import Std.Tactic.BVDecide.Normalize.Prop
 open GlobalTheory.K5 Polynomial TrivSqZeroExt
 
 noncomputable section

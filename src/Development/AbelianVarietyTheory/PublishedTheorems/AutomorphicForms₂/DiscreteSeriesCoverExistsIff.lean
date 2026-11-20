@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.BesselHermitianTheta.DefsReal
 
 open Formalism.BasicNotions Formalism.BasicNotions.TH Formalism.L2.Theta

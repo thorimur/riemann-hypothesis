@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsSumOfSelf
+import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.RestrictsSelf
 
 noncomputable section
 

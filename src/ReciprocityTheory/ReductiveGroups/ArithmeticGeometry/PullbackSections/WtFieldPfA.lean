@@ -1,5 +1,4 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.BcField
-import Formalism.LocalToGlobal.ProjectiveLattices.FrameProofs
 
 noncomputable section
 

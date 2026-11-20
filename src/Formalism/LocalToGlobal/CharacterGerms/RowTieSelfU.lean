@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTieCharS
-import Formalism.LocalToGlobal.CharacterGerms.SelfConjugateRowData
 
 set_option autoImplicit false
 

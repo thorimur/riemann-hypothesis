@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.SecondCountableTopologyOfIsProjOver
+import Mathlib.Geometry.Manifold.PartitionOfUnity
 
 set_option autoImplicit false
 

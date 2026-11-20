@@ -1,4 +1,4 @@
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.KatzMessingTheorem.QFrobEqSchMap
+import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.ResCoeff
 
 set_option backward.isDefEq.respectTransparency false
 

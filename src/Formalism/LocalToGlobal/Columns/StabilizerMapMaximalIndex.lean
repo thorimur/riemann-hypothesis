@@ -1,6 +1,7 @@
 import Formalism.LocalToGlobal.Columns.LevelZeroComparisonBijective
 import Formalism.LocalToGlobal.Columns.WithTopLevGTop
 import Formalism.LocalToGlobal.Columns.StabMapRLInjective
+import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.PenultimateKernelDiamondInvariant
 
 open NumberField IsDedekindDomain Module
 

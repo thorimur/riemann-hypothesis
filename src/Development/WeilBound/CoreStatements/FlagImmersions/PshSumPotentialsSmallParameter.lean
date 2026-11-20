@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.FlagImmersions.IsPotentialSumPot
 
 noncomputable section

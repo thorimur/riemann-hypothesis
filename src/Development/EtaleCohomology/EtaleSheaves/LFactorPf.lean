@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.HensIdemCut
+import Mathlib.RingTheory.Polynomial.UniversalFactorizationRing
 
 noncomputable section
 open Polynomial

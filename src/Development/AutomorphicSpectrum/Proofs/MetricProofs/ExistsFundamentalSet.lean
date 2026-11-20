@@ -1,10 +1,10 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.GroupDict
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsSheetCover
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsProved
-import GroundTheory.HeightsAndTheta.Heights.CountingLowerBound.Assembly
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustStatementPfA
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PMahlerCompactness
+import Mathlib.Analysis.Real.Pi.Bounds
+import Mathlib.Data.Matrix.ColumnRowPartitioned
+import Mathlib.MeasureTheory.Constructions.Polish.EmbeddingReal
+import Mathlib.MeasureTheory.Function.SpecialFunctions.Arctan
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleRestriction.Components
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleRestriction.IsDiscreteRepResGlobalDecompLimitRep
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.Splitting

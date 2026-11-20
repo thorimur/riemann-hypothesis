@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank.RankHomology
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.Functoriality
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.Shapiro
 
 open CategoryTheory UpperTheory.V.Af.CohB in
 theorem UpperTheory.shapiro_functorial_of_coinduction_bijective :

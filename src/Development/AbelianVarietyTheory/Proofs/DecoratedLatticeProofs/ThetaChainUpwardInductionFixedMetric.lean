@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ParBoundW
 
 noncomputable section

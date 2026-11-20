@@ -1,5 +1,5 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.DzKFour
+import Development.AbelianVarietyTheory.Proofs.CharacterTheory.InvertibleEndInnerProductRootPowerSumMobiusStatement
 
 open Polynomial GlobalTheory.CuspGL
 

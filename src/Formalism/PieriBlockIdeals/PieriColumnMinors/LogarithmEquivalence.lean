@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.PieriBlockIdeals.ContentDistanceBounds
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

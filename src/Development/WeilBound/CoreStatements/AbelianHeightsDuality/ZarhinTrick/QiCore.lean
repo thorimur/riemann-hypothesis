@@ -1,10 +1,9 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.AbelianHeightsDuality.ZarhinTrick.QiCoreDefs
-import Development.WeilBound.CoreStatements.AbelianHeightsDuality.ZarhinTrick.CompLmulMapId
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.ZarhinTrick.QiIdem
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.ZarhinTrick.QiStab
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.ZarhinTrick.QiCharP
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.ZarhinTrick.QiCartier
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 set_option autoImplicit false
 

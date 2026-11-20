@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RingSpecNormalisedCharacterEq
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.GoodIdempotentFixesMemGoodTypeSpace
-import Formalism.SharpRestriction.LevelLetterCocycles.IntegralHeckeForms
 
 noncomputable section
 

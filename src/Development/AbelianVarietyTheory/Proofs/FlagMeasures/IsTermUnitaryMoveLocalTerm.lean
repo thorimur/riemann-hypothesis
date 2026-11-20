@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsTermLocalTermMoveOfIsometry
 
 open Formalism.MainNotions.S.Loc Formalism.MainNotions.S.LocNG

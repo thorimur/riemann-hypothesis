@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Definitions.Foundations.OrderedConst
+import Development.AbelianVarietyTheory.Definitions.Foundations.SmoothPartStable
 open GlobalTheory.PRep GlobalTheory.SmGL GlobalTheory.SplitWeil ValuativeRel GlobalTheory.PsType
 
 namespace GlobalTheory.PsType

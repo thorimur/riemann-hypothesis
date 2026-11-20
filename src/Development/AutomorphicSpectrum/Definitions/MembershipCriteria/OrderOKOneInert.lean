@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MembershipCriteria.GoodChar
-import Development.AbelianVarietyTheory.Definitions.Foundations.MatrixMeasurableSpace
+import Mathlib.Algebra.QuadraticAlgebra.Basic
 
 noncomputable section
 

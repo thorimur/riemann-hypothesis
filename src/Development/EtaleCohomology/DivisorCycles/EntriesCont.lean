@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.DivisorCycles.CycleCount
+import Mathlib.Topology.Algebra.MvPolynomial
 
 open Matrix PositivityTheory.AutomorphicGaloisHodgeTate.Div
 namespace LateralTheory.DivDb.DegAll₂

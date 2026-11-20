@@ -1,5 +1,9 @@
 import Formalism.HermitianCurvature.BlockKernelPropertiesOfSteps
 import Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.LowUniMulVecELast
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.Fourier.FiniteAbelian.Orthogonality
+import Mathlib.RingTheory.SimpleRing.Principal
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

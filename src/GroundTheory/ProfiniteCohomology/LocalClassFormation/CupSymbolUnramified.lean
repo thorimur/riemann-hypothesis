@@ -1,8 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolDefs
 import GroundTheory.ProfiniteCohomology.CyclicCupBrauer
-import GroundTheory.ProfiniteCohomology.CyclicCup
-import GroundTheory.LocalFields.AbstractLocalReciprocity.ExistsEqNsmulOfProjEqZero
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

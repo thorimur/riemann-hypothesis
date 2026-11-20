@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.MinpolyIrreducibleNatDegreeOfRankOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToVInjective
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinsumDoubleCosetEqFinsumOrbit
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FixLineConjIff

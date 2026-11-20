@@ -1,7 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.FiniteTypeHarishChandra.SupportExistsAll
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IrreducibleCharacterSeries.FrobeniusSumFormula
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.JacquetModuleAll
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 open CategoryTheory Formalism.IrreducibleCountingLemmas.TYPES
 

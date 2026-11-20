@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.SingleMemDualLatticeStandard
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualPtsOnPlane
+import Mathlib.RingTheory.Henselian
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

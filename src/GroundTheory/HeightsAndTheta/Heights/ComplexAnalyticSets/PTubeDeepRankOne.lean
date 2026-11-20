@@ -1,10 +1,10 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.LintegralImageEqLintegralNormSqDetMul
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PartsAlg
 import ReciprocityTheory.AnalyticForms.PotentialTheory.HessCIsHermitian
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PMaDensLeibniz
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StTubeDeepRankOne
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.Analytic.Polynomial
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

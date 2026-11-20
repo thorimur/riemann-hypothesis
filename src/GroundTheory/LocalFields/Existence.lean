@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.ExistenceDictionary
 import GroundTheory.LocalFields.LubinTateReciprocity
 import GroundTheory.LocalFields.LubinTateLimit

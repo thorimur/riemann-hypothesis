@@ -1,7 +1,5 @@
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ValPosIffMemExample
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PublishedInputsThirdLayer
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaLocalInputs
 
 set_option synthInstance.maxHeartbeats 200000
 

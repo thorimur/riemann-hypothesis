@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.GoodXgFin
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.PiTensorProduct
 open Formalism.L2.DIV
 
 open Module

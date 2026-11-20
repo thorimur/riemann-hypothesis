@@ -1,9 +1,5 @@
 import CompanionTheory.AutomorphicTheory.SchurLimitBounds.ZuckermanDuality.Assemble
-import CompanionTheory.AutomorphicTheory.SchurLimitBounds.ZuckermanDuality.BetaAtInfinityZero
-import CompanionTheory.AutomorphicTheory.SchurLimitBounds.ZuckermanDuality.GeneratingFunctionPolynomial
-import CompanionTheory.AutomorphicTheory.KFiniteVectors.KDecay
-import CompanionTheory.AutomorphicTheory.ZuckermanCommutation.CapelliEigenvalues.CoefEigOfInfChar
-import CompanionTheory.AutomorphicTheory.ZuckermanCommutation.CapelliEigenvalues.CoefCC
+import CompanionTheory.AutomorphicTheory.SchurLimitBounds.ZuckermanDuality.Letter
 
 noncomputable section
 

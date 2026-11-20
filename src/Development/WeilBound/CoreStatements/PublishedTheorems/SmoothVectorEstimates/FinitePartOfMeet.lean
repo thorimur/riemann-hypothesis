@@ -1,4 +1,3 @@
-import Development.WeilBound.CoreStatements.PublishedTheorems.SmoothVectorEstimates.WhittakerVanishingImpliesZero
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MemOfToL2MemIrreducible
 
 namespace PositivityTheory.jumpWindows

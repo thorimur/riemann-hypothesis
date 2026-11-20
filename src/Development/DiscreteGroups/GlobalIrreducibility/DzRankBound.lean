@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.IsTypeGroupBlockLift
 import Development.DiscreteGroups.GlobalIrreducibility.DzBigDef
 
 namespace DiscreteGroups.sglob.DzType

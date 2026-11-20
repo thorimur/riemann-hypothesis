@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HermitianFormPeriodLowerBound
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RiemannRelationsPeriodMatrixHermitian
 open ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open scoped Matrix
 set_option maxHeartbeats 1000000 in

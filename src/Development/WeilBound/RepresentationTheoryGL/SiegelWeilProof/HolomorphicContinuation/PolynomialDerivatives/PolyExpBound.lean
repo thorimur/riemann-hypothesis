@@ -1,5 +1,7 @@
 import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.PolynomialDerivatives.HasFDerivAtEvX
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SquareNormBound
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

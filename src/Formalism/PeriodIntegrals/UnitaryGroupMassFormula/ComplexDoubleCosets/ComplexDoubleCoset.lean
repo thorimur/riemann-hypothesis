@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ComplexDoubleCosets.CplxDC
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FoldDCUnfold
 

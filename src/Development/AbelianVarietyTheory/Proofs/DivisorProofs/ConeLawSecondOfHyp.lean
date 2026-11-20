@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocPart
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBLocalPartStabilizerStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBLocalPartIntegralStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBLocalPartIdentityStatement
 

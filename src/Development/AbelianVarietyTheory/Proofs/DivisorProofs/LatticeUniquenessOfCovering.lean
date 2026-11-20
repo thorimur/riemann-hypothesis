@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTransport
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsChartOfMaximal
+import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 400000

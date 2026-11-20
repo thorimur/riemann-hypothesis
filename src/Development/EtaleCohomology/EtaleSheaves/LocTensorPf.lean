@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.SHTensorPf
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC

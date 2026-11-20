@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArchUnipotentRadicalMem
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemNilRad
 open NumberField Matrix Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes GlobalTheory.AdelicU GlobalTheory.SiegelSet GlobalTheory.TorFin
 open GlobalTheory.Orb (archMat)
 open scoped TensorProduct

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIndependentBasisCoprimeStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankEqRankMulDegreeStatement
 open NumberField

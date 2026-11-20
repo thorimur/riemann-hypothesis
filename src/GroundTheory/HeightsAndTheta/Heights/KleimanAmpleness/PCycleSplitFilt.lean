@@ -1,8 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsCycleSplitFilt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CycleSplitFiltStepSt
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PPrimeFiltrationExists
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.QuotGraded
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCycleSplit
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSectionCountDropFilt
 set_option maxSynthPendingDepth 1

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.IsLocalizedModuleSubtype
 import Development.AbelianVarietyTheory.Definitions.ThetaValues.FlatMemLatIffStdLat
 

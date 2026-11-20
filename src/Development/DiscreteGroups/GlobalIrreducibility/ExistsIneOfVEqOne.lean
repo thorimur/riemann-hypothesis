@@ -1,8 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.LocalLanglandsGL
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsFixedIff
 import GroundTheory.LocalFields.PrincipalUnitsModule
-import GroundTheory.LocalFields.PadicLogHom
 import GroundTheory.LocalFields.LocalFourierHaar
 import Development.DiscreteGroups.GlobalIrreducibility.ExistsOfMemKOne
 

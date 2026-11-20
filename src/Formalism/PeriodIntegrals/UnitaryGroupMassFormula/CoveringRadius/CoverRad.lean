@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.TransferenceCoverRad
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.TransferenceCover
 

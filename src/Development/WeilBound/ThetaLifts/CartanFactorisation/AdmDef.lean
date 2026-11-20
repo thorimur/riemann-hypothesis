@@ -1,4 +1,4 @@
-import Development.WeilBound.ThetaLifts.CartanFactorisation.CartanConj
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilTensorModels
 
 noncomputable section
 

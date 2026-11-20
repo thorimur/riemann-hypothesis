@@ -1,5 +1,3 @@
-import ReciprocityTheory.GroupCohomology.CupConnRightStatement
-import ReciprocityTheory.GroupCohomology.DEqZeroOfMemB
 import ReciprocityTheory.GroupCohomology.InfRes
 import ReciprocityTheory.GroupCohomology.TransgressionA
 

@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SchurEqJtDet
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchurMulDetEqDet
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.JacobiTrudiAlternantExpansionStatement
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SchurPolynomialPadZerosEqJacobiTrudiDeterminantStatement
+import Mathlib.Algebra.AffineMonoid.UniqueSums
 
 noncomputable section
 

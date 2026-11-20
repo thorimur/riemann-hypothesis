@@ -1,8 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.ThEquiv
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ThetaLocalEquivalence.AtZeroCompProdX
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.KerEquivGen
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ColInst
 
 open NumberField IsDedekindDomain MvPolynomial
 

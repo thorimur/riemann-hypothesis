@@ -1,4 +1,6 @@
-import Formalism.GL3MeanSquares.QuadraticFormLowerBound
+import Formalism.LogVandermondeBounds.LogRatioUpperBound
+import Mathlib.Analysis.Matrix.Spectrum
+import Mathlib.LinearAlgebra.Matrix.PosDef
 
 namespace Formalism.HermitianLattices.FormalDegreeBoundsAlt
 

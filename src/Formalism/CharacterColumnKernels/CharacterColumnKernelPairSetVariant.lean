@@ -1,4 +1,6 @@
 import Formalism.CharacterColumnKernels.StatementN
+import Mathlib.RepresentationTheory.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Finset Classical
 

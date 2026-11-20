@@ -1,8 +1,8 @@
-import Formalism.SharpRestriction.InertJacobiLevels.ExtraF
 import Formalism.SharpRestriction.InertJacobiLevels.AsmExtra
-import Formalism.SharpRestriction.InertJacobiLevels.ExtraH
 import Formalism.SharpRestriction.InertJacobiLevels.ExistsLatInst
-import Formalism.LocalRingCardinality.MinkMEqMinkowskiNumber
+import Formalism.LocalRingCardinality.SpanPowerMembership.TiesGen
+import Formalism.SharpRestriction.InertJacobiLevels.AsmTie
+import Formalism.SharpRestriction.InertJacobiLevels.ExtraRec
 
 noncomputable section
 

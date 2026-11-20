@@ -1,11 +1,6 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalRingCardinality.DataTheta
 import Formalism.SharpRestriction.ParConsts
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Decomp
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.DiscriminantRealSubfield
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.DiscrB
 import Lemmata.GeneralBFactRightVariant.Imports
+import Mathlib.NumberTheory.NumberField.Cyclotomic.Galois
 
 noncomputable section
 

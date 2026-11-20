@@ -1,8 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DerivationExtendMvPolynomialStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsRegularFibreOfJacobianDerivationsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsGenericJacobianDataIteratedStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MvPolynomialTensorBaseChangeRingEquivStatement
+import Mathlib.RingTheory.RegularLocalRing.Polynomial
 open IsLocalRing TensorProduct
 
 namespace GlobalTheory

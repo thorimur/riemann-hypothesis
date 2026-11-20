@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.GaloisLevelStructure.DefsAutLoc
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.BaseChangeDefiniteUnitary
+import Formalism.LocalToGlobal.GaloisLevelStructure.DefsAut
 
 noncomputable section
 

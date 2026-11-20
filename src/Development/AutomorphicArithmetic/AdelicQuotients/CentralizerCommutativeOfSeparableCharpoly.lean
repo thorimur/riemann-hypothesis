@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.LocalGroupAnalysis.SplitEquiv
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.OrbitalIntegrals.TwistedOrbitalIntegrals.CentComm
+import Std.Tactic.BVDecide.Normalize.Prop
 open UpperTheory.ConvolutionTheory.G UpperTheory.ConvolutionTheory.T4
 
 private theorem coord_comm {F R : Type} [Field F] [CommRing R] [Algebra F R] {n : ℕ}

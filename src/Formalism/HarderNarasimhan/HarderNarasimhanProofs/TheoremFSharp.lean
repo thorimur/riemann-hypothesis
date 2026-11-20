@@ -1,6 +1,8 @@
-import Formalism.HarderNarasimhan.StatementFrameF
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.FrameHermSharpB
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.FrameLinearAlgebraFirst
+import Formalism.CorankShare.CorankShareProofs.LayerCakeFormula
+import Formalism.HarderNarasimhan.HarderNarasimhanProofs.HNExtreme
+import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SlopeIneqMean
 
 open Module NumberField Finset Formalism.CorankShareLayerCake.FR
 

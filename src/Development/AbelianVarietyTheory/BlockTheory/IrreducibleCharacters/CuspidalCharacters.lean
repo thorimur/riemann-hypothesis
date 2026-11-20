@@ -1,5 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CharacterTheory.ImportsAlt
+import Mathlib.RepresentationTheory.Character
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace GlobalTheory.IndefiniteRowSideFullHecke.CuspidalCharacters
 

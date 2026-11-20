@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.ReductionComp
-import GroundTheory.GlobalFields.ComplexMultiplication.RespectsAddGeneric
-import GroundTheory.GlobalFields.ComplexMultiplication.DualDescent
 
 namespace GroundTheory.Global
 

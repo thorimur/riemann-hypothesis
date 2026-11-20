@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.SobolevGaussianKernels.StatementSB
-import Formalism.SobolevGaussianKernels.StatementLF
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.SL.P
 

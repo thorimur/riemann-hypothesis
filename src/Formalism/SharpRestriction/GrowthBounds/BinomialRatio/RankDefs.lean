@@ -1,5 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FamilyFourthBound
-import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.ThresholdLowerBounds
+import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.Transported
 
 noncomputable section
 

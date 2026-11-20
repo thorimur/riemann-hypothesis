@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.ClassFormationDefs
 import GroundTheory.ProfiniteCohomology.ClassFormations.IsIsoCohomologyMapAlongResSubgroupOfHom
 import GroundTheory.ProfiniteCohomology.ClassFormations.Quotient
 import GroundTheory.ProfiniteCohomology.ClassFormations.Finite

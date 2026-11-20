@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.LocalFields.AbstractLocalReciprocity.IsoCyclic
 import GroundTheory.LocalFields.AbstractLocalReciprocity.FunctorialityTransfer
+import Mathlib.GroupTheory.IndexNormal
 
 namespace GroundTheory.LocalField.Abstract
 

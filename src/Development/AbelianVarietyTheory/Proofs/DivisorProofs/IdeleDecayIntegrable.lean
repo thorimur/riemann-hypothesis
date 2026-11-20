@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DecayNonneg
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbsInfEqOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IdeleDecayMeasurableStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IdeleStabilizerIsOpenStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IdeleStabilizerAbsFiniteEqOneStatement

@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GlobalSchurBounds.KernelEntryData
+import Formalism.SharpRestriction.GrowthBounds.FormalGroupSystem
 
 noncomputable section
 

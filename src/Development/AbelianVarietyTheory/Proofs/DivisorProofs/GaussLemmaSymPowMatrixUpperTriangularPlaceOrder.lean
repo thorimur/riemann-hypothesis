@@ -1,6 +1,6 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsAdmissibleIntegralBasisChangeOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistAtOfNe
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NrmCoeffProdLinearStatement
+import Mathlib.Topology.Compactification.OnePoint.ProjectiveLine
 
 open scoped IntermediateField Polynomial RatFunc
 open GlobalTheory.Nef Polynomial

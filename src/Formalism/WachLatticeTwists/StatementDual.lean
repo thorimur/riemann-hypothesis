@@ -1,4 +1,5 @@
 import Formalism.CharacterColumnKernels.Statement
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

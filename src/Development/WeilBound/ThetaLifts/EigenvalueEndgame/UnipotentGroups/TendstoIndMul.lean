@@ -2,7 +2,6 @@ import Development.WeilBound.ThetaLifts.EigenvalueEndgame.UnipotentGroups.Contin
 import Development.WeilBound.ThetaLifts.FrameEstimates.TowerRallisLemma
 import Development.WeilBound.ThetaLifts.SmallCones.ThetaUniq
 import Development.WeilBound.ThetaLifts.ConeHypotheses.PureEqPureA
-import Development.WeilBound.ThetaLifts.CartanFactorisation.CartanConj
 import Development.WeilBound.CoreStatements.LocalThetaKernels.Locrep
 
 noncomputable section

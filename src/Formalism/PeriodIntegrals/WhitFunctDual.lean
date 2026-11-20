@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PadicSubsetSums.CentralIdempotents.EigenbasisOfDistinctRoots
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GGMirabolicBase
 

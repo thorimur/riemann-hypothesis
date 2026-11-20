@@ -1,8 +1,4 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.LemmaGsOfLemGAB
-import Formalism.SharpRestriction.LevelLetterCocycles.ExistsMemMapEqSmul
-import Formalism.SharpRestriction.LevelLetterCocycles.SumSubEqSumIocOfSub
-import Formalism.SharpRestriction.LevelLetterCocycles.LetterConditionGlobal
-import Formalism.SharpRestriction.LevelLetterCocycles.LevelClauseOfOpenTool
 
 noncomputable section
 

@@ -1,5 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ReducedFibresAlmostAllStatement
+import Mathlib.LinearAlgebra.Charpoly.BaseChange
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Polynomial
 

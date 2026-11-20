@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.HilbertNinetyQuotientHomEqIff
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Topology.Separation.Profinite
 
 open Topology Filter Set
 open scoped Classical

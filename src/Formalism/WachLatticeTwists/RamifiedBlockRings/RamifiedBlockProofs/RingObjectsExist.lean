@@ -2,8 +2,6 @@ import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.RingOb
 import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.IdemFactor
 import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.SplitPts
 import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.IdemKO
-import Formalism.WachLatticeTwists.RamifiedBlockRings.LocalToDisplayFree
-import Formalism.WachLatticeTwists.CoprimeLiftBounds.CoprimeLiftProofs.TheoremNFiveTopHolds
 
 namespace Formalism.RepresentationBoundsCohomology.ringDataObjects
 

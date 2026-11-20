@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.BernoulliNumbers.MapGenBChar
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.BernoulliNumbers.Charbij
+import Mathlib.NumberTheory.MulChar.Duality
+import Mathlib.Tactic.ENatToNat
 
 open Finset UpperTheory.V.Bern
 

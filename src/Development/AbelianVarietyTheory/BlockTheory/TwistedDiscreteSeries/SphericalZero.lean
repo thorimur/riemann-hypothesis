@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.LocalNewformFunction
 import Formalism.LocalToGlobal.BesselHermitianTheta.TiedSmooth
 import Development.AbelianVarietyTheory.Definitions.Foundations.T2SpaceAdeleRing

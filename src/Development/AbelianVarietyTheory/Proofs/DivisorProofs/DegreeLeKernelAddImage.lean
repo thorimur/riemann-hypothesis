@@ -1,12 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SecJets4
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.MatrixLemma
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.AbsoluteSiegel
-import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.PosSemidefOfForallCombination
-import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.InhabSt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFrameMapOfAppendStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexAppendLeMulStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogDetGramAppendLeStatement
+import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.HadStA
 
 open NumberField MeasureTheory ReciprocityTheory.GeometryOfNumbersTheory ReciprocityTheory.ChartRestriction.G.Geo.Tor GlobalTheory.LieHt
 open scoped ComplexOrder

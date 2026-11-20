@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.OrthogonalComplementCharacterisation
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumUniqueOnThetaFunctions
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsWeilDatumTwistHeckeCharacters
 

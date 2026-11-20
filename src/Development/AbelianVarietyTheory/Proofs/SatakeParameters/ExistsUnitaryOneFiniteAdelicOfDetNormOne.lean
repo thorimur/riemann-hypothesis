@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.AdLawAtOfSteps
-import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocBases
+import Formalism.LocalToGlobal.Divisibility.Tuples
+import Formalism.LocalToGlobal.HermitianColumns.InLocalDiscriminantKernel
+import Formalism.LocalToGlobal.HermitianForms.TiedStep
 
 noncomputable section
 namespace GlobalTheory.TwU

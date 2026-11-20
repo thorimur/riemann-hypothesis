@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.FinOrdAd
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.AdCpctDen
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CompactTensorDensity.TensCpctDenOf
 

@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.GroupLattices.FockModels.TransposeWords.FockPairingHighestWeight
-import Formalism.GradedWeylDivisibility.FinalD
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LEhwLemmas
+import Formalism.GradedWeylDivisibility.FockSpaceTableaux.DualWeylDominanceOf
 
 open MvPolynomial
 

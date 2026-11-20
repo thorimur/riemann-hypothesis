@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.EtaleSheaves.LeafGeomPfLoc
+import Development.EtaleCohomology.EtaleSheaves.LeafGeomPf
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.D2 LateralTheory.E.LeafGeomPf

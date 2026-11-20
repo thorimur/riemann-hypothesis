@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.PAdicHodge.BCrisTensorK
-import GroundTheory.PAdicHodge.BCrisNewtonFrac
-import GroundTheory.PAdicHodge.CyclotomicTower
 set_option maxSynthPendingDepth 1
 
 noncomputable section

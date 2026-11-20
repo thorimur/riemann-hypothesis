@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.ThetaValues.LetAct
 import Formalism.LocalToGlobal.Columns.PolyFnLemmas
 
 set_option autoImplicit false

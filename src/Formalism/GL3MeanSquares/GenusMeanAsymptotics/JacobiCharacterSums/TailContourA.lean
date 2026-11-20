@@ -1,6 +1,6 @@
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.PerronChi
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.RectShiftChi
-import Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.IntegralEqIntervalIntegralAddCompl
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Complex MeasureTheory
 

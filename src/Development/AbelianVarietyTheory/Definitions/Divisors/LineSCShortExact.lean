@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsTypeIsRealConst
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SwapSumSwap
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TotalEqOfNonneg
 
 set_option autoImplicit false
 

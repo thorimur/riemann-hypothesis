@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.HostFacts
-import Development.AutomorphicArithmetic.PrimeDiscriminants.SlopeTestRemainingChoices
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.VdLe
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.inertQ
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.InertD

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.RTTIndependence
+import Mathlib.Tactic.ReduceModChar
 
 namespace PI.QmLemDWork
 

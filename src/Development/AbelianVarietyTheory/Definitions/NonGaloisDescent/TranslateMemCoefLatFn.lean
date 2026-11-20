@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
-import Formalism.LocalToGlobal.Columns.CoefColLemmas
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsEquiv
 
 noncomputable section
 

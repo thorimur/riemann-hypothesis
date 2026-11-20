@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.EtaleChapterETwo
+import Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Scheme
+import Mathlib.AlgebraicGeometry.QuasiAffine
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC

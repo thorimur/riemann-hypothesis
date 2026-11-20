@@ -1,8 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.HeckeLEntireAndNonzeroAtOne
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCompactLatticeGL
 import ReciprocityTheory.NeutralLocalFields.LocalFieldComparison.ExistsPrimeAbsNormOfHasDirichletDensity
 import GroundTheory.AutomorphicForms.CompactAbelianCharacters
+import Mathlib.Topology.Algebra.ProperAction.Basic
 
 noncomputable section
 

@@ -1,4 +1,8 @@
-import Formalism.HermitianCurvature.FiniteOrderIntersectionInSmooth
+import Formalism.HermitianCurvature.StatementB
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Matrix Filter Topology
 

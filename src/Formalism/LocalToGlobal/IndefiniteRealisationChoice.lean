@@ -1,14 +1,8 @@
 import Formalism.LocalToGlobal.ClassOfRecordOfChoice
-import Formalism.LocalToGlobal.IndefiniteReal.TrISepWith
 import Formalism.LocalToGlobal.IndefiniteReal.RealTP
-import Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.NMjT
-import Formalism.LocalToGlobal.SelSide
 import Formalism.LocalToGlobal.SelSideN
-import Formalism.LocalToGlobal.KernelLattices.AdaptedEnt
-import Formalism.LocalToGlobal.KernelLattices.KerPins
 import Formalism.LocalToGlobal.KernelLattices.KerPinsU
 import Formalism.LocalToGlobal.KernelLattices.KerMtPin
-import Formalism.LocalToGlobal.KernelLattices.InterlaceAll
 import Formalism.LocalToGlobal.GroupLattices.JointServices.Cut
 import Formalism.LocalToGlobal.Divisibility.RecBridgeSel
 import Formalism.SharpRestriction.Divisibility.HookProducts.Compl3Record

@@ -1,10 +1,9 @@
-import Mathlib
-import Development.AutomorphicArithmetic.LocalEmbeddings.JetsGlue
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.ExistsRealFnNeZero
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsRealModelSq
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.CuspidalListedTopForms
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankConvergesColumn
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUniqueIsFunForm
+import Development.AutomorphicArithmetic.LocalEmbeddings.JetsChain
 
 noncomputable section
 

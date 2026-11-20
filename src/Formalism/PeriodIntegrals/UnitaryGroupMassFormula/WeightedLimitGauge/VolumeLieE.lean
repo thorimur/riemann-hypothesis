@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.RhsWLim
+import Mathlib.Topology.Separation.CompletelyRegular
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGraphAreaHolomorphic
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StAreaMultiplicity
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StatementsArea
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

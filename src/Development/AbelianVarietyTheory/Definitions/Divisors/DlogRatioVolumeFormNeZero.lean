@@ -1,6 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.CupPair
 import Development.AbelianVarietyTheory.Definitions.Divisors.OneFormMapEqKaehlerDifferentialMap
+import Mathlib.LinearAlgebra.ExteriorAlgebra.Basis
+import Mathlib.RingTheory.Etale.Field
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 set_option autoImplicit false
 

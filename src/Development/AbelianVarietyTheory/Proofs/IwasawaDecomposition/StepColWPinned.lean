@@ -1,9 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.TiedColumnData
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.NotConditionOfFalse
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.JetsInOfIsTw
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsHalfSelectionSplitPlacesBase
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsColumnInputAssembled
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsOkPins
 
 noncomputable section
 

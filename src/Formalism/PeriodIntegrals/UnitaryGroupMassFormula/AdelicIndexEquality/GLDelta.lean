@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.LocSplitChiOf
+import Mathlib.Data.Matrix.PEquiv
 
 noncomputable section
 

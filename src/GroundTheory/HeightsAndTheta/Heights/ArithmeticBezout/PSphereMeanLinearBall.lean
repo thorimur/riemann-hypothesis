@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsMahler
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.SphereMeanVol
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.NumberTheory.Harmonic.Int
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

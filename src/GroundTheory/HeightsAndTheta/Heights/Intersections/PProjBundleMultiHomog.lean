@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StProjBundleMultiHomog
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PProjBundleMultiHomogSpan
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.IsMultiHomogIdealIff

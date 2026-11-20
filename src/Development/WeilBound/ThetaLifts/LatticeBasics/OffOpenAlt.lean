@@ -1,5 +1,5 @@
-import Development.WeilBound.ThetaLifts.LatticeBasics.PairsStable
 import Development.WeilBound.ThetaLifts.EigenvalueEndgame.PlaneRemovalConfiguration
+import Development.WeilBound.ThetaLifts.LatticeBasics.Hypotheses2
 
 noncomputable section
 

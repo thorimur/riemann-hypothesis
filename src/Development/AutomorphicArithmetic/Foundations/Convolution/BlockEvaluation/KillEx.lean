@@ -1,9 +1,8 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.BlockEvaluation.TruncSpec
 import Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.KillLiftSingle
-import Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.LiftSingleAlt
 import Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.SubEqZeroIff
-import Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.Points
 import Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.PermOf
+import Mathlib.Tactic.Cases
 
 open MeasureTheory NumberField IsDedekindDomain MvPolynomial Filter Topology UpperTheory.ConvolutionTheory UpperTheory.ConvolutionTheory.C UpperTheory.ConvolutionTheory.Ci
 

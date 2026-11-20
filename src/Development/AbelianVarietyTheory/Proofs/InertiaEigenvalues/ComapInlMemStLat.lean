@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.UnitLemmaGroup
 import ReciprocityTheory.DualLattices.ExistsSmulMemOfMemSpan
 

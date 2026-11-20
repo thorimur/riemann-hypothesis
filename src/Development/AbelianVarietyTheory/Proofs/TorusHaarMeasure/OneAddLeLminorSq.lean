@@ -1,9 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.UpperBounds.FreeBallIffOfDimXEqZero
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.WeightFunctionOnFrames
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.CuspidalExponentialDecay
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.MajorantOrthogonality
-import ReciprocityTheory.SemistableReduction.SemiAll
 import ReciprocityTheory.SemistableReduction.ShareBall
 
 namespace GlobalTheory.Up.BallExPf

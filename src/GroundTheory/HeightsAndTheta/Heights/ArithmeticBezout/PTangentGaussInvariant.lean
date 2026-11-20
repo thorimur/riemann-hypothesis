@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsTangentGaussInvariant
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeIntegralMass
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.Complex
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

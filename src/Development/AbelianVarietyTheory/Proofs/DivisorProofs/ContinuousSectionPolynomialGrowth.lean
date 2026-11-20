@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.SerreHolomorphicSections
+import Development.AbelianVarietyTheory.Definitions.Divisors.NoCommonZeroCombVal
 
 set_option autoImplicit false
 

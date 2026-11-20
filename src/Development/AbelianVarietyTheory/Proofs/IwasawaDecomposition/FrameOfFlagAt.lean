@@ -1,10 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.FinrankEqZeroIff
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ChartExtensionHolds
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ChartFlagBaseHolds
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ChartFrameMoveHolds
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ChartCocycleHolds
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ChartTowerHolds
 
 noncomputable section
 

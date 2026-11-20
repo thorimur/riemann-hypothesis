@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LieCommutatorActionInvariant
-import Mathlib
-import Formalism.LocalRingCardinality.DataTheta
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.lie_commutator_action_invariant : ∀ {ι V : Type} [Fintype ι] [AddCommGroup V] [Module ℂ V] {R S : ℕ} (r₀ : Fin R) (s₀ : Fin S)
     (act : ι → Formalism.BasicNotions.TH.Mat R S →ₗ[ℂ] Module.End ℂ V),

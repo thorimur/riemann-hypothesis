@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.DegSplit
-import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.TopOddNeEnd
+import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FinalTheorems
 
 noncomputable section
 

@@ -1,6 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsAdelicLattices
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.IsIntegralVecCoordsOfMemAdelicLatticeOne
+import GroundTheory.AutomorphicForms.HermitianOrthogonal
+import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsAdelicSplit
+import Mathlib.GroupTheory.IndexNSmul
 
 set_option linter.unusedSectionVars false
 

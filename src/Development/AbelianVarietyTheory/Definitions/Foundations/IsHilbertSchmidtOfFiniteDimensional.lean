@@ -1,5 +1,16 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.SmoothPartStable
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.Complex.Circle
+import Mathlib.Analysis.InnerProductSpace.StarOrder
+import Mathlib.Analysis.InnerProductSpace.Trace
+import Mathlib.Analysis.InnerProductSpace.l2Space
+import Mathlib.MeasureTheory.Function.L2Space
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 open MeasureTheory ContinuousLinearMap
 open scoped InnerProductSpace Pointwise

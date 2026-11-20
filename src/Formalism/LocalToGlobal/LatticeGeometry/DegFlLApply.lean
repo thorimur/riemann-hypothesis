@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataDIV
-import Formalism.DegreeFormula.FlagDegFormula
 import Formalism.DegreeFormula.Statement
 import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 

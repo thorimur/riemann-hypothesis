@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.PublishedTheorems.CasselmanWallach.FunctionalCalculusLaws
+import Mathlib.Analysis.InnerProductSpace.Spectrum
 
 noncomputable section
 

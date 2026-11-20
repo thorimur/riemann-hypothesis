@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Statements.AlgebraStatements.RelationsStatement
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.UniformizerModelPermModuleLatticeStatement
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.DescentRelationsFromModelsStatement

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.FactTypePrime
 import Development.AbelianVarietyTheory.Definitions.Foundations.ClassMassEqSumOfBijective
 

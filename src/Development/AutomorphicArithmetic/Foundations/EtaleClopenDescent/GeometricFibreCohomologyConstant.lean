@@ -1,4 +1,3 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.H0TwistOverClosedField
 import Development.EtaleCohomology.KummerTheory.FinSHInv
 

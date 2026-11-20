@@ -1,9 +1,8 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.WhittakerLSpace
 import GroundTheory.AutomorphicForms.WhittakerOrbit
 import GroundTheory.AutomorphicForms.WhittakerGroups
 import GroundTheory.AutomorphicForms.WhittakerCells
 import GroundTheory.AutomorphicForms.WhittakerRelevance
+import Mathlib.Topology.Separation.Connected
 
 namespace GroundTheory.Automorphic
 

@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GroupLattices.LevelCharts.SignBlockDeterminant
+import Formalism.SatakeDualWeyl.StatementC
 
 noncomputable section
 

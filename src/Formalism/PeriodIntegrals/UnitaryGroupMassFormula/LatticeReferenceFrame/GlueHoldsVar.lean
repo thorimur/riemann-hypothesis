@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeReferenceFrame.HGNsmulRight
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeReferenceFrame.HypsNonvacuous
+import Mathlib.Data.Int.Star
 
 noncomputable section
 

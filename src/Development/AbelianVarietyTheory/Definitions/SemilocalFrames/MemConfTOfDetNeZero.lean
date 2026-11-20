@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.StandardLattice
-import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.Partners
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.FrameLats
 

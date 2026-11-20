@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ExistsOfLayers
+import Mathlib.RingTheory.PowerSeries.Exp
 
 noncomputable section
 

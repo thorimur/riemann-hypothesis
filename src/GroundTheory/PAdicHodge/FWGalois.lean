@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.PAdicHodge.FWNatural
 import GroundTheory.PAdicHodge.FWGlue
+import GroundTheory.PAdicHodge.TiltEquiv
 set_option maxSynthPendingDepth 1
 
 noncomputable section

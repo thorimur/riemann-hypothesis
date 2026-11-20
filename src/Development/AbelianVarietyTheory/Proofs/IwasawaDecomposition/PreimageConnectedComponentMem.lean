@@ -1,9 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AmpleOnAbelianBase
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsEquivComp
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsStalkFactor
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.ExistsSmulOfPreservesFrameOrbits
-import Formalism.LocalToGlobal.ProjectiveLattices.CompSplitPfD
 import Formalism.LocalToGlobal.ProjectiveLattices.CompSplitPfB
 
 noncomputable section

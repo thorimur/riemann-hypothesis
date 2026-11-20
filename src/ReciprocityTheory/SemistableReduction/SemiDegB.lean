@@ -1,4 +1,7 @@
 import ReciprocityTheory.SemistableReduction.SemiDegBB
+import Mathlib.Algebra.Order.Star.Real
+import ReciprocityTheory.SemistableReduction.SemiDegBA
+import ReciprocityTheory.SemistableReduction.SemiDegSt
 
 noncomputable section
 

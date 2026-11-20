@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementGK
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.KernelFromKOne
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.WModel

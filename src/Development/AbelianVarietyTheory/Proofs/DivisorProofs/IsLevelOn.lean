@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegRel
 import Development.AbelianVarietyTheory.Definitions.Divisors.Rosati
 
 noncomputable section

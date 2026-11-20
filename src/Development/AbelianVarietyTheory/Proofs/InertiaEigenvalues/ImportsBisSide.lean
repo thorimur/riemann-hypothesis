@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.AdmissibleThreePrime
-import Formalism.SharpRestriction.LevelLetterCocycles.SumRepresentations
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.RankOneUnitary
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.InjPrimeTo
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TameSumOfInputs
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PointParOfTwist
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistInvOfCharLawsMultOne

@@ -1,4 +1,8 @@
 import ReciprocityTheory.SemistableReduction.LatSemiSt
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace ReciprocityTheory.ChartRestriction.G.T0
 

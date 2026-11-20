@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarEqZeroOfHolomorphic
+import Mathlib.Order.CompletePartialOrder
 
 set_option autoImplicit false
 noncomputable section

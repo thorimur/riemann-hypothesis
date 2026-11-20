@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GenHom
-import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.ExactAndSurjectiveAppOfExactOfEpi
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjTwistLeray
 
 set_option autoImplicit false
 

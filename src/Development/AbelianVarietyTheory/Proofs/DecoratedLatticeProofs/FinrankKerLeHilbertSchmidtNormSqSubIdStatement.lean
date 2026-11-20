@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FinrankKerLeHilbertSchmidtNormSqSubId
-import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 open Formalism.MainNotions.S
 open scoped InnerProductSpace
 set_option maxHeartbeats 1000000 in

@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.ImagePolynomialAction
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeierstrassDivisionEisensteinPowIntegralStatement
+import Mathlib.NumberTheory.Padics.ProperSpace
+import Mathlib.Topology.Algebra.Valued.LocallyCompact
 open PowerSeries GlobalTheory.BK
 open scoped NormedField Valued
 

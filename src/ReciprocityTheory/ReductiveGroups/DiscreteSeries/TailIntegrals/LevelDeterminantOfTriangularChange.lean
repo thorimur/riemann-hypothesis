@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.InvSqrtTwoMulSelf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open Matrix MeasureTheory

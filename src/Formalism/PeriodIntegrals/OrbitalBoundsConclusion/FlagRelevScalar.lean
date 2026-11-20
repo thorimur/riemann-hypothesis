@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FlagScalarRelevance.DualExistsAlt
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FlagScalarRelevance.CoefXOfMem
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FlagScalarRelevance.Assemble

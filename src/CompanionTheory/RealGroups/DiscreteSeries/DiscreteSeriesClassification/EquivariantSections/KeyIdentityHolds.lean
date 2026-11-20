@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LowDegreeAlgebraFactsStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HolomorphicFunctionFactsStatement
 import CompanionTheory.RealGroups.DiscreteSeries.DiscreteSeriesClassification.RhoRepresentations.EquivSection

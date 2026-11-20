@@ -1,5 +1,10 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.EtaleCompletion.ModulesPullback
+import Mathlib.AlgebraicGeometry.Modules.Tilde
+import Mathlib.CategoryTheory.EffectiveEpi.Comp
+import Mathlib.CategoryTheory.ExtremalEpi
+import Mathlib.CategoryTheory.Limits.Shapes.Countable
+import Mathlib.CategoryTheory.Monoidal.Mon
+import Mathlib.RingTheory.WittVector.IsPoly
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.Etale

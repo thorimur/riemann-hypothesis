@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.FaithfulSMulAlgClosure
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemRingOver
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplitsTop
 

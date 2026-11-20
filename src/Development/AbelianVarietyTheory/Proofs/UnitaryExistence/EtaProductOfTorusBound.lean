@@ -1,8 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.EtArchPf
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.EtaleProductPrimes
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ParOfTraceOne
-import Development.AbelianVarietyTheory.Statements.PrincipalLattices.PhiNeOne
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.TorusAtDataPf
 
 noncomputable section
 

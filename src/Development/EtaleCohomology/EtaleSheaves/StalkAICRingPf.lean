@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.FibreEqvPf
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Polynomial GlobalTheory.EtC LateralTheory.E.t_E2Cut

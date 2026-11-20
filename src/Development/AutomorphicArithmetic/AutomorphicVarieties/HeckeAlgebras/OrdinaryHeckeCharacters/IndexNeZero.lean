@@ -1,6 +1,9 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.TcAnti
 import Development.AbelianVarietyTheory.Definitions.Divisors.T2SpaceGeneralLinearGroup
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LduDecompositionExists
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.Ideal.Quotient.Index
 open Matrix ValuativeRel GlobalTheory.SmGL GlobalTheory.SplitWeil UpperTheory.V.Hi
 
 namespace UpperTheory.V.Hi.GlAx

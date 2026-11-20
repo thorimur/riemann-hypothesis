@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ClassFieldConsequences.RayClassField
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.Unramified
 

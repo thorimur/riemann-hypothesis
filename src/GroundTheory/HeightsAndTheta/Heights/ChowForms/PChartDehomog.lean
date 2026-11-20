@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.StatementsChartMax
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChartLocDomain
 set_option maxSynthPendingDepth 1

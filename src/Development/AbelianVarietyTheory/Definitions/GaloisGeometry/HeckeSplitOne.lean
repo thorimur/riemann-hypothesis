@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.DataN
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
 
 noncomputable section
 

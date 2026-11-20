@@ -1,11 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.RealisedChainTorusEq
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.RankConditionRankOneIffEqZero
-import Formalism.SharpRestriction.FamCore
-import Formalism.LocalRingCardinality.SpanPowerMembership
-import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowGat
-import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowW
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.NonemptyRecordOfLocStage
 
 noncomputable section
 

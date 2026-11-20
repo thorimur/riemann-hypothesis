@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FlatDegree.Statements
+import Mathlib.NumberTheory.NumberField.Discriminant.Different
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.FlatTheorem

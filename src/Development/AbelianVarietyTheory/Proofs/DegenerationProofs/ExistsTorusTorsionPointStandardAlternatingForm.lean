@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.KfBijective
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsTorusPoint
 open CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj AlgebraicGeometry
 open scoped CategoryTheory.Obj

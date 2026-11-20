@@ -1,6 +1,8 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AutomorphicKernels.EisensteinSeriesG2.TubeDomainExtension.Statement
 import Development.WeilBound.CoreStatements.AutomorphicKernels.EisensteinSeriesG2.TubeDomainExtension.Lemmas
+import Mathlib.LinearAlgebra.AffineSpace.MidpointZero
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Filter Topology MeasureTheory
 

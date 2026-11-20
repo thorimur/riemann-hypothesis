@@ -1,8 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePPTSelfEx
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePProjFB
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePLSmallMain
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePOActLog
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePCartSelfSt
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePAllStart
 
 noncomputable section

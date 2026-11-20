@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceWeightBound
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceLogIntegrable
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCutOff

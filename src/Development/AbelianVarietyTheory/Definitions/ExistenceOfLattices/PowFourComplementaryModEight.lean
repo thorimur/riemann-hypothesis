@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.ExistenceOfLattices.NormConst
+import Formalism.LocalToGlobal.ProjectiveLattices.UnifDom
 
 noncomputable section
 

@@ -1,23 +1,13 @@
 import Formalism.SharpRestriction.GrowthBounds.PlaneCountTheoremWithConstants
 import Formalism.SharpRestriction.GrowthBounds.LogarithmicSums
 import Formalism.SharpRestriction.GrowthBounds.InitialMinorTransposeMemHighestWeight
-import Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities
 import Formalism.SharpRestriction.GrowthBounds.SegmentDegree
-import Formalism.LocalToGlobal.GroupLattices.FockModels.DualInclusionLattices
 import Formalism.LocalToGlobal.GroupLattices.FockModels.LoBlockActComp
-import Formalism.LocalToGlobal.GroupLattices.FockModels.MulMemRiemannRochSpaceAdd
-import Formalism.LocalToGlobal.GroupLattices.FockModels.WeylDim
-import Formalism.LocalToGlobal.GroupLattices.FockModels.Cartan
-import Formalism.SharpRestriction.GrowthBounds.JointsLit
 import Formalism.SharpRestriction.GrowthBounds.SizesAtRecord
 import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.PrvAndKernelCommutationUpToUnitsOfRests
 import Formalism.LocalToGlobal.GroupLattices.FockModels.LPBase
 import Formalism.LocalToGlobal.GroupLattices.FockModels.OperatorsPreserveLattices
 import Formalism.LocalToGlobal.GroupLattices.FockModels.Sandwich
-import Formalism.LocalToGlobal.GroupLattices.FockModels.FlatModels.LetterWtAnti
-import Formalism.LocalToGlobal.GroupLattices.FockModels.TestSideFinal
-import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.PositivityConditionHolds
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NpDescFOfValRatF
 import Formalism.SharpRestriction.GrowthBounds.TruncatedChains
 import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.OrbitSumStabilizer
 import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.StmtNumFEx
@@ -26,6 +16,7 @@ import Formalism.SharpRestriction.GrowthBounds.WittIdentPI
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials
 import Formalism.SharpRestriction.GrowthBounds.AevalValuation
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.StabilizerCount
 
 noncomputable section
 

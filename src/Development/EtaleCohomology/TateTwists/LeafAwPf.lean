@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.TateTwists.EtalePrismAlexanderWhitneyHomotopyOfRelations
+import Mathlib.Tactic.Polynomial.Basic
 
 open CategoryTheory GlobalTheory.EtC
 

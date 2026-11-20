@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.CoefCol
-import Formalism.LocalToGlobal.Columns.DecoFin
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.IndexExponentDegree
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.JetSumTable
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.CharacterValuation

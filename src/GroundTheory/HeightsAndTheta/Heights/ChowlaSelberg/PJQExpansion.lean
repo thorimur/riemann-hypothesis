@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.JQExpansion
 import GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.DeltaQExpansionIntegral
 import GroundTheory.GlobalFields.ComplexMultiplication.JInvariantSurjective

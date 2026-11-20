@@ -1,4 +1,5 @@
 import CompanionTheory.RealGroups.DiscreteSeries.DiscreteSeriesClassification.DiscreteSeriesExhaustion.MatrixCoefficientDecay.HilbertSchmidtDecay.RightKTypes.CoefFam
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

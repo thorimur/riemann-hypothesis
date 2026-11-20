@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.TopProdD
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
 
 noncomputable section
 

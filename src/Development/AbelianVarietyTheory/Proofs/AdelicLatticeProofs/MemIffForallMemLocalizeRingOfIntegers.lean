@@ -1,7 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.QuasicoherentCohomology.MemSaturatedOrderIsoSubspaceSpanSymmApply
 import ReciprocityTheory.SemistableReduction.TorsionNonvanishStatement
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.Signature
+import Mathlib.Algebra.Module.Lattice
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open IsDedekindDomain IsDedekindDomain.HeightOneSpectrum Matrix
 open scoped nonZeroDivisors

@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.DiffDefs
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.ArtLSpec
 
 open UpperTheory.HF

@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.Columns.TiedVal
-import Formalism.LocalToGlobal.Columns.CoefficientsModP.FkMapInitMinor
 
 open NumberField IsDedekindDomain Module Matrix
 open scoped TensorProduct

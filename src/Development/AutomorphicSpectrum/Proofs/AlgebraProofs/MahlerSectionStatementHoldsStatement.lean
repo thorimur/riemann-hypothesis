@@ -1,13 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.MahlerSectionStatementHolds
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsGroupHomog
-import Development.AutomorphicSpectrum.Definitions.MetricPeriods.SectionInputs
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IntStable
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.ValNeBot
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.SpecFirstDetFormNeZero
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.DefiniteFormStabilizerFiniteAwayFromP
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IntStable
 open MvPolynomial NumberField Matrix ReciprocityTheory.ChartRestriction.G.Geo GlobalTheory.CompanionTheory.Ar.Small GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.ArithBezout
 open GlobalTheory.CompanionTheory.Ar GlobalTheory.CompanionTheory.Ar.Short ReciprocityTheory.ChartRestriction.G.T0
 set_option maxHeartbeats 1000000 in

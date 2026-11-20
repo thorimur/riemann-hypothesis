@@ -1,9 +1,9 @@
-import Mathlib
 import Formalism.SobolevGaussianKernels.StatementEI
-import Formalism.SobolevGaussianKernels.StatementCS
-import Formalism.SobolevGaussianKernels.StatementNC
-import Formalism.SobolevGaussianKernels.StatementMV
-import Formalism.YangianSpanCharacter.StatementE
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.Fourier.FiniteAbelian.Orthogonality
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.HermitianLatticeCounting.S4
 

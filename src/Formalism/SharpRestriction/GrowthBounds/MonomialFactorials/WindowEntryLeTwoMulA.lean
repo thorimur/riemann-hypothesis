@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.SegDistsLtG
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.DigitsOKOfCompat
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.LettersExt
 
 noncomputable section
 

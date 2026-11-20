@@ -1,4 +1,6 @@
-import CompanionTheory.AutomorphicTheory.ZuckermanCommutation.CapelliEigenvalues.Transport
+import Formalism.FormalDegreeBessel.FormalDegreeRatio.IOCentral
+import Formalism.PeriodIntegrals.DSInfCharCap
+import Formalism.RealPlaceAnalysis.FinalF
 
 open Matrix Formalism.REAL Formalism.QuantumDeterminants PI.DSInfCharCap
 

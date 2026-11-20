@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.RatChartObjects
+import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StPtsSegreChart
 set_option maxSynthPendingDepth 1
 
 noncomputable section

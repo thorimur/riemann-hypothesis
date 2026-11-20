@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AutomorphicArithmetic.OrbitLabellings.RowDefs
-import Formalism.LocalToGlobal.CharacterGerms.RowTieMemCFin
-import Formalism.LocalToGlobal.CharacterGerms.RowTieFlagS
+import Formalism.LocalToGlobal.CharacterGerms.RowTieMemCHarm
+import Formalism.LocalToGlobal.CharacterGerms.SelfConjugateRowData
+import Formalism.LocalToGlobal.CharacterGerms.ValBlocksCChart
 
 noncomputable section
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.RingConditionOfDeltaInvariants
 import Formalism.LocalRingCardinality.SpanPowerMembership.NDLocE
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.LMemMaxOL
 

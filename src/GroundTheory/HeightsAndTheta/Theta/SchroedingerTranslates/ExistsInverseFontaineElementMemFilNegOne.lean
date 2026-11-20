@@ -1,8 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.HermitianSpaces
 import GroundTheory.HeightsAndTheta.Theta.GaussianExample
 import GroundTheory.HeightsAndTheta.Theta.AdelicFourier
-import GroundTheory.GlobalFields.TateThesis.GaussianSchwartz
+import Mathlib.Algebra.Group.MinimalAxioms
 
 namespace GroundTheory.Heights₂.Theta.IndefiniteRowSideFullHecke.WmSys
 

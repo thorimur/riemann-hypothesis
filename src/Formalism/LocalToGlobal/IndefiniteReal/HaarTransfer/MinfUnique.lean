@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataCD
 
 namespace Formalism.IndefR.Leaf

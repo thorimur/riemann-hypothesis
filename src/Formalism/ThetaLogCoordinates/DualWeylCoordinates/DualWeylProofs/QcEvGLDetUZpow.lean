@@ -1,5 +1,5 @@
-import Formalism.ThetaLogCoordinates.DualWeylCoordinates.StatementA
-import Formalism.ThetaLogCoordinates.DualWeylCoordinates.StatementC
+import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DefsMod
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.MapBaseTiedSel
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.IsLinked
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RealPins3RealTOf
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RealPinsRealTOf
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RecursionLocalRowConditionStatement

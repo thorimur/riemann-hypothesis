@@ -1,7 +1,9 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.GoodPartHermitianSpec
 import Formalism.LocalToGlobal.Divisibility.ClassSumLemmas
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ClassSumDualGeOfFamily
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.SimpleModule.Rank
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

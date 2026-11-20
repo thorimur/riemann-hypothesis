@@ -1,5 +1,10 @@
 import Formalism.GaussJetBounds.GenLogInverse
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.HomWProd
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 open scoped BigOperators

@@ -1,5 +1,13 @@
-import Mathlib
-import Formalism.QuotientMetricDivisors.ProdFormula
+import Formalism.QuotientMetricDivisors.Statement
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

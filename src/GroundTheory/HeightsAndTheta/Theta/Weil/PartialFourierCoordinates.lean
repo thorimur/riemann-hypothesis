@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Theta.Weil.PartialFourierTheta
-import GroundTheory.HeightsAndTheta.Theta.AdelicFourier
 
 namespace GroundTheory.Heights₂.Theta
 

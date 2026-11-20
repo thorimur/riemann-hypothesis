@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.AdmissibleIndexBoundAllPowers
 import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.ReadingAllLemmas
+import Mathlib.RingTheory.LocalProperties.Reduced
 
 noncomputable section
 

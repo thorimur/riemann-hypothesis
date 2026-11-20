@@ -1,6 +1,7 @@
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.NStageTrivialCharacterCoeffEqAlt
-import Formalism.SharpRestriction.ParConsts
-import Formalism.SharpRestriction.LevelLetterCocycles.TwGood
+import Formalism.LocalRingCardinality.DataExtra
+import Formalism.LocalRingCardinality.DataParamsT
+import Formalism.LocalRingCardinality.DataTies
 
 noncomputable section
 

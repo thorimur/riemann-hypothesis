@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.CompletedLStripBounds
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormWt
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaussZero
 open NumberField MeasureTheory
 
 noncomputable section

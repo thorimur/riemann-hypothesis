@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.POrbitConjSumLemmas
+import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitConjSum
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

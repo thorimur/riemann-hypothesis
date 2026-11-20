@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.SharpRestriction.InertJacobiLevels.AsmIface
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LogAddRpowMulLogPowLeRpow
+import Formalism.LocalRingCardinality.DataParams₂
 
 open Formalism.BasicNotions Formalism.MainNotions
 

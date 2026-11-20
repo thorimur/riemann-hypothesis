@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.BlochKatoPhases
 import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.CyclotomicTotient.NuBasic
 import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.CyclotomicTotient.TotientLeOfCycPowEqOne

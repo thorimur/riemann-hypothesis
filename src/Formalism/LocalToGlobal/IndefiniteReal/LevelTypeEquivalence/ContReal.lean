@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.Sobolev2
+import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.SobDer
 
 noncomputable section
 

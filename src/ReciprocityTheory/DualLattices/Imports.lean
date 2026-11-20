@@ -1,6 +1,5 @@
 import ReciprocityTheory.DualLattices.DvdOfCoeffZero
 import ReciprocityTheory.DualLattices.ValUntiltESubOne
-import ReciprocityTheory.DualLattices.MulIterateRootEqZero
 import ReciprocityTheory.DualLattices.ZmodTrichotomy
 import ReciprocityTheory.DualLattices.ExistsPrimitiveRoot
 

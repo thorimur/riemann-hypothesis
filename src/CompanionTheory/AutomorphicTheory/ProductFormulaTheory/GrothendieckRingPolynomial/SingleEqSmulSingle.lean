@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.AutomorphicTheory.ProductFormulaTheory.GrothendieckRingPolynomial.ProdList
 
 noncomputable section

@@ -1,4 +1,3 @@
-import Formalism.GradedWeylDivisibility.StatementA
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LBidetLemmas
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LBidetMinor
 

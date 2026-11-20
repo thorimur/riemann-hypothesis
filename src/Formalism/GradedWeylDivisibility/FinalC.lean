@@ -1,4 +1,3 @@
-import Formalism.GradedWeylDivisibility.FinalB
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.MinorExpLt
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.ColLexInitMinor
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.ColumnLexBideterminant

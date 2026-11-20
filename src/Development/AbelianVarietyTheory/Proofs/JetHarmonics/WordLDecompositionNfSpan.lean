@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Jets.SameFns
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.FrameStartConstantsNormalFormEmptyWordStatement
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MinusId
 

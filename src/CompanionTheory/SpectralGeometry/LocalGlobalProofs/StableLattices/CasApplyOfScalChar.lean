@@ -1,8 +1,6 @@
-import Mathlib
 import CompanionTheory.RealGroups.DiscreteSeries.DiscreteSeriesClassification.DiscreteSeriesExhaustion.FarRegularity.LKTExists
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
-import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.TraceElementsActByGelfandValues
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.GelfValTwoEqCvalR
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TraceElementsActByGelfandValues
 
 open scoped InnerProductSpace
 open Formalism.REAL (GlRel IsUnitary KHighest Cas etr epow)

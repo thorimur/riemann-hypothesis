@@ -1,9 +1,6 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.FrameReading.PExpbSt
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MkFiberStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedCharacterBlockValue
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.LocalLanglandsGL
-import Development.AbelianVarietyTheory.Definitions.Divisors.EqOfHasValueAtInfinite
 
 noncomputable section
 open NumberField IsDedekindDomain Matrix

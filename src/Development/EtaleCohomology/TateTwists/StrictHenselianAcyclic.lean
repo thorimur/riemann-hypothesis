@@ -1,12 +1,7 @@
 import Development.AbelianVarietyTheory.Definitions.Divisors.IndEtOfForallFinset
 import Development.AbelianVarietyTheory.Definitions.Divisors.SecClass
 import Development.EtaleCohomology.TateTwists.EtaleChapterCThree
-import Development.EtaleCohomology.TateTwists.EtaleChapterCTwo
-import Development.EtaleCohomology.TateTwists.FinitaryBaseChangeInjective
-import Development.EtaleCohomology.TateTwists.FinitaryFilteredColimit
-import Development.EtaleCohomology.TateTwists.FinitaryLowerBound
-import Development.EtaleCohomology.TateTwists.StrictHenselianEtaleSection
-import Development.EtaleCohomology.TateTwists.EtaleChapterAFive
+import Mathlib.RingTheory.Polynomial.IsIntegral
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite TensorProduct GlobalTheory.EtC GlobalTheory.IndefiniteRowSideFullHecke.ProjectiveSpaceOverSpec

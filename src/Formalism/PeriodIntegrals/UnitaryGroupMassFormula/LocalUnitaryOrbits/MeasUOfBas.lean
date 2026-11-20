@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalUnitaryOrbits.CountUOfBas
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

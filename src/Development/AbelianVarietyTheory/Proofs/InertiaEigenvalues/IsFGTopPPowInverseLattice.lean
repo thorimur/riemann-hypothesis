@@ -1,5 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.TraceFormulas.LatDefs
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 open ReciprocityTheory.Gal Formalism.RepresentationBoundsCohomology.LOC ReciprocityTheory.ChartRestriction.T2
 open Formalism.NG (KO)
 

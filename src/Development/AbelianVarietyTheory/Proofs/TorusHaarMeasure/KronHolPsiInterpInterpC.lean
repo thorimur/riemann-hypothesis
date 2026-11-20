@@ -1,7 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.WeightFunctionOnFrames
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.InterpStatementPfB
-import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.MeasureStatements
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.UnfoldPoincareOnto
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.DetFderivNeZeroOrbit
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.KronHolPsiOf
@@ -9,7 +5,6 @@ import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContinuousOnOfCh
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.MeasurableIndicatorOfContOn
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.LintegralLtTopOfCutoff
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.WeightContDiffOn
-import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.NormBcharMulNfacRmul
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.VanishOfSimpleZero
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.StrictMargin
 

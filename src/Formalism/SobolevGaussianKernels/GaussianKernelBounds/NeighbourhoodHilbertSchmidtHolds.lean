@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.SobolevGaussianKernels.StatementFU
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

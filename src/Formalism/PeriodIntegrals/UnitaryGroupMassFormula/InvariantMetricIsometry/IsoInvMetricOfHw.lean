@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InvariantMetricIsometry.SymmetricMeasureL2NormEqResolutionL2
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InvariantMetricIsometry.HvScalar
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InvariantMetricIsometry.QuotientRank

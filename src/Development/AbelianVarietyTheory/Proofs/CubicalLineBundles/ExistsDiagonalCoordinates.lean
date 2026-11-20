@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HermitianTraceForms.IsLocallyConstantRankAtStalkEigenSub
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 open NumberField
 open scoped TensorProduct

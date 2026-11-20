@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerOrbitVolume.ExStabSt
+import Mathlib.Topology.Algebra.ProperAction.Basic
 
 noncomputable section
 

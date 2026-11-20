@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.AdelicUnitaryGroups.Lattice
+import Mathlib.RingTheory.DedekindDomain.FiniteAdeleRing
 
 set_option linter.unusedSectionVars false
 

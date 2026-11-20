@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFockMap
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzLogDerivativeGaussianStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairExistsArchimedeanTranslatesStatement
 open scoped TensorProduct NNReal Matrix

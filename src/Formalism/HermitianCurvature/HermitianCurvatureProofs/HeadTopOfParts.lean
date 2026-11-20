@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HeadVectorOfParts
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HermitianFormAnisotropicPart
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.HeadTypesAtOfWeight
 
 namespace Formalism.FourierDecayAlt.P
 

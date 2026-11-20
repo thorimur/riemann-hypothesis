@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapRGrpPRad
+import Formalism.HermitianCurvature.StatementQ
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

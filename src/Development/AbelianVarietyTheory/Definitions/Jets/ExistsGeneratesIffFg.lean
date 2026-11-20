@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.IntegralExtensionOfRegR1
 import Development.AbelianVarietyTheory.Definitions.ThetaValues.SWEqSOf
 

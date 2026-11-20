@@ -1,5 +1,6 @@
-import ReciprocityTheory.DualLattices.ModuliPointsState
-import ReciprocityTheory.DualLattices.AinfFacts
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Tactic.Polynomial.Basic
+import ReciprocityTheory.DualLattices.ATowerInh
 
 noncomputable section
 

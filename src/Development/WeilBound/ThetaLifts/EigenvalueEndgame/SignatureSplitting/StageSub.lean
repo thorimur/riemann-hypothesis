@@ -1,4 +1,3 @@
-import Development.WeilBound.ThetaLifts.EigenvalueEndgame.SignatureSplitting.RightOfFd
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ConjugateSubgroup
 
 noncomputable section

@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.GL3MeanSquares.ConcavityEquidistribution
 import Formalism.LogVandermondeBounds.LogVandermondeProofs.GammaIntegralPolynomialBound
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.HermitianLattices.TraceIntegrality
 

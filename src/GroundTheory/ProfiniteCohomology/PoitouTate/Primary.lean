@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.PoincarePairs
-import GroundTheory.ProfiniteCohomology.CohomologicalDimension.SubsingletonCohomologyOfPrimaryOfFinite
 set_option maxSynthPendingDepth 1
 
 noncomputable section

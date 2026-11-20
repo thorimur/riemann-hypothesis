@@ -1,6 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.LatticeSystems
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Wlocal
-import Formalism.SharpRestriction.GrowthBounds.DataG
 
 noncomputable section
 

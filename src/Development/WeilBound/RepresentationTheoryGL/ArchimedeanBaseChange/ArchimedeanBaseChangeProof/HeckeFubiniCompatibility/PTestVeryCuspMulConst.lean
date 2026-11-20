@@ -1,5 +1,7 @@
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.HeckeFubiniCompatibility.CompatFub
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LengthContinuousProperSublevel
+import GroundTheory.AutomorphicForms.GLnLocal
+import GroundTheory.GlobalFields.LocalFieldAtPlace
 
 noncomputable section
 

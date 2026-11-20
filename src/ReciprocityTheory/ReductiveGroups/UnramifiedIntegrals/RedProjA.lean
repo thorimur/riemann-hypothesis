@@ -1,5 +1,8 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedDefs
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 open scoped BigOperators Classical

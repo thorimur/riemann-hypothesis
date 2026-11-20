@@ -1,7 +1,7 @@
-import Mathlib
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WittExtensionTheorem
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Bridge
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.VolStabFromSWS
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

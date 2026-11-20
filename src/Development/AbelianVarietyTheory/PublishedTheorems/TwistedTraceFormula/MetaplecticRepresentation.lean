@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.HilbertNinetyQuotientHomEqIff
+import Mathlib.LinearAlgebra.SymplecticGroup
+import Mathlib.Topology.Covering.Basic
 
 noncomputable section
 

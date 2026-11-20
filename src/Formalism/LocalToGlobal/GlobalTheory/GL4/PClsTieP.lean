@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL4.PClsTie
+import Formalism.LocalToGlobal.GlobalTheory.GL4.PClsTieIdx
+import Formalism.LocalToGlobal.GlobalTheory.GL4.PClsTieInt
 
 noncomputable section
 

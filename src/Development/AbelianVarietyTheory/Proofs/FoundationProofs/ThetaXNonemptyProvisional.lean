@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.BesselHermitianTheta.AllTied
 import Formalism.LocalRingCardinality.SpanPowerMembership.Spaces
+import Formalism.LocalRingCardinality.DataTheta
 
 noncomputable section
 

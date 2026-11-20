@@ -1,10 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StInterNumPointDeg
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.InterNumRestrictSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PInterNumPoint
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PHilbertPoint
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PHilbertPositive
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PVeryAmpleDim
+import Mathlib.Algebra.Field.Shrink
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

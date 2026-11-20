@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.LocalFields.MainTheorem
+import GroundTheory.LocalFields.LocalArtinMap
 
 open ValuativeRel IntermediateField
 

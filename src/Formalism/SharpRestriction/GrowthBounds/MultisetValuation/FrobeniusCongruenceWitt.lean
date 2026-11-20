@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.TwoSumsCondition
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.WModel
+import Formalism.SharpRestriction.GrowthBounds.FormalGroupSystem
 
 noncomputable section
 

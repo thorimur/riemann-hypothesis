@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.SimpleSum
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 open MeasureTheory ValuativeRel Matrix GlobalTheory.SplitWeil GlobalTheory.RootEx
 open Filter Topology
 

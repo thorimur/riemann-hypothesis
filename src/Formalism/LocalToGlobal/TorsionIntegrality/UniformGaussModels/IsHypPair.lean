@@ -1,6 +1,6 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.OneLetterGaussFinal
 import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.StatementP
-import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.StatementV
+import Formalism.LocalToGlobal.TorsionIntegrality.CMGoodModels.Statement
+import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.EndoZInstance
 
 noncomputable section
 open scoped BigOperators

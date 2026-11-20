@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialMultipleInSubmodule
-import Mathlib
 open SchwartzMap
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.polynomial_multiple_in_submodule : ∀ (V : Type) [NormedAddCommGroup V] [NormedSpace ℝ V] [FiniteDimensional ℝ V]

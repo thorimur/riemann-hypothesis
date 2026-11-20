@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.LocLatEq
+import Formalism.SharpRestriction.CuspSpanNormBounds.PsiEDef
 
 noncomputable section
 

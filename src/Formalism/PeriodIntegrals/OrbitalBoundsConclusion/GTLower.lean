@@ -1,5 +1,3 @@
-import Formalism.PeriodIntegrals.GTLower
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HwIrred
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GTBranch
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SchurFock
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GelfandTsetlinLowering.GTLowerOf

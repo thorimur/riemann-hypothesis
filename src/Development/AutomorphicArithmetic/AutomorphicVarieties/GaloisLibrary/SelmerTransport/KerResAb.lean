@@ -1,5 +1,7 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SelmerTransport.RestrictionMemInvariantH1
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SelmerTransport.LenCokerLe
+import Mathlib.Data.ENat.BigOperators
+import Mathlib.Topology.Connected.Separation
 
 open ReciprocityTheory.Gal UpperTheory.V.Base
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzIntegralEqOfBounds
-import Mathlib
 open MeasureTheory
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.schwartz_integral_eq_of_bounds : ∀ {D S : Type} [NormedAddCommGroup D] [NormedSpace ℝ D] [TopologicalSpace S] [SecondCountableTopology S]

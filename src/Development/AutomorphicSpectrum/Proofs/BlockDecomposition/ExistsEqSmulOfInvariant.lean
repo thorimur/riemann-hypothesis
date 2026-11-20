@@ -1,5 +1,6 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.RegularisedSiegelWeil.SingularNullSets.WeakApproximationFinitePlace
+import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsUniqueIsProdMeasureFinAway
+import Mathlib.MeasureTheory.Measure.Decomposition.RadonNikodym
 
 noncomputable section
 

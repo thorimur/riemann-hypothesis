@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Uniformization.TXFrame
 
 namespace GlobalTheory.UT

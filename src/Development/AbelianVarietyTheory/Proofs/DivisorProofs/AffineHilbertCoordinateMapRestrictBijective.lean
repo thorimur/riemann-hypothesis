@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BasicIff
+import Mathlib.Tactic.Polynomial.Basic
 
 open AlgebraicGeometry CategoryTheory CategoryTheory.Limits Opposite
 

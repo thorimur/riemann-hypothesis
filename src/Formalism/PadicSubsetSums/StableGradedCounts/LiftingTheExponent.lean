@@ -1,4 +1,7 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.WindowSums
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.IrreducibleCountingLemmas.WindowSums
 

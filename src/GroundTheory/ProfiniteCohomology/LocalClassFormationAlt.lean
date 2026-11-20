@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.InvariantRes
-import GroundTheory.ProfiniteCohomology.ClassFormations.IsIsoCohomologyMapAlongResSubgroupOfHom
+import GroundTheory.Brauer.BaseChangeRestriction
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

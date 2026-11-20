@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.Statements
 import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.JacobiTrudi
 import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.AltCoeff
 import GroundTheory.HeightsAndTheta.Heights.KernelsRest

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.GoodHeightExists
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LStructA
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LStructB
 

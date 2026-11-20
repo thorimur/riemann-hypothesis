@@ -1,11 +1,10 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.ExampleSatisfiesConditionsAtFive
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.CharIdem
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IndexUBound
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.MirabIndex
 import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.IsMackeyPiUpperUnipotentProdCharacter
-import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.RamBasic
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.UnipVal
+import Formalism.PeriodIntegrals.CharIdem
+import Mathlib.NumberTheory.NumberField.Cyclotomic.Basic
 
 open Module NumberField IsDedekindDomain CategoryTheory
 

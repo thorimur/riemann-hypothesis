@@ -1,4 +1,6 @@
 import Formalism.LocalToGlobal.PairingIndexBounds.RowActionCoefficients.CoefProd
+import Formalism.LocalToGlobal.GroupLattices.FockModels.TransposeWords.TransposeWordsProofs.ProdBlockEmbMonomial
+import Formalism.LocalToGlobal.PairingIndexBounds.RowActionCoefficients.WeylComplementInDetCoeffSpan
 
 open MvPolynomial
 

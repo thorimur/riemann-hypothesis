@@ -1,7 +1,5 @@
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.TamagawaNumberSpecialUnitary
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreePointHalfLevelLift
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ToKnownTheoremsOf
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreePointHalfLevelLiftStatement
 
 section
 set_option synthInstance.maxHeartbeats 400000

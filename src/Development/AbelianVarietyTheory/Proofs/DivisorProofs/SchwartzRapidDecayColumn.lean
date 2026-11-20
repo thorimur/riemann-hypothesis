@@ -1,4 +1,5 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.MeasurableCompInfGL
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsRapidInf
+import Development.AbelianVarietyTheory.Definitions.Divisors.MemMspan
 
 noncomputable section
 

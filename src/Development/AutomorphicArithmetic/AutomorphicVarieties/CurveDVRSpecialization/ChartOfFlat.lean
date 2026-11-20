@@ -1,4 +1,7 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CurveDVRSpecialization.FlipTwoThree
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Ideal.GoingDown
+import Mathlib.Topology.Sheaves.Presheaf
 
 open PrimeSpectrum in
 private theorem UpperTheory.V.Pr.exp_product_chart_local {X : Type} [TopologicalSpace X] {C : Type} [CommRing C]

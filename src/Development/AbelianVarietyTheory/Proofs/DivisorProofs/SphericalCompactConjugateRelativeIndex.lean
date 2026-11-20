@@ -1,9 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemKAtAlt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocKLeLocU
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexConjNeZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalMatrixPreservesLatticeMultipleStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatticeUnitQuotientFiniteRepsStatement
 open scoped TensorProduct NNReal Matrix

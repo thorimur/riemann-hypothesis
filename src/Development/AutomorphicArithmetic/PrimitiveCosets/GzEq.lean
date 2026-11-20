@@ -1,4 +1,7 @@
-import Development.AutomorphicArithmetic.PrimitiveCosets.CoreAtH
+import Development.AutomorphicArithmetic.DedekindLFunctions.CharFamily
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.Analytic
+import Formalism.StatementOC
+import Mathlib.Tactic.Polynomial.Basic
 
 open UpperTheory.Comparison₂ Deduction.CH Formalism Formalism.HC Formalism.D5 Formalism.RankGapBounds.WeightedMeanData Formalism.LFunctionChainParameters.WeightedSlopeBounds Formalism.LFunctionChainParameters.characterSumData Formalism.LFunctionChainParameters.ThickSetMeanBounds Formalism.LFunctionChainParameters.LErr
   Formalism.LFunctionChainParameters.LChain Formalism.LFunctionChainParameters.LHost

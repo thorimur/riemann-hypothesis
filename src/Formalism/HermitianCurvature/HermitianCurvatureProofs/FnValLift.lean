@@ -1,5 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ArelStar
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.FrameTransport
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.LiftVectorZeroBlock
 
 open Matrix MeasureTheory
 open scoped ContDiff

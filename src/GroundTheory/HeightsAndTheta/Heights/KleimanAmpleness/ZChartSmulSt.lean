@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.VeryAmpleCechObj
 set_option maxSynthPendingDepth 1
 

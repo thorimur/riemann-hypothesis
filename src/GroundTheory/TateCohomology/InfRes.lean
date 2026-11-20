@@ -1,6 +1,8 @@
-import Mathlib
 import GroundTheory.TateCohomology.DeltaMap
 import GroundTheory.TateCohomology.CoindOne
+import Mathlib.CategoryTheory.EffectiveEpi.Comp
+import Mathlib.CategoryTheory.ExtremalEpi
+import Mathlib.CategoryTheory.Monoidal.Mon
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.GroupCoh

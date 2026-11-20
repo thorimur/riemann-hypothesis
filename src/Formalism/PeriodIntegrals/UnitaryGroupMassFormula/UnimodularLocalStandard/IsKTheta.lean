@@ -1,4 +1,5 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnimodularLocalStandard.SelfDualStd
+import Formalism.PeriodIntegrals.UnimodLocStd
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 open scoped ComplexConjugate

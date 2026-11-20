@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.LocalFields.AbstractLocalReciprocity.ExistsOpenSubgroupMemFixedModule
+import Mathlib.Tactic.ENatToNat
 
 namespace GroundTheory.LocalField.Abstract
 

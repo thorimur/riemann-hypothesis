@@ -1,5 +1,4 @@
 import Formalism.UnipotentAdelicQuotients.EllipticRegularity.KernDecay
-import Formalism.UnipotentAdelicQuotients.EllipticRegularity.KernDil
 import Formalism.UnipotentAdelicQuotients.EllipticRegularity.KernGr
 
 namespace ZetaZeros.D.EllReg

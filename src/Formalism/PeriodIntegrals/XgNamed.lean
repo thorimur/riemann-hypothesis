@@ -1,5 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.GoodXgTie
+import Formalism.LocalToGlobal.NormalizedHeckeFactors.TypesDefs
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RepresentationTheory.Character
 
 namespace PI.XgNamed
 

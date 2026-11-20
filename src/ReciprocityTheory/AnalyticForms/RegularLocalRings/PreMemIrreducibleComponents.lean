@@ -1,6 +1,6 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.Monomial
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.FinalTheorems
+import Mathlib.SetTheory.ZFC.PSet
 
 namespace ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages
 

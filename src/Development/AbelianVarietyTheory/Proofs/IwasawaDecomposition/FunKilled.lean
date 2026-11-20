@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.HermitianForms.IsLocBasis
 
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.UG

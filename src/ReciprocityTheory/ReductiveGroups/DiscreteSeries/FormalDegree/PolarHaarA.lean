@@ -1,5 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.PolarBasic
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.KinstSecondCountable
+import Mathlib.CategoryTheory.Countable
 
 noncomputable section
 

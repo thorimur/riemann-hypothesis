@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
-import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.DiagonalQuotientEigen
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CompletionLines
 
 noncomputable section

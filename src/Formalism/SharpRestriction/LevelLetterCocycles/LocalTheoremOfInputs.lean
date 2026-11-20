@@ -4,8 +4,6 @@ import Development.AutomorphicArithmetic.BlochKatoExtensions.BkExtHolds
 import Formalism.SharpRestriction.LevelLetterCocycles.LevelKernelDetection.PfUTieRec
 import Formalism.SharpRestriction.LevelLetterCocycles.LevelKernelDetection.PfComplMax
 import Formalism.SharpRestriction.LevelLetterCocycles.BaseChangeEveryTheory
-import Formalism.SharpRestriction.LevelLetterCocycles.UsedLocalConclusion
-import Formalism.SharpRestriction.LevelLetterCocycles.BoundedNumeratorPowerSummability
 
 noncomputable section
 

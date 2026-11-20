@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ArchimedeanSignatureMatchingOfTrivialBranchingSymm
 import Formalism.LocalToGlobal.HilbertRowConditions.RowPin
-import Formalism.SharpRestriction.GlobalSchurBounds.FiniteModelOfAdmissibleTransports
 
 noncomputable section
 

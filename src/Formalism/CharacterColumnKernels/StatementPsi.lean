@@ -1,5 +1,5 @@
 import Formalism.CharacterColumnKernels.StatementColKer
-import Formalism.CharacterColumnKernels.StatementN
+import Mathlib.RingTheory.PiTensorProduct
 
 open Finset Classical
 

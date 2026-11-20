@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.VolumeEquality.DegPushDefs
+import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.InstFintypeSumElim
 
 noncomputable section
 

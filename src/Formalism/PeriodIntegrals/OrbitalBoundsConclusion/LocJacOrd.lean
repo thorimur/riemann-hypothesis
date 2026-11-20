@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.LocJacOrd
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalJacobianOrder.LocJacOrdClosed
 
 theorem locJacOrd {F E : Type} [Field F] [NumberField F] [Field E] [NumberField E] [Algebra F E]

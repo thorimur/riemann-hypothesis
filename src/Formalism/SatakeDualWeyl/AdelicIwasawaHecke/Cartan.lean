@@ -1,5 +1,8 @@
 import Formalism.SatakeDualWeyl.StatementE
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.GlintPrincRelIndexNeZero
+import Mathlib.Data.Fin.Tuple.Sort
+import Mathlib.Data.Matrix.PEquiv
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 open Matrix
 

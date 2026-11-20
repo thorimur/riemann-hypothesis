@@ -1,7 +1,7 @@
 import Development.EtaleCohomology.EtaleSheaves.UnderFAOf
 import Development.EtaleCohomology.EtaleSheaves.FPColimPf
 import Development.EtaleCohomology.EtaleSheaves.EtStagePf
-import Development.EtaleCohomology.EtaleSheaves.SHExistsPf
+import Development.EtaleCohomology.EtaleSheaves.EtaleSpreading.FPProof
 
 theorem LateralTheory.E.TruncationIsoComparison.IEComp_of : LateralTheory.E.t_E3Cut.IEComp :=
   LateralTheory.E.IECompPf.IEComp_of (LateralTheory.E.UnderFAPf.UnderFA_of LateralTheory.E.FPColimPf.FPColim_of)

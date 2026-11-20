@@ -1,4 +1,6 @@
 import Formalism.EllipticTorsion.Statement
+import Mathlib.NumberTheory.Padics.RingHoms
+import Mathlib.RingTheory.WittVector.IsPoly
 
 noncomputable section
 

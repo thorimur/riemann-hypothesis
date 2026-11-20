@@ -1,6 +1,7 @@
-import Formalism.AdmissibleDesigns.RowTopOf
 import Formalism.AdmissibleDesigns.FiniteClassesLocalEq
-import Formalism.AdmissibleDesigns.EKSymmCont
+import Formalism.AdmissibleDesigns.CoboundaryMemFiniteClasses
+import Formalism.AdmissibleDesigns.ExistsWildInertiaCyclotomicGenerator
+import Mathlib.Algebra.NoZeroSMulDivisors.Pi
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

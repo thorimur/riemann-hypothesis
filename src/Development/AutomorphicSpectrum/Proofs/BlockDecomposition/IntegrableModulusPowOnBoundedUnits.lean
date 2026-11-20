@@ -1,8 +1,6 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.RationalPrimesBelowPlaces
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.SquareIntegrable.SSmooth
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL2
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GeometricSumBelowThreshold
+import GroundTheory.LocalFields.LocalFourierMult
+import GroundTheory.LocalFields.LocalZetaShell
 open NumberField IsDedekindDomain MeasureTheory GroundTheory.Global GroundTheory.LocalField GroundTheory.Automorphic GroundTheory.Automorphic.AutomorphicForm Ad3 Ad3.K Ad3.K.QuadraticBaseChangeGL3
 open GroundTheory.Automorphic.GodementSection (localChar)
 open GroundTheory.Global.AdicLiesOver

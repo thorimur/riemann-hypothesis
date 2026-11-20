@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.DiscreteSeriesCharacter
 import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary₂.UnitaryOneOneChambers
 

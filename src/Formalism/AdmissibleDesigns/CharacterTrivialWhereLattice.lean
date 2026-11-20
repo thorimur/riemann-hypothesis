@@ -1,4 +1,5 @@
 import Formalism.AdmissibleDesigns.InertiaActsTrivially
+import Formalism.SharpRestriction.LevelLetterCocycles.SecondPropositionEveryLocalisation
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

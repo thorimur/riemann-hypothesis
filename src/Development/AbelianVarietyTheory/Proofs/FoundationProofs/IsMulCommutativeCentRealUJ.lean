@@ -1,8 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsAuxiliaryPlaceNotMemFinset
-import Development.AbelianVarietyTheory.Definitions.Foundations.SecondCountableAndT2LocalField
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LeftMulMatrixTransfer
-import Formalism.RealPlaceAnalysis.InstMeasurableSpaceUJ
+import Mathlib.LinearAlgebra.Matrix.Charpoly.Univ
+import Mathlib.Topology.Algebra.MvPolynomial
 
 open MeasureTheory Set Filter Matrix Polynomial GlobalTheory.AdelicU NumberField IsDedekindDomain Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes
 open GlobalTheory.ClassParam (krylov exists_cyclic)

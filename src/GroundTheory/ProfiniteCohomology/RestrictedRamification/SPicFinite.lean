@@ -1,6 +1,9 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.SPicDefs
 import GroundTheory.GlobalFields.SUnits
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Finsupp.Pointwise
+import Mathlib.Data.Int.Star
+import Mathlib.GroupTheory.FiniteAbelian.Basic
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

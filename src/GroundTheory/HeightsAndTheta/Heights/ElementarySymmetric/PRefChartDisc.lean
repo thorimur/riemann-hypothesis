@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StRefChartDisc
 import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffMulOfTsupport
+import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StProjChartHolo
 set_option maxSynthPendingDepth 1
 
 noncomputable section

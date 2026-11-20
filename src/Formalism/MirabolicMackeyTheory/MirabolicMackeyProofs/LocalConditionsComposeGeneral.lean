@@ -1,11 +1,5 @@
-import Mathlib
 import Formalism.MirabolicMackeyTheory.StatementC
-import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.AbsorbLocalConditions
-import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.ErrSum
-import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.RamBasic
-import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.UnipotentNumeric
-import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LocalConditionsGlobalForm
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.WeightedPlaceLogSum
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Module NumberField IsDedekindDomain
 

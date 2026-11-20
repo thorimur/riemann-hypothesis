@@ -1,16 +1,8 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataParams₂
-import Formalism.LocalRingCardinality.DataDIV
-import Formalism.LocalRingCardinality.DataDIVDefs
 import Formalism.SharpRestriction.Divisibility.HeightShare
-import Formalism.SharpRestriction.Divisibility.WeightThresholdDefs
 import Formalism.SharpRestriction.Divisibility.ProductFirstParts
 import Formalism.SharpRestriction.Divisibility.PlaceRankTwoOne
 import Formalism.SharpRestriction.Divisibility.WeightFamilies
-import Formalism.SharpRestriction.Divisibility.ModuliIntegralCharts
-import Formalism.SharpRestriction.Divisibility.PrinLevClass
 import Formalism.SharpRestriction.LevelLetterCocycles.ArithmeticCylinders
-import Formalism.SharpRestriction.ParamsHeightRankConstant
 
 noncomputable section
 

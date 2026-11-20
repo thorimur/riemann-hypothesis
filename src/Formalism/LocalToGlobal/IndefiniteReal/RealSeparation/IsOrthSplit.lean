@@ -1,4 +1,6 @@
-import Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.MajIter
+import Formalism.LocalToGlobal.BesselHermitianTheta.TiedBessel
+import Formalism.LocalToGlobal.BesselHermitianTheta.TiedSmooth
+import Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.UnfDefs
 
 noncomputable section
 

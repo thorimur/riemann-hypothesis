@@ -1,6 +1,9 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.CoreProofs
 import Formalism.LocalToGlobal.ProjectiveLattices.IntAllFree
 import Formalism.LocalToGlobal.ProjectiveLattices.ExistsOfValILeOne
+import Formalism.LocalToGlobal.ProjectiveLattices.PtFree
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 
 noncomputable section
 

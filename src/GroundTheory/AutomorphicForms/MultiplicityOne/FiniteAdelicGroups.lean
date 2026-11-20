@@ -1,10 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.WhittakerLocal
 import GroundTheory.AutomorphicForms.AdelicGLn
-import GroundTheory.GlobalFields.LocalFieldAtPlace
 import GroundTheory.GlobalFields.TateThesis.SchwartzBruhatDual
-import GroundTheory.GlobalFields.TateThesis.AdeleIdealMeasure
-import GroundTheory.GlobalFields.TateThesis.AdelicCharDual
+import GroundTheory.AutomorphicForms.WhittakerGroups
 
 open IsDedekindDomain IsDedekindDomain.HeightOneSpectrum NumberField Topology Filter Set
 

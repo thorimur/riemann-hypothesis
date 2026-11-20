@@ -1,9 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.DvrComplete
 import Formalism.LocalRingCardinality.SpanPowerMembership.NDLocE
 import Formalism.PieriBlockIdeals.LemmaWFromLattice
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.OneAddXMulDerivativeBinomial
-import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.BoundedOnFramesIffIntegralOnFrames
 open Formalism.BasicNotions Formalism.BasicNotions.Loc IsLocalRing
 
 namespace GlobalTheory.WachExp

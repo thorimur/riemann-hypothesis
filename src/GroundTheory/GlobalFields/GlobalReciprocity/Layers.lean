@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.GlobalReciprocity.InfKerDegreeLeOfLeSupZhatField
+import GroundTheory.GlobalFields.NormResidueSymbol.Cyclotomic
 
 namespace GroundTheory.Global
 

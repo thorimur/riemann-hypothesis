@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.NeutralLocalFields.Duality
 import ReciprocityTheory.GroupCohomology.ContinuousContractNth
 

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.MemLatBack
+import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ExistsMidLevIff
 
 noncomputable section
 

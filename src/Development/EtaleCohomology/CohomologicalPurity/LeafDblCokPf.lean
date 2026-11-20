@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.CohomologicalPurity.LeafHsRelPfSplit
+import Mathlib.CategoryTheory.Limits.Shapes.Pullback.IsPullback.Kernels
+import Mathlib.CategoryTheory.Limits.Types.Pushouts
 
 noncomputable section
 open CategoryTheory Limits Opposite GlobalTheory.EtC

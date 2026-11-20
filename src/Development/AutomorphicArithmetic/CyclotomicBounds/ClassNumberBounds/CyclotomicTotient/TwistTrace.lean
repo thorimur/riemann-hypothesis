@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.CyclotomicTotient.SkolemNoether
 
 namespace KStar.Tree

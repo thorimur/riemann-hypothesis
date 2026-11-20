@@ -1,7 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.RuleOfEq
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HpkMulSingleEsI
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.WeylCellMulVecBasis
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.WeylCellConjTransposeMulApply
 
 open Matrix
 

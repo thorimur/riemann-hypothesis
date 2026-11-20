@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffTopMonEqZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HermitianLatticeBaseChangeStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SemiFibrationLieLatticeFullStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentLinearCombinationIsTangentStatement
@@ -13,6 +11,7 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSectionIndexC
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ComplexEmbeddingSectionPullback
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarizedFibreHermitianRigidDataStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaFunctionRankBoundSetupStatement
+import Development.AbelianVarietyTheory.Definitions.Divisors.SecJets4
 
 namespace GlobalTheory.SecJetLem
 

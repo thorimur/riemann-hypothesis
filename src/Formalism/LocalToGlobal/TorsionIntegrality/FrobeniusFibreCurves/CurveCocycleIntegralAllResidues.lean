@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementW
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LawDifferenceThree
 

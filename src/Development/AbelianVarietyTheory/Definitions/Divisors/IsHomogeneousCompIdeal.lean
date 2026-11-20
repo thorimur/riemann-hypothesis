@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.CurveComp
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsProbabilityMeasureMuPart
 import Development.AbelianVarietyTheory.Definitions.Divisors.AevalEqZeroOfMemConeIdeal

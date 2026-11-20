@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairBaseIff
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagMat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndepOfIsEigBasis
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalAdaptedSections
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagMatrixOfAdaptedCoordinates

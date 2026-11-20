@@ -1,4 +1,3 @@
-import Formalism.FlagUnipotentLattices.LiftUnitaryFixesBase
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.LiftingDecomposition
 
 namespace Formalism.HermitianLatticeCounting.Final.S6

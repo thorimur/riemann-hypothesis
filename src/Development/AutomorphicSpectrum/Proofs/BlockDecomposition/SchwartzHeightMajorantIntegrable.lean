@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.RegularisedSiegelWeil.ThetaIdempotents.HeckeEta
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegrableOfMem
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperateMultiplierPreservesSchwartz
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ShAdd

@@ -1,5 +1,8 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatHensA
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.Smooth.IntegralClosure
 
 namespace PositivityTheory.HtPt.Htat.Hens
 

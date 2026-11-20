@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.CharacterGerms.IntSubst
+import Formalism.LocalToGlobal.CharacterGerms.Interface
+import Mathlib.RingTheory.PowerSeries.Basic
 
 noncomputable section
 

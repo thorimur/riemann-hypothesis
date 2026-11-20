@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GenericFiniteMaps
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.FinalTheorems
 open CategoryTheory AlgebraicGeometry TopologicalSpace Opposite Limits
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open GlobalTheory.LB (toMod)

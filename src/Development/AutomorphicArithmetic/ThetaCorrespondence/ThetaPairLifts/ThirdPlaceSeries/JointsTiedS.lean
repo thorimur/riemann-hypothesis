@@ -1,7 +1,5 @@
-import Formalism.LocalToGlobal.RatioJoints.CharacterProductEqOne
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.LinkedFamiliesFixedValues
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.RingSpecNormalisedCharacterEqAlt
+import Formalism.LocalToGlobal.RatioJoints.IsRatioAt
 
 set_option synthInstance.maxHeartbeats 200000
 

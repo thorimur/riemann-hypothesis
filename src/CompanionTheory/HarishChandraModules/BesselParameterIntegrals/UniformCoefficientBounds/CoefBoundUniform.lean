@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.PeriodIntegrals.QuotInv
 import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SmoothCyclicVectors.IntegralMemOfIsClosed
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
 
 open Matrix Filter Topology Set
 open scoped ContDiff InnerProductSpace

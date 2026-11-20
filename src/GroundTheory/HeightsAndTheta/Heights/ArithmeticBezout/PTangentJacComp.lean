@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsTangentJacComp
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.RingTheory.Complex
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

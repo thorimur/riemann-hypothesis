@@ -1,7 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.ExistsDvdQKPowSubOne
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.UnrExtC
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.UnrExtD
 import Development.AbelianVarietyTheory.Definitions.Divisors.TwOrbMEqTwOrbUOfNormal
 open ReciprocityTheory.DiscreteGroups.LocalClassField GlobalTheory.LKRes
 

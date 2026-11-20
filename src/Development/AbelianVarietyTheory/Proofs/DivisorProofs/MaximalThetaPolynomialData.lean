@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsMaxThOne
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeSocleOverOfSimple
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StableComplementInSocleStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MaxThetaVanishingLocalStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MaxThetaVanishingGlobalStatement

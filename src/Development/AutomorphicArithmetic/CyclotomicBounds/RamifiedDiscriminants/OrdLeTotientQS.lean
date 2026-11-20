@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.HostFacts
 import Development.AutomorphicArithmetic.CyclotomicBounds.RamifiedDiscriminants.OrdLeQS
 
 theorem UpperTheory.Ram.ord_le_totient_QS :

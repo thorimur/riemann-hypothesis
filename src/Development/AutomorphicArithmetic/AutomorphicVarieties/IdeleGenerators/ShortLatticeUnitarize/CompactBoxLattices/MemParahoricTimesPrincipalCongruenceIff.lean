@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.ShortLatticeUnitarize.Unitarize
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.KLevTop
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicLocalCompactness.AdeleLC
 
 open NumberField IsDedekindDomain GlobalTheory.CuspRep UpperTheory.V.Af Matrix
 

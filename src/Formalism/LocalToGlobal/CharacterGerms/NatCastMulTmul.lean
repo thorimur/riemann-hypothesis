@@ -1,5 +1,8 @@
-import Formalism.LocalToGlobal.CharacterGerms.CompleteOfBasis
-import Formalism.LocalToGlobal.CharacterGerms.DetNeZeroOfChars
+import Formalism.LocalToGlobal.CharacterGerms.RowTieUpFBrPl
+import Mathlib.NumberTheory.Padics.RingHoms
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 set_option autoImplicit false
 

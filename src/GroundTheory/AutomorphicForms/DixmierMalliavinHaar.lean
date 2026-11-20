@@ -1,5 +1,9 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.DixmierMalliavinHaarCoord
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
+import Mathlib.Analysis.Calculus.BumpFunction.Normed
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 namespace GroundTheory.Automorphic
 

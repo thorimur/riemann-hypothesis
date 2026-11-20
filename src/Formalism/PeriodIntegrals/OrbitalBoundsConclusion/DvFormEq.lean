@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SameFormAllLevels
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TraceFormEquality.FormEqImage
 
 theorem division_form_eq : PI.Dv.SameFormAllLevels := by

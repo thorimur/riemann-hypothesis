@@ -1,7 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSERDSPair
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.WCellMemOmPlus
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ActualAdjointnessFromHermitian
-import Formalism.FormalDegreeBessel.FormalDegreeRatio.BFCell
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.LiftClosedUnderOperations
 
 noncomputable section
 

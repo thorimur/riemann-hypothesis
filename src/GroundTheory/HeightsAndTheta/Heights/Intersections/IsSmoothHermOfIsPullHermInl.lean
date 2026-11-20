@@ -1,9 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsArith
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ProjLineRankTwoPushforwardHypotheses
-import GroundTheory.HeightsAndTheta.Heights.Intersections.IsSmoothHermTensor
-import GroundTheory.HeightsAndTheta.Heights.Intersections.StProjBundleArith
-import GroundTheory.HeightsAndTheta.Heights.Intersections.StProjBundleFibre
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.RationalSections.IsRatSectionOn
 set_option maxSynthPendingDepth 1
 
 noncomputable section

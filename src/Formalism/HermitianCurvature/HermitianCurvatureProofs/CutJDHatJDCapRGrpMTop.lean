@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapRGrpMRad
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapRGrpPTop
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.SumDualVectorEqZeta
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

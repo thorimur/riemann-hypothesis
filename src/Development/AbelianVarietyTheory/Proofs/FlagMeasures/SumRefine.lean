@@ -1,4 +1,6 @@
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.Cint
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Tactic.ENatToNat
 
 namespace GlobalTheory.SumRefinement
 

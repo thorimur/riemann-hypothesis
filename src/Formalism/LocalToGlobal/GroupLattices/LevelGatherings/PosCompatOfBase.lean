@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.GroupLattices.LevelGatherings.LevelGatherings
 import Formalism.LocalRingCardinality.DataKerI
+import Formalism.LocalToGlobal.GroupLattices.LevelGatherings.SecPsiMulPow
 
 noncomputable section
 

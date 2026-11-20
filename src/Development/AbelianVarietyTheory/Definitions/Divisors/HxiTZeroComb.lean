@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.PullHlComp
 import Development.AbelianVarietyTheory.Definitions.Divisors.NotCompactOfMEqOne
 import Development.AbelianVarietyTheory.Definitions.Divisors.DetJacMatCoordsEqTransitionJacobianDet
-import Development.AbelianVarietyTheory.Definitions.Divisors.AltPullApply
 import Development.AbelianVarietyTheory.Definitions.Divisors.CircleAsphGNontrivial
 
 noncomputable section

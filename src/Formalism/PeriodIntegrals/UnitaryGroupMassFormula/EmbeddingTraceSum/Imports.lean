@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.EmbTraceSum
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace PI.EmbTraceSumWork
 

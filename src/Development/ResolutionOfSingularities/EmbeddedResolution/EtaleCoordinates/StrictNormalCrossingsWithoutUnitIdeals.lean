@@ -1,7 +1,5 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.EtaleCoordinates.CoordinateDivisorSmoothness
-import Development.ResolutionOfSingularities.EmbeddedResolution.EtaleCoordinates.EtaleChartExistence
-import Development.ResolutionOfSingularities.EmbeddedResolution.EtaleCoordinates.StrictNormalCrossings
+import Std.Tactic.BVDecide.Normalize.BitVec
 universe u
 
 open CategoryTheory AlgebraicGeometry

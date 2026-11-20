@@ -1,5 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.StandardChartsLineOne
 import Development.EtaleCohomology.EtaleSheaves.ChartsPf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC LateralTheory.E.t_E2Cut

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.EigenvalueEndgame.SignatureSplitting.RightOfFd
 
 theorem UpperTheory.Reformulated.B.ConjugateSubgroup.conj_sub :

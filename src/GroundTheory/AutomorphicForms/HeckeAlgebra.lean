@@ -1,6 +1,9 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HaarCosets
 import GroundTheory.AutomorphicForms.SmoothRep
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.PiTensorProduct
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

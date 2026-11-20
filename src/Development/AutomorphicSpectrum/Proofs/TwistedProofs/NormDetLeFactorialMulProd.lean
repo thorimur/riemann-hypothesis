@@ -1,5 +1,12 @@
-import Mathlib
 import Formalism.LatticeRigidity.HeightMinimum.PackingCountGeometricMean
+import Mathlib.Analysis.Distribution.SchwartzSpace.Basic
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Matrix
 open scoped ENNReal

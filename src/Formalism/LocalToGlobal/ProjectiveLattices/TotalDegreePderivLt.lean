@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.PowMapMemOfPowMulMem
 import ReciprocityTheory.SemistableReduction.AlgAll
-import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.DerAeval
 
 set_option autoImplicit false
 

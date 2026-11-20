@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.Columns.TwQLift
+import Formalism.LocalToGlobal.Columns.TwQDefs
 
 open NumberField IsDedekindDomain Matrix
 open scoped TensorProduct

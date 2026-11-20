@@ -1,5 +1,5 @@
 import Formalism.FrobeniusBaseCase.StatementFix
-import Formalism.FrobeniusBaseCase.FrobeniusBaseCaseProofs.BaseCaseFalseGeneralHolds
+import Formalism.FrobeniusBaseCase.FrobeniusBaseCaseProofs.SecondWayHolds
 
 open MvPowerSeries
 

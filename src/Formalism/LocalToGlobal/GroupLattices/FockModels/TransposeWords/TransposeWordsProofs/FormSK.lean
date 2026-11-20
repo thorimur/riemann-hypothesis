@@ -1,4 +1,8 @@
 import Formalism.LocalToGlobal.GroupLattices.FockModels.TransposeWords.FormSK
+import Formalism.LocalToGlobal.GroupLattices.FockModels.TransposeWords.DualWeylIn
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open MvPolynomial
 

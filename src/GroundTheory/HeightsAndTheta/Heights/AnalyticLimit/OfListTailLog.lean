@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Assembly
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PListProductMass
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PListTailLog
@@ -11,6 +10,7 @@ import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PWeightCocycle
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PPolynomialInWeights
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Imports
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PPropertyF
+import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Convergence
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.AnalyticLimit

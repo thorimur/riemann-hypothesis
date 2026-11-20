@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ZariskiLocal
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.FormalLimit
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.HasExtInstances
+import Mathlib.AlgebraicGeometry.Morphisms.Proper
+import Mathlib.AlgebraicGeometry.QuasiAffine
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

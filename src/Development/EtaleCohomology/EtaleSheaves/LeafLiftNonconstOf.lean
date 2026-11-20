@@ -1,5 +1,7 @@
 import Development.EtaleCohomology.EtaleSheaves.QuotientFieldNonconstantLift
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.RingKrullDimQuotientEqOfMemMinimalPrimes
+import Mathlib.AlgebraicGeometry.AlgClosed.Basic
+import Mathlib.AlgebraicGeometry.QuasiAffine
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry LateralTheory.E.E4

@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.InertJacobiLevels.TieTTwValsOfMem
+import Formalism.SharpRestriction.InertJacobiLevels.VVEqEmptyOfNotIsResidueClassZero
 
 noncomputable section
 

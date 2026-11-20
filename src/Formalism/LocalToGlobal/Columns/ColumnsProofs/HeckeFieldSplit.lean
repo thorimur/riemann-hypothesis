@@ -1,7 +1,8 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.ColumnsProofs.HFSCoef
-import Formalism.LocalToGlobal.Columns.PathCountSymmetricHolds
 import Formalism.LocalToGlobal.Divisibility.LiftLatInst
+import Formalism.LocalToGlobal.Columns.ColumnsProofs.HFSData
+import Formalism.LocalToGlobal.Columns.ColumnsProofs.HFSSplit
+import Formalism.LocalToGlobal.Columns.HeckeInert
 
 open Module NumberField IsDedekindDomain Polynomial
 

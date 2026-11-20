@@ -1,5 +1,4 @@
 import Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.WeilGroupRestriction.IwahoriCompatibilityOfChains
-import Development.WeilBound.CoreStatements.SatakeConjugation.CsdIff
 import Development.WeilBound.CoreStatements.SatakeConjugation.ThetaTwPf
 import Development.WeilBound.CoreStatements.SatakeConjugation.ConjPl
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasSatGLOfInvT

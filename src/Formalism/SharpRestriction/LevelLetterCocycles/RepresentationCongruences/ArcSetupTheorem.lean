@@ -1,5 +1,3 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.AdmBoundsBOfAdm
-import Formalism.SharpRestriction.LevelLetterCocycles.CrystallineLiftingBounds
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.LenTLeThree
 
 noncomputable section

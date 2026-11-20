@@ -1,5 +1,5 @@
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsMultiHomogeneousFixFirstBlock
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Statements
+import Development.AbelianVarietyTheory.Definitions.Divisors.IrreducibleOfIrreducibleMap
 
 open MvPolynomial
 

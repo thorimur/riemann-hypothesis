@@ -1,4 +1,8 @@
 import Development.AbelianVarietyTheory.Definitions.Foundations.CosetTrace
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
 open GlobalTheory.AlmostEt
 open scoped NNReal
 

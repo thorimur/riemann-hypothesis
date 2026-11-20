@@ -1,4 +1,3 @@
-import Formalism.WachLatticeTwists.WachProductBases.Statement
 import Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.FreeMembershipHeightOne
 import Formalism.CoboundaryTransfers.GammaStableTransfers.GammaStableOfGammaQUnitHolds
 

@@ -1,11 +1,6 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.Weights
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.LineModel
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.LineMu
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.CpRegPhRegOfNonneg
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FlagIndices.InstFintypeFlIdx
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsDimX
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsZhangLowerX
+import Mathlib.Data.Rat.Star
 set_option maxSynthPendingDepth 1
 
 noncomputable section

@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.ProperActionOrbitMeasure
 open MeasureTheory Topology
 open scoped ENNReal NNReal Matrix

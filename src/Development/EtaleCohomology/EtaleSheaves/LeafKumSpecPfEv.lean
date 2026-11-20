@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.EtaleSheaves.LeafKumSpecPf
+import Development.AbelianVarietyTheory.Definitions.Divisors.PullHlComp
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex GlobalTheory.EtC

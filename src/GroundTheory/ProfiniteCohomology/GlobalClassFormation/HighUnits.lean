@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.HighUnitsLocal
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.EqZeroOfBrauerLocalApplyEqZero
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

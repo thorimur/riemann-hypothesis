@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TprodMemTensSpan
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorPlaceActionInjective
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MinFirst
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TprodMemDegLE
 open scoped TensorProduct
 
 noncomputable section

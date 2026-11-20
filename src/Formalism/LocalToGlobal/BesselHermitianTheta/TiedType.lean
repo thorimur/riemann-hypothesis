@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.BesselHermitianTheta.TiedSmooth
-import Formalism.LocalToGlobal.BesselHermitianTheta.NoncompactGapAtLeastRange
 
 noncomputable section
 

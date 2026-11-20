@@ -1,9 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseKummerDefs
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.EqZeroOfBrauerLocalApplyEqZero
-import GroundTheory.ProfiniteCohomology.GaloisCohomology.IsZeroGroupCohomologyQuotientToInvariantsGalAdd
-import GroundTheory.ProfiniteCohomology.Characters
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BrauerSplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

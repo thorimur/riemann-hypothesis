@@ -1,7 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.CoefMod
-import Formalism.HarderNarasimhan.QuotRealize
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.MeanMaxLeaf.LeafMMFree
+import Mathlib.NumberTheory.NumberField.CMField
 
 open NumberField
 open scoped Matrix ComplexOrder

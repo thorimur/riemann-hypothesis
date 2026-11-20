@@ -1,4 +1,7 @@
 import Formalism.HermitianCurvature.BigCellVanishingOfCommute
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Formalism.FourierDecayAlt Finset
 

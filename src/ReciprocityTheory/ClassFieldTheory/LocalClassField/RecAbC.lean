@@ -1,10 +1,5 @@
-import Mathlib
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecPairDefs
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecPair
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecCyclic
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecFunct
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.GabLim
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.NormOpen
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField
 

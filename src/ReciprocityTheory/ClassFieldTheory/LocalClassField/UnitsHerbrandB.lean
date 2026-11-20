@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.UnitsHerbrandA
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt

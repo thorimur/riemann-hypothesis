@@ -1,4 +1,8 @@
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.OntoStatementPfH
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.MeasureTheory.Function.L2Space
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.FundSetMeasStatement
 
 namespace ReciprocityTheory.ChartRestriction.G.AR.Up.OntoI
 

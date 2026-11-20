@@ -1,10 +1,8 @@
 import Formalism.LocalToGlobal.IndefiniteReal.ConcretePkgSpec
-import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.ExampleSatisfiesConditionsAtFive
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.ONLeaves
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.ONPage
 import Formalism.LocalToGlobal.Divisibility.Numbers
 import Formalism.LocalToGlobal.Columns.AdelicLemmas
-import Formalism.LocalToGlobal.Divisibility.DefGroupLemmas
 
 open Module NumberField IsDedekindDomain
 

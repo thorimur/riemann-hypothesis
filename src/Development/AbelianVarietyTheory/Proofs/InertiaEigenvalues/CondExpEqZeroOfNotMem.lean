@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LocFacOfNeg
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PsiLocConductorEventually
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.UnipMulMemCell
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdelicUnitriangularMulMemUnipotentTimesIntegral
 
 noncomputable section
 

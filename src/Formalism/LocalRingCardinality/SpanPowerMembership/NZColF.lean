@@ -1,4 +1,4 @@
-import Formalism.LocalRingCardinality.SpanPowerMembership.NZColE
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZColD
 
 noncomputable section
 

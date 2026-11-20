@@ -1,8 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.ConcreteSettingExists
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.NotInhAbsOfGamLe
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ChainParSucc
-import Formalism.LocalRingCardinality.HeightBoundGeFourthPowerRank
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.VanishingGramTermsBoundParams
 open Formalism.BasicNotions Formalism.MainNotions.S GlobalTheory.Core.Rk
 
 namespace GlobalTheory.Core.Rk.HdGap

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPreChain
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UltrametricCoefficientBound
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PresentationMapMono
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PullbackPreservesLineBundleFlag
 

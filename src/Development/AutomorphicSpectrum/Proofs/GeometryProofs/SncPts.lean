@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.IsSncPatchRat
 
 noncomputable section

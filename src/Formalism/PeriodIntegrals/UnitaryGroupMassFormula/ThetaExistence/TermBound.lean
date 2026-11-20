@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.ThGExist
+import Formalism.PeriodIntegrals.ThGDefs
 
 namespace PI.ThGW
 

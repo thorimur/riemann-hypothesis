@@ -1,8 +1,6 @@
-import Mathlib
 import Formalism.UnipotentAdelicQuotients.ThmBInHecke
 import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms.BaseChange
 import GroundTheory.GlobalFields.Adele.Approximation
-import GroundTheory.GlobalFields.Adele.BaseChange.FiniteTensor
 set_option maxSynthPendingDepth 1
 
 noncomputable section

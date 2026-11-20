@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePFBMapSt
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.CocycleRightZeroThd
 
 set_option autoImplicit false
 

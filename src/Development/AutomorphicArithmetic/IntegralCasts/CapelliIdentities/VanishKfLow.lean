@@ -1,16 +1,4 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataSpaces
-import Formalism.LocalRingCardinality.DataRows
-import Formalism.FormalDegreeBessel.StatementG
-import Formalism.LocalToGlobal.BesselHermitianTheta.IsAutFunDef
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalToGlobal.IndefiniteReal.ScalarOnPartsFull
-import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GenusMassVolumes
 import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
-import Formalism.LocalRingCardinality.DataHost
-import Formalism.LocalRingCardinality.Params
-import Formalism.LocalRingCardinality.DataTheta
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MultilinearVanishLattice
 
 noncomputable def UpperTheory.Reformulated.B.LowTypeThetaMapVanishing.KfLow :

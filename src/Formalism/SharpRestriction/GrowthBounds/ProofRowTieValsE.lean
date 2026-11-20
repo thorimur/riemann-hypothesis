@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.ProofRowTieValsCg
+import Formalism.LocalToGlobal.CharacterGerms.LinearCoeffExponentialEqIte
+import Formalism.LocalToGlobal.CharacterGerms.RowTieValK
 
 noncomputable section
 

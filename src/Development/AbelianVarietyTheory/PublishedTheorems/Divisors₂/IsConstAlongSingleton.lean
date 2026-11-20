@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsSquareIntegrableIffMemL2
+import Mathlib.Topology.Algebra.Group.Matrix
 
 noncomputable section
 

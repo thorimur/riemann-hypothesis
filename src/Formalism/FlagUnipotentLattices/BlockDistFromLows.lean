@@ -1,4 +1,4 @@
-import Formalism.FlagUnipotentLattices.QDetNegTranspose
+import Formalism.FlagUnipotentLattices.MemLpTwoOfOneTop
 
 open Finset MeasureTheory Filter Topology TensorProduct
 

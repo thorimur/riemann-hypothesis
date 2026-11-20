@@ -1,9 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.RowLat
 import Formalism.QuotientMetricDivisors.DivIntoDualShift
-import Formalism.QuotientMetricDivisors.ScalarLiftLowerBoundFull
-import Formalism.ThetaSupremumBounds.DivIneqExplicit6
 import Formalism.ThetaSupremumBounds.StatementCB
+import Formalism.LocalToGlobal.IndefiniteForms.IndefSide
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

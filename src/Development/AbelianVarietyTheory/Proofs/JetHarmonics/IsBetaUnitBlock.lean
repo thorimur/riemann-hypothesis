@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.BlockPolyLevelMove
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ThExprUniqOfChartIndep2
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.BlockHarmLevOfBlockHarm
+import Development.AbelianVarietyTheory.Counterexamples.LevelGroupExamples.BaseClassMove
 
 set_option autoImplicit false
 

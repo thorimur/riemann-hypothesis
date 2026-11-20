@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ZariskiNoetherianInduction
 
 open TopologicalSpace PrimeSpectrum

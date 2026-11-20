@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.RegConst
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaAtMove
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TupleMatch
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GridFramesDoublingPolynomialExistsStatement
@@ -10,6 +8,11 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.XiAwayIm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPowClose
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ImportsRestRest
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GlResidueSurjective
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MixedModelVacuumEqIntegralMatrixIndicatorStatement
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MixedModelVacuumEqSmulIntegralMatrixIndicatorStatement
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MixglobA
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NegWLocalFunctionsThetaPureTensorStatement
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NotMemOfStanding
 
 section
 

@@ -1,6 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Statements
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Statements
+import Mathlib.RingTheory.MvPowerSeries.Inverse
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.PowerSeries.NoZeroDivisors
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementH
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.Herglotz
 
 namespace Formalism.FourierDecayAlt.P.Fejer

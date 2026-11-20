@@ -1,5 +1,5 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuadraticFormTwoTwo.InLieW
 import Formalism.FormalDegreeBessel.FinalG
+import Formalism.HermitianCurvature.StatementQ
 
 open Matrix Finset
 open scoped ContDiff

@@ -1,5 +1,6 @@
 import Development.EtaleCohomology.DivisorCycles.CycleCount
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.NormalizedMatrixSpan
+import Mathlib.Tactic.Polynomial.Basic
 
 open Matrix
 

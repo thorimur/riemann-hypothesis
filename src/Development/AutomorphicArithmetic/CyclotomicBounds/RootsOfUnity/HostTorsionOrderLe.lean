@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataHost
 import Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.Monomial
 

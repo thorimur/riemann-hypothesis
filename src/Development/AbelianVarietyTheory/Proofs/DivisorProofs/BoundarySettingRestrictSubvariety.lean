@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SecondChernDensity
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalChartBoundaryRegularStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightLowerStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightUpperStatement

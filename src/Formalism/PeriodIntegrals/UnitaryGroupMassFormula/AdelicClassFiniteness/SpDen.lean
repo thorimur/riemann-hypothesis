@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.PartSplitOfOne
+import Mathlib.Data.Int.Star
 
 noncomputable section
 

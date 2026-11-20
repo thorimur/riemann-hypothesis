@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.LocalFiniteness.UniformIntegrabilityProportionalityHolds
 import GroundTheory.HeightsAndTheta.Heights.LocalFiniteness.TargetsProjFullRankMeetsRegular
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PChartDivisorCompare
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PSegreChartIntegralPoints

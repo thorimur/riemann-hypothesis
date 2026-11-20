@@ -1,6 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.UnivChar
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGeoHalfMove
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ExistsIsScalar
+import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.HeckePin
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.FactTypePrime
+import Formalism.LocalToGlobal.IndefiniteReal.WeakCharacterisationWithError
 
 set_option autoImplicit false
 

@@ -1,9 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualGeomDegCharts
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsChartDensityIntegrable
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualPtsOfPlane
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualPtsOnPlane
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStdMassAt
+import Mathlib.RingTheory.PicardGroup
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

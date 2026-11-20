@@ -1,7 +1,10 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.HeckeFr
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.FibrePushforward
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.IsReducedAlgebraOfSmoothOfIsNoetherianRing
+import Mathlib.AlgebraicGeometry.AlgClosed.Basic
+import Mathlib.AlgebraicGeometry.Morphisms.WeaklyEtale
+import Mathlib.AlgebraicGeometry.Sites.Fpqc
+import Mathlib.CategoryTheory.ExtremalEpi
 
 noncomputable section
 

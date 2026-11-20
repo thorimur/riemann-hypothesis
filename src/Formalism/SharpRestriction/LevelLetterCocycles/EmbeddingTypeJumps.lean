@@ -1,9 +1,4 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataParams₂
-import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
-import Formalism.WeaklyAdmissibleFiltrations.StatementTor
-import Formalism.GaloisCohomology.Statement
-import Formalism.SharpRestriction.LevelLetterCocycles.LocalSituation
 import Formalism.SharpRestriction.LevelLetterCocycles.DecompositionData
 import Formalism.SharpRestriction.LevelLetterCocycles.ElementDenominator
 

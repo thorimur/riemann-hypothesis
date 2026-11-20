@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.SpectralGeometry.CountingDefinitions.AdelicEulerProducts.IsEulerProd
 import GroundTheory.GlobalFields.TateThesis.AdeleScaling
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalJacobianType.BoxMulA

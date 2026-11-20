@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.EtaleCompletion.ModulesPullback
+import Mathlib.AlgebraicGeometry.Morphisms.Etale
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.Etale

@@ -1,7 +1,8 @@
-import Development.WeilBound.ThetaLifts.LatticeBasics.BadFactor
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.SplitStab
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.IsLatRepL
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.ThetaBasicK
+import Development.WeilBound.ThetaLifts.LatticeBasics.HodgeTateFromSandwich
+import Development.WeilBound.ThetaLifts.LatticeBasics.SchrUnit
+import Development.WeilBound.ThetaLifts.LatticeBasics.Unfold0
+import Development.WeilBound.ThetaLifts.LeviDeterminants.CharacterAdmissibility.AdelInt
 
 set_option synthInstance.maxHeartbeats 200000
 

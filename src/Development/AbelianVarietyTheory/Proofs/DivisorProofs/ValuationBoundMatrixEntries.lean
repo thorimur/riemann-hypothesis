@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTriSelf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatrixNormFirstColumnStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatrixNormInvariantUnimodularStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatrixNormBlockReductionStatement

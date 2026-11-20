@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.LocalFields.BrauerInductionLocal
+import GroundTheory.LocalFields.BrauerInductionElementary
+import Mathlib.Algebra.Group.ConjFinite
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 noncomputable section
 

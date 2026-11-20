@@ -1,7 +1,19 @@
-import Mathlib
-import Formalism.CoboundaryTransfers.Statement
-import Formalism.WeaklyAdmissibleFiltrations.Statement
 import Formalism.WeaklyAdmissibleFiltrations.StatementPC
+import Mathlib.Algebra.GroupWithZero.Submonoid.CancelMulZero
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Normed.Field.Instances
+import Mathlib.Data.Int.Star
+import Mathlib.NumberTheory.Padics.Complex
+import Mathlib.RingTheory.Perfection
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.PowerSeries.Derivative
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.Compare
+import Mathlib.RingTheory.WittVector.DiscreteValuationRing
+import Mathlib.RingTheory.WittVector.Teichmuller
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

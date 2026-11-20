@@ -1,6 +1,7 @@
 import Formalism.YangianSpanCharacter.StatementF
-import Formalism.YangianSpanCharacter.YangianRTTProofs.SymplecticTransposeEntryZeroOne
 import Formalism.YangianSpanCharacter.YangianRTTProofs.DiagonalEntryEqOfModularRelation
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.YangianSpanCharacter.P
 

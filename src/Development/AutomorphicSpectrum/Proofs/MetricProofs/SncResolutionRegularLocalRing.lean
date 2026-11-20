@@ -1,7 +1,9 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.FiniteMinimalPrimes
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChart
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterPCProof
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsSncModel
+import Mathlib.Algebra.DualNumber
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterMinor
 
 noncomputable section
 namespace GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Reg

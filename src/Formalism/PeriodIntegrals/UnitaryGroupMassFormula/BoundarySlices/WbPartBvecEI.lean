@@ -1,5 +1,4 @@
-import Formalism.PeriodIntegrals.BordSlice
-import Formalism.FormalDegreeBessel.FormalDegreeRatio.GBasic
+import Formalism.FormalDegreeBessel.StatementBF
 
 open Matrix
 

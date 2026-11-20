@@ -1,7 +1,15 @@
-import Formalism.LocalToGlobal.ClassS
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.RingSpecNormalisedCharacterEqAlt
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.NGalTied
+import Formalism.LocalToGlobal.GroupLattices.Joint0
+import Formalism.LocalToGlobal.GroupLattices.StdSubAtOfRing
+import Formalism.LocalToGlobal.HermitianForms.ExtraSym
+import Formalism.LocalToGlobal.HilbertRowConditions.KaTiedIffKapDef
+import Formalism.LocalToGlobal.HilbertRowConditions.TiedEMt
+import Formalism.LocalToGlobal.JointCharacters.SameChr
+import Formalism.LocalToGlobal.LatticeGeometry.GeoTiedP
+import Formalism.LocalToGlobal.UnitaryNorms.JointCut
+import Formalism.SharpRestriction.Divisibility.SmallFirstModulusBelowScale
+import Formalism.SharpRestriction.LevelLetterCocycles.AlignN
+import Formalism.SharpRestriction.PageFix
 
 set_option synthInstance.maxHeartbeats 200000
 

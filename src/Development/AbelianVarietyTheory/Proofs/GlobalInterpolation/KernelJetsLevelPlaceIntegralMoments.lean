@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.LatIntZero
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.TranslateMomentsAll
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.JetMomentsOfUnitPeriod
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.EqAndAlg
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LatticeFactsAll

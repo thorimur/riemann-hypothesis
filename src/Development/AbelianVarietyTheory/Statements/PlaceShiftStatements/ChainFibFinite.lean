@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.IwSemistable
+import Development.AbelianVarietyTheory.Definitions.Divisors.Subsingleton
 
 noncomputable section
 

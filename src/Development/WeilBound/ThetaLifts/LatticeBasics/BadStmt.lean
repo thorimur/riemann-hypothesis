@@ -1,6 +1,5 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.LatticeBasics.HodgeTateFromSandwich
-import Development.WeilBound.ThetaLifts.LatticeBasics.BoxSecX
+import Development.WeilBound.ThetaLifts.LatticeBasics.HypothesesX
 
 noncomputable section
 

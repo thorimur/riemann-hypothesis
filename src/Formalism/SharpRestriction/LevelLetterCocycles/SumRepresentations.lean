@@ -1,7 +1,6 @@
 import Formalism.ConjugateSelfDual.StatementRest
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
-import ReciprocityTheory.GaloisValuations.SeparatedDvrSecondCohomologyMem
 
 noncomputable section
 

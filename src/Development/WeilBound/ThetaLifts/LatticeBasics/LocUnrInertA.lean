@@ -1,7 +1,6 @@
-import Development.WeilBound.ThetaLifts.LatticeBasics.HodgeTateFromSandwich
-import Development.WeilBound.CoreStatements.LocalThetaKernels.IwasMain
 import Development.WeilBound.CoreStatements.LocalThetaKernels.LocpairAlg
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharactersAgreeInertUnramified
+import Development.WeilBound.CoreStatements.LocalThetaKernels.IwasAd
+import Development.WeilBound.ThetaLifts.LatticeBasics.Hypotheses2
 
 noncomputable section
 

@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.Generation
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.ModulesAbExact
+import Mathlib.AlgebraicGeometry.Morphisms.Finite
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

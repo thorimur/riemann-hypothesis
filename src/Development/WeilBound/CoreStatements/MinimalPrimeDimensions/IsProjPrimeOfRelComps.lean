@@ -1,5 +1,6 @@
 import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.MemMinimalPrimesIff
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.LowerBoundConditional
+import Mathlib.Order.CompletePartialOrder
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option autoImplicit false
 

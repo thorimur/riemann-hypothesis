@@ -1,4 +1,4 @@
-import GroundTheory.AutomorphicForms.AutomorphicFormSpaces
+import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.HasModerateGrowthZero
 
 noncomputable section
 

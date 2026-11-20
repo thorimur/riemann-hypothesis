@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.ExpDefs
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

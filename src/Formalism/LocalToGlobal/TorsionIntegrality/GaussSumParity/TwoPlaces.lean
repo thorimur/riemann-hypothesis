@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.RelativeThetaFactorization
+import Formalism.GaussJetBounds.StatementW
+import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementB
 
 noncomputable section
 open scoped BigOperators

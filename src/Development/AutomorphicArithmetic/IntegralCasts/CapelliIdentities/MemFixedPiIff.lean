@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.FixedSubgroup
 
 @[reducible] noncomputable def UpperTheory.Reformulated.B.Gr29.Plc :

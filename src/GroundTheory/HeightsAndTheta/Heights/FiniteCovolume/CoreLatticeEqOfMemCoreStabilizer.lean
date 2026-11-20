@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.DefiniteClassNumber.AdelicLattice
 
 set_option linter.unusedSectionVars false

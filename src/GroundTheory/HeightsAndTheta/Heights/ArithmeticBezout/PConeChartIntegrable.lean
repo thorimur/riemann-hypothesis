@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeChartIntegrable
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeIntegralComponents
 set_option maxSynthPendingDepth 1

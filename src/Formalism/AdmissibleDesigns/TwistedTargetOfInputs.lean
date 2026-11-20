@@ -1,5 +1,5 @@
 import Formalism.AdmissibleDesigns.YtTargetOf
-import Formalism.WachLatticeTwists.CoprimeLiftBounds.CoprimeLiftProofs.FirstSummandActionMem
+import Mathlib.Algebra.NoZeroSMulDivisors.Pi
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

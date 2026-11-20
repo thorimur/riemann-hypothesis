@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.RealPlaceAnalysis.SmoothOnGVIff
-import Formalism.FormalDegreeBessel.StatementG
+import Mathlib.RingTheory.PicardGroup
 open Matrix
 
 noncomputable section

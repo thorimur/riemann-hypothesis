@@ -1,7 +1,7 @@
 import Formalism.WachLatticeTwists.CharacterSplitJumps.CharacterJumpProofs.MemAnnih
-import Formalism.WachLatticeTwists.HodgeTateChains.CorrectedHypothesisWConsequences
-import Formalism.WachLatticeTwists.CoprimeLiftBounds.CoprimeLiftProofs.FirstSummandActionMem
-import Formalism.WachLatticeTwists.CoprimeLiftBounds.CoprimeLiftProofs.TheoremNFiveDeltaClause
+import Formalism.WachLatticeTwists.CharacterSplitJumps.Statement
+import Formalism.WachLatticeTwists.HodgeTateChains.HodgeTateFiltrations.CycLen
+import Formalism.WachLatticeTwists.HodgeTateChains.HodgeTateFiltrations.TwistKill
 
 open Finset Classical
 

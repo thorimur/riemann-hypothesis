@@ -1,5 +1,5 @@
-import Development.DiscreteGroups.GlobalIrreducibility.LConvCut
 import GroundTheory.LocalFields.Uniqueness
+import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.HasExponentZeroIff
 
 noncomputable section
 

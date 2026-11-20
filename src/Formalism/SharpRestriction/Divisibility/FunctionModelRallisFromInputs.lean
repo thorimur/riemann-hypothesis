@@ -1,9 +1,4 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalRingCardinality.DataTheta
-import Formalism.SharpRestriction.Divisibility.SchurIrreducible
 import Formalism.SharpRestriction.Divisibility.ZetaProductPairs
-import Formalism.SharpRestriction.LevelLetterCocycles.TwGood
 
 noncomputable section
 

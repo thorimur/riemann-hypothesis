@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLineDegreeDual
 set_option maxSynthPendingDepth 1
 

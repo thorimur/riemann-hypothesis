@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeFibreAverage
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeMassOfFibre
+import Mathlib.Analysis.InnerProductSpace.NormDet
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

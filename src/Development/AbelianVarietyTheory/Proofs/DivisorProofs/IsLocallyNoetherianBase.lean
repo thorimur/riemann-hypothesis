@@ -1,11 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ActMatApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsChartOfMaximal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentSheafLocalModelBundle
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentSectionsFormFrame
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OmegaMapStatement
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalSystemModelMap
-import Development.AbelianVarietyTheory.Counterexamples.ModuliSurvey.RangeJSubsetAbLocus
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalModelLettersPresentation
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 400000

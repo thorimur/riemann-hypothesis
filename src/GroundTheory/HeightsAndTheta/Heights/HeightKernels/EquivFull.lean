@@ -1,8 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.Statements
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.IsSiegelReducedCoordinates
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.IsLatticeBundle
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ExtendedDataRemainder
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.SingleMemIdealLattice
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.RangeInclSaturated
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ExistsSmulEqSmulOfFinrankOne

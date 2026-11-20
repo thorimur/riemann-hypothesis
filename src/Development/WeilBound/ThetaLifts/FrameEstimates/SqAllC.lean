@@ -1,4 +1,3 @@
-import Development.WeilBound.ThetaLifts.FrameEstimates.SquareIntegrableWeilRange
 import Development.WeilBound.ThetaLifts.FrameEstimates.Parity
 
 noncomputable section

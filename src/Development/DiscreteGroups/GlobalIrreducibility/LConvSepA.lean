@@ -1,5 +1,4 @@
-import Mathlib
-import Development.DiscreteGroups.GlobalIrreducibility.LConvSepF
+import Development.DiscreteGroups.GlobalIrreducibility.LConvSepM
 
 noncomputable section
 

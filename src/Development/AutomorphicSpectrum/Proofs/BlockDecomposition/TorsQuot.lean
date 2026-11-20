@@ -1,6 +1,5 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.WittExactSequences.IsCompl
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PfFacts
+import Mathlib.RingTheory.PiTensorProduct
 
 open TensorProduct CrystallineSemistableComparison.D
 open scoped LaurentPolynomial

@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.LocalRingCardinality.Params
 import Formalism.ThetaLiftIndependence.Statement
+import Mathlib.RingTheory.PiTensorProduct
 
 namespace Formalism.BasicNotions
 

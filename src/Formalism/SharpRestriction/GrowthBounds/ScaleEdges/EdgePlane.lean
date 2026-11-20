@@ -1,6 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.ManyEdges
 import Formalism.SharpRestriction.GrowthBounds.LatticeSystems
-import Formalism.SharpRestriction.GrowthBounds.WittFrameLocaliserOrders
+import Formalism.SharpRestriction.GrowthBounds.ObjBridge
 
 noncomputable section
 

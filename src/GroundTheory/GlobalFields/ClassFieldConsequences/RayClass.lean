@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.ClassFieldConsequences.CongruenceSubgroupLeStandardOpenSubgroup
+import GroundTheory.GlobalFields.TateThesis.HeckeCharRayClass
 
 open Topology Filter NumberField IsDedekindDomain Function
 open scoped NumberField.AdeleRing

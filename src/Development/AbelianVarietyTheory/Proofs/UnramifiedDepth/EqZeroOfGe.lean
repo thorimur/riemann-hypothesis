@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.Interface
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open scoped BigOperators
 open Formalism.L2.FormalSeriesBounds

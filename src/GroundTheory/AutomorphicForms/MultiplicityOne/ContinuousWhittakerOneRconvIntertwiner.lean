@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.MultiplicityOne.Functional
+import Mathlib.LinearAlgebra.SymmetricAlgebra.Basis
+import Mathlib.LinearAlgebra.TensorAlgebra.Basis
 
 open MeasureTheory Set Filter Topology Function
 open NumberField IsDedekindDomain

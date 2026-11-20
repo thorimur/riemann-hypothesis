@@ -1,8 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.InfUniv
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsObjMap
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ObjMapCompAlt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LbIsoPullCompOfEq
+import Mathlib.RingTheory.DualNumber
 
 noncomputable section
 

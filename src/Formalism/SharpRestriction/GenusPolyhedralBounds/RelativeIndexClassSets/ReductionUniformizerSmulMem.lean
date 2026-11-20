@@ -2,6 +2,7 @@ import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.Z
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HasseOrdBd
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HassePresH
 import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.FinitePtsOfCurve
+import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ThetaLeMsupOfSetC
 
 noncomputable section
 

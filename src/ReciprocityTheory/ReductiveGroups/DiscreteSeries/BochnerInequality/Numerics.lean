@@ -1,4 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.NumRho
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

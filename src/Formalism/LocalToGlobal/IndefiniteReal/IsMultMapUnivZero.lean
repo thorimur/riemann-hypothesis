@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.IndefiniteReal.RecTie
-import Formalism.LocalToGlobal.IndefiniteReal.ConcretePkgSpec
 import Formalism.LocalToGlobal.IndefiniteReal.LinksW
 import Formalism.LocalRingCardinality.DataRRMetric
 import Formalism.LocalToGlobal.IndefiniteReal.ConjSubConjSub

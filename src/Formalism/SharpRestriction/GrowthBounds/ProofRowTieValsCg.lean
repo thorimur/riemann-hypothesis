@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.ProofRowTieValsDef
+import Formalism.LocalToGlobal.CharacterGerms.RowTieValCr
 
 noncomputable section
 

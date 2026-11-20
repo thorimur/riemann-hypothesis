@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GeometricLemmaCells
 import GroundTheory.AutomorphicForms.InductionParabolic
 set_option maxSynthPendingDepth 1

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsFlatLift
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechDeltaCupProduct
 
 set_option autoImplicit false

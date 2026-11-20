@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.DevissageDefs
+import GroundTheory.ProfiniteCohomology.RealPlaces.CupSequence
 set_option maxSynthPendingDepth 1
 
 noncomputable section

@@ -1,9 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.GrowthBounds.ColumnSystems
 import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.RestBlockForm
-import Formalism.SharpRestriction.GrowthBounds.ObjSeg
-import Formalism.SharpRestriction.GrowthBounds.ObjPol
-import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FinalTheorems
 
 private theorem UpperTheory.Reformulated.B.SymmetricFamilySpan.prod_span_mem {R A ι : Type*} [CommSemiring R] [CommSemiring A] [Algebra R A]
     [Fintype ι] {V : ι → Type*} [∀ j, AddCommMonoid (V j)] [∀ j, Module R (V j)] (L : ∀ j, V j →ₗ[R] A)

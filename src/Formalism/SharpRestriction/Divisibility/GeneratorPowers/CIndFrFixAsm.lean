@@ -1,6 +1,4 @@
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.IsUnitCoeffZero
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ConstantCoeffAddFirstSecond
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CIndFrFix
 
 set_option autoImplicit false
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.SideFam
-import Development.AbelianVarietyTheory.Definitions.Jets.SumIoPr
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.CayleyExistsAndAny
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HaarUniquenessConjugation
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.UhMeasurableSet

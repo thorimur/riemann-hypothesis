@@ -1,9 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormsOfInduces
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatticeModelInducesRootMetric
-import Development.AbelianVarietyTheory.Definitions.Divisors.ReferenceMetricMulDualEqOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRationalCoordinatesExtendProjectiveSpace
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InducedMetricPullback
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoverFunctionFieldMapEq
 
 set_option autoImplicit false
 

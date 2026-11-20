@@ -1,6 +1,9 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AutomorphicKernels.MoriwakiBigness.HilbertSamuelApplications.SmallGeneratedCountUpperOfUse
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.HsLinksOfMoriwaki
+import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PZhangLowerX
+import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.RingKrullDimLocalizationInt
+import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.BigLineBundleMoriwaki
+import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.Imports
+import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.ImportsBis
 
 namespace GlobalTheory.CompanionTheory.Ar.Giv
 

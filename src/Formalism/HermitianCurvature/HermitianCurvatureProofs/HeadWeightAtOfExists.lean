@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CastVMulVecLift
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.DetCornerMatrixLevelZero
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.DwPt
 
 open Matrix MeasureTheory Finset
 open scoped ComplexConjugate ComplexOrder

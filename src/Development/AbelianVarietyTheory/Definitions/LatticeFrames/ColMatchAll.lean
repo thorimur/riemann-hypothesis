@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LatAtLattice
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.JetsInIffStepField
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ColHeightWith
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.PairLeIffPairHtLe
 
 noncomputable section
 

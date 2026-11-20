@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataParams
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.IsStepWeil
 
 noncomputable section

@@ -1,6 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.CechPairings.Imports
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.CapOComp
+import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.DpZeroRight
+import Mathlib.CategoryTheory.Monoidal.Mon
+import Mathlib.Tactic.ReduceModChar
 
 set_option backward.isDefEq.respectTransparency false
 set_option autoImplicit false

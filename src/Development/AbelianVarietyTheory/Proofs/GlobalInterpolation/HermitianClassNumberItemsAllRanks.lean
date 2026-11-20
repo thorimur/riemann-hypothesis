@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.GlobalTheory.GL5.PNamed
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ClassNumberFiniteAndGenusMassStatement
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.GenusMassStdAll
+import Formalism.LocalToGlobal.GlobalTheory.GL5.DiscreteSeriesOfFormalDegree
 open NumberField MeasureTheory Formalism.BasicNotions Formalism.MainNotions.StandardLattice Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes Formalism.L2.GlobalTheoryTheory.GenusMassVolumes
 attribute [local instance] Formalism.BasicNotions.Host.cmStar
 

@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.ReductionBoundsTorsion.ArithmeticGapBounds.PGapAng
+import Mathlib.Dynamics.Ergodic.Action.Regular
 
 noncomputable section
 

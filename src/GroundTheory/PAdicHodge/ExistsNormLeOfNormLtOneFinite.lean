@@ -1,9 +1,4 @@
-import Mathlib
 import GroundTheory.PAdicHodge.WAKummerLog
-import GroundTheory.PAdicHodge.BCrisRegularFinal
-import GroundTheory.PAdicHodge.BdRInvariants
-import GroundTheory.PAdicHodge.AxLemma
-import GroundTheory.PAdicHodge.FundamentalSeqSurj
 set_option maxSynthPendingDepth 1
 
 noncomputable section

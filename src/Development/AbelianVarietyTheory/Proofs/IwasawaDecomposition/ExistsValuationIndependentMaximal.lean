@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsValuationSubringCentre
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace GlobalTheory.GenPert
 

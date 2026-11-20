@@ -1,5 +1,4 @@
 import Development.AbelianVarietyTheory.Definitions.Divisors.DatumEquiv
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.KoszulLowersPower
 
 section
 

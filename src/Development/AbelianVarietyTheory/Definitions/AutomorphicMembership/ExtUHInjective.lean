@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.PredMemGamRanks
-import Formalism.LocalToGlobal.Columns.PolyFnLemmas
+import Formalism.LocalToGlobal.Columns.ColFormsLemmas
+import Mathlib.Analysis.Fourier.FiniteAbelian.PontryaginDuality
 
 noncomputable section
 

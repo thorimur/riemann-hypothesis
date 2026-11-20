@@ -1,9 +1,12 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.FubiniStudyChowHeight
 import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
-import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.ChowFormHeightOfArch
 import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.IntegralOfLintegral
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.MahlerSectionStatementHolds
+import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.ChowDegreeSection
+import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.FormHeightOneEq
+import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.IsClosedOfCoheight
+import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.StCharts
+import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.SumNormSqUnitary
 
 set_option autoImplicit false
 

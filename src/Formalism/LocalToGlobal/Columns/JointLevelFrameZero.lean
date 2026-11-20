@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.Columns.CharactersLevelZeroAgree
 import Formalism.LocalToGlobal.Columns.TiedGlRec
+import Formalism.LocalToGlobal.Columns.HermOwed
 
 open NumberField IsDedekindDomain Module Matrix
 open scoped TensorProduct

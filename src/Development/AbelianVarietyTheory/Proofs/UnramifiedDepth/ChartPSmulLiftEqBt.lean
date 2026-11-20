@@ -1,5 +1,5 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.EvBtStatement
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import ReciprocityTheory.DualLattices.TowerZeroSurjective
 
 noncomputable section
 

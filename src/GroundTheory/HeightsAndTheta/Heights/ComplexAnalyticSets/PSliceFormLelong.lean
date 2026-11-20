@@ -1,13 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceFormLelong
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceIdeal
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceComponents
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceFormLelongCompact
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceRegTail
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceWeightMassFinite
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCutOffDominated
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSliceImmersiveGeneral
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.SliceCut
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,8 +1,6 @@
-import Mathlib
-import Formalism.SharpRestriction.GlobalSchurBounds.TaylorLogMetric
-import Formalism.SharpRestriction.GlobalSchurBounds.GL3Theta
 import Formalism.SharpRestriction.GlobalSchurBounds.StandardLatticesGL3
 import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.ProductThetaMem
+import Mathlib.NumberTheory.NumberField.ClassNumber
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

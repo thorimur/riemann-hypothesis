@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.AlgebraicTheory.StatementNorm
 
 namespace GlobalTheory

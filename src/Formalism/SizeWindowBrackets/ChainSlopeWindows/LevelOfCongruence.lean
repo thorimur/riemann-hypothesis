@@ -1,6 +1,5 @@
 import Formalism.SizeWindowBrackets.QuotientSlopeBoundsWith
 import Formalism.RankGapBounds.RankGapProofs.WeightedMeanData
-import Formalism.RankGapBounds.RankGapProofs.UniformMeanTopLine
 
 open Real
 

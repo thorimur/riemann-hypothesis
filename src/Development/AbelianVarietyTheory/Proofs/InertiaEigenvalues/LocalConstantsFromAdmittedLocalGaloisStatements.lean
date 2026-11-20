@@ -1,8 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.LiftingTheory
-import Formalism.GaloisCohomology.LocalTateDualityK
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.RationalDualityOfAllCoefficients
-import Formalism.SharpRestriction.LevelLetterCocycles.BaseChangePreservesUnitaryOf
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LiftingTheoremWachModuleLemmaHypothesesAdmittedStatement
 open Formalism Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.N
 

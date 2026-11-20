@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.DataN
-import Formalism.SharpRestriction.LevelLetterCocycles.IntegralHeckeForms
 import Formalism.LocalToGlobal.IndefiniteReal.GramCEqTranspose
 
 noncomputable section

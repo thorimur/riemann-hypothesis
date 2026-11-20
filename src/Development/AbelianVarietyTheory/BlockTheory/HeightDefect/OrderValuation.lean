@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.PtFree
 import Formalism.LocalToGlobal.ProjectiveLattices.CuspFree
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TensorOperator.FockLin
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MvPolynomial
 

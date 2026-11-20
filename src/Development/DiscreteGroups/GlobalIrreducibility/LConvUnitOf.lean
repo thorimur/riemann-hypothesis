@@ -1,5 +1,5 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.LConvCut
+import Development.AbelianVarietyTheory.Definitions.Divisors.T2SpaceGeneralLinearGroup
 
 noncomputable section
 

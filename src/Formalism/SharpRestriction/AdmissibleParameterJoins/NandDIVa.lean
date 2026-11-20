@@ -1,4 +1,3 @@
-import Formalism.LocalRingCardinality.DataParams₂
 import Formalism.LocalRingCardinality.DataDIV
 
 noncomputable section

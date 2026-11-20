@@ -1,5 +1,6 @@
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FlatCalc
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FlatLocA
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
 
 namespace ReciprocityTheory.L2DbarEstimates.Y
 

@@ -1,5 +1,6 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.EtaleCoordinates.EtaleCoordinates
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.RingTheory.TotallySplit
 namespace FunctorialResolution.EmbeddedResolution
 namespace EtaleCoordinates
 

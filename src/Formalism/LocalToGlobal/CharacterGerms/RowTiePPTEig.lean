@@ -1,6 +1,5 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePPTSelfClose
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePProjLieSelf
-import Formalism.LocalToGlobal.CharacterGerms.ProjFBOfEig
+import Formalism.LocalToGlobal.CharacterGerms.RowTiePPTClose
 
 namespace Formalism.L2.FormalSeriesBounds
 

@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveSpaceChart
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.TwistingSheaf
+import Mathlib.AlgebraicGeometry.Morphisms.ClosedImmersion
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

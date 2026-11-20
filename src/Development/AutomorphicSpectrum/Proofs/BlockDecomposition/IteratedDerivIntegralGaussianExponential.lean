@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AesmIteratedDerivReal
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.SpecialFunctions.Gaussian.FourierTransform
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open MeasureTheory Filter Topology
 

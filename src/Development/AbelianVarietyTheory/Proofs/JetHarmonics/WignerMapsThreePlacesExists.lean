@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Statements.DiscreteSeriesShifts.AmapsShExists
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ContractionMapsAtRepresentatives
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryMeasureDatumProductMeasureEqOfSameVectors

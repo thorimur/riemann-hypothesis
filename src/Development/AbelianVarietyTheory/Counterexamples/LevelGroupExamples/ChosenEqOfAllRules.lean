@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.AlgebraMapCAt
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

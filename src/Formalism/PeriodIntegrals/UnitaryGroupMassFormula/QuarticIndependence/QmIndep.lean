@@ -1,6 +1,9 @@
 import Formalism.PeriodIntegrals.RTTIndependence
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuarticIndependence.IndepC
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuarticIndependence.IndepPoly
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace PI.QmIndepW
 

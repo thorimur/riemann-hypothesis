@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.EtaleChapterEOne
+import Mathlib.Topology.LocallyConstant.Algebra
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

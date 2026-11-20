@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.IntToRatB
 
 namespace ReciprocityTheory.AnForm.R

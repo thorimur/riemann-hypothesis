@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.ElevenLe
 import Formalism.SharpRestriction.Divisibility.SlopeExcess.FamilyStatementOfScaledLemmas
 
 noncomputable section

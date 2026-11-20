@@ -1,4 +1,5 @@
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsCMFrame
+import Development.AbelianVarietyTheory.Definitions.CMLattices.IsDiffOf
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsTransition
 
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor

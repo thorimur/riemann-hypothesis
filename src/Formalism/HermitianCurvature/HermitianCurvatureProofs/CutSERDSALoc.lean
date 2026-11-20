@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSERDSOpA
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RadialRaisingTopOfParts
 
 noncomputable section
 

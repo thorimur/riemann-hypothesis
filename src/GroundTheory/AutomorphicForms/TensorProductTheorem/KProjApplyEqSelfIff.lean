@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TensorProductTheorem.KFinite
 import GroundTheory.AutomorphicForms.TensorProductTheorem.GenWindow
 

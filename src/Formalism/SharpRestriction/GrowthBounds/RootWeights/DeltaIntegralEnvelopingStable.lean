@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsIntegralWeightProjections
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.IrreducibleStableContainsEqTop
+import Mathlib.RingTheory.LocalProperties.Reduced
 
 noncomputable section
 

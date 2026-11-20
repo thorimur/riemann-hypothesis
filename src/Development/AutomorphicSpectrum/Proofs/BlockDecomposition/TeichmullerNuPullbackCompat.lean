@@ -1,6 +1,4 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.FrobeniusFactorisation.PullT
-import BuildAid.D3
 
 set_option backward.isDefEq.respectTransparency false
 

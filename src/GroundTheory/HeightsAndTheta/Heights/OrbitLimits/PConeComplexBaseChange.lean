@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsConeComplexBaseChange
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.IntToRat
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeCB

@@ -1,6 +1,4 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.ArchimedeanWhittaker
-import GroundTheory.AutomorphicForms.RealGroupsIwasawa
+import GroundTheory.AutomorphicForms.HarishChandraRegularity.CartanBasis
 
 namespace GroundTheory.Automorphic.ArchWhittakerC
 

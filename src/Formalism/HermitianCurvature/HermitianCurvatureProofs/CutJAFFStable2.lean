@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJA
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutMP2
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

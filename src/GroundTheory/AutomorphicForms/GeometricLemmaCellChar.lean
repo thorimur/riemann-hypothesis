@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GeometricLemmaJacquetCell
 import GroundTheory.LocalFields.LocalFourierHaar
 import GroundTheory.AutomorphicForms.CuspidalAdmissible
+import Mathlib.CategoryTheory.Countable
 set_option maxSynthPendingDepth 1
 
 noncomputable section

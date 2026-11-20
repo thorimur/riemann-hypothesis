@@ -1,7 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatticeRealCoordinateBasisStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCoordinateProjectionComplexStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsAntilinearNormalFormStatement
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace GlobalTheory
 

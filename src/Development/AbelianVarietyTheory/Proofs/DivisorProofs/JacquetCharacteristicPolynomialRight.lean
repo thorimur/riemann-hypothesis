@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.GeometricLemmaFiltration
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.HasFiniteLengthOfIsIrreducible
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.BernsteinUnitaryProductIrreducible
+import Std.Tactic.BVDecide.Normalize.BitVec
 open GlobalTheory.PRep GlobalTheory.SmGL Matrix
 
 noncomputable section

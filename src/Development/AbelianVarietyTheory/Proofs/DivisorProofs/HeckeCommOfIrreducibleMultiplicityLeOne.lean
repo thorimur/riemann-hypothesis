@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EigCongr
+import Mathlib.RepresentationTheory.Maschke
 
 noncomputable section
 

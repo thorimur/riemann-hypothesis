@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.CyclotomicNorms.StatementT
-import Formalism.GaloisIrreducibility.NoSolvableTransitive
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 namespace Bl.general_b_fact_second_bis
 

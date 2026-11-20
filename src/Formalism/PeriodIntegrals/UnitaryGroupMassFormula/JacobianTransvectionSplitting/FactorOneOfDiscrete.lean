@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeNGLQ
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.JacobianTransvectionSplitting.DiscreteHaar
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

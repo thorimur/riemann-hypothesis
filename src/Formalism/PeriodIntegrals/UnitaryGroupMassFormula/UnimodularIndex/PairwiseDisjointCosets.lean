@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnimodIdx
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open MeasureTheory Measure Topology Pointwise Set Function
 

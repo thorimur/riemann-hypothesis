@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataTheta
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.OscActMonomialOfUnique
+import Mathlib.Data.Matrix.ColumnRowPartitioned
 
 noncomputable section
 

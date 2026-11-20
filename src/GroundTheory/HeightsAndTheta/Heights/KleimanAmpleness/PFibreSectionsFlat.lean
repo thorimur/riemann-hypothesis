@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.GenericPointSectionHypotheses
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsFibreSectionsFlat
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsGenericRestrLen

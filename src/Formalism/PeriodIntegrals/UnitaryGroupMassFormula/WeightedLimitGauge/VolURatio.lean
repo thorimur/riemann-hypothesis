@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.RhsWLim
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.VolumeLieE
 
 noncomputable section

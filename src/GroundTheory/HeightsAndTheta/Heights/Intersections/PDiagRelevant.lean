@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsDiagRelevant
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PDiagForms
 set_option maxSynthPendingDepth 1

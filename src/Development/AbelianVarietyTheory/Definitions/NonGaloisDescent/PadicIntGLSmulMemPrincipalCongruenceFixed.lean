@@ -1,8 +1,6 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.ArithmeticCylinders
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.LabelDatum
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MemRootsBarXSubC
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.IsCharLab
+import Mathlib.Data.Finsupp.Pointwise
 
 noncomputable section
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SatakeDualWeyl.Statement
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Bridge
 
 open Matrix
 

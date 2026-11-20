@@ -1,5 +1,4 @@
 import Development.AbelianVarietyTheory.Definitions.Divisors.OfCore
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ReadingsExistRow
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCoefAtOfPosDef
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBaseChange
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConjFormsRescale

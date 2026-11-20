@@ -1,8 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.CoefMod
 import Formalism.LocalToGlobal.Divisibility.CoefModLemmas
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsIrreducibleSmallRepUnitary
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.SpanRangeEqTopOfIsIrreducible
+import Mathlib.LinearAlgebra.PiTensorProduct.Generators
 
 open MvPolynomial Formalism.BasicNotions Formalism.L2.DIV GlobalTheory.Branching
 

@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.CasimirAlgebra.TensorRelationsGL.PKTypeA
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

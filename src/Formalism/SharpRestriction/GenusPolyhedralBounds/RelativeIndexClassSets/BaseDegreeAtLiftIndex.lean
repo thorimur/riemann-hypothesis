@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.SubsingletonQuotientOfIdealEqTop
+import Formalism.SharpRestriction.Divisibility.WeightAlgebra
 
 noncomputable section
 

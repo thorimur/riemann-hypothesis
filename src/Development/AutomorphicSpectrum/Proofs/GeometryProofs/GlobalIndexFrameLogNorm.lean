@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.PlaceEqOneOfNotMem
 import ReciprocityTheory.SemistableReduction.SemiDegBB
 open NumberField Matrix IsDedekindDomain GlobalTheory.CompanionTheory.Ar.Cusp.LocFrame

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.CuspLatticeAnyLevel
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.SupremumLattice
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LMLatOfLIntegral

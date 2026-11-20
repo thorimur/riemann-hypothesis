@@ -1,6 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.NotRedOfMem
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.WeierstrassCurvePointOfLatticeAddOfGeneric
+import Mathlib.Analysis.Normed.Field.Instances
+import Mathlib.NumberTheory.Padics.PadicIntegers
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open Formalism.L2.Th1.F GlobalTheory.Klein
 open scoped ComplexConjugate BigOperators

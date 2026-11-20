@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteForms.IndefSide
 
 open Module NumberField IsDedekindDomain

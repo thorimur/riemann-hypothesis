@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.StdPolyEq
-import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.TopOddNeEndAny
-import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.MonomialSumEqProdTensor
+import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.MultMk
+import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.RestRoom
+import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.YcondFactor
 
 noncomputable section
 

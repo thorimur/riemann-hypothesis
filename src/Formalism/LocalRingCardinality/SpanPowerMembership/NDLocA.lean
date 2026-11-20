@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
 import ReciprocityTheory.GaloisValuations.Global
 
 noncomputable section

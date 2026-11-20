@@ -1,6 +1,4 @@
 import Formalism.LocalToGlobal.Columns.UnfoldingNonvanishingDoubleCosetHolds
-import Formalism.LocalToGlobal.Columns.ChainLawXiQF
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.KerHypAll
 
 open NumberField IsDedekindDomain Module
 

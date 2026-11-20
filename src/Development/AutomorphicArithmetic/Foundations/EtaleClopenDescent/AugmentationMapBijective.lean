@@ -1,4 +1,3 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.AugBijPf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtaleLocalPrimitiveRootAndRootsOfUnity
 

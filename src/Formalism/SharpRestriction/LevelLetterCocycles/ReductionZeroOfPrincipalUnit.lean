@@ -1,11 +1,6 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.InvLevCoreOfParts
 import Formalism.SharpRestriction.LevelLetterCocycles.IsUnitOfMk
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.LevBasicsD
-import Formalism.SharpRestriction.LevelLetterCocycles.LemmasUnramifiedOfRingCondition
-import Formalism.SharpRestriction.LevelLetterCocycles.AnnihilatorGeneralOfRingCondition
-import Formalism.SharpRestriction.LevelLetterCocycles.RingConditionOfDeltaInvariants
-import Formalism.SharpRestriction.LevelLetterCocycles.IsobaricMultiplicityOne
+import Mathlib.NumberTheory.Padics.Hensel
 
 namespace Formalism.MainNotions.UnusedSlot80.InvCutPfL
 

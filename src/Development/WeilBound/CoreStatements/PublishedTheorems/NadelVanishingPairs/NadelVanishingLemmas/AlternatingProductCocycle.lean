@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsFlatLift
+import Mathlib.RingTheory.PiTensorProduct
 
 set_option autoImplicit false
 

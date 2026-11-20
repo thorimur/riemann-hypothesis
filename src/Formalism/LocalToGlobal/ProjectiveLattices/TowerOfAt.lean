@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.FlagBasis
 import Formalism.SharpRestriction.Divisibility.AbelianOpenPart.IsOpenPart
 import Formalism.LocalToGlobal.ProjectiveLattices.EmbKCoe
 

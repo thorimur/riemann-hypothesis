@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.FiniteSumNonzeroLargeDepth
 
 noncomputable section

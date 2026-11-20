@@ -1,5 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.TwoWeightEqOneAddRoot
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.WittVector.IsPoly
 
 theorem UpperTheory.Reformulated.B.Gc4.conj_embedding_rt :
     ∀ {E : Type} [inst : Field E] [inst_1 : NumberField E]

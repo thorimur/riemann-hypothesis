@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.PeriodIntegrals.BetaLUniq
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BetaUniqueness.Lemmas
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BetaUniqueness.EqZeroOfNormLtOne
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

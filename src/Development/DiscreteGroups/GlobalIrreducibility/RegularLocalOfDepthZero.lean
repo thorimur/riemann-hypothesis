@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RegularLocalOfDepthZero
-import Development.DiscreteGroups.GlobalIrreducibility.DzBigDef
 import Development.DiscreteGroups.GlobalIrreducibility.DzRankBound
 
 noncomputable section

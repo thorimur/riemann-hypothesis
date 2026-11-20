@@ -1,4 +1,7 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.CrudeBase
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
 
 set_option autoImplicit false
 

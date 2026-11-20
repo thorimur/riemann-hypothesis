@@ -1,6 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.SmallClassNumbers.ClassNumberThree
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TopMainZj
-import Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.DefiniteNHolds
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.RowSrc
 
 open Formalism.GaloisCohomology UpperTheory.Top UpperTheory.V UpperTheory.V.HV UpperTheory.V.Lit UpperTheory.V.W UpperTheory.V.J UpperTheory.V.Z.J

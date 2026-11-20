@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.Statements
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PLocalChange
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.LatticeOfLocalisationsHyps
 set_option maxSynthPendingDepth 1

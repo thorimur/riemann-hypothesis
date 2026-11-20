@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.PAdicHodge.WABridgeCris
+import GroundTheory.PAdicHodge.BCrisNewtonNorm
+import GroundTheory.PAdicHodge.WAEval
 set_option maxSynthPendingDepth 1
 
 noncomputable section

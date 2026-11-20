@@ -1,6 +1,4 @@
 import Formalism.SizeWindowBrackets.GaloisToProductIsIso
-import Formalism.SizeWindowBrackets.GrowthBoundGivesRiemannHypothesis
-import Formalism.SizeWindowBrackets.SecondKindBucket
 import Formalism.SizeWindowBrackets.SlopeExcessBoundExponentZero
 import Formalism.SizeWindowBrackets.ErrorFormsWeakWindowsFalse
 

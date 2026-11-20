@@ -1,4 +1,11 @@
 import Development.EtaleCohomology.DivisorCycles.OpenCoset
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PowerSeries.Exp
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix PositivityTheory.AutomorphicGaloisHodgeTate.Div
 namespace LateralTheory.DivDb.TorusPtPf

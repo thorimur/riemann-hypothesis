@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MemStepsFull
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.HsVecApply
 
 open Matrix MvPolynomial Set
 open scoped ComplexConjugate ContDiff Topology

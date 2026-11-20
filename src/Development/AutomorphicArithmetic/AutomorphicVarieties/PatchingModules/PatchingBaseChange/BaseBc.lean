@@ -1,7 +1,7 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.PatchingModules.PatchingBaseChange.SinfRel
 import Development.AutomorphicArithmetic.AutomorphicVarieties.PatchingModules.PatchingBaseChange.TilMod
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaSuppBc
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.FinOfHom
+import Mathlib.RingTheory.MvPowerSeries.Equiv
 open IsLocalRing UpperTheory.V.Alg UpperTheory.V.W UpperTheory.V.Pa
 open scoped TensorProduct
 

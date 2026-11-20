@@ -1,9 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.DepthCond
 import Formalism.LocalToGlobal.ProjectiveLattices.DepRun
-import Formalism.LocalToGlobal.ProjectiveLattices.CrudeVal
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ValBasic
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.VwEqZeroOfNotMem
-import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.RamBasic
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.ONLeaves
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.DepthCondPf
 

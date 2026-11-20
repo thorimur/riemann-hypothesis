@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Jets.IsSelfOf
-import Development.AbelianVarietyTheory.Definitions.Jets.TwoPlaces
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.GapParts
+import Development.AbelianVarietyTheory.Definitions.Jets.DepthNumbersThresholdEq
 
 set_option autoImplicit false
 

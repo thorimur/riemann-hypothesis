@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FreeCell
+import Formalism.SatakeDualWeyl.Statement
+import Mathlib.RingTheory.PiTensorProduct
 open HeckeCharacterZeroLocus.SiegelWeilU GlobalTheory.CompanionTheory.SW NumberField IsDedekindDomain MeasureTheory Topology
 open scoped TensorProduct ENNReal NNReal Matrix
 open GlobalTheory.CompanionTheory.WeilSiegel.Frame GlobalTheory.CompanionTheory.WeilSiegel.Free GlobalTheory.CompanionTheory.WeilSiegel.HypStep GlobalTheory.CompanionTheory.WeilSiegel.HypStage

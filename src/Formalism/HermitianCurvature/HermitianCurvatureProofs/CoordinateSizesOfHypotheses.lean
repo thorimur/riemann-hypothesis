@@ -1,6 +1,9 @@
 import Formalism.HermitianCurvature.StatementU
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaSesquilinearity
-import Formalism.FormalDegreeBessel.FinalG
+import Mathlib.CategoryTheory.Countable
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open Matrix MeasureTheory Formalism.FourierDecayAlt Formalism.FourierDecayAlt.U Formalism.QuantumDeterminants
 open scoped ComplexConjugate

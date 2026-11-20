@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.EllipticTorsion.Statement
+import Formalism.FormalGroupLog.Statement
 
 open PowerSeries
 

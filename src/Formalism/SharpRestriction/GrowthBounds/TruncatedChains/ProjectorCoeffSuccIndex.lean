@@ -1,4 +1,7 @@
-import Formalism.SharpRestriction.GrowthBounds.TruncatedChains.PfTrunc
+import Formalism.SharpRestriction.GrowthBounds.TruncatedChains.RestPair
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

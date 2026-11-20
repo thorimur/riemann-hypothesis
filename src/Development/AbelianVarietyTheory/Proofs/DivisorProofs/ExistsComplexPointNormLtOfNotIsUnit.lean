@@ -1,7 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.SpecialisationNumberFieldAndCountableValues
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsFormDegreeLeHilbertDegreeEvalNeZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PowCardLeNormProd
+import Mathlib.Analysis.Polynomial.CauchyBound
+import Mathlib.RingTheory.NoetherNormalization
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Polynomial Filter Topology
 

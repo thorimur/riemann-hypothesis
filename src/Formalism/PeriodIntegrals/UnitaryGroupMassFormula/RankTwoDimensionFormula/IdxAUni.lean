@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GGMirabolicBase
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RankTwoDimensionFormula.IndexGe
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.UniAMulDiag
 

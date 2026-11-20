@@ -1,5 +1,5 @@
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LeadMinor
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.DifferentGeneratorDualIntegral
+import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsCompactUnitaryPointsAtPlaceFstMemCompact
 
 noncomputable section
 

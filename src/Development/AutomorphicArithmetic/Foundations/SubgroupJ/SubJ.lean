@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsEtPlace
 
 namespace UpperTheory.SubgroupJ

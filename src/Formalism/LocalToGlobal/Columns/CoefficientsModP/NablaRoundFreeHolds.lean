@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.Columns.CoefficientsModP.NablaIndependenceHolds
-import Formalism.LocalToGlobal.Columns.CoefficientsModP.TauLatticeLatticeHolds
+import Formalism.GradedWeylDivisibility.FinalD
+import Formalism.LocalRingCardinality.DataCoeff
 
 open MvPolynomial NumberField IsDedekindDomain
 open scoped Matrix

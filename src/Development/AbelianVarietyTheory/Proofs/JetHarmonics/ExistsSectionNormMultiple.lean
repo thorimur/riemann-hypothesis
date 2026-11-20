@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.HasFinOrderIff
 import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.HasGenPull
 import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.SpanEqTopOfFunctionals
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsUniqueThetaConst
+import Development.AbelianVarietyTheory.BlockTheory.JetGauges.RigidNormaliserGenerators
 
 noncomputable section
 

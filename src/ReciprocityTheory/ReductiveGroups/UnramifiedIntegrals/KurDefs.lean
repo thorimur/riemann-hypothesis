@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.TorsionIntegrality.CMGoodModels.Statement
 
 noncomputable section

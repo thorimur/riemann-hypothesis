@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ContDiffUncentre
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.IsRigTransport
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.HodgeIPIffHodgeFormConj
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsHodgeGram
 
 noncomputable section
 

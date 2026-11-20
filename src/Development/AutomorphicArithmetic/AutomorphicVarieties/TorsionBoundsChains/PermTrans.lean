@@ -1,5 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.FaceDSingle
-import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.Shapiro
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.FinGroup
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.Transport
 

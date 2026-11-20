@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Theta.UnitaryReduction.UnipotentRadicalPlaces
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Analysis.InnerProductSpace.Trace
 set_option maxSynthPendingDepth 1
 
 noncomputable section

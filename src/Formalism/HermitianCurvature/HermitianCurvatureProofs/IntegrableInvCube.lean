@@ -1,4 +1,8 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCChain
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBBLiftV
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCLat
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCLoc
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCStep
 
 namespace Formalism.FourierDecayAlt.P.PBC
 

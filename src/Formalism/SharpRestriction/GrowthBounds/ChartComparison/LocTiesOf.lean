@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.ChartComparison.LocCore
 import Formalism.SharpRestriction.GrowthBounds.ChartComparison.LocMore
 import Formalism.SharpRestriction.GrowthBounds.ChartComparison.WtTieOf
+import Formalism.SharpRestriction.GrowthBounds.ChartComparison.CmpJMemSpan
 
 noncomputable section
 

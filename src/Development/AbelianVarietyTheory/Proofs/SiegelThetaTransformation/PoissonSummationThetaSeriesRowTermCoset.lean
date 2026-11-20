@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.EchEqOneIff
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsEqTransposeMulDiagonalMul
-import Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.SummableNormSiegelThetaSeriesTerms
 
 open Matrix Complex GlobalTheory.SW GlobalTheory.SW.FourierJ
 open scoped ComplexConjugate Real

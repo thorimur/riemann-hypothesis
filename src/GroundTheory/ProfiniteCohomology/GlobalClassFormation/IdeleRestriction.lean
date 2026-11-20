@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalRestriction
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalLimits.LiesOver
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalLimits.InfLiesOver
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

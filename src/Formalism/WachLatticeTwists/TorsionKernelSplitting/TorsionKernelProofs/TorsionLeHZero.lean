@@ -1,4 +1,7 @@
 import Formalism.WachLatticeTwists.TorsionKernelSplitting.WachTwistSplitTheoremHZero
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
 
 open Finset Classical
 

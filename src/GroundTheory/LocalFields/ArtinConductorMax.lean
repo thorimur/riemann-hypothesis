@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.LocalFields.ArtinConductorDiscriminant
+import GroundTheory.LocalFields.ConductorTransport
 
 noncomputable section
 

@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.OfRoots
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.CategoryTheory.Countable
+import Mathlib.Dynamics.Ergodic.Action.Regular
 open NumberField Module Matrix Formalism.MainNotions.S GlobalTheory.LoopV
 open scoped ENNReal Classical
 open MeasureTheory Set

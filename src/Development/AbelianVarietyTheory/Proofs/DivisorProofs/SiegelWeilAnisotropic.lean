@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.InnerProductFormulaField
 import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.FlatZetaIntegral
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SummableAbsNormInvSq
 
 noncomputable section
 

@@ -1,4 +1,6 @@
 import Formalism.UnipotentAdelicQuotients.EllRegCut
+import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
+import Mathlib.Tactic.ENatToNat
 
 namespace ZetaZeros.D.EllReg
 

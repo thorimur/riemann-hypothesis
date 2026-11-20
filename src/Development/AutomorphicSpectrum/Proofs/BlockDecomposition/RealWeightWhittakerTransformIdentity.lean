@@ -1,6 +1,4 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.LocalWhittakerDuality.WhittakerRealPlaces.RealZetaIntegralGL2
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.RealLocalIntegrals.RealSharpBounds.Bounds
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValMeasurableEmbedding
 
 noncomputable section
 open MeasureTheory Matrix Complex

@@ -1,9 +1,4 @@
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugatePlacesCompletionStatement
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.MArtinTr
-import Development.AutomorphicArithmetic.Foundations.LocalLanglands.IsRecTOfIsRec
-import Development.AutomorphicArithmetic.Foundations.UnitarySphericalFixing.SatakeParameters.AbsCentralAlt
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsRecTLocRecT
 
 set_option synthInstance.maxHeartbeats 200000
 

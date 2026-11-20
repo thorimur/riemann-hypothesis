@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PFamily
+import Formalism.LocalToGlobal.KernelLattices.LateralTheory
 
 noncomputable section
 

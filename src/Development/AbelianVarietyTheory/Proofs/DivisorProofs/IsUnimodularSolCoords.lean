@@ -1,7 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.OpensRangeChartYSupOpensRangeChartZ
-import Development.AbelianVarietyTheory.Definitions.Divisors.TorsTransport
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsCompletedStrictHens
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Algebra.DualNumber
+import Mathlib.Analysis.SpecialFunctions.Elliptic.Weierstrass
 
 noncomputable section
 

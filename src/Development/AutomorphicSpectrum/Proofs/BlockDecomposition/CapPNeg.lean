@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.InjectiveWedgeHighestCoefficient
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.GlRelNegTAndQdet
+import Formalism.FormalDegreeBessel.StatementDS
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 namespace GlobalTheory.CompanionTheory.PairMult
 

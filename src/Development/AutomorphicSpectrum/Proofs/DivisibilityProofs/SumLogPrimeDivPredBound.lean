@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.SumLogDivPredLe
 
 namespace GlobalTheory.CompanionTheory.Ar.Flat

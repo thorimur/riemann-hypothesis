@@ -1,9 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.SiegelReframe
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ImportsMoreLast
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapOfRealAdd
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ImportsFurtherAlt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapOfRealOne
+import Mathlib.RingTheory.SimpleRing.Principal
 open Matrix MeasureTheory GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe
 open scoped Real ContDiff
 

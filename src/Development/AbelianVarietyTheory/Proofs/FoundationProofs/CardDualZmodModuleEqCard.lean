@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.BijectiveDualAddChar
+import Mathlib.Analysis.Fourier.FiniteAbelian.PontryaginDuality
 
 namespace GlobalTheory.ZModDual
 

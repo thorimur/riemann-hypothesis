@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.SqFacts
 import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.SecondConstantHolds
+import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.RightMoveTrianglesOfUnit
 
 noncomputable section
 open NumberField Formalism.BasicNotions Classical

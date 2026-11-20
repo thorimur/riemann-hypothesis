@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CvecSurjective
+import CompanionTheory.AutomorphicTheory.SiegelWeilFiniteness.Bridge
 
 set_option linter.unusedSectionVars false
 set_option maxSynthPendingDepth 1

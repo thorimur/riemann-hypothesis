@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.CapOComp
+import Mathlib.RingTheory.PiTensorProduct
 
 set_option autoImplicit false
 set_option backward.isDefEq.respectTransparency false

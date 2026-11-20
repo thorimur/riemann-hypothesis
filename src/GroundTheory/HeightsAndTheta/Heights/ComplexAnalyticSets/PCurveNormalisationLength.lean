@@ -1,9 +1,8 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCurveNormalisationLength
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCurveNormalisationFinite
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCurveNormalisationQuotientLength
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StExtensionQuotientLength
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PLengthDecomp
+import Mathlib.RingTheory.KrullDimension.Regular
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

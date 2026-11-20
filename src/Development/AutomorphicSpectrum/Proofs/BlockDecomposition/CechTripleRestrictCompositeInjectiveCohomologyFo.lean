@@ -1,6 +1,7 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.HodgeWedgeFields.H1CommutesBaseChange
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechTripleRestrictCompositeInjectiveSecond
+import Mathlib.AlgebraicGeometry.Morphisms.UniversallyInjective
+import Mathlib.RingTheory.PicardGroup
 
 set_option autoImplicit false
 noncomputable section

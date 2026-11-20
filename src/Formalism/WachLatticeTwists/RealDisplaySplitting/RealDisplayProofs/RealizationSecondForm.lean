@@ -1,5 +1,5 @@
 import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.RealizationBasicForm
-import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapProofs.TheoremNFiveRealSecond
+import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapProofs.InRowRealOf
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

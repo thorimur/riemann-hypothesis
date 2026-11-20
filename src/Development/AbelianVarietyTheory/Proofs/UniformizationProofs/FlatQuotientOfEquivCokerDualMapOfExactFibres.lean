@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExactDualMapOfExactFibresOfIsRegularLocalRing
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.FlatCokerOfComplexExactModMaximalIdeal
+import Mathlib.LinearAlgebra.Dual.BaseChange
 
 open CategoryTheory CategoryTheory.Limits TensorProduct Function
 

@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SymSum
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.Mac
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.HlEval
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.ThPMul

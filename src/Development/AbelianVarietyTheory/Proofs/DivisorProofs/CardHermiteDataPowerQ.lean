@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IwasawaExponentHnfGL
+import GroundTheory.AutomorphicForms.SphericalIntegral
 
 open GroundTheory.Automorphic GLnLocal Iwasawa
 open scoped ValuativeRel

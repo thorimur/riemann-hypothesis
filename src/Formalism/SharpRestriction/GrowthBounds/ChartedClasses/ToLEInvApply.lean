@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.PtStep0
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Bridge
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

@@ -1,4 +1,6 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.CuspidalL2Subspace
+import Formalism.LocalToGlobal.ProjectiveLattices.RdOrbIntOfLatZ
+import Formalism.LocalToGlobal.ProjectiveLattices.SpanRatSmulMem
 
 noncomputable section
 

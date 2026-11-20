@@ -1,8 +1,10 @@
 import Formalism.PieriBlockIdeals.StatementLA
 import Formalism.GradedWeylDivisibility.FinalC
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LDlatLemmas
-import Formalism.PieriBlockIdeals.PieriColumnMinors.PadicValIntProdElevenMultiples
 import Formalism.PieriBlockIdeals.PieriColumnMinors.JointExactExponentStopHigh
+import Formalism.GradedWeylDivisibility.FinalB
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 open MvPolynomial
 

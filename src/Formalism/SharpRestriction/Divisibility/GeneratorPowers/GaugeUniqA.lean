@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.PrimUniqPf
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqH
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermFunPf
 
 set_option autoImplicit false
 

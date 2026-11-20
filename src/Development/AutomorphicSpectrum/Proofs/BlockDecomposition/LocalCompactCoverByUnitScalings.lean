@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HypOneZeroZero
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.DictionaryStatement
+import Formalism.UnipotentAdelicQuotients.SWXSDefs
+import Mathlib.Topology.MetricSpace.Ultra.Pi
 
 noncomputable section
 

@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.RootNumberLocalPlace
-import GroundTheory.GlobalFields.TateThesis.HeckeTheoremFE
-import GroundTheory.GlobalFields.TateThesis.FiniteAdeleScaling
+import GroundTheory.AutomorphicForms.GL2.FiniteAdeleDecomp
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Global

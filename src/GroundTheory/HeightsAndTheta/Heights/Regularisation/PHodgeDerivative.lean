@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.Statements
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.StatementsBounds
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PChartBounds
+import Mathlib.Algebra.Ring.IsFormallyReal
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Regular

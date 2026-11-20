@@ -1,5 +1,4 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IwahoriBlocks.SimpleIn
-import Development.AutomorphicArithmetic.Foundations.Convolution.GeneralizedMeasures.HeckeFinAlt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsAsAlgebraHomEq
 
 open MeasureTheory NumberField IsDedekindDomain Filter Topology

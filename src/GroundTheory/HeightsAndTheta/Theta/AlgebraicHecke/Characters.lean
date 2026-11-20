@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.GlobalFields.TateThesis.HeckeChar
 import GroundTheory.HeightsAndTheta.Theta.EisensteinZeta.UnitLevels.KrCharsStatements
 
 noncomputable section

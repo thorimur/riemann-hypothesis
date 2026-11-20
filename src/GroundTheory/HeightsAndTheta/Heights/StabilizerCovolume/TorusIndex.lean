@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.Objects
+import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.GaussCM
 set_option maxSynthPendingDepth 1
 
 noncomputable section

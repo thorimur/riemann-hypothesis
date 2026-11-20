@@ -3,6 +3,7 @@ import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ClassMapEstimateOfParti
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ExistsOnOfPosDef
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.TilEqLevel
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.DefNOfFact
+import Formalism.LocalToGlobal.GlobalTheory.BlockActions.RestrictionSymmetric
 
 noncomputable section
 

@@ -1,8 +1,9 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.LeviForms.RegGlue
 import ReciprocityTheory.AnalyticForms.LeviForms.RegChartC
-import ReciprocityTheory.AnalyticForms.LeviForms.TailCut
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.PMollifierLowerBound
+import Mathlib.Analysis.Convex.Continuous
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
+import ReciprocityTheory.AnalyticForms.LeviForms.RegChart
 
 open MeasureTheory Metric Filter Topology ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M ReciprocityTheory.AnForm.P ReciprocityTheory.AnForm.M.FinHolAtlas
 open scoped ContDiff

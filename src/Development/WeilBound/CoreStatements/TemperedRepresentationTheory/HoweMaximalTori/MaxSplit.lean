@@ -1,4 +1,3 @@
-import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.CompDef
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.LocalDef
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HoweDualityUnitary
 

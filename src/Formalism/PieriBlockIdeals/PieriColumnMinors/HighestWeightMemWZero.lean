@@ -1,5 +1,5 @@
 import Formalism.PieriBlockIdeals.StatementLR
-import Formalism.PieriBlockIdeals.PieriColumnMinors.DividedPowerZeroZeroVector
+import Formalism.PieriBlockIdeals.PieriColumnMinors.BinaryFormsExample
 
 open MvPolynomial
 

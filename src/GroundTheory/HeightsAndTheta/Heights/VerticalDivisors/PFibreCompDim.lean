@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.JacobianSmoothness.RingKrullDimLeRingKrullDimQuotientAddOne
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.StatementsFibreCompDim
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.StatementsFibreCut

@@ -1,7 +1,5 @@
-import ReciprocityTheory.GroupCohomology.CardLenStatement
-import ReciprocityTheory.GroupCohomology.DEqZeroOfMemB
-import ReciprocityTheory.GroupCohomology.ResNormalHolds
-import ReciprocityTheory.GroupCohomology.InnerHolds
+import Mathlib.Tactic.Polynomial.Basic
+import ReciprocityTheory.GroupCohomology.ContinuousContractNth
 
 namespace ReciprocityTheory.Coh
 

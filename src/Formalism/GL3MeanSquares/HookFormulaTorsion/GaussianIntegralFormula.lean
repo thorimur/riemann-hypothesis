@@ -1,5 +1,10 @@
-import Mathlib
 import Formalism.GL3MeanSquares.RankMulPowThreeHalvesLeFourthPower
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Analysis.SpecialFunctions.Gaussian.FourierTransform
+import Mathlib.MeasureTheory.Integral.Gamma
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.HermitianLattices.GenusMassVolumes
 

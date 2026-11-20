@@ -1,8 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IndEtOfForallFinset
-import Development.AbelianVarietyTheory.Definitions.Divisors.DivisorSupportCondition
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsLocallyConstantApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdSubConjEqZero
+import Mathlib.FieldTheory.Galois.Profinite
 
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC
 

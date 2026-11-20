@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLiftsOfSeparableStatement
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 open Filter Topology
 
 namespace GlobalTheory.ShiftHomomorphism

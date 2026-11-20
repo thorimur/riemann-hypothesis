@@ -1,7 +1,6 @@
 import Development.AutomorphicArithmetic.ResidueCharacters.FamilyBoundAtTwoThreeOfLocalBounds
 import Development.AutomorphicArithmetic.ResidueCharacters.RowTwo
 import Development.AutomorphicArithmetic.ResidueCharacters.RowThree
-import Development.AutomorphicArithmetic.ResidueCharacters.ThreeHost
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.GoodReductionCondition
 
 open NumberField IsDedekindDomain Formalism Formalism.ConjugateSelfDual ReciprocityTheory.Gal Formalism.BasicNotions Formalism.BasicNotions.Loc Formalism.MainNotions Formalism.MainNotions.N Formalism.WeaklyAdmissibleFiltrations GlobalTheory.NLink

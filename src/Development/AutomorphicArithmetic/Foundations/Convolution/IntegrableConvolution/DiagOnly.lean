@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.TrDefs
+import Mathlib.Analysis.InnerProductSpace.Trace
 
 noncomputable section
 

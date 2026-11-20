@@ -1,11 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.TorsionIntegrality.CMGoodModels.Statement
-import Formalism.LocalToGlobal.InertKernelTheory.DefsRepDict
-import Formalism.LocalToGlobal.InertKernelTheory.GenusOneModelExistsLattice
-import Formalism.LocalToGlobal.InertKernelTheory.StatementJets
-import Formalism.LocalToGlobal.InertKernelTheory.StatementAlgT
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.AlgTAll
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsRingEquivTranscendental
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.CurveDictOfCm
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgStatus
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.TorStatus

@@ -1,5 +1,8 @@
 import Formalism.TruncatedSeriesCounting.RamifiedValuationInequality
-import Formalism.WindowSums.PowerSeriesRelationList
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

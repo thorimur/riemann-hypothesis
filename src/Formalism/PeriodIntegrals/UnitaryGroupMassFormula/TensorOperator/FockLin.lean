@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TensorOperator.Development
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open MvPolynomial
 

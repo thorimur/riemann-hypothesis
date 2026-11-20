@@ -1,8 +1,8 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.TheoremA
-import ReciprocityTheory.SemistableReduction.GaussValExists
-import ReciprocityTheory.SemistableReduction.GaussValLeIffDivMem
 import ReciprocityTheory.SemistableReduction.GaussIndepOfLeTrdeg
 import ReciprocityTheory.SemistableReduction.IntegralClosureRankAndResidueTrdegLe
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace ReciprocityTheory.ChartRestriction.G.T0
 

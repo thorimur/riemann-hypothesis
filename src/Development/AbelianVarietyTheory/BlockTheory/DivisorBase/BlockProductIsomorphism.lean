@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.SplitDoublingNBlock
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 

@@ -1,6 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.SmulOneLeAndLeSmulOneIffEigenvalues
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.DifferentiableOnOfTendstoLocallyUniformlyOn
+import Mathlib.Analysis.Calculus.Deriv.Pi
+import Mathlib.Analysis.Calculus.ParametricIntervalIntegral
+import Mathlib.RingTheory.PicardGroup
 
 open Matrix Set
 open scoped ComplexOrder MatrixOrder

@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FactorialBounds.Statements
 import GroundTheory.HeightsAndTheta.Heights.FactorialBounds.PTorsionEquidistribution
 import GroundTheory.HeightsAndTheta.Heights.FactorialBounds.PThirdDifferenceConstant
 import GroundTheory.HeightsAndTheta.Heights.FactorialBounds.PBoundedHomogeneousZero

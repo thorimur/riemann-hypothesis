@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.BCrisNewton
 import GroundTheory.PAdicHodge.GalSmulAlgebraMapPadicPlus
 set_option maxSynthPendingDepth 1

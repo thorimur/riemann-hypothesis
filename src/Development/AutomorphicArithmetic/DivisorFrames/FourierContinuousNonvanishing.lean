@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.ConeBDefs
+import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
+import Mathlib.Topology.UniformSpace.Uniformizable
 open MeasureTheory FreeSingleHomotopyEquivDiscreteChains.UpperTheory.Dv.ConeB
 
 private theorem iter_ne_zero : ∀ {α β : Type} [TopologicalSpace α] [MeasurableSpace α] [BorelSpace α] [SecondCountableTopology α]

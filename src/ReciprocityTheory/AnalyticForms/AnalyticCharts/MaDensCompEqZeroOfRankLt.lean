@@ -1,4 +1,10 @@
 import ReciprocityTheory.AnalyticForms.MaIntEmpty
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
 
 namespace ReciprocityTheory.AnForm
 

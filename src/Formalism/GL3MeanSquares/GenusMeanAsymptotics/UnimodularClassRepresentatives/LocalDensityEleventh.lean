@@ -1,4 +1,5 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ExistsNotMemOfSol
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open NumberField Module Matrix
 

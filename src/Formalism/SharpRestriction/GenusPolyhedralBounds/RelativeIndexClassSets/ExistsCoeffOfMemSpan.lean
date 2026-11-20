@@ -1,5 +1,6 @@
-import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.IntegralFormsEqSpan
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HasseJidPow
+import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.SectionMonomialGenerators
+import Mathlib.RingTheory.MvPolynomial.EulerIdentity
 
 noncomputable section
 

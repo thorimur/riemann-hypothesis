@@ -1,8 +1,6 @@
-import Formalism.HermitianCurvature.StatementTBB
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LiftDegreeLemmas
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SizeAtMinusW
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.AeNeZeroComplex
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PairingTriangular
 
 namespace Formalism.FourierDecayAlt.P.TBBx5
 

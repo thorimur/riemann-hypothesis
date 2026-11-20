@@ -1,6 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.FderivFnCongr
 import Development.AbelianVarietyTheory.Definitions.Divisors.CommAlgFunctorCoboundaryZeroMemCocyclesOne
+import Mathlib.Algebra.DualNumber
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option autoImplicit false
 

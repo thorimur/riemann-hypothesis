@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianHaarMeasure.NestedMinorExpansionOneZero
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix Finset
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.StatementsNormForm
 set_option maxSynthPendingDepth 1
 

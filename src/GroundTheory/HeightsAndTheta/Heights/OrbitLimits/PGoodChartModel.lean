@@ -1,10 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StGoodChartModel
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StGoodChartZeroSet
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StGoodChartDim
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFiniteProjHomInjective
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PConeAvoidsFinite
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterFib
 set_option maxSynthPendingDepth 1
 
 noncomputable section

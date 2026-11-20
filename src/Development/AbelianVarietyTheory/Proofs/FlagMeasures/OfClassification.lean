@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary₂.DiscreteSeriesClassificationIff
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.DiscreteSeriesUpqExistsIffDsExists
-import Formalism.SharpRestriction.CuspSpanNormBounds.DiscreteSeriesWeylDimension
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ConsequencesOfDsClass
 
 namespace GlobalTheory.DiscreteSeriesConsequences

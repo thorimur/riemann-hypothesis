@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.HermitianForms.IsLocBasis
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PolFunApply
 

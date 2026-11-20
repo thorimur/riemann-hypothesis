@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.LinkExactAff
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open GlobalTheory.SeqCx Matrix
 

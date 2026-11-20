@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.FrameEstimates.SquareIntegrableWeilRange
 
 open MeasureTheory Filter Topology GlobalTheory.WeilM

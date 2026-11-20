@@ -1,8 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.EigenLatDifferent
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ProjSumSumEmbeddingsEqTrace
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.DifferentGeneratorDualIntegral
-import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CapelliComplements.GeneralBFactThird
+import Lemmata.GeneralBFactThirdAlt.Imports
 
 noncomputable section
 

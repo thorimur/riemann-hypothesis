@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsHodgeLine
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ImaginaryRootConj
+import Mathlib.Algebra.Order.Star.Real
 
 noncomputable section
 

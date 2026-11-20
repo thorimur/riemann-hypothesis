@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsSchemeOfThickenings
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PreimageUpOpen
+import Mathlib.AlgebraicGeometry.Morphisms.Finite
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry Opposite
 
 namespace GlobalTheory.FerrandPush

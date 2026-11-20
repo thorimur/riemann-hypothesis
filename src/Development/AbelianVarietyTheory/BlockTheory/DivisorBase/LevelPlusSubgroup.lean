@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.ElevenLe
-import Formalism.LocalRingCardinality.DataParamsT
 import Development.AbelianVarietyTheory.Definitions.Divisors.BplusOfEquivariant
 import Development.AbelianVarietyTheory.Definitions.Divisors.GridTestLatticeLargestSlopeBound
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.LabelDatum

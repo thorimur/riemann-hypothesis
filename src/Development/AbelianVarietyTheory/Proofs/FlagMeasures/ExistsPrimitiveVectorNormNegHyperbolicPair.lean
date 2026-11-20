@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataSpaces
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsIdealCoprimeConjMulEqSpanSingletonStatement
 
 open NumberField IsDedekindDomain Formalism.BasicNotions

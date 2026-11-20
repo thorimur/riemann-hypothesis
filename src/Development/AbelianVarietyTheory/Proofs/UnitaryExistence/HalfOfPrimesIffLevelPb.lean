@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.CoreAt
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.HalfLevelCoefficients
 

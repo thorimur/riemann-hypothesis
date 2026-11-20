@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.PairingDivisors.StatementN
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 open Finset
 

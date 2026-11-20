@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsSecFiniteUnit
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.AssemblyPartial
 set_option maxSynthPendingDepth 1

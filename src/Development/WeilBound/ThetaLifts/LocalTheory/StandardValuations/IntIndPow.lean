@@ -1,4 +1,5 @@
 import Development.WeilBound.ThetaLifts.LocalTheory.StandardValuations.ContinuousCut
+import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.PairwiseDisjointCell
 
 set_option linter.unusedSectionVars false
 

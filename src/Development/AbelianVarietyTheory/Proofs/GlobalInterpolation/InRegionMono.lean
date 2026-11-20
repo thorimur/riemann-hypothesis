@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LandauZeroFreeBounds.Statement
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LFunctionConjEqZero
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OrderNeTop

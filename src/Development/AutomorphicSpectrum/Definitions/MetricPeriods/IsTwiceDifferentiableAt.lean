@@ -1,8 +1,7 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.LeviForms.IsRegFamilyInhabitStatement
-import ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialPullbackStatement
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.PairRelationOfScaledRatio
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.InFlagDomainOne
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 

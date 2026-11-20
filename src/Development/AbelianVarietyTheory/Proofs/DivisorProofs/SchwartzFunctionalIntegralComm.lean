@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.RealMetaplecticRepresentation
+import Mathlib.Analysis.Normed.Module.HahnBanach
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 open MeasureTheory GlobalTheory.RealWeil
 open scoped SchwartzMap BoundedContinuousFunction
 

@@ -1,4 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.FinrankTensor
+import Formalism.PolynomialDimension.MultinomialDepth.WeylDimPosOfAntitone
+import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.MeanDefs
+import Mathlib.Order.Interval.Finset.Box
 
 noncomputable section
 

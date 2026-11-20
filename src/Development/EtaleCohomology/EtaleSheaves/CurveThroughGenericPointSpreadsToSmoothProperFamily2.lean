@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafSpreadVCut
+import Mathlib.AlgebraicGeometry.Morphisms.QuasiFinite
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite LateralTheory.E.E4 LateralTheory.E.LeafGeoVCut

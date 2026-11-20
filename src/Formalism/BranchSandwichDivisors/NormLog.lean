@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.BranchSandwichDivisors.StatementR
 
 open Finset

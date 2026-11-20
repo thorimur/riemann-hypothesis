@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.SectionMulInjSt
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.TwistAlg
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PStepThreeAway
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PStepThreeOnWGen
 set_option maxSynthPendingDepth 1

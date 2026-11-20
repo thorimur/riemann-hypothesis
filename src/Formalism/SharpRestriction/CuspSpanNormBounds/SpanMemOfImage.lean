@@ -1,4 +1,6 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.StarVecMulDM
+import Formalism.SharpRestriction.CuspSpanNormBounds.DMiMulVecApply
+import Formalism.SharpRestriction.CuspSpanNormBounds.TrD
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
 
 open MeasureTheory Matrix Finset
 

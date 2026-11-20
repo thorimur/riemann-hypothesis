@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.InvariantSubspaceCoordsX
 import Formalism.LocalToGlobal.Columns.RowFormsNZ
 import Formalism.LocalToGlobal.GlobalTheory.GL4.PDetAll
+import Formalism.LocalToGlobal.Divisibility.ProjLemmas
 
 open NumberField IsDedekindDomain Module
 

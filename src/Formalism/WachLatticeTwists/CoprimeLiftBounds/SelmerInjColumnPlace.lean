@@ -1,4 +1,4 @@
-import Formalism.WachLatticeTwists.CoprimeLiftBounds.Statement
+import Formalism.CharacterColumnKernels.StatementPsi
 
 open Finset Classical
 

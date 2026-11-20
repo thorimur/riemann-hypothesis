@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ChainRuleAndJacobianCriterion
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsHolomorphicSections
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 open Topology
 

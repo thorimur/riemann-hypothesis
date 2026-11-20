@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedNefF
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PGeneratedProductNonneg
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PGeneratedRestrict

@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatHalfSt
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTransport
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatticeUniquenessOfCoveringStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChainCoverOfPrintedResultsStatement
 

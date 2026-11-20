@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.InterIntegral
-import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.CayleyGaussianIntegrals.MatrixFormFourfoldBlock
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

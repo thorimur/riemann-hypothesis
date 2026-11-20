@@ -1,7 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.CxPassSk
 import Formalism.LocalToGlobal.IndefiniteReal.EqZeroOfMemRangeAdjoint
-import Formalism.LocalToGlobal.Divisibility.RowLatLemmas
+import Mathlib.Data.Finsupp.Pointwise
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder InnerProductSpace

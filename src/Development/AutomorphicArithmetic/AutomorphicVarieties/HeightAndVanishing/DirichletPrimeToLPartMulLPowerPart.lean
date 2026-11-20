@@ -1,5 +1,8 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CharacterLevelBounds.ShaFamMono
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SelmerTransport.ExistsO
+import Development.AutomorphicArithmetic.AutomorphicVarieties.PrimeSetBoundDataOfPrimitiveChar
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.NumberTheory.MulChar.Duality
 
 noncomputable section
 

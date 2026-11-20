@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.AugBijPf
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 open Polynomial IsLocalRing

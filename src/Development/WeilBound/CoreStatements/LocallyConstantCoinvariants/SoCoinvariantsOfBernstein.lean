@@ -1,4 +1,3 @@
-import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.KCoinvOfDict
 import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDict
 import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.FullOfSoLoc
 

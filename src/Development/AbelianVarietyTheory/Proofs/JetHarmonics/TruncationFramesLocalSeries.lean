@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.JetsOnCopiesCompatibleFrames
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.UnifUniqSt
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.TwistBCPf
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBSer
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBFr
 
 set_option autoImplicit false
 noncomputable section

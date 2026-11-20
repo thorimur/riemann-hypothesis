@@ -1,7 +1,7 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.StatementS
 import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.FacShapeZero
-import Formalism.EllipticTorsion.FormalGroupPointsNoTorsion
 import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.Taylor0ConstMul
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 open PowerSeries
 

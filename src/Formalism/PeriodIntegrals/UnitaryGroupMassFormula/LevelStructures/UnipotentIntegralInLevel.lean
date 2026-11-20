@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelStructures.LeviFixesAnisotropic
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelStructures.LeviInt
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelStructures.FrameStd
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelStructures.K2uGrpHolds
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalVolumeIndices.LocIdxLift
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NLevelHolds

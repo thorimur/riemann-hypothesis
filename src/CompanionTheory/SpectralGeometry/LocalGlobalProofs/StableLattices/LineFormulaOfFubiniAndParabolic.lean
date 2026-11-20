@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.RealGroups.DiscreteSeries.DiscreteSeriesClassification.DiscreteSeriesExhaustion.MatrixCoefficientDecay.LineFormulas.Fub2
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.InitialStatement
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.HaarExistence

@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.IsAdmissibleFlagPairOfUnitriangularLeftAutomorph
 import Formalism.LocalToGlobal.GlobalTheory.GL3.PLinkChi
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PLinkThU
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PThIndep
 
 noncomputable section
 

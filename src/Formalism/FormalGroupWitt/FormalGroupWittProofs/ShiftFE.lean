@@ -1,4 +1,8 @@
 import Formalism.FormalGroupWitt.Statement
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

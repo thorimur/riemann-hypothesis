@@ -1,10 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRingHomOfGeneric
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagInduces
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsLieFrames
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LieBaseIff
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ScholzeWeinsteinB
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsIsFlagBundleRankOne
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.RegularAlteration
 import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagModelToFlagBundleLocallyQuasiFinite
@@ -12,6 +8,7 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsNormalProject
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagsSameFrameIso
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CarriedFlagTriangularFrame
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TriangularChangeSpansFlag
+import Development.AbelianVarietyTheory.Definitions.Divisors.SemiposAtOfPositive
 
 set_option autoImplicit false
 

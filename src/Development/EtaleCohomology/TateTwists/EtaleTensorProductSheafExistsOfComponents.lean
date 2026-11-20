@@ -1,5 +1,4 @@
 import Development.EtaleCohomology.TateTwists.EtaleSheafTensorComplexExists
-import Development.EtaleCohomology.TateTwists.EtaleTensorComplexExistsOfSheafTensorComplex
 
 namespace LateralTheory.Fin.EtaleComplexTensorPairingExists
 theorem etale_tensor_product_sheaf_exists_of_components : LateralTheory.EtaleFoundations.EtaleSheafTensorComplexExists := by

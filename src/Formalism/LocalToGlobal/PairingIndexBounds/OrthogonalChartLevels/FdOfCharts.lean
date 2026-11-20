@@ -1,6 +1,7 @@
-import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.InvarianceIffAdditiveMapsExist
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.KerTh
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.PtStep0
+import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.DetOfColSpanEq
+import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.WittEmbeddingsCompatible
 
 noncomputable section
 

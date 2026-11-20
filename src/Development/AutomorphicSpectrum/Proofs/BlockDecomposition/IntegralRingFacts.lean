@@ -1,9 +1,4 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.AcrisKummerUnits.ConstantCoeffSurjective
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.WittExactSequences.ObFacts
-import GroundTheory.PAdicHodge.BStPeriod
-import GroundTheory.PAdicHodge.KerTheta
-import GroundTheory.PAdicHodge.TiltValuation
 set_option backward.isDefEq.respectTransparency false
 
 noncomputable section

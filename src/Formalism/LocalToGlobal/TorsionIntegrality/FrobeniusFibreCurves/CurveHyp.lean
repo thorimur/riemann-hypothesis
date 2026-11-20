@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.IsLawOfLog
+import Mathlib.RingTheory.PowerSeries.Log
 
 noncomputable section
 

@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.IntegralExtensionOfRegR1
-import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.WeightedPrimeSumBound
 
 noncomputable section
 

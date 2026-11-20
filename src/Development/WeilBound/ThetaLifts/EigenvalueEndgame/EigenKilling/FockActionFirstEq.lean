@@ -1,4 +1,8 @@
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFockMap
+import Formalism.LocalRingCardinality.DataTheta
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.TotallySplit
+import Std.Tactic.BVDecide.Normalize.Bool
 
 noncomputable section
 

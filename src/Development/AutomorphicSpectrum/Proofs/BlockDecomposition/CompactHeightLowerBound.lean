@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RatVInjective
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ZeroMemBoxF
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CvecSurjective
 
 set_option maxSynthPendingDepth 1

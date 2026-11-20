@@ -1,4 +1,5 @@
 import CompanionTheory.AutomorphicTheory.PadicCyclotomicFields.GcohDefs
+import GroundTheory.ProfiniteCohomology.LocalTateDuality.InjectiveCohomologyMapKummerSeqOpenFTwo
 
 open CategoryTheory GroundTheory.ProfCoh ReciprocityTheory.Gal ValuativeRel
 

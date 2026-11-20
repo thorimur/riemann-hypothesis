@@ -1,5 +1,5 @@
 import Development.EtaleCohomology.CohomologicalPurity.LeafClCut
-import Development.EtaleCohomology.KummerTheory.FlasquePf
+import Mathlib.CategoryTheory.Limits.Types.Pushouts
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC CochainComplex.HomComplex

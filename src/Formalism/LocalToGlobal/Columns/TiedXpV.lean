@@ -1,10 +1,8 @@
 import Formalism.LocalToGlobal.Columns.TiedXp
-import Formalism.LocalToGlobal.Columns.TiedVal
 import Formalism.LocalToGlobal.Columns.TiedValRat
 import Formalism.LocalToGlobal.Columns.TiedValFi
-import Formalism.LocalToGlobal.Columns.TiedValLat
 import Formalism.LocalToGlobal.Columns.TiedValNorm
-import Formalism.LocalToGlobal.Columns.BaseLemmas
+import Formalism.LocalToGlobal.Columns.TiedValLatG
 
 open NumberField IsDedekindDomain Module Matrix
 open scoped TensorProduct

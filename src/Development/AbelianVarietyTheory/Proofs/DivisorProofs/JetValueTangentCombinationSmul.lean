@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffTopMonEqZero
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

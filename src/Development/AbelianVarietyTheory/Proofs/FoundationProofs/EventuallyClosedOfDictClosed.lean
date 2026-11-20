@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.WeightDictionaryLifting
 import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.JumpDictionary

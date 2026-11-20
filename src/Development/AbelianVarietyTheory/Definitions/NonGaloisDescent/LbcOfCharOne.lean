@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.Lbc
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.ScholzeFunctorialExtension
 

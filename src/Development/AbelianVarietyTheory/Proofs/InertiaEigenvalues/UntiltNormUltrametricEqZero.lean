@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.CrystallinePeriods.RingBasics
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsCrisP
 open Formalism Formalism.BasicNotions Formalism.BasicNotions.Loc GlobalTheory.MemLoc

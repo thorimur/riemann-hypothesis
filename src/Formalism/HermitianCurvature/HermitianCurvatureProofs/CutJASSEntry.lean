@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJA
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJASSnRepCore
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSLMat
 

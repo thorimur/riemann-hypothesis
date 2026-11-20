@@ -1,7 +1,4 @@
 import Formalism.PolynomialDimension.MultinomialDepth.DvdPowOfNotPowSuccDvd
-import Formalism.PolynomialDimension.MultinomialDepth.FockGaussComparisonHolds
-import Mathlib
-import Formalism.PolynomialDimension.MultinomialDepth.IntervalRoomBound
 
 namespace Formalism.CountingSumsFrames.Top
 

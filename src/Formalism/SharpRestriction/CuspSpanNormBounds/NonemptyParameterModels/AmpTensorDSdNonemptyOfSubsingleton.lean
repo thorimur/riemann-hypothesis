@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.SBridge
-import Formalism.FormalDegreeBessel.FinalG
 import Formalism.SharpRestriction.CuspSpanNormBounds.OnePlaceEstimates
+import Mathlib.CategoryTheory.Countable
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open MeasureTheory Matrix Finset
 open scoped InnerProductSpace ENNReal

@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.MackeyFormula.Cohomology
 import GroundTheory.ProfiniteCohomology.MackeyFormula.ConjHomotopy
-import GroundTheory.ProfiniteCohomology.CohomologyFunctoriality.Naturality
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

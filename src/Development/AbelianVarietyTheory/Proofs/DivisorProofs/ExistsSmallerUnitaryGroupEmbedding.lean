@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.SatakeDualWeyl.KpqSubgroupCompact
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AntiJMulApply
+import Mathlib.RingTheory.PiTensorProduct
 open Formalism.UG GlobalTheory.SatakeWeyl
 
 open Matrix

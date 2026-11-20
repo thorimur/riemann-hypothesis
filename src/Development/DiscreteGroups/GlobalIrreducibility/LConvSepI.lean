@@ -1,5 +1,3 @@
-import Mathlib
-import Development.DiscreteGroups.GlobalIrreducibility.LConvCut
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HasCompactSupportDescend
 
 noncomputable section

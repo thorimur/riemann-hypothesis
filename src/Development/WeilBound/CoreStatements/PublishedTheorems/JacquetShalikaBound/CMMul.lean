@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.MacdonaldWhittakerHecke
-import GroundTheory.AutomorphicForms.MeasuresModulus
+import GroundTheory.AutomorphicForms.MacdonaldAlternant
+import GroundTheory.AutomorphicForms.WhittakerGroups
 
 noncomputable section
 

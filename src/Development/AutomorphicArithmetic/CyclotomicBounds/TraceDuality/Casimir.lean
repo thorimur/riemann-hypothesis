@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.TraceForm
 import Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.DualFamily
 import Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.EmbSum

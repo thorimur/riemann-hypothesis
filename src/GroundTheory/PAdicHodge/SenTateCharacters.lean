@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.SenTateCharTrace
 import GroundTheory.PAdicHodge.SenTateCharQp
 set_option maxSynthPendingDepth 1

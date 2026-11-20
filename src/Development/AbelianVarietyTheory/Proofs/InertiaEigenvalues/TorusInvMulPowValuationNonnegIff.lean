@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ValsAtApply
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 open GlobalTheory.UnitLemma
 
 namespace GlobalTheory.TorusInteg

@@ -1,6 +1,7 @@
 import Formalism.MahlerMeasure.LevelLattice
 import Formalism.MahlerMeasure.MahlerMeasureProofs.RemoveS
 import Formalism.MahlerMeasure.MahlerMeasureProofs.LevelDecomp
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace Formalism.GM.FockB
 

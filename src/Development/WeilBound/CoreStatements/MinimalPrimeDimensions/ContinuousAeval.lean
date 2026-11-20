@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PRatPrimeDense
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PFiniteSeparatingModel
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PRootsNear
@@ -6,6 +5,12 @@ import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PRootsBounded
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PPolyNonvanishDense
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PNoetherProjection
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PRootsLiftToZeros
+import Mathlib.Data.Finsupp.Encodable
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open MvPolynomial Filter Topology NumberField
 

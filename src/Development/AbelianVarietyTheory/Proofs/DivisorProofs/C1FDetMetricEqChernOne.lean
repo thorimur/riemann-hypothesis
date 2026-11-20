@@ -1,13 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaF
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SubquotientCurvatureStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SecondChernFormPullback
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChernAtOneEq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FirstChernIsometricEq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagOmegaFormReal
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetMetricIsometricOfIsometry
 import Development.AbelianVarietyTheory.Definitions.Divisors.SecondChernDegreeFubiniStudyLine
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FsOne
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HPolyAddTwo
 
 set_option autoImplicit false
 

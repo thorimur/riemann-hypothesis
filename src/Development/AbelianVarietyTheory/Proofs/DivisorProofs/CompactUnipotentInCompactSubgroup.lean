@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LongWConjApply
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsCompactSubgroup
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyDeepSubset
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

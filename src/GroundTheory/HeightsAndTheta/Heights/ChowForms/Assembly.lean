@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PFGNullstellensatz
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PProjNullstellensatz
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PIncidenceGeneric
@@ -13,8 +12,6 @@ import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChowFormExists
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PLengthQuotientDet
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.POrdPolynomialLocalization
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChowFormBirational
-import GroundTheory.HeightsAndTheta.Heights.ChowForms.PSectionOrder
-import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChowFormSection
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

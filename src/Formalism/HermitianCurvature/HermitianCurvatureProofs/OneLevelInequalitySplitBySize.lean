@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementTB
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PositiveSemidefinitePullback
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BlockStartPoints
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FormDomination

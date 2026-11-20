@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualCotangentKer
+import Mathlib.RingTheory.Henselian
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

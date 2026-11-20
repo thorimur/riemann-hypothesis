@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.UnitaryGroupScheme
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 
 namespace GroundTheory.Automorphic
 

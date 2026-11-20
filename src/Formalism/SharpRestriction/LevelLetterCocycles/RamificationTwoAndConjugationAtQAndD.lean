@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.BlochKatoDuality
-import Formalism.WachLatticeTwists.LatticeDualFibres.PropLocContOfLattices
-import Formalism.WeaklyAdmissibleFiltrations.PhtGalois
+import Formalism.WachLatticeTwists.LatticeDualFibres.LatticeDualProofs.LocDualOrth
+import Formalism.WachLatticeTwists.LatticeDualFibres.LatticeDualProofs.QuotLen
+import Formalism.WeaklyAdmissibleFiltrations.CrystallineStableLifts.Galois
 
 noncomputable section
 

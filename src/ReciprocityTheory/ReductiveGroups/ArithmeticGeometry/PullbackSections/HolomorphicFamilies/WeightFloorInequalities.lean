@@ -1,5 +1,4 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ThetaWeightBounds
-import Formalism.LocalToGlobal.LatticeGeometry.CmTypeMeetsConjugatePair
 
 noncomputable section
 

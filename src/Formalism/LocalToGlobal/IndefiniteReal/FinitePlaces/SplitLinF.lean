@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.SplitLin
+import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.PlaceFinal
 
 namespace Formalism.IndefR.Fin
 

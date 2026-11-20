@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.GlueSmoothOfCompactSupport
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.IsClosedEmbeddingOfLocallyCompact
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.DixmierMalliavinLie
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.TransChartSymmApply
 open GlobalTheory.Orb
 open scoped Topology ContDiff Manifold
 set_option maxHeartbeats 1000000 in

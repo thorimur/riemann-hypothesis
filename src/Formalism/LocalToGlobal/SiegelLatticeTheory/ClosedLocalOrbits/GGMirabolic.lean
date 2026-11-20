@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GGMirabolicBase
-import Formalism.HermitianCurvature.StatementPB
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GrowthOfBasic
 
 namespace Formalism.L2.SG.GGMirabolic

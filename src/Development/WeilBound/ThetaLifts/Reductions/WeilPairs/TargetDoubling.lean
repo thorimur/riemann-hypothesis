@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.ContinuousDualG
 
 open scoped TensorProduct Matrix

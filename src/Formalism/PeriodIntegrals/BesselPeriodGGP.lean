@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UpqRep
 import Formalism.PeriodIntegrals.IsLowUnitH
-import Formalism.FormalDegreeBessel.StatementG
 import Formalism.FormalDegreeBessel.StatementBF
 import Formalism.FormalDegreeBessel.StatementDS
 

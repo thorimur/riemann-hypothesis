@@ -1,5 +1,5 @@
 import Formalism.LocalRingCardinality.DataHost
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.HostFacts
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.FrameFacts
 
 open NumberField Formalism.FrobeniusOrbits Formalism.HC
 

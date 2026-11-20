@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClOfSelf
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.InducedProductDropZeroFactors
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.JhMultSubAddQuot
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.ZelevinskyJacquet.LSegJacquet
 
 noncomputable section
 

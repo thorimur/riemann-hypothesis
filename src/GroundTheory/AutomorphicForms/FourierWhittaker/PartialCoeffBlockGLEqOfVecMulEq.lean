@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.FourierWhittaker.Smooth
+import GroundTheory.AutomorphicForms.FourierWhittaker.AdelicCharPairTorusPtSingle
 
 open NumberField NumberField.mixedEmbedding MeasureTheory Topology Set Filter IsDedekindDomain Matrix
 open scoped NumberField.AdeleRing

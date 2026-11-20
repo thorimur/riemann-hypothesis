@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelStructures.TypedNeOf
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelStructures.LatStab
 

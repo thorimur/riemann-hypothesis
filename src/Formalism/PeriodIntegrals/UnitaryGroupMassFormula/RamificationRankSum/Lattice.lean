@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.EfRankSum
+import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ExistsPowSmulMemBall
 
 namespace PI.UnitaryGroupMassFormula.EfRankSum
 

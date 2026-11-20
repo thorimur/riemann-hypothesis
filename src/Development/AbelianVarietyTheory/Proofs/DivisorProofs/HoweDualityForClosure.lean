@@ -1,9 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClosureUAt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFieldTensorOfIsEmptyAlgHom
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CmExistsMoved
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftMatMapSelf
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsLocCoLocDarboux
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocChrOfResEtaPow
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiAtContNormNontriv
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HoweDualityForTransport

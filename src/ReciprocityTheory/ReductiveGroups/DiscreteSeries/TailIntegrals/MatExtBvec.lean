@@ -1,4 +1,4 @@
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.InductiveHeisenbergInputs
+import Formalism.HermitianCurvature.StatementB
 
 noncomputable section
 open Matrix MeasureTheory

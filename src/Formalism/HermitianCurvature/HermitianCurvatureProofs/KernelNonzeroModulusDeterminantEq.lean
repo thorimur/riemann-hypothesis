@@ -1,6 +1,7 @@
 import Formalism.HermitianCurvature.BlockKernelPropertiesOfSteps
 import Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.LowUniMulVecELast
 import Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.MulInvBlockDiagApplySameBlock
+import Mathlib.LinearAlgebra.Matrix.Permutation
 
 noncomputable section
 

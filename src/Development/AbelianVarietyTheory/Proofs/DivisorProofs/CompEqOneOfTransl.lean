@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.NotCompactOfMEqOne
-import Development.AbelianVarietyTheory.Definitions.ModuliSpaces.IsGaloisCover
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

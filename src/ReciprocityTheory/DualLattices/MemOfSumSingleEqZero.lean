@@ -1,4 +1,4 @@
-import ReciprocityTheory.DualLattices.ProdDvdOfIso
+import ReciprocityTheory.DualLattices.CotangentSurjective
 
 noncomputable section
 

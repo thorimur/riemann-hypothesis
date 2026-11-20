@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.GoodModelAll
-import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementL
+import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.StatementW
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

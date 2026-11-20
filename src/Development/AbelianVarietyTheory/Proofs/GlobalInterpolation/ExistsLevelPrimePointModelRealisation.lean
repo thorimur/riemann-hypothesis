@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.KerIsTerm
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LevelChainSharpColumnValuationOfPointKernelLiftL
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.InvSmulMemOfRedL
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.TilLatticesOfLevel
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassSumPosHerm

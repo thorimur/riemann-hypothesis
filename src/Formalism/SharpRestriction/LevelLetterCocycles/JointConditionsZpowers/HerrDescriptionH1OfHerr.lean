@@ -1,6 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.WachRestrictionOfLiftingPackage
 import Formalism.SharpRestriction.LevelLetterCocycles.ClassMapInjectiveBijectiveNorms
-import Formalism.SharpRestriction.LevelLetterCocycles.LocalSituation
 import Formalism.SharpRestriction.LevelLetterCocycles.DeltaInvariantLattices
 
 noncomputable section

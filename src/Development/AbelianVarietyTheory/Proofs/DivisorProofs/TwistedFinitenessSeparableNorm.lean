@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsRootSelectionUnitaryRankOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwFin
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SigResIterateEqSelf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SigKQMemIntKQ

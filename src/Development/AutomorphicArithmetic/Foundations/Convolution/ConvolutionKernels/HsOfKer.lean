@@ -1,4 +1,6 @@
-import GroundTheory.AutomorphicForms.TraceClass
+import GroundTheory.AutomorphicForms.HilbertSchmidt
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.MeasureTheory.Function.L2Space
 
 open MeasureTheory GroundTheory.Automorphic
 open scoped InnerProductSpace

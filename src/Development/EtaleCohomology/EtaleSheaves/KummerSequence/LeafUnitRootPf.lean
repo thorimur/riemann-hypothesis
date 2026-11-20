@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.KummerSequence.LeafKumSecSurjPf
+import Mathlib.RingTheory.Etale.StandardEtale
+import Mathlib.RingTheory.Etale.Weakly
 
 open Polynomial
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.E4 LateralTheory.E.H2CurveOrder.LeafKumSeqPf LateralTheory.E.H2CurveOrder.KummerH0Surjection

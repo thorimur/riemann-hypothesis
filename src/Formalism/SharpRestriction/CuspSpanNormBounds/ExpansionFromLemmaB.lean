@@ -1,8 +1,7 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.TheoremBConstants
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSchur
 import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.FramedTwoCoboundaries
-import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.OrderedAtRanksOfPositionElement
-import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSB
+import Formalism.SharpRestriction.CuspSpanNormBounds.OnePlaceEstimates
+import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.IdempotentTranslateMeasurable
 
 open MeasureTheory Matrix Finset
 open scoped InnerProductSpace ENNReal

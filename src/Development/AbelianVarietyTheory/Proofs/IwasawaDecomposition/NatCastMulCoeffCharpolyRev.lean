@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.LogCharpoly
 
 namespace GlobalTheory

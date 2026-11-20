@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.ZhangDimensionPushDownGrassmannianHeightBounds
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.MoriwakiSt
 import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.Imports
 import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.OfMoriwakiHS
 import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.ImportsBis

@@ -1,6 +1,8 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.RootOnFund
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.AbProj
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsHodgeLine
+import Mathlib.AlgebraicGeometry.QuasiAffine
+import Mathlib.CategoryTheory.Limits.Shapes.Countable
+import Mathlib.SetTheory.ZFC.PSet
 
 noncomputable section
 

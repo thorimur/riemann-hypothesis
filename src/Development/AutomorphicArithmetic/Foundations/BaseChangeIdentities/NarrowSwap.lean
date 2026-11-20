@@ -1,7 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.NarrowCondition
 import Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.NarrowAsc
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BaseChangeOfPublishedStatement
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.DiscreteSpectrumOfResidual
 
 noncomputable section
 

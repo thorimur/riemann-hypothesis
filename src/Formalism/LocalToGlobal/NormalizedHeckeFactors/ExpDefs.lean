@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.AlgebraicWeights.IsAlgWeight
 
 noncomputable section

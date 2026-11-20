@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulEqOfRangeLe
 import GroundTheory.AutomorphicForms.AnisotropicHeight
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ExistsFactor

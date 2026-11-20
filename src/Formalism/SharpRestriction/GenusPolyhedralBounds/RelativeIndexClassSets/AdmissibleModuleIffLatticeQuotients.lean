@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.WeightedPrimeSumBound
-import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.GlobalFamilyData
 import Formalism.LocalToGlobal.LatticeGeometry.ViewsC
 import Formalism.SharpRestriction.Divisibility.AbelianOpenPart.OEOsInjective
 

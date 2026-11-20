@@ -1,6 +1,4 @@
-import Mathlib
 import CompanionTheory.AutomorphicTheory.UnitriangularMeasure.AdeleCoordinateMeasure.GJGlobalModulus
-import GroundTheory.AutomorphicForms.GL2.GJGlobalDefs
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Theta

@@ -1,5 +1,5 @@
-import Development.WeilBound.ThetaLifts.SmallCones.ThetaUniq
-import Development.WeilBound.ThetaLifts.SmallCones.ConeUnf
+import Development.WeilBound.ThetaLifts.SmallCones.ConeBasic
+import Development.WeilBound.ThetaLifts.SmallCones.HodgeTateFromSandwich
 
 set_option linter.unusedSectionVars false
 

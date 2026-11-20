@@ -1,5 +1,7 @@
 import Development.AbelianVarietyTheory.Definitions.Foundations.ShCocOn
 import Development.AbelianVarietyTheory.Definitions.Foundations.Letter
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 open GlobalTheory.KZ
 open scoped Topology
 

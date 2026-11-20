@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.GindikinKarpelevich
 
 open GlobalTheory.SplitWeil GlobalTheory.SmGL GlobalTheory.WeylCell

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StPtsGenericCount
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StGoodChartModel
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StComponentsGenericCount

@@ -1,5 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CongruenceGainBound.AddPreservesExpCongruence
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CongruenceGainBound.PowMod
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CongruenceGainBound.SubstitutionBound
 
 noncomputable section
 

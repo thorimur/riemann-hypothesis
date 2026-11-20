@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.ResolutionCharZero.PrincipalisationCharZeroOfBoundary
 import Development.WeilBound.CoreStatements.ResolutionCharZero.RqGbnd
 

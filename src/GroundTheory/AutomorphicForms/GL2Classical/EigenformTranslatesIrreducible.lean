@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2Classical.EigenformTranslates
+import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspFormsDecay
+import GroundTheory.AutomorphicForms.GL2Classical.CuspFormsFiniteDim
+import GroundTheory.AutomorphicForms.GL2Classical.UnitaryEigenSpan
 
 open NumberField Matrix CongruenceSubgroup ModularForm Complex Filter MeasureTheory
 open UpperHalfPlane hiding I I_re I_im

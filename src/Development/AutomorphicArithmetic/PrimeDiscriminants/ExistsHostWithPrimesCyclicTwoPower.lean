@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.MeanSquareBounds.pairEx
 import Development.AutomorphicArithmetic.CharacterBoxes.PairHyp
 import Development.AutomorphicArithmetic.ShortNorms.typePrimesN
@@ -7,7 +6,6 @@ import Development.AutomorphicArithmetic.ShortNorms.MulLogLeRpowEventually
 import Development.AutomorphicArithmetic.CoprimeRanks.AdmChi
 import Development.AutomorphicArithmetic.PrimeDiscriminants.ExistsHost
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NormPrimesImagQuadShortIntervalLowerBoundStatement
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ExplicitRanksBasicBoundsLargeScale
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.NormOneIffOfSqrt
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.NormOneModEqOneAndOfDvd
 

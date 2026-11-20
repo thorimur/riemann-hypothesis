@@ -1,7 +1,10 @@
-import Mathlib
-import Development.AutomorphicArithmetic.LocalEmbeddings.ValCount
-import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsValuationSubringDominatingSubring
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.JGenSpecializes
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Algebra.MvPolynomial.Cardinal
+import Mathlib.AlgebraicGeometry.FunctionField
+import Mathlib.AlgebraicGeometry.Modules.Sheaf
+import Mathlib.AlgebraicGeometry.Morphisms.FiniteType
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.Tactic.ENatToNat
 open CategoryTheory AlgebraicGeometry IsLocalRing GlobalTheory GlobalTheory.ValCount GlobalTheory.TrueGeo
 open scoped Classical
 

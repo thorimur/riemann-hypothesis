@@ -1,5 +1,4 @@
-import Mathlib
-import Development.DiscreteGroups.GlobalIrreducibility.ExistsOfMemKOne
+import Formalism.LocalRingCardinality.SpanPowerMembership.LocAtA
 
 open IsDedekindDomain NumberField
 

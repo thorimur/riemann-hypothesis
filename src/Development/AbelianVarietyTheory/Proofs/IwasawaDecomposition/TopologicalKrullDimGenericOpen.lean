@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsChartTrdegEqRelDim
 open CategoryTheory Limits AlgebraicGeometry TopologicalSpace
 

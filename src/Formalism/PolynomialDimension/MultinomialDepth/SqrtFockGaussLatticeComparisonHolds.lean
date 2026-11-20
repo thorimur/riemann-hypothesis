@@ -1,6 +1,8 @@
-import Formalism.PolynomialDimension.StatementHar
 import Formalism.PolynomialDimension.MultinomialDepth.HarmonicDecompositionHolds
 import Formalism.PolynomialDimension.MultinomialDepth.DiagLaplacianDivPowMemSqrtFockLattice
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 open scoped BigOperators

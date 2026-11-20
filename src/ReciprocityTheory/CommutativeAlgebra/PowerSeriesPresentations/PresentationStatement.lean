@@ -1,4 +1,6 @@
 import ReciprocityTheory.CommutativeAlgebra.ChainConnInDim
+import Mathlib.RingTheory.MvPowerSeries.Inverse
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 namespace ReciprocityTheory.CA.PS
 

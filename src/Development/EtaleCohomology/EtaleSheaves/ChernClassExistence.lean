@@ -1,5 +1,6 @@
-import Development.EtaleCohomology.EtaleSheaves.ChernClassRootLocalization
 import Development.EtaleCohomology.TateTwists.EtaleFirstChernCochainCoboundaryVanishesSimplexD
+import Development.EtaleCohomology.EtaleSheaves.ChernClassSpecialization
+import Development.EtaleCohomology.TateTwists.EtaleLocallyExistsQthRootOfUnitWhenQInvertible
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex GlobalTheory.EtC

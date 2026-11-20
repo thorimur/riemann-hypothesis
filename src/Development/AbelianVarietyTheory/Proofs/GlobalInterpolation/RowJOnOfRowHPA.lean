@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.CountsIrreducibilityConstants
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.ClassCountBoundAtConstructedPoints
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.RowJOnOfRealisations
 
 noncomputable section

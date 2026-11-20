@@ -1,5 +1,11 @@
-import Mathlib
 import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.IsBand
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Compactness.Paracompact
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 open MeasureTheory Filter UpperTheory.Lit.Cusp
 open scoped Topology

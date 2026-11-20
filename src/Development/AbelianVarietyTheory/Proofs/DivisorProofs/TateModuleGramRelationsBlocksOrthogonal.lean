@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPushEquivPolPull
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsGoodPointDimOne
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilEqOneComplex
 
 set_option autoImplicit false
 

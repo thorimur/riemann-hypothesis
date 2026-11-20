@@ -1,12 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsBaseEqChain
-import Development.AbelianVarietyTheory.Definitions.Divisors.FaithfulSMulAlgClosure
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.PrismaticDieudonnePerfd
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFrobCokernelSmulHomPow
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PresentationExtensionClosed
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFrameOfProjective
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLengthOneChainIdentityEmbedding
 
 set_option autoImplicit false
 

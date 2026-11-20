@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.ComplSt
-import Development.AbelianVarietyTheory.Definitions.CommutativeAlgebra.CompletionDVR
+import Development.AbelianVarietyTheory.Proofs.FoundationProofs.RangeAlgebraMapEqIInfDiscreteValuationSubring
 
 namespace Formalism.L2.Pj
 

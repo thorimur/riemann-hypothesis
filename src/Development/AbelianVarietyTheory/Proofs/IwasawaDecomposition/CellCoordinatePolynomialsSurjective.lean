@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CauchyBinetPluckerAndCellCoordinates
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CompGvec
 open AlgebraicGeometry CategoryTheory Limits NumberField

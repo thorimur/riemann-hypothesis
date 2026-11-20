@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ProfDefs
+import Mathlib.GroupTheory.Schreier
 
 open Filter UpperTheory.V.AlgebraTools
 open scoped TensorProduct

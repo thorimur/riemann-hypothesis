@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsProjFullRankDense
 set_option maxSynthPendingDepth 1
 

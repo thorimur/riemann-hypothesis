@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.IsE8ThetaStructure
 
 noncomputable section

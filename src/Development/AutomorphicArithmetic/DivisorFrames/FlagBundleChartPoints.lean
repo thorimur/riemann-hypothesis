@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.LocalEmbeddings.ExistsIsMapToFn
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFlagBundleIff
-import Development.AutomorphicArithmetic.DivisorFrames.ExistsAdaptedFlagCharts
-import Development.AutomorphicArithmetic.DivisorFrames.FlagChartTransitionTriangular
 import Development.AutomorphicArithmetic.DivisorFrames.FlagConnectionAdapted
 open CategoryTheory AlgebraicGeometry NumberField IsDedekindDomain Matrix
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.BasicNotions Formalism.L2.Pj

@@ -1,5 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.CasimirAlgebra.KugaCoordinates.IsStarRep
-import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CapelliComplements.ProductIdentities
+import Lemmata.ProductIdentities.ProdInvZpowMulOfProdZpowEqOne
 
 noncomputable section
 

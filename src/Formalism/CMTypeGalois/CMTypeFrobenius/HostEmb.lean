@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.CMTypeGalois.StatementField
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField Finset
 

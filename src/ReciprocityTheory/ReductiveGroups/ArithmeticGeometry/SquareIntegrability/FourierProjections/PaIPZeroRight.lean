@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.FourierProjections.PaPolyTranslate
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
 
 namespace ReciprocityTheory.ChartRestriction.G.I2.FPw
 

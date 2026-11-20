@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.OrbitalIntegrals.QuotFubini
+import Mathlib.Algebra.Order.Star.Real
 
 noncomputable section
 

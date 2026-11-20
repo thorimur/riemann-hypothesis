@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.TateCohomology.CohTrivialPGroup
 import GroundTheory.TateCohomology.TateGroupIso
 import GroundTheory.TateCohomology.CoresRes

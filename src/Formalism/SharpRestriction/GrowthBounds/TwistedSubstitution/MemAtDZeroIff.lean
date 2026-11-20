@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.TwistedSubstitution.MemRed
+import Formalism.SharpRestriction.GrowthBounds.TwistedSubstitution.MemLin
 
 noncomputable section
 

@@ -1,9 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.AdelicProofs.GramMatrixPosDefConjugate
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.KernelsLattice
-import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.StatementsBundles
-import Development.AutomorphicSpectrum.Proofs.AdelicProofs.GramMat
 open NumberField TensorProduct GroundTheory.Heights₂.Heights GlobalTheory.CompanionTheory.Ar.Lines Matrix
 open scoped ComplexOrder nonZeroDivisors
 set_option maxHeartbeats 1000000 in

@@ -1,8 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.ClassMassEqSumOfBijective
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUnitaryClassRepTrivialAtCm
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.ClassSet
-import Formalism.HermitianLattices.HermitianLatticesProofs.LocBasic
 
 open NumberField IsDedekindDomain Formalism.UG Formalism.UG.P
 open scoped TensorProduct Matrix

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.ResolutionCharZero.PlugResW
 import Development.WeilBound.CoreStatements.ResolutionCharZero.PlugPrincW
 

@@ -1,5 +1,6 @@
-import Mathlib
-import Formalism.PadicSubsetSums.CentralIdempotents.HCDisjointO
+import Formalism.PadicSubsetSums.CentralIdempotents.GaloisConjCentralIdempotent
+import Mathlib.LinearAlgebra.Matrix.Permutation
+import Mathlib.LinearAlgebra.PiTensorProduct.Basis
 
 open Polynomial CategoryTheory
 open Formalism.IrreducibleCountingLemmas.TYPES hiding zIdem IsCuspidal

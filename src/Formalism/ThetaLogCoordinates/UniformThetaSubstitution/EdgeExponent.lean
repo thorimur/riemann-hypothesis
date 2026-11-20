@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementC
+import Mathlib.Combinatorics.Young.YoungDiagram
 
 noncomputable section
 

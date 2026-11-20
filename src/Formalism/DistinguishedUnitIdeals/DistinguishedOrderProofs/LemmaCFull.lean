@@ -1,8 +1,8 @@
-import Mathlib
 import Formalism.DistinguishedUnitIdeals.LemmaCFull
 import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.LinExtEqZeroOfMemExt
 import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.LevelsModConstIffOfNoDown
 import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.ArcLiftOfLocalizationData
+import Mathlib.Algebra.Order.Star.Real
 
 noncomputable section
 

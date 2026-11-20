@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpTie
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CocChart
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.SubstCoeRename
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.PhTwoValHolds
@@ -6,6 +5,7 @@ import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpGJAd
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpGUPf
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpGOPf
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpActOf
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ESecToUnit
 
 set_option autoImplicit false
 

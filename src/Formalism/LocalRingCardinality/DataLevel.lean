@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.Params
 import Formalism.LocalRingCardinality.DataSpaces
 import Formalism.LocalRingCardinality.DataKernels
 import Formalism.SatakeDualWeyl.StatementC

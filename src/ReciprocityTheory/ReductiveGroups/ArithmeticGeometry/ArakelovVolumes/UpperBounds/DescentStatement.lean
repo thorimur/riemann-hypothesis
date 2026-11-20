@@ -1,4 +1,4 @@
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.Rationality.FunKerSt
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.Rationality.DescSt
 
 namespace ReciprocityTheory.ChartRestriction.G.AR.Up
 

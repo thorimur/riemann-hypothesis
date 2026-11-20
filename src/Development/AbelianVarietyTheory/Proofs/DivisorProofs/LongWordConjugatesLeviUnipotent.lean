@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LongWConjApply
 open GlobalTheory.PRep GlobalTheory.SmGL GlobalTheory.WhitHered Matrix
 

@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.TraceFormulas.LatDefs
+import Mathlib.RingTheory.AdicCompletion.Noetherian
 open ReciprocityTheory.ChartRestriction.T2
 
 namespace GlobalTheory

@@ -1,4 +1,7 @@
-import Formalism.WachLatticeTwists.RealDisplaySplitting.GaloisTheoremThirdForms
+import Formalism.WachLatticeTwists.CoprimeLiftBounds.CoprimeLiftProofs.FirstSummandActionMem
+import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.IdempotentRankOneAtPoint
+import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.SurjectionOfRankOneIdempotent
+import ReciprocityTheory.ReductiveGroups.TraceFormulas.LatDefs
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

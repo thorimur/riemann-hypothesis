@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.LieModel
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatLieB
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LieModelExistsUniqueEquivStatement
+import Mathlib.RingTheory.PiTensorProduct
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj GlobalTheory.CompanionTheory.Ar
 open ReciprocityTheory.ChartRestriction.G.Geo.Tor
 

@@ -1,10 +1,11 @@
-import Mathlib
 import Formalism.GL3MeanSquares.InvNormSqConjRatioPowIdentities
 import Formalism.GL3MeanSquares.HookFormulaTorsion.PrimesInProgressionCountLowerBound
-import Formalism.GL3MeanSquares.HookFormulaTorsion.HadamardUnitDiagonalDetLeOne
 import Formalism.GL3MeanSquares.HookFormulaTorsion.SumWeightsOverPrimeLeHalfDegree
-import Formalism.GL3MeanSquares.HookFormulaTorsion.ConditionIffDualEqFunctional
-import Formalism.GL3MeanSquares.HookFormulaTorsion.LengthQuotientBoundGeneral
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.Real.Pi.Bounds
+import Mathlib.Data.Rat.Star
+import Mathlib.RingTheory.PiTensorProduct
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Finset Filter Topology ArithmeticFunction
 

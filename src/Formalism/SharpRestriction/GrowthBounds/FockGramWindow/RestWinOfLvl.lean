@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.FockGramWindow.LvlDef
-import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.ClosedOfMinimalVector
 import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FockKSmulRight
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.BejjSmulLeft
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.BlockValuationZpOfLatticeInclusion
 
 noncomputable section
 

@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToGAdMat
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleRealWeilIdentity
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzInfinitePlaceApprox
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaLineDerivativeSchwartz
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairThetaUniformBoundFamilyStatement
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaKernelDecay
 
 open NumberField IsDedekindDomain MeasureTheory Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes GlobalTheory.WeilM GlobalTheory.AdelicU GlobalTheory.LFun GlobalTheory.IndefiniteRowSideFullHecke.WeilTensorModels GlobalTheory.SiegelSet GlobalTheory.UAut GlobalTheory.ThK.SquareIntegrability GlobalTheory.ThK
 open Filter Topology Metric

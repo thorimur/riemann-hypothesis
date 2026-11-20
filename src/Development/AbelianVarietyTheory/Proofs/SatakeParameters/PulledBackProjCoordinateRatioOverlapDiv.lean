@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.XMemOne
 
 set_option autoImplicit false

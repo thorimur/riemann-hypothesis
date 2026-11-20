@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GrpPullbackId
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZbLeftWhiskerRight
 
 set_option autoImplicit false
 

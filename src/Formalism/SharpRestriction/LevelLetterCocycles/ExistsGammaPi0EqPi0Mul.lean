@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.KillWinFromCut
-import Formalism.SharpRestriction.LevelLetterCocycles.PsCoprimeOf
 
 noncomputable section
 

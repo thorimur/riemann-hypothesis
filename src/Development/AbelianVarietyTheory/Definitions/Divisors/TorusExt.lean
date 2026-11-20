@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.CMLattices.IsDiffOf
 
 open AlgebraicGeometry CategoryTheory Limits MonObj NumberField

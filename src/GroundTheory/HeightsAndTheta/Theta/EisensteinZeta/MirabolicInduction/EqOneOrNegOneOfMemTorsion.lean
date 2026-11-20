@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.AnalyticClassNumber.QuadraticConductor
 import GroundTheory.HeightsAndTheta.Theta.EisensteinZeta.MirabolicInduction.CfunOmStatements
 set_option maxSynthPendingDepth 1

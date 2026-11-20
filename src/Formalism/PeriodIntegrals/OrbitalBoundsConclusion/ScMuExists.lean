@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ScMuExists
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.TargetOfInstDecomp
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.InstAll
 

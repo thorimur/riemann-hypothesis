@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.GlobalTheory.GL5.PClassDecomp
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousGrpHom
 open NumberField MeasureTheory Formalism.BasicNotions Formalism.MainNotions.StandardLattice Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes Formalism.L2.GlobalTheoryTheory.GenusMassVolumes

@@ -1,4 +1,3 @@
-import Mathlib
 
 import GroundTheory.HeightsAndTheta.Theta.EisensteinZeta.AdicFrames.IsHermitianForExH
 

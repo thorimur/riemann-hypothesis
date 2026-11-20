@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.LinearIndependentE
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.ExistsHyperbolicCompletion
+import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsAuxiliaryPlaceNotMemFinset
+import Development.AbelianVarietyTheory.Definitions.Foundations.T2SpaceAdeleRing
+import Mathlib.Logic.Equiv.Bool
 
 noncomputable section
 

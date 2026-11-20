@@ -1,6 +1,4 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.LocallyConstantMajorants.SmoothMajorants.Bounds
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegrablePowerWeightReal
+import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.ComplexMatrix3
 
 open MeasureTheory Matrix Set Filter Ad3 Ad3.K Ad3.K.LC
 

@@ -1,4 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.Sq2UnitOfEqOneOfSq2EqDiv
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.SplLen
+import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
 
 open Matrix Set
 open scoped ComplexConjugate ContDiff Topology

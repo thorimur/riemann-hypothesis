@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJStandardLEngine
 import GroundTheory.AutomorphicForms.GL2.GJStandardLDual
 import GroundTheory.AutomorphicForms.GL2.GJStandardLFourier

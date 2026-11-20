@@ -1,5 +1,7 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.ReductionBoundsTorsion.CompactLocalSets.OverlapG
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.LowbdSmul
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Matrix.Hermitian
 
 noncomputable section
 

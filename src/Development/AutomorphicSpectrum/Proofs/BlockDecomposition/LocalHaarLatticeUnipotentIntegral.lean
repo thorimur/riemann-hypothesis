@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AdjOne
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LatAtIsCO
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WeylUnipotentIwasawaHeightStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LatticeImageLowerBlocksStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HaarImageGLScalingStatement

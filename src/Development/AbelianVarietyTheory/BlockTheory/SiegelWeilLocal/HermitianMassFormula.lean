@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GenusMassVolumes
 import Formalism.SharpRestriction.GlobalSchurBounds.StandardLattice
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.Partners
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.FrameLats

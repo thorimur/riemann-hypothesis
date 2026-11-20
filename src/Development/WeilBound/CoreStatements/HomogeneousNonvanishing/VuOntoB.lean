@@ -1,6 +1,8 @@
 import Development.WeilBound.CoreStatements.ProjectiveValuations.FrequentlyNeZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EigenframeSpecializationUniformBoundStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormFactorInvLePowHolomorphicOrbitPeriodBoundStatement
+import Development.WeilBound.CoreStatements.ProjectiveValuations.DifferentiableAtOfLines
+import Development.WeilBound.CoreStatements.ProjectiveValuations.ExistsFrBorOfMatches
 
 open CategoryTheory AlgebraicGeometry NumberField ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.FD Formalism.L2.Pj GlobalTheory.CompanionTheory.Ar.OntoDef GlobalTheory.CompHS
 open GlobalTheory.CompanionTheory.Ar.HolExt DifferentiableLines

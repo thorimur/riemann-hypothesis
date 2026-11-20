@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.Bdy
 
 open Finset Polynomial

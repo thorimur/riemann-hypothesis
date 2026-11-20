@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ClassFieldConsequences.RayClass
 import GroundTheory.GlobalFields.Adele.WeakApproxUnits
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTriSelf
+import Development.AbelianVarietyTheory.Definitions.Divisors.GrNormCompCast
 
 set_option autoImplicit false
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.LevelChainSharpColumnValuationOwnChainIff
 import Formalism.SharpRestriction.GrowthBounds.WeilJacquetShalikaLaw
 

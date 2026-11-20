@@ -1,5 +1,7 @@
 import Formalism.GaussJetBounds.GenLogInverse
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WtGeProd
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 open scoped BigOperators

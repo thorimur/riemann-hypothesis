@@ -2,6 +2,7 @@ import ReciprocityTheory.DualLattices.EmbeddingSeparatingGroupStatement
 import ReciprocityTheory.DualLattices.UnramifiedCokernelLengthOfLengthEigenLengthProduct
 import ReciprocityTheory.DualLattices.IsLocalOfIntegers
 import ReciprocityTheory.DualLattices.RankMapLeRank
+import Mathlib.RingTheory.Etale.Weakly
 
 noncomputable section
 

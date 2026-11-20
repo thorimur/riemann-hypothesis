@@ -1,10 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.PlaneCountTheoremWithConstants
-import Formalism.SharpRestriction.AdmissibleParameterJoins.GandSa
-import Formalism.SharpRestriction.AdmissibleParameterJoins.GandSb
-import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.CMFieldLemmas
-import Formalism.SharpRestriction.SmoothDesignExistence.DGamSmooth
-import Formalism.SharpRestriction.GrowthBounds.TopChoiceBounds
-import Formalism.SharpRestriction.GrowthBounds.JointsLit
+import Mathlib.NumberTheory.Harmonic.Bounds
 
 noncomputable section
 

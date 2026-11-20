@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsMidJacAt
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

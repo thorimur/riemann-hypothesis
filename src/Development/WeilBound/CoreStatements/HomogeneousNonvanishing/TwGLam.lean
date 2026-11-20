@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.TwGXi
+import Mathlib.NumberTheory.Padics.PadicIntegers
 open NumberField TensorProduct
 
 namespace PositivityTheory.UnitarySelfGeneration

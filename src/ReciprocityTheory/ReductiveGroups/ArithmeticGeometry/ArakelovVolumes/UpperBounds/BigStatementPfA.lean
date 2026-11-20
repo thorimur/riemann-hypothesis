@@ -1,4 +1,4 @@
-import ReciprocityTheory.L2DbarEstimates.LeviForms.LogNormSq
+import ReciprocityTheory.L2DbarEstimates.SkodaWeights.Matrix
 
 namespace ReciprocityTheory.ChartRestriction.G.AR.Up
 

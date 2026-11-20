@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemKAtAlt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryEigenIsotropicVectorLocalStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryLocalTorusFactorizationStatement
 open scoped TensorProduct NNReal Matrix

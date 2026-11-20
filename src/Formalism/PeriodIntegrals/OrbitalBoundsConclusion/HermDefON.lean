@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.AdelicCompactOpens.HermDefONFamily
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianDefiniteOrthonormal.Imports
 

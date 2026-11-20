@@ -1,10 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.InnerToL
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DifferentiableAtOfSmooth
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WaveKernelUniqueness
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LTLTInv
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsRepUnique
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MemLpTwoOfCpt
 
 noncomputable section
 

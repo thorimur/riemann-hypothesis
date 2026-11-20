@@ -1,6 +1,9 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.HeckeInert
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.HfsAevalRestrict
+import Formalism.LocalToGlobal.Columns.RhoEqOfSmulEq
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.LinearAlgebra.Eigenspace.Pi
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Module NumberField IsDedekindDomain Polynomial
 

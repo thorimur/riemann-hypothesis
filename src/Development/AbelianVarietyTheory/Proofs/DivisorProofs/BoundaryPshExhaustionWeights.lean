@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AnalyticLogResolution
-import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffAtOfIsPotential
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PshExtensionOffClosedSet
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PotentialBoundarySmoothStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPotentialPshStatement

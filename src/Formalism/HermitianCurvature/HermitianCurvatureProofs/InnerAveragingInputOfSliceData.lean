@@ -5,8 +5,6 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.ThresholdOfLargeCon
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.UnitriangularEqOneOfMinorsNonzero
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.InnerDensityOfAveraging
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.AveragingVanishes
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.StabilizerSplit
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.StabilizerPairs
 
 open Matrix
 

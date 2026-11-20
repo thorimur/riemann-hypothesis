@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.EigenOfTwoStep
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsRootBallOfAnalyticOrderDvd
+import Development.AbelianVarietyTheory.Definitions.Foundations.ExpUpper
+import Mathlib.Algebra.Order.Star.Real
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix GlobalTheory.KZ
 open Filter Topology

@@ -1,9 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.IsRatDatum
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.NotIsCompactUnivFv
-import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.WeilDatumExistence
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.SameCosetOfMemCosetIn
-import Formalism.LocalToGlobal.Columns.ChainTwTop
 import Formalism.LocalToGlobal.Columns.ChainOneP
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.StabilizerFormValueStepStatement
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.KmapOfOkOfVecP

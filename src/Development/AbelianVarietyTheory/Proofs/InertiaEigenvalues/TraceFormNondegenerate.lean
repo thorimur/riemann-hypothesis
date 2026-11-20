@@ -1,6 +1,6 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.DataN
-import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.UniNilp
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsSSRepOfTraceNondegenerate
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 
 open Formalism.MainNotions.N GlobalTheory.TraceSemisimple
 

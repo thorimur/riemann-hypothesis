@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.DualIsogeny
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.WeilFixedField
 

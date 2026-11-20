@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsPderivNotDvd
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 set_option backward.isDefEq.respectTransparency false
 
 namespace GlobalTheory.CompanionTheory.TraceJac

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.QuotientMetricDivisors.ProdFormula
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ConjTransposeEqOfPosDef
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.SpecDet
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ProdFormula

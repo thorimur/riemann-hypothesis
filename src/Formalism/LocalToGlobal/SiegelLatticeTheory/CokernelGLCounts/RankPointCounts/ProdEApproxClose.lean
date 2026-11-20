@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.ProdEApproxLoc
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

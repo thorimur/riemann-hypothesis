@@ -1,5 +1,8 @@
-import Formalism.RealPlaceAnalysis.StatementE
 import Formalism.FormalDegreeBessel.StatementDS
+import Mathlib.LinearAlgebra.Eigenspace.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ValUniqOf
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.RationalPointsLeHolds
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CastGLSymmBc
 import Formalism.SharpRestriction.GrowthBounds.LatticeSystems
 
 noncomputable section

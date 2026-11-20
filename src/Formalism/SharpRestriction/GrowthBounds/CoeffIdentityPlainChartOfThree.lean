@@ -1,4 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.MixedCoefficientClosed
+import Formalism.LocalToGlobal.CharacterGerms.CoefficientIdentitySelfConjugate
+import Formalism.LocalToGlobal.CharacterGerms.MaximalOfValuationGeOne
+import Formalism.LocalToGlobal.CharacterGerms.RowTiePHStabSelf
 
 noncomputable section
 

@@ -1,5 +1,7 @@
 import ReciprocityTheory.L2DbarEstimates.WeakHolomorphy.HoloContDiffStatement
 import ReciprocityTheory.L2DbarEstimates.WeakHolomorphy.IntegralMollProfBall
+import Mathlib.Analysis.Calculus.ContDiff.Convolution
+import Mathlib.Order.CompletePartialOrder
 
 namespace ReciprocityTheory.L2DbarEstimates.C
 

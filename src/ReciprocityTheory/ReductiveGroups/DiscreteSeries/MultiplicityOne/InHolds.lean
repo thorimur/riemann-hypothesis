@@ -1,6 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.MultiplicityOne.UnitaryGroupStructuralFacts
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.HeisenbergHaarFactsHold
-import Formalism.FormalDegreeBessel.FinalG
 
 namespace ReciprocityTheory.ChartRestriction.DS.Mult1
 

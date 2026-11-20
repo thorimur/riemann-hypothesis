@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.FourierWhittaker.IsAddFundamentalDomainImageOfMapVecLattice
 import GroundTheory.AutomorphicForms.FourierWhittaker.Series
 import GroundTheory.AutomorphicForms.FourierWhittaker.AlgebraMapIntegerMemIntegralFiniteAdeles

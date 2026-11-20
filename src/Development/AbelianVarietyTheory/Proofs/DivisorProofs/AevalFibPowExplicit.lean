@@ -1,10 +1,10 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HPolyAddTwo
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegralCompFsDens
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DivFractionsBilinearFormula
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EqZeroOfEvalHermitian
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegralAffinePowEqHPoly
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegrableProdQCoefMulFsDens
+import Mathlib.Analysis.Matrix.Spectrum
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 set_option autoImplicit false
 

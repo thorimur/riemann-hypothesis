@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SatakeDualWeyl.Statement
+import Mathlib.RingTheory.PiTensorProduct
 
 open Matrix
 

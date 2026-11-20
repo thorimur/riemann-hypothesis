@@ -1,5 +1,9 @@
 import Formalism.FormalGroupLog.Statement
 import Formalism.FormalGroupLog.FormalGroupLogProofs.ChainRule
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Rat.Star
+import Mathlib.RingTheory.PowerSeries.Inverse
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

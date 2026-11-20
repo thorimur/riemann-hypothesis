@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.EtaleTrace.TorsionH0PointAndSections
+import Development.EtaleCohomology.EtaleTrace.LadicH0LocallyConstant
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC

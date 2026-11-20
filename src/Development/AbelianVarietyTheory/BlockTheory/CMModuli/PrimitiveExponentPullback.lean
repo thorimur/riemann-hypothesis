@@ -1,8 +1,8 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsGrpPullback
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SemiabelianSchemes.AbelianSchemeQuotients.IsAbelianScheme
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SemiabelianSchemes.CubicalStructures.CubicalPullBaseChangeSt
 import Development.AbelianVarietyTheory.BlockTheory.CMModuli.HostConjugateIdeal
+import Mathlib.Tactic.Polynomial.Basic
 
 open NumberField AlgebraicGeometry CategoryTheory Limits MonoidalCategory
   CartesianMonoidalCategory MonObj

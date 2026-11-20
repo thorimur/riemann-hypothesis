@@ -1,7 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.TwistAlg
-import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StInterNumAdditive
-import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StInterNumEventual
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StInterSumTopVanish
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.InterSumEventuallyEqInterNum
 set_option maxSynthPendingDepth 1

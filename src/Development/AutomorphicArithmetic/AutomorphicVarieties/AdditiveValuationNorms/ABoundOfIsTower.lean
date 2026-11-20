@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.ABoundOfDescends
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.GenLevel
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.Descends
 

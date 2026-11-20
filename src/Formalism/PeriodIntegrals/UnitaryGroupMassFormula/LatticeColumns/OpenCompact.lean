@@ -2,6 +2,7 @@ import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeColumns.IdxTop
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeColumns.IdxGroup
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.BridgeFinK
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicLocalCompactness.T2SpaceTensorProductFiniteExtension
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicLocalCompactness.AdeleLC
 
 noncomputable section
 

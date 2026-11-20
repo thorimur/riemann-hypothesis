@@ -1,7 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.PolarConjTranspose
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.PermutationWordGelfandPolynomialModShorter
 import Formalism.LatticeRigidity.HeightMinimum.PowFinrankEqZeroOfTracePow
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.MvPolynomial.Symmetric.NewtonIdentities
+import Mathlib.RingTheory.PicardGroup
 open GlobalTheory.SmoothForms
 
 noncomputable section

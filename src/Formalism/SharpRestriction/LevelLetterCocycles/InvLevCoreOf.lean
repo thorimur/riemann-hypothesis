@@ -1,5 +1,3 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.KillWinFromCut
-import Formalism.SharpRestriction.LevelLetterCocycles.MapEvalPsPi
 import Formalism.SharpRestriction.LevelLetterCocycles.PrecompConst
 import Formalism.SharpRestriction.LevelLetterCocycles.LocalInputsFromLiterature
 

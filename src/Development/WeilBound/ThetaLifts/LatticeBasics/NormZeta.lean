@@ -2,7 +2,6 @@ import Development.WeilBound.ThetaLifts.LatticeBasics.ContinuousFlat
 import Development.WeilBound.ThetaLifts.LatticeBasics.SWFull
 import Development.WeilBound.ThetaLifts.LatticeBasics.HodgeTateFromSandwich
 import Development.WeilBound.ThetaLifts.LatticeBasics.BoxSecX
-import Development.WeilBound.ThetaLifts.LatticeBasics.SchToPol
 
 noncomputable section
 

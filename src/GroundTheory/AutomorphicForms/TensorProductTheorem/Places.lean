@@ -1,7 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.TensorProductTheorem.MatrixCoeff
-import GroundTheory.AutomorphicForms.TensorProductTheorem.Irreducible
-import GroundTheory.AutomorphicForms.TensorProductTheorem.LocalComponent
+import GroundTheory.AutomorphicForms.TensorProductTheorem.Smooth
+import GroundTheory.AutomorphicForms.TensorProductTheorem.Window
 
 noncomputable section
 

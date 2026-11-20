@@ -1,7 +1,7 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.EvBtStatement
 import ReciprocityTheory.DualLattices.WFrobStatement
 import ReciprocityTheory.DualLattices.PSerFrobStatement
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

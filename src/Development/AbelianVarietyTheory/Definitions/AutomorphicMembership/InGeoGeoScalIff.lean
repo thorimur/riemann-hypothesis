@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.DefiniteSideNonzeroIndexPlacesAnyColumnsScale
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GeoHalfUpd
+import Formalism.LocalToGlobal.IndefiniteReal.LinksExistW
 
 noncomputable section
 

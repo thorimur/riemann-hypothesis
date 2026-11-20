@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsFrameOfBijectiveStalk
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsFrameOfForallExists
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry TopologicalSpace GlobalTheory GlobalTheory.VB
 open GlobalTheory.QCoh (pullbackSections)
 open GlobalTheory.Twist (resM)

@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.SemistableReduction.SphereLogIntegrableStatement
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.SphereBlockLogMean
 

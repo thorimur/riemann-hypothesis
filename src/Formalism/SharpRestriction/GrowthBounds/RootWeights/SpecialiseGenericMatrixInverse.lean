@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.GeneratedModuleWeightLemmaOfInterfaces
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.BinomialStableContainsComponents
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.GenericMatrixEvaluationDet
 
 noncomputable section
 

@@ -1,5 +1,6 @@
-import ReciprocityTheory.GaloisValuations.ContinuousConstSMulQuotient
 import ReciprocityTheory.GroupCohomology.IsTowerLim
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.Basic
+import ReciprocityTheory.GaloisValuations.SeparatedDvrSecondCohomologyMem
 
 namespace ReciprocityTheory.Coh
 

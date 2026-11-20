@@ -1,4 +1,5 @@
 import ReciprocityTheory.AnalyticForms.LeviForms.HomDensA
+import ReciprocityTheory.AnalyticForms.LeviForms.IsRegFamilyInhabitStatement
 
 namespace ReciprocityTheory.AnForm.P
 

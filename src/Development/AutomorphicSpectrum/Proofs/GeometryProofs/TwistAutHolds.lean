@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Statements.GeometryStatements.PadicIntegersHenselianFiniteResidue
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistInverseIsoStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistIsoNonemptyStatement

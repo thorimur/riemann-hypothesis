@@ -1,4 +1,10 @@
 import ReciprocityTheory.Chebotarev.Ucoord
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField NumberField.mixedEmbedding NumberField.Units
 

@@ -1,6 +1,6 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.DefsObj
 import GroundTheory.AutomorphicForms.GKModules.KernelCalculus
 import GroundTheory.AutomorphicForms.L2LocalComponents.CenterCommute
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 open MeasureTheory NumberField
 open GroundTheory.Automorphic GroundTheory.Automorphic.AutomorphicForm

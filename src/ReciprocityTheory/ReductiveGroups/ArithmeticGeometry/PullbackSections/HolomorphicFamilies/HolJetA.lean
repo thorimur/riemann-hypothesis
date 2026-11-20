@@ -1,4 +1,12 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.SubConstMemOrig
+import Mathlib.AlgebraicGeometry.Modules.Sheaf
+import Mathlib.AlgebraicGeometry.Stalk
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.MvPolynomial.Ideal
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
 
 set_option autoImplicit false
 

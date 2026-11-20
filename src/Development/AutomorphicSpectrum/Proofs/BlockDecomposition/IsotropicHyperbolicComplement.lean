@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsotropicSplitTorusIwasawaUnitaryGroup
 import Development.AutomorphicSpectrum.Proofs.JetProofs.ScalarOnComplement
 
 open Matrix

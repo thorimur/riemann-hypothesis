@@ -1,4 +1,9 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.XcLat
+import Formalism.LocalToGlobal.ProjectiveLattices.EmbKCoe
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.ModerateCoefficientPositivity
 
 noncomputable section
 

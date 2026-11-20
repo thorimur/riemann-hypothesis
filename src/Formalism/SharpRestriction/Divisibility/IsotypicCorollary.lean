@@ -1,11 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.WeightDegreeSizes
 import Formalism.SharpRestriction.Divisibility.ThetaNormsAndLinks
-import Formalism.SharpRestriction.ParConsts
-import Formalism.SharpRestriction.Divisibility.FamilyThetaDenominatorValues
-import Formalism.SharpRestriction.Divisibility.CanonicalTranslateJets
-import Formalism.SharpRestriction.Divisibility.InnerProductFormulaField
-import Formalism.SharpRestriction.Divisibility.AbsolutelyIrreducibleSpan
 import Formalism.SharpRestriction.Divisibility.AdmissibleRank.FreeFamilyOfLeavesAndAdmissible
 
 noncomputable section

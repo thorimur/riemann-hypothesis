@@ -1,6 +1,7 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCStmt
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.TheoremPIntegralOfPlaces
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.AdmissibleWordMemBoundedLetterLists
+import Formalism.HermitianCurvature.StatementTB
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.FourierDecayAlt.P.PBC
 

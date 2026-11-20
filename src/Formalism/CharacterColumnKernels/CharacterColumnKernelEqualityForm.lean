@@ -1,7 +1,5 @@
 import Formalism.CharacterColumnKernels.StatementPsi
-import Formalism.CharacterColumnKernels.StatBlockChiOneTriv
 import Formalism.CharacterColumnKernels.StatementGC
-import Formalism.CharacterColumnKernels.StatementNG
 
 open Finset Classical
 

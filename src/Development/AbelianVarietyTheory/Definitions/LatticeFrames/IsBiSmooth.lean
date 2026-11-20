@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.RapidVal
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.JointSmooth
 
 noncomputable section
 

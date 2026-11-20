@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.SecondComparisonInCoordinates
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitVectorOfUnitFor
 

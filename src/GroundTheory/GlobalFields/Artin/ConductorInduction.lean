@@ -1,10 +1,7 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.ConductorInflation
 import GroundTheory.GlobalFields.Artin.GammaInduction
-import GroundTheory.GlobalFields.Artin.Places
 import GroundTheory.GlobalFields.Artin.RelativeDiscriminantLocal
 import GroundTheory.GlobalFields.Artin.PlacesFrobenius
-import GroundTheory.GlobalFields.TateThesis.EulerFactorsFourierFinite
 set_option maxSynthPendingDepth 1
 
 noncomputable section

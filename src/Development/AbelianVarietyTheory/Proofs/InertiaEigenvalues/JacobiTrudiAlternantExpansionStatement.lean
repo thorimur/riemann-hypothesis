@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.JacobiTrudiAlternantExpansion
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SchurEqJtDet
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.jacobi_trudi_alternant_expansion : ∀ {A : Type} [CommRing A] (m d : ℕ) (h : ℕ → A),
     GlobalTheory.JSW.alternant A m (GlobalTheory.JSW.staircase m) *

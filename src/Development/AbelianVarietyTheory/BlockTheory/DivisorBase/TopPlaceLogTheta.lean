@@ -1,10 +1,5 @@
-import Mathlib
-import Formalism.SharpRestriction.GlobalSchurBounds.GL3Theta
 import Formalism.LocalToGlobal.Divisibility.DivisionHeightBoundStatement
 import Formalism.LocalToGlobal.Divisibility.Numbers
-import Formalism.LocalToGlobal.Columns.FiniteSumNonzeroLargeDepth
-import Formalism.LocalToGlobal.KernelLattices.ThDistC
-import Formalism.LocalToGlobal.KernelLattices.LateralTheory
 
 noncomputable section
 

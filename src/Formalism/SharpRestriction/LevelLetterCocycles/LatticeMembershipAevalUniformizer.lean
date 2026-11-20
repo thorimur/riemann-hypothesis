@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.InId0OfMem
-import Formalism.SharpRestriction.LevelLetterCocycles.DvOZeroHigh
 
 noncomputable section
 

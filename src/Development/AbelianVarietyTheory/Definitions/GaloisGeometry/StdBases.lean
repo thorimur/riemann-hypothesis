@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataKerI
-import Formalism.SharpRestriction.GlobalSchurBounds.TaylorLogMetric
 import Formalism.SharpRestriction.GlobalSchurBounds.GL3Theta
 
 noncomputable section

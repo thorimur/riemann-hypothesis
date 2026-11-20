@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.DeterminantCokernelCount.CokernelIndexFactors.StatementB
-import Development.AbelianVarietyTheory.Definitions.Jets.CmLatticeCommutatorPairingPowEqOneOfGoodLift
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsImEqLattice
 
 open GlobalTheory.MomOne Formalism.L2.Ker.JMB

@@ -1,9 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocPart
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConeFinIntEq
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UAtMemIsoB
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalCoefficientIdeleScaling
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegrablePowerNormCompact
 
 noncomputable section
 

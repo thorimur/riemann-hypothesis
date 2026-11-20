@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.Divisibility.JetBounds.PlaceInputAllEntries
 import Formalism.LocalToGlobal.ExponentGrids.IntegerShiftClosedExponent
+import Formalism.LocalToGlobal.Divisibility.JetBounds.IsExpansion
 
 open Module NumberField IsDedekindDomain
 open scoped BigOperators

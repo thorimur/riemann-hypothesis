@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.HermitianCurvature.StatementTBB
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ComponentFamilySettingOfSetting
 
 namespace GlobalTheory

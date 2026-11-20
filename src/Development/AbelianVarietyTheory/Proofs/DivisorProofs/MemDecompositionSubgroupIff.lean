@@ -1,8 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.Statement
-import ReciprocityTheory.GaloisValuations.Global
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.CmSubfieldsCompositumClosed
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ValuationPlacesCompatibleTower
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.Valuation.RamificationGroup
 
 noncomputable section
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual

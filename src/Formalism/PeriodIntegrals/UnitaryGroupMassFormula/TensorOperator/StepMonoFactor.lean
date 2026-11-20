@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TensorOperator.Development
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MvPolynomial
 

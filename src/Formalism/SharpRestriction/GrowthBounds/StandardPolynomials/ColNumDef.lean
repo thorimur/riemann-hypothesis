@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.ColsDef
+import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CoarseMultiplicityAtIdentity
 
 noncomputable section
 

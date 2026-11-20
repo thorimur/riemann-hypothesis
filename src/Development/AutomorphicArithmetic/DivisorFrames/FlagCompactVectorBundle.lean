@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.ExistsIsMapToFn
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFlagBundleIff
 import Development.AutomorphicArithmetic.DivisorFrames.ExistsChartTransition
 import Development.AutomorphicArithmetic.DivisorFrames.ExistsFlagOfTriangularCharts
 import Development.AutomorphicArithmetic.DivisorFrames.FlagChartTransitionTriangular

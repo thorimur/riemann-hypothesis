@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.HeckeCharacterChoice.NCField
 import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.HeckeCharacterChoice.LevelEqThreeFiveIff
+import Mathlib.Algebra.Order.Star.Real
 
 open NumberField
 

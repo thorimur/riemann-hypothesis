@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.DecompositionData
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TameFixedLift
 import Development.AutomorphicArithmetic.CyclotomicBounds.FiniteDimensionalRoots

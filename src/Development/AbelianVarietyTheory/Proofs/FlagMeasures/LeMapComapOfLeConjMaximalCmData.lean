@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataSpaces
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open NumberField IsDedekindDomain
 

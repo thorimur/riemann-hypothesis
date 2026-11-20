@@ -1,5 +1,6 @@
-import Formalism.LocalRingCardinality.SpanPowerMembership.NZTypeE
-import Formalism.LocalRingCardinality.SpanPowerMembership.NZTypeC
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZTypeD
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

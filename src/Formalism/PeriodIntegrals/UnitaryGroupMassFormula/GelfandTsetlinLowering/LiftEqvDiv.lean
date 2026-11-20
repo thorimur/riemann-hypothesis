@@ -1,5 +1,6 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GelfandTsetlinLowering.LiftDefs
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Wlocal
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

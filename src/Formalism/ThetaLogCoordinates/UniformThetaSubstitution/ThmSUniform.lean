@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FirstDeriv
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementM
+import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.IsLawOfLog
 
 noncomputable section
 

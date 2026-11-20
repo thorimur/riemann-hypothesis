@@ -1,6 +1,3 @@
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RowInnerProductInvariantStatement
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.Realised
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.GeoUnitaryTied
 
 set_option synthInstance.maxHeartbeats 200000

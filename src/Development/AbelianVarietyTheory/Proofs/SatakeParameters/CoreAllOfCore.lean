@@ -1,7 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.CyclicStrongAtCusp
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ContinuousTwOfContinuous
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AutomorphicFormsFiniteGL
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExAllOfGood
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.HoldsSDRAllOfGood
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ImportsAlt

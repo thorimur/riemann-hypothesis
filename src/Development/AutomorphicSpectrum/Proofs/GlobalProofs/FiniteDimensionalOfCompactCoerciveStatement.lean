@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.FiniteDimensionalOfCompactCoercive
 open scoped InnerProductSpace
 set_option maxHeartbeats 1000000 in

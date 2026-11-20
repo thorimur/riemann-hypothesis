@@ -1,6 +1,12 @@
 import Formalism.PolynomialDimension.MultinomialDepth.ExistsNonzeroExchangedMinorHolds
 import Formalism.PolynomialDimension.MultinomialDepth.FrobeniusDetVanishingHolds
 import Formalism.PolynomialDimension.MultinomialDepth.FockGaussComparisonHolds
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.CountingSumsFrames.Top
 

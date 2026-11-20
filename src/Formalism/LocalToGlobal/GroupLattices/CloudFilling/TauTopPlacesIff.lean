@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.GroupLattices.CloudFilling.WLeWjOne
 import Formalism.LocalToGlobal.GroupLattices.CloudFilling.InstRecFillG
-import Formalism.LocalToGlobal.GroupLattices.CloudFilling.GatRecStepFrob
+import Formalism.LocalRingCardinality.SpanPowerMembership.GatTies
 
 noncomputable section
 

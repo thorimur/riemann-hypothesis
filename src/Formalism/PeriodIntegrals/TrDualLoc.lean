@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.PsiEDef
 
 noncomputable section

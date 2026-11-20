@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsAdmissibleIntegralBasisChangeOne
+import Mathlib.RingTheory.LaurentSeries
 
 open scoped IntermediateField Polynomial RatFunc
 open GlobalTheory.Nef

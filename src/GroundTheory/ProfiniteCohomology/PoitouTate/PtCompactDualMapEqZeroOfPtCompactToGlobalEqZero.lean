@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.PoincarePairs
+import GroundTheory.ProfiniteCohomology.PoincareDuality.Torsion
+import GroundTheory.ProfiniteCohomology.PoincarePairs.IsDiscreteRepResHomCoindRes
 set_option maxSynthPendingDepth 1
 
 noncomputable section

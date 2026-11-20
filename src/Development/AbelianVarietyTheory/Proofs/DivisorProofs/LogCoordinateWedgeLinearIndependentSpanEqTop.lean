@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsEulerContraction
 open GlobalTheory GlobalTheory.LogDR
 

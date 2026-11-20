@@ -2,7 +2,6 @@ import Development.EtaleCohomology.CohomologicalPurity.LeafCompPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafInvPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafRootStdPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafRootHensPf
-import Development.EtaleCohomology.CohomologicalPurity.LeafRootPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafSupPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafCoeqPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafDiagPf

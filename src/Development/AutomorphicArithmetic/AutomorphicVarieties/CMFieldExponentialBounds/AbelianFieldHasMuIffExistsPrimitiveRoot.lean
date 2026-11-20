@@ -1,5 +1,7 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.PrimeSetBoundDataOfPrimitiveChar
+import Development.AutomorphicArithmetic.AutomorphicVarieties.StmtFields
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.NumberTheory.Cyclotomic.Gal
 
 open NumberField Formalism.HC UpperTheory.Top UpperTheory.V
 

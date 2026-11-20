@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexMetrics.Assembly
 import GroundTheory.HeightsAndTheta.Heights.HomogeneousLocalization.PFSCoord
 import GroundTheory.HeightsAndTheta.Heights.HomogeneousLocalization.PFSIndex

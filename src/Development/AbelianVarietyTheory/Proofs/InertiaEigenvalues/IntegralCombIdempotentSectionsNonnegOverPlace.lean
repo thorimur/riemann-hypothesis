@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.HeckeValueIntegrality
-import Formalism.LocalToGlobal.ProjectiveLattices.LiftLaSpec
+import Formalism.LocalToGlobal.ProjectiveLattices.NonnegIffOfLiesTotal
 
 set_option autoImplicit false
 

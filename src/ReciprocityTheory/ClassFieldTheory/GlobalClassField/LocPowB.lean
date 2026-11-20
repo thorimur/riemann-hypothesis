@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ResidueCardinality.ArtinOntoB
 
 noncomputable section

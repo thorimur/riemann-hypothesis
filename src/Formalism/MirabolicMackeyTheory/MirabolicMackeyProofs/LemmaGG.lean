@@ -1,9 +1,7 @@
-import Mathlib
-import Formalism.MirabolicMackeyTheory.StatementL
 import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.OrthogonalityOfMackey
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ValBasic
-import Formalism.HermitianLattices.HermitianLatticesProofs.IndexBasic
 import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.IdxRules
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
 
 open Module NumberField IsDedekindDomain
 

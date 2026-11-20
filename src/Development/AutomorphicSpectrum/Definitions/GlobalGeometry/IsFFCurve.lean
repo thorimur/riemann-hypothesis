@@ -1,7 +1,10 @@
-import Mathlib
-import GroundTheory.FunctionField.DivisorDegree
 import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.Birational
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ToFirst
+import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsSplitGaussChars
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.EigLat
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsGenericFlag
+import GroundTheory.FunctionField.PlaceDefs
+import Mathlib.NumberTheory.NumberField.Discriminant.Defs
 
 noncomputable section
 

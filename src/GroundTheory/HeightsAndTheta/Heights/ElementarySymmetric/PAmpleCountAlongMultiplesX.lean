@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsAmpleCountAlongMultiples
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PNefCountAlongMultiples
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StatementsNefBigCountAlongMultiples
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StatementsAmpleVNefOnFibres

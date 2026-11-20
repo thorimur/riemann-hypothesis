@@ -1,9 +1,7 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.OddResidueBounds.ZeroMemUnrHom
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.KummerTheory.LenOfCard
 import Development.AutomorphicArithmetic.AutomorphicVarieties.OddResidueBounds.UnrInj
 import Development.AutomorphicArithmetic.AutomorphicVarieties.OddResidueBounds.UnrSel
 import Development.AutomorphicArithmetic.AutomorphicVarieties.OddResidueBounds.SelCard
-import Development.AutomorphicArithmetic.AutomorphicVarieties.OddResidueBounds.FnOne
 import Development.AutomorphicArithmetic.AutomorphicVarieties.OddResidueBounds.LogH
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Formalism.GaloisCohomology UpperTheory.V UpperTheory.V.LDataCardLeFinrank UpperTheory.V.Base UpperTheory.V.Kum UpperTheory.V.Bern UpperTheory.V.B4 UpperTheory.V.B5 UpperTheory.V.Odd

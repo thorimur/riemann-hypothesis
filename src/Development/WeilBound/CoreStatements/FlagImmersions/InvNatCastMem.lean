@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.DualMapComp
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.DiscriminantEigenProjector
 

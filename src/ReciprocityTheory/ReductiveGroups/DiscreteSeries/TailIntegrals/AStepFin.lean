@@ -1,4 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.ExponentShiftEqLevelExponent
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.HpkNegMp
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.InnerCLe
 
 noncomputable section
 

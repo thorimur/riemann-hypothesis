@@ -1,7 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.Statements
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.Assembly
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.OfUnfolding
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.MainOf
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PTorusEmbedding
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineEigenvalue
@@ -16,8 +12,6 @@ import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PUnipRadicalOfRationa
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PComplementArchCocompact
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PImaginaryLatticeCocompact
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PRadicalTorusModulus
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PStabilizerLevi
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PUnipotentModulus
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

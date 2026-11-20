@@ -1,5 +1,7 @@
 import Formalism.LandauZeroFreeBounds.SameCharacterLFunctionOne
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.TrivReal
+import Mathlib.NumberTheory.LSeries.Injectivity
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Complex Filter Topology
 

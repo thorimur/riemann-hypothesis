@@ -1,8 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.NormalizedHeckeFactors.CoeffZeroNeOfMonicIrr
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.LabelDatum
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.GreenCuspidalIff
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CanonListLength
+import Formalism.PadicSubsetSums.CentralIdempotents.IsConstituent
 open CategoryTheory Polynomial
 
 namespace GlobalTheory.SerCmp

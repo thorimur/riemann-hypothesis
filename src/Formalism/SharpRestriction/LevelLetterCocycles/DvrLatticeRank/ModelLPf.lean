@@ -1,6 +1,8 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ModelLPfL
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ModelLPfD
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ModelLPfK
+import Formalism.SharpRestriction.LevelLetterCocycles.DivisibilityInvariantMulLinear
+import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ModelLPfJ
 
 noncomputable section
 

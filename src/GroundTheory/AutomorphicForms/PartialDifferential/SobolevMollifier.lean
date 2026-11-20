@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.PartialDifferential.Sobolev
-import GroundTheory.AutomorphicForms.PartialDifferential.SobolevDuality
+import Mathlib.Analysis.Fourier.Convolution
 
 namespace GroundTheory.Automorphic.Sobolev
 

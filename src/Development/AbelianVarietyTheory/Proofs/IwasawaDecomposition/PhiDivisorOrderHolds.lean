@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BlowPolSt
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LinearFormsOnConesStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IntegralLinearFormOnBasisStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LinearFormRealCombinationStatement

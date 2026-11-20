@@ -2,9 +2,6 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.PresNew
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.PresIndep
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.KerGen
-import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoEvLow
-import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoMvps
-import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.PiSpanVariable
 
 open IsLocalRing MvPowerSeries UpperTheory.V.Alg
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsFlatAnIffIsConstMul
 import Formalism.LocalToGlobal.ProjectiveLattices.IsCombAt
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GeometricComponentEmbedding

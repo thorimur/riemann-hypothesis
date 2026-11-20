@@ -1,8 +1,7 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.StrictDominance.JointGeneralisedEigenvectors.IsJointGenEig
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsMemInfConjOfIsDom
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.InterConjIsOpen
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CompactGroupFiniteCosetReps
+import Mathlib.Topology.Sheaves.Presheaf
 
 open GlobalTheory.PRep PositivityTheory.SphericalProduct
 

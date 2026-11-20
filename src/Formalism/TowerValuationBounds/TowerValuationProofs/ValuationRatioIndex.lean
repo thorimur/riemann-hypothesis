@@ -1,5 +1,7 @@
 import Formalism.TowerValuationBounds.TowerValuationBoundIndexed
 import Formalism.TowerValuationBounds.TowerValuationProofs.SumAdditiveCharacterEqZero
+import Mathlib.Order.Interval.Finset.Box
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 namespace Formalism.ValuationGridEstimates

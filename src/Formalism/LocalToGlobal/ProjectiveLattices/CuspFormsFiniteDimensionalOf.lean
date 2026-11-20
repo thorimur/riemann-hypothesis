@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.CuspFDOf
+import Formalism.LocalToGlobal.ProjectiveLattices.PetersonNormSubspace
 
 noncomputable section
 

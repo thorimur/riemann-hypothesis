@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MinusId
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.StarStartConjugationIdentity
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RuleGD
 
 namespace Formalism.FourierDecayAlt.P.TLA.ColumnLift
 

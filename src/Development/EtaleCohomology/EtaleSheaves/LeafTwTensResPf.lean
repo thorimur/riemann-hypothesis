@@ -1,6 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafTwPairExistsPf
 import Development.EtaleCohomology.TateTwists.EtaleTensorPairTwistResolutionMul
-import Mathlib.CategoryTheory.Abelian.Injective.Extend
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex GlobalTheory.EtC

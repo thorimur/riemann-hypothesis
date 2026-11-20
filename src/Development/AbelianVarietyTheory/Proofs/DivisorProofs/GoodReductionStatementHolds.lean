@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HodgeFrameGram
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SubquotientCurvatureStatementStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaZeroOneSkewConjStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaZeroOneLowerVanishStatement

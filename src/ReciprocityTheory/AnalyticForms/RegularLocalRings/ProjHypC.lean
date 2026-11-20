@@ -1,4 +1,5 @@
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.ProjHypA
+import Mathlib.Algebra.AffineMonoid.UniqueSums
+import ReciprocityTheory.AnalyticForms.RegularLocalRings.ProjDehom
 
 namespace ReciprocityTheory.AnForm.R
 

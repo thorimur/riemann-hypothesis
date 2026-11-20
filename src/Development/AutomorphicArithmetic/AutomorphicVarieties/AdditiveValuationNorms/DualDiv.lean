@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.CokLenLeOfRangeLe
-import Formalism.GaloisCohomology.Statement
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.QzInj
 
 open UpperTheory.V UpperTheory.V.PropA Formalism.GaloisCohomology

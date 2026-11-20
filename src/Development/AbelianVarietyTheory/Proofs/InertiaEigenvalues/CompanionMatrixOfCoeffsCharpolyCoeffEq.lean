@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.FourierMatch
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.JacquetRallisBorderedMatrixNormalFormInvariants
+import Mathlib.Algebra.AffineMonoid.Basic
 open GlobalTheory.JR Matrix
 
 namespace GlobalTheory.JR.CompanionCharpoly

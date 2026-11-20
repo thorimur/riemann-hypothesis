@@ -1,8 +1,6 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.CotangentSurjective
-import ReciprocityTheory.DualLattices.CyclicRecursionStatement
 import Development.AbelianVarietyTheory.Definitions.Divisors.XiMulNu
 import ReciprocityTheory.DualLattices.AinfFacts
+import ReciprocityTheory.DualLattices.Imports
 
 noncomputable section
 

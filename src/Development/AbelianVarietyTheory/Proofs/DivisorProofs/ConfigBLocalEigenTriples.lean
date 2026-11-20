@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocOpInfMul
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalWeilOperatorMulStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ParabolicLineScalarCharacterStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaTriplePeriodIdentityCaseBStatement

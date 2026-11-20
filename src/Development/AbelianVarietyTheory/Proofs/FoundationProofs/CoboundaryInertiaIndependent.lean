@@ -1,8 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.PowMulMemAdd
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.JointCondIffRhoOfGoodPoint
-import ReciprocityTheory.GaloisValuations.GlobalB
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAlgebraMapPadicIntLeOne
+import Development.AbelianVarietyTheory.Definitions.Foundations.FinalTheorems
 
 noncomputable section
 

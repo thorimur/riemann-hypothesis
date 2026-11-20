@@ -1,9 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StBranchChartInt
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolomorphicFibreSumInt
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StBranchSheetAE
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.OsgoodSeparate
 import ReciprocityTheory.AnalyticForms.PotentialTheory.LocDens
+import Mathlib.Analysis.Calculus.FDeriv.Pi
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

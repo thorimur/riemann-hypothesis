@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.FunctionalLowerBoundOfConditionsNumeric
-import Formalism.LocalToGlobal.IndefiniteForms.IndefExample
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.InfinitePlaceDepthSums
 import Development.AbelianVarietyTheory.Counterexamples.RotationExamples.FreeLiftMetric
 

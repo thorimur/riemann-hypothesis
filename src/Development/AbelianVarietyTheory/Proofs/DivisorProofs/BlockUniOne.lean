@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsGradedRankOne
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.EpsZeroCompOfIsTanAtG
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsLieFrames
 
 set_option autoImplicit false
 

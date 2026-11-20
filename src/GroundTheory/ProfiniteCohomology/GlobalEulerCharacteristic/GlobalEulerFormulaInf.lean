@@ -1,8 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.GSDefs
-import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.MainCoind
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.Finite
-import GroundTheory.ProfiniteCohomology.ContinuousCochains.Functoriality
+import GroundTheory.ProfiniteCohomology.EulerCharDefs
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

@@ -1,13 +1,10 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModDefs
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModBasic
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModQPrin
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModLatTau
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModJTau
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModCMPoint
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModVanish
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModGmForm
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModGmQ
+import Mathlib.RingTheory.Polynomial.IsIntegral
 
 noncomputable section
 open scoped BigOperators Classical UpperHalfPlane MatrixGroups CongruenceSubgroup Manifold

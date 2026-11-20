@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.SelfDualLoc
 
 open Matrix NumberField IsDedekindDomain

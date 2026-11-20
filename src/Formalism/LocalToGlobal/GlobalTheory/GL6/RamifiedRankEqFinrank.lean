@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL6.Statement
 import Formalism.LogVandermondeBounds.LogVandermondeProofs.MulSingleMulApplySelf
+import Formalism.SharpRestriction.GlobalSchurBounds.ProductFirstZerothParts
 
 noncomputable section
 

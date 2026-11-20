@@ -1,7 +1,8 @@
-import Formalism.LocalToGlobal.PairingIndexBounds.LatticeNormPowers.NegOneZpowEqOfParity
 import Formalism.SharpRestriction.GlobalSchurBounds.GL3Theta
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PIopNorm
 import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleLayerExistsGenerators
+import Formalism.LocalToGlobal.GlobalTheory.GL3.PIopIso
+import Mathlib.NumberTheory.Niven
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 noncomputable section
 open scoped BigOperators

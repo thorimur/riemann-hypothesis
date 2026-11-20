@@ -1,4 +1,5 @@
 import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffHypInclAt
+import ReciprocityTheory.AnalyticForms.PotentialTheory.Partition
 
 namespace ReciprocityTheory.AnForm.M.PLAux
 

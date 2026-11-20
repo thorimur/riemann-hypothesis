@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DvdOfCoeffSubstXPowNeZero
+import Mathlib.RingTheory.PowerSeries.Inverse
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace DualFramesAlt.EigenUniformiser
 

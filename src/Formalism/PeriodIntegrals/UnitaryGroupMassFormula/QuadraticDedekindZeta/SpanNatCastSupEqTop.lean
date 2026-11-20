@@ -1,6 +1,11 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ClassNumImQ
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuadraticDedekindZeta.Development
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuadraticDedekindZeta.CoefIdOf
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 open NumberField
 

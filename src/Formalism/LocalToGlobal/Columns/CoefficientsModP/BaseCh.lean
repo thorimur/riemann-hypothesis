@@ -1,7 +1,7 @@
 import Formalism.LocalToGlobal.Columns.CoefModX
-import Formalism.LocalToGlobal.Columns.CoefficientsModP.FkPderivBlockEmbNe
 import Formalism.LocalToGlobal.Columns.CoefficientsModP.NablaIndependenceHolds
 import Formalism.LocalToGlobal.Columns.CoefficientsModP.TauLatticeLatticeHolds
+import Formalism.LocalToGlobal.Columns.CoefficientsModP.FkMapInitMinor
 
 open MvPolynomial NumberField IsDedekindDomain
 open scoped Matrix

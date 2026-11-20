@@ -1,5 +1,12 @@
 import Formalism.SatakeDualWeyl.Statement
 import Lemmata.NearbyExistence.ExistsNear
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.NumberTheory.NumberField.Ideal.Basic
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.Ideal.IsPrincipalPowQuotient
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.UG.P
 

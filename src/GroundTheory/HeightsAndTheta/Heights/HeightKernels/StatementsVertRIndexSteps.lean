@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsPointVertRSteps
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLogCardLength
 set_option maxSynthPendingDepth 1

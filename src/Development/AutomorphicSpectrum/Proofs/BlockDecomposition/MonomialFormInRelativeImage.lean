@@ -1,8 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.HodgeSurjectivity.NLeA
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlgebraMapConeRing
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MonLNegMul
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MonomialMemExceptionalIdeal
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option autoImplicit false
 noncomputable section

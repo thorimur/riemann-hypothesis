@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.DerivationFinsetSumApply
+import Mathlib.Data.Finsupp.Interval
 
 noncomputable section
 

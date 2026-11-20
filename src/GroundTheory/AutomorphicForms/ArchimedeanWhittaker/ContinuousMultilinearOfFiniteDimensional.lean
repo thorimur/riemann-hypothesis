@@ -1,7 +1,4 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GKModules.GKModule
-import GroundTheory.AutomorphicForms.GKModules.Garding
-import GroundTheory.AutomorphicForms.GKModules.Casimir
+import GroundTheory.AutomorphicForms.GKModules.SmoothVectors
 
 namespace GroundTheory.Automorphic
 

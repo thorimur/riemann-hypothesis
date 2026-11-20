@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.ThDistC
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.DerivAt0CompMem
+import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.ZeroDimA
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.Taylor
 
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.HermitianLatticesTheory Formalism.MainNotions Formalism.L2.DIV Formalism.L2.Col Formalism.L2.Ker
 open scoped ContDiff

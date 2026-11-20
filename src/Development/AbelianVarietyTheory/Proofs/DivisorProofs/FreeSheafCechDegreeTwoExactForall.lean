@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.Pr13Snd
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.FreeOnCechNerveExactAt
+import Std.Tactic.BVDecide.Normalize.Prop
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.Et GlobalTheory.Et.CovChar.Trip
 
 noncomputable section

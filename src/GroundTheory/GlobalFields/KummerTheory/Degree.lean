@@ -1,6 +1,3 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.KummerBasic
-import GroundTheory.ProfiniteCohomology.KummerFinite
 import GroundTheory.ProfiniteCohomology.KummerCorrespondence
 
 namespace GroundTheory.Global

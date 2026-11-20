@@ -1,6 +1,8 @@
 import Development.WeilBound.ThetaLifts.CartanFactorisation.ExistsPureML
 import Development.WeilBound.ThetaLifts.ConeHypotheses.PureEqPureA
 import Development.WeilBound.ThetaLifts.LocalTheory.SplitInv
+import Development.AbelianVarietyTheory.Definitions.Divisors.MatchingOfParts
+import Development.WeilBound.ThetaLifts.LocalTheory.UnramifiedDeterminedBySpherical
 
 noncomputable section
 

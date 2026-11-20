@@ -1,4 +1,8 @@
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsorsTrivialIff
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 open IsLocalRing Polynomial
 open scoped TensorProduct
 

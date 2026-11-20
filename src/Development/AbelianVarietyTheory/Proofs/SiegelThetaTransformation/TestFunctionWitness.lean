@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ThetaQuasiPeriods.PeriodLattice
 import Development.AbelianVarietyTheory.Definitions.SpanningFamilies.IMemSiegel
 open Matrix Complex
 namespace GlobalTheory.SW

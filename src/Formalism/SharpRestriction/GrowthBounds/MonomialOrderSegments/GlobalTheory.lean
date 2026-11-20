@@ -1,4 +1,7 @@
-import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.TestBoundOfRhoAndNormSets
+import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.CgeZeroIffIntegral
+import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.Monomial
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

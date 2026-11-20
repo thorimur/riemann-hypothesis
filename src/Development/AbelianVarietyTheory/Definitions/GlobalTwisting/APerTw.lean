@@ -1,13 +1,9 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CharacterBoxes.ExS
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.CountsIrreducibilityConstants
 import Formalism.SharpRestriction.GlobalSchurBounds.LinkTied
 import Formalism.SharpRestriction.GlobalSchurBounds.MainSup
 import Formalism.LocalToGlobal.GroupLattices.AdmissibleAtGeneratorPlaces
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.WuDecayAll
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RowsPos
-import Formalism.LocalToGlobal.GlobalTheory.GL5.PNamed
-import Formalism.LocalToGlobal.GlobalTheory.GL5.DiscreteSeriesOfFormalDegree
 
 noncomputable section
 

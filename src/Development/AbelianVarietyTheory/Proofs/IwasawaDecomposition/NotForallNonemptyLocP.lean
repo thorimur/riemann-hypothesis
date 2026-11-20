@@ -1,8 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.BesselHermitianTheta.AllTied
-import Formalism.LocalToGlobal.IndefiniteReal.DatumVec
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AdelicDataRowMeasureScaleTrivialTuple
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ThetaXNonemptyProvisional
+import Formalism.SharpRestriction.Divisibility.KudlaSiegelWeil
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

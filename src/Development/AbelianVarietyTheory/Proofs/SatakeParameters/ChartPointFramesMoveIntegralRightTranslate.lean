@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.UnderTie
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ChartPointRightTranslateByLevelCoupledStep
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ChartFramesMulAdeleAtBadPrime
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsNearAt
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.SeamGLInjective

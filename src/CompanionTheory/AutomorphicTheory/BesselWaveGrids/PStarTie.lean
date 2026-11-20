@@ -1,6 +1,7 @@
-import Formalism.HermitianCurvature.LetterProductDoubleDegreeCount
 import Formalism.FormalDegreeBessel.StatementDS
 import CompanionTheory.AutomorphicTheory.BesselWaveGrids.NqMovedExample
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Data.Int.Star
 
 namespace CompanionTheory.WaveGrid
 

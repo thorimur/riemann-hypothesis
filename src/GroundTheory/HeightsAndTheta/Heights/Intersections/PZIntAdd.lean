@@ -1,9 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.AnalyticResolutionHypothesesProjectiveLine
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StZIntAdd
 import GroundTheory.HeightsAndTheta.Heights.Intersections.FourierIntegralBound
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PotentialContDiffAt
-import ReciprocityTheory.AnalyticForms.PotentialTheory.IntegrableOnTargetOfTsupport
 import ReciprocityTheory.AnalyticForms.PotentialTheory.HessCEqZeroOfEventuallyEqZero
 import ReciprocityTheory.AnalyticForms.PotentialTheory.PLCurveA
 set_option maxSynthPendingDepth 1

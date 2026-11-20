@@ -1,4 +1,7 @@
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsRingHomRhoK
+import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ExistsConstantCoeffOne
+import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.StdBases
+import Formalism.LocalToGlobal.InertKernelTheory.DefsRepFrame
+import Formalism.SharpRestriction.Divisibility.OrbitPlaces
 open NumberField Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.G Formalism.MainNotions.TaylorLogMetric GlobalTheory.KerStd GlobalTheory.KerStd.HypCoord Classical
 open Formalism.L2.Th1.CM (MaximalUnramifiedExtension)
 open Formalism.L2.Th1.D (F1 F2 OwOK TrDual phFF)

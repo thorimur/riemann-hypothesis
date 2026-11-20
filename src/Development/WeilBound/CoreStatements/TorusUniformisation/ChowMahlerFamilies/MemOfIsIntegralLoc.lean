@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.IsLatFamilyCongr
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ArithVarietyCoordIdeal
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.RegAtIffChartLocalization

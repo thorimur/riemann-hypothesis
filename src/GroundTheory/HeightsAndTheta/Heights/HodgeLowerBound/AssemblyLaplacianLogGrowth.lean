@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PLaplacianLogGrowth
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PFsPotLaplacian
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PInvDerivDecay

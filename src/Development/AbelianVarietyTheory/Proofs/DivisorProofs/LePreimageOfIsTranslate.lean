@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.DenseInterior
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechGluingOfKodairaSpencerRelation
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PreModelChartFrame
 
 open AlgebraicGeometry CategoryTheory Limits NumberField

@@ -1,4 +1,4 @@
-import Development.WeilBound.ThetaLifts.TowerModels.PlaneForm
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilTensorModels
 
 noncomputable section
 

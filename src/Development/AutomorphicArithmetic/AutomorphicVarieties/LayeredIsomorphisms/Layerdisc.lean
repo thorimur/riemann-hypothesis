@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.SecondBound
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.Layeremb
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.Imports
 

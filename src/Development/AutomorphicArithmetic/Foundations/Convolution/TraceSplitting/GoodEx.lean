@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.NormCharSplit
 
 theorem UpperTheory.ConvolutionTheory.T.goodEx :

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ThetaNormCommutation.LocalComparisonSplitting.GlobalCharacterOfInputs
+import Mathlib.LinearAlgebra.Lagrange
 
 open Matrix Polynomial PositivityTheory.Rg.BcB PositivityTheory.Rg.BcB.G8
 

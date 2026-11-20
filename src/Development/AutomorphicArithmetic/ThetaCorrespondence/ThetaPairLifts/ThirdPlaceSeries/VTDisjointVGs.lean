@@ -1,6 +1,3 @@
-import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TypePrimesDisjoint
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.RealPack
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.FamilyConstants
 
 set_option synthInstance.maxHeartbeats 200000

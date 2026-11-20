@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.CoordinateLengths.IntSpanLeRat
+import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocInd
 
 noncomputable section
 

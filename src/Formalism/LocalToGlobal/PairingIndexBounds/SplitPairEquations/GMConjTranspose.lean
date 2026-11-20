@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.PairingIndexBounds.SplitPairEquations.NormOneUnitIdeal
-import Formalism.LocalToGlobal.PairingIndexBounds.SplitPairEquations.SemiCharImg
+import Formalism.LocalToGlobal.GlobalTheory.GL3.PLinkThIndep
+import Formalism.LocalToGlobal.KernelLattices.LateralTheory
 
 noncomputable section
 open NumberField Formalism.BasicNotions Classical Matrix

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.RegularSmooth
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SemiabelianSchemes.PrecompleteBases.IsPrecompleteOfBasis
 

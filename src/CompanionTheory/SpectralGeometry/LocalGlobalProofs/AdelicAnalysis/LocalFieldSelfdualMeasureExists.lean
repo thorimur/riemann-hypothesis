@@ -1,6 +1,5 @@
-import Mathlib
-import CompanionTheory.SpectralGeometry.CountingDefinitions.AdelicEulerProducts.IsEulerProd
 import GroundTheory.LocalFields.LocalFourier
+import Formalism.UnipotentAdelicQuotients.SWXSDefs
 set_option maxSynthPendingDepth 1
 
 noncomputable section

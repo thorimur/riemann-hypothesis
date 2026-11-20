@@ -1,11 +1,6 @@
 import Formalism.LocalToGlobal.GlobalTheory.CloudNonneg
-import Mathlib
-import Formalism.GL3MeanSquares.HookFormulaTorsion.HilbertSchmidtHalfBound
-import Formalism.GL3MeanSquares.HookFormulaTorsion.WeightShiftProduct
-import Formalism.LogVandermondeBounds.LogVandermondeProofs.LogRatioLowerBoundOfLogVandermondeGap
-import Formalism.GL3MeanSquares.HookFormulaTorsion.IndicatorValueMemUnitInterval
-import Formalism.LogVandermondeBounds.LogVandermondeProofs.UpperPlaceHolds
 import Formalism.LogVandermondeBounds.LogVandermondeProofs.VandNSuccRight
+import Formalism.LocalToGlobal.Columns.BrwLastNeZero
 
 open NumberField IsDedekindDomain Module
 

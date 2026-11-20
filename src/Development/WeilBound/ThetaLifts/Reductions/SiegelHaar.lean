@@ -1,7 +1,8 @@
-import Mathlib
-import Formalism.UnipotentAdelicQuotients.HaarProductClosedCompact
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HaarProductClosedCompactHolds
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SmulNn
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 set_option linter.unusedSectionVars false
 

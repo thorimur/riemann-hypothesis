@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.EigLat
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.CmTypeEigenMultiplicityOfDensePrimes
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.LieModel
 
 open NumberField GlobalTheory.CompanionTheory.Ar
 

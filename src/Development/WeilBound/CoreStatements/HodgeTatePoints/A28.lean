@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.IsMultiProjPrimeBaseComap
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KerAevalRatiosLe
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MIdealOverOneBlockEq
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemChartRingBlockVecIff
@@ -8,8 +6,6 @@ import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsBisAlt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsBis
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ProdNotMemPrimeOfForall
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsBisTer
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsTail
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.SpanSecsMemLocInSelf
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MConeMapOverOfIsMultiHomog
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.RatioMonHomog
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ResidOfMem
@@ -17,16 +13,12 @@ import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MIdealOverOneHeight
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsRest
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsFurther
 import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.KleimanNefBCut
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsLast
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.TwistModNatMul
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OfPowRealises
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.TwistSubEqChartSecOver
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PChartSecGen
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemChartOfMemSecOver
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsExtra
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.TwistMulTwistTwistSys
 import Development.WeilBound.CoreStatements.HodgeTatePoints.ExistsAmpleBaseLocalizationEq
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ChartRingOverOneBlockComp
 import Development.WeilBound.CoreStatements.HodgeTatePoints.A12
 
 namespace PositivityTheory.HtPt.Ktw

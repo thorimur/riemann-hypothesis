@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.GroupLattices.LevelCharts.LevelWithoutExtraPlaces
 import Formalism.SatakeDualWeyl.KpqSubgroupCompact
+import Formalism.LocalToGlobal.HermitianColumns.StepLevelQ
 
 noncomputable section
 

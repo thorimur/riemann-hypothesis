@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.CyclotomicNorms.StatementI
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 open Finset
 

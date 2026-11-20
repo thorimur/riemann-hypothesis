@@ -1,14 +1,10 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.CuspidalMultiplicityOneTotallyComplex
 import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.AffineCharacterGenerators.AffChar
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsAreCuspForms
 import GroundTheory.AutomorphicForms.MultiplicityOne.OpenSubgroupRep
 import GroundTheory.AutomorphicForms.MultiplicityOne.FiniteLevelGroups
-import GroundTheory.AutomorphicForms.MultiplicityOne.FiniteAdelicHaar
 import GroundTheory.AutomorphicForms.StrongApproximationSLDense
 import GroundTheory.AutomorphicForms.HarishChandraCentre
 import GroundTheory.AutomorphicForms.AffineBruhat
-import GroundTheory.AutomorphicForms.Cartan
 
 noncomputable section
 

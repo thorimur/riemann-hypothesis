@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.TateCohomology.HerbrandAbstract
+import Mathlib.RepresentationTheory.Basic
 
 namespace GroundTheory.Global
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.EmbeddedResolutionRule
 universe u
 

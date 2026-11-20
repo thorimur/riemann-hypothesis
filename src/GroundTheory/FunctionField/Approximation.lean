@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.FunctionField.PlaceDefs
 import GroundTheory.FunctionField.PlaceBasic
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.FunctionField

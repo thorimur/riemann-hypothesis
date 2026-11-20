@@ -1,8 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormDegreeBoundPolynomialCombination
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AlgebraMapNormMemSpan
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsLowDegreeCoordsModMul
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDegLtTwoCorrectionSimple
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.LinearAlgebra.FreeModule.Norm
 
 open Polynomial
 

@@ -1,9 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Jets.IsSelfOf
-import Development.AbelianVarietyTheory.Definitions.Jets.TwoPlaces
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.GapParts
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProdDetMemHaO
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.FlagOfLetterNumberingRowData
+import Formalism.LocalToGlobal.CharacterGerms.BlockAdmissibleChart
+import Formalism.LocalToGlobal.ProjectiveLattices.ConjNeSelfOfCM
 
 set_option autoImplicit false
 

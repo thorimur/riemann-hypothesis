@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.RatInOfUnit
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasSignatureFromBlocks
+import Formalism.LocalRingCardinality.DataHost
+import Formalism.LocalRingCardinality.DataSpaces
 
 noncomputable section
 

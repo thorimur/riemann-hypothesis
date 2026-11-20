@@ -1,5 +1,7 @@
 import Formalism.MahlerMeasure.MahlerMeasureProofs.GamInt
 import Formalism.ThetaLogCoordinates.PartnerMeanCoordinates.TheoremMCB
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.InvariantFactorPaths.MC.GI
 

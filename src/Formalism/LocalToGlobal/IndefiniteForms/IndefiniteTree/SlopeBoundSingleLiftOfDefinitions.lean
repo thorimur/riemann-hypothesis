@@ -1,11 +1,11 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteForms.IndefSide
 import Formalism.LocalToGlobal.IndefiniteForms.IndefUse
 import Formalism.LocalToGlobal.IndefiniteForms.IndefExample
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.IndefiniteTreeX
 import Formalism.MeanHeightDescent.DivisionInequalityWithCovolume
 import Formalism.MeanHeightDescent.CovolumeFullAssemblyWeighted
 import Formalism.ThetaSupremumBounds.LiftOperatorBoundOfFockJet
+import Formalism.MeanHeightDescent.AverageDegreeBounds.DescentCut
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 open Finset Module NumberField Formalism.HN
 

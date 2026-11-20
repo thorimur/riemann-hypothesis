@@ -1,5 +1,6 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.LeftEquivariantFunctions.SymZeroCommFrame
+import Mathlib.Analysis.Calculus.LineDeriv.IntegrationByParts
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

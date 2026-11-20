@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.InseparableFrobenius
 import GroundTheory.GlobalFields.ComplexMultiplication.DualDescent
+import GroundTheory.ArithmeticGeometry.AbelianVarieties.SupersingularPowField
 
 namespace GroundTheory.Global
 

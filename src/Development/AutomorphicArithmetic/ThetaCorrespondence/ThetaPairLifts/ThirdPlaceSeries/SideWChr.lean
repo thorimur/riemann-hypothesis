@@ -1,7 +1,6 @@
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.SideWeightPsiChoiceTame
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SideOf
-import Development.AutomorphicArithmetic.Foundations.LocalLanglands.IsRecTOfIsRec
+import Development.AbelianVarietyTheory.Proofs.HeightProofs.TwDatPsiValuesInLL
+import Development.AbelianVarietyTheory.Proofs.HeightProofs.WPtFrame
 
 set_option synthInstance.maxHeartbeats 200000
 

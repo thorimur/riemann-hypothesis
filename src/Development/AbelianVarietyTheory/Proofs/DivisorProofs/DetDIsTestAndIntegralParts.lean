@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.LocPoly
 open NumberField IsDedekindDomain MeasureTheory Matrix Polynomial GroundTheory.Automorphic UpperTheory.V
 open GlobalTheory.CuspRep (GA Af Ad ratGL finGL locGL pFin)

@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.TateCohomology.CupConnecting
+import Mathlib.CategoryTheory.Monoidal.Mon
+import Mathlib.RepresentationTheory.Homological.TateCohomology.Basic
 set_option maxSynthPendingDepth 1
 
 open CategoryTheory groupCohomology

@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.IntegrableNormPowMulExpNegMulNormSq
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 namespace ReciprocityTheory.ChartRestriction.G.I2
 

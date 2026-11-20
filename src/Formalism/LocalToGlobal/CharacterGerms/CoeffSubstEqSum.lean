@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePGerm
+import Formalism.LocalToGlobal.CharacterGerms.IntSubst
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

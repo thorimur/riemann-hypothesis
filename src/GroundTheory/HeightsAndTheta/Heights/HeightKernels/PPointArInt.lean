@@ -1,8 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.IsArithVarBotDualBlocksUnit
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ExistsIsSheetFinZero
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.PCoordCurveDegree
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterGood
+import Mathlib.Algebra.Ring.IsFormallyReal
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.DerRingInjective
+import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsLieModel
 
 noncomputable section
 

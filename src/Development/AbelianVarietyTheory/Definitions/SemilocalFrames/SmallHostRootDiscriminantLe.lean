@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.SpanPowerMembership
 import Formalism.LocalRingCardinality.SpanPowerMembership.RankRecordRowDimensionZero
 import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension

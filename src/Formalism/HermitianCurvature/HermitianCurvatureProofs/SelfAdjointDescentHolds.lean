@@ -1,4 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJASASecDesc
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.ChainRecursionFromSingleDescent
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJASASectionCut
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.RestrictionIrrelevantDoubleLevelOperator
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.Q
 open scoped ContDiff ComplexConjugate

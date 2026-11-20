@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.UnipotentAdelicQuotients.SWXSDefs
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.HermitianDiagonalisation
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.FixedQuadraticMemBase

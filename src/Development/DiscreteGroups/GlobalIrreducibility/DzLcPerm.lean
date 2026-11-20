@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.Iwasawa
-import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.IsSubquotientDetRepParInd
 import Development.AbelianVarietyTheory.PublishedTheorems.PublishedFoundations.BlockTriangularOfSubOne
+import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.LeviEmbMemNormalizerLower
+import Mathlib.Data.Matrix.PEquiv
 
 noncomputable section
 

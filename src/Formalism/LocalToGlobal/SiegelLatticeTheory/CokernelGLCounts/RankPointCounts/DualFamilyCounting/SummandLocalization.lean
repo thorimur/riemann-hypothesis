@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.DualFamilyCounting.RieszHermitianHolds
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SummandLocalization
 

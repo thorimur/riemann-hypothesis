@@ -1,4 +1,5 @@
-import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.DifferentiableAtChart
+import Mathlib.Tactic.Polynomial.Basic
+import ReciprocityTheory.L2DbarEstimates.IsLocalHomeomorph
 
 namespace ReciprocityTheory.L2DbarEstimates.Y
 

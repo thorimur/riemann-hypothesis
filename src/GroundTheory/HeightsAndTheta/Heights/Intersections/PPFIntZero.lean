@@ -1,10 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsPFIntZero
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ExMapAlt
 import GroundTheory.HeightsAndTheta.Heights.Intersections.LeviOfRealSmulRight
 import GroundTheory.HeightsAndTheta.Heights.Intersections.TableDegreeThreeBase
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PFIntZeroMixed
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSheet
 set_option maxSynthPendingDepth 1
 
 noncomputable section

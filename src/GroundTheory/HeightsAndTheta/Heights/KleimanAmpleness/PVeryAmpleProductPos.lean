@@ -1,8 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.VeryAmpleProductPosSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PointDegreePosSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CutComponentSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CutMultPosSt
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.GenericPointSectionHypotheses
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.TwistBundleToSubSystem
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

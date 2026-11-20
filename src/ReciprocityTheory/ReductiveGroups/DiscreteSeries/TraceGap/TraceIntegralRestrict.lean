@@ -1,5 +1,6 @@
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.LayerLeGeneratedTensorFock
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.TotalDegreeBindLeOfLinear
+import Mathlib.Analysis.InnerProductSpace.Trace
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.TraceEqTraceRestrictOfRangeLe
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.TsubValInjective
 
 noncomputable section
 

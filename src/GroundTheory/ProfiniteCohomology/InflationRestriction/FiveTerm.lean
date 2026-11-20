@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.InflationRestriction.Transgression
 set_option maxSynthPendingDepth 1
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.AllPartsTransferHolds
 import Formalism.LocalToGlobal.GlobalTheory.DivPassage
 

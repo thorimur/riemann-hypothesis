@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.InverseChamberMap
 open GlobalTheory.Chamber
 open scoped InnerProductSpace ContDiff Classical

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsDetEltOne
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.SandwichMaps
 
 noncomputable section
 

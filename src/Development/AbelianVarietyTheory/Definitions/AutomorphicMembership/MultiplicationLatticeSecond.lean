@@ -1,7 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsNatDiagIffIsDiag
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsTorsionFreeOfForallExists
 import Formalism.SharpRestriction.Divisibility.BoundaryLocalData
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.CmHostRootComplexEqPmSqrt
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsFrameOfForallExists
+import Formalism.LocalToGlobal.ProjectiveLattices.DataAtPointN3
 
 set_option maxHeartbeats 800000
 

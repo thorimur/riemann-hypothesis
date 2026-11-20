@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.TermLoc
 import Formalism.LocalToGlobal.SiegelLatticeTheory.EFSymmCont
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsMoreMore
+import Mathlib.RingTheory.Valuation.Extension
 
 noncomputable section
 

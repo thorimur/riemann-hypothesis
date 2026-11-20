@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PeriodRingComparison.CrystallinePeriodRings.GammaEqDpow
 
 noncomputable section

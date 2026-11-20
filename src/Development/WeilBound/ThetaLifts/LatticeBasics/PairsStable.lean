@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.LatticeBasics.Hypotheses2
 
 noncomputable section

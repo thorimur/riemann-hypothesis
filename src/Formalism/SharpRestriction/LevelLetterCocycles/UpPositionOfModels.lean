@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.UpPositionHypothesis
 import Formalism.SharpRestriction.LevelLetterCocycles.DdRFull
+import Formalism.SharpRestriction.LevelLetterCocycles.DownSlotProposition
 
 noncomputable section
 

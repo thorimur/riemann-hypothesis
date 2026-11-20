@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.Residue
 import GroundTheory.GlobalFields.ComplexMultiplication.RectangleIntegral
 

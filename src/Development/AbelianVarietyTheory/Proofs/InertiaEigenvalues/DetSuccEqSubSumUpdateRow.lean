@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.IsPsCharOne
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace GlobalTheory.PsChar
 

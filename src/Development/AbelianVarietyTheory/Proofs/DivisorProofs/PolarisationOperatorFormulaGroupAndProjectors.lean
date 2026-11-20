@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvalPol
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.RowDivRowWeight
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
 import Formalism.PieriBlockIdeals.PieriColumnMinors.RealLocalDeltaNabla
 
 set_option autoImplicit false

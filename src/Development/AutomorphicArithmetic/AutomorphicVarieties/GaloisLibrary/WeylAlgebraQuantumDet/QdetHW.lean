@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.WeylAlgebraQuantumDet.IsTop
 import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 open Matrix UpperTheory.V.Weyl
 

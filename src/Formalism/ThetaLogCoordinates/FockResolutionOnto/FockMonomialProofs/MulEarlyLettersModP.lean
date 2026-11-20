@@ -1,6 +1,5 @@
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.StatementE
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.FiltrationBotHolds
-import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.ResInto
 
 namespace Formalism.InvariantFactorPaths.L4
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.WeilGroups.QuasiCharacter
 
 open NumberField

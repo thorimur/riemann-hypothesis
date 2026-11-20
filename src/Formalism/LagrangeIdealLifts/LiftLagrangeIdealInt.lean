@@ -1,10 +1,8 @@
 import Formalism.LagrangeIdealLifts.CocyclePolynomialDivision.LagrangeIdeal
 import Formalism.LagrangeIdealLifts.CocyclePolynomialDivision.LagrangeIdealCyc
 import Formalism.LagrangeIdealLifts.CocyclePolynomialDivision.Graded
-import Formalism.LagrangeIdealLifts.CocyclePolynomialDivision.CompsOfMemMap
 import Formalism.LagrangeIdealLifts.CocyclePolynomialDivision.UClaim
 import Formalism.LagrangeIdealLifts.CocyclePolynomialDivision.UChase
-import Formalism.LagrangeIdealLifts.CocyclePolynomialDivision.CoeffSumXPowMulExpand
 
 namespace Formalism.LIFT
 

@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsPullConeNullModP
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PPullConeNullModP
 
 namespace GlobalTheory.CompanionTheory.Ar.Giv

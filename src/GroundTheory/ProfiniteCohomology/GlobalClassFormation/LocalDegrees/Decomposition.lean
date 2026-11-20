@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.GlobalFields.CyclotomicCharacters.DegreeDecomposition
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalDegrees.Layers
+import GroundTheory.GlobalFields.IdeleClassGroup.IdeleClassMapIdeleClassMap
+import Mathlib.NumberTheory.Padics.MahlerBasis
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

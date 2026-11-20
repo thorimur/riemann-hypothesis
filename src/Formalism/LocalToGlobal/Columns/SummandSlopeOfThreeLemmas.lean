@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.BrzColLatOneLattice
 
 open NumberField IsDedekindDomain Module

@@ -1,9 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GoodReductionModelReading
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffSetIntegralNat
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RePosOfIsMultIP
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocallyCompactSecondCountableT2
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsFundamentalDomain
+import Mathlib.Analysis.InnerProductSpace.JointEigenspace
 
 noncomputable section
 

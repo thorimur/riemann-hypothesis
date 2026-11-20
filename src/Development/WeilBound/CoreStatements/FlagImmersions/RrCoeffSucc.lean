@@ -1,4 +1,10 @@
 import Development.WeilBound.CoreStatements.FlagImmersions.AltCMul
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

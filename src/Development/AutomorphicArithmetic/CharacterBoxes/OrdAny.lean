@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.CharacterBoxes.TwistForm
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.AnyLevel
 
 open Formalism.HC Formalism.FrobeniusOrbits UpperTheory.Top

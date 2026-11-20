@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.CompactGapsGE
 import Formalism.DegreeFormula.PointDegree.PowSum
 open MvPolynomial Filter Topology GlobalTheory.CompanionTheory.Ar.Top

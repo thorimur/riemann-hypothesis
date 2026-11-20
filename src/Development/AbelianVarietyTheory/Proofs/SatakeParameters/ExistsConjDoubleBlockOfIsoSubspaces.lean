@@ -1,5 +1,7 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.ExistsInertiaCharpolyFactorOfTameType
+import Formalism.PadicSubsetSums.StableGradedCounts.ZBrauerNesbittAlg
+import Formalism.SharpRestriction.LevelLetterCocycles.SumRepresentations
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.Etale.Weakly
 open Formalism.MainNotions Formalism.MainNotions.N
 
 namespace GlobalTheory.DoubleBlock

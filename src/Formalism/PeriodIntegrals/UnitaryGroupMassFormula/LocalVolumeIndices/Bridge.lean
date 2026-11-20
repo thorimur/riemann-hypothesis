@@ -1,7 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.MassDataInst
-import Formalism.PeriodIntegrals.AdBridgeSteps
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.BridgeFinK
+import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.Measures
 
 noncomputable section
 

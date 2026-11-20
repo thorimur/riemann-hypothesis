@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.SelfDualOne
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.DvdPowZeroIff
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.EqZeroOfForallDvdPow
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Matrix Filter Topology
 

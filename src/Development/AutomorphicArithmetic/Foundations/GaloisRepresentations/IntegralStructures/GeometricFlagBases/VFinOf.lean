@@ -1,4 +1,3 @@
-import Development.EtaleCohomology.EtaleTrace.LFinCut
 import Development.EtaleCohomology.KummerTheory.FinBock
 import Development.EtaleCohomology.WeilConjectures.AdicFinPf
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.KunnethLefschetz.OneMul

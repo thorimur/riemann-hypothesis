@@ -1,7 +1,5 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.SecondPropositionFree
-import Formalism.SharpRestriction.LevelLetterCocycles.MapCompZero
-import Formalism.SharpRestriction.LevelLetterCocycles.BaseChangePreservesUnitaryOf
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FrobPiNPf
+import Formalism.SharpRestriction.LevelLetterCocycles.ClassMapStep
 
 noncomputable section
 

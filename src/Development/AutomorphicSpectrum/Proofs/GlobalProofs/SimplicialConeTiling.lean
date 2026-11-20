@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.SiegelKlingenDeligneRibet
-import Development.AutomorphicSpectrum.Proofs.GlobalProofs.AbelContinuation
-import Development.AutomorphicSpectrum.Proofs.GlobalProofs.CongSubgroup
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.SimplicialConeTilesSignStatement
 
 set_option autoImplicit false

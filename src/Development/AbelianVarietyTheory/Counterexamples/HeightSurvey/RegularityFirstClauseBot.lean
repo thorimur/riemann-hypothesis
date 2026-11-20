@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.RegQFree
+import Mathlib.RingTheory.AdicCompletion.Completeness
 
 noncomputable section
 

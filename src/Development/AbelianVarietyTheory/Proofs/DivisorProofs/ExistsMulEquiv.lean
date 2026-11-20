@@ -1,10 +1,9 @@
-import Mathlib
-import ReciprocityTheory.Hypotheses.GalCoh
-import Formalism.GaloisCohomology.LocalTateDualityK
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteDimensionalAdjoinRange
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FixingSubgroupEquivBicontinuous
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.DualityClausesOfMulEquiv
-import CompanionTheory.AutomorphicTheory.PadicCyclotomicFields.GcohTop
+import CompanionTheory.AutomorphicTheory.PadicCyclotomicFields.GcohCmp
+import CompanionTheory.AutomorphicTheory.PadicCyclotomicFields.GcohField
+import CompanionTheory.AutomorphicTheory.PadicCyclotomicFields.GcohTate
 
 open NumberField IsDedekindDomain CategoryTheory GroundTheory.ProfCoh Formalism.ConjugateSelfDual ReciprocityTheory.Gal Formalism.GaloisCohomology
 

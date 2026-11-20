@@ -1,6 +1,9 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.SimpleSum
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.ValuationDetOfMemKO
+import Mathlib.Data.Matrix.ColumnRowPartitioned
+import Mathlib.GroupTheory.DoubleCoset
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Topology.LocallyConstant.Algebra
+import Mathlib.Topology.Sheaves.Presheaf
 
 open MeasureTheory ValuativeRel Matrix
 

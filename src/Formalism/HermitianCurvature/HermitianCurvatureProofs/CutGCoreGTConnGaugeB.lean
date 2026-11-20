@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.cut_GCore_GTConnCut
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CoordinateCommuteRaisingConstant
+import Mathlib.Analysis.Calculus.FDeriv.Star
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Formalism.FourierDecayAlt Formalism.FourierDecayAlt.MA Formalism.FourierDecayAlt.P.MAx1.An
 open scoped ComplexConjugate

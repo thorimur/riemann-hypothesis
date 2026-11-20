@@ -1,6 +1,6 @@
 import Formalism.LocalRingCardinality.DataTies
-import Formalism.LocalRingCardinality.SpanPowerMembership.RankRecordRowDimensionZero
 import Formalism.LocalRingCardinality.SpanPowerMembership.SignSplitEquivInl
+import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleLayerExistsGenerators
 
 noncomputable section
 

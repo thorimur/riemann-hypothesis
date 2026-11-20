@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpanFiniteDimensionalOfBoundedForms
-import Mathlib
 
 open Topology Filter
 set_option maxHeartbeats 1000000 in

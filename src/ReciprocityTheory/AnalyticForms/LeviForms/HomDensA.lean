@@ -1,5 +1,7 @@
-import ReciprocityTheory.AnalyticForms.LeviForms.IsRegFamilyInhabitStatement
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PiTensorProduct
+import ReciprocityTheory.AnalyticForms.MaIntEmpty
 
 namespace ReciprocityTheory.AnForm.P
 

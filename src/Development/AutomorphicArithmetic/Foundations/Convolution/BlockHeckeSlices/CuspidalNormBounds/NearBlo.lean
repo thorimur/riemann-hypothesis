@@ -1,6 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.BlockHeckeSlices.CuspidalNormBounds.HkApply
 import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.NearFinite
-import GroundTheory.AutomorphicForms.LocallyProfinite
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IndependenceEigenvectors
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.NonSplitSequence
 

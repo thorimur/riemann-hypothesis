@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.CoeffGaugeSquareLowDegree
 import Formalism.SharpRestriction.GrowthBounds.GenIntSPsubst
+import Formalism.SharpRestriction.GrowthBounds.CoeffIdentitySelfConjOfTwo
 
 noncomputable section
 

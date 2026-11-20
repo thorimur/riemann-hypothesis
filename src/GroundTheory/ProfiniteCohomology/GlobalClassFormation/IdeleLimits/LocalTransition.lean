@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits.Levels
 import GroundTheory.GlobalFields.IdeleGroups.LocalHerbrandInfinite
 set_option maxSynthPendingDepth 1

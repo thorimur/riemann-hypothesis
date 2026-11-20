@@ -1,5 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CurveDVRSpecialization.IsUnitOrIsUnitOfAddOne
-import Mathlib.LinearAlgebra.LinearIndependent.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Polynomial
 

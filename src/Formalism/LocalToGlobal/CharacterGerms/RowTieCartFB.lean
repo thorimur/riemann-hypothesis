@@ -1,4 +1,6 @@
 import Formalism.LocalToGlobal.CharacterGerms.CoeffAlongCvCongr
+import Formalism.LocalToGlobal.CharacterGerms.GeOfPowEqOne
+import Formalism.LocalToGlobal.CharacterGerms.ValNonnegLeadingCoeffOfMemTySet
 
 noncomputable section
 

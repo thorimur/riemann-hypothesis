@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilPairingFormulaAllPoints
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZetaSuccPow
 
 set_option autoImplicit false
 

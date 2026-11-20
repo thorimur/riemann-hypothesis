@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialOfFun
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.LintegralImageEqLintegralNormSqDetMul
 import GroundTheory.HeightsAndTheta.Heights.LocalDensities.PChartPartitionExists
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ArithRes

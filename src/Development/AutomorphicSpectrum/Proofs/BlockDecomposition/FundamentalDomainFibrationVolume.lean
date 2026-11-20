@@ -1,5 +1,5 @@
-import Mathlib
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.FiniteCovolumeUnimodular
+import Mathlib.Tactic.Polynomial.Basic
 
 open MeasureTheory Topology
 open scoped ENNReal NNReal Matrix

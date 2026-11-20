@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ReductionMahler
 import GroundTheory.PowerSubgroups.CountableNeighbourhoods.GLnPowerSubgroups
 

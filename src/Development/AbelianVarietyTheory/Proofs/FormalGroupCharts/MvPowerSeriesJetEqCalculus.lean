@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.TwoChartAtlas.AdditionLawSecondIdentity
+import Mathlib.RingTheory.MvPolynomial.Ideal
 
 set_option autoImplicit false
 noncomputable section

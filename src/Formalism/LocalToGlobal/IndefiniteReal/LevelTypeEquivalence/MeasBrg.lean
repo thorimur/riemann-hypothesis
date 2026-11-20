@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.UnimodGA
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.AtTauExUniqueHolds
+import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.UnimodInst
 
 noncomputable section
 

@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GramLocTendsto
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TendstoLevelNormOfRegularization
+import Mathlib.Topology.MetricSpace.Sequences
 
 open Formalism.FourierDecayAlt
 

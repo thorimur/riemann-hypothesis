@@ -1,6 +1,7 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FockTheta.UnitBracket
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.CharLem
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.InfFam
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
 
 noncomputable section
 

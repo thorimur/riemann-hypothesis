@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsInvertibleIndexMulSteps
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLocallyPrincipalCoprime
 set_option maxSynthPendingDepth 1

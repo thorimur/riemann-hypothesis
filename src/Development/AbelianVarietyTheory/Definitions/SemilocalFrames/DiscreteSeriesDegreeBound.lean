@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.OnePlaceEstimates
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLitG
 
 noncomputable section

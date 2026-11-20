@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.FWExist
 import Formalism.LocalToGlobal.IndefiniteReal.RhoGeo
+import Formalism.LocalToGlobal.IndefiniteReal.OneMapEq
 
 noncomputable section
 

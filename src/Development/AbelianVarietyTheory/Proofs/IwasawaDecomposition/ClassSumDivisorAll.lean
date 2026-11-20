@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.GeometricWeakTiesOfStrong
-import Development.AbelianVarietyTheory.Definitions.HeightFunctions.OntoAlong
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.StrictHenselianAcyclic
-import Development.AbelianVarietyTheory.PublishedTheorems.PublishedFoundations.NonemptyAlgHomOfIsRayOfDvd
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassSumDivisibilityBundleStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExponentReadingBundleStatement
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.HasExpOfLayer
@@ -12,6 +7,7 @@ import Development.AbelianVarietyTheory.Proofs.HeightProofs.LargeBaseRayConditio
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.CoreSlotRX
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PtRealised
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RowOfCovolumeOntoGrid
+import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.GoodReductionCondition
 open Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.RT GlobalTheory.EX GlobalTheory.EX.OB GlobalTheory.Mem GlobalTheory.Mem.Top GlobalTheory.Mem.Top.Bl GlobalTheory.Fc
 attribute [local instance] Formalism.BasicNotions.Host.cmStar
 

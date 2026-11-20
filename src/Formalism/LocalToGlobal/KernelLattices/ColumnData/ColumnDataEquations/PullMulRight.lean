@@ -1,5 +1,7 @@
 import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.MemSmulLat
 import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.ReductionOf
+import Formalism.LocalRingCardinality.SpanPowerMembership.RelDet
+import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.NormOneUnitIdeal
 
 noncomputable section
 open NumberField Formalism.BasicNotions Classical

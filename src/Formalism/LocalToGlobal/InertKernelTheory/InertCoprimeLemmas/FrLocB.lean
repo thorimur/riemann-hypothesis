@@ -1,7 +1,5 @@
 import Formalism.LocalToGlobal.InertKernelTheory.DefsFrONB
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.IntBasis
-import Formalism.LocalToGlobal.GlobalTheory.GL3.IsometryLinkageTrivialLevel
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PSelfDual
 
 noncomputable section
 

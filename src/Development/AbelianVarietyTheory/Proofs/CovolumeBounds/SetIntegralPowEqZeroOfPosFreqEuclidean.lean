@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.SummablePiProd
 
 open MeasureTheory Filter Topology

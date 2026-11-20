@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemExpSolCons
 open NumberField MeasureTheory GlobalTheory.CuspRep GlobalTheory.HCF Topology
 

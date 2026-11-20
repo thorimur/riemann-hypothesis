@@ -1,5 +1,7 @@
 import Development.EtaleCohomology.WeilConjectures.FermatCount
 import Development.EtaleCohomology.EtaleSheaves.EtaleBaseChangeFractionFieldIndEtaleOverPolynomi
+import Mathlib.AlgebraicGeometry.Morphisms.UniversallyInjective
+import Mathlib.CategoryTheory.Sites.SheafCohomology.Basic
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

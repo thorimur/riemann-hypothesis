@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SplitDoublingNBlock
+import Formalism.LocalToGlobal.Divisibility.DefGroup
 open GlobalTheory.FinGL Formalism.L2.DIV Module
 
 namespace GlobalTheory.FinGL.Bruhat

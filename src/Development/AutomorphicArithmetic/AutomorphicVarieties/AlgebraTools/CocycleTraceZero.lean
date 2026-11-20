@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.DerInner
+import Mathlib.Tactic.Polynomial.Basic
 
 open Polynomial Matrix IsLocalRing TensorProduct
 

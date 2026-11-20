@@ -1,6 +1,6 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.JumpsLetOfWin
 import Formalism.SharpRestriction.LevelLetterCocycles.SaturationUnramifiedOfRingCondition
-import Formalism.SharpRestriction.LevelLetterCocycles.ArcLiftingSetup
+import Mathlib.RingTheory.TensorProduct.IsBaseChangeFree
 
 noncomputable section
 

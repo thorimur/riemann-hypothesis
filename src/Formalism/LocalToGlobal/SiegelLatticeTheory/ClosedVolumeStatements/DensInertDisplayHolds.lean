@@ -1,11 +1,6 @@
-import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.ColsDim
-import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.DensExact
 import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.LemmaN
-import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.IdCell
 import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.GramJoint
-import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.ClassAct
 import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.DiamondFree
-import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.MassRatio
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.CMDegEq
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.CMDiscSq
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.CMEulerEq

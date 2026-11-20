@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsVertRIndexSteps
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.PCurveDivVertical
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.CharacterNondegenerate

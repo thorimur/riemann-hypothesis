@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsOrthonormalOfLinearIndependent
+import Mathlib.Tactic.ENatToNat
 open MeasureTheory
 
 namespace GlobalTheory.CoordBox

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.InverseChamberMap
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.RootDecomposeOrthogonalStatement
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramDetOptionFormulaStatement
 open GlobalTheory.Chamber

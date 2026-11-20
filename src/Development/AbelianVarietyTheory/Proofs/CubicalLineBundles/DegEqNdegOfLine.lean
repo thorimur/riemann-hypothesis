@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.CMLattices.LamLetters
-import Development.AbelianVarietyTheory.Definitions.CMLattices.ExistsIsThetaDegOfIsLocalModel
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.TwoMulDegDualLineCmIdeal
+import Formalism.LocalToGlobal.CMDeterminantIdeals.DetIdeal
 
 open NumberField ReciprocityTheory.GeometryOfNumbersTheory Formalism.L2.LamCM
 

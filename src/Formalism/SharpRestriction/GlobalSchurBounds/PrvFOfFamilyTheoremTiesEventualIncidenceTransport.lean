@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.GlobalTheory.PlacesP
-import Formalism.LocalToGlobal.GlobalTheory.PowFourLtCeilThresholdPrime
+import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.CMFieldLemmas
+import Formalism.SharpRestriction.GlobalSchurBounds.JointsL
 
 noncomputable section
 

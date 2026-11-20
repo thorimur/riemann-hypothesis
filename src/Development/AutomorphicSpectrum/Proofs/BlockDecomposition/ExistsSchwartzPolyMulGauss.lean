@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.GaussianSchwartz
 
 noncomputable section

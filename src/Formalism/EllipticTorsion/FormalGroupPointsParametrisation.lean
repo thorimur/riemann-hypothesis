@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.EllipticTorsion.FormalGroupPointsTorsionFree
 import Formalism.EllipticTorsion.WChordSeries
 

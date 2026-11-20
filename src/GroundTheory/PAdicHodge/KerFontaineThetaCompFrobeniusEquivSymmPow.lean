@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.PAdicHodge.KerTheta
-import GroundTheory.PAdicHodge.TiltValuation
+import Mathlib.RingTheory.PiTensorProduct
 set_option maxSynthPendingDepth 1
 
 noncomputable section

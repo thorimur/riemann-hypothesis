@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NablaSchur
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
 
 open GlobalTheory.LeviCut
 

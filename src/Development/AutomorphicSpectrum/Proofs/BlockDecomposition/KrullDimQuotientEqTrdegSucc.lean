@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PIntDomainDim
+import Mathlib.AlgebraicGeometry.Morphisms.Immersion
 open CategoryTheory AlgebraicGeometry
 
 namespace GlobalTheory.CompanionTheory.DimChart

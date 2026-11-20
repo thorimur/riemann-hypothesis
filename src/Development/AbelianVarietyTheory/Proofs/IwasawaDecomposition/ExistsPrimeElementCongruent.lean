@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.NonemptyRayDataOfNeZero
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InfinitelyManyPrimesInRayClassStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RayDataNonemptyStatement
 

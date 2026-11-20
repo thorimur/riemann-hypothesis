@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.SEEPin
+import Formalism.LocalToGlobal.IndefiniteReal.EvalTieTOne
+import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
 
 noncomputable section
 

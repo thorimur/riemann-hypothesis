@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsAdaptedReduction
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsHyperbolicPairs
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StLineNormalForm

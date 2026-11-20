@@ -1,5 +1,4 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.FormulaF
-import Formalism.RealPlaceAnalysis.InstMeasurableSpaceUJ
 
 noncomputable section
 

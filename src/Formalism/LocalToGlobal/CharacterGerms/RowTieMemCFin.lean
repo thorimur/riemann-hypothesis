@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTieMemCHarm
+import Formalism.LocalToGlobal.CharacterGerms.BlockMembershipSelfConjCharts
 
 set_option autoImplicit false
 

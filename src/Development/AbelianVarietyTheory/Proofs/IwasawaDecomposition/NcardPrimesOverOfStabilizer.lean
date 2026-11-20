@@ -1,8 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.RootOfUnityEightQMemCoeffGaloisSubfield
-import Formalism.LocalRingCardinality.SpanPowerMembership.Spaces
-import Formalism.SharpRestriction.InertJacobiLevels.HostFam
-import Formalism.FrobeniusOrbits.HostCorollaries
+import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Decomp
+import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.SplitK
+import Formalism.SharpRestriction.LevelLetterCocycles.DataN
 
 open Formalism.BasicNotions NumberField IsDedekindDomain GlobalTheory.Mem
 open scoped TensorProduct Pointwise

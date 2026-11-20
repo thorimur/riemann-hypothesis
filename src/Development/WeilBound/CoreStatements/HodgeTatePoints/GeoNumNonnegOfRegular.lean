@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.GeoNum
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSectionNef
 import Development.WeilBound.CoreStatements.HodgeTatePoints.GfForms

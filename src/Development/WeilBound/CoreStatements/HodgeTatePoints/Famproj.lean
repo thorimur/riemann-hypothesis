@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IntegralClosureHeightEqOneOfLiesOver
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.IsPolLatticePlane
-import Development.AutomorphicSpectrum.Statements.AlgebraStatements.HodgeTateNormComparison
-import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.Birational
 import Development.WeilBound.CoreStatements.HodgeTatePoints.Hcptgen
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatLev
 import Development.WeilBound.CoreStatements.HodgeTatePoints.FamprojAlg

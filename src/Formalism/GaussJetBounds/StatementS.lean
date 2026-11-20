@@ -1,4 +1,5 @@
 import Formalism.GaussJetBounds.StatementP
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 noncomputable section
 open scoped BigOperators

@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJABddSSnChain
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaSesquilinearity
 
 namespace Formalism.FourierDecayAlt.P.CutMP.JA.SSn.ChainPf
 

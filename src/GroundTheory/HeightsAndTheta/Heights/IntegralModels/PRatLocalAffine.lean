@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.RatLocalAffine
 set_option maxSynthPendingDepth 1
 

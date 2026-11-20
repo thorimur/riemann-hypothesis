@@ -1,21 +1,12 @@
 import Formalism.SharpRestriction.GrowthBounds.TableLineDegreeFive
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.DescendingProdEqFactorialChoose
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.ExponentFactorialAddSingleOne
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectorLatticeScaling
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.ValuationNonnegIffIntegral
 import Formalism.SharpRestriction.GrowthBounds.ProjectionOfIsotypicDecomposition
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.WeightConditionFromIntegralForm
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.PolynomialMemWeightSpaceIff
-import Formalism.GrowthSums.FactorialBaseGrowth.Coarse
-import Formalism.GrowthSums.FactorialBaseGrowth.Harmonic
 import Formalism.GrowthSums.FactorialBaseGrowth.LogCoef
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.MahPadicGeOfDvd
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.BinomialExpansionCoeffZeroOfDeg
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.MemBoundedDegreeExponentsIff
 import Formalism.SharpRestriction.GrowthBounds.CountingStatementReduction
-import Formalism.GradedWeylDivisibility.FinalC
 import Formalism.GradedWeylDivisibility.FinalD
 import Lemmata.MiscLemmasE.Imports
+import Mathlib.Analysis.Normed.Group.Tannery
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.Columns.TwQLevU
-import Formalism.LocalToGlobal.Columns.ChainTwZero
+import Formalism.LocalToGlobal.Columns.StdLatUnimodular
+import Formalism.LocalToGlobal.Columns.TwQCmp
 
 open NumberField IsDedekindDomain
 

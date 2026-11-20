@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilLineGoodModelAction
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.DiscreteSeriesHermitianUnique
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilTensorModels
 
 open Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes NumberField
 set_option maxHeartbeats 1000000 in

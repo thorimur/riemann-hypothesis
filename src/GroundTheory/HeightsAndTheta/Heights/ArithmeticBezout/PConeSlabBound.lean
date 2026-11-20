@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeSlab
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PChowFormDimLe
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StVarietySlabMeasure

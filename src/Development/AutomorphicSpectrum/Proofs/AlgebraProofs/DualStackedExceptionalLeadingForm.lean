@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualStackedExcLead
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.DenominatorOfSpan
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsExtraLast
+import Mathlib.RingTheory.Henselian
 set_option maxSynthPendingDepth 1
 
 open GroundTheory.Heights₂.Heights ReciprocityTheory.ChartRestriction.G.Geo MvPolynomial NumberField

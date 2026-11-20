@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TensorProductTheorem.CentralCusp
 import GroundTheory.AutomorphicForms.TensorProductTheorem.PeterssonComplement
-import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.GKStableCartan
 import GroundTheory.AutomorphicForms.UnitaryAdmissible.CuspCentral
 
 noncomputable section

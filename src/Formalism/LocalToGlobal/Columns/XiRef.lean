@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.ChainInstY
 
 open NumberField IsDedekindDomain Module

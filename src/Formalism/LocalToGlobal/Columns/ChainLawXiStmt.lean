@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.Columns.ChainLawExt
-import Formalism.LocalToGlobal.Columns.ChainLawPhi
 
 open NumberField IsDedekindDomain
 

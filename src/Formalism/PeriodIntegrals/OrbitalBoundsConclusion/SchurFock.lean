@@ -1,4 +1,3 @@
-import Formalism.PeriodIntegrals.SchurFock
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HwIrred
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SchurOrthogonality.SchurFockOf
 

@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExtMapApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExtMapCompStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExtMapOneStatement
+import Mathlib.Topology.Sheaves.Presheaf
 open Matrix MeasureTheory Set GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe GlobalTheory.TorsionForm
 open scoped ContDiff
 

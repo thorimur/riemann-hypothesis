@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.CyclicPowerClassOfExpEquiv
 import Formalism.GaussJetBounds.StatementI
 

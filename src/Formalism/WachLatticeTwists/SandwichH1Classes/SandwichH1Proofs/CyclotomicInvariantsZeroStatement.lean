@@ -1,5 +1,5 @@
 import Formalism.WachLatticeTwists.SandwichH1Classes.ComparisonMatrixIntertwinesEndomorphisms
-import Formalism.WachLatticeTwists.SandwichH1Classes.SandwichH1Proofs.LevelOneComputationZero
+import Formalism.WachLatticeTwists.SandwichH1Classes.SandwichH1Proofs.MatrixMapH1EqOnH1
 
 noncomputable section
 

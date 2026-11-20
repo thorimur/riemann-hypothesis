@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsFockIPOfFockData
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
+import Mathlib.Analysis.InnerProductSpace.l2Space
+import Mathlib.Analysis.Normed.Lp.lpHolder
 
 noncomputable section
 

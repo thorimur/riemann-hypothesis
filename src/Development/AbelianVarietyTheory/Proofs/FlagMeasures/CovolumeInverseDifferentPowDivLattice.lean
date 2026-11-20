@@ -1,7 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsVolData
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.MeasurePreservingOfBall
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.FrameDualTupleIdealsCastAdd
+import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.IsAddFundamentalDomainLatticeDomain
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 open NumberField IsDedekindDomain MeasureTheory Matrix Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes Formalism.QuantumDeterminants Formalism.MainNotions.S GlobalTheory.SgAlg GlobalTheory.SgGlob GlobalTheory.SnMass GlobalTheory.SnMass.VolN
 open scoped TensorProduct ENNReal nonZeroDivisors

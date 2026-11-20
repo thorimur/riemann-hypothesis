@@ -1,5 +1,3 @@
-import Formalism.SharpRestriction.ElevenLe
-import Formalism.LocalRingCardinality.HostCls
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.RecHeightSWith
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.MainNotions Formalism.L2.Col Formalism.L2.DIV Formalism.L2.Ker GlobalTheory.Mem GlobalTheory.Mem.Chr GlobalTheory.Mem.Col2 GlobalTheory.Core GlobalTheory.Core.Ht2 GlobalTheory.CoreHt
 open GlobalTheory.ColumnNormCompare (numDatumOfParameters codeRec plRec)

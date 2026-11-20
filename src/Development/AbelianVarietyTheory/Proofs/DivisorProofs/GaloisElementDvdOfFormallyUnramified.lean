@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsionFreeOver
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GalMapGalElt
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 open scoped TensorProduct
 
 namespace GlobalTheory.GoodEtale

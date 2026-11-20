@@ -1,5 +1,5 @@
-import Mathlib
-import Formalism.QuotientMetricDivisors.ProdFormula
+import Formalism.QuotientMetricDivisors.Statement
+import Mathlib.NumberTheory.Harmonic.EulerMascheroni
 
 open Module NumberField IsDedekindDomain Finset
 open Formalism.DivisionValues (vw lw conjPl)

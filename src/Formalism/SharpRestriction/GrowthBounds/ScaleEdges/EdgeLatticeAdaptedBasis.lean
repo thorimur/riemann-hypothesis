@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.GroupLattices.FockModels.ElementaryDivisorBasis
-import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.ScaleNegMono
 
 open MvPolynomial
 

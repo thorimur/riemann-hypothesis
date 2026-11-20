@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsDiagFormDiv
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PPFFibreSum
 set_option maxSynthPendingDepth 1

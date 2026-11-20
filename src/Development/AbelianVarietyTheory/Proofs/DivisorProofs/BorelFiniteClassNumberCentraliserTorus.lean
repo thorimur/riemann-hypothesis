@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.UnipotentAdelicQuotients.ClassNumberFinite
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FormGroupToPadicPointsDegreeOneEqUnitaryPoints
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TC
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteDoubleCosetAwayP

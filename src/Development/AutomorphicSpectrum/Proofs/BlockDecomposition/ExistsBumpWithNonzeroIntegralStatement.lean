@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBumpWithNonzeroIntegral
-import Mathlib
 open MeasureTheory
 open scoped ENNReal NNReal Topology
 set_option maxHeartbeats 1000000 in

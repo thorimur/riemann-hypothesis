@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinsumDoubleCosetEqFinprodLocalSums
-import Mathlib
 open Filter
 open scoped Classical
 set_option maxHeartbeats 1000000 in

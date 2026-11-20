@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.IsHorizontalSpanXb
+import GroundTheory.HeightsAndTheta.Heights.Intersections.IsFieldIntersectionNoBlockFam
+import GroundTheory.HeightsAndTheta.Heights.Intersections.IsPrimeSpanXb
 set_option maxSynthPendingDepth 1
 
 noncomputable section

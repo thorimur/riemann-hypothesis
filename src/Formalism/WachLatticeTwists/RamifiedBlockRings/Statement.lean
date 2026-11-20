@@ -1,5 +1,5 @@
-import Formalism.CharacterColumnKernels.StatOntoLattice
 import Formalism.TruncatedSeriesCounting.LemmaDetPoly
+import Mathlib.LinearAlgebra.Matrix.Rank
 
 open Finset Classical
 

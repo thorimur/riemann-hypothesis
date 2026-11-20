@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.IntegralMulConjGaussianEqCoeffNormSq
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
 
 namespace ReciprocityTheory.ChartRestriction.G.I2
 

@@ -1,7 +1,6 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.KunnethLefschetz.EtaleCharts.FinCover
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.AppLEFromOfGlobalSectionsChartHom
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.SegreGlue
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ChowSegre
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ChowProduct
 
 open CategoryTheory Limits AlgebraicGeometry ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open GroundTheory.Arith.SchemeCoh GroundTheory.Arith.SchemeCoh.ProjSpace

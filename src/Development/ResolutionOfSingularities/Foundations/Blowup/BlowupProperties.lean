@@ -1,6 +1,7 @@
-import Mathlib
 import Development.ResolutionOfSingularities.Foundations.Blowup.StrictTransform
 import Development.ResolutionOfSingularities.Foundations.BlowupUniversalProperty
+import Mathlib.AlgebraicGeometry.Morphisms.Proper
+import Mathlib.AlgebraicGeometry.Noetherian
 universe u
 
 open CategoryTheory AlgebraicGeometry TopologicalSpace

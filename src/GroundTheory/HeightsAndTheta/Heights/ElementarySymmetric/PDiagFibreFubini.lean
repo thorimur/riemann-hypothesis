@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StWWFibrePoly
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PDiagFibreMoment
 set_option maxSynthPendingDepth 1

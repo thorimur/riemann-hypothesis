@@ -1,7 +1,5 @@
 import Formalism.CyclotomicNorms.NonsquarefreeBounds.AdaptiveSubstitutionBound
 import Formalism.CyclotomicNorms.NonsquarefreeBounds.LowDegreePowerSeries
-import Formalism.CyclotomicNorms.NonsquarefreeBounds.TwoMulNumDerangementsLeFactorial
-import Formalism.CyclotomicNorms.StatementI
 
 namespace Formalism.CyclotomicNorms
 

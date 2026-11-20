@@ -1,5 +1,5 @@
-import Development.EtaleCohomology.EtaleSheaves.KerLocPf
 import Development.EtaleCohomology.EtaleSheaves.LeafGhostCut
+import Development.EtaleCohomology.EtaleSheaves.StalkCut
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry CochainComplex CochainComplex.HomComplex GlobalTheory.EtC LateralTheory.E.t_E3Cut LateralTheory.E.StalkCut LateralTheory.E.DescLocPf LateralTheory.E.LeafGhostCut

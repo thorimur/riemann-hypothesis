@@ -1,10 +1,6 @@
-import ReciprocityTheory.GroupCohomology.CardLenStatement
-import ReciprocityTheory.GroupCohomology.DEqZeroOfMemB
-import ReciprocityTheory.GroupCohomology.ConnNatHolds
-import ReciprocityTheory.GroupCohomology.PairHomFCoeOfId
-import ReciprocityTheory.GroupCohomology.InfRes
 import ReciprocityTheory.GroupCohomology.Shapiro
 import ReciprocityTheory.GroupCohomology.FiniteLevel
+import ReciprocityTheory.GaloisValuations.ContinuousConstSMulQuotient
 
 namespace ReciprocityTheory.Coh
 

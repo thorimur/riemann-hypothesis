@@ -1,11 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DifferentiableProdPt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagBundleAffinePolynomialCoordsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CellChart
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtalePolynomialSubstitution
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PullbackUnipotentFrameIsFrame
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagsSameFrameIso
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CarriedFlagTriangularFrame
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CokernelSubbundleIsVB
 
 set_option autoImplicit false

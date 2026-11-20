@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.SphConj
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsWeight
+import PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChangeLifts.SplitLift
 
 noncomputable section
 

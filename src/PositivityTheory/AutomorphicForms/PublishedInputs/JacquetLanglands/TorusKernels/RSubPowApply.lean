@@ -1,4 +1,11 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.ComplexMinusRealLineMeasureCoordinates
+import Mathlib.Algebra.DirectSum.LinearMap
+import Mathlib.LinearAlgebra.Eigenspace.Pi
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Finiteness.Nilpotent
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace UpperTheory.Esk.CommutingOperatorTraces
 

@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshRegMax
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.PChartLeviThGe
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StLemmaEWeight

@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.ColumnData.XiEquivOf
+import Formalism.LocalToGlobal.KernelLattices.ColumnData.GlobTied
 
 open NumberField IsDedekindDomain
 

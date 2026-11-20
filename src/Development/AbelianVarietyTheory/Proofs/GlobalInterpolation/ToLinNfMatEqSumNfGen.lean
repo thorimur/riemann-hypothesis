@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.IdxMatNF
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.SandwichNormalForm
 

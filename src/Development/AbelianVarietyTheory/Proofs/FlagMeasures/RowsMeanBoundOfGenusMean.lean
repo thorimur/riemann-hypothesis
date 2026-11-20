@@ -1,9 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.RowsMeanC
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.RowsGenusWeightedSumComparisonStatement
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.BaseLatticeConstructionHoldsStatement
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.LatsDiscStable
-import Formalism.HermitianLattices.HermitianLatticesProofs.GenusBasic
 noncomputable section
 open scoped Classical ENNReal
 open NumberField Formalism.HermitianLatticesTheory GlobalTheory.Mass

@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmulMemOfIsIntegral
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.FormallyUnramifiedRingOfIntegersIffDifferentIdea
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FinrankLeOfMapLe
+import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.DefiniteBound
 
 open NumberField Matrix GlobalTheory.UCls GlobalTheory.SUVol ReciprocityTheory.ChartRestriction.G.FD GlobalTheory.LieDisc
 open scoped nonZeroDivisors

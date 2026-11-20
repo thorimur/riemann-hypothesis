@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairPtsClasses
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairPtsEqSum
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsFiniteReproducingOfSubmodule
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.VecMemThetaSub
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairFnUpdateLinear
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairFnUpdateMoveV

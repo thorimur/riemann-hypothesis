@@ -1,6 +1,4 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.DecayTraceClassAlt
-import Development.AutomorphicArithmetic.Foundations.Convolution.TensFun
-import Development.AutomorphicArithmetic.Foundations.Convolution.ConvolutionKernels.KernelTransforms.TensApply
 import Development.AutomorphicArithmetic.TwistedTraces.CuspDecayFinsetSum
 import Development.AutomorphicArithmetic.TwistedTraces.CuspDecayOfRankZero
 import Development.AutomorphicArithmetic.TwistedTraces.ExistsSumConvRealSmoothT

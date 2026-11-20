@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DualRef
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeightAverageOverLifts
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinsumLifts
+import Development.AbelianVarietyTheory.Definitions.Divisors.ChernOn
 
 set_option autoImplicit false
 

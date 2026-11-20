@@ -1,7 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.CgeZeroIffIntegral
-import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.ProjKeepsLetter
 import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.AddMemSupportOfMemSupportCoefOut
-import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.DigitPartMonomial
+import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.FockMonomialRight
+import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.Monomial
 
 noncomputable section
 

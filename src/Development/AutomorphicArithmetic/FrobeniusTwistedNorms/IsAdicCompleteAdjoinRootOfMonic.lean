@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.CompleteIntegralClosure
 
 open Polynomial

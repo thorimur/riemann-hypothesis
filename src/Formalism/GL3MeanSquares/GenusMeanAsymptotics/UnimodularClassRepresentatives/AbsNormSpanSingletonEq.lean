@@ -1,4 +1,5 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AbsNormDiscrIdealOfLe
+import Mathlib.Algebra.AffineMonoid.Basic
 
 open NumberField Module
 

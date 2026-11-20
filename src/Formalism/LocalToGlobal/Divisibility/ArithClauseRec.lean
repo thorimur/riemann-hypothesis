@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.EigenvalueSumLeClosedOf
 
 noncomputable section

@@ -1,7 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AnalyticLogResolution
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.PointDimensionLtProjectiveLine
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.LogResolutionProjectiveLine
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeasurableSetInterPreimage
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothOnNhdOffBoundary
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPshExhaustionWeights
@@ -9,7 +6,6 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChartSumIntegralLeM
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeasurableAbsLogNormSection
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MongeAmpereExhaustionLimit
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionPullbackBound
-import ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasure
 
 open MeasureTheory ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M GlobalTheory.IndefiniteRowSideFullHecke.BoundaryPolynomialFunctions GlobalTheory.LogResInt
 open ReciprocityTheory.AnForm.P GlobalTheory.Mean4O GlobalTheory.LogResCurv

@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsDivPushResBranches
+import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsDivPushSheetSum
 set_option maxSynthPendingDepth 1
 
 noncomputable section

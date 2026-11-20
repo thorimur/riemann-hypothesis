@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ReductionMahler
 set_option maxSynthPendingDepth 1
 

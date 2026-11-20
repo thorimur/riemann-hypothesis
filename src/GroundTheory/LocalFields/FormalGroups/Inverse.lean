@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.LocalFields.FormalGroups.Truncation
+import Mathlib.RingTheory.FormalGroup.Basic
 
 namespace GroundTheory.LocalField.FormalGroup
 

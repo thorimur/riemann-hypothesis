@@ -1,6 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions.InstMulActionTup
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Exbasis
-import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.DetPull
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Hnf
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Nearvec
 

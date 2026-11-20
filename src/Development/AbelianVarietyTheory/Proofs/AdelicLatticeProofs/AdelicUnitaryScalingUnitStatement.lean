@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.AdelicUnitaryScalingUnit
-import Development.AbelianVarietyTheory.Definitions.AdelicHermitianForms.IsHermForm
 open NumberField IsDedekindDomain GlobalTheory.AdLat GlobalTheory.UnRep
 open scoped TensorProduct Matrix
 set_option maxHeartbeats 1000000 in

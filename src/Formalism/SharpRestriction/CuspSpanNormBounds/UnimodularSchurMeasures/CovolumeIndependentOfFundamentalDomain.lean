@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.KernelConditionsIffWithoutRegularRep
+import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.RightRegularIsometricMultiplicative
+import Mathlib.MeasureTheory.Measure.SeparableMeasure
 
 noncomputable section
 

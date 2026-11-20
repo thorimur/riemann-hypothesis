@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.AdelicGLn
 import GroundTheory.AutomorphicForms.StrongApproximationSLElementary
-import GroundTheory.GlobalFields.Adele.Approximation
 import GroundTheory.GlobalFields.TateThesis.AdelicCharDual
 
 open NumberField IsDedekindDomain Topology Filter Set Matrix

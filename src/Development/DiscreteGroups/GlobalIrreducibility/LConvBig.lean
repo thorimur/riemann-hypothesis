@@ -1,5 +1,4 @@
 import Development.DiscreteGroups.GlobalIrreducibility.LConvBigD
-import GroundTheory.AutomorphicForms.SmoothRepSchur
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocHomAlgebraMap
 open IsLocalRing
 set_option synthInstance.maxHeartbeats 400000

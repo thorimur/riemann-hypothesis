@@ -1,9 +1,10 @@
-import Formalism.LocalToGlobal.InertKernelTheory.AdmissibleEleventhInert
 import Formalism.LocalToGlobal.InertKernelTheory.FinalB
-import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.GenusOneWittExistsOf
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.GlobalOrthonormalBasisFour
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.IntWeak
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.OneCopyTh1SOfIsom
+import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.BeWInertOfSigma
+import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.IntUnit
+import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.PhNorm
 
 namespace Formalism.L2.KerInert
 

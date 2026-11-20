@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.RegularisedSiegelWeil.SingularNullSets.FixMulKer
+import Development.AutomorphicSpectrum.Proofs.GlobalProofs.CoefS
 
 noncomputable section
 

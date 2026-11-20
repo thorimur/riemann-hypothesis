@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.UnitsPower
 import GroundTheory.LocalFields.UnitsGalois
-import GroundTheory.LocalFields.ExistsUnitFiltrationUnitsLeAndRangePowLe
-import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.Additive
+import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.AdditiveSnake
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

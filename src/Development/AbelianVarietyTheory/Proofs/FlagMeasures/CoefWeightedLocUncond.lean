@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.UnitaryHaarProducts.SettingBlocks
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.CoefLoc
 

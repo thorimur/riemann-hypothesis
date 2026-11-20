@@ -1,8 +1,6 @@
 import Development.AutomorphicArithmetic.DedekindLFunctions.SplitInertia
 import Development.AutomorphicArithmetic.PrimitiveCosets.RecH
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.GaloisMapComplexConjugation
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.Window
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.HostFacts
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ExplicitFormulaErrorOfHostConditions
 
 noncomputable section
 

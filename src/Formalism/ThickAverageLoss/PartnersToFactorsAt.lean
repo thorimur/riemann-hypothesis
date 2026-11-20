@@ -1,6 +1,5 @@
 import Formalism.ThickAverageLoss.Statement
-import Formalism.CorankShare.StatementFR
-import Mathlib.Analysis.Fourier.FiniteAbelian.PontryaginDuality
+import Mathlib.Analysis.Fourier.FiniteAbelian.Orthogonality
 
 open Finset ArithmeticFunction
 

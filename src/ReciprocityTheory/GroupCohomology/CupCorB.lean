@@ -1,4 +1,5 @@
 import ReciprocityTheory.GroupCohomology.CupCorA
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace ReciprocityTheory.Coh.CCA
 

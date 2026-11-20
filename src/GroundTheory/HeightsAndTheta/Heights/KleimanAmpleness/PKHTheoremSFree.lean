@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeEmbedSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeDecompSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeIndepSt
@@ -6,6 +5,10 @@ import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHCombContractSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHCombCyclicSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeBadFiniteSt
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.CechHcSubsingletonOfBij
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.PicardGroup
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.KleimanNefness.AlgSFreeSt
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

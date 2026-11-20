@@ -1,7 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutTypeNormMeas
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.IsCompactZetaLe
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.UnipotentCoordinatesMeasurePreserving
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.TwoByOneBlock
 
 namespace Formalism.FourierDecayAlt.P.CutBP.TNM.HM
 

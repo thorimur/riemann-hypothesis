@@ -1,13 +1,11 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ApxGap
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InfSqNormEqExpGap
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviFormPotentialSumSmooth
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DivisorRelationIntegralScaling
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalPotentialOfMetricExists
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConjInvGradedReferenceLines
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FibreSizeAndRangeBoundStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExpAndLogPowerLeLinear
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulLogInvSqDivLeSmall
+import Mathlib.Algebra.Group.Int.TypeTags
 open NumberField IsDedekindDomain Filter Topology
 open Formalism.BasicNotions Formalism.MainNotions Formalism.L2.Pj ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open GlobalTheory GlobalTheory.AllWt GlobalTheory.CompHt GlobalTheory.CovTop GlobalTheory.CovHt GlobalTheory.CovHt.Link GlobalTheory.ShFam GlobalTheory.ShFam.Pad GlobalTheory.TrueGeo GlobalTheory.ProjVar GlobalTheory.Cartier GlobalTheory.Mean4 GlobalTheory.Mean4O

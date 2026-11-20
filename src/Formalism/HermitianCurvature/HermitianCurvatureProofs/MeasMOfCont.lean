@@ -1,5 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.MatExtMulVec
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.SubMulRight
+import Formalism.HermitianCurvature.FiniteOrderIntersectionInSmooth
 
 namespace Formalism.FourierDecayAlt.P.StabilizerDisintegration.MM
 

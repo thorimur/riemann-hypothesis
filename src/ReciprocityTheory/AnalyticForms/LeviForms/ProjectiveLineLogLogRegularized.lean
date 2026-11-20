@@ -1,5 +1,3 @@
-import ReciprocityTheory.AnalyticForms.LeviForms.IsRegFamilyInhabitStatement
-import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffFubiniStudyRatioCompChart0
 import ReciprocityTheory.AnalyticForms.LeviForms.ProjLineChartTarget
 
 namespace ReciprocityTheory.AnForm.P

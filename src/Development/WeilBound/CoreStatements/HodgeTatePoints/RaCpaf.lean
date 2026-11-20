@@ -1,5 +1,7 @@
 import Development.WeilBound.CoreStatements.HodgeTatePoints.RaChar
 import Development.WeilBound.CoreStatements.HodgeTatePoints.RaTlog
+import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsTight
+import Mathlib.RingTheory.RootsOfUnity.AlgebraicallyClosed
 
 open ReciprocityTheory.PGsh.L2 ReciprocityTheory.PGsh.Up GlobalTheory.CompanionTheory.Ar.GR
 open scoped Matrix

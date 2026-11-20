@@ -1,6 +1,7 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsHolPeriods
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.EigLatBasis
+import Mathlib.NumberTheory.ModularForms.DedekindEta
+import Mathlib.NumberTheory.NumberField.ClassNumber
 
 set_option autoImplicit false
 

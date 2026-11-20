@@ -1,4 +1,5 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.MultivariableReproducingFormula
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Matrix
 

@@ -1,7 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.TwistGenerators.LeafTwGenIndepOf
 import Development.EtaleCohomology.EtaleSheaves.LeafPrimCoverPf
 import Development.EtaleCohomology.EtaleSheaves.LPrimLocPf
-import Development.EtaleCohomology.EtaleSheaves.IsChernClassCocycle
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

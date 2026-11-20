@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InfinitelyManyPrimesInRayClass
+import Mathlib.NumberTheory.RamificationInertia.Basic
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
+import Mathlib.RingTheory.Prime
 open NumberField IsDedekindDomain
 open scoped Classical
 

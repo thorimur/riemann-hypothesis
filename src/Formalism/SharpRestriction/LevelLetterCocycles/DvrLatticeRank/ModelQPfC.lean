@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ModelQPfB
+import Formalism.SharpRestriction.LevelLetterCocycles.FrobeniusPowUniformizerFactorisation
 
 noncomputable section
 

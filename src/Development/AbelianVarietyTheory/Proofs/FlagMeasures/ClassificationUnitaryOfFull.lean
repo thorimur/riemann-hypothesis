@@ -1,9 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ExistsIsHaarMeasureSUJ
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.HarishChandraPermuteStatement
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SignKeyTrueLtFalse
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SqIntIrrPerm
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.UnitaryGroupStructuresPermConjInvariant
 open MeasureTheory Matrix Finset Formalism.MainNotions.S Formalism.REAL Formalism.QuantumDeterminants GlobalTheory.Dec GlobalTheory.DSId GlobalTheory.DSSU
 open scoped InnerProductSpace
 

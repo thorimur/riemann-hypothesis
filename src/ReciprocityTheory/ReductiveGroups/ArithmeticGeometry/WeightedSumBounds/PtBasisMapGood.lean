@@ -1,6 +1,5 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.VEqZeroOfPowEqOne
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.PtRescaleGood
+import Mathlib.RingTheory.PowerSeries.Substitution
 
 namespace ReciprocityTheory.ChartRestriction.G.Sh
 

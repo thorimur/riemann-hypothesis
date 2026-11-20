@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StChartDehomogPrime
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChartLocDomain
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChartHomogenise

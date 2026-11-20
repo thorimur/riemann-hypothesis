@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.StmtFields
+import Development.AutomorphicArithmetic.CharacterBoxes.ExistsPageN
+import Mathlib.Algebra.Order.Ring.Star
 
 open NumberField Formalism.HC UpperTheory.Top UpperTheory.V
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.IsTypeMap
+import Mathlib.FieldTheory.Finite.Extension
 
 noncomputable section
 

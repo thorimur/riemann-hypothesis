@@ -1,6 +1,4 @@
-import Mathlib
-import GroundTheory.GlobalFields.ComplexMultiplication.DifferentialConstantField
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.DualIsogenyExists
+import GroundTheory.GlobalFields.ComplexMultiplication.DifferentialBaseChange
 
 namespace GroundTheory.Global
 

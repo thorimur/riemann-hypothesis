@@ -1,5 +1,5 @@
-import Formalism.ThetaLogCoordinates.DualWeylCoordinates.StripDataTensorColumnFamilies
-import Formalism.ThetaLogCoordinates.JacobiPathWeights.FinalP
+import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DefsMod
+import Formalism.ThetaLogCoordinates.JacobiPathWeights.JacobiMinorProofs.Branch
 
 noncomputable section
 

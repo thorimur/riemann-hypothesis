@@ -1,11 +1,6 @@
-import Mathlib
-import Formalism.DegreeFormula.PointDegree.PowSum
-import Formalism.DegreeFormula.PointDegree.PermExpInj
-import Development.AbelianVarietyTheory.Definitions.Foundations.CurveCl
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagDegreeEqDiscriminantMultipleStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AntisymmetricDiscriminantInvariantStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmallOnWallsNearDiscriminantStatement
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WallSetCompactDominantStatement
 
 open MvPolynomial Formalism.DegreeFormula GlobalTheory.FlagPoly
 

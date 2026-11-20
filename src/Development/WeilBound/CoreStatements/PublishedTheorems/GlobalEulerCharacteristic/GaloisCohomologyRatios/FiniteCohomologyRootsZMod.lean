@@ -1,8 +1,4 @@
 import Development.WeilBound.CoreStatements.PublishedTheorems.GlobalEulerCharacteristic.GaloisCohomologyRatios.ModuleFiniteHomRep
-import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.CoprimeRegular
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseKummerDefs
-import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.KummerShaOpen
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.Finite
 
 open NumberField IsDedekindDomain CategoryTheory GroundTheory.ProfCoh GroundTheory.Global
 

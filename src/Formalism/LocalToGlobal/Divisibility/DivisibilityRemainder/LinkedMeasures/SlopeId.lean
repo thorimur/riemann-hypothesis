@@ -1,7 +1,5 @@
-import Formalism.SharpRestriction.Divisibility.HookProducts.HhOfInputs
 import Formalism.LocalToGlobal.Divisibility.RecBridgeWire
-import Formalism.LocalToGlobal.ClassOfRecordOfChoice
-import Formalism.SharpRestriction.GlobalSchurBounds.LogXLowerFamilyOfTheorems
+import Formalism.SharpRestriction.AdmissibleParameterJoins.SumLogPrimeFactorsLe
 
 noncomputable section
 

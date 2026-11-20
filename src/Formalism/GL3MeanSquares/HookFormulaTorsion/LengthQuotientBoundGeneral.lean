@@ -1,7 +1,10 @@
-import Mathlib
 import Formalism.GL3MeanSquares.RationalMatrixPrimeOrderBound
-import Formalism.GL3MeanSquares.HookFormulaTorsion.FourierCommutesHeckeScalar
 import Formalism.LogVandermondeBounds.LogVandermondeProofs.LengthQuotientLeOfLatticeSandwich
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.HermitianLattices.RamifiedHeckeModels
 

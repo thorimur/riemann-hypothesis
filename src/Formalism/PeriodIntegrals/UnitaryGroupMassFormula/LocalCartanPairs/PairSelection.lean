@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalCartanPairs.PiNonunit
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalCartanPairs.SelMain
 

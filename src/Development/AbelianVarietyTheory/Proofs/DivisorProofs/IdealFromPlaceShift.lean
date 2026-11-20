@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasSigFramesOfIsotropic
 import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.PointShiftStOfPlaceShiftSt
-import Development.AbelianVarietyTheory.Definitions.Divisors.HtValOnSubset
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSemilinearPatPoint
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIndexRelOfHasSigFrames
 
 set_option autoImplicit false
 

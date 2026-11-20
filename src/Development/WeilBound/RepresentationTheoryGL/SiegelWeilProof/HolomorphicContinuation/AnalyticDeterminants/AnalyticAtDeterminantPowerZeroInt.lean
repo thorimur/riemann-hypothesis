@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AnalyticDeterminants.FderivDeterminantPowerCornerInt
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

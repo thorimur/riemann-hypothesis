@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.HermitianLattices.StatementLat
 import Formalism.HermitianLattices.DefsCS
 import Formalism.GelfandTransference.EnergyIdentity
 

@@ -1,4 +1,5 @@
 import Formalism.JumpKernelCokernel.Statement
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.KernelCokernelLengths
 

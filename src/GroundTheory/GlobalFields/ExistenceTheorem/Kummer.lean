@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ExistenceTheorem.KummerNorm
 import GroundTheory.GlobalFields.ClassFieldConsequences.OpenSubgroup
 

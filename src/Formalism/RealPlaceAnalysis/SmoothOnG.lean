@@ -1,4 +1,5 @@
 import Formalism.RealPlaceAnalysis.Complexify
+import Mathlib.Analysis.Matrix.Normed
 
 open Matrix
 open scoped ContDiff

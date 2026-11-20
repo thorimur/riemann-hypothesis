@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryGroupContinuousCharEqDetZpowStatement
+import Mathlib.Analysis.CStarAlgebra.CStarMatrix
 open Matrix
 open scoped ComplexOrder
 

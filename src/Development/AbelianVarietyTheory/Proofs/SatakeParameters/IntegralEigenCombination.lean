@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.GlobalSchurBounds.GL3Columns
 import Formalism.LocalToGlobal.KernelLattices.ThDistC
-import Formalism.GaussJetBounds.StatementN
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.DerivationCoordinateChange
 open NumberField Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.G Formalism.MainNotions.TaylorLogMetric Classical
 open Formalism.DworkPowerSeriesWeights (JetsIntegral)

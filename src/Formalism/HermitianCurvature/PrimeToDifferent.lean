@@ -2,6 +2,11 @@ import Formalism.HermitianCurvature.Statement
 import Formalism.HermitianCurvature.StatementI
 import Formalism.HermitianCurvature.StatementL
 import Formalism.HermitianCurvature.StatementW
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.NumberTheory.NumberField.CMField
+import Mathlib.NumberTheory.NumberField.Discriminant.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.FourierDecayAlt.S6
 

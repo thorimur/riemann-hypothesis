@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJATCModConstCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJASSnRepDatumUnit
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAPRhoFrameLoc
 

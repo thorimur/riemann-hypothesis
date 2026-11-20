@@ -1,17 +1,13 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.Inputs
 import Formalism.LocalToGlobal.Divisibility.LiftLatLemmas
 import Formalism.LocalToGlobal.IndefiniteForms.IndefUse
-import Formalism.LocalToGlobal.IndefiniteForms.IndefExample
 import Formalism.LocalToGlobal.IndefiniteForms.QuadraticExampleRankThreePackage
-import Formalism.QuotientMetricDivisors.ReductionLemmaZero
 import Formalism.QuotientMetricDivisors.FinalW
 import Formalism.QuotientMetricDivisors.SixthReductionExplicit
 import Formalism.MirabolicMackeyTheory.MirabolicIsMackey
 import Formalism.DivisorInequality.BaseLevelBoundsWithCovolume
 import Formalism.DivisorInequality.DivisorInequalityProofs.EvenDegreeWeightBounds
 import Formalism.BranchSandwichDivisors.ChainDenominatorCoupled
-import Formalism.LocalToGlobal.Columns.FiniteSumNonzeroLargeDepth
 import Formalism.LocalToGlobal.Columns.ToHLat
 import Formalism.ThetaSupremumBounds.GaussianShiftBounds.PerEmbeddingCoupledBound
 import Formalism.LocalToGlobal.KernelLattices.ThDistC

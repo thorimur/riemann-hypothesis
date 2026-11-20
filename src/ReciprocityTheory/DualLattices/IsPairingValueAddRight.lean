@@ -1,5 +1,4 @@
 import ReciprocityTheory.DualLattices.SeriesState
-import ReciprocityTheory.DualLattices.InstAddCommMonoidFibreFst
 import ReciprocityTheory.DualLattices.NsmulFstAddSnd
 
 noncomputable section

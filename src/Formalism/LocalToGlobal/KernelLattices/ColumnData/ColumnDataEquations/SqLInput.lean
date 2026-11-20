@@ -1,6 +1,4 @@
-import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.SqFinal
-import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.MemSmulLat
-import Formalism.LocalToGlobal.KernelLattices.ColumnData.BaseLinkOfNonzeroDelta
+import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.Reduction
 
 noncomputable section
 open NumberField Formalism.BasicNotions Classical Matrix

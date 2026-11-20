@@ -1,10 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Jets.SideFam
-import Development.AbelianVarietyTheory.Definitions.Jets.SumIoPr
 import Formalism.RealPlaceAnalysis.QuotientSettingHolds
 import Formalism.RealPlaceAnalysis.FinalF
 import Formalism.PeriodIntegrals.UpqRep
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffSetIntegralNat
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
 
 open Matrix MeasureTheory Finset
 open scoped InnerProductSpace ContDiff Topology

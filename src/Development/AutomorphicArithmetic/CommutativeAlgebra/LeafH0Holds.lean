@@ -1,6 +1,7 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.H0TwistOverClosedField
 import Development.AutomorphicArithmetic.CommutativeAlgebra.TwistedSectionEqNsmulGeneratorOfConnected
+import Mathlib.AlgebraicTopology.FundamentalGroupoid.SimplyConnected
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.E4
 

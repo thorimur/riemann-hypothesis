@@ -1,4 +1,8 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeGroups.BoxDefs
+import Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeGroups.IsLocPres
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
 open Matrix IsLocalRing UpperTheory.V.U3 UpperTheory.V.Alg
 
 namespace UpperTheory.V.U3.FixDim

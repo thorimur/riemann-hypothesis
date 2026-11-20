@@ -1,9 +1,5 @@
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.LatRepB_A
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.SumFourEqTrace
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.WeilPairData.ImportsMore
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.MemRangeOfOneTmulMem
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.FiniteAdeleStrongApproximationModNat
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPrimeNotDvdRelIndexSplitPlace
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntAFSmulMemLatOF
 
 noncomputable section
 

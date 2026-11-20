@@ -1,9 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.IsSelfOf
-import Development.AbelianVarietyTheory.Definitions.Jets.TwoPlaces
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.GaugeBiadditiveSymmAdjointIntegralEnd
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.PderivCoeffOptionEquivLeft
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ExistsNotMemForallMem
+import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.AddCurveStableOfIntegralGaugedFormalGroupLaw
+import Mathlib.NumberTheory.Wilson
 
 set_option autoImplicit false
 

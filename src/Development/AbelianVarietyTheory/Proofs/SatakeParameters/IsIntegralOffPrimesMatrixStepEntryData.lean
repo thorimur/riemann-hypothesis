@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.PeriodLatticeFinitelyGenerated
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.NatCastMemOfPrimeDvdAbsNorm
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralAwayFromMovedLocalDatumStatement
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.UnipotentLevelNilpotent
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntOfHomAt

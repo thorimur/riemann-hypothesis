@@ -1,8 +1,7 @@
-import Formalism.HermitianCurvature.StatementSz
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CorollaryAOfPropositionA
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.VandermondeRatioHarmonic
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaBoundOnBoundary
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CmRingIdempotentUnitRatioIdentity
+import Mathlib.Data.Int.Star
 
 namespace Formalism.FourierDecayAlt.P.Sz9
 

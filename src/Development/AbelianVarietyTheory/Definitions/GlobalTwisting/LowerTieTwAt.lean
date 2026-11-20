@@ -1,8 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.FixedVectorEqOfStandardData
-import Formalism.SharpRestriction.Divisibility.StatementFT.PeriodPointConditions
-import Formalism.SharpRestriction.GlobalSchurBounds.ProductFirstZerothParts
 import Formalism.LocalToGlobal.KernelLattices.InterlaceAll
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LatAtLattice
+import Formalism.LocalToGlobal.HermitianForms.TiedTwSymAll
 
 noncomputable section
 

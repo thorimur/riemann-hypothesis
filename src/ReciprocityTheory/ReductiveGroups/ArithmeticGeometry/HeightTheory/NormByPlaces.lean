@@ -1,6 +1,8 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.HtDefs
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.KTFiniteDimensional
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.HNormB
+import Mathlib.Algebra.AffineMonoid.UniqueSums
+import Mathlib.RingTheory.LocalProperties.Reduced
 
 namespace ReciprocityTheory.ChartRestriction.G.T0
 

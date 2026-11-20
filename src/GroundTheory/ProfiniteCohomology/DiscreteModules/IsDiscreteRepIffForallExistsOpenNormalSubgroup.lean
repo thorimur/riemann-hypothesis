@@ -1,5 +1,11 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.DiscreteModules
+import Mathlib.CategoryTheory.Abelian.Subcategory
+import Mathlib.CategoryTheory.Limits.Shapes.Countable
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.RepresentationTheory.Invariants
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Algebra.ClopenNhdofOne
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

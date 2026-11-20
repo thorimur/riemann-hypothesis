@@ -1,8 +1,8 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.FriedrichsKernels.Friedrichs
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RightWordL2LaplacianBound
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IteratedDerivTwoSmul
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryMemGLs
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousOnFderivApply
 
 noncomputable section
 

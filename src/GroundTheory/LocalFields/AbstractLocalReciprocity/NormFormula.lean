@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.AbstractLocalReciprocity.UniqueQuotientSubgroupOfSelf
 
 namespace GroundTheory.LocalField.Abstract

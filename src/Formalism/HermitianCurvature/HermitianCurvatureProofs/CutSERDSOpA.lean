@@ -1,7 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSERDIdentSpec
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapAAll
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatPolyOK
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDCCLower
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapA
 
 open MeasureTheory
 open scoped Matrix

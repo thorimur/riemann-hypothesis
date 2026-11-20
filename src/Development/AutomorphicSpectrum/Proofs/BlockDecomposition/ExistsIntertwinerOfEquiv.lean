@@ -1,8 +1,4 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MirabolicDerivatives.TwistedKernels.ExPhiPlusOnto
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MirabolicFourierExpansion
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsGlLastRowEq
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MirabolicBetaSurjective
 
 noncomputable section
 

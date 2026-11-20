@@ -1,10 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocOpInfMul
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilActionMapsSchwartz
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBLocalEigenTripleStatement
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryFixingVectorPreserves
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.TmulSumEqZeroOfPureTensorFunctionZero
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilActionUnitaryCompact
 
 noncomputable section
 

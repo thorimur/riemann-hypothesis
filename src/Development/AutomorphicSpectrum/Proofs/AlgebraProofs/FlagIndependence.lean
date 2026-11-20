@@ -1,7 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBundles
 import Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.XSFlagindep
-import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.VerticalDivisorsCommute
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.PairNumberPullbackStatement
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsHeckeCorrespondenceOnIntegralShimuraModelStatement
 

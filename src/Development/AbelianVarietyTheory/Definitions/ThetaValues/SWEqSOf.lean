@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.IntAtExtExtAll
 import Formalism.SharpRestriction.Divisibility.AbelianOpenPart.OEOsInjective
 

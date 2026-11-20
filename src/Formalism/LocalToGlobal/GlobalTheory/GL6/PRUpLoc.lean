@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.GlobalTheory.GL6.RndLinkAdmTOf
+import Formalism.LocalToGlobal.GlobalTheory.GL6.AdmissibleOfSplitAndRoundTrips
 
 noncomputable section
 

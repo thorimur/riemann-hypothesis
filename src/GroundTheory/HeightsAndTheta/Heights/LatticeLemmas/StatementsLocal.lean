@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.StatementsBundles
+import GroundTheory.HeightsAndTheta.Heights.ArithDegreeIdeal
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

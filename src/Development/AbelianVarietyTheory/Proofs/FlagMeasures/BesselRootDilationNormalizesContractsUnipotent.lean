@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.MatrixOfBesselTwoSidedAction
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.UnipotentUpperFacts
 

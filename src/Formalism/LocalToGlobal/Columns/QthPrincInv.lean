@@ -1,4 +1,6 @@
-import Formalism.LocalToGlobal.Columns.QthCloseScl
+import Formalism.LocalToGlobal.Columns.ChainTwZero
+import Formalism.LocalToGlobal.Columns.QthExistsBound
+import Formalism.LocalToGlobal.Columns.TwQThetaOpen
 
 open NumberField IsDedekindDomain
 

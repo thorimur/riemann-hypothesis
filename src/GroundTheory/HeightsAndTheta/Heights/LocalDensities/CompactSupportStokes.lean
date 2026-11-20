@@ -1,5 +1,6 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PotentialTheory.Stokes
+import Mathlib.Geometry.Manifold.PartitionOfUnity
+import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.HessCRestrictThm
+import ReciprocityTheory.AnalyticForms.PotentialTheory.StokesC
 set_option maxSynthPendingDepth 1
 
 noncomputable section

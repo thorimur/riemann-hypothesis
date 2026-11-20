@@ -1,7 +1,10 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ZeroMemSolSet
-import Formalism.UnipotentAdelicQuotients.EllRegCheck
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DwSmoothLocalLinear
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.LocallyConvex.Barrelled
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open ZetaZeros.D.EllReg GlobalTheory.HCA MeasureTheory Filter Topology
 open scoped ContDiff BoundedContinuousFunction

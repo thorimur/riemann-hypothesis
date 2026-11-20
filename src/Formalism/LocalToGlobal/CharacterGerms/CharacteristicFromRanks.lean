@@ -1,5 +1,9 @@
 import Formalism.LocalToGlobal.CharacterGerms.Interface
 import Formalism.LocalToGlobal.CharacterGerms.ExistsStrictMonoMinor
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

@@ -1,5 +1,7 @@
-import Mathlib
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.ExistsIntEKMulVbar
+import Mathlib.FieldTheory.Galois.Profinite
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Connected.Separation
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField
 

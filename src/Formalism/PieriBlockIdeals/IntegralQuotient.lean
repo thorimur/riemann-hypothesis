@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PieriBlockIdeals.StatementLD
+import Mathlib.Order.CompletePartialOrder
 
 open Polynomial
 

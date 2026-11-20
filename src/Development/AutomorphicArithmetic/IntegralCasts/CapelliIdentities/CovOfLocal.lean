@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.SEqOne
+import Mathlib.AlgebraicGeometry.QuasiAffine
 
 theorem UpperTheory.Reformulated.B.Qm13.cov_of_local :
     ∀ {O : Type} [inst : CommRing O] {X : AlgebraicGeometry.Scheme} (Q : X.Opens → Prop)

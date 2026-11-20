@@ -1,9 +1,8 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.RealDescent.RealLeviDescent.ThetaSelfH
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SecondLeviFamily
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EpowRightEqPow
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CapPNeg
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.CapelliOfGelfand
+import Development.AbelianVarietyTheory.Proofs.JetHarmonics.GlRelNegTAndQdet
 
 namespace GlobalTheory.CompanionTheory.CapClsA
 

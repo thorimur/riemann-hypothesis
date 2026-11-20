@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.StatementE
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Finset
 

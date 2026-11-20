@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.FrameEstimates.SquareIntegrableWeilRange
 
 noncomputable section

@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.IdxCalc
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IndexCalculation.SmulMemSpanSmul
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 

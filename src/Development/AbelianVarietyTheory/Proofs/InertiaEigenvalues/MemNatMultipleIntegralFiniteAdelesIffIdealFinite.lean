@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ZintZero
 import GroundTheory.GlobalFields.TateThesis.AdeleIdealMeasure
 import GroundTheory.GlobalFields.IdeleGroups.ClassGroup

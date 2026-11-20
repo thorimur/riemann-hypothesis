@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CardRootsClosedBallBoundsUltrametric
-import Mathlib
 open Polynomial
 open Classical
 set_option maxHeartbeats 1000000 in

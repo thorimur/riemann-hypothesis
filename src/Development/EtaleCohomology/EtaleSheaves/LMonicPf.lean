@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.HensIdemCut
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.IntegralClosure.Algebra.Ideal
 
 noncomputable section
 open Polynomial

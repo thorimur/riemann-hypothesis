@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.LeadingMinorEmbeddingBound
+import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.LeadMinorEZhatOMNorm
 
 noncomputable section
 

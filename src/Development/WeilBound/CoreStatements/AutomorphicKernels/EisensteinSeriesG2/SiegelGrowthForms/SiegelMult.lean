@@ -1,4 +1,4 @@
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.EisensteinGrowthForms.GrowForms
+import Development.WeilBound.ThetaLifts.LatticeBasics.HypothesesE
 
 noncomputable section
 

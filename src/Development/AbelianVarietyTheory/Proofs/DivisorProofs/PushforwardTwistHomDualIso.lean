@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GenericFiniteMaps
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteCohOfForallModification
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDualPullback
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistHomModuleIsoStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PushforwardHomAdjunctionIsoStatement
 open CategoryTheory AlgebraicGeometry TopologicalSpace Opposite Limits Filter

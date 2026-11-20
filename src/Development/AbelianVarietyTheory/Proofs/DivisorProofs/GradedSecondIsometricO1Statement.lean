@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GradedSecondIsometricO1
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TautologicalInnerProductLift
-import Development.AbelianVarietyTheory.Definitions.Divisors.MemSmallSecTrivShift
 open CategoryTheory AlgebraicGeometry TopologicalSpace Matrix
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open GlobalTheory GlobalTheory.CxPts GlobalTheory.VB GlobalTheory.HermFrame

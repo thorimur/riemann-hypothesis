@@ -1,10 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.JetAnalytic
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.GrothendieckDeformation
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.CrysToDRBijective
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.JetMorphismIsBaseChangeStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LieFiltrationSpannedCorrespondenceStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LieImageCorrespondenceStatement
+import Mathlib.LinearAlgebra.PiTensorProduct.Generators
 
 set_option autoImplicit false
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.WAFracFinal
 import GroundTheory.PAdicHodge.ExistsFactorAnn
 set_option maxSynthPendingDepth 1

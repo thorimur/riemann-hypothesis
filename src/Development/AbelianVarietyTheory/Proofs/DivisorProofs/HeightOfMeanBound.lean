@@ -1,15 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.HypothesesX
 import Development.AbelianVarietyTheory.Definitions.Divisors.BudgetAt
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
-import Development.AbelianVarietyTheory.Definitions.Divisors.EightDvdNCol
-import Development.AbelianVarietyTheory.Definitions.Divisors.QuoIff
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeightAbsEntrySumNonneg
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumAbsExOfLe
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ImageHeightAddLogNonneg
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CuspFormGoodBirationalBoundStatement
-import Formalism.LocalRingCardinality.HeightBoundGeFourthPowerRank
-import Formalism.FrobeniusOrbits.RealSubfieldLeCompositum
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 400000

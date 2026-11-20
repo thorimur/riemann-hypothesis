@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.LetterProductDoubleDegreeCount
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Formalism.FourierDecayAlt
 open scoped ComplexConjugate

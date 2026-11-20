@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.PtfsNineAdd
 
 namespace PositivityTheory.Lit1.PTN

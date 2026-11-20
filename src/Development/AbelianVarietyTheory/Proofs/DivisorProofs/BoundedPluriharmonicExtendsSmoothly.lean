@@ -1,10 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.FirstChernLeviEqConstant
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PotentialChartContDiffAtTwo
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FormBoundedByPositivePotential
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PluriharmonicLogSingularExtendStatement
-import ReciprocityTheory.AnalyticForms.PotentialTheory.LocDens
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
 
 open Filter Topology Set Metric MeasureTheory ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M GlobalTheory.Mean4O
 open scoped ContDiff

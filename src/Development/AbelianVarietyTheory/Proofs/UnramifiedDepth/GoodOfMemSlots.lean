@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.LatticeInclusionFormsInjective
 
 noncomputable section

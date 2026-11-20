@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ModelDdcForms
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PotentialSmoothInChart
 import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
+import Mathlib.Analysis.SpecialFunctions.Complex.Analytic
 open ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M GlobalTheory.IndefiniteRowSideFullHecke.ModelDdcForms MeasureTheory
 open scoped ContDiff
 

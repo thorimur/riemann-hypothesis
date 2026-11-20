@@ -1,8 +1,3 @@
-import Mathlib
-import Formalism.CyclotomicNorms.StatementT
-import Formalism.LocalToGlobal.Divisibility.DefGroup
-import Formalism.LocalToGlobal.Divisibility.GoodPartHermitianSpec
-import Development.AbelianVarietyTheory.Definitions.Divisors.SplitDoublingNBlock
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.CuspValueComparison
 
 noncomputable section

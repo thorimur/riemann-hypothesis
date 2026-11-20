@@ -1,5 +1,5 @@
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.MellinTransforms.Core1DOf
 import GroundTheory.GlobalFields.IdeleGroups.Rational
+import GroundTheory.GlobalFields.TateThesis.IdeleMeasureQuotient
 
 noncomputable section
 

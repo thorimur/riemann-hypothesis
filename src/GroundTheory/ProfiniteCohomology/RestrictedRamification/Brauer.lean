@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.BrauerSplit
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.BrauerLocalVal
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.BrauerDivisor

@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.GaussianComplex
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace GroundTheory.Global
 

@@ -2,7 +2,6 @@ import ReciprocityTheory.AnalyticForms.RegularLocalRings.ExistsSncDataW
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.WeightedSieveThreeParameter
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.NormEvalLeOfVarsSubset
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.WCharts
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.NeZeroOfSpanEqMaximalIdeal
 
 namespace ReciprocityTheory.AnForm.R
 

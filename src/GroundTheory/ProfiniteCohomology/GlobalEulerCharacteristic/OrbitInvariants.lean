@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.GlobalFields.HerbrandQuotients.SUnitsPerm
 import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.CoprimeTwist
 import GroundTheory.ProfiniteCohomology.PoincareDuality.NsmulEqZeroOfNonemptyAddEquiv
+import Mathlib.RingTheory.PicardGroup
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.InterPolyProdSum
+import Development.AbelianVarietyTheory.Definitions.Divisors.ExtFormAdjEqNegSecondForm
+import ReciprocityTheory.L2DbarEstimates.IsLocalHomeomorph
 open scoped Matrix
 
 namespace GlobalTheory.HermFrame

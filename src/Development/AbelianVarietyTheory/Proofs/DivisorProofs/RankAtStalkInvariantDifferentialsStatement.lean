@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RankAtStalkInvariantDifferentials
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteProjectiveCotangentGlobalSectionsGroupSche
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteProjectiveOfLocalBasis
 set_option autoImplicit false
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry

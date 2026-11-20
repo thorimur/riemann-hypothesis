@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ScaledExample
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualEnergy
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLineSemipositive
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualArithVar

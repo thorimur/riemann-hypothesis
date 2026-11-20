@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.Columns.RecChainUnfOne
-import Formalism.LocalToGlobal.Columns.DGamAut
 
 open NumberField IsDedekindDomain Module Matrix MvPolynomial
 open scoped TensorProduct

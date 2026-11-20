@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeCountingBound.BoxBoundAlt
+import Mathlib.Topology.Separation.CompletelyRegular
 
 noncomputable section
 

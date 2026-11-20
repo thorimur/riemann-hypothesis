@@ -1,9 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.ConcretePkgSpec
-import Formalism.LocalToGlobal.IndefiniteForms.IndefUse
-import Formalism.HarderNarasimhan.ShiftInvariance
-import Formalism.QuotientMetricDivisors.PassageScaleFree
-import Formalism.QuotientMetricDivisors.FinalW
+import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
 
 open Module NumberField IsDedekindDomain
 open Formalism.DivisionValues Formalism.L2.Indef

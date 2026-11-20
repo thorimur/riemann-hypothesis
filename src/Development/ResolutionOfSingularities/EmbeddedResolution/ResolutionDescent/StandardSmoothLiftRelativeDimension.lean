@@ -1,5 +1,5 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.StandardSmoothLift
+import Mathlib.RingTheory.Smooth.StandardSmooth
 
 universe u
 

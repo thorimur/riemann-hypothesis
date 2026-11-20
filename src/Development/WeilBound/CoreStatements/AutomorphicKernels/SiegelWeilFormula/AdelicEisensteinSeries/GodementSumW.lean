@@ -1,4 +1,3 @@
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactStandardMaximal
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeightContinuousPos
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EisensteinSeriesConvergent
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EisensteinHeckeFunctional

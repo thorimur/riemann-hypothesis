@@ -1,4 +1,6 @@
 import ReciprocityTheory.DualLattices.CotangentSurjective
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.RowTieFB
+import Mathlib.Algebra.Order.Ring.Star
 
 noncomputable section
 

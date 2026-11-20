@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.ClosedOrbitPieces.TrOrbA
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.ManyEdges
-import Formalism.SharpRestriction.GrowthBounds.LatticeSystems
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

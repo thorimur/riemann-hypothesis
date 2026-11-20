@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.MemConePtsIffChartIdeal
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.LocTransfer
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.IsIntersectionFamily
 

@@ -1,5 +1,7 @@
-import Formalism.AdmissibleDesigns.RowDROfWpIso
 import Formalism.AdmissibleDesigns.RhoContOf
+import Formalism.AdmissibleDesigns.GlobalIndexTheoremPlacesOfRNAdm
+import Formalism.AdmissibleDesigns.LenComapSurj
+import Formalism.AdmissibleDesigns.PiEquiv2
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core] [hH0Fin : Fact Formalism.MainNotions.N.K.H0.FinCore]
 

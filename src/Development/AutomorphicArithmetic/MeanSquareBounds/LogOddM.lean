@@ -1,4 +1,5 @@
-import Development.AutomorphicArithmetic.MeanSquareBounds.PrimeSetTwoBounds
+import Formalism.GL3MeanSquares.SecondEstimateOfIntervalHypothesis
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Finset Formalism.HermitianLattices.ZeroFreeRegionGL2 Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds
 

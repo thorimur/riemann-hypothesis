@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.EulerFactorsInfinite
 import GroundTheory.GlobalFields.TateThesis.EulerFactorsInverse
 import GroundTheory.GlobalFields.TateThesis.GaussianComplexFourier

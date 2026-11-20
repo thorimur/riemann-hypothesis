@@ -1,7 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EventuallyIteratedFDerivEqZeroOfRealSubspace
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.FderivIntegralApplyOfHolomorphicOfDominated
 import Development.AbelianVarietyTheory.Proofs.ToricGeometry.ShiftSingleInt
+import Mathlib.AlgebraicTopology.FundamentalGroupoid.SimplyConnected
+import Mathlib.Analysis.Convex.Contractible
+import Mathlib.Analysis.Fourier.AddCircleMulti
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open Complex Matrix Filter Topology MeasureTheory
 open scoped BigOperators Real

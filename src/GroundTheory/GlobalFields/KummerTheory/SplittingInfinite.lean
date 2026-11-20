@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.SemilocalAlgebras.Infinite
 import GroundTheory.GlobalFields.KummerTheory.Splitting
 

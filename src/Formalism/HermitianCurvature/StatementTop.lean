@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianCurvature.StatementJCT
 
 namespace Formalism.FourierDecayAlt.Top

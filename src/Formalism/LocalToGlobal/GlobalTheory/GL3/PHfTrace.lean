@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.GlobalTheory.GL3.PHfGen
 
 noncomputable section

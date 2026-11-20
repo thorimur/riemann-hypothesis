@@ -1,5 +1,3 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.DatumEquiv
-import Development.AbelianVarietyTheory.Definitions.Divisors.VdmSplit
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VandermondeSplitsCompactNoncompact
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdjointDetOnCompactTorus
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NumShiftHolds

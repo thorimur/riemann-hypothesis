@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.LocJacTyp
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalJacobianType.Development
 
 noncomputable section

@@ -2,9 +2,6 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.JfSmoothBuiltOfRest
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.NilpotentDerivative
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SmoothOfCoefficientsHolds
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GroupEquationsPostHolds
-import Formalism.PeriodIntegrals.EllipticRegularity2
-import Formalism.UnipotentAdelicQuotients.EllipticRegularity.Moments
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAPRSSnRep
 
 namespace Formalism.FourierDecayAlt.P.CutMP.SmoothTransferRegularity
 

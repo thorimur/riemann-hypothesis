@@ -1,7 +1,7 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.SpanLeRange
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ModelQPfD
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.GeneratorBoundOfHypotheses
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DvdCondition
+import Mathlib.RingTheory.TensorProduct.IsBaseChangeFree
 
 noncomputable section
 

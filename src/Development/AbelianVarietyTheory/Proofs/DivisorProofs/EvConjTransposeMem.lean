@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.DatumEquiv
+import Mathlib.Topology.Algebra.MvPolynomial
 
 noncomputable section
 

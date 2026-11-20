@@ -1,7 +1,3 @@
-import Mathlib
-import Formalism.WeaklyAdmissibleFiltrations.Statement
-import Formalism.SharpRestriction.LevelLetterCocycles.RelayGeneralCaseOfAdmissible
-import Formalism.SharpRestriction.LevelLetterCocycles.CrystallineMapLemmas
 import Formalism.SharpRestriction.LevelLetterCocycles.LatticeMembershipPolynomialGamma
 import Formalism.SharpRestriction.LevelLetterCocycles.ArcCoordinatesOfMembership
 import Formalism.SharpRestriction.LevelLetterCocycles.IsobaricMultiplicityOne

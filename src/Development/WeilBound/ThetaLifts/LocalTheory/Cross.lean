@@ -1,4 +1,6 @@
 import Development.WeilBound.ThetaLifts.LocalTheory.ISmulEqZero
+import Development.WeilBound.ThetaLifts.CartanFactorisation.ExistsPureML
+import Development.WeilBound.ThetaLifts.LocalTheory.UatClosure
 
 noncomputable section
 

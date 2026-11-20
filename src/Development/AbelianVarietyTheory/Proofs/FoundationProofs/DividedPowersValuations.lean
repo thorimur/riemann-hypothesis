@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.PairingDivisors.StatementN
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace GlobalTheory
 

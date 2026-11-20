@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.LocallyProfinite
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

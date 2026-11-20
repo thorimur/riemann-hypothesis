@@ -1,9 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.PieceEqPieceT
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.EePosFalseDvd
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.SmoothedEisensteinFxSumRowLiftsDistributionStatement
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumGl2FirstColumnUnitSetSuccFibreStatement
-import Development.AbelianVarietyTheory.Definitions.Foundations.Integral
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 open Finset

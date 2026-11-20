@@ -1,7 +1,8 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.LeviForms.UnifInt
 import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PHyperplaneDivisible
+import Mathlib.RingTheory.SimpleRing.Principal
+import ReciprocityTheory.AnalyticForms.PotentialTheory.SNCAtlas
 
 open MeasureTheory Metric Filter Topology ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M ReciprocityTheory.AnForm.P ReciprocityTheory.AnForm.M.FinHolAtlas
 open scoped ContDiff

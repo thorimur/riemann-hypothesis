@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.DefiniteClassNumber.AdelicLattice
-import GroundTheory.AutomorphicForms.DefiniteClassNumber.GramReduction
 
 noncomputable section
 

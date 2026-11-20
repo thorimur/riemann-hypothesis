@@ -1,4 +1,4 @@
-import ReciprocityTheory.DualLattices.ExistsUnitMinor
+import ReciprocityTheory.DualLattices.ColengthSqBlockVandermonde
 
 noncomputable section
 

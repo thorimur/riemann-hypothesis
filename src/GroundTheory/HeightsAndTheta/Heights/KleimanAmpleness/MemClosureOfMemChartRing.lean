@@ -1,14 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.IsGraphGenTwistBundleZero
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsExtraTer
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsTerAlt
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsRestAlt
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsExtraTail
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsLastRest
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsMoreTer
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ObjectsAlt
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsLastTer
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsLastSide
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.EqZeroOrIsHomogeneousOfMemPolyPiece
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.IsFieldSubalgebraSelf
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman.SectionsOverLocalization

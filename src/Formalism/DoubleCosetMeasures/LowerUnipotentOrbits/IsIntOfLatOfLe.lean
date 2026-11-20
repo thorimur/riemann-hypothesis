@@ -1,4 +1,5 @@
 import Formalism.DoubleCosetMeasures.Statement
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option maxHeartbeats 400000
 

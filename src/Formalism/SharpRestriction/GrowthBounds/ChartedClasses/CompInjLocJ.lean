@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.ExistsIsCGBases
-import Formalism.SharpRestriction.GrowthBounds.ChartComparison.LocTiesOf
 
 noncomputable section
 

@@ -1,6 +1,7 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.BinomRatio
 import ReciprocityTheory.SemistableReduction.FinrankRestrictTotalDegree
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace GlobalTheory
 

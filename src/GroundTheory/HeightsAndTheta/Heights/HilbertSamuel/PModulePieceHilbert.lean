@@ -1,9 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsModulePieceHilbert
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PModulePieceHilbertChain
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PGeoNumCut
-import GroundTheory.HeightsAndTheta.Heights.HeightComparison.GeoNum
-import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.Assembly
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

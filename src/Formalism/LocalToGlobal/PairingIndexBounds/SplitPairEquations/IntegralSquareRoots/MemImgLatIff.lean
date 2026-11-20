@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.SelfDualCovolume
+import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.UnitaryConstant
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

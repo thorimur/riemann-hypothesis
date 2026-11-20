@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.HermitianCurvature.StatementU
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentComposition.Development
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentComposition.DegPderivMul
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentComposition.Expand
 

@@ -1,13 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsArchOne
-import Development.AbelianVarietyTheory.PublishedTheorems.PublishedFoundations.GreenSeriesSt
-import Formalism.LocalToGlobal.GlobalTheory.IrreducibleOfCountSizes
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRunModel
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ReadingOfRunModel
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplitsCompletelyTypePrime
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RunWeightArch
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThreeRLtGOfParams
-import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.LevelDvdBadN
 
 set_option autoImplicit false
 

@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LZIdemSumApprox
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 open LateralTheory.E.StandardEtaleChartsIdempotentGluing

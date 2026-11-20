@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.LatAnn
+import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.LatMod
 
 noncomputable section
 

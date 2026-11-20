@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IteratedFDerivProdCoordAt
+import Mathlib.Tactic.Polynomial.Basic
 
 open scoped BigOperators
 

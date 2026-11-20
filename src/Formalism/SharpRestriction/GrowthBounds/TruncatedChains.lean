@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.GrowthBounds.GLWeightTheory
 import Formalism.SharpRestriction.GrowthBounds.TruncatedChains.RaisingKillOfInterface
 import Formalism.SharpRestriction.GrowthBounds.TruncatedChains.RestPairOf
 import Formalism.SharpRestriction.GrowthBounds.TruncatedChains.ProjectorFactorMemWeightSpace

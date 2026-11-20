@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.NonemptyPullbackGeneric
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExpandsGOfGenericRel
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsGenericRel

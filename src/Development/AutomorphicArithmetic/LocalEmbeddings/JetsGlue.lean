@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.JetsChain
 
 noncomputable section

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.PairingIndexBounds.SplitPairEquations.SplitPairGen
+import Mathlib.RingTheory.Henselian
 
 noncomputable section
 open NumberField Matrix

@@ -1,7 +1,7 @@
-import Mathlib
 import Formalism.HermitianCurvature.BesselNonvanishingReduction
 import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SigmaFiniteQuotients.Exists
 import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SmoothCyclicVectors.SmoothCyc
+import Mathlib.Geometry.Manifold.PartitionOfUnity
 
 open Matrix Filter Topology Set MeasureTheory MeasureTheory.Measure
 open scoped ContDiff Manifold Convolution

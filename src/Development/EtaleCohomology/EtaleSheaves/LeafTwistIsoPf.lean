@@ -1,4 +1,3 @@
-import Development.EtaleCohomology.EtaleSheaves.LeafKillCut
 import Development.EtaleCohomology.EtaleSheaves.LeafTwInjPf
 import Development.EtaleCohomology.EtaleSheaves.LeafTwSurjPf
 import Development.EtaleCohomology.EtaleSheaves.PullMonoPf

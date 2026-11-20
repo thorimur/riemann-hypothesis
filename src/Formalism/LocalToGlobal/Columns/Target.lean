@@ -1,10 +1,5 @@
-import Formalism.LocalToGlobal.Columns.WordFin
-import Formalism.LocalToGlobal.Columns.TiedBack
 import Formalism.LocalToGlobal.Columns.ColumnDeterminants.ColsTiedD
-import Formalism.LocalToGlobal.Columns.ReferenceActionRationalLevels
-import Formalism.LocalToGlobal.Columns.RecLevel
 import Formalism.LocalToGlobal.KernelLattices.ThDistC
-import Formalism.LocalToGlobal.KernelLattices.ColInst
 import Formalism.LocalToGlobal.GlobalTheory.WindowConstantGeSixteen
 
 open NumberField IsDedekindDomain Module

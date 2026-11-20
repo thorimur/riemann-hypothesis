@@ -1,4 +1,6 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.CurveComp
+import Formalism.LocalToGlobal.ProjectiveLattices.IntAtExtExtAll
+import Formalism.LocalToGlobal.ProjectiveLattices.IsGenFrGenFr
+import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.GlobalFamilyData
 
 noncomputable section
 

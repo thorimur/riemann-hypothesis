@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.Bridge
-import Formalism.SatakeDualWeyl.KpqSubgroupCompact
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.LocSplitProdRight
 
 namespace GlobalTheory.HkB

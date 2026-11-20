@@ -1,8 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSHSFG
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.RadicalUnipotentFirstBasisEqOne
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.OpApplyZeroNear
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CoordinateSizesOfHypotheses
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.SumDualVectorEqZeta
 
 open Matrix MeasureTheory
 open scoped ComplexConjugate

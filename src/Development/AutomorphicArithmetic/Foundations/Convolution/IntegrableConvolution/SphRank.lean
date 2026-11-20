@@ -1,9 +1,5 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.TensFactor
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.EigBasic
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.LineRank
 import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.OccursBasics
-import GroundTheory.AutomorphicForms.Satake
 
 open MeasureTheory GroundTheory.Automorphic UpperTheory.ConvolutionTheory.C
 

@@ -1,9 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.LtSeries
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsPlaceEmb
 import GroundTheory.LocalFields.KroneckerWeber
-import GroundTheory.LocalFields.LubinTateLimitGalois
-import GroundTheory.LocalFields.MaximalUnramified
 
 noncomputable section
 

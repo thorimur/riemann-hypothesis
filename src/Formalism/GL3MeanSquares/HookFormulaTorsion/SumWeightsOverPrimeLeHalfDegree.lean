@@ -1,5 +1,15 @@
-import Mathlib
 import Formalism.GL3MeanSquares.RankMulPowThreeHalvesLeFourthPower
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Analysis.PSeries
+import Mathlib.Analysis.SpecialFunctions.Log.Summable
+import Mathlib.Data.Int.Star
+import Mathlib.NumberTheory.EulerProduct.Basic
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.HermitianLattices.GenusMassVolumes
 

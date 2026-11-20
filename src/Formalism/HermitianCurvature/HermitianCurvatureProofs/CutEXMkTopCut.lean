@@ -1,5 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.HermitianFormRankZeroApply
 import Formalism.DoubleCosetMeasures.Statement
+import Formalism.HermitianCurvature.StatementG
 
 noncomputable section
 

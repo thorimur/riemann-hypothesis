@@ -1,5 +1,5 @@
-import Formalism.WachLatticeTwists.CoprimeLiftBounds.CoprimeLiftProofs.SmulYGenEqZero
 import Formalism.CharacterColumnKernels.IdempotentNormalForms.LengthEqKerAddRange
+import Formalism.WachLatticeTwists.CoprimeLiftBounds.Statement
 
 open Finset
 

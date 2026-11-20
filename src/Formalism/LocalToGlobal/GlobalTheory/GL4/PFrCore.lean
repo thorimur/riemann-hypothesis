@@ -1,8 +1,5 @@
 import Formalism.LocalToGlobal.GlobalTheory.EqGlobOfHat
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Afsplit
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Bridge
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.RationalPointsLeHolds
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Levelaf
 
 noncomputable section
 

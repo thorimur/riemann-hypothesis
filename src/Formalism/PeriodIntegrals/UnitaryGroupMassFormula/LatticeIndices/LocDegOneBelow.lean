@@ -1,6 +1,5 @@
-import Mathlib
 import ReciprocityTheory.GaloisValuations.ArithOfA
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ValNatCastOf
+import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.MassDataInst
 
 noncomputable section
 

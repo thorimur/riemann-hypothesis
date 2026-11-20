@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.DifferentialOperatorBracket
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FrameCompletion
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.LieBracketMultiplication
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.WeylCellConjTransposeMulApply
 
 open Matrix Formalism.QuantumDeterminants Formalism.FourierDecayAlt.Q Formalism.FourierDecayAlt.Qr
 open Formalism.REAL (qdet GlRel IsHW)

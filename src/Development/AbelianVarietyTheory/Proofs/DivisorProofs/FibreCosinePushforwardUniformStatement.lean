@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FibreCosinePushforwardUniform
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FsOne
 open MeasureTheory
 open scoped ComplexOrder
 set_option maxHeartbeats 1000000 in

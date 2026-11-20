@@ -1,10 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConeEvFun
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbsPowApply
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviEmbeddingLocalMeasurable
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryAdelicGroupTopology
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalLatticeIsClosed
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.HaarRightInvariantCompact
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemUnipFix
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdaptedPlaneAdelicDecompositionStatement
 open scoped TensorProduct NNReal Matrix

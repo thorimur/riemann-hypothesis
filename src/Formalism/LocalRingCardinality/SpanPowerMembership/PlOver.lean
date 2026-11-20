@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
+import Mathlib.NumberTheory.RamificationInertia.Basic
 
 noncomputable section
 

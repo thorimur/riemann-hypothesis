@@ -1,4 +1,10 @@
 import Development.EtaleCohomology.DivisorCycles.CycleCount
+import Mathlib.FieldTheory.IsAlgClosed.Spectrum
+import Mathlib.LinearAlgebra.Matrix.Charpoly.Eigs
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Matrix Polynomial PositivityTheory.AutomorphicGaloisHodgeTate.Div
 namespace LateralTheory.DivDb.FinPolyPf

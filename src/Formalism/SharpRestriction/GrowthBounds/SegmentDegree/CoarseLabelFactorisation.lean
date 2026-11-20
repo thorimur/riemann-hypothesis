@@ -1,4 +1,6 @@
-import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.TopDegreeComparison
+import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.DiscriminantNeZeroOfResidueNeZero
+import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.StrictMonoIntExists
+import Mathlib.Data.Finsupp.Pointwise
 
 noncomputable section
 

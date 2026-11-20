@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsMahler
+import Mathlib.RingTheory.GradedAlgebra.Radical
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

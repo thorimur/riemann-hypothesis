@@ -1,9 +1,6 @@
 import Development.AutomorphicArithmetic.ShortNorms.typePrimesN
 import Development.AutomorphicArithmetic.ShortNorms.ExistsThreePrimesOneModLeRpow
-import Development.AutomorphicArithmetic.CoprimeRanks.SecondSetNoRelation
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.PairRowIffQdRows
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ExplicitRanksBasicBoundsLargeScale
-import Development.AutomorphicArithmetic.CharacterBoxes.ExistsPageN
 
 open Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.Inhab Formalism.HC GlobalTheory.EX UpperTheory.Top HostParam.Seam
 

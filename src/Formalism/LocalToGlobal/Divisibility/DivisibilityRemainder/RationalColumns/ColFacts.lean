@@ -1,9 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteRealisationChoice
-import Formalism.LocalToGlobal.IndefiniteReal.PrimitivePackageFullHecke
-import Formalism.LocalToGlobal.GroupLattices.JointServices.LevelOperatorFixesImage
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.SecondStepGluing
-import Formalism.LocalToGlobal.Divisibility.DivisibilityRemainder.RationalColumns.Descent
-import Formalism.LocalToGlobal.IndefiniteReal.IsometricPeriodsOfUnitHypotheses
+import Formalism.LocalToGlobal.IndefiniteReal.TrISepWith
 
 noncomputable section
 

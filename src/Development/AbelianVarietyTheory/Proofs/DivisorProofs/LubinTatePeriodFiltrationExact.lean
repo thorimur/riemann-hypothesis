@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.LtChar
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfInAMul
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsKerPowDvd
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

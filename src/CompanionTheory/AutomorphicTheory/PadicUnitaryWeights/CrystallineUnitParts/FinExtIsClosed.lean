@@ -1,5 +1,6 @@
-import Mathlib
-import CompanionTheory.AutomorphicTheory.PadicUnitaryWeights.CrystallineUnitParts.UnitPart
+import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsUniqueHcharOfFiniteOrder
+import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

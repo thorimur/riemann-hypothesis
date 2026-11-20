@@ -1,8 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LogDerivativeBound
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NegSumLogDerivNonneg
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LogDerivDirichletLFunctionLocalZeroSum
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NegReLogDerivPrincipalLFunctionLe
+import Mathlib.AlgebraicTopology.FundamentalGroupoid.SimplyConnected
+import Mathlib.NumberTheory.LSeries.Nonvanishing
 
 open Complex DirichletCharacter ArithmeticFunction MeasureTheory
 open scoped ComplexConjugate

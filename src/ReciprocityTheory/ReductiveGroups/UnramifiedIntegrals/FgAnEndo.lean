@@ -1,5 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnTrans
+import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.CurveEndoAll
+import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnWp
 
 noncomputable section
 

@@ -1,5 +1,7 @@
 import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.IdealValuations.LocDefY
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ExistsRootCongruence
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open KStar.TotallyRealRoots
 

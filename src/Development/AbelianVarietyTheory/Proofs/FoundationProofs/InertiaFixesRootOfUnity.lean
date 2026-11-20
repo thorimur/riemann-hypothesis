@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.FinalTheorems
 
 namespace GlobalTheory.InertiaRootOfUnity

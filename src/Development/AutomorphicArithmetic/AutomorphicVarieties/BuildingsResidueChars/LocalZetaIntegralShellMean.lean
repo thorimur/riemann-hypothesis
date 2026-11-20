@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.GammaLaurentFactors.LaurentBlockInduction.LdDefs
-import GroundTheory.AutomorphicForms.GL2.GJFEBlockPoint
+import Development.AbelianVarietyTheory.Definitions.Divisors.LineOppositeParabolicUnitaryLeviSectionEq
+import GroundTheory.AutomorphicForms.WhittakerGroups
 
 noncomputable section
 

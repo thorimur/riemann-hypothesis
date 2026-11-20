@@ -1,6 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.HidaSetting
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.CartanKType
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Unique
 
 noncomputable section
 

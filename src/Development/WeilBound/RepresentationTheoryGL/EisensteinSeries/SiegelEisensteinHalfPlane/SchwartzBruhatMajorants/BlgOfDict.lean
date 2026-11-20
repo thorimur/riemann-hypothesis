@@ -1,9 +1,5 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.EisensteinSeries.SiegelEisensteinHalfPlane.SiegelOneDescent.Descend2
-import GroundTheory.IdeleRoots.TorusPowers.HeckeIdem
-import GroundTheory.GlobalFields.TateThesis.Nonvanishing
 import CompanionTheory.AutomorphicTheory.UnitriangularMeasure.AdeleCoordinateMeasure.EllipticTorusNorm
-import Development.AbelianVarietyTheory.Definitions.Foundations.T2SpaceTensorProductFiniteExtension
 
 open PositivityTheory.RgEis PositivityTheory.RgEis.So
 open NumberField

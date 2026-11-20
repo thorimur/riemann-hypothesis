@@ -1,6 +1,5 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.AdelicGaussians.UpperRightUnipotentInvariance
 import GroundTheory.AutomorphicForms.CompactAbelianCharacters
+import GroundTheory.AutomorphicForms.FourierWhittaker.Series
 
 noncomputable section
 

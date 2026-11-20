@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.CoefModB
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 open MvPolynomial NumberField
 open Formalism.BasicNotions Formalism.L2.DIV

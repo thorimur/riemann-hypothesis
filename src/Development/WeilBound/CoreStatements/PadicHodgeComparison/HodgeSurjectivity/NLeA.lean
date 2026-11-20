@@ -1,5 +1,6 @@
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.HodgeSurjectivity.FormLaws
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.HodgeSurjectivity.CosieveRes
+import Mathlib.RingTheory.RingHom.Etale
 
 set_option autoImplicit false
 

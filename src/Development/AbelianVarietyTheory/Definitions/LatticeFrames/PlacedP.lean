@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.Framed
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.Placed
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StChartDehomIdeal
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PSegreChartZeroSet
 set_option maxSynthPendingDepth 1

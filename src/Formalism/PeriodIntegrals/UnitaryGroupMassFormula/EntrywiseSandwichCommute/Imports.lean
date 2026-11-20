@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.RTTIndependence
 import Formalism.YangianSpanCharacter.YangianRTTProofs.RttRelation
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FirstEmbeddingOne

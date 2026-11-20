@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSymp
 
 open scoped TensorProduct NNReal Matrix

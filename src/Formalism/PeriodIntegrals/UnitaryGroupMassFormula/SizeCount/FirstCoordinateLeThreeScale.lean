@@ -1,5 +1,4 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeCount.Development
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeCount.BlockRowLe
 
 noncomputable section
 

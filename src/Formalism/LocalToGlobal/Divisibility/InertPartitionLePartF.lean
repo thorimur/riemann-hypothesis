@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.InertRationalAdjoint
 import Formalism.LocalToGlobal.Divisibility.RowLatLemmas
 

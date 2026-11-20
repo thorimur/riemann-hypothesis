@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.L2DbarEstimates.IsLocalHomeomorph
+import Mathlib.Topology.Covering.Basic
 
 namespace ReciprocityTheory.L2DbarEstimates.Norm
 

@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.SameNormBasic
+import Mathlib.RingTheory.Smooth.IntegralClosure
+import Mathlib.Tactic.Polynomial.Basic
 
 open CategoryTheory AlgebraicGeometry TensorProduct
 open UpperTheory.Gal.crystallineComparison

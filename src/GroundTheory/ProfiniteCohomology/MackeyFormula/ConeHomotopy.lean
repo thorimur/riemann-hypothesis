@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CompactSupportCohomology.ConeMap
 set_option maxSynthPendingDepth 1
 

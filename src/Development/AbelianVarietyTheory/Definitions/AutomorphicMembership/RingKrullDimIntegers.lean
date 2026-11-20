@@ -1,8 +1,8 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataDIV
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.FinrankRiemannRochNsmulHyperplane
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.MemEqnSetOmegaCoeff
 import Development.AbelianVarietyTheory.Definitions.Divisors.NefFibOfIsNef
+import Mathlib.Tactic.PNatToNat
 
 set_option autoImplicit false
 

@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCCurvCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCCurvPoly
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCCurvScal
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCCurvRTT

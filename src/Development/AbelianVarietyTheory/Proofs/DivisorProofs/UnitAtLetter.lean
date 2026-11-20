@@ -1,11 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsWeilChar
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatMatTransposeMulGram
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthLetters
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModelPresentingDivisor
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ScaleZeroComp
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsNormalModelOverProjective
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VectorBundleResult
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsNonarchimedeanW
 
 set_option autoImplicit false
 

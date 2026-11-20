@@ -1,6 +1,6 @@
-import Mathlib
 import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.ExistsUniqueComplexification
-import Formalism.PeriodIntegrals.IsLowUnitH
+import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.ContDiffOnExpPartialHomeomorphSymm
+import Formalism.PeriodIntegrals.UpqRep
 
 namespace CompanionTheory.D.Upq
 

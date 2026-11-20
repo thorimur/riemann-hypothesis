@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FockTranslateSchwartzMajorant
+import Mathlib.MeasureTheory.Measure.CharacteristicFunction.Basic
 
 noncomputable section
 open MeasureTheory Filter Topology

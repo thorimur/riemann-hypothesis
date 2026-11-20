@@ -1,4 +1,7 @@
-import Formalism.SharpRestriction.GrowthBounds.ColumnSystems
+import Formalism.SharpRestriction.GrowthBounds.ObjSeg
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

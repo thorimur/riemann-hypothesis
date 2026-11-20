@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LeadMinor
 import Development.WeilBound.CoreStatements.HodgeTatePoints.GcChart
 
 open Module NumberField GlobalTheory.CompanionTheory.Ar.HT TensorProduct

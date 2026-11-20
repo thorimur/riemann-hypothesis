@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.ArcCoordinatesOfMembership
 import Formalism.SharpRestriction.LevelLetterCocycles.LemmasUnramifiedOfRingCondition
+import Formalism.SharpRestriction.LevelLetterCocycles.ArcCoordinatesOfFrame
 
 noncomputable section
 

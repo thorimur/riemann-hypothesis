@@ -1,4 +1,6 @@
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.HerbrandA
+import Mathlib.RepresentationTheory.Invariants
+import Mathlib.Tactic.ENatToNat
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand
 

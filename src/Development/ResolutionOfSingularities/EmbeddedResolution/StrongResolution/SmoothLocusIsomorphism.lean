@@ -1,7 +1,5 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.StrongResolution.LocalResolutionData
-import Development.ResolutionOfSingularities.Foundations.BlowupUniversalProperty
-import Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionOfSingularities
+import Mathlib.Order.CompletePartialOrder
 universe u
 
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry

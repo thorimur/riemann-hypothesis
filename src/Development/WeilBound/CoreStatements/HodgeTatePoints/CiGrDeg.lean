@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.CurveSemiAbelianConjecture
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.SeparableFormGroupElementFixesUniquePositiveLine
-import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.Proportional
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.GrIsGenAt
 import Development.WeilBound.CoreStatements.HodgeTatePoints.CiEigVal
 import Development.WeilBound.CoreStatements.HodgeTatePoints.CiGrAlg

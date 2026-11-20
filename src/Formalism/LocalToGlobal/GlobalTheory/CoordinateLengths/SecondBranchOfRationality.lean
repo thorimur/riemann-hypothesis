@@ -1,5 +1,7 @@
 import Formalism.LocalToGlobal.GlobalTheory.CoordinateLengths.MixedChange
 import Formalism.LocalToGlobal.GlobalTheory.CoordinateLengths.DuCount
+import Formalism.LocalToGlobal.GlobalTheory.CoordinateLengths.IntSpanLeRat
+import Formalism.LocalToGlobal.GlobalTheory.CoordinateLengths.SecondBranchCoordinatesOfSurjectivity
 
 noncomputable section
 

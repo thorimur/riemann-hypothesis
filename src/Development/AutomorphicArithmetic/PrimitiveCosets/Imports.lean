@@ -1,6 +1,6 @@
-import Development.AutomorphicArithmetic.PrimitiveCosets.CoreAtH
 import Development.AutomorphicArithmetic.PrimitiveCosets.LevelFamily
 import Development.AutomorphicArithmetic.DedekindLFunctions.LandauTheorems.ZeroFreeOfRpowWindow
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.Window
 
 open UpperTheory.Comparison₂ Deduction.CH Formalism Formalism.HC Formalism.D5 Formalism.RankGapBounds.WeightedMeanData Formalism.LFunctionChainParameters.WeightedSlopeBounds Formalism.LFunctionChainParameters.characterSumData Formalism.LFunctionChainParameters.ThickSetMeanBounds Formalism.LFunctionChainParameters.LErr
   Formalism.LFunctionChainParameters.LChain Formalism.LFunctionChainParameters.LHost

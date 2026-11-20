@@ -1,5 +1,7 @@
-import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.HaarBumpFunctions.ExistsIsBump
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SmoothOnAdditive
+import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SmoothCyclicVectors.IntegralMemOfIsClosed
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix Filter Topology Set
 open scoped ContDiff InnerProductSpace

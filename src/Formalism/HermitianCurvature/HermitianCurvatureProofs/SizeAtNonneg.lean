@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.AdmissibleOfPlaces
+import Formalism.HermitianCurvature.StatementKB
 
 open Finset NumberField
 open scoped ComplexConjugate ComplexOrder

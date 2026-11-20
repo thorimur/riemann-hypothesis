@@ -1,6 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.RankEqCardIffExistsFrameMatrixFirstColumnBlock
 import Development.AbelianVarietyTheory.Definitions.Foundations.SimpleSumRowCol
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.CategoryTheory.Countable
+import Mathlib.Data.Rat.Star
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 open MeasureTheory ValuativeRel Matrix
 open scoped NNReal ENNReal

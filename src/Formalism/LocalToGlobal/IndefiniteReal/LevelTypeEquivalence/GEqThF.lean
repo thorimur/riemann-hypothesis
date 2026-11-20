@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.GEqTie
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.GEqUnit
 
 noncomputable section
 

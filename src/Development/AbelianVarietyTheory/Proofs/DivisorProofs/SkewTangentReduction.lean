@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GoodRing
 open Matrix GlobalTheory.SUCong
 

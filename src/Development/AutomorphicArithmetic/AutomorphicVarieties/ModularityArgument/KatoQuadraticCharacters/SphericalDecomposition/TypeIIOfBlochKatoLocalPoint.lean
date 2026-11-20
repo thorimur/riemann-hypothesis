@@ -1,6 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.SphericalDecomposition.KatoTwoW
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.ReducibleThreeDim
-import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.LinkedUnramifiedChains.WeightInfinitesimalCharacters.TypeIIOfBlochKatoLocalPoint
 
 open private bk_map IsBlockSL2Embedding pA sA pB sB pC decomp ad_sA pA_ad wOf wOf_eq pB_ad ad_sB pC_ad ad_pC pA_ad_one pA_ad_c repA pair_eq isBlock_reducible_three_dim pC_mem cont_pA cont_pB cont_pC from Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.ReducibleThreeDim
 

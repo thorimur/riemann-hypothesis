@@ -1,16 +1,9 @@
-import Mathlib
-import Formalism.WindowSums.PowerSeriesRelationList
-import Formalism.WachModuleLifts.WachModuleProofs.LemmaCLower
-import Formalism.WachModuleLifts.WachModuleProofs.LemmaCSharp
-import Formalism.WachModuleLifts.WachModuleProofs.LemmaCSharpOddUnitInvHolds
-import Formalism.WachModuleLifts.WachModuleProofs.LemmaCSharpG
-import Formalism.WachModuleLifts.WachModuleProofs.LemmaCSharpOddG
 import Formalism.WachLatticeTwists.LagrangeExtensionCocycles.DualWByLettersExtended
-import Formalism.GaussValuationBounds.NokLemmaCVal
 import Formalism.GaussValuationBounds.GaussValueContraction.ScaledPowMemSpanCeil
 import Formalism.WeaklyAdmissibleFiltrations.PhtGalois
-import Formalism.SharpRestriction.LevelLetterCocycles.LiftingTheory
 import Formalism.SharpRestriction.LevelLetterCocycles.CrystallineLiftingBounds
+import Formalism.GaussValuationBounds.GaussValueContraction.PhiIterXProof
+import Mathlib.RingTheory.PowerSeries.WeierstrassPreparation
 
 noncomputable section
 

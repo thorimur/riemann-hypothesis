@@ -1,7 +1,5 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.Interface
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.IsIntegralOfRoot
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.NormLeOneOfIntegralInt
 
 noncomputable section
 open Formalism.L2.Th1.CM

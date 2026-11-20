@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.SemistableReduction.AeBlockSphereEvalNeZero
+import Mathlib.Data.Finsupp.Encodable
 
 open MeasureTheory
 

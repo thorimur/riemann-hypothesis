@@ -1,4 +1,4 @@
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.IsOpenAlt
+import ReciprocityTheory.AnalyticForms.RegularLocalRings.JacChart
 
 namespace ReciprocityTheory.AnForm.R
 

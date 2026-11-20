@@ -2,10 +2,8 @@ import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.BiextensionHypo
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.ThetaInZIsThetaLog
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementC
 import Formalism.GaussJetBounds.ThmAEntryFull
-import Formalism.GaussJetBounds.OneLetterGauss
-import Formalism.GaussJetBounds.ThmAGauss
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.ThetaLogIsSubst
-import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FinalS
+import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.KernelFromKOneK
 
 noncomputable section
 open scoped BigOperators

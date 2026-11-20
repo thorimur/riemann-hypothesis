@@ -1,6 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.BlockMembershipSelfConjCharts
-import Formalism.LocalToGlobal.CharacterGerms.RowTieMemCDeg
-import Formalism.LocalToGlobal.CharacterGerms.FinTwoNeOneSub
+import Formalism.LocalToGlobal.CharacterGerms.GramMatrixMulRight
 
 noncomputable section
 

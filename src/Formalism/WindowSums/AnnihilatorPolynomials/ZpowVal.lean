@@ -1,4 +1,8 @@
 import Formalism.WindowSums.Statement
+import Mathlib.NumberTheory.Multiplicity
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.WindowSums
 

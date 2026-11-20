@@ -1,5 +1,5 @@
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteTwistedRankQuotient
-import Development.AbelianVarietyTheory.Definitions.Divisors.RankEqCardIffExistsFrameMatrixFirstColumnBlock
+import Mathlib.Topology.LocallyConstant.Algebra
 
 noncomputable section
 

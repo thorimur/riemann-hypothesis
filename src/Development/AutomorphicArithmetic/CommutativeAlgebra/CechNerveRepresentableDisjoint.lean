@@ -1,5 +1,6 @@
-import Mathlib
-import Development.EtaleCohomology.EtaleSheaves.LeafChartRing
+import Development.AbelianVarietyTheory.Definitions.Divisors.GalMapMul
+import Mathlib.CategoryTheory.Limits.Indization.LocallySmall
+import Mathlib.Order.CompletePartialOrder
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.t_E6Cut
 

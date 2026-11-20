@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.CnDensNonneg
-import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.CnKappaBoundAbs
+import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.CNDefs
 
 noncomputable section
 

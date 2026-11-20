@@ -1,9 +1,7 @@
-import Mathlib
 import GroundTheory.GlobalFields.LocalFieldAtPlace
 import GroundTheory.GlobalFields.TateThesis.IdeleMeasure
-import GroundTheory.LocalFields.LocalFourier
 import GroundTheory.LocalFields.LocalFourierMult
-import GroundTheory.LocalFields.LocalFourierHaar
+import Mathlib.MeasureTheory.Integral.Pi
 
 open NumberField IsDedekindDomain MeasureTheory Filter Topology GroundTheory.Global GroundTheory.LocalField
 open scoped NumberField.AdeleRing ENNReal NNReal Pointwise

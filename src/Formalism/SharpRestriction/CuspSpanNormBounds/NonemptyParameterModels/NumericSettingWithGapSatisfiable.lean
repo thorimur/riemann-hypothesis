@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 import Formalism.FormalDegreeBessel.FormalDegreeRatio.GBasic
 import Formalism.SharpRestriction.CuspSpanNormBounds.CayleySignature
 

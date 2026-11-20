@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.SplitOff
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyEqTensorPowerVacuum
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetScalarUnitModulusStatement
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.SplitIdempotentUnitDecompositionStatement

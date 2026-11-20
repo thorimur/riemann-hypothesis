@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.GoodPartHermitianSpec
 import Formalism.LocalToGlobal.Divisibility.Frames
 import Formalism.LocalToGlobal.Columns.HeckeSp

@@ -1,4 +1,3 @@
-import Formalism.FlagUnipotentLattices.IdealCountLeW
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.ColonCountWeighted
 
 namespace Formalism.HermitianLatticeCounting.Final.S6

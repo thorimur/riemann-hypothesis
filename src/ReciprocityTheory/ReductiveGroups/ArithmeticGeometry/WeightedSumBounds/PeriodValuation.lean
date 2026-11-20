@@ -1,5 +1,9 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.VEqZeroOfPowEqOne
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PowerSeries.Substitution
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps
 

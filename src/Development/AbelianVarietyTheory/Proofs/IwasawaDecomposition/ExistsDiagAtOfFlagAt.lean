@@ -1,9 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsPrincipalMapDifferent
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsMapUnique
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StepHoldsLocalTangentFrames
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TransitionUniqueAndPoints
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MulEqOneOfSubst
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AffineOpenChartCompStructureEqSpMap
 
 set_option autoImplicit false
 

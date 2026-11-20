@@ -1,8 +1,6 @@
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NatActRVtupR
 import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.FramesTr
 import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CastGLSymmApply
-import Formalism.LocalToGlobal.GroupLattices.LevelGatherings.JPMemAwayP
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Afsplit
+import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ValUniqOf
 
 noncomputable section
 

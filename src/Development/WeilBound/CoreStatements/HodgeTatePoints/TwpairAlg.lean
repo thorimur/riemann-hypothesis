@@ -1,6 +1,8 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.IsPolLatticePlane
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HopfOrderContainsCharacters
+import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.PairingExtends
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.GroupTheory.FiniteAbelian.Basic
+import Mathlib.LinearAlgebra.Quotient.Bilinear
 
 open GlobalTheory.CompanionTheory.Ar.BT GlobalTheory.CompanionTheory.Ar.HT
 

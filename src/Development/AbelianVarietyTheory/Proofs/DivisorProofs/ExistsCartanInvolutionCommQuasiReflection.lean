@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.LocalNewformFunction
+import Mathlib.RingTheory.TotallySplit
 
 open Matrix Formalism.IndefR.Datum
 open scoped ComplexOrder MatrixOrder

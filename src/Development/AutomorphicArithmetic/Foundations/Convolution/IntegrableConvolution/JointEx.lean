@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.CompactSelfAdjoint
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.TrDefs
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.CutIrr
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.JointNe
 
 noncomputable section

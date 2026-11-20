@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AzumayaBaseChange
-import Mathlib
 open scoped TensorProduct
 open Function
 set_option maxHeartbeats 1000000 in

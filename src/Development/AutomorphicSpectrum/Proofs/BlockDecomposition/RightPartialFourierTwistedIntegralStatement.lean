@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RightPartialFourierTwistedIntegral
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.Lpart
 open MeasureTheory Matrix GroundTheory.LocalField GroundTheory.Automorphic Ad3 Ad3.K.GL2LocalData GlobalTheory.CompanionTheory.GL2DualWhittakerPair
 open scoped ValuativeRel
 set_option maxHeartbeats 1000000 in

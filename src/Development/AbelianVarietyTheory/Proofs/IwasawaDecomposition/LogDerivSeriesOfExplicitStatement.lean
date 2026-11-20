@@ -1,13 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LogDerivSeriesOfExplicit
-import Formalism.GL3MeanSquares.PrimeCountAsymptoticInProgressions
-import Formalism.SharpRestriction.InertJacobiLevels.AsmIface
-import Formalism.CyclotomicNorms.StatementI
-import Development.AbelianVarietyTheory.Definitions.Foundations.RayPrimes
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExplZeta
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExplChi
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.LogDerOne
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ZeroCount
 open Finset ArithmeticFunction NumberField IsDedekindDomain Filter Topology GlobalTheory.Mem.An Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.Inhab
 open scoped nonZeroDivisors
 set_option maxHeartbeats 1000000 in

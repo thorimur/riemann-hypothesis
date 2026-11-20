@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.IndefiniteReal.LinksLemmas
 import Formalism.LocalToGlobal.IndefiniteReal.LinksStage
 
 noncomputable section

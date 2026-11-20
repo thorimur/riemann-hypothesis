@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.UnitaryGroupEquations
 
 set_option linter.unusedSectionVars false

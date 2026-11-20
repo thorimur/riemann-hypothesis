@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.InertKernelTheory.DefsInt
+import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleLayerExistsGenerators
 
 noncomputable section
 

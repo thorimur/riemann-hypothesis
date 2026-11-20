@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsReductionToProjectiveBlock
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBlockMetricChange
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBlockImageTop

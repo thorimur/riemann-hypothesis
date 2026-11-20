@@ -1,5 +1,5 @@
 import Development.DiscreteGroups.GlobalIrreducibility.LConvBigC
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AlgebraMapIntertwiningMapBijectiveOfIsSmooth
+import Development.DiscreteGroups.GlobalIrreducibility.LConvGlue
 
 noncomputable section
 

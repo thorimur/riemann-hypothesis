@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.ExtRobbaRootPoly
 import GroundTheory.PAdicHodge.ExtRobbaUntilt
 import GroundTheory.PAdicHodge.ExtRobbaNewton

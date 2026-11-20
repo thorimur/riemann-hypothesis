@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.LocalDoubleCosets.TracePow
-import GroundTheory.AutomorphicForms.LocallyConstantCompact
 
 noncomputable section
 

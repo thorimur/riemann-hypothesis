@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.SingleIndexPlacesAreTwisted
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsRec
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SubOrthProjPerpMem
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GoodLiftOntoOfBase

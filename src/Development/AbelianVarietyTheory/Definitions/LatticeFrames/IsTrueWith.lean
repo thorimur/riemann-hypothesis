@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.TiedColumnData
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsEntC
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ColNorm

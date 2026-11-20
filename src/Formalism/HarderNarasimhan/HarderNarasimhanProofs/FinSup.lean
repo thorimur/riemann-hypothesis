@@ -1,4 +1,5 @@
 import Formalism.HarderNarasimhan.DegSupermodZ
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open Module Submodule
 

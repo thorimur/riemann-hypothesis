@@ -1,7 +1,9 @@
 import Formalism.HarderNarasimhan.StatementPl
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SatBasic
 import Formalism.LatticeSlopes.ExistsSaturatedSlopeEqMuMax
-import Formalism.LatticeSlopes.LatticeSlopesProofs.DiscreteTopologyOfLe
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.NumberTheory.NumberField.CanonicalEmbedding.Basic
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open Module NumberField
 

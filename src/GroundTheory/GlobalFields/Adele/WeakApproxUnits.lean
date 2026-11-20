@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.Adele.WeakApprox
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 
 namespace GroundTheory.Global
 

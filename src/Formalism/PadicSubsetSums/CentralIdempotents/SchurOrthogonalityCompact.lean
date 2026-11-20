@@ -1,4 +1,8 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.FactorOverLocalSubalgebraMonic
+import Mathlib.Analysis.Meromorphic.Order
+import Mathlib.Data.Matrix.ColumnRowPartitioned
+import Mathlib.LinearAlgebra.Matrix.Hermitian
+import Mathlib.LinearAlgebra.Semisimple
 
 noncomputable section
 

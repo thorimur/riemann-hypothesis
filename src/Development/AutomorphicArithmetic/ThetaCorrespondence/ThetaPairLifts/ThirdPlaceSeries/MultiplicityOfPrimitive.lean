@@ -1,6 +1,5 @@
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MultiplicityOfPrimitiveStatement
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PublishedInputsThirdLayer
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SpanRangeEquiv
 
 set_option synthInstance.maxHeartbeats 200000
 

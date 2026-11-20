@@ -1,5 +1,5 @@
-import PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.IdeleModuleInfIdDetLe
-import GroundTheory.GlobalFields.Adele.IntegersLattice
+import GroundTheory.GlobalFields.TateThesis.TateThetaDecay
+import PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.SSmooth
 
 noncomputable section
 

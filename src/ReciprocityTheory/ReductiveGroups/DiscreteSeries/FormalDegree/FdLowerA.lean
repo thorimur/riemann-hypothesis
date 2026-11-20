@@ -1,6 +1,4 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.IntegrableOfContinuousCompact
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.JacobianLeExp
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.FdScale
 import Mathlib.Analysis.SpecialFunctions.Gaussian.FourierTransform
 
 noncomputable section

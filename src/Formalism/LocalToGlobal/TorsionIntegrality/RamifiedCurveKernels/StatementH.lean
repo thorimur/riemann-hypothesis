@@ -1,6 +1,6 @@
-import Formalism.GaussJetBounds.StatementQ
 import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.JetExpShape
 import Formalism.FormalGroupLog.Statement
+import Formalism.GaussJetBounds.StatementN
 
 noncomputable section
 open scoped BigOperators

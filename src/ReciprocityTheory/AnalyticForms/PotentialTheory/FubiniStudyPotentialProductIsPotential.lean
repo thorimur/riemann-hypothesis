@@ -1,5 +1,6 @@
 import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffFubiniStudyRatioCompChart0
-import ReciprocityTheory.AnalyticForms.PotentialTheory.HomogeneousLiftHolomorphicOnSnd
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Topology.OpenPartialHomeomorph.Constructions
 
 namespace ReciprocityTheory.AnForm.M
 

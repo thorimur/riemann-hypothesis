@@ -1,17 +1,11 @@
 import Development.EtaleCohomology.EtaleTrace.PNIntegralPf
-import Development.EtaleCohomology.EtaleTrace.PNBasicPf
 import Development.EtaleCohomology.EtaleTrace.GenAwayEvalPf
 import Development.EtaleCohomology.EtaleTrace.GenOfAwayPf
-import Development.EtaleCohomology.EtaleTrace.GenInPf
 import Development.EtaleCohomology.EtaleTrace.ChartOverKPf
 import Development.EtaleCohomology.KummerExtensions.EtaleProjectiveChartGenericValuationIdentity
 import Development.EtaleCohomology.EtaleTrace.ChartGenOnPf
-import Development.EtaleCohomology.EtaleTrace.GenOutChartPfGen
 import Development.EtaleCohomology.EtaleTrace.GenOnAgreePf
-import Development.EtaleCohomology.EtaleTrace.GenOutGluePf
-import Development.EtaleCohomology.EtaleTrace.GenOutPf
 import Development.EtaleCohomology.EtaleTrace.GenUseBackPf
-import Development.EtaleCohomology.EtaleTrace.GenUsePf
 import Development.EtaleCohomology.EtaleTrace.JetSpanPf
 import Development.EtaleCohomology.EtaleTrace.TrdegLePf
 import Development.EtaleCohomology.EtaleTrace.HomRelPf
@@ -25,8 +19,6 @@ import Development.EtaleCohomology.EtaleTrace.GenEtaleAtBotPf
 import Development.EtaleCohomology.EtaleTrace.GenEtalePfData
 import Development.EtaleCohomology.EtaleTrace.RatPtInPf
 import Development.EtaleCohomology.EtaleTrace.FibreOfEtalePf
-import Development.EtaleCohomology.EtaleTrace.FibrePf
-import Development.EtaleCohomology.EtaleTrace.LCoverCut
 
 namespace LateralTheory.Fin.LCover
 theorem projective_space_over_field_integral : LateralTheory.EtaleTrace.Cov.PNIntegral := by

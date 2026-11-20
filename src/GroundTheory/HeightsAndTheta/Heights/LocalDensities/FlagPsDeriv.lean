@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.LocalDensities.FlagPsLine
+import GroundTheory.HeightsAndTheta.Heights.LocalDensities.LeviLine
+import Mathlib.Analysis.InnerProductSpace.Calculus
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.FourB

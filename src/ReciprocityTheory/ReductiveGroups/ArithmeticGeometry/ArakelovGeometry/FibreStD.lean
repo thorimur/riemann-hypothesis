@@ -1,5 +1,7 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.FibreStC
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.EqZeroOfSecTraceMulEqZero
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

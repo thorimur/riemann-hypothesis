@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.GrowthBounds.BaseLevels.LvSite
 
 noncomputable section

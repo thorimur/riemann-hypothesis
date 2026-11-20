@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.SplitComps
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.GenPtSpecializes
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

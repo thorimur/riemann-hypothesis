@@ -1,6 +1,4 @@
 import Formalism.BranchSandwichDivisors.StatementL
-import Formalism.HermitianLattices.HermitianLatticesProofs.DualBasic
-import Formalism.HermitianLattices.HermitianLatticesProofs.DualLattice
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.RatHerm
 
 open Module NumberField IsDedekindDomain

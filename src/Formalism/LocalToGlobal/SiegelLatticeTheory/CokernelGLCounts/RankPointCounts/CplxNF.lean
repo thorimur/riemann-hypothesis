@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.SpanAtMono
 import Formalism.SharpRestriction.CuspSpanNormBounds.KappaEndpoints
 

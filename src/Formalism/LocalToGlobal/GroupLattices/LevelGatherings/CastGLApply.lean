@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.GroupLattices.LevelGatherings.HostPlacesWeight
-import Formalism.SatakeDualWeyl.Statement
 
 noncomputable section
 

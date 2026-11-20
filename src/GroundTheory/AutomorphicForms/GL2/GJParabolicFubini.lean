@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJZetaDefs
-import GroundTheory.AutomorphicForms.Measures
+import GroundTheory.AutomorphicForms.CuspidalAdmissible
+import Mathlib.CategoryTheory.Countable
 set_option maxSynthPendingDepth 1
 
 noncomputable section

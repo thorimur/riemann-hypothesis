@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.SecClass
+import Mathlib.CategoryTheory.ExtremalEpi
+import Mathlib.RingTheory.Etale.StandardEtale
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 set_option backward.isDefEq.respectTransparency false
 

@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.GroupLattices.DownNaturalLevelZero
 import Formalism.LocalToGlobal.GlobalTheory.GL6.PRLocV
-import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocBases
 import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLcInt
 
 noncomputable section

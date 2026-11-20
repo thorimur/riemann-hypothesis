@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.CMModuli.ThetaTowerRecognition
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.CubNSucc
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationWeilPairingProperties
-import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.NormRepGeneratorsAndThetaSeriesTerm
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.HomTransport
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.SummableVtQT
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.ResidueCharacters.TwistedPlaces
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.HostFacts
 

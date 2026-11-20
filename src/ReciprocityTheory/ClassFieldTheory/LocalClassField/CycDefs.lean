@@ -1,5 +1,4 @@
-import Mathlib
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecPairDefs
+import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecDefs
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField
 

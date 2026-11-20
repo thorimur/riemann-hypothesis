@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.IsWHLetterMinorK
+import Formalism.LocalToGlobal.CharacterGerms.RowTieMemCInv
 
 noncomputable section
 

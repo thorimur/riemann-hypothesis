@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.HeckeRatios
 set_option maxSynthPendingDepth 1
 

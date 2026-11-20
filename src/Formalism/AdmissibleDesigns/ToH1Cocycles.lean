@@ -1,8 +1,8 @@
 import Formalism.AdmissibleDesigns.BkLocCol
 import Formalism.AdmissibleDesigns.InvariantsMapEquivariant
-import Formalism.AdmissibleDesigns.RankReductionIdempotentOne
 import Formalism.AdmissibleDesigns.CoboundaryMemFiniteClasses
 import Formalism.AdmissibleDesigns.FgTopContinuousLinearMap
+import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.SurjectionOfRankOneIdempotent
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core] [hH0Fin : Fact Formalism.MainNotions.N.K.H0.FinCore]
 

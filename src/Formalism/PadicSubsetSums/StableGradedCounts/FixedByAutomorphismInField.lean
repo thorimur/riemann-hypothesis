@@ -1,4 +1,7 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.EigenbasisOfDistinctRoots
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.FieldTheory.IsAlgClosed.Classification
+import Mathlib.RingTheory.PicardGroup
 
 namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
 

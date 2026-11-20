@@ -1,7 +1,5 @@
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.StripDataTensorColumnFamilies
-import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.CntSym
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.CntLam
-import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.SymStrip
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.SymDStrip
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.LamStrip
 

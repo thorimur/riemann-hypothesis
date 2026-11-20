@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.TwoMemRegRingSpecZ
 set_option maxSynthPendingDepth 1
 

@@ -1,10 +1,8 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IwahoriTypeSupport.TorusScalar
 import Development.AutomorphicArithmetic.ThetaCorrespondence.FockModels.GlnMixed
 import Development.WeilBound.CoreStatements.TotallyDisjointProducts.SLGLProductIrreducibility.TdpFill
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MoyPrasadJacquetIso
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FixedNeBotOfIsSubquotient
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ApplyMemTwKerOfNormalizer
 
 namespace UpperTheory.Gal.TypesAndIwahori
 

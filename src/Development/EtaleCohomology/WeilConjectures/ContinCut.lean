@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.WeilConjectures.CurveCut
+import Development.EtaleCohomology.WeilConjectures.FermatCount
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC GlobalTheory.Et

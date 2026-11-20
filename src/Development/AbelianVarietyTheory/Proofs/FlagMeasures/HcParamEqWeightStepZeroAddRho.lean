@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 import Formalism.LocalToGlobal.HermitianForms.TiedStep
 
 open Formalism.BasicNotions

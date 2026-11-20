@@ -1,4 +1,6 @@
 import ReciprocityTheory.SemistableReduction.AeBlockSphereEvalNeZero
+import Mathlib.Data.Finsupp.Encodable
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 namespace ReciprocityTheory.ChartRestriction.G.T0.NPB
 

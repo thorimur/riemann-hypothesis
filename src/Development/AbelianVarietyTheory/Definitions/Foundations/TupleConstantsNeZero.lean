@@ -1,6 +1,12 @@
-import Mathlib
 import Formalism.PairingDivisors.StatementH
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ValBasic
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField IsDedekindDomain Finset
 open Formalism.DivisionValues (vw conjPl)

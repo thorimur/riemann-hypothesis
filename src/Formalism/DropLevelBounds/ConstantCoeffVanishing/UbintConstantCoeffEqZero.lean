@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.DropLevelBounds.Statement
 import Formalism.IncomingBounds.FlowDegreeBounds.ThmPExp
 

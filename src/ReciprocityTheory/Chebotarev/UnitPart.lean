@@ -1,4 +1,6 @@
 import ReciprocityTheory.Chebotarev.Ucoord
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open NumberField NumberField.mixedEmbedding NumberField.Units NumberField.Units.dirichletUnitTheorem
 

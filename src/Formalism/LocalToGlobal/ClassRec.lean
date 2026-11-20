@@ -1,7 +1,4 @@
-import Formalism.LocalToGlobal.ClassS
-import Formalism.LocalToGlobal.ClassSK
 import Formalism.LocalToGlobal.ClassSLinks
-import Formalism.LocalToGlobal.ClassSR
 import Formalism.LocalToGlobal.HilbertRowConditions.RowPinMin
 import Formalism.LocalToGlobal.RatioJoints.CharacterProductEqOne
 import Formalism.LocalToGlobal.UnitaryNorms.DatumS

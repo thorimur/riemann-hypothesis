@@ -1,9 +1,9 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SigmaFiniteParameterProductMeasure
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegrableSchwartzAHaar
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegralShiftHerm
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfinite
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.JacobiMapsExist
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AddHaarCharLeftRightMatrixMulAdeleTensor
+import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemElt
 
 noncomputable section
 

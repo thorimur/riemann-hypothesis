@@ -1,5 +1,10 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.TwGTheta
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.DedekindDomain.Different
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.ENatToNat
 open NumberField TensorProduct
 
 namespace PositivityTheory.UnitarySelfGeneration

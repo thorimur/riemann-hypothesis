@@ -1,29 +1,10 @@
-import Formalism.LocalToGlobal.CharacterGerms.NormOneIntegral
-import Formalism.LocalToGlobal.CharacterGerms.FinTwoNeOneSub
-import Formalism.LocalToGlobal.CharacterGerms.NormOneRowInvariant
-import Formalism.LocalToGlobal.CharacterGerms.NormOneRowDegrees
-import Formalism.LocalToGlobal.CharacterGerms.RowTieGermI
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePHStab
-import Formalism.LocalToGlobal.CharacterGerms.CoeffSingleSubstOfLowDegree
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePCEq2
-import Formalism.LocalToGlobal.CharacterGerms.IndependenceBoundRaw
-import Formalism.LocalToGlobal.CharacterGerms.RowTieAxes
-import Formalism.LocalToGlobal.CharacterGerms.RankMaximalOfNondegenerate
-import Formalism.LocalToGlobal.CharacterGerms.RowTieCH
-import Formalism.LocalToGlobal.CharacterGerms.RowTieChar
 import Formalism.LocalToGlobal.CharacterGerms.RowTieLab
-import Formalism.LocalToGlobal.CharacterGerms.RowTieDesc
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePNabMapSt
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePNvalEqSt
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePDescSpanFinal
-import Formalism.LocalToGlobal.CharacterGerms.RowTieValK
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePPTDone
-import Formalism.LocalToGlobal.CharacterGerms.EndomorphismLimitIntegral
-import Formalism.LocalToGlobal.CharacterGerms.RowTieP_TCoord
 import Formalism.LocalToGlobal.CharacterGerms.CharacterHypothesisUnramified
-import Formalism.LocalToGlobal.CharacterGerms.ConstantZeroMultiplicationEval
-import Formalism.LocalToGlobal.CharacterGerms.CoeffSliceMultiplication
-import Formalism.LocalToGlobal.CharacterGerms.RankMaximalSelfUnconditional
+import Formalism.LocalToGlobal.CharacterGerms.NondegenerateCharts
+import Formalism.LocalToGlobal.CharacterGerms.RowTieValL
 
 set_option autoImplicit false
 

@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeChartArea
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeChartIntegrable
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PFsLogSmul
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeChart
 set_option maxSynthPendingDepth 1
 
 noncomputable section

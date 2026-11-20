@@ -1,6 +1,6 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.LocF
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.CapCentral
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CompositionMem
+import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DiscreteGL2
 open NumberField IsDedekindDomain Neutral.B1 Formalism.L2.Host Formalism.BasicNotions MeasureTheory GlobalTheory.CuspRep UpperTheory.V UpperTheory.V.Af UpperTheory.V.Lit UpperTheory.V.Lit.JL
 
 namespace UpperTheory.V.Lit.JL.DiscreteSeriesWeights

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsOfBalanced
+import Formalism.LocalToGlobal.UnitaryNorms.CharTied
 
 noncomputable section
 

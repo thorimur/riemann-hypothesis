@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.FoldBound
 import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.PoincareSeriesSquareIntegrable
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FoldUnfold
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FoldMult

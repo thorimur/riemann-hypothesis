@@ -1,6 +1,17 @@
-import Formalism.HermitianCurvature.StatementG
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GaussianHessianIntegral
 import Lemmata.GeneralBFactSecondBisForm.Goal1
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Analysis.Calculus.ContDiff.FiniteDimension
+import Mathlib.Analysis.Calculus.Deriv.Pi
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
+import Mathlib.Analysis.Calculus.LineDeriv.IntegrationByParts
+import Mathlib.Analysis.Calculus.ParametricIntervalIntegral
+import Mathlib.Analysis.Complex.OperatorNorm
+import Mathlib.Analysis.Complex.RemovableSingularity
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 section PartD0
 

@@ -1,5 +1,4 @@
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.QsColHHigh
-import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.LWedge
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.JacBase
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.JacBaseA
 
 noncomputable section
 

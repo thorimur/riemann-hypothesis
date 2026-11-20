@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DivConstClosedPts
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbsIntClosedLocalizationAndQuotient
+import Mathlib.Order.CompletePartialOrder
 open IsLocalRing Polynomial
 
 namespace GlobalTheory.VertUnits

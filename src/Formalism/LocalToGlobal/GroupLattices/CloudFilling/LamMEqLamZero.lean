@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.GroupLattices.LevelGatherings.LevelGatherings
-import Formalism.SharpRestriction.GrowthBounds.DataGChain
 
 noncomputable section
 

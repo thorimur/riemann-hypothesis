@@ -1,4 +1,3 @@
-import CompanionTheory.AutomorphicTheory.ThetaDilations.ThetaLint
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.AdelicTupleCompactSetsStatement
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.ThetaMeasureNonzeroVectorsBoundStatement
 

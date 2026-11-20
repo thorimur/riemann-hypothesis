@@ -1,9 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.CharacterGerms.RestNonneg
 import Development.AutomorphicArithmetic.OrbitLabellings.RowDefs
-import Formalism.LocalToGlobal.CharacterGerms.ValuationChoiceHypothesis
-import Formalism.LocalToGlobal.ProjectiveLattices.DepRun
-import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.DepthTie
+import Formalism.DropLevelBounds.ThBounds
+import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.DepthCond
+import Formalism.LocalToGlobal.ProjectiveLattices.ConjNeSelfOfCM
 
 set_option autoImplicit false
 

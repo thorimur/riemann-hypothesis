@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.LocalHerbrand
 import GroundTheory.GlobalFields.InfiniteNormIndex.LocalSymbol
 

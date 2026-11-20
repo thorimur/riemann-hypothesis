@@ -1,5 +1,3 @@
-import Mathlib
-import CompanionTheory.AutomorphicTheory.BesselWaveGrids.InterlacingGrids.PairOKOfInterlace
 import CompanionTheory.AutomorphicTheory.BesselWaveGrids.InterlacingGrids.Bracket
 
 namespace GroundTheory.BlockD.FourierDecayAlt.WaveGridLiftGrid

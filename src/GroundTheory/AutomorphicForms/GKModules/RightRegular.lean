@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GKModules.SmoothVectors
 
 namespace GroundTheory.Automorphic

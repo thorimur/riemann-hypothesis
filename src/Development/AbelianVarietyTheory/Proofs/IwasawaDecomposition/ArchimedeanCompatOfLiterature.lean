@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.Brauer
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.HypothesesX
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.SeriesRatSOf
 import Development.AutomorphicArithmetic.BlochKatoExtensions.PhtCmp
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ColumnTwistedArgsFirst
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ColumnTwistedArgsSecond

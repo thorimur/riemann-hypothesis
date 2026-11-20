@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.PrimesOverLiterature.RayPrimeCountQ
+import Formalism.SharpRestriction.LevelLetterCocycles.PrimesOverLiterature.RayPrimeCount
 
 namespace Formalism.MainNotions.N.Lit.RayClassPrimeCountSquarefree
 

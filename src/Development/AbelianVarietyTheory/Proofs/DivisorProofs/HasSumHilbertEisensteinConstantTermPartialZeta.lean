@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.OmegaFactorization
+import Mathlib.NumberTheory.NumberField.Discriminant.Different
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 open scoped nonZeroDivisors
 open NumberField GlobalTheory.IndefiniteRowSideFullHecke.OmegaFactorization

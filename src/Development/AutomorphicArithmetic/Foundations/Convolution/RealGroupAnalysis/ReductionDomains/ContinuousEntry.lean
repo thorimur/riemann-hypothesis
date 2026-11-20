@@ -1,8 +1,4 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.Smooth
-import GroundTheory.AutomorphicForms.ReductionCore
-import GroundTheory.AutomorphicForms.ReductionMeasure
-import GroundTheory.AutomorphicForms.HaarSK
-import GroundTheory.HeightsAndTheta.Theta.FundDomain
+import Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.ThetaLiftTrivialOrbitTermsVanish
 
 noncomputable section
 

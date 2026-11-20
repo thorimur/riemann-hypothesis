@@ -1,7 +1,8 @@
 import Formalism.WachLatticeTwists.SplitClassesAll.Statement
 import Formalism.WachLatticeTwists.SplitLocalLifts.SplitLocalLiftProofs.CompColk
-import Formalism.WachLatticeTwists.CharacterSplitJumps.CharacterJumpProofs.TheoremNFiveTopSplitTb
-import Formalism.WachLatticeTwists.CharacterSplitJumps.CharacterJumpProofs.PropLocContBK
+import Formalism.WachLatticeTwists.CharacterSplitJumps.CharacterJumpProofs.InChiSplit
+import Formalism.WachLatticeTwists.CharacterSplitJumps.CharacterJumpProofs.PropLocBK
+import Formalism.WachLatticeTwists.CoprimeLiftBounds.CoprimeLiftProofs.TheoremNFiveDeltaClause
 
 open Finset Classical
 

@@ -1,6 +1,5 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.GaugeTopology.UBranch
 import GroundTheory.AutomorphicForms.GL2.GJUnramifiedCosets
+import GroundTheory.LocalFields.UnramifiedHensel
 
 noncomputable section
 

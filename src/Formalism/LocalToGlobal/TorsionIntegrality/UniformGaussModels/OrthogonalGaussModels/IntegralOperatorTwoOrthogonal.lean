@@ -1,7 +1,5 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.StatementH
 import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.OrthogonalGaussModels.KJoint
-import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.PairedSquareJets.ThetaZeroJetsCurveHolds
-import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.FacShapeZero
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.FinalL
 
 noncomputable section

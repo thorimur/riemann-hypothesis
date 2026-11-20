@@ -1,5 +1,8 @@
 import Formalism.RealPlaceAnalysis.StatementU
 import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Topology.Sheaves.Presheaf
 
 open scoped InnerProductSpace
 open Finset

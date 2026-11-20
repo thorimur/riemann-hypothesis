@@ -1,8 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RationalRootsDef
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.FamilyClassSevenDutiesAndStableLattices
 import Formalism.SharpRestriction.SmoothDesignExistence.DGamSmooth
-import Development.AutomorphicArithmetic.PrimeDiscriminants.Scales
 
 noncomputable section
 

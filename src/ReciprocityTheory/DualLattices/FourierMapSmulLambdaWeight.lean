@@ -1,4 +1,6 @@
 import ReciprocityTheory.DualLattices.SumLambdaWeight
+import Mathlib.Algebra.Order.Ring.Star
+import ReciprocityTheory.DualLattices.VIntCastLtOneOfDvd
 
 noncomputable section
 

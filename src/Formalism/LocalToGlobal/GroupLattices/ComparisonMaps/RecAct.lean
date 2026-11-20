@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.LatticeComparisonCompatible
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CmpCMemFunMod
+import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.TiedRec
 
 noncomputable section
 

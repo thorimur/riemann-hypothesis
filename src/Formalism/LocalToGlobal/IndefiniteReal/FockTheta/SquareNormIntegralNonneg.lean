@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.FockTheta.ConjInvOfReal
-import Formalism.PeriodIntegrals.HookBound
+import Formalism.LocalToGlobal.IndefiniteReal.FockTheta.UnitBracket
 
 noncomputable section
 

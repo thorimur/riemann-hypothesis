@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.KTwoMinorIntegrality
+import Formalism.SharpRestriction.CuspSpanNormBounds.KappaEndpoints
 
 noncomputable section
 

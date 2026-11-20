@@ -1,4 +1,4 @@
-import Formalism.LandauZeroFreeBounds.LogDerivRegionChiOf
+import Formalism.LandauZeroFreeBounds.SiegelWalfiszAP
 
 open Complex
 open scoped ComplexOrder

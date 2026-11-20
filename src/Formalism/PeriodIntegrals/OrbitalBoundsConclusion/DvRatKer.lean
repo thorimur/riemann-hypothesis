@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SameFormAllLevels
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RationalKernels.AsAlgApply
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RationalKernels.OfMulEps
 

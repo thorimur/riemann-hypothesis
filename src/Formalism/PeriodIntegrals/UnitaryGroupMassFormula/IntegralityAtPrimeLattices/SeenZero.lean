@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.UnitaryNorms.UnramT
-import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocInd
 
 noncomputable section
 

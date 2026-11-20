@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosure
+import Mathlib.Algebra.DualNumber
 
 open IsLocalRing Matrix
 

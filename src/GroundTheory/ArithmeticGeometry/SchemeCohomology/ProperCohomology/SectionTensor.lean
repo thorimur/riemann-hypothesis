@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.RestrictTensor
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.InvertibleSheaf
+import Mathlib.Tactic.ENatToNat
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

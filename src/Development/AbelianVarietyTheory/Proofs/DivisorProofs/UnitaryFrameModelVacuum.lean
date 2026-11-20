@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MajINonneg
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsSmoothModerateOfIsAutFunSm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairFrameBlockEigenRelationStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvaluationCompactSetBoundStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BlockScaledNormDecayStatement

@@ -1,5 +1,7 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.Rationality.FiniteDimensionalBaseSpan
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.Rationality.FinDetPf
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PicardGroup
 
 namespace ReciprocityTheory.ChartRestriction.G.FreeQuotientRank
 

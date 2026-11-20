@@ -1,5 +1,4 @@
 import Development.EtaleCohomology.EtaleSheaves.CurveThroughGenericPointSpreadsToSmoothProperFamily2
-import Development.EtaleCohomology.EtaleSheaves.LeafDescendVCut
 import Development.EtaleCohomology.EtaleSheaves.LeafDescendChainPf
 
 noncomputable section

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.LMulBeta
 
 open GlobalTheory.Pst.StLat

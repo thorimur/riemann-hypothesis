@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LtOneOfPowerBound
 
 set_option maxHeartbeats 1000000 in

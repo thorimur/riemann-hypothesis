@@ -1,5 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.CuspDecayHeights.HeightLe
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness.DecayUniform
+import GroundTheory.AutomorphicForms.CuspidalDiscreteness.SmoothingFinite
 
 noncomputable section
 

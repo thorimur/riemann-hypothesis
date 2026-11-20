@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.FormalGroupWitt.ShiftSOneLetter
+import Mathlib.AlgebraicGeometry.EllipticCurve.Weierstrass
+import Mathlib.RingTheory.PowerSeries.Exp
 
 noncomputable section
 

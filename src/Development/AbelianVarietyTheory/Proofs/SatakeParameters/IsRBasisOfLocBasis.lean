@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.ThetaLiftGeometry.IntegralJetEntries
 
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.MainNotions

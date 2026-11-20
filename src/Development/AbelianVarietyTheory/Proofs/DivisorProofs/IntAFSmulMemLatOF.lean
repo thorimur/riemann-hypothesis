@@ -1,9 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InfPartFPlaceIdem
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaFunctionHeisenbergInvariant
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergCMRealLineAddNoPhase
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsHeisTrivial
-import Formalism.SharpRestriction.GlobalSchurBounds.StandardLattice
 
 noncomputable section
 

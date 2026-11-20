@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.ActsLinOfSplitLin
 import Formalism.LocalToGlobal.IndefiniteReal.WeilFull
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.FinPartPhiE
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.PlaceSum
 
 noncomputable section

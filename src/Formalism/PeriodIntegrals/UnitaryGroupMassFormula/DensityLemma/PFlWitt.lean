@@ -1,7 +1,7 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DensityLemma.PFramesCut
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WittExtensionTheorem
-import Formalism.FormalDegreeBessel.FormalDegreeRatio.GBasic
 import Formalism.FormalDegreeBessel.FormalDegreeRatio.ReverseCauchySchwarzHolds
+import Formalism.HermitianCurvature.StatementB
+import Mathlib.RingTheory.PicardGroup
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 open scoped Matrix

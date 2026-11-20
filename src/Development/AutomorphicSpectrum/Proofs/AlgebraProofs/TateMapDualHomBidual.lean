@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Statements.GeometryStatements.IsPolLatticePlane
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.DvdMulOfGroupLikeVal
+import Development.AutomorphicSpectrum.PublishedTheorems.Algebra₂.FarguesHodgeTate
 
 noncomputable section
 

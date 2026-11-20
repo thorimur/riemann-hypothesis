@@ -1,5 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ProdFnMemSB
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Separation.Profinite
+import Std.Tactic.BVDecide.Normalize.Prop
 open GlobalTheory.SplitWeil GlobalTheory.LocFlat.CFac
 
 open Filter Topology

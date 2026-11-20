@@ -1,8 +1,7 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MapCSmulMulVec
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.RoundDown
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.OfKillsOne
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 

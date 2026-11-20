@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.RadfordShufflePolynomialHolds
+import Std.Tactic.BVDecide.Normalize.Bool
 
 open GlobalTheory
 

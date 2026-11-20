@@ -1,5 +1,7 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafDescendVCut
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.RingKrullDimQuotientEqOfMemMinimalPrimes
+import Mathlib.RingTheory.Unramified.LocalStructure
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 open CategoryTheory AlgebraicGeometry LateralTheory.E.E4

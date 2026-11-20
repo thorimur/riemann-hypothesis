@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafChartRing
+import Mathlib.RingTheory.MvPolynomial.Ideal
 
 noncomputable section
 open LateralTheory.E.t_E6Cut

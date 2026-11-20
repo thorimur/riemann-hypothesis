@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.SmoothRep
+import Mathlib.RepresentationTheory.Irreducible
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open GroundTheory.Automorphic
 

@@ -1,7 +1,6 @@
-import Formalism.LocalToGlobal.HermitianForms.FormsTied
-import Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.CharacterFiniteLevelZeroOfForms
 import Formalism.SharpRestriction.GlobalSchurBounds.ProductFirstZerothParts
 import Formalism.LocalToGlobal.GroupLattices.TrivialTransfer.GramTotallyDefinite
+import Formalism.LocalToGlobal.GroupLattices.DownNaturalLevelZero
 
 noncomputable section
 

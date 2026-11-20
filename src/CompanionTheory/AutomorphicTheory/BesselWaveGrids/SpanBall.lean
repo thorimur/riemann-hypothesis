@@ -1,6 +1,5 @@
 import CompanionTheory.AutomorphicTheory.SchurLimitBounds.ZuckermanDuality.Letter
 import CompanionTheory.AutomorphicTheory.SchurLimitBounds.ZuckermanDuality.Assemble
-import CompanionTheory.AutomorphicTheory.SchurLimitBounds.ZuckermanDuality.GeneratingFunctionPolynomial
 
 noncomputable section
 

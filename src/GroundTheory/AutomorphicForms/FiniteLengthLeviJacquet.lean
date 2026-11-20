@@ -1,7 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GeometricLemma
 import GroundTheory.AutomorphicForms.LeviStagesInduction
-import GroundTheory.AutomorphicForms.LeviStagesExact
+import GroundTheory.LocalFields.PadicLogSeries
 set_option maxSynthPendingDepth 1
 
 noncomputable section

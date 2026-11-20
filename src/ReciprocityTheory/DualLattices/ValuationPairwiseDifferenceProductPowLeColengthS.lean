@@ -1,4 +1,5 @@
-import ReciprocityTheory.DualLattices.ColengthSqBlockVandermonde
+import ReciprocityTheory.DualLattices.DiscriminantColengthStatement
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

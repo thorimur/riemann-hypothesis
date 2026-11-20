@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.ScalPairs
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BetaUniqueness.GramNondeg
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

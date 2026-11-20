@@ -1,4 +1,3 @@
-import ReciprocityTheory.DualLattices.InvolutionPermApplyZero
 import ReciprocityTheory.DualLattices.WdetDegreeOfSmithRestrict
 import ReciprocityTheory.DualLattices.RestrictHopfOrderLength
 import ReciprocityTheory.DualLattices.BasechangeProjectorIdempotentAction

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSectionsDimZero
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PHilbFnValueSpan
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.PCoordCurveAlgebraic

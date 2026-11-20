@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.StatementTC
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Finset Filter Topology Formalism.FourierDecayAlt Formalism.FourierDecayAlt.TC
 open scoped ComplexInnerProductSpace ComplexOrder ComplexConjugate

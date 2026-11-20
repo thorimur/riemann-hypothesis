@@ -1,6 +1,6 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.ConeSectionRestriction.GeoDefs
 import GroundTheory.ArithmeticGeometry.ModularCurves.WeierstrassGenus
+import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.ConeSectionRestriction.SeamDefs
 
 set_option autoImplicit false
 set_option backward.isDefEq.respectTransparency false

@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.PAdicHodge.NormalizedTrace
 import GroundTheory.PAdicHodge.CyclotomicField
+import GroundTheory.PAdicHodge.GaloisOnCp
+import Mathlib.Algebra.Order.Ring.Star
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.PAdicHodge

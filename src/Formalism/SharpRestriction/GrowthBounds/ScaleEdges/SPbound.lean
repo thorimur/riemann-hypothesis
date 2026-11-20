@@ -1,5 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.SPtrueHom
-import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.GainBoundAt
+import Formalism.SharpRestriction.GrowthBounds.PathWeight.DvDegOtherMono
 
 noncomputable section
 

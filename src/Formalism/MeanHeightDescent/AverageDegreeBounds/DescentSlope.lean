@@ -1,11 +1,7 @@
-import Mathlib
 import Formalism.MeanHeightDescent.MuMaxMinkowski
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SizeIneq
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SizeMu
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.HtImage
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.DiscreteSpanOfLinIndep
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SatBasic
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.MuChar
 
 open Module NumberField
 

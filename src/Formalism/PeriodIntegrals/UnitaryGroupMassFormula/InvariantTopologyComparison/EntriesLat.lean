@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.AdBridgeSteps
+import Formalism.LocalToGlobal.SiegelLatticeTheory.FundamentalEquivalence.AdBridge
 
 noncomputable section
 

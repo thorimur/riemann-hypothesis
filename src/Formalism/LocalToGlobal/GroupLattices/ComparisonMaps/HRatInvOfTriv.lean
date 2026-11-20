@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.MRatSpanOfWeak
+import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.MRatSpanOf
 
 open MvPolynomial
 

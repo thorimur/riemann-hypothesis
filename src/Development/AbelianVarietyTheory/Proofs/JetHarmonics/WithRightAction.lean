@@ -1,8 +1,5 @@
-import Mathlib
-import Formalism.HermitianCurvature.RealInputsClosedAdmissibleSettings
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsPlaceWithVectors
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.InvariantOperatorUnderJacquet
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.QNFAsm
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.TLFinal
 
 open Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

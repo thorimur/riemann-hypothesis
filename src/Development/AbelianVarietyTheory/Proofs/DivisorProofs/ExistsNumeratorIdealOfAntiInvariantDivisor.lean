@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.ThClass
 open NumberField IsDedekindDomain Formalism.L2.Pj
 open scoped nonZeroDivisors

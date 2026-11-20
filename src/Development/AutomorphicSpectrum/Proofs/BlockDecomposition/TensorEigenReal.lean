@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.FrameReading.CosetCount
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
 
 open scoped TensorProduct
 

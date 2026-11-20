@@ -1,6 +1,6 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.DividedPowerAlgebras.ExistsDividedPowersAug
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.DividedPowerAlgebras.FilIsSubDPIdeal
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 set_option autoImplicit false
 

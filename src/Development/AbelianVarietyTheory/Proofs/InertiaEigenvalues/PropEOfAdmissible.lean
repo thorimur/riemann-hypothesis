@@ -1,6 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.GaloisSideTwistedSelmerAuxiliaryPrimes
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ToNatAddValMul
+import Mathlib.Combinatorics.Nullstellensatz
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.RingTheory.LocalProperties.Reduced
 
 noncomputable section
 

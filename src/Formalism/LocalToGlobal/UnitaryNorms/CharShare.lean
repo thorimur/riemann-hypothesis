@@ -1,8 +1,5 @@
 import Formalism.LocalToGlobal.UnitaryNorms.CharTied
-import Formalism.LocalToGlobal.UnitaryNorms.CharRat
 import Formalism.LocalToGlobal.UnitaryNorms.RealPl
-import Formalism.FrobeniusOrbits.RealSubfieldLeCompositum
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 
 noncomputable section
 

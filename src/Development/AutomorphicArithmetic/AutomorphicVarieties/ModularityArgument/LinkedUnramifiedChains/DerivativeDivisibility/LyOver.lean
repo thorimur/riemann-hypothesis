@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.LinkedUnramifiedChains.DerivativeDivisibility.CmpPrime
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Polynomial
 

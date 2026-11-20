@@ -1,6 +1,6 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL4.ColAddGenCastSuccRename
 import Formalism.BranchSandwichDivisors.BranchIsometryProofs.XiNorm
 import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

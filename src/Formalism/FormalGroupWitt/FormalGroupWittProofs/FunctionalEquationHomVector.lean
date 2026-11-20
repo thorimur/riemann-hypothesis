@@ -1,6 +1,5 @@
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.SolveV
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.CoeffExpandEqZero
-import Formalism.FormalGroupWitt.FormalGroupWittProofs.CoeffV
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.InvIntV
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.FunctionalEquationSubstVector
 

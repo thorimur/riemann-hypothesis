@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.TrivFlagMod
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.Henselian
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace GlobalTheory.CompanionTheory.Ar.Num.QuotModel
 

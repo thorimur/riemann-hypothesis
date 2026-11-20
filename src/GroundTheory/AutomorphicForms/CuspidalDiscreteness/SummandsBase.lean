@@ -1,7 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspFormsDecay
 import GroundTheory.AutomorphicForms.CuspidalDiscreteness.Smoothing
-import GroundTheory.AutomorphicForms.GKModules.Garding
+import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspCompact
 
 open MeasureTheory Set Filter Topology Function
 

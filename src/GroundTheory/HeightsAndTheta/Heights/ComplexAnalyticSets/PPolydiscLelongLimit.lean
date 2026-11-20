@@ -1,9 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StPolydiscLelongLimit
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.ProjectiveLineZeroFormHolds
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.HessCRestrictThm
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.ContDiffOfContDiffOnZeroOff
-import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

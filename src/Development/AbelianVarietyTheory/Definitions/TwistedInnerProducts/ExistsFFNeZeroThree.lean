@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.HasConductorMulShift
 import Development.AbelianVarietyTheory.Definitions.Foundations.SecondCountableAndT2LocalField
+import Mathlib.Algebra.Order.Star.Real
 
 open ValuativeRel Matrix IsLocalRing
 open scoped Pointwise

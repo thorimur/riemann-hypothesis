@@ -1,9 +1,7 @@
 import Formalism.LocalToGlobal.InertKernelTheory.DefsMMCoord
-import Formalism.LocalToGlobal.InertKernelTheory.DefsMM
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.PowerSeriesEmbedding
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.IntTens
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.IsAdmissibleFlagPairOfUnitriangularLeftAutomorph
-import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.QuadraticSemicharacterIdentityReformulated2
 
 noncomputable section
 

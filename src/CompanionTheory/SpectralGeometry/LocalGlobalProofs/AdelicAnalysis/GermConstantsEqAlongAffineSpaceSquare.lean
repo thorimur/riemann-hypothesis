@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.UnipotentAdelicQuotients.SWXSDefs
-import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GenusMassVolumes
+import Mathlib.Tactic.ENatToNat
 
 open MeasureTheory Topology Matrix
 open scoped ENNReal NNReal

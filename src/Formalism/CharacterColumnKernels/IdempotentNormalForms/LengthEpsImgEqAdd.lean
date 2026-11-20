@@ -1,4 +1,3 @@
-import Formalism.CharacterColumnKernels.Statement
 import Formalism.CharacterColumnKernels.StatementMF
 
 noncomputable section

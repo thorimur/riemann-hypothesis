@@ -1,12 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LatAtLattice
-import Formalism.LocalToGlobal.Columns.KOneCharacterTrivialNearOne
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ProdAbsNormDivsDvd
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsTwIffCanonEq
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsOkPins
 import Formalism.LocalToGlobal.Columns.ChainTwKer
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.InertAtLeCongN
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FinAfMemIntUIff
 
 noncomputable section
 namespace GlobalTheory.Mem.Col2.TC.TwModel

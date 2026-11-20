@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.DatumLemmas
 import Formalism.LocalToGlobal.IndefiniteReal.PHeisThA
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.StdCharExists
 
 noncomputable section
 

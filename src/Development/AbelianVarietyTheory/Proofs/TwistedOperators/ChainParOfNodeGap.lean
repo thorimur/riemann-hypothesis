@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.LocalRingCardinality.HeightBoundGeFourthPowerRank
-import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.IsStepWeil
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.HermitianParamOppositeSignEntriesDistGeGap
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ChainParIffStepGap
 
 noncomputable section
 

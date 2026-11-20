@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.DeterminantCokernelCount.JetMomTA
 
 noncomputable section

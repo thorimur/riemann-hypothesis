@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ConjSymm
 open NumberField ReciprocityTheory.GeometryOfNumbersTheory
 

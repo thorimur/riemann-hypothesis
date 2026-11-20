@@ -1,4 +1,6 @@
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.ZetaEulerProducts.MeromorphicAtProd
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Filter Topology Complex NumberField IsDedekindDomain
 

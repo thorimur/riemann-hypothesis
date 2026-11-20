@@ -1,4 +1,9 @@
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.EigenvalueSeparation.AlmostEverywhereEigen.OneStepOf
+import Mathlib.MeasureTheory.Function.ContinuousMapDense
+import Mathlib.MeasureTheory.Function.Holder
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Compactness.Paracompact
+import Mathlib.Topology.Sheaves.Presheaf
 
 open PositivityTheory.Rg.BcB.E1 PositivityTheory.Rg.BcB.E2
 

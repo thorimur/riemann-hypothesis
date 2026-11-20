@@ -1,5 +1,9 @@
 import Formalism.LagrangeIdealLifts.Statement
 import Formalism.WindowSums.AnnihilatorPolynomials.ZpowVal
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestTop
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutCaseCompare
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutCaseDecomp

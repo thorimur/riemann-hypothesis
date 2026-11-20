@@ -1,10 +1,5 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.CurveDivisors
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.CurveProper
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.WeilDivisorTensor
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.WeilDivisorInvertible
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.WeilDivisorPicard
-import GroundTheory.FunctionField.DivisorDegree
 import GroundTheory.FunctionField.WeilDifferential
 
 open CategoryTheory AlgebraicGeometry Order Topology Module MonoidalCategory

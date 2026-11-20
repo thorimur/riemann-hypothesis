@@ -1,10 +1,7 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.RatHermLcvTwist
-import Formalism.QuotientMetricDivisors.DualMu
-import Formalism.QuotientMetricDivisors.StatementK
-import Formalism.QuotientMetricDivisors.TheoremDivIneqRows
 import Formalism.QuotientMetricDivisors.TheoremDivIneqRowsShift
 import Formalism.MirabolicMackeyTheory.StatementT
+import Formalism.HarderNarasimhan.QuotRealize
 
 open Module NumberField IsDedekindDomain Finset
 open scoped Matrix ComplexOrder

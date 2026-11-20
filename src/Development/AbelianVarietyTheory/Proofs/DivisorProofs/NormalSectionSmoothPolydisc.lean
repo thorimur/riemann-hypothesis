@@ -1,10 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ModelDdcForms
 import ReciprocityTheory.AnalyticForms.PotentialTheory.PLCurveA
 import ReciprocityTheory.AnalyticForms.PotentialTheory.AtlasIndep
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HolomorphicVanishingDivisibleCoordStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InverseMapCoordDerivativeNeZeroStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalSmoothPotentialGlueStatement
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 open ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M GlobalTheory.IndefiniteRowSideFullHecke.ModelDdcForms MeasureTheory Filter Topology
 open scoped ContDiff

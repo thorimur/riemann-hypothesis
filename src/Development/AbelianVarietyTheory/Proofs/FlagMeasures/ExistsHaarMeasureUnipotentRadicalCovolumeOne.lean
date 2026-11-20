@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.Measures
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.T2SpaceGeneralLinearGroup
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.NsubCocompact
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.FundamentalDomainCovol

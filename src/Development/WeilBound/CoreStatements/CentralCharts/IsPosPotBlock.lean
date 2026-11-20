@@ -1,6 +1,4 @@
-import Development.WeilBound.CoreStatements.CentralCharts.PshAt0
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.LogResolutionFubiniStudyPositive
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.HolomorphicAtlasCoordCompatStatement
 
 noncomputable section
 

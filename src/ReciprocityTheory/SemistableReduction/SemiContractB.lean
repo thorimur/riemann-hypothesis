@@ -1,5 +1,8 @@
 import ReciprocityTheory.SemistableReduction.LatSemiSt
-import ReciprocityTheory.SemistableReduction.SemiContractA
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace ReciprocityTheory.MultiplicativeHeights
 

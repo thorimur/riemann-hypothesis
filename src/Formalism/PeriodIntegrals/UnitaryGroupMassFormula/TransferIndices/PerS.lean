@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TransferIndices.TraceMemOfIntR
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TransferIndices.AsAlgebraHomMemSpan
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.IdDeg
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsTerBis
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsLocRingDimOne

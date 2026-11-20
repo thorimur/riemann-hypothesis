@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.TopPin
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.KerHypAll
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.FormsPin
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.XiEntryStab
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.XiCpl1Stab

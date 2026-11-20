@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.ColumnData.KerEntHyp
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.PeriodLatticeFinitelyGenerated
-import Formalism.LocalRingCardinality.CoeNeZeroOfNotMem
 
 open NumberField Formalism.BasicNotions Classical
 

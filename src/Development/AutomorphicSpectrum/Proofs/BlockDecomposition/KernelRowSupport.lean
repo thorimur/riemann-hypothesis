@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FactorRapid
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 noncomputable section
 

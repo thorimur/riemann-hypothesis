@@ -1,4 +1,3 @@
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.HtDefs
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.HeightDecompositionLocalTerms
 
 namespace ReciprocityTheory.ChartRestriction.G.T0

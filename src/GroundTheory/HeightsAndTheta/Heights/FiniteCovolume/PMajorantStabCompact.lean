@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsMajorantStabCompact
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PBoundedInverseCompact
 

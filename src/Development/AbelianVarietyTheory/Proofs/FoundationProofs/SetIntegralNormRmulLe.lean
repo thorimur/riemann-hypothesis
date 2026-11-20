@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.AestronglyMeasurableQuotMeasureIffLift
+import Mathlib.MeasureTheory.Function.AEEqOfIntegral
 
 open MeasureTheory Filter Set GlobalTheory.AutomorphicL2Unitary
 open scoped InnerProductSpace ENNReal

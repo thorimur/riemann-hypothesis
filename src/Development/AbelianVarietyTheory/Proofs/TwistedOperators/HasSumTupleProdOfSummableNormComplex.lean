@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.IsHilbertSchmidtOfFiniteDimensional
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.SplitHeightSummableExpNegAbs
+import Mathlib.Analysis.CStarAlgebra.Classes
 open scoped InnerProductSpace
 
 namespace GlobalTheory

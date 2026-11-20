@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsValuativeCentre
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMChartDehomog
 set_option maxSynthPendingDepth 1

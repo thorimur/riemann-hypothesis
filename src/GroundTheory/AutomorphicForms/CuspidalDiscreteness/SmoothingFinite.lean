@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.CuspidalDiscreteness.Smoothing
+import Mathlib.Topology.Algebra.ClopenNhdofOne
 
 open MeasureTheory Set Filter Topology Function
 open NumberField IsDedekindDomain

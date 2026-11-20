@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.RowSideTie
 
 open Module NumberField IsDedekindDomain

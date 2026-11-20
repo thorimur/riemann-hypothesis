@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.FirstChernLeviEqConstant
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MixedIntegralTailBoundExistsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MixedIntegralContinuityEstimateStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TopIntersectionDifferenceFormula

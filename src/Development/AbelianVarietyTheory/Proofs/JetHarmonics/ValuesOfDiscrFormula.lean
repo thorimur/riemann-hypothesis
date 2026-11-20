@@ -1,7 +1,4 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.DiffAtOddSt
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.RelativeDifferentValues
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuadraticFieldDiscPrimeThreeModFour
 
 open NumberField IsDedekindDomain UniqueFactorizationMonoid IntermediateField
 open ReciprocityTheory.ChartRestriction.G.PullbackSections GlobalTheory.IndefiniteRowSideFullHecke.RelativeDifferentValues

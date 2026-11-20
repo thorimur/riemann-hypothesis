@@ -1,4 +1,3 @@
-import ReciprocityTheory.L2DbarEstimates.LeviForms.BergmanExistsStatement
 import Lemmata.DetMonotoneStarMulSelf.OneLeReDetOneAdd
 
 namespace ReciprocityTheory.L2DbarEstimates.I

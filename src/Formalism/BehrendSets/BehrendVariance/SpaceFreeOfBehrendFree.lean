@@ -1,6 +1,8 @@
 import Formalism.BehrendSets.StatementE
-import Mathlib
 import Formalism.BehrendSets.BehrendVariance.MulAbsSubLt
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
 
 open Finset Real
 

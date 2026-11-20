@@ -1,5 +1,6 @@
 import ReciprocityTheory.L2DbarEstimates.SkodaWeights.Matrix
 import ReciprocityTheory.L2DbarEstimates.LeviForms.OfRealNormSqSumMul
+import Mathlib.Analysis.InnerProductSpace.Calculus
 
 open Complex ComplexConjugate Filter Topology Matrix
 

@@ -1,7 +1,5 @@
-import Formalism.GaussJetBounds.OneLetterGaussJets.TheoremATwoFormsOfEntry
 import Formalism.GaussJetBounds.OneLetterGaussJets.OneLetterGaussProofs.CompanionTheory
 import Formalism.GaussJetBounds.OneLetterGaussJets.OneLetterGaussProofs.OneLetterUnramifiedBound
-import Formalism.GaussJetBounds.OneLetterGaussJets.SizesRows7
 
 universe u v w
 

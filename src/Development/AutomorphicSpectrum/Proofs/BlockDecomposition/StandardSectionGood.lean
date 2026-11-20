@@ -1,6 +1,4 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.EisensteinSeries.SiegelEisensteinContinuation.IsEpCont
-import GroundTheory.AutomorphicForms.ReductionIwasawa
 
 noncomputable section
 

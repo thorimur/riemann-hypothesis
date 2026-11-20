@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.GlobalTheory.CoordinateLengths.IsCrdExists
-import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocGlob
 
 noncomputable section
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsSMulRegularNatCast
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LatAtOmPHtEval
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsHTLatOf
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FlgOfFlagClSpec

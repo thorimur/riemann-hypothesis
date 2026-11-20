@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.TwGood
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.GaloisSideTwistedSelmerAuxiliaryPrimes
 
 noncomputable section
 

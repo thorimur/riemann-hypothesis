@@ -1,6 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.MembAlgF
-import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.MembLabF
-import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.Proposition5OfThreeParts
+import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.MembDefs
+import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.NoMonMultideg
 
 noncomputable section
 

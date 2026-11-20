@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HeckeTateFunctionalEquationCM
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaussUnitsNormSq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemPowOfPsiAtTrivial
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIntWitness

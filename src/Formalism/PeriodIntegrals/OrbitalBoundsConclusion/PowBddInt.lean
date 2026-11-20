@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.PowBddInt
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.PowerBoundedIntegrality.Imports
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.PowerBoundedIntegrality.EvalIntMapEqZero
 

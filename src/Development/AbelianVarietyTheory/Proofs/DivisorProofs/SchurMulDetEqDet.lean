@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsAddHaarMeasureVolumeLie
 import Formalism.ArtinHasse.ArtinHasseProofs.SymmSeries
 

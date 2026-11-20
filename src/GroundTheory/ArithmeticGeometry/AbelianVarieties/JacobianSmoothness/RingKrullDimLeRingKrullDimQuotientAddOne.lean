@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.ToricVarieties.Dimension
+import Mathlib.Algebra.MvPolynomial.NoZeroDivisors
+import Mathlib.RingTheory.IntegralClosure.GoingDown
 
 namespace GroundTheory.Arith.Abelian.Jacobian
 

@@ -1,6 +1,5 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MirabolicDerivatives.LeibnizDerivatives.GenericProdIff
-import GroundTheory.AutomorphicForms.GeometricLemmaCells
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NonemptyEquivMultiProdOne
+import GroundTheory.AutomorphicForms.FiniteBruhat
 
 noncomputable section
 

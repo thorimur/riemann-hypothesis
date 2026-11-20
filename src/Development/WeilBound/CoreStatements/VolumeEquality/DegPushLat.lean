@@ -1,9 +1,6 @@
 import Development.WeilBound.CoreStatements.VolumeEquality.DegPushDefs
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.CmTypeLatticeComparison
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ConstantsCompatibleGeneric
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsConstantsGenericPointStatement
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptInteriorGenericStatement
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LieModelDominantHodgeStatement
+import Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLatticeConstantRank
 
 noncomputable section
 

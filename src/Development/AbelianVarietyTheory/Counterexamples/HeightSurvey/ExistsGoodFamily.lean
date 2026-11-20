@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.BesselHermitianTheta.TiedDef
+import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 
 noncomputable section
 

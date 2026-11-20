@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.FactorsLEOfFintype
+import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.NLeDAll
 
 noncomputable section
 

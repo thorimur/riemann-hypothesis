@@ -1,6 +1,6 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.FaceDSingle
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.MapNsmul
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.Shapiro
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 open CategoryTheory UpperTheory.V.KH
 

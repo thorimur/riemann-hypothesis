@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsSchwartzTranslate
 import GroundTheory.GlobalFields.TateThesis.GaussianSchwartz
+import Mathlib.Analysis.Fourier.Inversion
 open GlobalTheory.RealWeil MeasureTheory
 open scoped SchwartzMap
 

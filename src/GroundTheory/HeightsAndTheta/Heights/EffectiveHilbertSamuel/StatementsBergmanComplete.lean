@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.InhabitantsExtDelta
+import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.Objects
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.EffectiveHS

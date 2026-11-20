@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.RingDataOfCrystalline
+import Formalism.SharpRestriction.LevelLetterCocycles.ArcLiftingSetup
 
 noncomputable section
 

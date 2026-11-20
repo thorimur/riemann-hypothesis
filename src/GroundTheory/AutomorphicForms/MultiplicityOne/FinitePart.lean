@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.MultiplicityOne.FiniteFactor
 import GroundTheory.AutomorphicForms.SmoothRep
 

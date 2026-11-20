@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.ArithmeticCylinders
 import Formalism.LocalRingCardinality.DataTies
 import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.BlockRootsCuspidal

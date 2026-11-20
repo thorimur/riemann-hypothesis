@@ -1,6 +1,6 @@
 import CompanionTheory.HarishChandraModules.LowKTypeMultiplicity.EigenspaceCyclicDensity.LowKMultOneP
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.KummerLiftedCocycleImageEqPicardClass
-import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.WordMonomial
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Finset MvPolynomial
 open scoped TensorProduct

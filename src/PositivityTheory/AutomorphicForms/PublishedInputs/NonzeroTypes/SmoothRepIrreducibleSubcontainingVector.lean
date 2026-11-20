@@ -1,4 +1,6 @@
-import PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.KIface
+import Development.AbelianVarietyTheory.Definitions.Foundations.SmoothPartStable
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RepresentationTheory.Irreducible
 
 noncomputable section
 

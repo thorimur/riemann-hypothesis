@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.PoitouTateNormalised
+import ReciprocityTheory.Hypotheses.GalCoh
 
 noncomputable section
 

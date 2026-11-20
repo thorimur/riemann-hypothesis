@@ -1,4 +1,5 @@
 import Formalism.GradedWeylDivisibility.StatementC
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MvPolynomial Finset
 

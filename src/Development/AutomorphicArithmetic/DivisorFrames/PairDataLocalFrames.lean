@@ -1,10 +1,8 @@
-import Development.AutomorphicArithmetic.LocalEmbeddings.RootFrame
-import Development.AutomorphicArithmetic.DivisorFrames.ValuationRegularFunctionAtPoint
 import Development.AutomorphicArithmetic.DivisorFrames.SideDataNonunitOnChart
 import Development.AutomorphicArithmetic.DivisorFrames.SideDataGoodOnOpen
 import Development.AutomorphicArithmetic.DivisorFrames.JoinedMatrixDetValuationOne
 import Development.AutomorphicArithmetic.DivisorFrames.JoinedMatricesValuationCompare
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsAlgebraicPointSpecializingStatement
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocFrames
 open CategoryTheory AlgebraicGeometry NumberField IsDedekindDomain ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open Formalism.BasicNotions Formalism.L2.Pj GlobalTheory GlobalTheory.Cartier GlobalTheory.ProjVar GlobalTheory.TrueGeo GlobalTheory.Mean4O GlobalTheory.ShFam GlobalTheory.ShFam.Pad GlobalTheory.TrivFlag GlobalTheory.LineNorm
 open Formalism.MainNotions.DIV.Cons (intO)

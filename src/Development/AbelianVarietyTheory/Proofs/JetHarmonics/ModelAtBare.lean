@@ -1,9 +1,9 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.UnifAt
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.LawsProved
 import Development.AbelianVarietyTheory.Counterexamples.ModuliSurvey.PremisesOfProper
 import Development.AbelianVarietyTheory.Proofs.GenericRegularity.ExistsAlgebraMapEqOfValVLeOne
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.UniformizationClosedSplit
+import Formalism.LocalToGlobal.ProjectiveLattices.RealPtGeo
 
 set_option autoImplicit false
 

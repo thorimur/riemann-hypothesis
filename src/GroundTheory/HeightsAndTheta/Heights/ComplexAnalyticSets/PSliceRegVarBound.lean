@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceRegVarBound
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFormIntPos
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSheetLogNormDens
 set_option maxSynthPendingDepth 1
 

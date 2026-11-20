@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.PhSchurConv
 
 noncomputable section

@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ESecToUnit
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.JetPointZeroEqOne
 
 set_option autoImplicit false
 

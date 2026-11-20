@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ScalesBy
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemFrameStabOfParFlag
 open scoped TensorProduct NNReal ENNReal Matrix

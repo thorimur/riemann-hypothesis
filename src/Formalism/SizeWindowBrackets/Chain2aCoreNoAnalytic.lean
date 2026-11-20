@@ -1,7 +1,9 @@
 import Formalism.SizeWindowBrackets.SChain
-import Formalism.SizeWindowBrackets.SlopeHypothesesRounded
 import Formalism.SizeWindowBrackets.GaloisToProductIsIso
 import Formalism.SizeWindowBrackets.WindowSettingSatisfiable
+import Formalism.SizeWindowBrackets.ClaimGaFree
+import Formalism.SizeWindowBrackets.FrameTraceRatioFinEquiv
+import Mathlib.RingTheory.TotallySplit
 
 open Module NumberField Matrix
 open Formalism.HN

@@ -1,4 +1,4 @@
-import Development.WeilBound.CoreStatements.CrystallinePeriodRings.ExistsMapEqOfPowMul
+import Development.WeilBound.CoreStatements.CrystallinePeriodRings.InstCommRingBcris
 
 noncomputable section
 

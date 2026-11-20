@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RatVInjective
 import GroundTheory.AutomorphicForms.AnisotropicUnitaryCompact
-import CompanionTheory.AutomorphicTheory.SiegelWeilFiniteness.Bridge
+import GroundTheory.AutomorphicForms.HermitianOrthogonal
 
 set_option linter.unusedSectionVars false
 set_option maxSynthPendingDepth 1

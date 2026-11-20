@@ -1,6 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.WeightFunctionOnFrames
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.CuspidalExponentialDecay
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.NmatZeroMemBor
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.NormLeOfDet
 

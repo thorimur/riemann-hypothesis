@@ -1,8 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.DatumFock
 import Formalism.LocalToGlobal.IndefiniteReal.DatumVec
-import Formalism.LocalToGlobal.BesselHermitianTheta.TiedSmooth
-import Formalism.RealPlaceAnalysis.FockPairGl
-import Formalism.LocalToGlobal.BesselHermitianTheta.LemmasSign
 
 noncomputable section
 

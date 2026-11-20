@@ -1,7 +1,6 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertPowDefs
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertQRG
 import Formalism.LocalRingCardinality.SpanPowerMembership.LocAtA
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.Hensel
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 

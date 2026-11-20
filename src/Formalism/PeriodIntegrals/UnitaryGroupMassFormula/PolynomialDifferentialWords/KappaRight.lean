@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.GrowthBounds.DualFockLinear.OpBound
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 open MvPolynomial
 

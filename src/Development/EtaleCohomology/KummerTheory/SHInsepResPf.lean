@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.KummerTheory.SHInsepPf
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 open scoped TensorProduct

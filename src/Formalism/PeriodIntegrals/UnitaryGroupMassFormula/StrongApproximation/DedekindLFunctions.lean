@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.StrongApproxE
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StrongApproximation.LocSmall
 import Lemmata.Cancellation.EnnrealVolumeRatioStepCancel
 

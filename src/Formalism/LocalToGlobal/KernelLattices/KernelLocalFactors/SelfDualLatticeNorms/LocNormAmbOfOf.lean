@@ -1,7 +1,7 @@
 import Formalism.LocalToGlobal.KernelLattices.KerStd
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.IsAdmissibleFlagPairOfUnitriangularLeftAutomorph
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.StdOK
 import Formalism.LocalToGlobal.GlobalTheory.GL3.LinkThetaStatementFamily
+import Formalism.LocalToGlobal.AlgebraicTheory.StatementNorm
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

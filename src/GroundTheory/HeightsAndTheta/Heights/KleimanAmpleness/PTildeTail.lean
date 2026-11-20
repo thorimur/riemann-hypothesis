@@ -1,7 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.Statements
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsTildeTail
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTildeTailLoc
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.PiTensorProduct
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

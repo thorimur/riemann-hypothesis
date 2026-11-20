@@ -1,9 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StLocRingInj
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PLocRingLocal
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PLocRingFrac
 import GroundTheory.HeightsAndTheta.Heights.Intersections.LogCardLocIdealUnitMul
-import GroundTheory.HeightsAndTheta.Heights.Intersections.AvoidRing
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Inter

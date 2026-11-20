@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.DCRelEquiv
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RelativeEquivalence.DCRelEquivAllHolds
 
 attribute [local instance] Formalism.BasicNotions.Host.cmStar

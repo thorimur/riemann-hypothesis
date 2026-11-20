@@ -1,9 +1,10 @@
-import Mathlib
-import Formalism.DegreeFormula.FlagDegFormula
 import Formalism.DegreeFormula.PointDegree.PowSum
 import Formalism.DegreeFormula.PointDegree.PermExpInj
 import Development.AbelianVarietyTheory.Definitions.Foundations.CurveCl
 import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.CompactGapsGE
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

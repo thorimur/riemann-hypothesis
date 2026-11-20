@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.PairingIndexBounds.RowActionCoefficients.WeylComplementInDetCoeffSpan
+import Mathlib.Order.Interval.Finset.Box
 
 open MvPolynomial
 

@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.EtaleSheaves.LeafExcRingOf
+import Development.EtaleCohomology.EtaleSheaves.LeafExcRingPf
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite

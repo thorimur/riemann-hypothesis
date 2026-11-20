@@ -1,6 +1,4 @@
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.SchurStep
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.BlockDeterminants.Decomp
-import Development.WeilBound.ThetaLifts.LatticeBasics.CommuteTheta
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.MeasurableSetIntF
 
 noncomputable section

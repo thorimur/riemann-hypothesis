@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.TraceFormulaEigenvalues.IsGenEig
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace UpperTheory.V.Z.Sym.Tf
 

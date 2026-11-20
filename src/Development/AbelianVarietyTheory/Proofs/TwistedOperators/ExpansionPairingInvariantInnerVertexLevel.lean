@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ColMapEqColMapV
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.FockCompTranslate
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.VecIsThetaFunOAlt
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairVEqOfProdFunEq

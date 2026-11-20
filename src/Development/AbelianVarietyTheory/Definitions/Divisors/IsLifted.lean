@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsFlatLift
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsEulerContraction
 

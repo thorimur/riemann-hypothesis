@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.MaxWeightGL1EqOne
 
 namespace GlobalTheory.FinTrace

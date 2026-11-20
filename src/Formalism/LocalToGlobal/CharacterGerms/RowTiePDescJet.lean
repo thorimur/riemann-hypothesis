@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTieDesc
+import Formalism.LocalToGlobal.ProjectiveLattices.PlaceBelow
 
 set_option autoImplicit false
 

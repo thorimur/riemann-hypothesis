@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasLenOfLatLen
 
 open Formalism.UG GlobalTheory.SatakeWeyl GlobalTheory.InertZeta

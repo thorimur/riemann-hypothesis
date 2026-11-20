@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.SchurIrreducible
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Stdform
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementAB
 import Formalism.GaussJetBounds.GaussJetProofs.ConstantCoeffAevalLinP
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BiHomSum

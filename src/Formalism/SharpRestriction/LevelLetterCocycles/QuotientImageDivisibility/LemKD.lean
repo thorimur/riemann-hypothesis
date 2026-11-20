@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.SmulSZeroSplit
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.PtTransRec
-import Formalism.SharpRestriction.LevelLetterCocycles.WachFrobeniusLatticeUnramifiedFunctor
 import Formalism.SharpRestriction.LevelLetterCocycles.IsFracOL
 
 noncomputable section

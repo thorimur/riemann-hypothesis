@@ -1,5 +1,7 @@
 import Development.AbelianVarietyTheory.Definitions.Foundations.CobOn
-import Development.AbelianVarietyTheory.Definitions.Foundations.IsFirstChernClassOfLineBundle
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 open GlobalTheory.KEdge GlobalTheory.NeedB Polynomial
 
 namespace GlobalTheory.KEdge

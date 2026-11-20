@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.HarderNarasimhan.QuotRealize
+import Mathlib.RepresentationTheory.Irreducible
 
 open Module NumberField
 

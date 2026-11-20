@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.ZelevinskyJacquet.ZelevinskyInterleaving.Interleave
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Zc.Comb
 

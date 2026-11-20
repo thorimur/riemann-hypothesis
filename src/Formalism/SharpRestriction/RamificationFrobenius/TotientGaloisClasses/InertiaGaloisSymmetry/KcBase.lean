@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.DecompTypeI
-import Formalism.FrobeniusOrbits.HostCorollaries
+import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.NcardEqTwoIff
+import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.SplitK
 
 open NumberField IntermediateField Ideal
 open scoped Pointwise nonZeroDivisors

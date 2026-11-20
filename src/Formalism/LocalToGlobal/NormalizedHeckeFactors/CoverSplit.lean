@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.CoverAct
-import ReciprocityTheory.Automorphisms.SplitCoeAlgebraMap
 import ReciprocityTheory.Automorphisms.InstMainA
 import Formalism.LocalToGlobal.GlobalTheory.GL6.PSplitT
 

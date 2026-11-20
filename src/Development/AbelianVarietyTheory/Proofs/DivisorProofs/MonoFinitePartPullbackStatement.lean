@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MonoFinitePartPullback
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PtMapDualBCLeft
 
 set_option autoImplicit false
 

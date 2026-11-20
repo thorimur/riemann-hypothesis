@@ -1,4 +1,4 @@
-import ReciprocityTheory.DualLattices.NsmulKerZero
+import ReciprocityTheory.DualLattices.HtLinStatement
 
 noncomputable section
 

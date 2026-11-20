@@ -1,4 +1,7 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CentralCharacters.QdetMemAdjSub
+import Formalism.PeriodIntegrals.UpqRep
+import Formalism.RealPlaceAnalysis.Complexify
+import Mathlib.Analysis.Normed.Algebra.MatrixExponential
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

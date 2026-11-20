@@ -1,4 +1,10 @@
 import Formalism.SuccessiveMinima.DefsMink
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MeasureTheory Module Metric Set
 open scoped Pointwise ENNReal

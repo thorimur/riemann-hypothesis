@@ -1,7 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.CuspFrameWeights.SameKindIsometric
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.NcardAbsNormLePowPred
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsPositiveAdd
+import Formalism.HermitianLattices.StatementMass
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.Ideal.Norm.RelNorm
 
 open MeasureTheory NumberField Matrix Finset Formalism.MainNotions.S GlobalTheory.Count GlobalTheory.FlagMeas
 

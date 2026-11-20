@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IotaScalarOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffAddPPowMulLt
+import Mathlib.RingTheory.LocalProperties.Reduced
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.WittVector.DiscreteValuationRing
 open GlobalTheory.Sandwich GlobalTheory.IndefiniteRowSideFullHecke.SandwichMaps GlobalTheory.DetInv Matrix TensorProduct
 
 namespace GlobalTheory.LemY

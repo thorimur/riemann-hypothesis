@@ -1,4 +1,8 @@
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.StatementD
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.InvariantFactorPaths.L4
 

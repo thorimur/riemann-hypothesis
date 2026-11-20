@@ -1,6 +1,7 @@
-import Mathlib
 import Formalism.SharpRestriction.ParamsHeightRankConstant
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.OrderOfVanishing.Basic
 
 noncomputable section
 

@@ -1,6 +1,3 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.WaveSt
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsMultOfFintype
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WaveKernelCompositionStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ActEqSumOfKernel
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegralConvApplyEq

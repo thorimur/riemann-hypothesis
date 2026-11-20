@@ -1,5 +1,9 @@
-import Mathlib
 import Formalism.PeriodIntegrals.FinOrdAd
+import Formalism.PeriodIntegrals.AdCpctDen
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

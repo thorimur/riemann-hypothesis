@@ -1,8 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFTopForm
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutLemB
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutDomCutInt
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.TriangleInequalityAtPlace
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.DensityConstantOfParts
 
 namespace Formalism.FourierDecayAlt.P.CutBP.TDM
 

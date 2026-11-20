@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.KummerTheory.LocalIndexAtPlace
 import GroundTheory.GlobalFields.IdeleGroups.IndexProductFormula
 import GroundTheory.ProfiniteCohomology.KummerBasic

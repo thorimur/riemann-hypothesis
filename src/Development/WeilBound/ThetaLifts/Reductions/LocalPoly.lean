@@ -1,4 +1,5 @@
 import Development.WeilBound.ThetaLifts.CartanFactorisation.ExistsGreatestProperInvariantSubmoduleOfSide
+import Mathlib.LinearAlgebra.Eigenspace.Zero
 
 noncomputable section
 

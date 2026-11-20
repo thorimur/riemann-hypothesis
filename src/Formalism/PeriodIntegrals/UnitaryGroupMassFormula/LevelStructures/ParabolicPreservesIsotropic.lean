@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelStructures.LeviComp
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelStructures.LeviRat
 
 noncomputable section
 

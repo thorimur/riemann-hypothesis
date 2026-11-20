@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.IntegralityGoodReduction
 import Mathlib.Analysis.Calculus.ParametricIntervalIntegral
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

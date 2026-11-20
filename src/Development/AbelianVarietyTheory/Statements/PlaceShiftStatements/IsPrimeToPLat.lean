@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.TwoNeZeroClosure
 import Development.AbelianVarietyTheory.Definitions.Divisors.RedSurjective
 import Development.AbelianVarietyTheory.Definitions.Divisors.TorsionTowersOfDivisibleGroup
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.TwoWeightEqOneAddRoot
 
 set_option autoImplicit false
 

@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTConnGaugeC
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTConnGauge
 
 namespace Formalism.FourierDecayAlt.P.CutMP.Gauge.GC
 

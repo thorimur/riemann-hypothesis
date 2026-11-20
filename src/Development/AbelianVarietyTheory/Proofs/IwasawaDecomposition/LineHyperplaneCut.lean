@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HermitianTraceForms.IsLocallyConstantRankAtStalkEigenSub
+import Mathlib.LinearAlgebra.BilinearForm.Orthogonal
 
 open scoped TensorProduct
 open GlobalTheory.EigenSplit

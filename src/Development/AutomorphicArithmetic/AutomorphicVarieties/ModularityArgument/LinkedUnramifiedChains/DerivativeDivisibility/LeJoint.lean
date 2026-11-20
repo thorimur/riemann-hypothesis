@@ -2,6 +2,9 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument
 import Mathlib.LinearAlgebra.Eigenspace.Pi
 import Mathlib.LinearAlgebra.Eigenspace.Zero
 import Mathlib.LinearAlgebra.Charpoly.BaseChange
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
 
 open Polynomial TensorProduct
 

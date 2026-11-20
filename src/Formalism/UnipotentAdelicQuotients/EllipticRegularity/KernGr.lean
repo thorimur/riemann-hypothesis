@@ -1,5 +1,6 @@
-import Formalism.UnipotentAdelicQuotients.EllipticRegularity.KernDecay
-import Formalism.UnipotentAdelicQuotients.EllipticRegularity.KernDil
+import Formalism.UnipotentAdelicQuotients.EllReg
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace ZetaZeros.D.EllReg
 

@@ -1,8 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.HodgeTateLatticePointFinrankTateModule
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ExistsSeriesOfTorsionCharacters
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsAlgHomValuationSubring
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ExistsTateOfCharacter
+import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsUniqueIsWeilChar
 
 set_option autoImplicit false
 

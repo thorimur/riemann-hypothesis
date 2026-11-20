@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.UnipotentAdelicQuotients.SiegelSetsSL2Adelic
-import GroundTheory.AutomorphicForms.ReductionSiegel
 import GroundTheory.AutomorphicForms.ReductionSplitting
 set_option maxSynthPendingDepth 1
 

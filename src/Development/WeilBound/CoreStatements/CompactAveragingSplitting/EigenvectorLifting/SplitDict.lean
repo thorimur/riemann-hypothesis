@@ -1,5 +1,4 @@
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.SplitLoc
-import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.FinSplit
 import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.RightOnto
 
 noncomputable section

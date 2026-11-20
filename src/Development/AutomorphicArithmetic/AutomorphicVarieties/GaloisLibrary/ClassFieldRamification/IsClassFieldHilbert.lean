@@ -1,5 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.KummerTheory.Mk0IdMapCongr
-import GroundTheory.GlobalFields.ClassFieldConsequences.HilbertClassField
+import GroundTheory.GlobalFields.ClassFieldConsequences.TrivialModulus
 
 noncomputable section
 

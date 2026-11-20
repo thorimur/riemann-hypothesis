@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HalfFlag
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormsAtOfNorms
 
 set_option autoImplicit false
 

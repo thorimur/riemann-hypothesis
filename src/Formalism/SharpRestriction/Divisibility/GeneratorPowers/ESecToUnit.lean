@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.JetPointZeroEqOne
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CocycleProductThree
 
 set_option autoImplicit false
 

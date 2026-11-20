@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.IndefiniteReal.LinksExistW
 import Formalism.LocalToGlobal.IndefiniteReal.ZeroPartEigenvalueConvention
+import Formalism.LocalToGlobal.IndefiniteReal.LinksStage
 
 noncomputable section
 

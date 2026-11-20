@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.IsScaleStable
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PChowDegreePos
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.Assembly
 set_option maxSynthPendingDepth 1
 
 namespace GlobalTheory.CompanionTheory.Ar.Short.Crofton

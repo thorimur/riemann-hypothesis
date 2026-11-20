@@ -1,4 +1,3 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.DzTypeCut
 import Development.DiscreteGroups.GlobalIrreducibility.EigTranslate
 import Development.DiscreteGroups.GlobalIrreducibility.DzTame
@@ -7,7 +6,6 @@ import Development.DiscreteGroups.GlobalIrreducibility.ContinuousResI
 import Development.DiscreteGroups.GlobalIrreducibility.ExistsIneOfVEqOne
 import Development.DiscreteGroups.GlobalIrreducibility.DzIneEq
 import Development.DiscreteGroups.GlobalIrreducibility.DzApprox
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsFixedIff
 
 noncomputable section
 

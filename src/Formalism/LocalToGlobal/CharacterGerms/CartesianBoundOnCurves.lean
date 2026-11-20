@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.CharacterGerms.LatticeInclusionFormsInjective
-import Formalism.LocalToGlobal.CharacterGerms.ScaledSecondIntegral
 
 noncomputable section
 

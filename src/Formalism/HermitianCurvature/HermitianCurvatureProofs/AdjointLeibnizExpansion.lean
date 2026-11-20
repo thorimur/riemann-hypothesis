@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.JfExhaustOfAvgCutoff
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.PositiveOrbitOpen
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open Matrix MeasureTheory Filter Topology
 open scoped ContDiff

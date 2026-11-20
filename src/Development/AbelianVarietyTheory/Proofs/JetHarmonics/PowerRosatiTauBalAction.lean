@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GPowPf
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.BoxRosati
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.BoxTauBalOfLinear
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.PowOActOfGlobalFns

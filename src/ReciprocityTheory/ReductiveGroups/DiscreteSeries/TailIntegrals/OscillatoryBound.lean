@@ -1,6 +1,7 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.ExponentConditionNeg
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.RhoMulStar
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.RhoSqNonneg
+import Mathlib.MeasureTheory.Order.Group.Lattice
 
 noncomputable section
 

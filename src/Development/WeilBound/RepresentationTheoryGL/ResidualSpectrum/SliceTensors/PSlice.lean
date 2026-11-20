@@ -1,5 +1,6 @@
 import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.SliceTensors.PSliceE
 import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.SliceTensors.PSliceF
+import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.SliceTensors.PSliceD
 
 noncomputable section
 

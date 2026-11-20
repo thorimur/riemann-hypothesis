@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TieTrJ
 import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.FullTiedCBase
+import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TieTrF
 
 noncomputable section
 

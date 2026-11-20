@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.ToricVarieties.Affine
 set_option maxSynthPendingDepth 1
 

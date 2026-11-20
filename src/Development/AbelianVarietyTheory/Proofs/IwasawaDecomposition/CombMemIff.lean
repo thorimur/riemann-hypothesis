@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IncreasingRowChoicePerColumn
+import Development.AbelianVarietyTheory.Proofs.SatakeParameters.DualWeylEqSpanColProd
+import Formalism.UnipotentAdelicQuotients.WeylLatDual
 
 open MvPolynomial
 

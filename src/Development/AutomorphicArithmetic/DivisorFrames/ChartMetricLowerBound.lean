@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsHolAdapted
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExponentialControlUniformDelta
+import Development.AbelianVarietyTheory.Definitions.Divisors.KernelSt
 open NumberField Formalism.BasicNotions Formalism.MainNotions ReciprocityTheory.GeometryOfNumbersTheory GlobalTheory.CovTop GlobalTheory.CovHt GlobalTheory.Mean4 GlobalTheory.Mean4O GlobalTheory.LieHt GlobalTheory.HeightParts
 open CategoryTheory AlgebraicGeometry GlobalTheory.CxPts GlobalTheory.ShFam GlobalTheory.ShFam.Pad GlobalTheory.TrueGeo
 open GlobalTheory.MatDeriv GlobalTheory.GradedNorm Matrix

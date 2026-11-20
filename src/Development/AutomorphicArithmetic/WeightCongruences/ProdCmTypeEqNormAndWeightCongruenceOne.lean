@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataHost
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.HostFacts
 import Development.AutomorphicArithmetic.WeightCongruences.ProdNegOneZpow

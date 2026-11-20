@@ -1,16 +1,11 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.WeakCharacterisationWithError
 import Formalism.LocalToGlobal.IndefiniteReal.BaseLiftsPackageOfPrimitiveLinks
 import Formalism.LocalToGlobal.IndefiniteReal.BridgeSeed
 import Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.NormalFrameClauses
 import Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.SignsG
-import Formalism.LocalToGlobal.IndefiniteReal.ThetaFireRow
-import Formalism.LocalToGlobal.IndefiniteReal.PartsRow
-import Formalism.LocalToGlobal.IndefiniteReal.CutTuples2
 import Formalism.LocalToGlobal.Divisibility.PsiWeilOfAbsNorm
 import Formalism.LocalToGlobal.HilbertRowConditions.CenterIdempotentAction
-import ReciprocityTheory.Automorphisms.Unitary
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.JEvExists
+import Formalism.LocalToGlobal.IndefiniteReal.IsMultMapUnivZero
 
 noncomputable section
 

@@ -1,10 +1,9 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OfGroupPullbackDataBase
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExtCoverStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsGlueDataStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GlueWitStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalRepUniversalStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomFixRepOfUniversalStatement
+import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IsRepresentableOfCover
 
 set_option autoImplicit false
 noncomputable section

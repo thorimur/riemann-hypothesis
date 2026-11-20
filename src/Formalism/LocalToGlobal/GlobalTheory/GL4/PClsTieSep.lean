@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL4.Statement
+import Formalism.LocalToGlobal.HermitianColumns.InLocalDiscriminantKernel
 
 noncomputable section
 

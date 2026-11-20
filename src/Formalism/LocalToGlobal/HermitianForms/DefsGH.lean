@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.HermitianForms.DefsSym
+import Formalism.LocalToGlobal.HermitianForms.PsiZeroNontrivialCharacter
 
 noncomputable section
 

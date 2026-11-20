@@ -1,8 +1,7 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.CrystallineLiftingInputs
 import Formalism.JumpKernelCokernel.LengthTheoremsWithEarlier
 import Formalism.SharpRestriction.LevelLetterCocycles.ExistsPosConstLagrangeCondition
-import Formalism.GaussValuationBounds.NokLemmaCVal
+import Formalism.GaussValuationBounds.GaussValueContraction.GaussValueContractionProofFactBis
 
 noncomputable section
 

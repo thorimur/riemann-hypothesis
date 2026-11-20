@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.TateCohomology.CupTate
-import GroundTheory.TateCohomology.DimensionShift
 set_option maxSynthPendingDepth 1
 
 open CategoryTheory MonoidalCategory

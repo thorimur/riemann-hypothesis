@@ -1,6 +1,4 @@
-import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.SliceTensors.PProjA
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsUnipLevIntegral
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GenericFiniteByInduction
 
 noncomputable section
 

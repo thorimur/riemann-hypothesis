@@ -1,5 +1,4 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.GlobalTraceComparison.StableBlock
-import Mathlib.Analysis.CStarAlgebra.GelfandDuality
 
 namespace UpperTheory.V.Z.Tf.GlobalTraceComparison
 

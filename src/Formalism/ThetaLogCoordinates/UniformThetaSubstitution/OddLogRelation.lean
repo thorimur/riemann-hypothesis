@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.GaussJetBounds.Statement
 
 noncomputable section

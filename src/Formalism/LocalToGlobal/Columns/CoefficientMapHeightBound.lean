@@ -1,7 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.StandardDeltaIntegralCoeffs
-import Formalism.LocalToGlobal.Columns.CoefficientsModP
 import Formalism.LocalToGlobal.LatticeGeometry.OperatorNormFibers.PDescentCutA
+import Formalism.LocalToGlobal.Columns.SummandSlopeOfThreeLemmas
 
 open NumberField IsDedekindDomain Module MvPolynomial
 open scoped Matrix ComplexOrder

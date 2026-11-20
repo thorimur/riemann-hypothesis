@@ -1,5 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormAevalSubLe
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.NumberTheory.Padics.PadicNumbers
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RepresentationTheory.Basic
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.DixmierMalliavinBasic
 import GroundTheory.AutomorphicForms.GKModules.SmoothVectors
+import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
 
 namespace GroundTheory.Automorphic
 

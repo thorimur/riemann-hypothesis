@@ -1,6 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KernelsLattice
-import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.DetIneq
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Module.Lattice
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

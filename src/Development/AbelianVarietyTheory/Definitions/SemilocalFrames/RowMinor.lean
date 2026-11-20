@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.CntPartners
-import Formalism.ThetaLiftIndependence.Statement
-import Formalism.FlagUnipotentLattices.CardSubmodulesAndLinearEquivBounds
 
 noncomputable section
 

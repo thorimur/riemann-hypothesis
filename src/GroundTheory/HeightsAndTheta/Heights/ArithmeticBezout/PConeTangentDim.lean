@@ -1,8 +1,8 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeTangentDim
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeKrullDimLe
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeTangentAverage
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StFrameJacobianGeneric
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StatementsArea
+import Mathlib.RingTheory.KrullDimension.NonZeroDivisors
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

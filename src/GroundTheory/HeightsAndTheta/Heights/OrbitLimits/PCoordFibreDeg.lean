@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.CoordFibreDeg
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.FibreMultiHomog
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.CoordRatioDeg

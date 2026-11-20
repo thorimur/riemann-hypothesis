@@ -1,5 +1,6 @@
 import Development.WeilBound.ThetaLifts.EigenvalueEndgame.OrthogonalDecomposition.QhtUnbdd
 import Development.WeilBound.ThetaLifts.CartanFactorisation.IntegrableOnRight
+import Development.WeilBound.ThetaLifts.LatticeBasics.ThConstLoc
 
 noncomputable section
 

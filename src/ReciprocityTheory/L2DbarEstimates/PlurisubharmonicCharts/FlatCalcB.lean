@@ -1,5 +1,7 @@
-import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FlatCalcA
-import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.ContinuousOnSec
+import Mathlib.Analysis.Calculus.InverseFunctionTheorem.ContDiff
+import Mathlib.Topology.Algebra.MvPolynomial
+import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.HoloSmooth
+import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FamilyLeCoords
 
 namespace ReciprocityTheory.L2DbarEstimates.Y
 

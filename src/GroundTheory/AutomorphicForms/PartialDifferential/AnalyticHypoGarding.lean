@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.PartialDifferential.AnalyticHypoBasic
 import GroundTheory.AutomorphicForms.PartialDifferential.AnalyticHypoCutoff
+import Mathlib.Analysis.Real.Pi.Bounds
 
 namespace GroundTheory.Automorphic.Sobolev
 

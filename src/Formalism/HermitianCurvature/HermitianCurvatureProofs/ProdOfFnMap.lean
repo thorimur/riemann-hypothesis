@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ToStdAppendBlk
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.RatioBound
 
 namespace Formalism.FourierDecayAlt.P.LiftDegreeLemmas
 

@@ -1,4 +1,3 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.DivisorSupportCondition
 import Development.EtaleCohomology.EtaleSheaves.EtaleBaseChangeFractionFieldIndEtaleOverPolynomi
 
 noncomputable section

@@ -5,8 +5,6 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCGenToQQ
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCFamLocal
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCSecMove
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TheSectionStab
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeGQLFam
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeGRawSmooth
 
 namespace Formalism.FourierDecayAlt.P.CutMP.Gauge.GC
 

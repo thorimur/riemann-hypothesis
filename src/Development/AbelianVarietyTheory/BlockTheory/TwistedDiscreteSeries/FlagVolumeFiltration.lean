@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.HasConductorMulShift
+import Mathlib.Order.CompletePartialOrder
 
 open MeasureTheory ValuativeRel Matrix IsLocalRing
 open scoped Pointwise NNReal ENNReal

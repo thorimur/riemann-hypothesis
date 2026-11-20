@@ -1,6 +1,4 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.LocalSystemQuotients.FlatL
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MapHCompEqSmul
 
 set_option autoImplicit false
 set_option backward.isDefEq.respectTransparency false

@@ -1,5 +1,3 @@
-import Development.WeilBound.CoreStatements.PlurisubharmonicCones.ExistsSmulMemOfEig
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ValuesOfFrame
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianPartIntegralPointAltBis
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.SemiabelianHomLieExtends
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LieModelExistsUniqueAct

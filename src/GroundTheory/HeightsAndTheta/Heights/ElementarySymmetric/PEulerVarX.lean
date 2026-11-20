@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CechHcEqCoh
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CohMkEqZero
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PKHCechDSq

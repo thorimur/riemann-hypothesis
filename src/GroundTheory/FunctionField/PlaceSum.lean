@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.FunctionField.PlaceAbove
 
 namespace GroundTheory.FunctionField

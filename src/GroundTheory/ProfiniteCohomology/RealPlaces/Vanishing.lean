@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.VanishingPrimes
 import GroundTheory.ProfiniteCohomology.RealPlaces.VanishingMackeyTransfer
 set_option maxSynthPendingDepth 1

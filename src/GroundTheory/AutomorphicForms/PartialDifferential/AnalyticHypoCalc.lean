@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.PartialDifferential.AnalyticHypoBasic
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
 
 namespace GroundTheory.Automorphic.Sobolev
 

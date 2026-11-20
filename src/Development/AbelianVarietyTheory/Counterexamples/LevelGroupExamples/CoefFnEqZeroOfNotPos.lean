@@ -1,12 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.TieUpA
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.SiegelSpaceAlgebraHolds
-import Development.AbelianVarietyTheory.Counterexamples.HeightSurvey.ExistsExpoScalar
-import Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.MaximalCuspKernels.MaxCuspsTie
 import Development.AbelianVarietyTheory.Counterexamples.JetSurvey.NotJInjRdOfConst
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.WeightExponentsEmbeddingsDegree
-import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.PoincarePointwiseStatement
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RecordAllSgZeroIff
 
 noncomputable section
 

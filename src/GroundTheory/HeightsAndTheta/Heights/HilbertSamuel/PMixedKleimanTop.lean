@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsMixedKleimanTop
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsScaledFSHProps
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsZCombExpand

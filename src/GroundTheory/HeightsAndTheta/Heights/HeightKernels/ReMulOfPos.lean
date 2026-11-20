@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ImportsBis
 set_option maxSynthPendingDepth 1
 

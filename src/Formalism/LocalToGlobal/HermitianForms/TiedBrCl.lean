@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.HermitianForms.TiedBrRow
+import Formalism.LocalToGlobal.HermitianForms.TiedBrRep
 
 noncomputable section
 

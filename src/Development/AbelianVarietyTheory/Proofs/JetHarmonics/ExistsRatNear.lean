@@ -1,7 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.DeterminantCokernelCount.JetMomTA
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PThIndep
-import Development.AbelianVarietyTheory.BlockTheory.JetGauges.ParabolicPointMembership
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsTraceNorm
 
 noncomputable section

@@ -1,5 +1,6 @@
 import Development.WeilBound.ThetaLifts.SmallCones.SliceAd
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsAdmissibleFormAdelicThetaSum
+import Development.WeilBound.ThetaLifts.SmallCones.ThetaUniq
 
 noncomputable section
 

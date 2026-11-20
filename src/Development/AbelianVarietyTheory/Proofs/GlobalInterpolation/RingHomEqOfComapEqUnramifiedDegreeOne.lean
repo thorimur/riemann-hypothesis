@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.MaxVSpanSingleton
+import Formalism.LocalToGlobal.Columns.StdLatUnimodular
 open NumberField IsDedekindDomain
 
 namespace GlobalTheory

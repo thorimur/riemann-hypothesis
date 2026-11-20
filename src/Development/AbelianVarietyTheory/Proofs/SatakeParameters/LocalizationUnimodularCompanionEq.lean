@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.IsOrthCo
 open NumberField Formalism.BasicNotions Formalism.L2.PairingIndexBounds.F
 

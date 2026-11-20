@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StComplementLattice
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLinePairOrbitsFinite
+import Mathlib.GroupTheory.IndexNSmul
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

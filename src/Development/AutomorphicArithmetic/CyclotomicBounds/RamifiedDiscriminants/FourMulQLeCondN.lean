@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.HostCls
 
 namespace UpperTheory.Ram.Rd

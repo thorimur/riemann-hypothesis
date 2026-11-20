@@ -1,4 +1,7 @@
 import ReciprocityTheory.DualLattices.TangentPairingStatement
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

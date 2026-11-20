@@ -1,6 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntDerApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TaylorIsRingHomStatement
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.MvPowerSeries.Order
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
 open IsLocalRing GlobalTheory.FormalOrigin MvPowerSeries
 
 noncomputable section

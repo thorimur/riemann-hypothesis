@@ -1,4 +1,5 @@
-import Development.EtaleCohomology.DivisorCycles.CycleCount
+import Development.EtaleCohomology.DivisorCycles.OpenCoset
+import Mathlib.Tactic.Polynomial.Basic
 
 open Matrix MvPolynomial
 namespace LateralTheory.DivDb.ChainPf

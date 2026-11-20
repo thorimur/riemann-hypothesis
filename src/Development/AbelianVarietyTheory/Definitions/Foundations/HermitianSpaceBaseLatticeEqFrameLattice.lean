@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.BesselHermitianTheta.IsAutFunDef
 import Development.AbelianVarietyTheory.Definitions.Foundations.OfInfProjInfMulOfFinProjFin
 
 noncomputable section

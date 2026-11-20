@@ -1,5 +1,7 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.VEqZeroOfPowEqOne
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace GlobalTheory.FGDepth
 

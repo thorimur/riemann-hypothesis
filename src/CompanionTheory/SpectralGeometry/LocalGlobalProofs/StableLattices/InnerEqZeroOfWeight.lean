@@ -1,6 +1,4 @@
-import Mathlib
 import CompanionTheory.HarishChandraModules.LowKTypeMultiplicity.DiscreteSeriesCharacters.CapelliDeterminantBlockProduct
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.EqSmulOfWeight
 
 open scoped InnerProductSpace

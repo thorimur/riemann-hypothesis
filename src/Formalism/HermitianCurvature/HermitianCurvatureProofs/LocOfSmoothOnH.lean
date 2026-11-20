@@ -1,7 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HpkMulSingleEsI
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellZetaMinors
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.AAInvTrans
-import Formalism.FormalDegreeBessel.FinalG
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGLet
 
 open Matrix
 open scoped ComplexConjugate ContDiff

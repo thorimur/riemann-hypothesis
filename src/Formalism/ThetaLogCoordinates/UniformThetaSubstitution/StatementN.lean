@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementE
-import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.PlacesAddClass
+import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementM
 
 noncomputable section
 

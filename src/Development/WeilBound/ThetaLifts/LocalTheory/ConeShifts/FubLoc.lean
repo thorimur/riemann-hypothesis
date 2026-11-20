@@ -1,4 +1,6 @@
 import Development.WeilBound.ThetaLifts.LocalTheory.ConeShifts.ContinuousFc
+import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.NormCmExtensionSplitPlaceEqZpow
+import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.OrdLEqNegLog
 
 noncomputable section
 

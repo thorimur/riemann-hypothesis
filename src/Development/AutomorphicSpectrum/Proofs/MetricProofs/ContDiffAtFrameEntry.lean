@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.InFlagDomainOne
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
+import Mathlib.Analysis.Matrix.PosDef
 
 open Filter Topology Matrix GlobalTheory.CompanionTheory.Ar.PB
 open scoped ComplexOrder

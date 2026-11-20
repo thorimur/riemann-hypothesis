@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.SecondCountableAndT2LocalField
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.LinearAlgebra.Matrix.Permutation
+import Mathlib.MeasureTheory.Group.ModularCharacter
+import Mathlib.Topology.Compactness.Paracompact
 
 open MeasureTheory ValuativeRel Matrix Topology
 open scoped NNReal ENNReal Pointwise

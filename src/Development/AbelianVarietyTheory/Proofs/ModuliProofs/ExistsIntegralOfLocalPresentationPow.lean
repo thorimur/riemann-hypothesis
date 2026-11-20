@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.DetNotMemSpanMulVecOfSocle
+import Mathlib.RingTheory.PicardGroup
 
 open scoped TensorProduct
 

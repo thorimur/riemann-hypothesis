@@ -1,11 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperQuotDevissage
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperSubquotFinite
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperFinite
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTildeFiniteE
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTwistTilde
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTildeShift
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PExtension
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.AssemblyBase
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PSnapperQuotFiltX
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PSnapperQuotIsoX

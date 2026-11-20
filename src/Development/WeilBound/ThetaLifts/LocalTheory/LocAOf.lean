@@ -1,4 +1,5 @@
 import Development.WeilBound.ThetaLifts.LocalTheory.StepFacEq
+import Development.WeilBound.ThetaLifts.LocalTheory.MemPolData
 
 noncomputable section
 

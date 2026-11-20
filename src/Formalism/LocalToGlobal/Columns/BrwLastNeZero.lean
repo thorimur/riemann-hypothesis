@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.SummandSlopeAtDecoratedLattice
-import Formalism.LocalToGlobal.Columns.BaseLemmas
 import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleWeightMiddleEntries
 
 open NumberField IsDedekindDomain Module

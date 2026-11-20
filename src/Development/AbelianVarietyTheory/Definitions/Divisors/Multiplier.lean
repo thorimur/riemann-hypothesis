@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.SlopeBoundSingleLiftOfDefinitions
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsHomogeneousCompIdeal
 

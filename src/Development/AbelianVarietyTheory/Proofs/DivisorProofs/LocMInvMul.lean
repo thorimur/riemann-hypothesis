@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsAnisoAt
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsWeilFormulas
 
 noncomputable section
 

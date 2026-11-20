@@ -1,7 +1,8 @@
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdLB
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdJet
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.CocycleRightZeroThd
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermCut
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.LBCorr
+import Std.Tactic.BVDecide.Normalize.Bool
 
 set_option autoImplicit false
 

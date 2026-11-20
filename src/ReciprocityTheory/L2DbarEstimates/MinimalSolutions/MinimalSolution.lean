@@ -1,4 +1,8 @@
 import ReciprocityTheory.L2DbarEstimates.MinimalSolutions.MinimalSolutionStatement
+import Mathlib.Analysis.InnerProductSpace.Dual
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 namespace ReciprocityTheory.L2DbarEstimates
 

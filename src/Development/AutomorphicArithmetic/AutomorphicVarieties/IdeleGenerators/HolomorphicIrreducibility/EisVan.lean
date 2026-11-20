@@ -1,4 +1,7 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.ConstSmall
+import Mathlib.Analysis.Normed.Group.Tannery
+import Mathlib.NumberTheory.ModularForms.EisensteinSeries.Defs
+import Mathlib.NumberTheory.ModularForms.EisensteinSeries.Summable
 
 open ModularForm UpperHalfPlane Matrix EisensteinSeries Filter Topology
 open scoped MatrixGroups

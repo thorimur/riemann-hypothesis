@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.PairingIndexBounds.RowActionCoefficients.AdmissibleInterpolation.InterpolationHolds
 import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.LowestInvariantLeDelta
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.GShiftRowGenMonomial
 
 open MvPolynomial
 

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.UnderTie
+import Formalism.LocalToGlobal.Columns.ChainInstY
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.FormalGroups.Inverse
 
 namespace GroundTheory.LocalField.FormalGroup

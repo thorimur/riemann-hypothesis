@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.BasicLiftAll
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.InvariantOperatorUnderJacquet
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LiftCapelliOperators
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LiftClosedUnderOperations
 
 namespace GlobalTheory.HatNF.SmoothLift

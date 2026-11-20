@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsolateMaximalAmongPrimesContainingEtaleStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatLocalizationMembership
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtaleUniquePrimeLeMapMaximalStatement
@@ -6,6 +5,7 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NilpotentApproximat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DedekindPowerLocalization
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalizationResidueApproximation
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalizationInverseModF
+import Mathlib.RingTheory.Etale.Weakly
 
 namespace GlobalTheory
 

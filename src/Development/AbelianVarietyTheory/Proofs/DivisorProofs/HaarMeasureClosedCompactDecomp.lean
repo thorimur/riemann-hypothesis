@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.IntegralConjInnerMulInnerOfIsEmptyEquiv
+import Mathlib.MeasureTheory.Group.ModularCharacter
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Compactness.Paracompact
 
 open MeasureTheory MeasureTheory.Measure Topology Pointwise
 open scoped ENNReal NNReal

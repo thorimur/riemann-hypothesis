@@ -1,5 +1,4 @@
 import Formalism.LocalRingCardinality.PosOfIsomEmb
-import Formalism.LocalToGlobal.GlobalTheory.GL4.PLemTAmgm
 
 noncomputable section
 

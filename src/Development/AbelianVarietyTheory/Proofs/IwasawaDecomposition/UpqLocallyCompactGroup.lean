@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataCD
-import Formalism.SatakeDualWeyl.KpqSubgroupCompact
 
 noncomputable section
 

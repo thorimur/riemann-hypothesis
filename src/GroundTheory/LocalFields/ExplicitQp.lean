@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.KroneckerWeber
 import GroundTheory.LocalFields.LocalReciprocityUniversal
 

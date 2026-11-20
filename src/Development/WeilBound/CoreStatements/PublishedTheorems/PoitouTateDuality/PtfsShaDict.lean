@@ -1,8 +1,8 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.PtfsSha
 import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.ResH1BijectiveOfInverse
 import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.ResH2BijectiveOfInverse
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.FirstStatementD
+import GroundTheory.LocalFields.LocalArtinBaseChange
+import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChangeMackey
 
 noncomputable section
 

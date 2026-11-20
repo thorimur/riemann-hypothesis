@@ -1,6 +1,4 @@
-import Formalism.LocalToGlobal.LatticeGeometry.GeometryDefinitions.GlobLatUnimod
-import Formalism.LocalToGlobal.LatticeGeometry.GeometryDefinitions.SingleFacts
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.SignatureConjugationInvariant
+import Formalism.LocalToGlobal.LatticeGeometry.GeometryDefinitions.ClsSum
 
 noncomputable section
 

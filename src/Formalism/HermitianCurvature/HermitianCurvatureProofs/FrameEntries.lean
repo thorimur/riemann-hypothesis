@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementQr
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorRepresentations
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.RestrictionIrrelevantDoubleLevelOperator
 

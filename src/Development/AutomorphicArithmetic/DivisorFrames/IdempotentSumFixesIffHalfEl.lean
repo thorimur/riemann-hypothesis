@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.FinMatchDefs
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DiagonalBlockDetBlockTriangular
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsSplitChartSplitChart

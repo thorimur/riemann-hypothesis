@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.GL3MeanSquares.ConcavityEquidistribution
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace Formalism.HermitianLattices.TraceIntegrality
 

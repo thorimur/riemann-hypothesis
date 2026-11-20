@@ -1,5 +1,6 @@
-import Mathlib
-import GroundTheory.LocalFields.FormalGroups.Basics
+import GroundTheory.LocalFields.FormalGroups.Inverse
+import Mathlib.AlgebraicGeometry.EllipticCurve.Weierstrass
+import Mathlib.RingTheory.MvPowerSeries.Inverse
 
 namespace GroundTheory.Arith.Abelian
 

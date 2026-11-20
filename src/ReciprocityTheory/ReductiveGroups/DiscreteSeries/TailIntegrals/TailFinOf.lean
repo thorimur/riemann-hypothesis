@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.CriticalExponentSucc
+import Mathlib.Tactic.ENatToNat
 
 open MeasureTheory
 open scoped ENNReal

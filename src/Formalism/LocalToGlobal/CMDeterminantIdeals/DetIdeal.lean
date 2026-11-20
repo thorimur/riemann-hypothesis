@@ -1,4 +1,6 @@
 import ReciprocityTheory.SemistableReduction.LatSemiSt
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.FractionalIdeal.Norm
 
 noncomputable section
 

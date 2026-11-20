@@ -1,10 +1,4 @@
-import Formalism.SharpRestriction.GlobalSchurBounds.LinkTied
 import Formalism.LocalToGlobal.GlobalTheory.TransposeBaseMatrixInfinity
-import Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.NaturalTranslateAdelicFunction
-import Formalism.LocalToGlobal.GlobalTheory.CoordinateLengths.SecondBranchAllMembers
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CrossDiagonalMatching.UpMatch
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CrossDiagonalMatching.DnDiaMatch0FHolds
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IntegralAtT0Lattice
 
 noncomputable section
 

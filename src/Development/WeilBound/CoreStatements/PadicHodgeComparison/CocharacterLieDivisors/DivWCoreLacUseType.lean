@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.CocharacterLieDivisors.MeetsOpenCosets
+import Mathlib.LinearAlgebra.Matrix.Rank
 
 open Polynomial
 

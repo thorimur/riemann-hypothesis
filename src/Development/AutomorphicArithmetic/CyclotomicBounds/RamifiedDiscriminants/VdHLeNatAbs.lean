@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.PrimeDiscriminants.SlopeTestRemainingChoices
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 theorem Formalism.HC.HostRaw.vdH_le_natAbs {φ : Formalism.HC.Frame} (H : Formalism.HC.HostRaw φ) (p : ℕ) :
     H.vdH p ≤ ((NumberField.discr H.E).natAbs : ℝ) := by

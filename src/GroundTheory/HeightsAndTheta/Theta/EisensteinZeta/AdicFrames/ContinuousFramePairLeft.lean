@@ -1,4 +1,3 @@
-import Mathlib
 
 import GroundTheory.HeightsAndTheta.Theta.EisensteinZeta.AdicFrames.Imports
 import GroundTheory.HeightsAndTheta.Theta.EisensteinZeta.AdicFrames.ContinuousOnChartProjM

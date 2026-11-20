@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GKModules.SmoothVectors
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RepresentationTheory.Irreducible
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 namespace GroundTheory.Automorphic
 

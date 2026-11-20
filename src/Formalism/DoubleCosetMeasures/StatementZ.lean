@@ -1,4 +1,5 @@
 import Formalism.DoubleCosetMeasures.Statement
+import Mathlib.Data.Matrix.ColumnRowPartitioned
 
 noncomputable section
 

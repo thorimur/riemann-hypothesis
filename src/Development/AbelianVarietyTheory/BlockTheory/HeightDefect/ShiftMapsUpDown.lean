@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.BesselHermitianTheta.TiedWeil
 
 noncomputable section

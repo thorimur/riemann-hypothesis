@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.LatticeBasics.HodgeTateFromSandwich
 import ReciprocityTheory.Chebotarev.EulerSum
 

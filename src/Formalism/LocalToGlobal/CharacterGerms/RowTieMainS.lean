@@ -1,16 +1,11 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTieMemCFin
-import Formalism.LocalToGlobal.CharacterGerms.ValuationEqSelfOfUnitGerm
-import Formalism.LocalToGlobal.CharacterGerms.RowTieSelfCuts
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePHStabSelf
-import Formalism.LocalToGlobal.CharacterGerms.UncurryLogConstantCoeff
 import Formalism.SharpRestriction.GrowthBounds.ExponentialPartialDerivatives
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePAxesSelfSt
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePAddCvSelf
 import Formalism.LocalToGlobal.CharacterGerms.RowTieMain
-import Formalism.LocalToGlobal.CharacterGerms.CoefficientIdentitySelfConjugate
 import Formalism.SharpRestriction.GrowthBounds.ProofRowTieVals
 import Formalism.LocalToGlobal.CharacterGerms.RowTieSelfU
 import Formalism.SharpRestriction.GrowthBounds.CoeffIdentitySelfConjHolds
+import Formalism.LocalToGlobal.CharacterGerms.RankMaximalSelfUnconditional
+import Formalism.LocalToGlobal.CharacterGerms.RowTiePPTDone
 
 set_option autoImplicit false
 

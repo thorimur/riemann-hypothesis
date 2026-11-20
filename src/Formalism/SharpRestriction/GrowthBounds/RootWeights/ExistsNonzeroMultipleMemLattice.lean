@@ -1,5 +1,8 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectorFixedMem
 import Lemmata.GeneralBFactLeftVersion.Imports
+import Mathlib.Algebra.Module.Lattice
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

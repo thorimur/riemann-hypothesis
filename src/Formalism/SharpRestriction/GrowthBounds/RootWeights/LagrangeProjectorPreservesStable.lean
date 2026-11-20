@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectorFixedMem
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsotypicStableUnderOperators
+import Formalism.SharpRestriction.GrowthBounds.CovariantDegrees
 
 noncomputable section
 

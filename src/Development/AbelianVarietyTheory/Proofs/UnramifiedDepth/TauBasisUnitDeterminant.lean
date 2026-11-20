@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitDeterminantBasis
 
 open scoped TensorProduct

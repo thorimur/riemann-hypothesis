@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.HermitianLattices.StatementLat
 import Formalism.SharpRestriction.CuspSpanNormBounds.BlockEnds
 import Formalism.SharpRestriction.CuspSpanNormBounds.SArith
 

@@ -1,10 +1,5 @@
-import Mathlib
-import GroundTheory.LocalFields.Interface
-import GroundTheory.LocalFields.Integers
-import GroundTheory.LocalFields.Uniqueness
-import GroundTheory.LocalFields.IntermediateField
-import GroundTheory.LocalFields.UnramifiedDefs
 import GroundTheory.LocalFields.UnramifiedHensel
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

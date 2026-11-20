@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsDPMorphismBot
 
 set_option autoImplicit false

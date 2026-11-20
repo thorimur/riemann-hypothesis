@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PublishedTheorems.PoincareDeRhamDuality.DeRhamPerfectPairing.MkEqZeroOfCover
 
 set_option autoImplicit false

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.StrongApproximation.Statements
+import Mathlib.Algebra.AffineMonoid.Basic
 set_option maxSynthPendingDepth 1
 
 noncomputable section

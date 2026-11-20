@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.SumMLSqLeSq
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.GrowthNorm
+import Formalism.LocalToGlobal.IndefiniteReal.LocalNewformFunction
 
 noncomputable section
 

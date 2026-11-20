@@ -1,5 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.PolarAct
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.ProdShcSqEqJacPow
+import Mathlib.Analysis.Calculus.InverseFunctionTheorem.ContDiff
 
 noncomputable section
 

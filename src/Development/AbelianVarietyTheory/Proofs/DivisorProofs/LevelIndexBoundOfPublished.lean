@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeasAtOf
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.OneMeasureSizes
+import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 
 noncomputable section
 

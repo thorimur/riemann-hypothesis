@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.TowerRedToBaseIff
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmulPowApp
 import Development.AbelianVarietyTheory.Definitions.Divisors.PadicActionConstInjective
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry MonoidalCategory CartesianMonoidalCategory MonObj

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.PullTotMemBTot
 
 set_option autoImplicit false

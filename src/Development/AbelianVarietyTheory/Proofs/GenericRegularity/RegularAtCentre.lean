@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.RegularCharts.SCharts
 import Formalism.LocalToGlobal.ProjectiveLattices.RegModelC
 

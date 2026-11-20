@@ -1,10 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJASAPairL
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJALocToolsAgree
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellZetaMinors
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PositiveOrbitOpen
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellDiagonalMap
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellHermitian
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaSesquilinearity
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

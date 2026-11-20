@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.IdCell
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootsOfUnityModPrime.RootUnitModPMain
 
 theorem rootUnitModP (E : Type) [Field E] [NumberField E] : Formalism.L2.SG.IdCell.RootModP E :=

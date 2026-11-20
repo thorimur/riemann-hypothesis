@@ -1,5 +1,6 @@
-import Mathlib
 import ReciprocityTheory.SemistableReduction.ComapInclusionIsLocalHom
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Tactic.ENatToNat
 
 namespace ReciprocityTheory.MultiplicativeHeights
 

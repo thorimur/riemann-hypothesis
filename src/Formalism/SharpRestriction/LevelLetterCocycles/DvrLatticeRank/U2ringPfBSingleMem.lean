@@ -1,8 +1,5 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.SecondPropositionRingAll
-import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.BlockProductRing
-import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DvdOfCoeffSubstXPowNeZero
-import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.GradNPfB
+import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

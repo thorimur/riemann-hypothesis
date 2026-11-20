@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.KerDiag
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.TameAtOne
+import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
 
 noncomputable section
 

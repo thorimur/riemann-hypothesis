@@ -1,7 +1,6 @@
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TypeConditions.Transported
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.DepthZeroLabelsOfLabelLaws
 import GroundTheory.GlobalFields.SemilocalAlgebras.Finite
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.EqZeroOfForallLeExp
+import Formalism.SharpRestriction.LevelLetterCocycles.DataN
+import Mathlib.NumberTheory.Padics.HeightOneSpectrum
 
 open NumberField IsDedekindDomain Formalism.BasicNotions GroundTheory.Global.SemiLocal
 

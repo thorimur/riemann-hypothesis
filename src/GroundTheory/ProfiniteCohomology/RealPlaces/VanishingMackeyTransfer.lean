@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.VanishingMackeyPlaces
 import GroundTheory.ProfiniteCohomology.RealPlaces.VanishingUnitsTwo
 set_option maxSynthPendingDepth 1

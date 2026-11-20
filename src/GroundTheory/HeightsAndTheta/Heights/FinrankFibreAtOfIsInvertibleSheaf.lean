@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.InvertibleSheaf
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

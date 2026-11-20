@@ -1,9 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.TupleReadBaseTupleEqFamily
 import Development.AbelianVarietyTheory.Definitions.Divisors.NormNegCmConstantEqAtAllEmbeddings
-import Development.AbelianVarietyTheory.Definitions.HeightFunctions.NormComparisonConstants
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.FieldSmallIffOpo
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.LabelDatum
 
 set_option synthInstance.maxHeartbeats 400000
 

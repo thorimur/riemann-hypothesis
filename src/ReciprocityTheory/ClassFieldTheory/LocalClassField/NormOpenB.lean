@@ -1,7 +1,9 @@
-import Mathlib
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecDefs
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.GalBasic
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.ValUnitsG
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.Normed.Algebra.Basic
+import Mathlib.Data.Int.Star
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
+import ReciprocityTheory.ClassFieldTheory.LocalClassField.ValUnitsF
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField
 open _root_.Neutral.B1 ReciprocityTheory.Coh Function

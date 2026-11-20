@@ -1,5 +1,8 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.LConvUnifB
+import Development.AbelianVarietyTheory.Definitions.Divisors.T2SpaceGeneralLinearGroup
+import Development.DiscreteGroups.GlobalIrreducibility.LConvCut
+import Development.DiscreteGroups.GlobalIrreducibility.LConvUnifA
+import GroundTheory.AutomorphicForms.JacquetAdmissible
 
 noncomputable section
 

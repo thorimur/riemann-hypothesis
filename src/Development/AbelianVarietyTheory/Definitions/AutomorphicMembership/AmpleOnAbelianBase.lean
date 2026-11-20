@@ -1,8 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.IsChartIff
 import Formalism.SharpRestriction.Divisibility.AbelianOpenPart.IsOpenPart
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.CmHostRootComplexEqPmSqrt
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsProbabilityMeasureMuPart
+import Formalism.LocalToGlobal.LatticeGeometry.AmpleOnAbelianBase
 
 noncomputable section
 

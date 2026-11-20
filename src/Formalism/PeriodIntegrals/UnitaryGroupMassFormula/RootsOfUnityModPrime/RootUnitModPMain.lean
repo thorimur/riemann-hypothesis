@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.IdCell
+import Mathlib.RingTheory.RootsOfUnity.Lemmas
 
 namespace PI.RootUnitModP.W
 

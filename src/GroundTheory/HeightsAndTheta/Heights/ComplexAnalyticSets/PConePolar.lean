@@ -1,10 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StConePolar
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceDim
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StConeChartGram
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLinearNoetherNormalization
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PChartGramMA
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeLogBound
+import Mathlib.RingTheory.PicardGroup
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

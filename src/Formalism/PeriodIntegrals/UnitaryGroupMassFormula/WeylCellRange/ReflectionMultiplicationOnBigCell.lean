@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.HermitianCurvature.StatementQ
+import Std.Tactic.BVDecide.Normalize.BitVec
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix Finset
 

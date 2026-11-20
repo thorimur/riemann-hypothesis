@@ -1,9 +1,4 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalRingCardinality.DataRows
 import Formalism.SharpRestriction.GlobalSchurBounds.ProductFirstZerothParts
-import Formalism.LocalRingCardinality.DataArith
-import Formalism.LocalRingCardinality.DataForms
 
 theorem UpperTheory.Reformulated.B.DivisibilityWeightConstant.exists_int_smul_mem :
     ∀ {D : Formalism.BasicNotions.D7} {u : D.what₂.Word} (i : ℕ) (x : Formalism.MainNotions.product_first_zeroth_parts.Vl D u i),

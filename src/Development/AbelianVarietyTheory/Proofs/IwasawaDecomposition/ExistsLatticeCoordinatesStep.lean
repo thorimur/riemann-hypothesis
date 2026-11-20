@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CompGvec
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsRefinedCocycleEmbedding
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TanEvLinearCombination

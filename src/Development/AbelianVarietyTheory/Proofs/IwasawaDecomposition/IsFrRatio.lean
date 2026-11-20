@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.CoeIntEmbEmbP
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ApolarMonomial
 
 set_option autoImplicit false
 

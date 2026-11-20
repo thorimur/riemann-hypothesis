@@ -1,6 +1,4 @@
-import Mathlib
 import CompanionTheory.HarishChandraModules.LowKTypeMultiplicity.DiscreteSeriesCharacters.CapelliDeterminantBlockProduct
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 
 open Formalism.REAL CompanionTheory.D.DSIC
 

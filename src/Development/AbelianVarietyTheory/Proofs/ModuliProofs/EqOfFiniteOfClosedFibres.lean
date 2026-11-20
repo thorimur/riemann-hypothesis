@@ -1,7 +1,8 @@
-import Mathlib
 import ReciprocityTheory.SemistableReduction.ShareDetA
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.DifferentiableOnQuotientOfDifferentiableOnSlice
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.DifferentiableOnOfTendstoLocallyUniformlyOn
+import Mathlib.AlgebraicTopology.FundamentalGroupoid.SimplyConnected
+import Mathlib.Analysis.Convex.Contractible
 
 open Filter Metric Set
 open scoped Topology

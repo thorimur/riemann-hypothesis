@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.RealDescent.RealLeviDescent.ExpansionTerms
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CyclicStandardTournament
 

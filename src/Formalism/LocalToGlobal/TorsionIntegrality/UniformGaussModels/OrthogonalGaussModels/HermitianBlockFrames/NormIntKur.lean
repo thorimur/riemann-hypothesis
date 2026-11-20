@@ -1,4 +1,7 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.OrthogonalGaussModels.HermitianBlockFrames.DeltaMem
+import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.OrthogonalGaussModels.HermitianBlockFrames.Assembly
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.NumberTheory.Padics.PadicIntegers
 
 noncomputable section
 open scoped BigOperators

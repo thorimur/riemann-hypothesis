@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.NormAlmostAll
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

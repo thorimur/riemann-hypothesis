@@ -1,5 +1,7 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.VEqZeroOfPowEqOne
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PowerSeries.Substitution
 
 namespace ReciprocityTheory.ChartRestriction.G.Sh.PTb
 

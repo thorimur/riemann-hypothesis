@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkDefs
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkSandwich
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkFaith
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkSpan

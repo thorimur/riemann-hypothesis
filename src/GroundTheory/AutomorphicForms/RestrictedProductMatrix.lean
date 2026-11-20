@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.Restricted
 
 namespace GroundTheory.Automorphic

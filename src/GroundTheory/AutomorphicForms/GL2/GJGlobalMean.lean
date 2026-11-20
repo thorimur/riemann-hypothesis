@@ -1,6 +1,3 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GL2.GJGlobalDefs
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness
 import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspFormsDecay
 
 open MeasureTheory Set Filter NumberField ComplexConjugate

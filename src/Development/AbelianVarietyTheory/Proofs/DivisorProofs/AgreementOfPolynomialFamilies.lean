@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.FirstChernLeviEqConstant
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
-import ReciprocityTheory.AnalyticForms.PotentialTheory.StokesA
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExpAndLogPowerLeLinearStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MixedIntegralTailBoundExistsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MixedIntegralContinuityEstimateStatement

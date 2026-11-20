@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.NumberFieldFamilies.JMtInjective
+import Formalism.LocalToGlobal.NumberFieldFamilies.NPartCNd
 
 noncomputable section
 

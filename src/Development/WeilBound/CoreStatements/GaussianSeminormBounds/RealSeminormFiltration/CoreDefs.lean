@@ -1,9 +1,7 @@
-import Development.WeilBound.CoreStatements.GaussianSeminormBounds.RealSeminormFiltration.TensorIrr
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FockHarmSplit
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FockJointMult
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FockOneDeg
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FockWtDeg
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FockRaiseLow
+import Development.WeilBound.CoreStatements.GaussianSeminormBounds.RealSeminormFiltration.FockAct1FockAct2Commute
+import Formalism.LocalToGlobal.ThetaOperatorCommutation.RealTh
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockHarmonicSplitting.FockCore
+import ReciprocityTheory.ThetaSummability.RealCoinvariants.Numbers
 
 noncomputable section
 

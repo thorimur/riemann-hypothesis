@@ -1,6 +1,10 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.IdemDen
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.IntegralPartDecomposition
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.Valuation.LocalSubring
+import Mathlib.Tactic.ENatToNat
 
 open scoped TensorProduct NumberField nonZeroDivisors
 open Module UniqueFactorizationMonoid IsDedekindDomain

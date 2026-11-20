@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SigmaStarUniq
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.AreaLat
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ThetaSeriesUniqueness.SigmaStarUniqOf
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.FormalDegreeBessel.StatementG
 
 noncomputable section

@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RationalHermitianMeasures.ExistsNeZeroOfMap
+import Formalism.UnipotentAdelicQuotients.SWXSDefs
 
 set_option linter.unusedSectionVars false
 

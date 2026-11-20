@@ -1,9 +1,8 @@
-import Development.AutomorphicArithmetic.CharacterBoxes.TwistForm
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.ExistsHostAxEven
 import Development.AutomorphicArithmetic.CoprimeRanks.SecondSetNoRelation
 import Development.AutomorphicArithmetic.CharacterBoxes.OrdAny
 import Development.AutomorphicArithmetic.CharacterBoxes.KerChiAny
 import Development.AutomorphicArithmetic.CharacterBoxes.TwistAny
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.OfRawToHostRaw
 
 open Formalism.HC Formalism.FrobeniusOrbits UpperTheory.Top HostParam.Seam
 

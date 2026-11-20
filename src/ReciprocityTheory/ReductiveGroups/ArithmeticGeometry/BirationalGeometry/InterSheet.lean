@@ -1,6 +1,8 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSheetA
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSheetB
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterFib
+import Mathlib.Analysis.SpecialFunctions.Complex.Analytic
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

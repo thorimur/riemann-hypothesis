@@ -1,5 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.HasArcDataIff
+import Mathlib.Analysis.Normed.Group.Tannery
+import Mathlib.Tactic.Monotonicity.Lemmas
 open ReciprocityTheory.ChartRestriction.G.Geo.Tor
 
 namespace GlobalTheory

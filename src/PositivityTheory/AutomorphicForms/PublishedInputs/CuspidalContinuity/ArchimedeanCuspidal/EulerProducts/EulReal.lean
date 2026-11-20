@@ -1,5 +1,4 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.EulerProducts.EulDefs
-import GroundTheory.AutomorphicForms.GL2.GodementSectionFactor
 
 noncomputable section
 

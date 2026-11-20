@@ -2,7 +2,6 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTRRCentre
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTRRSec
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTRRODE
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTRRWirt
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTRRMatFrom
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTRRFinFrom
 
 namespace Formalism.FourierDecayAlt.P.CutMP.Gauge.GC

@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.ConstantCoeffResidueUXPow
-import Mathlib.Analysis.SpecialFunctions.Log.Base
 
 noncomputable section
 

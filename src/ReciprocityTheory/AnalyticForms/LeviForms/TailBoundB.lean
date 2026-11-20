@@ -1,4 +1,7 @@
-import ReciprocityTheory.AnalyticForms.LeviForms.TailBoundA
+import ReciprocityTheory.AnalyticForms.LeviForms.TailCut
+import ReciprocityTheory.AnalyticForms.PotentialTheory.IntegrableOnTargetOfTsupport
+import ReciprocityTheory.AnalyticForms.PotentialTheory.LogInt
+import ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasure
 
 namespace ReciprocityTheory.AnForm.P
 

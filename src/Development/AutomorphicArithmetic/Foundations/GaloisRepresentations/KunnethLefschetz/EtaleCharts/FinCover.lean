@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.CommRingSections.FirstChernClassLaws
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsCompletedStrictHens
 import Development.ResolutionOfSingularities.Foundations.BlowupUniversalProperty
+import Mathlib.AlgebraicGeometry.Morphisms.Etale
 
 noncomputable section
 

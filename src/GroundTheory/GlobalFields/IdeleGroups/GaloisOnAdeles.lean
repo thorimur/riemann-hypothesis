@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms.InfiniteAdeleRingMapInfiniteAdeleRingMap
 
 namespace GroundTheory.Global

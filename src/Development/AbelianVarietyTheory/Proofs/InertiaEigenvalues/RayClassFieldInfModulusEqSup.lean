@@ -1,8 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.RayPrincipalIdeals
 import Development.AbelianVarietyTheory.PublishedTheorems.PublishedFoundations.NonemptyAlgHomOfIsRayOfDvd
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MemRayPrincipalIdealsInfOfUnitsPmOne
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RayClassNumberBounds
+import Development.AbelianVarietyTheory.Proofs.HeightProofs.HeckeIdealEqOfRay
 
 set_option autoImplicit false
 

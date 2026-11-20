@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.LieModel
+import Mathlib.AlgebraicGeometry.AffineSpace
+import Mathlib.AlgebraicGeometry.Modules.Sheaf
+import Mathlib.AlgebraicGeometry.Morphisms.Smooth
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option backward.isDefEq.respectTransparency false
 

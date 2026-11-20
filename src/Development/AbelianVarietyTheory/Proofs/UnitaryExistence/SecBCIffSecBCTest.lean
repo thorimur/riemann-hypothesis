@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.SpMapAlgHomId
-import Formalism.LocalToGlobal.ProjectiveLattices.FrameCharts
-import Formalism.LocalToGlobal.ProjectiveLattices.UnitIndepOfCharts
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.SectionBaseChange
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.CoefChangeTypingsEquivOfValueWD
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ChartCoverFOfSectionBaseChange

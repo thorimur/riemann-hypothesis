@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ReferenceMetricMulDualEqOne
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkIdComapOfAffine
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.Monomial
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatExtensionRegularSequenceStatement

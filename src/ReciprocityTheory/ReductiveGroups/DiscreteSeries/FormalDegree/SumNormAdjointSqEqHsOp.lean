@@ -1,5 +1,3 @@
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.SumInnerBasisSqEqAdjoint
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.PBridge
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.IntegrableOfContinuousCompact
 
 noncomputable section

@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ExistsPowSubMemSpanOfIsUnitModOfIsAlgClosed
-import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.Proportional
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.RationalSections.ThmISt
+import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.Birational
 
 noncomputable section
 

@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.GlobalTheory.GL4.PCoordQ
+import Formalism.LocalToGlobal.GlobalTheory.GL4.CTEqConjTranspose
 
 noncomputable section
 

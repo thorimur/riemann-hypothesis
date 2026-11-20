@@ -1,6 +1,5 @@
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ProjDehom
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.FromSpecResidueFieldAppTopIso
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.StalkLoc
+import Mathlib.Algebra.AffineMonoid.UniqueSums
 
 namespace ReciprocityTheory.AnForm.R
 

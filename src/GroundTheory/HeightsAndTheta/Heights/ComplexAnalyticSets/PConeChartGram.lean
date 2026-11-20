@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StConeSheetGram
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StatementsArea
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeChartArea
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StConeChartGram
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

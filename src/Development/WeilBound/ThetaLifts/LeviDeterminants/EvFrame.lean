@@ -1,4 +1,4 @@
-import Development.WeilBound.ThetaLifts.LeviDeterminants.EvModel
+import Development.WeilBound.ThetaLifts.LeviDeterminants.MixedModels.AdaptC
 
 noncomputable section
 

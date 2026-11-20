@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.OrthogonalGaussModels.HermitianBlockFrames.LocAbs
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 open scoped BigOperators

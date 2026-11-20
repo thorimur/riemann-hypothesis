@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.CongWtLv
+import Development.AbelianVarietyTheory.Definitions.Divisors.OverPair
 
 noncomputable section
 

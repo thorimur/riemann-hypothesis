@@ -1,6 +1,5 @@
-import Mathlib
 import CompanionTheory.HarishChandraModules.LowKTypeMultiplicity.DiscreteSeriesCharacters.CapelliDeterminantBlockProduct
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
+import Mathlib.Topology.Sheaves.Presheaf
 
 open scoped InnerProductSpace
 

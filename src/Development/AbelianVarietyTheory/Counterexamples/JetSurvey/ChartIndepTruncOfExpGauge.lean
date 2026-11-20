@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqChart
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ConstantCoeffPolyAdd
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpTiePf

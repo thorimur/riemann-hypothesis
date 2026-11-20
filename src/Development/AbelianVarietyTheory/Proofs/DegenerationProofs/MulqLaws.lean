@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Degenerations.SepticCharacterInjective
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.CubNSucc
 open ReciprocityTheory.ChartRestriction.G.Geo.Tor GlobalTheory.Ex

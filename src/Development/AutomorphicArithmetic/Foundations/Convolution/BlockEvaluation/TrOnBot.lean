@@ -1,5 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.BlockEvaluation.TruncSpec
-import Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.PowLeExpEventually
 import Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.Degree
 import Development.AutomorphicArithmetic.Foundations.Convolution.BlockEvaluation.AbsDAtTop
 import Development.AutomorphicArithmetic.Foundations.Convolution.BlockEvaluation.SideEst

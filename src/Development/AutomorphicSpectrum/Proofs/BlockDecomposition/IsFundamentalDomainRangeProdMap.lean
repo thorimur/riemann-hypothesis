@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ThetaCellCovers.ProperRatH
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsRightHaarMeasure
 

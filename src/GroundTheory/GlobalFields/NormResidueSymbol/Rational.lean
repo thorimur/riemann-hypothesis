@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.NormResidueSymbol.RationalDiagonal
 import GroundTheory.GlobalFields.NormResidueSymbol.RationalCyclotomic
 

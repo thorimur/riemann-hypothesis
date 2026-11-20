@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.StmtFields
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.KummerTheory.ClPullApply
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.StickelbergerTheorem.StickelbergerAt
 
 noncomputable section

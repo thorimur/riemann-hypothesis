@@ -1,4 +1,7 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.SliceVan
+import Mathlib.NumberTheory.LocalField.Basic
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

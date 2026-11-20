@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsMonogenicSeparating
 open NumberField
 

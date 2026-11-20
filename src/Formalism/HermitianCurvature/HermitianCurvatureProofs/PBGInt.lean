@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PosCoreQ
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.BaseCutoffIsTruncation
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.OpApplyZeroNear
 
 open Matrix MeasureTheory Filter Topology
 open scoped ContDiff

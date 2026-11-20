@@ -1,10 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Jets.SumIoPrAlt
 import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeries₂.DSExist
 import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeries₂.Zuckerman
 import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeries₂.Poulsen
 import Formalism.PeriodIntegrals.DSInfCharCap
-import Formalism.PeriodIntegrals.LowCyc
 import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary₂.SubmatrixMemUJsetIff
 
 open Matrix MeasureTheory Finset

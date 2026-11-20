@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.CocycleZeroMemInvariants
+import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.ThreeLeLevel
 set_option maxSynthPendingDepth 1
 
 noncomputable section

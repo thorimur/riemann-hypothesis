@@ -1,5 +1,5 @@
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.LimWPhi
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTorsionFreeSurjZmod
+import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsContinuousPadic
 
 noncomputable section
 

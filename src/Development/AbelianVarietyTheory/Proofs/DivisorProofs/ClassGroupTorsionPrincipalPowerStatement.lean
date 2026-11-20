@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClassGroupTorsionPrincipalPower
-import Mathlib
 
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.class_group_torsion_principal_power : ∀ (A K : Type) [CommRing A] [IsDomain A] [Module.Finite ℤ A]

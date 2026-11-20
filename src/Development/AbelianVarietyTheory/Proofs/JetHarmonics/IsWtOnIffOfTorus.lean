@@ -1,6 +1,9 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UpqRep
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.HarishChandraParameters
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Matrix Finset
 

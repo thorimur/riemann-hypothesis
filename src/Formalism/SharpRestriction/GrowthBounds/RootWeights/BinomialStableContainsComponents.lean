@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.TwistSubEqMatrixSubst
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.GenericMatrixEvaluationDet
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

@@ -1,7 +1,5 @@
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.DiscreteSpectrumResidualClassification
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeckeFormOfDoubling
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.GlobalFormOfSiegelWeil
-import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeckeFormOfDoublingStatement
 
 section
 open scoped ComplexConjugate Matrix NNReal

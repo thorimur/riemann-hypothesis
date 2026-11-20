@@ -1,6 +1,4 @@
-import Formalism.HermitianCurvature.RealInputsClosedAdmissibleSettings
-import Mathlib.Analysis.InnerProductSpace.GramMatrix
-import Mathlib.MeasureTheory.Function.L2Space
+import Formalism.HermitianCurvature.StatementKB
 
 namespace Formalism.FourierDecayAlt.P.PBK
 

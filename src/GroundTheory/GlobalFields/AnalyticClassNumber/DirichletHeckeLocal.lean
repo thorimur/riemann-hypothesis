@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.AnalyticClassNumber.DirichletHeckeDefs
+import GroundTheory.GlobalFields.NormResidueSymbol.Rational
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Global

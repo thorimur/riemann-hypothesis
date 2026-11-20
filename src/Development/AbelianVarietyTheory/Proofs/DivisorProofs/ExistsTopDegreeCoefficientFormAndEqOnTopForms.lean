@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.DlogRatioVolumeFormNeZero
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 set_option autoImplicit false
 

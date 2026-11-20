@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.JetLeftMem
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.JetSectionValueOnChart
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField

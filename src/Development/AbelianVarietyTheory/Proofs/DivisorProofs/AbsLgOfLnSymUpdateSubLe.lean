@@ -1,11 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VdivLnIdFalse
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.RegularAlteration
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ArTopTrue
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsMonomialEqProd
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCoverInducedMetricsArith
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalHeightBoundedByPrimeWeights
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogGreenDifferenceDeterminantLe
+import Formalism.LocalToGlobal.Columns.LevGCount
+import Formalism.LocalToGlobal.Columns.StdLatUnimodular
 
 set_option autoImplicit false
 

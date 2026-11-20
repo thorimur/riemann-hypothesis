@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.CompTie
 import Formalism.LocalToGlobal.ProjectiveLattices.CompTieA
+import Formalism.LocalToGlobal.ProjectiveLattices.CompHt
 
 noncomputable section
 

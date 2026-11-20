@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.HasBlockOfOccurs
+import Mathlib.LinearAlgebra.LinearIndependent.BaseChange
 
 set_option autoImplicit false
 

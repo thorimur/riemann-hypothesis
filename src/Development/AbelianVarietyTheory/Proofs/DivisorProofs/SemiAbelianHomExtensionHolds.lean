@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.SemiabelianTori.GeometricallyConnectedSplitTorusAff
-import CompanionTheory.SpectralGeometry.LocalGlobalProofs.GlobalTheory.ImportsAlt
+import Development.AutomorphicSpectrum.Proofs.GlobalProofs.SemiAbelianHomExtension
 
 namespace GlobalTheory
 

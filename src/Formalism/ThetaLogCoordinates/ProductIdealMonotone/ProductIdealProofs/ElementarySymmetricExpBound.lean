@@ -1,6 +1,9 @@
 import Formalism.ThetaLogCoordinates.ProductIdealMonotone.ElementarySymmetricExpBound
-import Formalism.SubspaceCounting.SubspaceCountingProofs.ManyOrbits
-import Formalism.ThetaLogCoordinates.ProductIdealMonotone.ProductIdealProofs.LePowOddOfFloorLogbLe
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

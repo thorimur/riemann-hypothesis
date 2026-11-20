@@ -1,5 +1,4 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.SupGenTies
-import Formalism.LocalRingCardinality.ConjSqrtMinusD
 
 noncomputable section
 

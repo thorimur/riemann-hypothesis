@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LeadingTermIdentity
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.RightDerivativeRulePsi
 
 open Matrix Finset
 

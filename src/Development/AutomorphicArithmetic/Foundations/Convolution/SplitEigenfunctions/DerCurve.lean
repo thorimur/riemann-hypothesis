@@ -1,7 +1,4 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MeanLaws
-import Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.UILaws
 import Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.IILaws
-import Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.UnitaryActions.ContinuousAdelicGL2OfContinuousEntries
 import Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.ThetaBounds.ExValCont
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LieSkewAdjointL2
 

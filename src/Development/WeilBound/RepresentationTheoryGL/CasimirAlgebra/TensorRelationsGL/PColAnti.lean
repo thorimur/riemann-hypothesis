@@ -1,5 +1,6 @@
 import Development.WeilBound.RepresentationTheoryGL.CasimirAlgebra.TensorRelationsGL.PColAntiA
 import Development.WeilBound.RepresentationTheoryGL.CasimirAlgebra.TensorRelationsGL.PColAntiC
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

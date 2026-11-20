@@ -6,6 +6,7 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.CMFieldExponential
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CMFieldExponentialBounds.ErrorTermsLeSqrtExpRpow
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CMFieldExponentialBounds.ConductorBoundsOfIsChiField
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CMFieldExponentialBounds.IsCMFieldOfIsChiField
+import Batteries.Data.Nat.Gcd
 
 noncomputable section
 

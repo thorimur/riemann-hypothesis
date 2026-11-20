@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.SelfDualStabiliserIndex
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.SelfDualLatticeIndex
 

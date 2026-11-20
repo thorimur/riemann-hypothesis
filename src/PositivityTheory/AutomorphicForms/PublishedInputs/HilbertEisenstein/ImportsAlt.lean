@@ -1,4 +1,5 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.SSmooth
+import Development.AutomorphicArithmetic.AutomorphicVarieties.PublishedTheorems.Hilbert
 
 noncomputable section
 

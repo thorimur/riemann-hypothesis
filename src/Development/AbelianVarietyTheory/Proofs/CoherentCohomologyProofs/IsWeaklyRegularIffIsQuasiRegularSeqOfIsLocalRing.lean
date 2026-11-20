@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.QuasicoherentCohomology.IsQuasiRegularSeqSelfIffLocalizationMaximal
+import Mathlib.RingTheory.Regular.RegularSequence
+import Mathlib.Tactic.ENatToNat
 
 open RingTheory.Sequence
 

@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.FormalGroupSystem
 import Formalism.SharpRestriction.GrowthBounds.LatticeSystems
 import Formalism.ThetaLogCoordinates.ProductIdealMonotone.ProductIdealProofs.ElementarySymmetricExpBound
+import Mathlib.Order.Interval.Finset.Box
 
 noncomputable section
 

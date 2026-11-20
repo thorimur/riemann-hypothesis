@@ -1,9 +1,10 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.IndexWeightsDominance
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.JacobiMinorProofs.LinearIndependentOfLead
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.JacobiMinorProofs.ActFormContract
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.JacobiMinorProofs.LeIffLtColHeight
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.JacobiMinorProofs.ExistsSuppOfEvalNe
+import Formalism.ThetaLogCoordinates.JacobiPathWeights.ValuationProductsComponents
+import Mathlib.RingTheory.LocalProperties.Reduced
 
 noncomputable section
 

@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.MetricPeriods.VolumeInputs
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.TowerOrigin
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.SumFundCoMulSumIic
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsUniqueLatOfChartBundle
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.RootOriginCoordField
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.IntegralSectionLatticeMultipleStatement

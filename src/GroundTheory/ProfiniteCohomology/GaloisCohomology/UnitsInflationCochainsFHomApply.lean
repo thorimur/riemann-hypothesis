@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.ContinuousCochains
 import GroundTheory.ProfiniteCohomology.GaloisModules.Discrete
-import GroundTheory.ProfiniteCohomology.GaloisModules.FixedField
+import Mathlib.CategoryTheory.Monoidal.Mon
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.Functoriality
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

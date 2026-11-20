@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.RayPrimes
+import Mathlib.Data.Int.Star
 
 namespace GlobalTheory.Mem.An
 

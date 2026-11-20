@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CvecSurjective
+import CompanionTheory.AutomorphicTheory.SiegelWeilFiniteness.Bridge
 open NumberField MeasureTheory Matrix Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes GlobalTheory.AdelicU GlobalTheory.SiegelSet PositivityTheory.ThKR GlobalTheory.CompanionTheory.RedCov GroundTheory.Automorphic GroundTheory.Automorphic.Anisotropic
 open Formalism.UG (cT)
 open scoped TensorProduct NNReal ENNReal NumberField.AdeleRing

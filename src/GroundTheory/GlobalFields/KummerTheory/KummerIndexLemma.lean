@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.KummerTheory.KummerIndexLemma.PowerKernel
 import GroundTheory.GlobalFields.ExistenceTheorem.IndexRangePowMonoidHomAdicCompletionMulNorm
 

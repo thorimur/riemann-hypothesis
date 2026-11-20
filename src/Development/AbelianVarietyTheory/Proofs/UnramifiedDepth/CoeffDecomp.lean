@@ -1,6 +1,4 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.WFrobStatement
-import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ZmodPrimeSqLocal
 
 noncomputable section
 

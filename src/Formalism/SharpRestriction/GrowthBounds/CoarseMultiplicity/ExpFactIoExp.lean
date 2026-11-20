@@ -1,6 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.FactAbs
 import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.IoBlockMonomial
-import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.Kummer
+import Mathlib.Data.Finsupp.Pointwise
 
 noncomputable section
 

@@ -1,6 +1,8 @@
 import ReciprocityTheory.L2DbarEstimates.JacobianInterpolationStatement
-import ReciprocityTheory.L2DbarEstimates.MinimalSolutions.MinimalSolutionStatement
-import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.Imports
+import Mathlib.MeasureTheory.Function.L2Space
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.Separation.Lemmas
+import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.TsupportDbSubset
 
 namespace ReciprocityTheory.L2DbarEstimates.H
 

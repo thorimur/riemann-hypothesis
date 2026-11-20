@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.ThetaLiftIndependence.Statement
-import Formalism.HermitianLattices.StatementLat
+import Mathlib.NumberTheory.NumberField.Discriminant.Defs
 
 open NumberField
 

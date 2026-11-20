@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSERDSIpInt
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTRadAdj
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJASAPairLACHaarPos
 
 open MeasureTheory Filter Topology

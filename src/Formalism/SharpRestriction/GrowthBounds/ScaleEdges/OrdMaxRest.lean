@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeLatticeAdaptedBasis
-import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.RestCloudOfX
+import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.RankMulConductorDivLeOne
 
 noncomputable section
 

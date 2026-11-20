@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisionPoints
+import Mathlib.AlgebraicGeometry.EllipticCurve.DivisionPolynomial.Degree
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace GroundTheory.Arith.Abelian
 

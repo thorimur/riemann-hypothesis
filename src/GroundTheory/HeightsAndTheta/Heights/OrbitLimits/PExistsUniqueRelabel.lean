@@ -1,6 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.MultihomogeneousIdeals.SwapLoc
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ExistsUnique
+import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsExistsUniqueRelabel
+import Mathlib.RingTheory.PiTensorProduct
 set_option maxSynthPendingDepth 1
 
 noncomputable section

@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.HermitianColumns.ColsHerm
-import Formalism.LocalRingCardinality.DataExtra
 import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 
 noncomputable section

@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.StatementQ
-import Formalism.HermitianCurvature.StatementU
 import Formalism.HermitianCurvature.WeylElementCommutesLevelOne
 
 open Matrix MeasureTheory Filter Topology

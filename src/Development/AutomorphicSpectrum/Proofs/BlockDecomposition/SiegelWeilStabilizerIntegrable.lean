@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GramNear
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.MeasurableSetIntF
 open scoped Matrix NNReal ENNReal ComplexConjugate TensorProduct

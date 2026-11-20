@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.HermitianForms.IsLocBasis
 import Formalism.LocalToGlobal.Divisibility.CoefMod
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
+import Mathlib.Data.Int.Star
 
 noncomputable section
 

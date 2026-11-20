@@ -1,7 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.CuspidalProjection.Global
-import GroundTheory.AutomorphicForms.TraceClass
-import GroundTheory.AutomorphicForms.TraceFormulaConvolution
+import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspCompact
+import GroundTheory.AutomorphicForms.CuspidalDiscreteness.DecayUniform
 
 open MeasureTheory Set Filter Topology Function
 open NumberField IsDedekindDomain

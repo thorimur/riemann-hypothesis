@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementQ
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MinorSmoothness.HasDerivAtExt
 
 open Matrix Filter Topology

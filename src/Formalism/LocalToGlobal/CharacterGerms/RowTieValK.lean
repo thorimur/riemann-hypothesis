@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.LinearCoeffExponentialEqIte
+import Formalism.LocalToGlobal.CharacterGerms.RowTieFB
 
 noncomputable section
 

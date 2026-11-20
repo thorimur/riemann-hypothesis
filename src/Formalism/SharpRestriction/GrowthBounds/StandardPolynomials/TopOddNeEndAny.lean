@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.MultMk
+import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.SgKSPowP
 
 noncomputable section
 

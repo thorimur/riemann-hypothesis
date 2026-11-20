@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsExtendResidue
-import Development.AbelianVarietyTheory.Proofs.HermitianTraceForms.ExistsIsComplEigenSubOfValuationRing
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.DetCondTensorDefinite
 
 set_option autoImplicit false

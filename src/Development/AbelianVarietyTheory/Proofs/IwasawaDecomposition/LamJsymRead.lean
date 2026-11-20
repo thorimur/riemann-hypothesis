@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.LevGSym
 import Formalism.LocalToGlobal.HermitianForms.DefsSym
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.CongruenceLevelEqDepthSucc
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.PhiTopTargetSym
 import Formalism.LocalToGlobal.GroupLattices.LevelCharts.JoinForms
 

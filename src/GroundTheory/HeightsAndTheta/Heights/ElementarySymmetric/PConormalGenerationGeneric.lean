@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StConormalGenerationGeneric
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.GenericGradient
 set_option maxSynthPendingDepth 1

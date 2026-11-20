@@ -1,12 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsCompactIsOpenUnitsAt
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DblOpOfConst
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OnlyTrivialPartner
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeFixedAtOfSummands
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsComplAtBot
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IdemSmulUnitary
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceTripleStabilizerFixed
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DefiniteCompactArchimedeanMaximal
 open scoped TensorProduct NNReal Matrix

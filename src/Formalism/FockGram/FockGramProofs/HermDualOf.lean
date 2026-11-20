@@ -1,4 +1,8 @@
 import Formalism.FockGram.StatementHerm
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Matrix LinearMap Module
 

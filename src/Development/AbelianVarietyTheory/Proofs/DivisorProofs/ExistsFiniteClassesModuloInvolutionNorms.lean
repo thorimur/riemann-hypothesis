@@ -1,8 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PrimeMapPrimeMap
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OrdNonnegOfIsIntegral
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FixedEqRepMulNormMulFixedUnit
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteFixedUnitsModFixedSquares
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.GroupTheory.FiniteAbelian.Basic
+import Mathlib.NumberTheory.NumberField.ClassNumber
+import Mathlib.NumberTheory.NumberField.Units.DirichletTheorem
 open NumberField IsDedekindDomain GlobalTheory.FixNormCls GlobalTheory.LocalDivisor
 open scoped TensorProduct Classical
 

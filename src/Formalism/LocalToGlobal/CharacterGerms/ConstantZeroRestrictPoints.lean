@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.PderivDoubleMultiplicationJacobian
-import Formalism.LocalToGlobal.CharacterGerms.FirstVanishingAt
+import Formalism.LocalToGlobal.CharacterGerms.RowTiePGerm
 
 set_option autoImplicit false
 

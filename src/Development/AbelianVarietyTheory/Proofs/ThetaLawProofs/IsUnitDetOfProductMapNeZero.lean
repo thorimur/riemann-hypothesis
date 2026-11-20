@@ -1,6 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.CoeffEqZeroOfMemSpanPow
 import Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.DiscrMulDetEqNormOfAnnihilator
+import Mathlib.RingTheory.MvPowerSeries.Derivative
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace GlobalTheory.DiscrJacobian
 

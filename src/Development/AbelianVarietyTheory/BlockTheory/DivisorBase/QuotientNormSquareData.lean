@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.HarderNarasimhan.StatementPl
 import Formalism.HarderNarasimhan.ShiftInvariance
 
 open Module NumberField IsDedekindDomain

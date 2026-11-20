@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.CongruenceLevelEqDepthSucc
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.TensorMapDescent
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.SpanMapNabKDelK
+import Formalism.LocalToGlobal.Columns.RowFormsLemmas
 
 noncomputable section
 

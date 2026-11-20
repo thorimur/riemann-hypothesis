@@ -1,12 +1,8 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.HermitianLattices.StatementMass
-import Formalism.FormalDegreeBessel.StatementDS
-import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
-import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
 import Formalism.SharpRestriction.CuspSpanNormBounds.SArith
 import Formalism.SharpRestriction.CuspSpanNormBounds.DstarEq
 import Formalism.SharpRestriction.ParConsts
+import Mathlib.Analysis.InnerProductSpace.Positive
+import Mathlib.NumberTheory.NumberField.DedekindZeta
 
 noncomputable section
 

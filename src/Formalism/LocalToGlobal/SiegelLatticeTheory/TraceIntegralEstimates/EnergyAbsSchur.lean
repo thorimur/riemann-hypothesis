@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.EnergyAbs
+import Mathlib.Analysis.InnerProductSpace.Adjoint
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.InvertibleDual
+import Mathlib.CategoryTheory.Monoidal.Skeleton
 
 open CategoryTheory MonoidalCategory Opposite AlgebraicGeometry TopologicalSpace
 

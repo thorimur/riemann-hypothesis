@@ -1,5 +1,4 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.DefsObj
-import GroundTheory.AutomorphicForms.SupercuspidalCoefficients
 
 open MeasureTheory NumberField IsDedekindDomain
 open GroundTheory.Automorphic GroundTheory.Automorphic.Reduction GroundTheory.Automorphic.RightCosetSpace

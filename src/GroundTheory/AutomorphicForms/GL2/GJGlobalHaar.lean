@@ -1,7 +1,4 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GL2.GJGlobalDefs
-import GroundTheory.GlobalFields.TateThesis.IdeleMeasureNormOne
-import GroundTheory.AutomorphicForms.RealIwasawaIntegration
+import GroundTheory.AutomorphicForms.CuspidalDiscreteness.Unimodular
 
 open MeasureTheory NumberField Set
 open scoped NumberField.AdeleRing ENNReal NNReal

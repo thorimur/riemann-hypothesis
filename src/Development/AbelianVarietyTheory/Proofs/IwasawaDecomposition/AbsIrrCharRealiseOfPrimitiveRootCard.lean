@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.GoodXgFin
 import Development.AbelianVarietyTheory.Proofs.CharacterTheory.IsCharOfIsPrimitiveRoot
 open Formalism.L2.DIV

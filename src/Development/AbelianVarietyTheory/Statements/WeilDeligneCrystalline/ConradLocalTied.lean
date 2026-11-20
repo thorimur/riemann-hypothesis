@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.AutomorphicTheory.PadicUnitaryWeights.CrystallineUnitParts.ConradLocalTiedness
 
 noncomputable section

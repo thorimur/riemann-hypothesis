@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Statements.EllipticCurveLevels.X0OfStarCondition
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.WeakRepIso
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.GaloisRepConjInvariant
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ClauseAtOfRepIso
 
 open NumberField IsDedekindDomain Neutral.B1 Formalism.L2.Host Formalism.ConjugateSelfDual ReciprocityTheory.Gal Formalism.BasicNotions Formalism.BasicNotions.Loc Formalism.MainNotions.N

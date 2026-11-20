@@ -1,6 +1,6 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.ThetaSetupAlgebraMaps
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.GammaIndependence.HomApply
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 set_option backward.isDefEq.respectTransparency false
 set_option maxHeartbeats 1000000

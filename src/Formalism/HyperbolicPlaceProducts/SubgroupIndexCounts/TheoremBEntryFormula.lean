@@ -1,5 +1,11 @@
 import Formalism.HyperbolicPlaceProducts.DetIndexProductHyperbolicInequality
-import Formalism.HyperbolicPlaceProducts.SubgroupIndexCounts.ArithmeticLatticeHypothesis
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.SLP.GlobalBoundRefinements.P
 open Formalism.SLP.GlobalBoundRefinements

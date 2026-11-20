@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.CokLenLeOfRangeLe
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SelmerTransport.LenComp
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.ImportsTer
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.CokLen
+import Mathlib.RingTheory.PicardGroup
 
 open UpperTheory.V UpperTheory.V.PropA
 

@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.PrimitiveCosets.CoreAtH
 import Development.AutomorphicArithmetic.PrimitiveCosets.PrimRead
 import Development.AutomorphicArithmetic.PrimitiveCosets.CardPsiA
 

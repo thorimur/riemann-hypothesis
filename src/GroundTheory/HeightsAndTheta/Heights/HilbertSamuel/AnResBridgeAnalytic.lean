@@ -1,6 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterRedB
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterBridgeD
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.AnResBridgeProj
 set_option maxSynthPendingDepth 1
 

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExtFormAdjEqNegSecondForm
+import Development.AbelianVarietyTheory.Definitions.Divisors.LeTwoMulOfForallScale
 
 open Matrix GlobalTheory.HermFrame
 open scoped ComplexOrder ComplexConjugate

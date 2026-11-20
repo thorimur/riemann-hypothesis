@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.WeightTraceProducts.RepGApply
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 noncomputable section
 

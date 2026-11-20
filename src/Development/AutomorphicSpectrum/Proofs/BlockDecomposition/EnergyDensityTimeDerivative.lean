@@ -1,4 +1,6 @@
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.Rr
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
 open MeasureTheory Matrix Finset
 open scoped ContDiff ComplexConjugate InnerProductSpace
 open PositivityTheory.RgBcC GlobalTheory.CompanionTheory.WaveSpd

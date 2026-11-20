@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.LinIndepOneDelta
+import Formalism.LocalToGlobal.IndefiniteReal.InjectiveDecompositionAction
 
 noncomputable section
 

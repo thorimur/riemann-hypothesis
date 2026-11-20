@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.EllipticTorsion.WChordSeries
+import Mathlib.RingTheory.MvPowerSeries.Inverse
 
 open PowerSeries
 

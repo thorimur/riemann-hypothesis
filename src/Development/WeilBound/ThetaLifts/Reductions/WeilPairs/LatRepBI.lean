@@ -1,4 +1,8 @@
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.LatRepBS
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHalfAbstract
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPrimeNotDvdRelIndexSplitPlace
+import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.LatRepB_A
+import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.SumFourEqTrace
 
 noncomputable section
 

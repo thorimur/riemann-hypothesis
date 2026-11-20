@@ -1,7 +1,8 @@
-import Formalism.AdmissibleDesigns.BKaClause
-import Formalism.SharpRestriction.LevelLetterCocycles.JumpAndLengthOfAdmitted
 import Formalism.AdmissibleDesigns.ColLx
 import Formalism.AdmissibleDesigns.UnramifiedInputOfAdmitted
+import Formalism.AdmissibleDesigns.DesignNormalizedOfAdmitted
+import Formalism.AdmissibleDesigns.NormalizedRingData
+import Formalism.AdmissibleDesigns.TheoremFromNormalizedOpenThree
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core] [hH0Fin : Fact Formalism.MainNotions.N.K.H0.FinCore]
 

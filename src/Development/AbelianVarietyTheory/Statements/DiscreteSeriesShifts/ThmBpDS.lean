@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.SumIoPrAlt
 import Formalism.HermitianCurvature.StatementTBB
 import Formalism.SharpRestriction.CuspSpanNormBounds.LeadMinorK
+import Formalism.PeriodIntegrals.CapelliEig
 
 noncomputable section
 

@@ -3,6 +3,8 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.F
 import GroundTheory.LocalFields.LocalArtinCompletion
 import GroundTheory.LocalFields.PrincipalUnitsRank
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FixingSubgroupEquivBicontinuous
+import Mathlib.Algebra.Module.Torsion.Prod
+import Mathlib.Topology.Algebra.ProperAction.Basic
 
 open Topology Filter
 

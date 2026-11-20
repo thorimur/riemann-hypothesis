@@ -1,4 +1,6 @@
 import Formalism.RealPlaceAnalysis.LminorPos
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.Normed.Algebra.MatrixExponential
 
 open Matrix
 open scoped ComplexOrder

@@ -1,8 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.PoitouTate.PoitouTateInfinite.Descent
 import GroundTheory.ProfiniteCohomology.PoincareDuality.NsmulEqZeroOfNonemptyAddEquiv
-import GroundTheory.ProfiniteCohomology.CohomologyFunctoriality.Naturality
-import GroundTheory.ProfiniteCohomology.ContinuousCochains.Functoriality
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

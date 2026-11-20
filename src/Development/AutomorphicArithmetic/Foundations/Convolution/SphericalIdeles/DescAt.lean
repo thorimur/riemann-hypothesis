@@ -1,5 +1,13 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.CoreDesc
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.ParEx
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.AbsLast
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.CoreDescOf
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.FdFixed
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.GoodEx
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.OneTerm
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.PickInf
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.PullBack
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.SideSum
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.TyEx
 
 noncomputable section
 

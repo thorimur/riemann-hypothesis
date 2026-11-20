@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.JacquetAdmissible
 import Development.WeilBound.CoreStatements.AutomorphicKernels.BernsteinUnitaryProducts.IrreducibleAdmissibleReps.Assembly
 

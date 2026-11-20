@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.Series
 set_option maxSynthPendingDepth 1
 

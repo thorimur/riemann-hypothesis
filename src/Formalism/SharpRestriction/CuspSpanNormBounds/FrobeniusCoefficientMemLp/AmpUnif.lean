@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.LemmaJ
+import Formalism.SharpRestriction.CuspSpanNormBounds.SBridge
 
 open MeasureTheory
 open scoped ENNReal

@@ -1,7 +1,8 @@
-import Mathlib
 import GroundTheory.Brauer.TensorSimple
-import Development.AbelianVarietyTheory.Definitions.Divisors.PlacesOverU
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RealRepTmul
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
 
 open NumberField Matrix GlobalTheory.UPel.HT
 open scoped TensorProduct ComplexConjugate

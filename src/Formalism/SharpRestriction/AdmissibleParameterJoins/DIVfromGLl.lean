@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLj
 import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLk
 import Formalism.SharpRestriction.Divisibility.WeightDegreeSizes
+import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLi
 
 noncomputable section
 

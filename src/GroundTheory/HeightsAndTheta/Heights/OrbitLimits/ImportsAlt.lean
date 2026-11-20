@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ImportsBis
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PProjRegular
 set_option maxSynthPendingDepth 1

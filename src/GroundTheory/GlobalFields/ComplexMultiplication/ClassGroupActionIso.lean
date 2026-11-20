@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.AnalyticAlgebraic
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.KodairaNeron
 import GroundTheory.GlobalFields.ComplexMultiplication.JInvariantSurjective

@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePHStab
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePCartSelfSt
 
 noncomputable section

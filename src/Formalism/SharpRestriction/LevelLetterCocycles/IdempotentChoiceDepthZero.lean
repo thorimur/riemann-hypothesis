@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.ReducibleThreeDim
-import Formalism.SharpRestriction.LevelLetterCocycles.LargeLevelLemmas
+import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
 
 noncomputable section
 

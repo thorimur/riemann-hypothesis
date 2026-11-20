@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LGrowthGamma
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.DigammaBoundVerticalStrip
 
 open Complex Set

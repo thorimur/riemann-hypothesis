@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.TateCohomology.DimensionShift
 set_option maxSynthPendingDepth 1
 

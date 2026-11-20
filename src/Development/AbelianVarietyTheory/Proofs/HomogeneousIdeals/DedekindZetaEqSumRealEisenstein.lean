@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.TendstoRealEisensteinSubPole
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsBasisEmbedding
+import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsVariableChangeEqLatticeCurve
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 open NumberField Module FractionalIdeal Filter Topology
 open scoped nonZeroDivisors UpperHalfPlane Real

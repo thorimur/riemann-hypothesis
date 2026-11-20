@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.LatIdxDet
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.IdxChange
 
 open Module IsDedekindDomain Formalism.HermitianLatticesTheory Formalism.DivisionValues

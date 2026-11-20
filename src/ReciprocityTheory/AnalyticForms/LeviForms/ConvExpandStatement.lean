@@ -1,8 +1,4 @@
-import ReciprocityTheory.AnalyticForms.LeviForms.TailBound
 import ReciprocityTheory.AnalyticForms.LeviForms.MixedIntegralInclusionExclusion
-import ReciprocityTheory.AnalyticForms.PotentialTheory.LocDens
-import ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasure
-import ReciprocityTheory.AnalyticForms.PotentialTheory.Stokes
 
 namespace ReciprocityTheory.AnForm.P
 

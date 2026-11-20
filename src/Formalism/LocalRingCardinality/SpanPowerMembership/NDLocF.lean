@@ -1,4 +1,5 @@
 import Formalism.LocalRingCardinality.SpanPowerMembership.NDLocE
+import Mathlib.Topology.Algebra.Nonarchimedean.AdicTopology
 
 noncomputable section
 

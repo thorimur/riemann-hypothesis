@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.LatticeSystems
-import Formalism.SharpRestriction.GrowthBounds.ObjBridge
+import Formalism.SharpRestriction.GrowthBounds.DataG
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.ClassLevels
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalInvariants
-import GroundTheory.ProfiniteCohomology.ContinuousCochains.LongExactSequence
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

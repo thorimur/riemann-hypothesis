@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.FlagUnipotentLattices.CardSubgroupsOfIndexLe
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.TransferenceCoverHolds
 

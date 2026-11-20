@@ -1,6 +1,8 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.SmoothRep
 import GroundTheory.AutomorphicForms.LocallyConstantCompact
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.PiTensorProduct
 
 open MeasureTheory GroundTheory.Automorphic
 

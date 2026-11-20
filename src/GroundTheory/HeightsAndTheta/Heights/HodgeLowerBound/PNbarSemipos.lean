@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StNbarChartSemipos
 set_option maxSynthPendingDepth 1
 

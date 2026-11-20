@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.ColMeas
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LangXRoot
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.WittVector.Complete
+import Mathlib.RingTheory.WittVector.DiscreteValuationRing
 
 open GlobalTheory.Col PowerSeries
 

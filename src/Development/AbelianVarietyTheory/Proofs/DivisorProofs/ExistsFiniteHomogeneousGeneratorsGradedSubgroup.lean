@@ -1,4 +1,12 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsRatioOfWeight
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Data.Finset.Functor
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 open Filter Topology MvPolynomial GlobalTheory.HSAmp
 
 set_option autoImplicit false

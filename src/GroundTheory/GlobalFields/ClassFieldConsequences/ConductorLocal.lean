@@ -1,8 +1,5 @@
-import Mathlib
-import GroundTheory.GlobalFields.ClassFieldConsequences.RayClassField
-import GroundTheory.GlobalFields.IdeleGroups.LocalConditionIndex
-import GroundTheory.GlobalFields.TateThesis.LocalConductor
-import GroundTheory.GlobalFields.TateThesis.ConductorIdeal
+import GroundTheory.GlobalFields.ClassFieldConsequences.CongruenceSubgroupLeStandardOpenSubgroup
+import GroundTheory.GlobalFields.ClassFieldConsequences.RayClassFieldLocal
 
 namespace GroundTheory.Global
 

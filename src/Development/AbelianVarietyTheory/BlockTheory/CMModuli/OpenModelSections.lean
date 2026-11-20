@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.CMModuli.CoefficientFieldBaseChange
 
 noncomputable section

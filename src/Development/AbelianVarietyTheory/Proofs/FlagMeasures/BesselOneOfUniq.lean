@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ExistsPeriodMapDet
 import Formalism.PeriodIntegrals.BesselMapUniq
+import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 
 open GlobalTheory.Mom
 

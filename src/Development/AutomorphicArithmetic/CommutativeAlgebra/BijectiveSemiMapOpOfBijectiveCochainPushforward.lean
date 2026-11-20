@@ -1,6 +1,6 @@
-import Development.AutomorphicArithmetic.CommutativeAlgebra.BconeDefs
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsImageCocycleSemilinearSheafComplexMapStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SheafComplexSemilinearMapCompBijectiveStatement
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrPreservesHomology
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex GlobalTheory.EtC UpperTheory.Bc
 
 private noncomputable def UpperTheory.bijective_semiMap_op_of_bijective_cochain_pushforward.toRcx {R : Type} [CommRing R] {L B : Cx R} (ρ : SemiMap L B) :

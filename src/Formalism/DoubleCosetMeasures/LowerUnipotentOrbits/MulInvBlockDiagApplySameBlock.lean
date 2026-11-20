@@ -1,4 +1,6 @@
 import Formalism.DoubleCosetMeasures.Statement
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 set_option maxHeartbeats 400000
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormIteratedFDerivTruncExpICompLe
+import Mathlib.Tactic.Polynomial.Basic
 open SchwartzMap Filter Topology
 open scoped Nat
 noncomputable section

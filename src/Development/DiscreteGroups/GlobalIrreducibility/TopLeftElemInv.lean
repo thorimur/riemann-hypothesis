@@ -1,4 +1,4 @@
-import Development.DiscreteGroups.GlobalIrreducibility.TopLeftXAInv
+import Development.DiscreteGroups.GlobalIrreducibility.RankOneTopLeftZero
 
 noncomputable section
 

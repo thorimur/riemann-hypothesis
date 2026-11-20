@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgBasic
+import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgDefs
 
 noncomputable section
 

@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.CechLevels
+import Development.EtaleCohomology.EtaleSheaves.EtaleDegreeZeroCohomologyEquivLocallyConstantFun
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

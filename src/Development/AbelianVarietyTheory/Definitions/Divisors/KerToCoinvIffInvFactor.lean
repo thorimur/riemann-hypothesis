@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.RallisCoinvariants
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.DegeneratePrincipalSeriesUnitary
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsLocallyConstantLinOm
+import Development.AbelianVarietyTheory.Definitions.Divisors.SecMapApply
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

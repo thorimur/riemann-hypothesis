@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.IntegralExtensionOfRegR1
 import Formalism.LocalToGlobal.ProjectiveLattices.IntAtExtExtAll
-import Formalism.LocalToGlobal.ProjectiveLattices.ValSetAlgSubset
 
 noncomputable section
 

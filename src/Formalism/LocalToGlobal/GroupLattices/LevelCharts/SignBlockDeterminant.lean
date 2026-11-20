@@ -1,4 +1,7 @@
-import Formalism.SatakeDualWeyl.StatementC
+import Formalism.SatakeDualWeyl.Statement
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

@@ -1,7 +1,9 @@
-import Formalism.LocalToGlobal.InertKernelTheory.DefsRep
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.ConstantCoeffFormalSum
 import Formalism.LocalToGlobal.InertKernelTheory.DefsRepDict
 import Formalism.LocalToGlobal.InertKernelTheory.SclY
+import Formalism.LocalToGlobal.InertKernelTheory.StatementBeCob
+import Formalism.LocalToGlobal.InertKernelTheory.StatementInt
+import Formalism.LocalToGlobal.PairingIndexBounds.PendingAdmissibility.LocalFDerivAdmissibility.RepRed
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KernelsLattice
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StandardInnerSingleNe
 set_option maxSynthPendingDepth 1

@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.Adm3OfExtension
-import Formalism.LocalToGlobal.ProjectiveLattices.L2DefiniteCuspForms
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.TorusAt
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.TorusAtData
 
 noncomputable section

@@ -1,10 +1,8 @@
-import Development.WeilBound.ThetaLifts.SmallCones.ThetaUniq
 import Development.WeilBound.ThetaLifts.SmallCones.Leaves
 import Development.WeilBound.ThetaLifts.SmallCones.GenSmallOf
 import Development.WeilBound.ThetaLifts.SmallCones.Kernel
 import Development.WeilBound.ThetaLifts.SmallCones.MixABOf
 import Development.WeilBound.ThetaLifts.SmallCones.TwoExp
-import Development.WeilBound.ThetaLifts.SmallCones.SliceSummable
 import Development.WeilBound.ThetaLifts.SmallCones.NormLeSum
 import Development.WeilBound.ThetaLifts.SmallCones.LineInt
 import Development.WeilBound.ThetaLifts.SmallCones.SchInt
@@ -12,13 +10,9 @@ import Development.WeilBound.ThetaLifts.SmallCones.TateAbs
 import Development.WeilBound.ThetaLifts.SmallCones.IntegrableProdOfBound
 import Development.WeilBound.ThetaLifts.SmallCones.Unfold
 import Development.WeilBound.ThetaLifts.SmallCones.UnipEx
-import Development.WeilBound.ThetaLifts.SmallCones.StabDec
-import Development.WeilBound.ThetaLifts.SmallCones.WittOf
 import Development.WeilBound.ThetaLifts.SmallCones.SplitLatMap
 import Development.WeilBound.ThetaLifts.SmallCones.IwaExOf
 import Development.WeilBound.ThetaLifts.SmallCones.KFinDataOf
-import Development.WeilBound.ThetaLifts.SmallCones.SoStab
-import Development.WeilBound.ThetaLifts.SmallCones.FormSwapZero
 import Development.WeilBound.ThetaLifts.SmallCones.LinExOf
 import Development.WeilBound.ThetaLifts.SmallCones.SoZero
 

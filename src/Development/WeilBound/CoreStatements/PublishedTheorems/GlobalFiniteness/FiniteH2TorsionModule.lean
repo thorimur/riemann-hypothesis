@@ -2,6 +2,7 @@ import Development.WeilBound.CoreStatements.PublishedTheorems.GlobalFiniteness.T
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.Dimension
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.CohomologicalDimensionTopologicalIsoStatement
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.ConstantTermFrameKTypeCoefficientsStatement
+import GroundTheory.ProfiniteCohomology.RestrictedRamification.Finite
 
 noncomputable section
 

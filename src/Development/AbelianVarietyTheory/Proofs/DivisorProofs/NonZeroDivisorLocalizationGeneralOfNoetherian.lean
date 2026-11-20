@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.ExistsNoetherianModelOfSmooth
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FibreGoingDownTensorStatement
+import Std.Tactic.BVDecide.Normalize.Prop
 open AlgebraicGeometry CategoryTheory Limits
 
 namespace GlobalTheory.NzdDescent

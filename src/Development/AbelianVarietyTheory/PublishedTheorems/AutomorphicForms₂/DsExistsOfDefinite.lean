@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.DsExistsOfDiscreteSeriesExists
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.LowestRankThree
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HasModelOfAntitone

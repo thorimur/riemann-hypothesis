@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BlowPolSt
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PhiDivisorArcBlowupStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PolarizationBlowupCombinedStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ConeConditionsProductStatement

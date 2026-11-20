@@ -1,5 +1,7 @@
 import ReciprocityTheory.L2DbarEstimates.HormanderEstimate.ClosedCoreOfRegM
 import ReciprocityTheory.L2DbarEstimates.HormanderEstimate.ClosedEval
+import ReciprocityTheory.L2DbarEstimates.LeviForms.HoloClosedNeed
+import ReciprocityTheory.L2DbarEstimates.SkodaWeights.NeedBergmanClosed
 
 namespace ReciprocityTheory.L2DbarEstimates.F
 

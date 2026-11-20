@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.AssemblyBase
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGraphClosed
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PVeryAmplePow
@@ -7,8 +6,6 @@ import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTwistAlg
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSectionExists
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LeadingCoeffPosCut
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PVeryAmpleNefPlusAmple
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PNefProductNonneg
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PNefPlusAmple
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

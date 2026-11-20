@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.Columns.RecLevelSym
-import Formalism.LocalToGlobal.Columns.Record
+import Formalism.LocalToGlobal.Columns.FiniteSumNonzeroLargeDepth
 
 noncomputable section
 

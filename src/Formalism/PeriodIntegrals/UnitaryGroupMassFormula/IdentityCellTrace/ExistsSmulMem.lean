@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianLattices.HermitianLatticesProofs.DualLattice
 import Lemmata.GeneralBFactThirdTail.Imports
 

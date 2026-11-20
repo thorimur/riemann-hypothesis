@@ -1,6 +1,9 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.FiniteBruhat
-import GroundTheory.AutomorphicForms.InductionParabolicGroups
+import GroundTheory.AutomorphicForms.Iwasawa
+import Mathlib.Data.Fin.Tuple.Sort
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 noncomputable section

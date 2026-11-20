@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisZero
 import GroundTheory.GlobalFields.Adele.Discrete
 open scoped TensorProduct NNReal Matrix

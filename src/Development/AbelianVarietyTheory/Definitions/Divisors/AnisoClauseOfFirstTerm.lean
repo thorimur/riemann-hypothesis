@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.SiegelWeil₂.FirstTermIdentityResidues
 
 noncomputable section

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsPowHeckeCharUnramifiedEverywhere
-import Formalism.LocalToGlobal.UnitaryNorms.IsUnitaryNormOf
 open NumberField IsDedekindDomain
 
 set_option maxHeartbeats 1000000 in

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.InBlock
 import Formalism.LocalToGlobal.IndefiniteReal.CxPassMet
 import Formalism.LocalToGlobal.Divisibility.TrivialExtensionSideWellFormed

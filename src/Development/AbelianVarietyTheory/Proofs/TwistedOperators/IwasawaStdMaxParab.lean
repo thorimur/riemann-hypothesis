@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.StandardMaximalParabolic
-import Formalism.JacquetSubsetSums.JacquetSubsetSum
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOfValILeOne
 
 open MeasureTheory ValuativeRel GlobalTheory.SmGL GlobalTheory.SplitWeil GlobalTheory.IndefiniteRowSideFullHecke.StandardMaximalParabolic

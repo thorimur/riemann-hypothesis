@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.DensGF
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.DensInert
+import Formalism.SharpRestriction.CuspSpanNormBounds.LinQRawRange
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

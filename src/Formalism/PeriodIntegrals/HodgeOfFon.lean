@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.WeaklyAdmissibleFiltrations.Statement
 import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
 
 namespace PI.HodgeOfFon

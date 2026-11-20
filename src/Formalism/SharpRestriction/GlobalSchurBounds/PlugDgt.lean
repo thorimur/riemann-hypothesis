@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.SmoothDesignExistence.FamilyLevelPrimeInputsOfSizes
 import Formalism.SharpRestriction.SmoothDesignExistence.DesignExistsDes
+import Formalism.SharpRestriction.Divisibility.WeightDegreeSizes
 
 noncomputable section
 

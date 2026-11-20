@@ -1,11 +1,6 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.CohomologicalDimension.CdpOpenSubgroupLe
-import GroundTheory.ProfiniteCohomology.CohomologicalDimension.NotDvdSuperIndexBotOfIsProPGroup
 import GroundTheory.ProfiniteCohomology.ClassFormationDefs
-import GroundTheory.ProfiniteCohomology.FilteredHomology
-import GroundTheory.ProfiniteCohomology.Factor
 import GroundTheory.ProfiniteCohomology.Colimit
-import GroundTheory.ProfiniteCohomology.OfNatRelIndexSupAntitone
+import GroundTheory.ProfiniteCohomology.IsProPGroupSubgroupIffIsPGroupMap
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.MapInvMEq
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.L1QuotientIntegralBound
 
 noncomputable section
 

@@ -1,7 +1,5 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.TwoPlaces
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.SecondLevelOfNorm
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.BiextensionRelationOfExpSpec
-import Formalism.GaussJetBounds.StatementW
 
 noncomputable section
 open scoped BigOperators

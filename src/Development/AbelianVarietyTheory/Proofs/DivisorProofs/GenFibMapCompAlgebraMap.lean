@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsorsTrivial
+import Mathlib.RingTheory.WittVector.IsPoly
 
 open IsLocalRing Polynomial
 

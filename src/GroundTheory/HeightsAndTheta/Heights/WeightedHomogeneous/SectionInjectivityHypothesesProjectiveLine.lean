@@ -1,8 +1,12 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.Points
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.Slopes
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.Objects
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ArithmeticHilbertSamuelLowerBound
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.LinearAlgebra.Matrix.PosDef
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.SimpleRing.Principal
+import Std.Tactic.BVDecide.Normalize.Prop
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.Close

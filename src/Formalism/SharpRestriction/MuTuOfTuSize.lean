@@ -1,8 +1,6 @@
-import Formalism.SharpRestriction.GlobalTheoremInputs
-import Formalism.SharpRestriction.AdmissibleParameterJoins
 import Formalism.SharpRestriction.AdmissibleParameterJoins.SumLogPrimeFactorsLe
 import Formalism.SharpRestriction.LevelLetterCocycles.TwGood
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.PChain
+import Formalism.SharpRestriction.ParamsHeightRankConstant
 
 noncomputable section
 

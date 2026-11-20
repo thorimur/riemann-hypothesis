@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsIncIdealNeBotDim
-import GroundTheory.HeightsAndTheta.Heights.ChowForms.Imports
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChowFormExists
 set_option maxSynthPendingDepth 1
 

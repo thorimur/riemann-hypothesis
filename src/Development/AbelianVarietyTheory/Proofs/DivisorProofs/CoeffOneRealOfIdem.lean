@@ -2,6 +2,7 @@ import Development.AbelianVarietyTheory.Definitions.Divisors.BadElt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRangeMulLeftIdempotentGroupAlgebra
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.UnitriSubOnePow
 import Formalism.LocalToGlobal.Divisibility.ProjLemmas
+import Mathlib.Data.Finsupp.Pointwise
 open Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.ArithmeticCylinders GlobalTheory.BadCount Module
 
 noncomputable section

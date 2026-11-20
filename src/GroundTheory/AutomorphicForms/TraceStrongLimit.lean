@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TraceNormComp
+import Mathlib.Analysis.Normed.Group.Tannery
 
 namespace GroundTheory.Automorphic
 

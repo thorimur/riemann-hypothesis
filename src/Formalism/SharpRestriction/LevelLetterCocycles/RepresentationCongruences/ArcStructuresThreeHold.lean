@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.ExistsGaloisExtendingAlgHom
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.FinrankEqOneOfBijectiveBis
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.SmulPowDifferenceIdentity

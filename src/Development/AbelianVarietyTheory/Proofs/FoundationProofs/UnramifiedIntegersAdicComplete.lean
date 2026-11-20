@@ -1,5 +1,5 @@
-import Development.AbelianVarietyTheory.Definitions.Foundations.CosetTrace
 import Development.AbelianVarietyTheory.Definitions.Foundations.NotCoboundaryConstantOne
+import Mathlib.RingTheory.AdicCompletion.Completeness
 open GlobalTheory.AlmostEt GlobalTheory.K5
 open scoped NNReal
 

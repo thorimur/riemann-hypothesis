@@ -1,4 +1,6 @@
-import Formalism.AdmissibleDesigns.NonemptyPl
+import Formalism.CharacterColumnKernels.IdempotentNormalForms.GlobalConcreteOf
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapSecondPlace
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

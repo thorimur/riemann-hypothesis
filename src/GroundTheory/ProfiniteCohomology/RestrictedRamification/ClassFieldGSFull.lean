@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.ClassFieldGS
 set_option maxSynthPendingDepth 1
 

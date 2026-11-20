@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.Coarse
+import Formalism.SharpRestriction.GrowthBounds.ValuationLowestDegreeMapFractionField
 
 noncomputable section
 

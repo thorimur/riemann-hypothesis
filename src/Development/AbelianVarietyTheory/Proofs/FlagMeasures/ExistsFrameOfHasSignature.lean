@@ -1,11 +1,7 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.AdelstabL
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.SignatureConjugationInvariant
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.SignatureExists
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HostCmData
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ImportsBisExtra
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.InclEIntMem
+import Formalism.SharpRestriction.InertJacobiLevels.HostFam
 
 noncomputable section
 

@@ -3,8 +3,6 @@ import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SwGaussUniq
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SwPhiForm
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SwBigCellG
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SwPhiDeriv
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.JacConstBHR
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.JacConstBHLIso
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.JacConstBHDim
 
 namespace Formalism.L2.SG.Pf.BH

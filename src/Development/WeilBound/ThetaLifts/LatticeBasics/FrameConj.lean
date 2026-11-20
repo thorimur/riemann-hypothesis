@@ -1,6 +1,4 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.LatticeBasics.FrameB
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsSiegelHProjArchEq
 import Development.WeilBound.ThetaLifts.LatticeBasics.HypothesesE
 
 noncomputable section

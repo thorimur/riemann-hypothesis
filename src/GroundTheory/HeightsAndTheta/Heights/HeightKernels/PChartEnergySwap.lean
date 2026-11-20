@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsChartEnergySwap
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ChartHessHolo
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartDensityIntegrable

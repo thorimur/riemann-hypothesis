@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.RespectsAddUniversal
 
 open Polynomial WeierstrassCurve.Affine GroundTheory.Arith.Abelian

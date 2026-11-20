@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.IsHorizontalTwist
+import Mathlib.Algebra.Polynomial.SpecificDegree
+import Mathlib.RingTheory.LocalProperties.Reduced
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.SimpleRing.Principal
 open MvPolynomial ReciprocityTheory.ChartRestriction.G.Geo MeasureTheory GlobalTheory.CompanionTheory.Ar.Tw
 
 namespace GlobalTheory.CompanionTheory.Ar.Tw

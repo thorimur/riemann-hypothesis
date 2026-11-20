@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiltrationDistinctCharactersSplit
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusThreeBlockApply
 open GlobalTheory.SmGL GlobalTheory.PRep GlobalTheory.LeviBlockExponent GlobalTheory.IndJacBlock
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.filtration_distinct_characters_split : ∀ {V : Type} [AddCommGroup V] [Module ℂ V] {G : Type} [CommMonoid G] (ρ : G →* Module.End ℂ V)

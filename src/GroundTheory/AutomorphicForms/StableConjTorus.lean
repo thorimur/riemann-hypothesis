@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HermitianOrthogonal
 import GroundTheory.AutomorphicForms.StableConjCyclic
 

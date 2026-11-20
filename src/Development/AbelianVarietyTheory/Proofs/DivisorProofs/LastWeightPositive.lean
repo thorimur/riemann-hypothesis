@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.ThProps
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothReal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LastPosWtAOfPins
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LastPosOfKapIs
 

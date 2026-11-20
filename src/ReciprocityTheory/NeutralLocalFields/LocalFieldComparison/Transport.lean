@@ -1,4 +1,3 @@
-import ReciprocityTheory.Hypotheses.GalCoh
 import ReciprocityTheory.NeutralLocalFields.LocalFieldComparison.TransportA
 
 noncomputable section

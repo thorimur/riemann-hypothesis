@@ -1,4 +1,3 @@
-import Formalism.AdmissibleDesigns.EKSymmCont
 import Formalism.AdmissibleDesigns.CohomZeroEquivContinuous
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]

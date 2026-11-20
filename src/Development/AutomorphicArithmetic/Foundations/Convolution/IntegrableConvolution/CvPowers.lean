@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.ClosedProperAlt
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.CvBasic
 
 open MeasureTheory

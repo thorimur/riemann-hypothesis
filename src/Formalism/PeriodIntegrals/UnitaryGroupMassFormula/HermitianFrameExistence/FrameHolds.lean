@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ScPiExists
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianFrameExistence.FrameCore
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianFrameExistence.Transfer
 

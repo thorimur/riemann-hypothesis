@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LaurentCoeffNegEqZeroOfBounded
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.HasArcDataIff
 open ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open scoped LaurentSeries
 set_option maxHeartbeats 1000000 in

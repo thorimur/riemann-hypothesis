@@ -1,7 +1,3 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.LintegralImageEqLintegralNormSqDetMul
-import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StChartChangeLocal
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PPosPartLocal
 set_option maxSynthPendingDepth 1
 

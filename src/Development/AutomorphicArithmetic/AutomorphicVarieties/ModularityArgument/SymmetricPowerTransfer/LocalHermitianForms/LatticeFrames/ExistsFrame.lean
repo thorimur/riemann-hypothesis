@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.LocalHermitianForms.EvenOfNorm
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace UpperTheory.V.Z.Sym.Loc.CP
 

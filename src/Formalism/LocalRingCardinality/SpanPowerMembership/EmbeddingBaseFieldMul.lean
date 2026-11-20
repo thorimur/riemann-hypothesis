@@ -1,6 +1,7 @@
-import Formalism.LocalRingCardinality.SpanPowerMembership.TrivialSubgroupEigenspaceTop
 import Formalism.LocalRingCardinality.SpanPowerMembership.NZTypeI
 import Formalism.LocalRingCardinality.SpanPowerMembership.NZTypeL
+import Formalism.LocalRingCardinality.SpanPowerMembership.EmbeddingBaseFieldCondition
+import Formalism.SharpRestriction.InertJacobiLevels.ResCharConj
 
 noncomputable section
 

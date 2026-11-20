@@ -1,8 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.ScaledRamifiedLattice
-import Formalism.LocalToGlobal.Columns.ColFormsLemmas
-import Formalism.LocalToGlobal.Columns.ColFormsInst
-import Formalism.LocalToGlobal.Columns.BaseInst
 
 open NumberField IsDedekindDomain IntermediateField Module
 

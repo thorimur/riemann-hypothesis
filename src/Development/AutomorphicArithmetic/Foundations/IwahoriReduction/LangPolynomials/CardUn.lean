@@ -1,4 +1,3 @@
-import Mathlib.RingTheory.ZMod.UnitsCyclic
 import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.LangPolynomials.FixedIntegersIsUnitOfNotMemPrimeSpan
 
 noncomputable section

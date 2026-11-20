@@ -1,5 +1,7 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.ConstSmall
 import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.HolomorphicIrreducibility.EisSlash
+import Mathlib.NumberTheory.Modular
+import Mathlib.NumberTheory.ModularForms.EisensteinSeries.IsBoundedAtImInfty
+import Mathlib.NumberTheory.ModularForms.EisensteinSeries.MDifferentiable
 
 noncomputable section
 

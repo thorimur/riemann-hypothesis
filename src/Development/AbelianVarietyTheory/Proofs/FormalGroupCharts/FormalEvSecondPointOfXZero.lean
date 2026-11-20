@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.ConstantCoeffEv
 
 set_option autoImplicit false

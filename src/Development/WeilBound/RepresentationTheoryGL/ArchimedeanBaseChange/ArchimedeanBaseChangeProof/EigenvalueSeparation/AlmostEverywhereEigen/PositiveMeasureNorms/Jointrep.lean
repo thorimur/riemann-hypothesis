@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.EigenvalueSeparation.AlmostEverywhereEigen.OneStepOf
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open MeasureTheory Filter Topology
 open scoped ENNReal

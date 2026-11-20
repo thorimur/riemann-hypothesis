@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.CohomologicalPurity.EtalePurityContinuityOffClosedOfLocalAndChase
+import Development.EtaleCohomology.CohomologicalPurity.OffContStepPf
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

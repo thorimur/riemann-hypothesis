@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.WeilConjectures.PushCxTPf
+import Development.EtaleCohomology.WeilConjectures.ArtinCut
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

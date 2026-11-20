@@ -1,4 +1,7 @@
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.SimpleOver
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open scoped TensorProduct
 

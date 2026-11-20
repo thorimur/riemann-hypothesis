@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.OneDim
 import GroundTheory.GlobalFields.Artin.SeriesEuler
 set_option maxSynthPendingDepth 1

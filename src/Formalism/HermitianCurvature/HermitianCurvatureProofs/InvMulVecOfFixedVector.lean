@@ -1,9 +1,5 @@
-import Formalism.HermitianCurvature.StatementTL
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.FrameCompletion
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.BlockMinorAbsoluteOfExplicit
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.HomogeneityNaturalDegree
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.WCellMemOmPlus
-import Formalism.FormalDegreeBessel.FormalDegreeRatio.BFCell
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OmpCofLPd
 
 namespace Formalism.FourierDecayAlt.P.TLC

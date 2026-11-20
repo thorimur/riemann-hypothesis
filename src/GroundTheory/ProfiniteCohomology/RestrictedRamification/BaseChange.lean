@@ -1,7 +1,3 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChangeDefs
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChangeModules
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChangePlaces
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChangeMackey
 set_option maxSynthPendingDepth 1
 

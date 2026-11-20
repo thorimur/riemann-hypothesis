@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.HwFixedLine
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HwIrred
 

@@ -1,4 +1,5 @@
 import Formalism.PadicSubsetSums.StableGradedCounts.CoeffZeroNeZeroOfIrreducible
+import Formalism.PadicSubsetSums.StableGradedCounts.IRRPrimeToPartEqIff
 
 open Finset Polynomial
 

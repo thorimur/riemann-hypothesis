@@ -1,9 +1,6 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.LocalWhittakerDuality.WSteps
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RWMulN
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegralCompUnitMul
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WeilRepresentationWhittakerHypothesisStatement
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnstatedLocalWeilLemma
 open MeasureTheory Matrix GroundTheory.LocalField GroundTheory.Automorphic Ad3 Ad3.K.GL2LocalData
 open scoped ValuativeRel
 

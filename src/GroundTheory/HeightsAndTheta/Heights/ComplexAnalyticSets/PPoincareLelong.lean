@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongRegularise
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimit
 set_option maxSynthPendingDepth 1
 

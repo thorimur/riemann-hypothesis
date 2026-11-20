@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.CoeNeZeroOfNotMem
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.TruncatedLatticeHolds
 

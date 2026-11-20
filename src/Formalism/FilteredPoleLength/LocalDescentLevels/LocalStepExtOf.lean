@@ -1,5 +1,5 @@
-import Formalism.FilteredPoleLength.LocalDescentLevels.LevelsChain
 import Formalism.FilteredPoleLength.LocalDescentLevels.LengthBaseChange
+import Formalism.IncomingBounds.FlowDegreeBounds.IndexLastReductionHolds
 
 open Module
 

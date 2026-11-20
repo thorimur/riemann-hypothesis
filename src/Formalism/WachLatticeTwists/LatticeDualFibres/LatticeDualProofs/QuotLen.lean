@@ -2,6 +2,7 @@ import Formalism.WachLatticeTwists.LatticeDualFibres.Statement
 import Formalism.WachLatticeTwists.TorsionLengthCounts.RowCol
 import Formalism.WachLatticeTwists.TorsionLengthCounts.SubmoduleLengthBoundStatement
 import Formalism.CharacterColumnKernels.IdempotentNormalForms.LengthEqKerAddRange
+import Std.Tactic.BVDecide.Normalize.Prop
 
 universe u
 

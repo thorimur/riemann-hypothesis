@@ -1,4 +1,6 @@
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SGaugeCdPfB
+import Formalism.LocalRingCardinality.DataTies
+import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SGaugeDensPf
 
 open MeasureTheory Filter Topology Set
 open scoped ENNReal NNReal

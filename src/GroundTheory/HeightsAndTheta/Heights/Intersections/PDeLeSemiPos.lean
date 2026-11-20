@@ -1,14 +1,11 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSt
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterDivSupp
-import GroundTheory.HeightsAndTheta.Heights.Intersections.NoCommonComponentCoordinatesPlane
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsAntisym
-import GroundTheory.HeightsAndTheta.Heights.Intersections.RegLine
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StPtsAddFirst
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StPtsRegLimit
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StPtsMonoSemiPos
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StRegCurvBound
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StHorizNotMem
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterRedF
 set_option maxSynthPendingDepth 1
 
 noncomputable section

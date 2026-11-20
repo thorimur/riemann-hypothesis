@@ -1,9 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FrameTransport
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsCompactCutoffCoefficient
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.AdmissibleOfRange
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ChartCoefficientHasCompactSupport
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.IsOpenDomP
-import Formalism.DoubleCosetMeasures.Statement
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.HeadTopOfRadialExhaustion
 
 noncomputable section
 

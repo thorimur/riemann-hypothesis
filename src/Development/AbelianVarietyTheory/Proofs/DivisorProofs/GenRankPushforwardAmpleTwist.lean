@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GenericFiniteMaps
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteCohOfForallModification
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDualPullback
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenFiniteCompDegreeMul
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericPointPreimageGenericStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericRankPushforwardStatement
 

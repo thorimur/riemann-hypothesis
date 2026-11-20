@@ -1,7 +1,6 @@
 import Development.WeilBound.CoreStatements.VolumeEquality.DegPushDefs
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PFnFieldTrdeg
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PBirationalRatioClosure
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PLiftBirationalNef
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.DualLat
-import Formalism.LocalToGlobal.GroupLattices.FockModels.TestSidePos
+import Formalism.LocalToGlobal.GroupLattices.FockModels.TestSideDef
+import Formalism.SharpRestriction.GrowthBounds.ObjSeg
 
 noncomputable section
 

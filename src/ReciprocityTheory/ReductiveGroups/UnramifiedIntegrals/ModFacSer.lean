@@ -1,11 +1,7 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModDefs
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModBasic
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModEisInt
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModDeltaInt
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.CoeffRescaleExpandOfNotDvd
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModEvalSer
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModEvalMF
+import Mathlib.Data.Int.Star
 
 noncomputable section
 open scoped BigOperators Classical UpperHalfPlane MatrixGroups CongruenceSubgroup Manifold

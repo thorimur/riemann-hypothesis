@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitChart
 set_option maxSynthPendingDepth 1
 

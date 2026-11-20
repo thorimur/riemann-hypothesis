@@ -1,9 +1,6 @@
-import Mathlib
-import Formalism.PeriodIntegrals.WeylProd
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WeylProd
-import Formalism.LocalToGlobal.GroupLattices.FockModels.WeylDim
 import Formalism.LocalToGlobal.Columns.Inputs
-import Formalism.LocalToGlobal.Columns.CmUnramifiedOfFieldConditions
+import Formalism.PeriodIntegrals.AdmissibleModel.WeylDim
 
 open NumberField IsDedekindDomain Module
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.LocSpBot
 
 namespace GlobalTheory.TwV

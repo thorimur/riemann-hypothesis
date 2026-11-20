@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsSnapper
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsTildeVanish
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.VeryAmpleCechSt
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.Statements
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

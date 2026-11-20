@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSecondVeroneseParts
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.BergmanProjectiveVolume
 set_option maxSynthPendingDepth 1

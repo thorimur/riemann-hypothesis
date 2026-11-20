@@ -1,4 +1,6 @@
-import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.DifferentiableAtChart
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
+import ReciprocityTheory.L2DbarEstimates.IsLocalHomeomorph
 
 namespace ReciprocityTheory.L2DbarEstimates
 

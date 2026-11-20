@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Jets.CmQuadraticFormEqAlternatingForm
-import Development.AbelianVarietyTheory.Definitions.Jets.TwoPlaces
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.DepthTableGoodPrimesOfChartFormStatement
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.LeafDepth2Run
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.KLeSubOneOfLt

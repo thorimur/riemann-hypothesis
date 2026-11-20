@@ -1,8 +1,8 @@
-import Development.AutomorphicArithmetic.CharacterBoxes.TwistForm
 import Development.AutomorphicArithmetic.MeanSquareBounds.realDecomp
 import Development.AutomorphicArithmetic.MeanSquareBounds.realCond
 import Development.AutomorphicArithmetic.MeanSquareBounds.IndUnique
 import Development.AutomorphicArithmetic.MeanSquareBounds.TwistPrim
+import Development.AutomorphicArithmetic.CharacterBoxes.PairGood
 
 open Formalism.HC UpperTheory.Top
 

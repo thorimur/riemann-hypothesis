@@ -1,8 +1,7 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.DividedPowerAlgebras.CompF
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.DividedPowerAlgebras.AcycOfCoprod
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmallDescentH1Surjective
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CrystallineH2SmallCoverBijective
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VanishingH1InvertingMorphisms
 
 set_option autoImplicit false
 

@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.IndefiniteReal.WeakCharacterisationWithError
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.BaseSt
 
 noncomputable section
 

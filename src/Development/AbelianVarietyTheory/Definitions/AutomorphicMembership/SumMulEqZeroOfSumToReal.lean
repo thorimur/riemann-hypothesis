@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsIvDOfDefinite
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.EqZeroOfApplySelf
 
 noncomputable section

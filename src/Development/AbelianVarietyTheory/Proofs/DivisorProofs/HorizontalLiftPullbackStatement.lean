@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalLiftPullback
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarAddVectorScalar
 open Matrix Set Filter Topology
 open GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe GlobalTheory.TorsionForm GlobalTheory.TorsionForm.Pullback
 open scoped ContDiff

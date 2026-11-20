@@ -1,4 +1,6 @@
 import Formalism.PieriBlockIdeals.StatementLP
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.CohomologicalDescent.LP
 

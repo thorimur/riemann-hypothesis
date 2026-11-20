@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.UnitaryNorms.CharHost
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.AbsPowOneNotIsAlgRat
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HostCmEmbeddingProperties
 

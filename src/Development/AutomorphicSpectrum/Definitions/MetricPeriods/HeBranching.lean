@@ -1,8 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 import Formalism.PeriodIntegrals.DSInfCharCap
-import Formalism.LocalToGlobal.BesselHermitianTheta.TiedType
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.ExceptionalGroupG2.HarishChandraMultiplicityBound
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.IsNormEmbId
 
 noncomputable section

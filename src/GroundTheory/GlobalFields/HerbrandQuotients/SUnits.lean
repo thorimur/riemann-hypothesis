@@ -1,9 +1,4 @@
-import Mathlib
 import GroundTheory.GlobalFields.SUnits
-import GroundTheory.GlobalFields.HerbrandQuotients.Lattice
-import GroundTheory.GlobalFields.HerbrandQuotients.SUnitsExact
-import GroundTheory.GlobalFields.HerbrandQuotients.SUnitsPerm
-import GroundTheory.GlobalFields.HerbrandQuotients.SUnitsRep
 import GroundTheory.GlobalFields.HerbrandQuotients.UnitsHerbrandValue
 
 namespace GroundTheory.Global

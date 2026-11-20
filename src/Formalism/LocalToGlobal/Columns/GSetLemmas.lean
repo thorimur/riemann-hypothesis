@@ -1,6 +1,8 @@
 import Formalism.LocalToGlobal.Columns.RhoEqOfSmulEq
 import Formalism.ThetaLiftIndependence.Statement
 import Formalism.GL3MeanSquares.HookFormulaTorsion.DoubleCosetDecompositionAll
+import Formalism.LocalToGlobal.Divisibility.ClassSumLemmas
+import Mathlib.Algebra.Group.Action.Option
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

@@ -1,5 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.SpreadingOutLocallyQuasiFinite
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsNeZeroForallComplexPointExtend
+import Mathlib.AlgebraicGeometry.QuasiAffine
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite LateralTheory.E.E4 LateralTheory.E.LeafDescendVCut Topology

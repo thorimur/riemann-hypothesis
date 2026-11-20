@@ -1,6 +1,8 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.RowTieFB
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.LinEig
+import Mathlib.LinearAlgebra.Eigenspace.Pi
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

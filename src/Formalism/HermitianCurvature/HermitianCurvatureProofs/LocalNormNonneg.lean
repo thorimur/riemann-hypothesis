@@ -1,7 +1,6 @@
 import Formalism.HermitianCurvature.StatementKB
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BlockOfCauchySchwarz
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TheoremPIntegralOfPlaces
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BlockEstimatesSumForm
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.JointInstanceTheoremA
 
 open Finset Filter Topology
 open scoped ComplexConjugate

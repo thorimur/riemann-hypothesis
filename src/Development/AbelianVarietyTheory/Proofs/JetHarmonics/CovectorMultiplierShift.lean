@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumDetVectorMultiplierShiftPlus
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.GlRelNegTAndQdet
 open Formalism.REAL Finset

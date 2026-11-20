@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsDeltaDelAtOwnAt
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.ExistsCoreJOfChiOKNoVol
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.NotIsUnitNatCastPrimeRingOfIntegers

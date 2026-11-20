@@ -1,5 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.Graded
-import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.OrbitVanishingLocal
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ChartFree
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ChartSum
 

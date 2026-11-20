@@ -1,6 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TopCore
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.VecVNonloc
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.NormSumLeOfGram
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.GermRateSplit
 
 namespace Formalism.FourierDecayAlt.P.GermRateSplit
 

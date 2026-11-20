@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.IsDiscreteValuationRingValuationSubringAtPrime
 import Development.AbelianVarietyTheory.PublishedTheorems.PublishedFoundations.ComplexMultiplicationJPremises
+import Mathlib.Data.Rat.Star
 
 open NumberField IsDedekindDomain WeierstrassCurve
 open scoped nonZeroDivisors IntermediateField

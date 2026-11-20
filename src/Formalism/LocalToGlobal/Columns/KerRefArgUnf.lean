@@ -1,5 +1,8 @@
 import Formalism.LocalToGlobal.Columns.XiHypOfThHyp
 import Formalism.LocalToGlobal.Columns.FixEColLevSym
+import Formalism.LocalToGlobal.Columns.KernelEquivTrivialTuple
+import Formalism.LocalToGlobal.Columns.LastRowColLevSym
+import Formalism.LocalToGlobal.Columns.RefKEquivOfCpTop
 
 open NumberField IsDedekindDomain Module Matrix
 

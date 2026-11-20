@@ -1,11 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ReindexDblIncM
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LagrInt
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.Mfac
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.DCdE
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.DiagonalLagrangianIntegralSiegelParabolicTransfoAlt
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.UnitCoef
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.IntegralMul
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.PrSingle
 open scoped TensorProduct Matrix
 open NumberField IsDedekindDomain Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes MeasureTheory

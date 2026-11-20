@@ -1,12 +1,7 @@
-import Formalism.LocalToGlobal.IndefiniteReal.FWCentral
-import Formalism.LocalToGlobal.IndefiniteReal.OneMapEq
 import Formalism.LocalToGlobal.ProjectiveLattices.CoreAt
-import Formalism.LocalToGlobal.ProjectiveLattices.CuspFormsFiniteDimensionalOf
 import Formalism.LocalToGlobal.ProjectiveLattices.CoreJExistsAt
 import Formalism.LocalToGlobal.ProjectiveLattices.SpMapAlgHomId
-import Formalism.LocalToGlobal.ProjectiveLattices.ParCanon
-import Formalism.LocalToGlobal.ProjectiveLattices.AllTest
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsGlob
+import Formalism.LocalToGlobal.IndefiniteReal.OneMapT
 
 noncomputable section
 

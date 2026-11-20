@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StdCoordMapInjective
-import GroundTheory.HeightsAndTheta.Heights.ArithDegreeExact
-import GroundTheory.HeightsAndTheta.Heights.ArithDegreeIdeal
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.DegreeTopEqArithDegree
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PLocalChange
 set_option maxSynthPendingDepth 1

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.FglPtW
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdditiveIntegralGroups.SubstMem
 

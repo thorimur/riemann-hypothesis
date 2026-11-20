@@ -1,6 +1,10 @@
-import Mathlib
 import GroundTheory.TateCohomology.HerbrandAbstract
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CyclicSubtraction
+import Mathlib.GroupTheory.FiniteAbelian.Basic
+import Mathlib.RepresentationTheory.Rep.Basic
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace GroundTheory.Global
 

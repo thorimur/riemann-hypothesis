@@ -1,4 +1,5 @@
-import Development.WeilBound.ThetaLifts.LatticeBasics.HypothesesS
+import Development.WeilBound.ThetaLifts.LatticeBasics.HypothesesE
+import Formalism.DoubleCosetMeasures.StatementZ
 
 noncomputable section
 

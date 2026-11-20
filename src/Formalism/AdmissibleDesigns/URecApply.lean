@@ -1,7 +1,8 @@
 import Formalism.AdmissibleDesigns.KoEquivSmul
-import Formalism.AdmissibleDesigns.H1MapMemLcH1
 import Formalism.AdmissibleDesigns.FiniteClassesContinuousLattice
-import Formalism.AdmissibleDesigns.DisplayForms
+import Formalism.AdmissibleDesigns.BlockTwistedCyclotomic
+import Formalism.AdmissibleDesigns.ExistsWildInertiaCyclotomicGenerator
+import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapProofs.TheoremNFiveRealAllLiftThird
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

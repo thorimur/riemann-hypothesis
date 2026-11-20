@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSheet
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.MdiscSt
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StPtsAddFirst

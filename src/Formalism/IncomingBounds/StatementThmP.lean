@@ -1,4 +1,5 @@
 import Formalism.IncomingBounds.IncomingBound
+import Mathlib.RingTheory.MvPowerSeries.Basic
 
 noncomputable section
 open scoped BigOperators

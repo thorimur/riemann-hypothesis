@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SatakeDualWeyl.StatementC
 
 open Matrix NumberField IsDedekindDomain

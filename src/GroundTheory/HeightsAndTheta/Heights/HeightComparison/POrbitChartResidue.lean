@@ -1,8 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitChartResidue
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitChartMax
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitChartQuot
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitChartDehom
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

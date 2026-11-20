@@ -1,7 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.ChebotarevCount
 import GroundTheory.GlobalFields.TateThesis.ChebotarevAbelian
-import GroundTheory.GlobalFields.TateThesis.DegreeOneDensity
+import Mathlib.Algebra.Group.ConjFinite
 
 namespace GroundTheory.Global
 

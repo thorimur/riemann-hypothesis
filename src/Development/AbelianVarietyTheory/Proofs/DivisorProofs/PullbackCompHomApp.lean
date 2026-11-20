@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ActMatApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentSectionsFormFrame
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentFrameAtFieldPoint

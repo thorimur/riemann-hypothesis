@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.UnitLemmaGroup
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open GlobalTheory.UnitLemma Polynomial
 

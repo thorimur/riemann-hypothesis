@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.Columns.AdelicLemmas
+import Formalism.LocalToGlobal.Divisibility.DefGroupLemmas
 
 noncomputable section
 

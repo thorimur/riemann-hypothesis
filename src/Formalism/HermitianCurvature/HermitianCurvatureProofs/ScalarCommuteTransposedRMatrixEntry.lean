@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementWd
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.EntryCommuteTransposedRMatrix
 
 namespace Formalism.FourierDecayAlt.P.Wd7

@@ -1,8 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.GlobalTheory.GL4.PColStd
 import Formalism.LocalToGlobal.GlobalTheory.GL4.KronDetScalar
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StandardSlopeBound.Inhabit
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StandardSlopeBound.GramMatrixDuality
 import Formalism.LocalToGlobal.Columns.CoefficientsModP
 
 open Module MvPolynomial

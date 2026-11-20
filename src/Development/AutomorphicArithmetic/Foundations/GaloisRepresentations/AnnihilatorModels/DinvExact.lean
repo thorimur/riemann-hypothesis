@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.GenericMulOfProd
+import Mathlib.RepresentationTheory.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

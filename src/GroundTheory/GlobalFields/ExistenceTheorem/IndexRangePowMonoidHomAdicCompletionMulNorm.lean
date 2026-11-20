@@ -1,9 +1,9 @@
-import Mathlib
 import GroundTheory.GlobalFields.ExistenceTheorem.PowerIndex
 import GroundTheory.GlobalFields.ExistenceTheorem.LocalPowers
 import GroundTheory.GlobalFields.IdeleGroups.IndexFormula
 import GroundTheory.GlobalFields.IdeleGroups.IndexProductFormula
 import GroundTheory.GlobalFields.IdeleGroups.LocalConditionIndex
+import GroundTheory.GlobalFields.SplittingFromInequality
 
 namespace GroundTheory.Global
 

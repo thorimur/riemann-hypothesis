@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.BesselHermitianTheta.MinfDensity
 import Formalism.LocalRingCardinality.DataDIV
+import Formalism.LocalRingCardinality.DataTheta
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HarderNarasimhan.Statement
 
 open Module Submodule

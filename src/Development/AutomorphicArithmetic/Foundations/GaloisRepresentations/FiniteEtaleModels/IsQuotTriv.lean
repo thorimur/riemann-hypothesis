@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.GeometricFlagBases.IntegOfMem
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.FiniteEtaleModels.IsEtIdealOfPlace
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsEtPlace
 
 set_option autoImplicit false
 

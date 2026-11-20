@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.GradedWeylDivisibility.FinalD
 import Formalism.LocalRingCardinality.DataCoeff
 import Formalism.HermitianLattices.StatementLat

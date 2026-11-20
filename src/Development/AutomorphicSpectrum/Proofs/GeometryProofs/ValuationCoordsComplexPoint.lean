@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.HasMultiplier
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

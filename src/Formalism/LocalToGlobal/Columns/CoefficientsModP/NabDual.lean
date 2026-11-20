@@ -1,7 +1,4 @@
 import Formalism.LocalToGlobal.Columns.CoefModB
-import Formalism.LocalToGlobal.Columns.CoefModX
-import Formalism.LocalToGlobal.Columns.CoefficientsModP.NablaIndependenceHolds
-import Formalism.LocalToGlobal.Columns.CoefficientsModP.TauLatticeLatticeHolds
 import Formalism.LocalToGlobal.Columns.CoefficientsModP.BaseCh
 
 open MvPolynomial NumberField IsDedekindDomain

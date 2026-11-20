@@ -1,5 +1,6 @@
-import Formalism.LocalToGlobal.ExponentGrids.EntryG
-import Formalism.LocalToGlobal.KernelLattices.ColInst
+import Formalism.LocalToGlobal.AlgebraicTheory.StatementKer
+import Formalism.LocalToGlobal.Divisibility.DivisionHeightBoundStatement
+import Formalism.LocalToGlobal.Divisibility.JetBounds.IsExpansion
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

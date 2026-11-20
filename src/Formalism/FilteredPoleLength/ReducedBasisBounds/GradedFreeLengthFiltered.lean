@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LogFactorialIndices.StatementIdx
-import Formalism.FilteredPoleLength.ReducedBasisBounds.LocalStepLevelsExt
 
 noncomputable section
 

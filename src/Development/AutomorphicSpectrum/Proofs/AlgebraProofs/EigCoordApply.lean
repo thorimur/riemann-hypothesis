@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.LinearIndependentEigProj
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.QuotientEigenDifference
 

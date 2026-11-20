@@ -1,6 +1,7 @@
 import Formalism.ThetaLogCoordinates.TraceIsometryWeights.StatementB
 import Formalism.ThetaLogCoordinates.TraceIsometryWeights.SchurTraceProofs.HomRelationHolds
 import Formalism.ThetaLogCoordinates.TraceIsometryWeights.SchurTraceProofs.InvInt
+import Formalism.PolynomialDimension.MultinomialDepth.MonoCount
 
 namespace Formalism.InvariantFactorPaths.PW
 

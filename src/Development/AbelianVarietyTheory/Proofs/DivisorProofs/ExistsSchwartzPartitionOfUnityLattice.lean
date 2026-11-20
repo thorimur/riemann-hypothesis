@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSmoothPeriodicPartitionOfUnity
+import Mathlib.Analysis.Distribution.SchwartzSpace.Basic
 open scoped ContDiff Topology
 
 namespace GlobalTheory.LatticeSumOne

@@ -1,7 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.LocalDensities.LeviFormGbPotOne
 import GroundTheory.HeightsAndTheta.Heights.LocalDensities.StatementsKrullHeightOne
 import GroundTheory.HeightsAndTheta.Heights.LocalDensities.StatementsZariskiDense
+import Mathlib.FieldTheory.PurelyInseparable.Exponent
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
 set_option maxSynthPendingDepth 1
 
 noncomputable section

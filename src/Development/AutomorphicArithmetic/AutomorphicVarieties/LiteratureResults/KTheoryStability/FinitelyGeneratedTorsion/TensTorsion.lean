@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.FaceDSingle
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.TorsBoundPow
+import Mathlib.Combinatorics.Quiver.ReflQuiver
 
 noncomputable section
 

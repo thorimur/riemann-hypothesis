@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.MeanHeightDescent.CombinedAverageDegreeBound
+import Formalism.MeanHeightDescent.BadRowsNumeric
+import Mathlib.Algebra.Order.Star.Real
 
 open Finset
 

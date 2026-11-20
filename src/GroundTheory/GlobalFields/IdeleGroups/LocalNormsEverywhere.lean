@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.LocalNormGroups
+import Mathlib.RingTheory.DedekindDomain.Different
 
 namespace GroundTheory.Global
 

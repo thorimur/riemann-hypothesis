@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.LinksLemmas
-import Formalism.LocalToGlobal.UnitaryNorms.CharTied
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.MemHalfCosetSelf
-import Development.AbelianVarietyTheory.Statements.CuspidalUnitaryTwists.OneSquareClosed
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.InertiaQuadraticRamification.InertSplitAlt
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ConjOfSq
 

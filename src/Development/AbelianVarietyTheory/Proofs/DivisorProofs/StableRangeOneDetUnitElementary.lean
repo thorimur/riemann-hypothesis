@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapMulVecOfMemTD
+import Std.Tactic.BVDecide.Normalize.Prop
 open NumberField IsDedekindDomain GlobalTheory.HaarLin
 
 namespace GlobalTheory.HaarLin.Gauss

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightGoodReductionAtPrime
 import Development.AutomorphicArithmetic.ResidueCharacters.TwistDef
 

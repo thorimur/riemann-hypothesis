@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AtPtsImp
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LamGeoEqFormula
+import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.SingleIndexPlacesAreTwisted
 
 set_option autoImplicit false
 

@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.StandingHypothesesHoldFamily
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.CountT
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ResidEvFree
 open Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.S
 
 namespace GlobalTheory

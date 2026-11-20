@@ -1,4 +1,3 @@
-import Formalism.LocalRingCardinality.DataDIV
 import Formalism.LocalRingCardinality.DataDIVDefs
 import Formalism.LocalRingCardinality.PrincipalHermitianLattice
 

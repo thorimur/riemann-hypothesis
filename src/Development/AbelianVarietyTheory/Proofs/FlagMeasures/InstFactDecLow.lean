@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.HermitianCurvature.BesselNonvanishingReduction
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.DecLowAndKFinDecayOfGapOfDecAll
 
 namespace GlobalTheory.DecTransport

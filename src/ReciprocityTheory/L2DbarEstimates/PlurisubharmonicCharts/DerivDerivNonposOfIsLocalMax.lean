@@ -1,4 +1,4 @@
-import ReciprocityTheory.L2DbarEstimates.LeviForms.OfRealNormSqSumMul
+import ReciprocityTheory.L2DbarEstimates.LeviForms.EventuallyDifferentiableAtOfContDiffAt
 
 open Complex ComplexConjugate Filter Topology
 

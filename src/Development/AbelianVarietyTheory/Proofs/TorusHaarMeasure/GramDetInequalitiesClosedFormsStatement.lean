@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.GramDetInequalitiesClosedForms
 open MeasureTheory Topology Matrix
 open scoped ComplexOrder ENNReal Pointwise

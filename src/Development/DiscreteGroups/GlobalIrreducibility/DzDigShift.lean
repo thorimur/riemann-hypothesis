@@ -1,4 +1,9 @@
 import Development.DiscreteGroups.GlobalIrreducibility.DzStickDigits
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace DiscreteGroups.sglob.DzDig
 

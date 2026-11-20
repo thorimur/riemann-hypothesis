@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsReductionModP
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PGenericFibreIdeal
 set_option maxSynthPendingDepth 1

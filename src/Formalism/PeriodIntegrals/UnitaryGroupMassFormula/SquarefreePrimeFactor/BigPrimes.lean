@@ -1,5 +1,4 @@
-import Formalism.PeriodIntegrals.SqfPrimeFactor
-import Formalism.PeriodIntegrals.PrimesDyadicRS
+import Formalism.PeriodIntegrals.SqfLab
 
 open Polynomial
 

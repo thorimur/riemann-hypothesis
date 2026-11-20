@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.PlaceDegreeData
 import Development.AbelianVarietyTheory.BlockTheory.SiegelWeilLocal.DefiniteGapThreshold
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsWeakIntegralOfStronglyContinuous
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.CuspidalSubspaceClosedRightTranslationStable
 
 open MeasureTheory NumberField Matrix
 open scoped InnerProductSpace

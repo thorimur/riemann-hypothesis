@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ReductionLocalVolumeTorus
 import GroundTheory.AutomorphicForms.RealIwasawaIntegration
 

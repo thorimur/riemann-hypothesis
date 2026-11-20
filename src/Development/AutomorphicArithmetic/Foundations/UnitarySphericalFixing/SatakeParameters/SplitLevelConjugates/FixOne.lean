@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.UnitarySphericalFixing.SatakeParameters.SplitLevelConjugates.IsPrincipalCongruenceAt
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsLocalComponentEigenvectorAtSplitPlaceIsoty
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjEqOfNormalises
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LocMemKOneOfSame
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FixedNeBotOfFixedVector
 
 open Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.N ReciprocityTheory.Aut Formalism.AUTREP Formalism.L2 Formalism.L2.Host NumberField IsDedekindDomain
 open GlobalTheory.PRep GlobalTheory.SplitWeil GlobalTheory.HeightCounting

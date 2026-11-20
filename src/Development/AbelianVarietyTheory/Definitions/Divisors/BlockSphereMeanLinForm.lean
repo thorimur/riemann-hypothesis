@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.PointHeight
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ExistsIsHomogeneousOfEquivariant
 import ReciprocityTheory.SemistableReduction.TorusL2CauchyInequality
+import Mathlib.RingTheory.Nullstellensatz
 
 set_option autoImplicit false
 noncomputable section

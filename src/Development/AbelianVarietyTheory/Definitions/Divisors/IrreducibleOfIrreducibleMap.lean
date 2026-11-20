@@ -1,6 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.PointHeight
 import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.AevalEqZeroOfHomogeneousComponent
+import Mathlib.Algebra.AffineMonoid.UniqueSums
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Polynomial.SpecificDegree
+import Mathlib.Data.Rat.Star
 
 set_option autoImplicit false
 

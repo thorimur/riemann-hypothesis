@@ -1,13 +1,7 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
-import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
-import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSchur
 import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.RrExistsMeasRep
 import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.RrgCountableField
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.ModularCharacterEqOneOnExpHermitian
-import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.ProjRows
 import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.RowsDef
-import Lemmata.GeneralBFactRightLast.Slot
+import Mathlib.Topology.Separation.CompletelyRegular
 
 noncomputable section
 

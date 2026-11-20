@@ -1,6 +1,5 @@
-import Mathlib
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecPairDefs
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.Kummer
+import ReciprocityTheory.ClassFieldTheory.LocalClassField.QZDefs
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField
 

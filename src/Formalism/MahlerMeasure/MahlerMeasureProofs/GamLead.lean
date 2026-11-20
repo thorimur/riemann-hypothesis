@@ -1,5 +1,15 @@
 import Formalism.MahlerMeasure.HasOrder
 import Formalism.MahlerMeasure.FinalM
+import Formalism.MahlerMeasure.MahlerMeasureProofs.FreezeBij
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.Polynomial.Basic
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.GM.leadingTermLemmas
 

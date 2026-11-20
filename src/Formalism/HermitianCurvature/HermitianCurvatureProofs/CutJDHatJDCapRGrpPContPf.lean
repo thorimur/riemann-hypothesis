@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapRGrpPCont
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ResGContDiffAt
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RadialRaisingTopOfParts
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

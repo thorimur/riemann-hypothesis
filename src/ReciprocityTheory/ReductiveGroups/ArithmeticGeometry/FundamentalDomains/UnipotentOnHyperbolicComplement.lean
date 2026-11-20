@@ -1,4 +1,5 @@
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.MajPos
+import Mathlib.LinearAlgebra.Matrix.Hermitian
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.FlowMatMulVec
 
 namespace ReciprocityTheory.ChartRestriction.G.FD
 

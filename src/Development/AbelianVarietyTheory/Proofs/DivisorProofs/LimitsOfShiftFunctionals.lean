@@ -1,9 +1,6 @@
-import Mathlib
-import Formalism.DegreeFormula.PointDegree.PowSum
-import Formalism.DegreeFormula.PointDegree.PermExpInj
-import Development.AbelianVarietyTheory.Definitions.Foundations.CurveCl
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ShiftFunctionalPowerSumStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsClassDegreeOneStatement
+import Mathlib.Algebra.Order.Ring.Star
 
 open MvPolynomial Formalism.DegreeFormula GlobalTheory.FlagPoly
 

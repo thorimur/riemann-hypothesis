@@ -1,5 +1,7 @@
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.AApproxB
 import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.HoloSmooth
+import Mathlib.RingTheory.PiTensorProduct
+import ReciprocityTheory.L2DbarEstimates.LeviForms.LogNormSq
 
 namespace ReciprocityTheory.L2DbarEstimates.Y
 

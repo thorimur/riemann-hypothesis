@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.IsTestRep
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.FourierMatch
 
 open Matrix MeasureTheory
 

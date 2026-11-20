@@ -1,5 +1,6 @@
-import Formalism.WachLatticeTwists.SplitClassesAll.WachTwistSplitTheoremLiftCondition
 import Formalism.WachLatticeTwists.SplitClassesAll.HZeroFromWInputsStatement
+import Formalism.WachLatticeTwists.SplitClassesAll.SourceTwoCasesOrSubfield
+import Formalism.WachLatticeTwists.SplitClassesAll.Statement
 
 open Finset Classical
 

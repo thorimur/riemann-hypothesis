@@ -1,10 +1,7 @@
 import Development.EtaleCohomology.TateTwists.acycIffPf
 import Development.EtaleCohomology.TateTwists.ColumnOf
 import Development.EtaleCohomology.TateTwists.StepPf
-import Development.EtaleCohomology.TateTwists.TensorVanishing
-import Development.EtaleCohomology.TateTwists.acycPf
 import Development.EtaleCohomology.TateTwists.conePf
-import Development.EtaleCohomology.TateTwists.EtaleTensorPreservesQuasiIsoOfAcyclicAndCone
 
 namespace LateralTheory.Fin.EtaleTensorPairQuasiIsoOfFlatQuasiIso
 theorem etale_complex_acyclic_iff_local_exactness : LateralTheory.EtaleFoundations.acyc.acycIff := by

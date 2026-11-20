@@ -1,5 +1,10 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgBasic
+import Formalism.TorsionNormIteration.InvIntegralOfClass
+import Mathlib.Analysis.Normed.Ring.Ultra
+import Mathlib.RingTheory.PowerSeries.Derivative
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

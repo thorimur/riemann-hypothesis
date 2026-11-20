@@ -1,5 +1,9 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.OpenSlices.LatticeIndices.ValuationPiNeZero
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DualCountBound.MatIdxB
+import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.CommutingInverses.InvCommOfComm
+import Mathlib.RingTheory.LocalRing.Quotient
+import Mathlib.RingTheory.Valuation.Extension
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

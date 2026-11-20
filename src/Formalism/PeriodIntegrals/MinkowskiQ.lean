@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.Minkowski
 
 namespace PI

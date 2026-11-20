@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.TwoBlockModule
-import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsSwap
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.ExistsMPrimeFiltration
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.IndexUBound
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IndexUpperBound.OneSubSumLeProd
 

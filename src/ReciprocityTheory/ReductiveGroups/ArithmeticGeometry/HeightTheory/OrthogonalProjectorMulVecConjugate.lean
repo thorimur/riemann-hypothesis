@@ -1,4 +1,7 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.OrthogonalProjectorMulVecSmul
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.NumberTheory.NumberField.Discriminant.Defs
 
 namespace ReciprocityTheory.ChartRestriction.G.T0
 

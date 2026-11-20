@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightPlaceCentredSum
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.NumberTheory.RamificationInertia.Valuation
+import Mathlib.Order.CompletePartialOrder
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

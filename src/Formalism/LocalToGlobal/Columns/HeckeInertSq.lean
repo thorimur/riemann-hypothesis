@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.Columns.HeckeInertLemmas
 import Formalism.LocalToGlobal.Columns.MemOfSmulMemOfAddEqOne
 
 noncomputable section

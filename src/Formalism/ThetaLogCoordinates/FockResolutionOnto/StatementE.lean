@@ -1,4 +1,5 @@
-import Formalism.ThetaLogCoordinates.FockResolutionOnto.StatementC
+import Formalism.MahlerMeasure.StatementT
+import Formalism.ThetaLogCoordinates.FockResolutionOnto.ShiftLastLetterThresholds
 
 namespace Formalism.InvariantFactorPaths.L4
 

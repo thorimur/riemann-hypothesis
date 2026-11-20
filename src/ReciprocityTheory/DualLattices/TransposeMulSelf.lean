@@ -1,5 +1,9 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.NearIdentityColengthStatement
+import Mathlib.LinearAlgebra.Matrix.Permutation
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace ReciprocityTheory.PGsh
 

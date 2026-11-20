@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.CrystallinePeriodRings.ExistsMapEqOfPowMul
 
 noncomputable section

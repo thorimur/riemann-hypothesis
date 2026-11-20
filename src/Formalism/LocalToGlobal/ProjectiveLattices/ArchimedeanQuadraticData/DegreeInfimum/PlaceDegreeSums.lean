@@ -1,5 +1,8 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.Rationality.GlobSt
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.FractionalIdeal.Norm
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

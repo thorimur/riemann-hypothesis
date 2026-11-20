@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.GroupLattices.PerfectRings.IsLocalRingOfComplete
+import Mathlib.Tactic.Polynomial.Basic
 open IsLocalRing
 
 namespace GlobalTheory

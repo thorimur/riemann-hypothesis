@@ -1,7 +1,8 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.QuotientDistinguishedTorsionFree
-import Mathlib.RingTheory.DiscreteValuationRing.TFAE
-import Mathlib.RingTheory.PowerSeries.Ideal
-import Mathlib.RingTheory.Filtration
+import Mathlib.Data.Nat.Totient
+import Mathlib.Data.Rat.Floor
+import Mathlib.Tactic.Continuity.Init
+import Mathlib.Tactic.NormNum.GCD
 
 namespace Formalism.MainNotions.N.FrobeniusPowerSeries
 

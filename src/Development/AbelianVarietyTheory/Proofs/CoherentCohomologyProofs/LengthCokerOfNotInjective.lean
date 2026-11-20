@@ -1,4 +1,6 @@
 import Development.AbelianVarietyTheory.Definitions.QuasicoherentCohomology.LengthCommensurableMapIffOfInjective
+import Mathlib.RingTheory.OrderOfVanishing.Noetherian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 universe u_1 u_2
 
 namespace GlobalTheory.LengthCokernelInjective

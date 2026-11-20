@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ToFirst
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.UniformisationConclusion
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDJet
+import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.GermComp1ZeroPointLeft
+import Mathlib.RingTheory.MvPowerSeries.Expand
 
 noncomputable section
 namespace PositivityTheory.HtPt.Ce

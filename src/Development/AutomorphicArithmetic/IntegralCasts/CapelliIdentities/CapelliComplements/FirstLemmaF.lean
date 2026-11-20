@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.JetsPhW
 
 universe u_1

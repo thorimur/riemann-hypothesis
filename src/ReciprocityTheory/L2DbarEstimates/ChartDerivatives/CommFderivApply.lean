@@ -1,4 +1,6 @@
 import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.TsupportDbSubset
+import Mathlib.RingTheory.PiTensorProduct
+import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.ChartSymmEventuallyEq
 
 namespace ReciprocityTheory.L2DbarEstimates
 

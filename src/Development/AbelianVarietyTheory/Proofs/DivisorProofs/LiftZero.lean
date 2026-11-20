@@ -1,8 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DiffsZeroOfLev
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DiffsLeSup
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogAbsEEqZero
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChainEmbZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChainEmbSuccMulVec
 
 open scoped TensorProduct NNReal Matrix

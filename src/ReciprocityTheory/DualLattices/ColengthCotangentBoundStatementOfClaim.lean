@@ -1,5 +1,4 @@
 import ReciprocityTheory.DualLattices.ColengthCotangentBoundStatement
-import ReciprocityTheory.DualLattices.PrimeHopfOrderStatement
 import ReciprocityTheory.DualLattices.IsLocalOfIntegers
 
 noncomputable section

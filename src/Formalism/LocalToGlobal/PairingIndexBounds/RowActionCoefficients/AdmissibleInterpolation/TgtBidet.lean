@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.PairingIndexBounds.RowActionCoefficients.AdmissibleInterpolation.FockRSmulLeft
-import Formalism.LocalToGlobal.GroupLattices.FockModels.SwRowGenMonomial
 
 open MvPolynomial
 

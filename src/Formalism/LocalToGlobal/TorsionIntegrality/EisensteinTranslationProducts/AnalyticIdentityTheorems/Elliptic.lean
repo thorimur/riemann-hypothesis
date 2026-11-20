@@ -1,4 +1,6 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.ThetaLine
+import Mathlib.Analysis.Meromorphic.NormalForm
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 open Filter Topology

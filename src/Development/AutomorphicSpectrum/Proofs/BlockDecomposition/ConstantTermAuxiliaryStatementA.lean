@@ -1,7 +1,4 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.AdelicGLn
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdelicGLIwasawaDecompositionStandardParabolic
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OneMemGoodCT
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsUnipLevIntegral
 
 set_option maxSynthPendingDepth 1

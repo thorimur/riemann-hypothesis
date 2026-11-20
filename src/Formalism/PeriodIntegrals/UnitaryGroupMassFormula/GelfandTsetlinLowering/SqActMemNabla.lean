@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GelfandTsetlinLowering.AdjBase
+import Formalism.PeriodIntegrals.GTDefs
 
 noncomputable section
 

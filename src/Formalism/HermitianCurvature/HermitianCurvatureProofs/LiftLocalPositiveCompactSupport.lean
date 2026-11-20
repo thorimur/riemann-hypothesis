@@ -1,5 +1,6 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.WaveLocalPositiveCompactSupport
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LiftLocalBuiltPlaces
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.GNPsdC
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.ModuleFormPosCompactSupport
 
 namespace Formalism.FourierDecayAlt.P.PBL
 

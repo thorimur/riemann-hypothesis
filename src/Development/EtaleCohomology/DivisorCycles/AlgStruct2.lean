@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.DivisorCycles.CycleCount
+import Mathlib.Tactic.Polynomial.Basic
 
 open Matrix
 namespace LateralTheory.DivDb

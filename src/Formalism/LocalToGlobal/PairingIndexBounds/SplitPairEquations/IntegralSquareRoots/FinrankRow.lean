@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.PairingIndexBounds.SplitPairEquations.IntegralSquareRoots.MemStandardThetaLatticeIffAdelicIdeal
-import Formalism.LocalToGlobal.PairingIndexBounds.SplitPairEquations.IntegralSquareRoots.PullMulRight
+import Formalism.LocalToGlobal.PairingIndexBounds.SplitPairEquations.GMConjTranspose
 
 noncomputable section
 open NumberField Formalism.BasicNotions Classical Matrix

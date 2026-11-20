@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsStokesGeo
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsTopNPoly
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsOmNPoly
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsMuMeasureLimit

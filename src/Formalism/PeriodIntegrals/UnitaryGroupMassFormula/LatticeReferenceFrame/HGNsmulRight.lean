@@ -1,8 +1,6 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ScRefExists
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeReferenceFrame.Development
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeReferenceFrame.HANegRight
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeReferenceFrame.HypsNonvacuous
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

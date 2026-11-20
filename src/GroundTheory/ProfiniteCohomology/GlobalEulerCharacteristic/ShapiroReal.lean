@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.ShapiroCoind
-import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.DefsForms
 import GroundTheory.ProfiniteCohomology.RealPlaces.VanishingMackeyPlaces
 set_option maxSynthPendingDepth 1
 

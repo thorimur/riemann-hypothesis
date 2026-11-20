@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsSideRest
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.TrdegEqOfLeOfIsAlgebraic
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSegreBase
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.BlockVecSegreJoin
 set_option maxSynthPendingDepth 1
 
 noncomputable section

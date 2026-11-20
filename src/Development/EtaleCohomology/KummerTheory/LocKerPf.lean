@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.KummerTheory.FinalTheorems
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

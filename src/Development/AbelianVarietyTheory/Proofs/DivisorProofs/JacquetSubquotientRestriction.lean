@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsMidJacAt
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TripSizesSum
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FullRankSB
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsSplitChartSplitChart
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InductionFiniteLength
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CuspidalBlockLeviSemisimpleStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SubquotientSemisimpleRestrictionStatement

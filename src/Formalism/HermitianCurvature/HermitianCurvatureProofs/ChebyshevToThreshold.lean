@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.StatementJ
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Finset NumberField Formalism.FourierDecayAlt Formalism.FourierDecayAlt.J
 

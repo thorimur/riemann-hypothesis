@@ -1,5 +1,7 @@
-import Formalism.LocalToGlobal.GlobalTheory.BaseLatticeConventionOfHermitian
 import Formalism.SharpRestriction.GlobalSchurBounds.ThickPlacesCorollaryOfAnyTranslate
+import Formalism.LocalToGlobal.GlobalTheory.BaseLatticeSelfDual
+import Formalism.LocalToGlobal.HermitianColumns.ColsHerm
+import Formalism.SharpRestriction.GlobalSchurBounds.FlipTwoThree
 
 noncomputable section
 

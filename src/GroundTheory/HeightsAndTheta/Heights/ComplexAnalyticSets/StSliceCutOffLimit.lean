@@ -1,7 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StatementsGreenReg
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeLogBound
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PFsLogSmul
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.RingTheory.PiTensorProduct
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

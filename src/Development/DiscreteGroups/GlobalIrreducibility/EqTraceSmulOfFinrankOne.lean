@@ -1,9 +1,6 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.DzMatchCut
-import Development.DiscreteGroups.GlobalIrreducibility.ExistsOfMemKOne
 import Development.DiscreteGroups.GlobalIrreducibility.DzIsoRes
 import Development.DiscreteGroups.GlobalIrreducibility.ExistsIneOfVEqOne
-import Development.DiscreteGroups.GlobalIrreducibility.DzIneEq
 import Development.DiscreteGroups.GlobalIrreducibility.DzGalUnr
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AlgebraMapIntertwiningMapBijectiveOfIsSmooth
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LocalArtinInertiaIsUnitAt

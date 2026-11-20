@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.ExistsConstAddEquivOfRangeEq
+import Std.Tactic.BVDecide.Normalize.Prop
 open Set
 
 namespace GlobalTheory.CompanionTheory.Ar.Flat

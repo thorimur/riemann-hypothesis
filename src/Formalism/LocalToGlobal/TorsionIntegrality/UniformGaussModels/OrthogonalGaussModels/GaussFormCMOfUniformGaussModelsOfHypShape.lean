@@ -1,7 +1,6 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.StatementF
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.SingleLetterBiextensionRelation
 import Formalism.LocalToGlobal.TorsionIntegrality.CMGoodModels.CmAll
-import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.SecondCoeffConsistency
 
 namespace Formalism.L2.Th1.Top
 

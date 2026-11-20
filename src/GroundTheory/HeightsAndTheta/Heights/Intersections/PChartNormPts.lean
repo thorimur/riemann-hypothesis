@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StChartNormPts
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PChartNormPtsA
 set_option maxSynthPendingDepth 1

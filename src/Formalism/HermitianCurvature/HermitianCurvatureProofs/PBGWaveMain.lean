@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGSlice
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGLet
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGDegW
 
 open Matrix Finset
 open scoped ComplexConjugate

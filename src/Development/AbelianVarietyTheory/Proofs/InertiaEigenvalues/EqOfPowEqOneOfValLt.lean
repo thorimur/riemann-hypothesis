@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.DataN
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MemZpowersOfTameGen
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ValRootEqOne
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Formalism.BasicNotions Formalism.FrobeniusOrbits

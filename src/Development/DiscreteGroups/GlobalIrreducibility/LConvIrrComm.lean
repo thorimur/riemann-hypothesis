@@ -1,4 +1,6 @@
 import Development.DiscreteGroups.GlobalIrreducibility.LConvIrrPre
+import Development.DiscreteGroups.GlobalIrreducibility.LConvCut
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
 
 noncomputable section
 

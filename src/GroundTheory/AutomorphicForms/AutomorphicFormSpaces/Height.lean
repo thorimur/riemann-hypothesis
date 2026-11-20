@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.Reduction
+import GroundTheory.AutomorphicForms.ReductionIwasawa
 
 open NumberField IsDedekindDomain Topology Filter Set
 open scoped NumberField.AdeleRing NNReal

@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GoodProjectorFormsIdempotent
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.NHkRow
 open Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.IntegralHeckeForms NumberField Polynomial Formalism.IndefR.NX
 open scoped TensorProduct
 set_option maxHeartbeats 1000000 in

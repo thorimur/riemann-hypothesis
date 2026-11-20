@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ChartSysWOfPartsOf
-import Formalism.FormalDegreeBessel.FormalDegreeRatio.GBasic
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt NumberField Matrix Polynomial
 open scoped ContDiff

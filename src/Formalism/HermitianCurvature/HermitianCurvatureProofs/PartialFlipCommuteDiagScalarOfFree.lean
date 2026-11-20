@@ -1,7 +1,8 @@
-import Formalism.HermitianCurvature.StatementWd
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PositionInsertionDiagonalCompat
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TransferMatrixFactorization
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagScalarCommuteOfEntries
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace Formalism.FourierDecayAlt.P.Wd10
 

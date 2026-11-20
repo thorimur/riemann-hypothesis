@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.IrreducibleDistinctUnitary
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.NonemptyDirectSumEquivOfFinrankLe
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.GenericSubmoduleMonomials
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairingEquivariantAndNeZero

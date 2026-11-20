@@ -1,6 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.GoodPathWeightOfParts
-import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.ReflectionMemGlevCastSucc
-import Mathlib
+import Formalism.SharpRestriction.GrowthBounds.ValuationLowestDegreeRename
 
 noncomputable section
 

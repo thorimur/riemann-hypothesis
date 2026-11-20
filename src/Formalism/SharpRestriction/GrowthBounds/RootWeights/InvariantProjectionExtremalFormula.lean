@@ -2,6 +2,7 @@ import Formalism.SharpRestriction.GrowthBounds.RootWeights.MemWeightSpaceIffDiag
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.BinomialPreservesDiagonalStable
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.LoweringWordWeightOrNMinus
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.ExtremalProjectorLatticeScaledMem
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantDenominatorEllPBound
 
 noncomputable section
 

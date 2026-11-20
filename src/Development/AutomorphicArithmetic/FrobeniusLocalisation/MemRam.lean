@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.DiffDefs
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.VdFormula
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.LayerBot
 

@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.DiscreteModules
 import GroundTheory.ProfiniteCohomology.GaloisModules.CoeGalRootsOfUnityHomApply
+import Mathlib.FieldTheory.Galois.Profinite
+import Mathlib.Topology.Connected.Separation
 
 namespace GroundTheory.ProfCoh
 

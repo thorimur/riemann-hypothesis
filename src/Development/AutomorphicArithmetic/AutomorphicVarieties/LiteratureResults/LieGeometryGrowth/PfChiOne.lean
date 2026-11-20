@@ -1,5 +1,4 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.LieGeometryGrowth.PairDefs
-import GroundTheory.GlobalFields.IdeleGroups.NormOneCompact
 open UpperTheory.V.Lit.Geo
 
 open NumberField Formalism.L2.Host GroundTheory.Global in

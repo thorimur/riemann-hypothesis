@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.ModelThird
+import Mathlib.Analysis.Complex.Isometry
 
 noncomputable section
 

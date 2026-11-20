@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.LevelOneUniformizerCoeffVanish
 import Formalism.SharpRestriction.LevelLetterCocycles.ArcCoordinatesOfLevelZeroParts
+import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.MemCrit
 
 noncomputable section
 

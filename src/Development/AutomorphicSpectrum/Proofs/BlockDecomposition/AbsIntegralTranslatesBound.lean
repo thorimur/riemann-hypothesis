@@ -1,4 +1,3 @@
-import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.RealLocalIntegrals.RealGammaLimits.ComplexMatrixMajorantIntegrable
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanTateIntegral
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RealLocalFunctionalEquation

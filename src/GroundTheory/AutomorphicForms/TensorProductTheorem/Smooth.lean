@@ -1,7 +1,7 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.SmoothRep
 import GroundTheory.AutomorphicForms.TensorProductTheorem.Restricted
 import GroundTheory.AutomorphicForms.TensorProductTheorem.TotallyDisconnectedSpaceRestrictedProduct
+import Mathlib.LinearAlgebra.PiTensorProduct.Finite
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 

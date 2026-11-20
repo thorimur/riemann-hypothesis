@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.AbelianHostFieldConditions
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SubOneMemMapOfEq
 open NumberField IsDedekindDomain Formalism.L2.Col
 
 noncomputable section

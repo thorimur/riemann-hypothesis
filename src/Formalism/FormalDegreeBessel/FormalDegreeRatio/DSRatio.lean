@@ -1,5 +1,7 @@
 import Formalism.FormalDegreeBessel.StatementDS
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.QuantumDetHighestWeightHolds
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Finset Formalism.REAL
 

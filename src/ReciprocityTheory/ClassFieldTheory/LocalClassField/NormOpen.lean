@@ -1,6 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecDefs
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.GalBasic
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.NormOpenA
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.NormOpenB
 

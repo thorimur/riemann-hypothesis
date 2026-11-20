@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.TCoreDef
-import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.SymbolFormOfOrthogonality
+import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.SegmentChainDegreeEven
 
 noncomputable section
 

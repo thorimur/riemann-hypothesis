@@ -1,9 +1,6 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.StandingHypothesesHoldFamily
-import Formalism.SharpRestriction.CuspSpanNormBounds.NonemptyParameterModels.NumericSettingWithGapSatisfiable
-import Formalism.SharpRestriction.CuspSpanNormBounds.AutLzFiniteOfLoop
-import Formalism.SharpRestriction.AdmissibleParameterJoins.SfromGLx
-import Mathlib
-import Formalism.FormalDegreeBessel.FinalDS
+import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.FamilyPacketOfEquivalentStatement
+import Formalism.SharpRestriction.CuspSpanNormBounds.PExtra
+import Formalism.SharpRestriction.GlobalSchurBounds.StandardLattice
 
 open MeasureTheory Finset
 open scoped Matrix

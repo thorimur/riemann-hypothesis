@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.IsAffineOfIsAffinePullbackQuotientOfIsNilpotent
 
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry TopologicalSpace

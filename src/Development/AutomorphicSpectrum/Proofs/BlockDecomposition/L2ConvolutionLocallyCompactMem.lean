@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.CuspDiscreteDecompositionGL
+import Development.AbelianVarietyTheory.Definitions.Foundations.AestronglyMeasurableQuotMeasureIffLift
+import Mathlib.MeasureTheory.Function.AEEqOfIntegral
 
 open MeasureTheory GlobalTheory.AutomorphicL2Unitary GlobalTheory.OpTrace
 open scoped InnerProductSpace ENNReal

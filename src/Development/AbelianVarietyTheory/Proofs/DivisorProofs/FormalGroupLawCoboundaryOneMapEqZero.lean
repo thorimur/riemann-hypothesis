@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.EqZeroOfForallPowDvd
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConstantCoeffFrob
+import Mathlib.RingTheory.Valuation.Integral
 
 set_option autoImplicit false
 

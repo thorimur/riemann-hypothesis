@@ -1,7 +1,7 @@
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.LatDefs
-import Formalism.ThetaLogCoordinates.FockResolutionOnto.MulEarlyModP
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.Vanish
-import Formalism.ThetaLogCoordinates.TraceIsometryWeights.DischargeHeightBound
+import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.DerivativeKeepsSpaceHolds
+import Formalism.ThetaLogCoordinates.TraceIsometryWeights.FinalP
 
 namespace Formalism.InvariantFactorPaths.L4
 

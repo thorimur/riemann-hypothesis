@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.SatakeDualWeyl.StatementF
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.InvMemDoubleCosetAndComm
+import Mathlib.Analysis.Complex.Circle
 
 open Formalism.UG Matrix GlobalTheory.UnitarySwap
 

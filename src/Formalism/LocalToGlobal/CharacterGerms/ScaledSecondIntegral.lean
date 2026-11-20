@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.GeNatCast
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace Formalism.L2.FormalSeriesBounds
 

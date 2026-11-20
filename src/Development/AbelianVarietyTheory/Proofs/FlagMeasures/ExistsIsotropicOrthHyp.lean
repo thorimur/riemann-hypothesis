@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.GroupLattices.DownNaturalLevelZero
 import Formalism.SharpRestriction.CuspSpanNormBounds.BlockEnds
 

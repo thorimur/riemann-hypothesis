@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.SchwartzMoments.PolynomialFunctionalEvalContinuous
 
 noncomputable section

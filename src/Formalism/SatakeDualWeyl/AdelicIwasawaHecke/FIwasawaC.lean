@@ -1,4 +1,7 @@
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.FIwasawaB
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Formalism.UG Matrix
 

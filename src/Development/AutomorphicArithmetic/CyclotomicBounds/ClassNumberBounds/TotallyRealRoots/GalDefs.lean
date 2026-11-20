@@ -1,4 +1,7 @@
 import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.TotallyRealRoots.LeNuIffPowMemPrinc
+import Mathlib.NumberTheory.Cyclotomic.CyclotomicCharacter
+import Mathlib.NumberTheory.NumberField.Cyclotomic.Galois
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace KStar.TotallyRealRoots
 

@@ -1,7 +1,8 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataHost
-import Formalism.FrobeniusOrbits.HostCorollaries
-import Formalism.DirichletDensity.HostDensityArith
+import Formalism.DirichletDensity.DirichletDensityProofs.QuadDiscr
+import Mathlib.Data.Int.Lemmas
+import Mathlib.NumberTheory.NumberField.Discriminant.Different
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

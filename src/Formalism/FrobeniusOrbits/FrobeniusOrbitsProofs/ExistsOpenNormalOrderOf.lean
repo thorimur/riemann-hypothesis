@@ -1,6 +1,8 @@
-import Mathlib
 import Formalism.FrobeniusOrbits.HostThickExists
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Orbits
+import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Galois
+import Mathlib.LinearAlgebra.Charpoly.Basic
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Topology.Algebra.ClopenNhdofOne
 
 noncomputable section
 

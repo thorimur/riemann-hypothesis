@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.ConstantZeroRestrictPoints
+import Formalism.LocalToGlobal.CharacterGerms.MaximalOfValuationGeOne
 
 set_option autoImplicit false
 

@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.CharacterGerms.FirstVanishingCore
 import Formalism.LocalToGlobal.CharacterGerms.PderivDoubleMultiplicationJacobian
+import Formalism.LocalToGlobal.CharacterGerms.ConstantZeroFirstThenZero
 
 set_option autoImplicit false
 

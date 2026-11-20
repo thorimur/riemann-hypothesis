@@ -1,5 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.CharacterLevelBounds.ShaFamMono
-import Development.AutomorphicArithmetic.AutomorphicVarieties.PartsSign
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CharacterLevelBounds.SelFam
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CharacterLevelBounds.LocUnr
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CharacterLevelBounds.PlacesQ

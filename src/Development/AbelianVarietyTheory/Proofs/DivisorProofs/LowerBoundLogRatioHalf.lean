@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LinearSubLogLowerBoundShifted
+import Mathlib.Analysis.Complex.ExponentialBounds
 
 namespace GlobalTheory
 

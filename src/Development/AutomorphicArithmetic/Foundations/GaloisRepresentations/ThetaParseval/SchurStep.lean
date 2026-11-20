@@ -1,9 +1,9 @@
 import Development.WeilBound.ThetaLifts.LatticeBasics.BadStmt
 import Development.WeilBound.ThetaLifts.LatticeBasics.ContinuousFlat
-import Development.WeilBound.ThetaLifts.LatticeBasics.SchToPol
 import Development.WeilBound.ThetaLifts.TowerModels.PlaneHerm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFockMap
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.BaseChangeDefiniteUnitary
+import Development.WeilBound.ThetaLifts.LatticeBasics.BoxSecX
 
 noncomputable section
 

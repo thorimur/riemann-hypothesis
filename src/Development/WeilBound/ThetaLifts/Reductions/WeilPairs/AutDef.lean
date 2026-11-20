@@ -1,8 +1,7 @@
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.GoodLat
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.EtaDef
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.WeilPairData.ImportsBis
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.WeilPairData.ImportsMore
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsHalfIdem
+import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ContinuousBicharacterWeilSetup
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHalfAbstract
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntAFSmulMemLatOF
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTopologicalRingAE
 
 noncomputable section
 

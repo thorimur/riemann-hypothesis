@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.ModuliSpaces.AllTorsMap
-import Development.AbelianVarietyTheory.Definitions.Uniformization.TXFrame
-import Development.AbelianVarietyTheory.Counterexamples.JetSurvey.ExistsUniquePairIff
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.TorsionDescentFiniteEtaleCoverStatement
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsTorsionToG
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.HomExtOfIsFinite
@@ -10,7 +6,6 @@ import Development.AbelianVarietyTheory.Proofs.ModuliProofs.FinitePartImageGener
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.GenericPartImagePullbackStatement
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.TorsionRepresentableFiniteEtaleStatement
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ExistsPtsEquiv
-import Development.AbelianVarietyTheory.Proofs.ModuliProofs.LinearUniformisationTorsionIsomorphism
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField IsLocalRing
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Out ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open scoped CategoryTheory.Obj

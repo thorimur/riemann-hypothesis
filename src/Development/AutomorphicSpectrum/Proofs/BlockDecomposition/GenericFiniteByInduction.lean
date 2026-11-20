@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.AffineGLForms.GenSpace
 import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.ConstantTerm
 

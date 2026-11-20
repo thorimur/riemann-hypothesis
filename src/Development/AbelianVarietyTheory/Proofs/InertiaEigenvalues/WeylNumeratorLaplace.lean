@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.ResultantValuation.ResultantAdjugateProofs.Laplace
 
 open Polynomial

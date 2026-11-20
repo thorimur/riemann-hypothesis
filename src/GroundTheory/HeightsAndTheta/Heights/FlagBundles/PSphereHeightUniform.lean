@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FlagBundles.Statements
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.StatementsIntervalMoments
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.StatementsSpherePowerMean
 set_option maxSynthPendingDepth 1

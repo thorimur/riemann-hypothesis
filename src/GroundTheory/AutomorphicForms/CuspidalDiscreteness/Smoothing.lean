@@ -1,5 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness.ExistsLintegralConstantTermL2SqLe
+import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.Uniform
+import GroundTheory.AutomorphicForms.Reduction
+import Mathlib.Topology.ContinuousMap.CompactlySupported
 
 open MeasureTheory Set Filter Topology Function
 open NumberField IsDedekindDomain

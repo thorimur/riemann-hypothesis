@@ -1,4 +1,5 @@
 import ReciprocityTheory.GaloisValuations.SeparatedDvrSecondCohomologyMem
+import Mathlib.LinearAlgebra.Quotient.Bilinear
 
 namespace ReciprocityTheory.Gal
 

@@ -1,7 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.LogGaussNormSupportFinite
 import GroundTheory.HeightsAndTheta.Heights.HermitianDual
 import GroundTheory.HeightsAndTheta.Heights.ArithDegree
+import Mathlib.NumberTheory.Padics.PadicNumbers
+import Mathlib.RingTheory.PiTensorProduct
+import Std.Tactic.BVDecide.Normalize.Prop
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

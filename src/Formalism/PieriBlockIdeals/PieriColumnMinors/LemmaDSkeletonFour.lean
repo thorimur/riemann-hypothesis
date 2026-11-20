@@ -1,4 +1,3 @@
-import Formalism.PieriBlockIdeals.StatementLC
 import Formalism.PieriBlockIdeals.PieriColumnMinors.PathEqOfContentSequence
 import Formalism.PieriBlockIdeals.PieriColumnMinors.AntitoneShapes
 import Formalism.PieriBlockIdeals.PieriColumnMinors.PermutationWeightInvariant

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LogFactorialIndices.StatementSize
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 open Finset MeasureTheory
 open scoped ComplexConjugate Real Nat

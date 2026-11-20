@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.WittExactSequences.IsCompl
+import Mathlib.Tactic.Polynomial.Basic
 open TensorProduct CrystallineSemistableComparison.D
 open scoped LaurentPolynomial
 

@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CIndEnc
+import Mathlib.Algebra.Order.Star.Real
 
 set_option autoImplicit false
 

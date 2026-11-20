@@ -1,6 +1,3 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.VerticalStrips.UnramifiedEulerProductIntegral
-import GroundTheory.AutomorphicForms.GL2.GJMatrixLocal
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OneDim
 
 noncomputable section

@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CyclotomicBounds.DeRhamLattices.HasPres
 import Development.AutomorphicArithmetic.CyclotomicBounds.DeRhamLattices.ExistsGaloisStableLatticeOfPeriodData
+import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
 open Formalism Formalism.MainNotions Formalism.MainNotions.N Formalism.WeaklyAdmissibleFiltrations TensorProduct UpperTheory.KN
 
 private theorem span_pi_submodule_eq_top {O LL : Type} [CommRing O] [Field LL] [Algebra O LL] {m : ℕ} {V : Fin m → Type}

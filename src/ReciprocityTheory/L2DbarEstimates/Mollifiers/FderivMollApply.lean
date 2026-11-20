@@ -1,4 +1,8 @@
-import ReciprocityTheory.L2DbarEstimates.Mollifiers.HasCompactSupport
+import Mathlib.Analysis.Calculus.LineDeriv.IntegrationByParts
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
+import Mathlib.Topology.UniformSpace.Uniformizable
+import ReciprocityTheory.L2DbarEstimates.Mollifiers.MollifierL2LocTendsto
 
 namespace ReciprocityTheory.L2DbarEstimates.B
 

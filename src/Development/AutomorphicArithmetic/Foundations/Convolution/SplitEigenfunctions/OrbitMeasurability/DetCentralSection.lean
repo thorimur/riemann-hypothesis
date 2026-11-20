@@ -1,7 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.OrbitMeasurability.PerCont
 import Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.UnitaryActions.ContinuousAdelicGL2OfContinuousEntries
-import GroundTheory.GlobalFields.IdeleGroups.Rational
-import GroundTheory.AutomorphicForms.GL2Classical.EigenformTranslates
 
 noncomputable section
 

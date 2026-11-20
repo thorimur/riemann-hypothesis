@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.SmithMat
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SmithNormalForm.ExistsMoveRow
 

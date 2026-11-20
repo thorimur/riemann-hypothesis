@@ -1,9 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.TransportDefs
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.NormOpen
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.GabLim
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.TransportBA
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.TransportBB
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.TransportBC
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField

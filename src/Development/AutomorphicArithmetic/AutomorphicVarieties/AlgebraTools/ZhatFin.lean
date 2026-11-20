@@ -1,4 +1,7 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ProdMap
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ContinuousContractNth
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.Separation.Lemmas
 
 open UpperTheory.V.AlgebraTools UpperTheory.V.AlgebraTools.Cx
 

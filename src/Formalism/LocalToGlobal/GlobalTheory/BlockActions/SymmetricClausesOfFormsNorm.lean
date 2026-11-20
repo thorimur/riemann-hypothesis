@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ClsCrdEqGlob
-import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ClassInjectiveOfSelfDual
+import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ClassMapPropertiesOfSymmetricForms
+import Formalism.LocalToGlobal.GlobalTheory.BlockActions.SelfDualPHolds
 
 noncomputable section
 

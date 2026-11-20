@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.LateralTheory
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.ParabolicPointMembership
 
 noncomputable section

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
 open Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.N
 

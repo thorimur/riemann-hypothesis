@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsSingle
 
 open Matrix Formalism.UG Formalism.L2.DIV GlobalTheory.LevNorm

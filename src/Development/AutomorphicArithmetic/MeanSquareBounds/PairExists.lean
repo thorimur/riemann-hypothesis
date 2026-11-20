@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.MeanSquareBounds.PrimeSetTwoBounds
 import Development.AutomorphicArithmetic.MeanSquareBounds.PairShare
 import Development.AutomorphicArithmetic.MeanSquareBounds.RowsOfMem
 

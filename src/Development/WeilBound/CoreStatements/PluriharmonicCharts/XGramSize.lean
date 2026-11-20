@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.MetricPeriods.InFlagDomainOne
 import GroundTheory.HeightsAndTheta.Heights.LocalDensities.PHermitianDetMono
 
 open Matrix GlobalTheory.CompanionTheory.Ar.PB

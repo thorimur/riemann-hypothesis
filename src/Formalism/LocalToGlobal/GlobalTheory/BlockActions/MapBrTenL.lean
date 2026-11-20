@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.BlockActions.NormOneOfPow
+import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.InterlaceDifferenceShiftInvariant
 
 noncomputable section
 

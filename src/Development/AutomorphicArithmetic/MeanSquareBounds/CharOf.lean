@@ -1,8 +1,6 @@
-import Development.AutomorphicArithmetic.MeanSquareBounds.PrimeSetTwoBounds
 import Development.AutomorphicArithmetic.MeanSquareBounds.StagePow
 import Development.AutomorphicArithmetic.MeanSquareBounds.ExistsCoprimePrimePairSetSecondEqPPset
 import Development.AutomorphicArithmetic.MeanSquareBounds.LogOddM
-import Development.AutomorphicArithmetic.MeanSquareBounds.TwistPrim
 
 open Finset Formalism.HermitianLattices.ZeroFreeRegionGL2 Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds
 

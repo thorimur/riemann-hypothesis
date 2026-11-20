@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.TermDef
-import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.IdCell
 
 noncomputable section
 

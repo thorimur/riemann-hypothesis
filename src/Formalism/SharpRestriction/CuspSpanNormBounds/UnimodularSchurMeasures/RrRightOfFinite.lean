@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.RrExistsMeasRep
+import Mathlib.Dynamics.Ergodic.Action.Regular
 
 noncomputable section
 

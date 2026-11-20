@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.PerRowC
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.VanishingGramTermsBoundParams
+import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.MomAllP
 
 noncomputable section
 open scoped Classical ENNReal

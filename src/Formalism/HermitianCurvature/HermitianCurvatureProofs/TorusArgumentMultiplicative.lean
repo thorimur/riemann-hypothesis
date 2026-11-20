@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.LetterProductDoubleDegreeCount
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 open Formalism.FourierDecayAlt Matrix
 open scoped ComplexConjugate InnerProductSpace ComplexOrder

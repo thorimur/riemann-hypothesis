@@ -1,4 +1,3 @@
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.HWLine
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.HWLineTall
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.FockQPos
@@ -6,7 +5,6 @@ import Formalism.GradedWeylDivisibility.FockSpaceTableaux.FockQBilin
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.FockQRowDivAdj
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowDivClosedGraded
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.HWInClosed
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.NablaTallZero
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.ClosedEqNabla
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.WeylEqNablaQ
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.WeylRationalOf

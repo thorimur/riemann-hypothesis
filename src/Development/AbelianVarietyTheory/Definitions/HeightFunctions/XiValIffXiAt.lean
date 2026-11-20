@@ -1,9 +1,9 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.FullExists
 import Formalism.LocalToGlobal.ProjectiveLattices.RecCond
 import Formalism.LocalToGlobal.ProjectiveLattices.ExistsParameterConditions
 import Development.AbelianVarietyTheory.Definitions.ExistenceOfLattices.CoeSelfDualLatticeInFrameCoordinatesEq
 import Development.AbelianVarietyTheory.Definitions.ExistenceOfLattices.PermutesRefl
+import Mathlib.Analysis.SpecialFunctions.Elliptic.Weierstrass
 
 set_option autoImplicit false
 

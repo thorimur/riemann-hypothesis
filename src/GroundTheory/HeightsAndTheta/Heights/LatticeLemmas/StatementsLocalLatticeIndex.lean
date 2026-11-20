@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.StatementsIndex
 set_option maxSynthPendingDepth 1
 

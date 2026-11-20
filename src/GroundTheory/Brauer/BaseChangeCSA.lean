@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.Brauer.TensorSimple
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Brauer

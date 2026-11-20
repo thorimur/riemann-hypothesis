@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.KernelLattices.EntryG
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ColInst
 
 noncomputable section

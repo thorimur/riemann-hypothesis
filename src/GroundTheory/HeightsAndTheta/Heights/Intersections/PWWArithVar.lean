@@ -1,10 +1,11 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StBaseRatioBasis
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StChartDetRatio
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StChartDualRational
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StWWRatioBasis
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StDiagRatioBasis
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.Assembly
+import GroundTheory.HeightsAndTheta.Heights.Intersections.StYYRatioBasis
+import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsFibreProduct
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Inter

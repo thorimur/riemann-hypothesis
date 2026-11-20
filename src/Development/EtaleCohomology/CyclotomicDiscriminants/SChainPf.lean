@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ClassCounting.LemmaKOfSteps
+import Mathlib.Data.Finsupp.Pointwise
 
 noncomputable section
 open UpperTheory.V.ZK

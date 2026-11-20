@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightLocalLengthPlaces
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightLocalQuotCard
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightCentredPlacesFinite

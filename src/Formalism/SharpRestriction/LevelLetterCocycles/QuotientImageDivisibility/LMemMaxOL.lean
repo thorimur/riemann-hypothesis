@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.ExpCritPOf
-import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.LemKD
+import Formalism.SharpRestriction.LevelLetterCocycles.IsFracOL
+import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.PtTransRec
 
 noncomputable section
 open Classical

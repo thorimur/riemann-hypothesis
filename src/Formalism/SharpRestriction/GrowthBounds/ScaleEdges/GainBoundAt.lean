@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.FramesOf
-import Formalism.PolynomialDimension.FinalNum
+import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.ManyEdges
 
 noncomputable section
 

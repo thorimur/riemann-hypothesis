@@ -1,9 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.KerEqBotOfCoord
-import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffOnFubiniStudyProfileInvNormSqFirst
 import GroundTheory.HeightsAndTheta.Heights.FubiniStudy
 import GroundTheory.HeightsAndTheta.Heights.FubiniStudyTransition
-import GroundTheory.HeightsAndTheta.Heights.FubiniStudyMetric
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ArithModel
 set_option maxSynthPendingDepth 1
 

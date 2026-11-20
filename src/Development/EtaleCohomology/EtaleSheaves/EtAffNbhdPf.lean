@@ -1,4 +1,3 @@
-import Mathlib.AlgebraicGeometry.Morphisms.Etale
 import Development.EtaleCohomology.EtaleSheaves.SHSectionPf
 
 noncomputable section

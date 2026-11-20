@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ExistsBoundRight
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LogDerivLFunctionNearZero
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AnalyticAtDslope
+import Mathlib.Analysis.Real.Pi.Bounds
 open Complex DirichletCharacter ArithmeticFunction MeasureTheory Filter Topology
 
 namespace GlobalTheory.PerronShift

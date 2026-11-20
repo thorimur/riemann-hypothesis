@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.UnipotentAdelicQuotients.SmComplete
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LieAlgebraOfTangentCurveStatement
 open SmoothVectors Filter Topology
 open scoped ContDiff Matrix.Norms.Elementwise

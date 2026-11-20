@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisorsValuation
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.Isogeny
+import Mathlib.RingTheory.LocalProperties.Reduced
 
 namespace GroundTheory.Arith.Abelian
 

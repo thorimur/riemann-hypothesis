@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.NormSub
 import Formalism.LocalToGlobal.Divisibility.Tuples
 

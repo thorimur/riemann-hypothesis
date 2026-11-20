@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.LocalRepresentationL2
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.LocEmb
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.LocFlath
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.FixedDense

@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnCosSq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StereographicMeasureChange
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MobiusChangeOfVariables
+import Mathlib.Analysis.Matrix.PosDef
 
 set_option autoImplicit false
 

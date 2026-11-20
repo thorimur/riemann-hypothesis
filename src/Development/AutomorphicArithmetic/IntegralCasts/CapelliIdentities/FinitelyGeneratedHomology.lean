@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsCompactUnitaryPointsAtPlaceFstMemCompact
 
 theorem UpperTheory.Reformulated.B.FinitelyGeneratedHomology.omHT_fg :

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.Statements
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsTildeVanish
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTildeVanishLoc

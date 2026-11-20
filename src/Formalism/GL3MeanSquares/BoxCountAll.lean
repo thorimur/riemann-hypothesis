@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.GL3MeanSquares.SecondEstimateOfIntervalHypothesis
 
 noncomputable section

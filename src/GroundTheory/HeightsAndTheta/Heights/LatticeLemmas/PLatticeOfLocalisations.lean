@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.Statements
 import GroundTheory.HeightsAndTheta.Theta.EisensteinZeta.WeilPolarization.AlgebraMapFMemLocIntegers
 import GroundTheory.GlobalFields.Adele.Discrete

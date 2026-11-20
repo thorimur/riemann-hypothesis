@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.NormProducts.LUnH
+import Development.AbelianVarietyTheory.Definitions.Foundations.IsZetaTW
+import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.NormProducts.InvMod
 
 open GlobalTheory.KZ GlobalTheory.K4 UpperTheory.Kd.K4 Polynomial
 open scoped Matrix MatrixGroups

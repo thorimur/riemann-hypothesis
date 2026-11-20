@@ -1,8 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasTemperateGrowthElim
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClmSupBound
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeminormSliceRLe
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormIteratedFDerivPdLe
+import Mathlib.Analysis.Calculus.FDeriv.Partial
 
 open GlobalTheory.SliceSchwartz GlobalTheory.SliceOp
 open scoped ContDiff

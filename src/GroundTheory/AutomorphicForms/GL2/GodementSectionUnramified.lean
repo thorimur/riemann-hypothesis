@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GL2.GodementSectionSplit
-import GroundTheory.GlobalFields.TateThesis.EulerFactorsFinite
+import GroundTheory.AutomorphicForms.GL2.ExistsForallAddEqOfMemFiniteSchwartzBruhat2
+import GroundTheory.GlobalFields.TateThesis.IdeleMeasureCosets
 
 open NumberField IsDedekindDomain MeasureTheory Matrix Filter Topology
 open scoped NumberField.AdeleRing Classical

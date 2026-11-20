@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeHypersurfaceDim
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeProjHyperplaneDim
-import GroundTheory.ArithmeticGeometry.ToricVarieties.Dimension
 set_option maxSynthPendingDepth 1
 
 noncomputable section

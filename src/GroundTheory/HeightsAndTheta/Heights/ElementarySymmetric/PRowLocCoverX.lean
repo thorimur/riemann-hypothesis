@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.AevalNeZeroOfMemCellMon
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PChartSecGen
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PChartSecMul
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ChartRingOverOneBlockBase
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ExistsFormOfMemChartRingOver
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.IsMultiHomogRename
 set_option maxSynthPendingDepth 1

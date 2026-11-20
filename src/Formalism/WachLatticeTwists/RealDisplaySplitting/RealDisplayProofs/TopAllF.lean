@@ -1,5 +1,6 @@
-import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.TopWAF
-import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapProofs.TopAll
+import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapProofs.TheoremNFiveRealLift
+import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.RealizationAllFormsHolds
+import Formalism.WachLatticeTwists.RealDisplaySplitting.StatementB
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

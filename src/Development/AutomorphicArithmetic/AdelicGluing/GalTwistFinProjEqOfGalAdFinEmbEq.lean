@@ -1,8 +1,6 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.GeneralizedMeasures.HeckeFinAlt
-import Development.AutomorphicArithmetic.Foundations.Convolution.ConvolutionKernels.GalAdEq
-import Development.AutomorphicArithmetic.Foundations.Convolution.ConvolutionKernels.AdNormOne
 import Development.AutomorphicArithmetic.AdelicQuotients.CentralSectionBaseChange
-import GroundTheory.GlobalFields.IdeleGroups.GaloisOnAdeles.Action
+import GroundTheory.AutomorphicForms.MultiplicityOne.FiniteLevelGroups
+import GroundTheory.GlobalFields.IdeleGroups.GaloisOnAdeles
 open MeasureTheory NumberField IsDedekindDomain MvPolynomial Filter
 open GroundTheory.Automorphic GroundTheory.Automorphic.Reduction GroundTheory.Automorphic.RightCosetSpace
 open GroundTheory.Automorphic.AutomorphicForm GroundTheory.Automorphic.CuspidalSpectrum UpperTheory.ConvolutionTheory.C PositivityTheory.Rg.Tf.Core PositivityTheory.Rg.Tf.Geo

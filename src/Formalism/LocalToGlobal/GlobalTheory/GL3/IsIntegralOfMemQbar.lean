@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.GlobalTheory.GL3.LinkEquationAllPlaces
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.IsAdmissibleFlagPairOfUnitriangularLeftAutomorph
+import Formalism.LocalToGlobal.GlobalTheory.GL3.ProvisionExtensionLink
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.NormUnitaryBounds.Statement
 
 open MvPolynomial Finset

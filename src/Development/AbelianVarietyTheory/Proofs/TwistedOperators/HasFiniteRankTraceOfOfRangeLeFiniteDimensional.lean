@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.IwahoriDoubleCosets
+import Mathlib.LinearAlgebra.PID
 
 namespace GlobalTheory.IndefiniteRowSideFullHecke.RangeTrace
 

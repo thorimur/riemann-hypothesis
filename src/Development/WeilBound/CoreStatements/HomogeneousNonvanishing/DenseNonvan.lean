@@ -1,12 +1,10 @@
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsSncModel
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.BlowupProjections.BlowupProjStatement
-import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.Proportional
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.IsOpenHoloPreimage
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.JPull
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.RHolmap
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.NonvanishingDense
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.RPluri
 import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffAtOfIsPotential
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterRedB
 open MvPolynomial ReciprocityTheory.ChartRestriction.G.Geo ReciprocityTheory.ChartRestriction.G.AI.I2 ReciprocityTheory.ChartRestriction.G.AI.I4 ReciprocityTheory.AnForm.M ReciprocityTheory.AnForm.P GlobalTheory.CompanionTheory.Ar.Cmp GlobalTheory.CompanionTheory.Ar.PB Filter Topology
 open ReciprocityTheory.ChartRestriction.G.AI.I1 (IsBlockMap pullDeg)
 

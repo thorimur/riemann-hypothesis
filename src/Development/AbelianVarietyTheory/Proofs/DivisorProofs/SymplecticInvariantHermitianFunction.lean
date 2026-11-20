@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsTateZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryInvariantHermitianFormSymmEqSmulTrace
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosDefEqMulTransposeStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelActionFormulaAndDerivativeStatement

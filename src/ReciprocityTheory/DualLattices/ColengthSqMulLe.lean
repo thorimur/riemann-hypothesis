@@ -1,4 +1,6 @@
 import ReciprocityTheory.DualLattices.SumLatInvMulVec
+import Mathlib.Topology.Sheaves.Presheaf
+import ReciprocityTheory.DualLattices.ExistsUnitMinor
 
 noncomputable section
 

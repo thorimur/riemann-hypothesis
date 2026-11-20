@@ -1,9 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.StarMulOfMulStar
 import GroundTheory.AutomorphicForms.StableConjCyclic
-import GroundTheory.Brauer.Degree
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankIInfKerEqOfIsBaseChangeFamily
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NatDegreeMinpolyLeBaseChange
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 namespace GlobalTheory.LKInv
 

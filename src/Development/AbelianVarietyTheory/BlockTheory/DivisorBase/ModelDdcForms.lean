@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialOfFun
 
 namespace GlobalTheory.IndefiniteRowSideFullHecke.ModelDdcForms

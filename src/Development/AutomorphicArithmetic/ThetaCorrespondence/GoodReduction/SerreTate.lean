@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.ThetaCorrespondence.GoodReduction.NeronOggShafarevich
 import Development.AutomorphicArithmetic.ThetaCorrespondence.GoodReduction.CMGood
 

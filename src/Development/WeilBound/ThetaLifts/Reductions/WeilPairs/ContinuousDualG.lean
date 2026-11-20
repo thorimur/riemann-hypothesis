@@ -1,7 +1,6 @@
-import Mathlib
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.WeilPairData.Imports
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaDistributionAutomorphySourceGroup
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.LatH
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTransportF
 
 open scoped TensorProduct Matrix
 open NumberField IsDedekindDomain Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes MeasureTheory

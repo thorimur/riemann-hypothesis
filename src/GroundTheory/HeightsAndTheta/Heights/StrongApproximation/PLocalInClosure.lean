@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.StrongApproximation.Statements
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.StrongApproximation.LocGen
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

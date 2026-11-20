@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleClassGroup.IdeleClassMapIdeleClassMap
 import GroundTheory.GlobalFields.IdeleGroups.GaloisOnAdeles
 import GroundTheory.LocalFields.AbstractLocalReciprocity.ExistsOpenSubgroupMemFixedModule

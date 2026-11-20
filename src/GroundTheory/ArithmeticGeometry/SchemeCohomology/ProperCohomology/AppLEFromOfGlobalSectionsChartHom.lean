@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.SegreGlue
+import Mathlib.AlgebraicGeometry.Morphisms.Separated
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

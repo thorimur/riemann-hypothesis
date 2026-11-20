@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsBump
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCIndValue
 

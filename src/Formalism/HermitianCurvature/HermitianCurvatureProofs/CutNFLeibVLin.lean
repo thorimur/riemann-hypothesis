@@ -1,5 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFLeib
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.TopFirstOfParts
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.OpApplyContinuousOn
 
 namespace Formalism.FourierDecayAlt.P.CutBP
 

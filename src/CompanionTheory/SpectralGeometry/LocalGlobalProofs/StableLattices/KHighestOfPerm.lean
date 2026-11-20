@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.RealGroups.DiscreteSeries.DiscreteSeriesClassification.DiscreteSeriesExhaustion.SimpleDistinctness.ScalarCharacterOfL2Embedding
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SqIntIrrPerm
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.CountsIrreducibilityConstants
-import Formalism.LocalToGlobal.Divisibility.RecBridgeSel
 import Formalism.LocalToGlobal.Divisibility.TupUsed
 import Formalism.LocalToGlobal.GroupLattices.ServiceOfTiedSelection
 

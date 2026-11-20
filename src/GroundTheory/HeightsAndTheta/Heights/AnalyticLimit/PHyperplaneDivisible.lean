@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StRegSectionParts
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
+import Mathlib.Analysis.Calculus.ParametricIntervalIntegral
+import Mathlib.RingTheory.PicardGroup
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.AnalyticLimit

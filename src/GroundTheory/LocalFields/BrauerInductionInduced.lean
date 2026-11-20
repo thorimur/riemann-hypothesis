@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.LocalFields.BrauerInductionCharacters
+import Mathlib.RepresentationTheory.Induced
 
 noncomputable section
 

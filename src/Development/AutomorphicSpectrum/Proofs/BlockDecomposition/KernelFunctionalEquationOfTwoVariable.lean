@@ -1,7 +1,7 @@
-import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.VerticalStrips.UnramifiedEulerProductIntegral
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousOfTrivialInteger
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WhittakerRightTranslation
+import GroundTheory.LocalFields.LocalZeta
 
 noncomputable section
 

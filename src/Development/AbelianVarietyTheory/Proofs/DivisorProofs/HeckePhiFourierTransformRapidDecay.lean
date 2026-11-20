@@ -1,5 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.KFacDifferentiable
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.Fourier.FourierTransformDeriv
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

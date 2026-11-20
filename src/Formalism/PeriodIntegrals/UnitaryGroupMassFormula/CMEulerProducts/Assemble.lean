@@ -1,9 +1,7 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMEulerProducts.EulerEqOf
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMEulerProducts.EulerFactorsMultipliable
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMEulerProducts.EulerFactorLocal
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMEulerProducts.Regroup
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMEulerProducts.EulerFactorConjugate
 
 namespace CMEul
 

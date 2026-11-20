@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.CommutativeAlgebra.AbByPOfComm
-import Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsIrrCharAddStatement
+import Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsIrrCharAdd
+import Mathlib.RingTheory.WittVector.IsPoly
 open GlobalTheory.BI
 namespace GlobalTheory.BI
 

@@ -1,7 +1,5 @@
 import Formalism.GradedWeylDivisibility.StatementA
-import Formalism.RankGapBounds.CloudMinFalse
 import Formalism.RankGapBounds.TheoremALocOfLemmaA
-import Formalism.PieriBlockIdeals.Statement
 import Formalism.PieriBlockIdeals.StatementJ
 
 open MvPolynomial

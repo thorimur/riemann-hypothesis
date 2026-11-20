@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitLogSpanTraceZeroStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitPowerInOrderStatement
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Std.Tactic.BVDecide.Normalize.Prop
 open NumberField
 
 namespace GlobalTheory.UnitSpan

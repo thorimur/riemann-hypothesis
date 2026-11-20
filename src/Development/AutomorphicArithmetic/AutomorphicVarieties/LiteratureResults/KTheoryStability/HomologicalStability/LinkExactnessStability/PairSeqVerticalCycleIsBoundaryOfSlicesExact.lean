@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.LinkExactAff
 
 open GlobalTheory.SeqCx

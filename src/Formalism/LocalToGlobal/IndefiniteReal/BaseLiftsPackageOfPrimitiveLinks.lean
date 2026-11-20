@@ -1,9 +1,7 @@
-import Formalism.LocalToGlobal.IndefiniteReal.ZeroPartEigenvalueConvention
 import Formalism.LocalToGlobal.IndefiniteReal.EvTieP
 import Formalism.LocalToGlobal.IndefiniteReal.ExistsSumOfMemISup
 import Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.UnitaryTwoPackage
-import Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.LiftHeckeOperators
-import Formalism.LocalToGlobal.IndefiniteReal.IsometricPeriodsOfUnitHypotheses
+import Formalism.LocalToGlobal.IndefiniteReal.LinksLemmas
 
 noncomputable section
 

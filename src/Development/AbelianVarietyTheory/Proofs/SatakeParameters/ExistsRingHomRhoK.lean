@@ -1,14 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.StdBases
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.BeData
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ExistsConstantCoeffOne
-import Formalism.LocalRingCardinality.CoeNeZeroOfNotMem
-import Formalism.LocalRingCardinality.FactDelDualNabla
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsKurFrobTauEmbPosPl
-import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.RepFrame
-import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.RepTrace
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrbitPowerSeriesCoefficients.OrbEmb
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.TransportFirstLevel
+import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.IntBasis
+import Formalism.SharpRestriction.AdmissibleParameterJoins.GandSp
+import Formalism.SharpRestriction.Divisibility.OrbitPlaces
 
 noncomputable section
 

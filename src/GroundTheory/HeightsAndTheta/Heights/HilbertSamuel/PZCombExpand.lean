@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsZCombExpand
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PZCombLimit
 set_option maxSynthPendingDepth 1

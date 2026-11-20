@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.UsedLocalConclusion
 import Formalism.SharpRestriction.LevelLetterCocycles.FiltrationSaturationKiller
 import Formalism.SharpRestriction.LevelLetterCocycles.SecondComparisonInCoordinates
 import Formalism.SharpRestriction.LevelLetterCocycles.RingConditionOfDeltaInvariants

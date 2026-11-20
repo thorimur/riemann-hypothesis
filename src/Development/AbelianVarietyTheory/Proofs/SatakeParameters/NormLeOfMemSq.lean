@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussianEigenFrames.StatementE
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.NatCastMemPrimeOf
 

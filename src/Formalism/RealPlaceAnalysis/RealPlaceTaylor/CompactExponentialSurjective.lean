@@ -1,5 +1,7 @@
 import Formalism.RealPlaceAnalysis.SmoothOnGVIff
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.IndefiniteUnitaryPreservesForm
+import Mathlib.Analysis.Real.Pi.Bounds
+import Mathlib.Tactic.ENatToNat
 
 open Matrix
 open scoped Matrix.Norms.L2Operator

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.ReductionPoints
 set_option maxSynthPendingDepth 1
 

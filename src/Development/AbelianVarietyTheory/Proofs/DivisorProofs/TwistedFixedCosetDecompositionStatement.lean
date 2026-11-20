@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedFixedCosetDecomposition
-import Mathlib
 open scoped Classical
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.twisted_fixed_coset_decomposition : ∀ {H : Type} [Group H] (Z U : Subgroup H) (τ : H →* H) (r : ℕ), 0 < r → (∀ z ∈ Z, τ z ∈ Z) →

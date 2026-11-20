@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndefiniteSideRowLatticeAdopted
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.DivisionCompatibleToSub2Indef2
 open Formalism.BasicNotions NumberField IsDedekindDomain Matrix Formalism.L2.DIV Formalism.L2.Indef
 open scoped InnerProductSpace
 attribute [local instance] Formalism.BasicNotions.Host.cmStar

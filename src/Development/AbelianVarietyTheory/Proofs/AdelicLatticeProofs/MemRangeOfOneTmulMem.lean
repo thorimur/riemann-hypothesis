@@ -1,7 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.DatumVec
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.FiniteAdeleStrongApproximationModNat
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionFractionalIdealProperties
+import Formalism.LocalToGlobal.BesselHermitianTheta.DefsReal
+import Mathlib.RingTheory.IntegralClosure.IsIntegral.AlmostIntegral
 
 namespace GlobalTheory.AdIdem
 

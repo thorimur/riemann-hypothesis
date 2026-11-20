@@ -1,5 +1,4 @@
-import Formalism.SharpRestriction.InertJacobiLevels.SizeDataAt
-import Formalism.SharpRestriction.InertJacobiLevels.GenSplit
+import Formalism.LocalRingCardinality.DataParams₂
 
 noncomputable section
 

@@ -1,8 +1,6 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UpqRep
-import Formalism.PeriodIntegrals.IsLowUnitH
 import Formalism.PeriodIntegrals.ZuckTensor
 import Formalism.PeriodIntegrals.DSExist
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MeasureTheory Matrix Finset
 open scoped InnerProductSpace

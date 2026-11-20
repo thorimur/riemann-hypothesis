@@ -1,9 +1,7 @@
-import Mathlib
-import Formalism.PeriodIntegrals.LowCyc
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.LowSmooth
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.MaximalCompactIsCompact
 import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SmoothCyclicVectors.IntegralMemOfIsClosed
 import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SmoothCyclicVectors.PhMeas
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability.ExistsFinStableOfMemSSup
 
 open Matrix Filter Topology Set
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.IsTestRep
+import Mathlib.RingTheory.PiTensorProduct
 
 open GlobalTheory.JR Matrix MeasureTheory Filter Topology
 

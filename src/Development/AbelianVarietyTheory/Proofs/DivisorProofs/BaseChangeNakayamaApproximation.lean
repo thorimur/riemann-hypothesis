@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRingRChain
 open GlobalTheory.RingChain
 open scoped TensorProduct Pointwise ChangeOfRings

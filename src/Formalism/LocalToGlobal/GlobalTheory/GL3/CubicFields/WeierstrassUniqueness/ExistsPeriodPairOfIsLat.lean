@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL3.CubicFields.ComplexMultiplication.UniqInvOfLat
+import Formalism.LocalToGlobal.GlobalTheory.GL3.Statement
+import Mathlib.Analysis.SpecialFunctions.Elliptic.Weierstrass
 
 noncomputable section
 

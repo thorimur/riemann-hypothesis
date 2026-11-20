@@ -1,9 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsIsFlagBundleRankOne
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EqOfIsometricTrivShift
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DegreeComparisonRootMetrics
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsometricCombEquiv
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormsOfInduces
 
 set_option autoImplicit false
 

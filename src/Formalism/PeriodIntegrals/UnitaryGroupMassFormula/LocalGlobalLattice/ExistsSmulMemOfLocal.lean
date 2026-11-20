@@ -1,5 +1,8 @@
 import Formalism.PeriodIntegrals.LatLocGlob
 import Lemmata.GeneralBFactThirdBisAlt.Imports
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

@@ -1,5 +1,6 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.IsFrameOverLine
+import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.CoordinateIdeals.Example
+import Mathlib.Data.Int.Star
+import Mathlib.NumberTheory.Zsqrtd.GaussianInt
 set_option maxSynthPendingDepth 1
 
 noncomputable section

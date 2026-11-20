@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.ThetaFamilyOrigin.RingKrullDimQuotientOfMemMinimalPrimesSup
+import Mathlib.FieldTheory.PurelyInseparable.Exponent
 
 open Matrix Polynomial
 open scoped BigOperators

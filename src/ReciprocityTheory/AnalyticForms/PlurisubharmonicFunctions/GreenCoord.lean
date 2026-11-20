@@ -1,5 +1,7 @@
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.LeviOneEqLaplacianThm
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.LogInt
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
 
 open MeasureTheory
 open scoped Laplacian Pointwise

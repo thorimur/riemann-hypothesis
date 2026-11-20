@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.SphConj
-import Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.NormCharPowHolds
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.IsoEq
+import Development.WeilBound.CoreStatements.PublishedTheorems.JacquetShalikaRigidity.JacquetShalikaRigidity
 
 open NumberField IsDedekindDomain Filter
 open GlobalTheory.CuspRep GlobalTheory.GalOfCusp

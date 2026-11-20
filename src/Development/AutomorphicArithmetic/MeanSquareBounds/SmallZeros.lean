@@ -1,4 +1,8 @@
 import Development.AutomorphicArithmetic.MeanSquareBounds.PrimeSetTwoBounds
+import Mathlib.NumberTheory.LSeries.Nonvanishing
+import Mathlib.NumberTheory.MulChar.Duality
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
 
 open Finset Formalism.HermitianLattices.ZeroFreeRegionGL2 Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds
 

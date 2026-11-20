@@ -1,7 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.IsKMeas
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.MaximalCompactSubgroupPropertiesStatement
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CompactGroupHaarExists
 open Matrix MeasureTheory Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.B2 GlobalTheory.HCXi
 open scoped ENNReal ComplexOrder
 

@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.FilteredHomology
+import Mathlib.RepresentationTheory.Coinduced
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.Functoriality
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

@@ -1,1 +1,1 @@
-import Formalism.PeriodIntegrals.AdmissibleModel.WeylDim
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd

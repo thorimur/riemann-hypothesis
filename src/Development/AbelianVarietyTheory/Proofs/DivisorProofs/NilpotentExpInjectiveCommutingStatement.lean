@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NilpotentExpInjectiveCommuting
-import Mathlib
 
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.nilpotent_exp_injective_commuting : ∀ (A : Type) [Ring A] [Algebra ℚ A] (a b : A), Commute a b → IsNilpotent a → IsNilpotent b → IsNilpotent.exp a = IsNilpotent.exp b → a = b := by

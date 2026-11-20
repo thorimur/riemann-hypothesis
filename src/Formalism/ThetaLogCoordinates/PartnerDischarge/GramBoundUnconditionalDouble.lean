@@ -1,7 +1,7 @@
 import Formalism.ThetaLogCoordinates.PartnerDischarge.StatementPW
-import Formalism.ThetaLogCoordinates.FockResolutionOnto.StatementF
-import Formalism.ThetaLogCoordinates.FockResolutionOnto.StatementH
 import Formalism.ThetaLogCoordinates.BihomogeneousPairs.LetterChainEmbeddings.PairStep
+import Formalism.ThetaLogCoordinates.FockResolutionOnto.StatementE
+import Formalism.ThetaLogCoordinates.TraceIsometryWeights.StatementC
 
 namespace Formalism.InvariantFactorPaths.OddLevelGainBounds
 

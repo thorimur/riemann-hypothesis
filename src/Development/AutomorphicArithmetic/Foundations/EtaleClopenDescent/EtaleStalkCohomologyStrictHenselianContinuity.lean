@@ -1,8 +1,8 @@
-import Mathlib
-import Development.EtaleCohomology.EtaleSheaves.LeafVanBStalkPf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConeSeqExact
 import Development.EtaleCohomology.EtaleSheaves.GlueRelPfNat
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClosedFiberColimitPresentation
+import Mathlib.AlgebraicGeometry.Morphisms.SchemeTheoreticallyDominant
+import Mathlib.CategoryTheory.ExtremalEpi
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex GlobalTheory.EtC

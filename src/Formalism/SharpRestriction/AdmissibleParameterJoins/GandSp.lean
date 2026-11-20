@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.AdmissibleParameterJoins.GandSo
-import Formalism.SharpRestriction.GrowthBounds.KerTies
+import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.IsDiscriminantTwelfthRootOfIdealLattice
+import Formalism.SharpRestriction.GrowthBounds.FormalGroupSystem
 
 noncomputable section
 

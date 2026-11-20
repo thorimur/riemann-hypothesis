@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2Classical.IrreducibleSpan
+import GroundTheory.AutomorphicForms.GL2Classical.EigenformTranslatesIrreducible
 
 open NumberField Matrix CongruenceSubgroup ModularForm Complex
 open UpperHalfPlane hiding I I_re I_im

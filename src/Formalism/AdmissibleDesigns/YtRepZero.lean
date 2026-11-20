@@ -1,4 +1,8 @@
 import Formalism.AdmissibleDesigns.ContOfInjY
+import Formalism.AdmissibleDesigns.TensSubsingleton
+import Formalism.AdmissibleDesigns.TrCMemZ1D
+import Formalism.WachLatticeTwists.CoprimeLiftBounds.FirstSummandRepresentation
+import Mathlib.Algebra.Module.Torsion.Prod
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

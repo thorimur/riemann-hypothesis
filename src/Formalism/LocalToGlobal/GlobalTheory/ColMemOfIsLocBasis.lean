@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocInd
-import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocGen
-import Formalism.LocalToGlobal.GlobalTheory.CoefficientMapSurjective
+import Formalism.SharpRestriction.GlobalSchurBounds.FlipTwoThree
 
 noncomputable section
 

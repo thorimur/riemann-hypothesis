@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.KoszulExactness.ContractPowSuccMem
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

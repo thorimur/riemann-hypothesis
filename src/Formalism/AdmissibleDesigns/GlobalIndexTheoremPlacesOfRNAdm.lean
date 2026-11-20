@@ -1,5 +1,7 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.RingDataOfIdempotents
 import Formalism.AdmissibleDesigns.InvariantsEqBotIff
+import Formalism.SharpRestriction.LevelLetterCocycles.GoodCongruenceDataOf
+import Formalism.SharpRestriction.LevelLetterCocycles.LargeLevelLemmas
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

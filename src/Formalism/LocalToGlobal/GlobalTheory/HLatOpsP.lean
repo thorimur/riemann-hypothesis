@@ -1,8 +1,6 @@
 import Formalism.LocalToGlobal.GlobalTheory.HLatOps
 import Formalism.HarderNarasimhan.ShiftInvariance
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.ExistsNsmulMem
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.TruncatedLatticeHolds
-import Formalism.LocalRingCardinality.DataDIVDefs
 
 open Module NumberField ComplexOrder
 

@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.TraceIntegralEstimates.HaarSubSF
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
-import Formalism.LocalRingCardinality.IntCastDvdOfDvdIntegers
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.NMeasInv
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QuotNuSigma
 

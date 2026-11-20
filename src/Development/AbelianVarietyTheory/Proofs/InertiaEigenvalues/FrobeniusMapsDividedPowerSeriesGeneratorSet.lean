@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CstSApply
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NatCastNeZeroPs
 
 noncomputable section
 

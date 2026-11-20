@@ -1,9 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ChartGen
-import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary₂.MaxMass
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsCoprimeScaledIsometrySameSignature
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsPositiveAdd
 import Formalism.LocalToGlobal.ProjectiveLattices.UnramBridgeHolds
+import Formalism.HermitianLattices.StatementMass
 
 noncomputable section
 

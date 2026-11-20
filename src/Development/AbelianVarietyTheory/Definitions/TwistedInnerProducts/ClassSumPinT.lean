@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.RealTB
-import Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.NHkRow
+import Formalism.LocalToGlobal.IndefiniteReal.TrISepWith
 
 noncomputable section
 

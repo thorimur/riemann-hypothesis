@@ -1,4 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RelevantMonotoneOfParts
+import Formalism.HermitianCurvature.FiniteOrderIntersectionInSmooth
+import Mathlib.Tactic.ENatToNat
 
 open Matrix Formalism.FourierDecayAlt Formalism.QuantumDeterminants
 

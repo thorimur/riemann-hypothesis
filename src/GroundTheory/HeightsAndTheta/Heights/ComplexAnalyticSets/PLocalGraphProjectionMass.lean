@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PLocalGraphMass
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PMassFinite
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLocalGraphProjectionMass

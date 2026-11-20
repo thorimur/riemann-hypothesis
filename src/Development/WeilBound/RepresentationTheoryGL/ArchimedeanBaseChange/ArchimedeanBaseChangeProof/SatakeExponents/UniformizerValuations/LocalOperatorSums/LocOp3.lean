@@ -1,6 +1,3 @@
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.LeviOf
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ConstantTermLocallyConstant
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HintConstMulSum
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ConstantTermConvolutionHecke
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RelIndexEqCard
 

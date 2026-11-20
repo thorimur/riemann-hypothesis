@@ -1,11 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapPairDetCovec
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SecValAt
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsLocalRingTrivSqZeroExt
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IntegralPointPullbackComparison
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalSystemBasesNonempty
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentFrameBaseChange
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.IsCombAtGMulVec
 
 set_option autoImplicit false
 

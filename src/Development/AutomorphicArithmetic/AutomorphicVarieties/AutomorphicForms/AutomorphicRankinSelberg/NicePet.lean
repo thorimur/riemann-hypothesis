@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.AutomorphicRankinSelberg.StripInt
+import Mathlib.NumberTheory.ModularForms.Bounds
 
 open Filter Asymptotics CongruenceSubgroup Matrix.SpecialLinearGroup
 open UpperHalfPlane hiding I

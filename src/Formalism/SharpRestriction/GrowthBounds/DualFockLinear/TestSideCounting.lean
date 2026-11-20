@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.DualFockLinear.IsMultiHom
+import Formalism.PeriodIntegrals.AdmissibleModel.WeylDim
+import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.RemainingWeightVectorCount
 
 open Finset
 

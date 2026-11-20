@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.MemInvariantsCompSubtypeIff
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 

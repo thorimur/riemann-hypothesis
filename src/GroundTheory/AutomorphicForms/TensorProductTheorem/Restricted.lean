@@ -1,5 +1,9 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.SmoothRep
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.LinearAlgebra.PiTensorProduct.Basis
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Algebra.RestrictedProduct.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

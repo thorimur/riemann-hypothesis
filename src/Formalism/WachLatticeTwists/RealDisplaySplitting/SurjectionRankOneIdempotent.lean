@@ -1,4 +1,4 @@
-import Formalism.WachLatticeTwists.RamifiedBlockRings.DistinctEigenvalueCornerPerturbation
+import Formalism.CharacterColumnKernels.StatementX
 
 open Finset Classical
 

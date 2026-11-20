@@ -1,5 +1,5 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ResMapBijective
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.PartClosed
+import Mathlib.Tactic.Polynomial.Basic
 
 open IsLocalRing MvPowerSeries UpperTheory.V.Alg
 

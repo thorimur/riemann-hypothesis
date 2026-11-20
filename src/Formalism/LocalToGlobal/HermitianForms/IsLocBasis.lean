@@ -1,5 +1,5 @@
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 import Formalism.LocalRingCardinality.DataLevel
+import Formalism.LocalRingCardinality.DataCoeff
 
 noncomputable section
 

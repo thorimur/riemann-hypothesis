@@ -1,7 +1,10 @@
 import Formalism.RealPlaceAnalysis.InstMeasurableSpaceUJ
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.ComplexificationHolds
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.KoszulLowersPower
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.PlaceRankTwoOne
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Matrix.Normed
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MeasureTheory Matrix Topology Metric Kronecker
 

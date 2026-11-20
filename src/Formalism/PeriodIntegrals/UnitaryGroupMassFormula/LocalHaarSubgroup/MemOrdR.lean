@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.LocHaarRR
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalHaarSubgroup.IntegralMemNhdsAndSubsetCompactOfFinrankTwo
 

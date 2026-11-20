@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsGrassLinesProj
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGrassArithVar
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PCoordConeArithVar

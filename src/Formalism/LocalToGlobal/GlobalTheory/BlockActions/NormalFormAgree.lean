@@ -1,4 +1,7 @@
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.MapMemCSpanOfRat
+import Formalism.LocalToGlobal.GlobalTheory.BlockActions.BlkFockLe
+import Formalism.LocalToGlobal.GlobalTheory.BlockActions.NormOneOfPow
+import Formalism.LocalToGlobal.GlobalTheory.BlockActions.RestrictionSymmetric
 
 noncomputable section
 

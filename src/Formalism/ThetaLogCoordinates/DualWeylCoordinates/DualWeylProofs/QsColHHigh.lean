@@ -1,5 +1,6 @@
-import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.QsRemIffAdd
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.QsSymDMatEq
+import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.BCoreW
+import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.QsMnTranspose
 
 noncomputable section
 

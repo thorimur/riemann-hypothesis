@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.UnitaryNorms.CharProd
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ExistsPowLocKMulInf
 

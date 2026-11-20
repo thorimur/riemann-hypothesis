@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.BlockBaseChange
+import Formalism.LocalToGlobal.Divisibility.RowLat
 open Module NumberField Formalism.L2.DIV Formalism.DivisionValues
 open scoped Matrix
 

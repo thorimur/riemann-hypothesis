@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.IsDomainAndIsIntegrallyClosedAtPrimeOfSmoothOfCo
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsSmoothFreeAway
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PicardGroup
 open scoped TensorProduct
 
 namespace GlobalTheory

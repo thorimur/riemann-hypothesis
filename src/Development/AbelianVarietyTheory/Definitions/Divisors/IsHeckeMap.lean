@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CompEqOneOfTransl
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LevelPosOfCoprime
 import Development.AbelianVarietyTheory.Definitions.Divisors.ToRepFam
+import Development.AbelianVarietyTheory.Definitions.ModuliSpaces.IsGaloisCover
 
 noncomputable section
 

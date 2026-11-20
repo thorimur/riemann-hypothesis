@@ -1,4 +1,8 @@
 import Formalism.HermitianCurvature.StatementFr
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.HahnSeries.Summable
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace Formalism.FourierDecayAlt.M
 

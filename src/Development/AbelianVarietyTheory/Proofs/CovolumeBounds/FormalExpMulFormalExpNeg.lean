@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.NatCastMulCoeffOfPderivEq
+import Mathlib.RingTheory.PowerSeries.Log
 
 namespace GlobalTheory.FormalCalc
 

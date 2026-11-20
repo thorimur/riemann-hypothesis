@@ -1,8 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsCurveVertIndexSteps
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLogCardLength
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.PCurveDivVertical
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PLiftBirationalAmple
+import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsCurveVertIndex
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Targets

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.WeaklyAdmissibleFiltrations.Statement
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BlockCharactersCrystallineOfRules
 
 noncomputable section

@@ -1,5 +1,3 @@
-import Formalism.HermitianCurvature.StatementG
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.AdditiveCharacterPsi
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralConvergesAbs
 
 open Matrix MeasureTheory Filter Topology

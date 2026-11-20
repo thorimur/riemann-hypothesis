@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL3.IntegralityIffAwayAtD
+import Formalism.LocalToGlobal.KernelLattices.LateralTheory
 
 noncomputable section
 

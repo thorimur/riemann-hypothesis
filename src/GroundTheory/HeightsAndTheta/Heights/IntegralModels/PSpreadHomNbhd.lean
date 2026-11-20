@@ -1,7 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.IntegralModels.Statements
-import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHom
-import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadNbhd
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomNbhd
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsDescendHom
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsGenericPullInj

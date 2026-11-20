@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.LocalFields.AbstractLocalReciprocity.ProfiniteInteger
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace GroundTheory.LocalField.Abstract
 

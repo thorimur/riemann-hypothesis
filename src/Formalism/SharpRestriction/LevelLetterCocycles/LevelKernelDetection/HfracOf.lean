@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.FinalLevelsOf
 import Formalism.SharpRestriction.LevelLetterCocycles.LevelKernelDetection.PfLvBasis
 
 noncomputable section

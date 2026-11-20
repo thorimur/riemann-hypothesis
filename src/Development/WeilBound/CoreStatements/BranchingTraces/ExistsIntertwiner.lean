@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.BranchingTraces.FormTSingle
+import Development.WeilBound.CoreStatements.BranchingTraces.ContinuousEmb
 
 noncomputable section
 

@@ -1,7 +1,6 @@
-import Formalism.HermitianCurvature.StatementFr
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.QuasiDeterminantFromEntries
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagScalarCommuteTransposedRMatrix
-import Formalism.YangianSpanCharacter.YangianRelationFirst
+import Formalism.YangianSpanCharacter.YangianRTTProofs.MinusFrameIdentity
 
 open Matrix Formalism.YangianSpanCharacter.T Formalism.YangianSpanCharacter.Y Formalism.FourierDecayAlt.R Formalism.FourierDecayAlt.Wd Formalism.FourierDecayAlt.Fr
 

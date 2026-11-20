@@ -1,7 +1,10 @@
-import Mathlib
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.EuclideanAtlasPointwiseNormSqUnitSection
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.AApproxF
 import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.CommFderivApply
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.SpecialFunctions.Gaussian.FourierTransform
+import Mathlib.MeasureTheory.Integral.IntervalIntegral.ContDiff
+import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.DifferentiableAtChart
 
 namespace GlobalTheory.L2Kaehler
 

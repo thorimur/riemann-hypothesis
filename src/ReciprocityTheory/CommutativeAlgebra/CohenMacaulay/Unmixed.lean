@@ -1,5 +1,8 @@
 import ReciprocityTheory.CommutativeAlgebra.CohenMacaulay.ExistsIsRegularAppendOfModDepthGE
 import ReciprocityTheory.CommutativeAlgebra.CohenMacaulay.AssDim
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Ideal.AssociatedPrime.Localization
+import Mathlib.RingTheory.KrullDimension.Regular
 
 namespace ReciprocityTheory.CA
 

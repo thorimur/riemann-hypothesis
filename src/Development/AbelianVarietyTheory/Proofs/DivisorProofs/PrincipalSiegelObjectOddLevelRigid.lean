@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.SRelOneOneIff
-import Development.AbelianVarietyTheory.Definitions.ModuliSpaces.IsGaloisCover
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.SiegelToroidalIntegral
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.AmplePt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AmpleRigidConstant
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AmpleRigidCube
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AmpleRigidFiniteOrder

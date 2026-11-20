@@ -1,10 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCompactFundamentalSet
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.GramOfIsWittBasis
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSchANe
-import Development.AbelianVarietyTheory.Definitions.Divisors.DblActId
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictsToQuadraticPowOfRestrictsToQuadraticSig
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsContOnOfLocal
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsoRows
+import Development.AbelianVarietyTheory.Definitions.Foundations.MemSiegelOfIffRightAct
+import Development.AbelianVarietyTheory.Definitions.Foundations.T2SpaceTensorProductFiniteExtension
 
 noncomputable section
 

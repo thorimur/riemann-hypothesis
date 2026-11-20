@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Definitions.Foundations.CosetTrace
+import Mathlib.Tactic.ENatToNat
 open GlobalTheory.AlmostEt
 open scoped NNReal
 

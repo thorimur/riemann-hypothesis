@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.SIdeleGroups.Places
+import GroundTheory.GlobalFields.IdeleGroups.StandardOpenEquiv
 
 namespace GroundTheory.Global
 

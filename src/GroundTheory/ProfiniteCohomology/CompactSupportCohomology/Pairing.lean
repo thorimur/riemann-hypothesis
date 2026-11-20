@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CompactSupportCohomology.HomApplyHomApplyEqOfCompEq
 import GroundTheory.ProfiniteCohomology.FilteredHomology
+import Mathlib.Algebra.Homology.HomologicalComplexAbelian
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

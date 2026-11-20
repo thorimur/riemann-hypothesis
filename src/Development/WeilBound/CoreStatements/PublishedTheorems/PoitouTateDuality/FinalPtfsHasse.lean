@@ -1,6 +1,6 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.FinalGenDefs
 import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohCmpA
+import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolSep
 
 noncomputable section
 

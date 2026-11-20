@@ -1,8 +1,6 @@
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.SideWeightExportLevel
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SideOf
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.NormChoiceOfExtension
-import Development.AutomorphicArithmetic.Foundations.LocalLanglands.IsRecTOfIsRec
+import Development.AbelianVarietyTheory.Proofs.HeightProofs.SmallFrameAtColumnStatement
+import Development.AbelianVarietyTheory.Proofs.HeightProofs.WPtFrame
 
 set_option synthInstance.maxHeartbeats 200000
 

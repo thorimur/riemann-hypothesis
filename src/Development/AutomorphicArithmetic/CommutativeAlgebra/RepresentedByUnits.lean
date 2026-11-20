@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.EtaleClopenDescent.BothToSecondRelation
+import Mathlib.AlgebraicGeometry.QuasiAffine
+import Mathlib.CategoryTheory.ExtremalEpi
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.t_E6Cut UpperTheory.Aff
 
 namespace UpperTheory

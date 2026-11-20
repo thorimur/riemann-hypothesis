@@ -3,7 +3,6 @@ import CompanionTheory.AutomorphicTheory.BesselWaveGrids.GridsText
 import CompanionTheory.AutomorphicTheory.BesselWaveGrids.LimBdSh
 import CompanionTheory.AutomorphicTheory.BesselWaveGrids.CoefFacts
 import CompanionTheory.AutomorphicTheory.KFiniteVectors.KDecay
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BaseCutoffIsTruncation
 
 namespace CompanionTheory.WaveGrid
 

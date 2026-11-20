@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsCurveVertPointLengthSteps
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSectionBounded
+import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLogCardLength
+import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsPointVertRSteps
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Targets

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SatakeDualWeyl.Statement
 
 namespace GlobalTheory

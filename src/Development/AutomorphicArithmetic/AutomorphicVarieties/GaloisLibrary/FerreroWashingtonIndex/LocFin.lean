@@ -1,4 +1,3 @@
-import GroundTheory.GlobalFields.HasseNorm
 import GroundTheory.GlobalFields.IdeleGroups.LocalNormsEverywhere
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.FerreroWashingtonIndex.CycRepApply
 

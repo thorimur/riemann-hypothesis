@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.AlgebraEquivSetup.CodiffUnit
+import Development.AbelianVarietyTheory.Definitions.Divisors.HasDivPlace
 
 noncomputable section
 

@@ -1,6 +1,10 @@
 import ReciprocityTheory.DualLattices.SubgroupQuotientStatement
-import ReciprocityTheory.DualLattices.ExistsSmulMemOfMemSpan
 import ReciprocityTheory.DualLattices.MapTensorSpan
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

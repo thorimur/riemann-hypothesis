@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.FormalGroups.LubinTateGroup
 
 namespace GroundTheory.LocalField.FormalGroup

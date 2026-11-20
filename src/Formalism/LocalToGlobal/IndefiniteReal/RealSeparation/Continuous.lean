@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.FrameMatEqGlobal
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.GinfCSecondCountable
+import Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.BesPerSt
 
 noncomputable section
 

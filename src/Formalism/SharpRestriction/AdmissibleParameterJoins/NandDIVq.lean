@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.Divisibility.LocalQuadraticParts
-import Formalism.SharpRestriction.LevelLetterCocycles.TwGood
 
 noncomputable section
 

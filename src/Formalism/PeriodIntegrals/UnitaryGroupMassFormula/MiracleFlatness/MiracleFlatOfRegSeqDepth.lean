@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.MiracleFlat
 
 universe u

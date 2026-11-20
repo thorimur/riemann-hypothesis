@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementTA
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagonalTopBlock
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OffDiagonalSchurComplement
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GramConjugationNorm

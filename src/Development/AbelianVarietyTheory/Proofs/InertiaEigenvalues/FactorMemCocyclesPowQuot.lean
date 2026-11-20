@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.WachLatticeTwists.LatticeDualFibres.FibreDualStable
 open Formalism.RepresentationBoundsCohomology.LOC ReciprocityTheory.Gal
 open Formalism.NG (KO)

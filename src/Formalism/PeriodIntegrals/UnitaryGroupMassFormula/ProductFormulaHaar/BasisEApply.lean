@@ -1,5 +1,10 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ProdFormulaE
+import Formalism.SharpRestriction.CuspSpanNormBounds.PsiEDef
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

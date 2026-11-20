@@ -1,4 +1,5 @@
 import ReciprocityTheory.NeutralLocalFields.LocalFieldComparison.LocalFieldAutomorphisms.Kloc
+import ReciprocityTheory.GaloisValuations.GlobalB
 
 noncomputable section
 

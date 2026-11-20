@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSectionQuotientOfContinuousReading
 import Development.AutomorphicArithmetic.DivisorFrames.ExistsComplexPointPrime
 import Development.AutomorphicArithmetic.DivisorFrames.ExistsPrimeNonDivisible
+import Development.AbelianVarietyTheory.Proofs.GenericRegularity.ExistsCountableHolomorphicFamiliesSmoothStatement
 
 theorem UpperTheory.holomorphic_family_nonvanishing :
     ∀ (K A : Type) [Field K] [NumberField K] [CommRing A] [IsDomain A] [Algebra K A] [Algebra.Smooth K A] (σ : K →+* ℂ) (m : ℕ) (ε : Fin m → ℂ), (∀ a : Fin m → K, ∑ j, σ (a j) * ε j = 0 → a = 0) → ∀ (a : A) (b : Fin m → A), a ≠ 0 → (∀ (d : ℕ) (B : Set (Fin d → ℂ)) (φ : (Fin d → ℂ) → (A →+* ℂ)), IsOpen B → (∀ z ∈ B, (φ z).comp (algebraMap K A) = σ) → (∀ u : A, DifferentiableOn ℂ (fun z => φ z u) B) → ∀ z₀ ∈ B, ∃ n : ℕ, n ≠ 0 ∧ ∃ M : ℝ, ∀ᶠ z in nhds z₀, ‖∑ j, ε j * φ z (b j)‖ ^ n ≤ M * ‖φ z a‖ ^ n) → ∀ j, a ∣ b j := by

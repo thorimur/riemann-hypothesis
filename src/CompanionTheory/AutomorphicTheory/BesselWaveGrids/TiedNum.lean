@@ -1,10 +1,6 @@
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.TBBTie
-import CompanionTheory.AutomorphicTheory.BesselWaveGrids.GapSizes
-import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemma3
 import CompanionTheory.AutomorphicTheory.BesselWaveGrids.KDecayOfGap
 import CompanionTheory.AutomorphicTheory.BesselWaveGrids.FamilyThroughDiscreteSeries
-import CompanionTheory.AutomorphicTheory.BesselWaveGrids.TypeHC
-import CompanionTheory.AutomorphicTheory.BesselWaveGrids.NqOfLamData
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsPosFrameQuotIn
 
 set_option autoImplicit false

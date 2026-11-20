@@ -1,6 +1,9 @@
-import Mathlib
 import Formalism.PeriodIntegrals.DivisionRowsRationalLattice
-import Formalism.PeriodIntegrals.IdxCalc
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

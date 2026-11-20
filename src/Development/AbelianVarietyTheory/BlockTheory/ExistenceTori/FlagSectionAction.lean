@@ -1,6 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.CuspidalL2Subspace
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.CoefMemFlagSec
+import Formalism.LocalToGlobal.ProjectiveLattices.RdOrbIntOfLatZ
+import Formalism.LocalToGlobal.ProjectiveLattices.SpanRatSmulMem
 
 noncomputable section
 

@@ -1,5 +1,3 @@
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.OmStable
-import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.DifferentGeneratorDualIntegral
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsDiffGenerator
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.EigSubEqDifferentSmulEigQuot
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.TwoMulFinrank

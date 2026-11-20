@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.FirstInequality
 import GroundTheory.GlobalFields.SecondInequality.PowFinrankMemRangeInfiniteLocalNorm
 import GroundTheory.GlobalFields.SecondInequality.Reduction

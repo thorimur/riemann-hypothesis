@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsEvalRootsSymmetricEqAlgebraMap
 
 noncomputable section

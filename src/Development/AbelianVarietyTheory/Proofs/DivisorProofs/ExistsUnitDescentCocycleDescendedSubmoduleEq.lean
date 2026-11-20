@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Definitions.Divisors.IndEtOfForallFinset
+import Mathlib.Tactic.Polynomial.Basic
 open TensorProduct GlobalTheory.EtC
 
 namespace GlobalTheory.PicCech

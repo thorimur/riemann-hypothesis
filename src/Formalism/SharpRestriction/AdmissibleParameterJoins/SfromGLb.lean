@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.AdmissibleParameterJoins.SfromGLa
 import Formalism.SharpRestriction.GlobalSchurBounds.StandardLattice
 

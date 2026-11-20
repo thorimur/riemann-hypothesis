@@ -1,7 +1,5 @@
-import Mathlib
-import Development.DiscreteGroups.GlobalIrreducibility.CellVecFixed
-import Development.DiscreteGroups.GlobalIrreducibility.DzGenCpt
-import Development.DiscreteGroups.GlobalIrreducibility.DzGenLin
+import Development.DiscreteGroups.GlobalIrreducibility.DzGenDefs
+import Development.DiscreteGroups.GlobalIrreducibility.DzGenMat
 
 noncomputable section
 

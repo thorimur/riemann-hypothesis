@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.SiegelReframe
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChSingle
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.QuasiperiodicDifferenceSymmetricFamilyStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatticeCocycleZeroOfGeneratorsStatement
 

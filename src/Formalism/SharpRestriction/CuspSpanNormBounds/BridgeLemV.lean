@@ -1,8 +1,6 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVN
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVL
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.SiegelMassRatioOfLI
-import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CovolumeIntegerLatticeEq
-import Formalism.FlagUnipotentLattices.ArithmeticIdentityEntries
 import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GapAtLeast
 
 noncomputable section

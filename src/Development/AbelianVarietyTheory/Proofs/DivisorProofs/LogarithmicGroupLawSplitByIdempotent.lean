@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ResidueEqZeroIffV
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIntInv
 

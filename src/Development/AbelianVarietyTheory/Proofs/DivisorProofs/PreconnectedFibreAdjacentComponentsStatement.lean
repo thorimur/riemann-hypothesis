@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PreconnectedFibreAdjacentComponents
-import Mathlib
 
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.preconnected_fibre_adjacent_components : ∀ (T : Type) [TopologicalSpace T] (S : Set T) (W : Finset T) (e : T → ℚ), _root_.IsPreconnected S →

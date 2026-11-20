@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.TsumThree
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

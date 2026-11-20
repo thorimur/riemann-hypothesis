@@ -1,5 +1,9 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.PrimitiveRootFifteenSubOneUnit
 import Lemmata.GeneralBFactSecondVersion.Imports
+import Mathlib.LinearAlgebra.Eigenspace.Zero
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 open Polynomial

@@ -1,10 +1,8 @@
 import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.ExponentialNegativity.ExpNegGlue
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmMemArchSmooth
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsLeftInvariantOfIsAutForm
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsOpenLevel
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchLieDerivativeExists
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousOfIsOpenStab
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspFormsDiff
 
 noncomputable section
 

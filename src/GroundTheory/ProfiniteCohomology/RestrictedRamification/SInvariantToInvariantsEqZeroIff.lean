@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.SDivisor
-import GroundTheory.ProfiniteCohomology.GaloisCohomology.Kummer
-import GroundTheory.ProfiniteCohomology.GaloisCohomology.IsZeroGroupCohomologyQuotientToInvariantsGalAdd
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

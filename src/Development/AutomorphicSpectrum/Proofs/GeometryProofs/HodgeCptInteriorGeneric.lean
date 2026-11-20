@@ -1,8 +1,9 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsHodgeLine
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenspaceDecompositionInternalStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.GenPtSpecializes
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.AbProj
+import Mathlib.AlgebraicGeometry.QuasiAffine
+import Mathlib.SetTheory.ZFC.PSet
 
 noncomputable section
 

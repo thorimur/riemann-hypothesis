@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HarishChandraRegularity.ContDiffCompCoordEquiv
 
 namespace GroundTheory.Automorphic

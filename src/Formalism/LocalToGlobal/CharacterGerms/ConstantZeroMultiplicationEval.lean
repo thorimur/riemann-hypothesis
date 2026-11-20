@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.CharacterGerms.CoordinatePointConstantCoeff
-import Formalism.LocalToGlobal.CharacterGerms.ConstantZeroSecondCoordinate
+import Formalism.LocalToGlobal.CharacterGerms.RowTiePGerm
+import Formalism.LocalToGlobal.CharacterGerms.UnitSeriesFrobenius
 
 set_option autoImplicit false
 

@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.GlobalFields.Artin.PlacesFrobenius
 import GroundTheory.GlobalFields.Artin.PlacesInfinite
+import GroundTheory.GlobalFields.Artin.Places
 set_option maxSynthPendingDepth 1
 
 noncomputable section

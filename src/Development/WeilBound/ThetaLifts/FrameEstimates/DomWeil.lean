@@ -1,4 +1,5 @@
 import Development.WeilBound.ThetaLifts.FrameEstimates.LatSumRedH
+import Development.WeilBound.ThetaLifts.FrameEstimates.HodgeTateFromSandwich
 
 noncomputable section
 

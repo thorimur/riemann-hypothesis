@@ -1,4 +1,8 @@
-import Formalism.PeriodIntegrals.WeylForK
+import Formalism.PeriodIntegrals.UpqRep
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open PI PI.UpqRep Matrix
 

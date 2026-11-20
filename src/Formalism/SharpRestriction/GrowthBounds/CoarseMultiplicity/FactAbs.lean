@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BFDefs
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.PadicGeMulNat
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 noncomputable section
 

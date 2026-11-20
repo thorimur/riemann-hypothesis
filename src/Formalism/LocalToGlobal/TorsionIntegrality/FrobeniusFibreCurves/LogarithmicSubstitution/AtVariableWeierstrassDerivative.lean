@@ -1,6 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.FinalD
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementE
+import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.FinalA
+import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.InVarAddInVarNeZero
+import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.WeierstrassSeriesIntegral
 
 noncomputable section
 

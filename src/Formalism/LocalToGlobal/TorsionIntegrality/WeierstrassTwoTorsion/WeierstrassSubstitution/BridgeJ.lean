@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.WeierstrassTwoTorsion.StatementJ
 import Formalism.LocalToGlobal.TorsionIntegrality.WeierstrassTwoTorsion.FlowTwoTorsionWp
-import Formalism.EllipticTorsion.FormalGroupPointsNoTorsion
+import Formalism.LocalToGlobal.TorsionIntegrality.WeierstrassTwoTorsion.StatementI
 
 open PowerSeries
 

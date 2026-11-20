@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.UnitaryGroupLocal
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.DualFamilyCounting.EqZeroOfMemMult
 
 noncomputable section
 

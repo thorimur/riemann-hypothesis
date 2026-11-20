@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.IndependenceBoundRaw
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePHStab
+import Formalism.LocalToGlobal.CharacterGerms.RowTieFB
 
 noncomputable section
 

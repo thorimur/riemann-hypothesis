@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.RatHermLcvTwist
 import Formalism.QuotientMetricDivisors.LatticeGlueUnique
 import Formalism.QuotientMetricDivisors.HeightBoundExactNorms

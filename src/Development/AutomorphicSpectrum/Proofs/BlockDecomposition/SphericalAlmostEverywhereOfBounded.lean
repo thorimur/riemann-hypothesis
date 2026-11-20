@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PublishedTheorems.SmoothVectorEstimates.WhittakerVanishingImpliesZero
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.EventuallyMemFixed
 

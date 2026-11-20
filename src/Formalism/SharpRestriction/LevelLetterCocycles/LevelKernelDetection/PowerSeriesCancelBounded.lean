@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.FinalLevelsOf
+import Formalism.SharpRestriction.LevelLetterCocycles.RingConditionOfDeltaInvariants
 
 noncomputable section
 

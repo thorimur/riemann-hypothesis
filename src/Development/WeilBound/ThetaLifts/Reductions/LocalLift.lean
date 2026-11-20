@@ -1,4 +1,7 @@
 import Development.WeilBound.ThetaLifts.Reductions.NormExpSubLe
+import Development.WeilBound.ThetaLifts.Reductions.MetaDef
+import Mathlib.Analysis.Calculus.Deriv.Abs
+import Mathlib.Analysis.Normed.Algebra.MatrixExponential
 
 noncomputable section
 

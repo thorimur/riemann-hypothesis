@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.DinvExact
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.ReduceModChar
 
 open TensorProduct Module
 open UpperTheory.Gal.crystallineComparison

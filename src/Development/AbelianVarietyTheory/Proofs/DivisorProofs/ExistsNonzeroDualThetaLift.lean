@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingLFunctionSpecialValueStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TripleDoublingPeriodSecondStatement
 open scoped TensorProduct NNReal Matrix

@@ -1,21 +1,13 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CIndVerb
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpOfPf
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpChartOf
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpActOf
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpTiePf
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqChart
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqPf
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.EvalSinglePointId
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.KillAddVal
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.PsiCover
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.HarmInvPf
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CIndFrFixAsm
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrRatio
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpGauge
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IntegralChartDirectionsAreEigenvectors
 import Development.AbelianVarietyTheory.Counterexamples.JetSurvey.FrTruncFixIff
-import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.AbelianSchemeLawsUnconditional
+import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.GlobalFnsHolds
 
 namespace GlobalTheory
 

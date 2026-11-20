@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegrableOfMulUnimodular
+import Mathlib.RingTheory.PicardGroup
 
 open scoped Matrix Topology
 

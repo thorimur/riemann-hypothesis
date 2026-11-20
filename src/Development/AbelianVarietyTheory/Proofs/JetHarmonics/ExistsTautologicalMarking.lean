@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.UnitaryDetClass
 
 set_option autoImplicit false

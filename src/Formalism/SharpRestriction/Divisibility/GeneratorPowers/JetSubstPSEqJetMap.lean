@@ -1,5 +1,4 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ESecToUnit
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdJet
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.JetSubstPSTrunc
 
 set_option autoImplicit false
 

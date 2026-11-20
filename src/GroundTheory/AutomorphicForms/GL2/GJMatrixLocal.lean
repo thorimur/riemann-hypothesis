@@ -1,8 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJMatrixFinite
 import GroundTheory.AutomorphicForms.GL2.GJMatrixCoord
-import GroundTheory.LocalFields.LocalFourier
 import GroundTheory.AutomorphicForms.GL2.GJZetaDefs
+import GroundTheory.AutomorphicForms.MeasuresModulus
 
 namespace GroundTheory.Automorphic.GJMatrix
 

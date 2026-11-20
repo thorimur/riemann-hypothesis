@@ -1,6 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.PackageTie
-import Formalism.HermitianCurvature.StatementB
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.InnerProductSpace.Adjoint
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

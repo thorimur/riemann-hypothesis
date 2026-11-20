@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsIntNumComponents
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PPerturb
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PBaseChange

@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.NormSmall
-import Development.AbelianVarietyTheory.Definitions.Divisors.DiscreteSeriesHermitianUnique
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeckeLFunctionBottomPairStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomPairNormNeZeroStatement
 

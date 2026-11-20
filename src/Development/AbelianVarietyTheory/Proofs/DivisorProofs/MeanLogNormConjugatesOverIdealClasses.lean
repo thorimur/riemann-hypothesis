@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.LatticeNormTransport
+import Mathlib.Data.Rat.Star
 open NumberField
 open scoped nonZeroDivisors
 

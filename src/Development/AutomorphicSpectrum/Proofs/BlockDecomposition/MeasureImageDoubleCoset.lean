@@ -1,8 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsTemperedCoeff
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsPrincipalCongruence
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenIsCompactPrincipal
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValZpowIff
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Basic
+import Mathlib.Order.Interval.Finset.Box
 
 open MeasureTheory GlobalTheory.LocGL
 

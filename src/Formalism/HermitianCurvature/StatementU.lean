@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.StatementB
 import Formalism.HermitianCurvature.StatementG
+import Mathlib.Data.Matrix.ColumnRowPartitioned
 
 open Matrix MeasureTheory
 open scoped ComplexConjugate

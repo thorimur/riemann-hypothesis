@@ -1,10 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.ThetaValues.IsNullVal
-import Development.AbelianVarietyTheory.Definitions.Uniformization.AllDV
 import Formalism.LocalToGlobal.ProjectiveLattices.ChartDirectionsIntegral
-import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HarmonicValuesInvariantUniversalEndomorphism
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.ExistsPolAVPullbackOfIsLocalRing
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.LinearIndependentOfIsExtension
+import Development.AbelianVarietyTheory.Definitions.Uniformization.TXFrame
 
 set_option autoImplicit false
 

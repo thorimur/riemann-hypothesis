@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionEigenfunctionMaximalCompact
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DetUpperTriangularBlock
 
 noncomputable section

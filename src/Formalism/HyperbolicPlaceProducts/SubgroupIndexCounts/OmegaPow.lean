@@ -1,4 +1,5 @@
 import Formalism.HyperbolicPlaceProducts.Statement
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace Formalism.SLP.P
 

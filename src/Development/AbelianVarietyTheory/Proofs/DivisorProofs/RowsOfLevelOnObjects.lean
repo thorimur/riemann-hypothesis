@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LevelTypeEigenfunctionOfLiftableElement
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.TypedRowsIdempotent
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteGroupActionPreservesPrincipalFlagMultiplic
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LevelGroupActionIsAction
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParahoricLevelLiftsExistStatement
@@ -8,7 +6,6 @@ import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffSetI
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RePosOfIsMultIP
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsLiftModelsOn
 import Formalism.LocalToGlobal.ProjectiveLattices.LevelPb
-import Formalism.LocalToGlobal.Divisibility.ProjLemmas
 
 noncomputable section
 

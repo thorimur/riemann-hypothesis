@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.CuspidalL2Subspace
-import Formalism.SharpRestriction.Divisibility.AbelianOpenPart.KaSmallNonpos
 
 noncomputable section
 

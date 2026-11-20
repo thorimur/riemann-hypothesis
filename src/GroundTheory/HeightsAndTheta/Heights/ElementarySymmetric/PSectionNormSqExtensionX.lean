@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSectionNormSqExtension
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PLeviLogFlat
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PLeviHolPerturb

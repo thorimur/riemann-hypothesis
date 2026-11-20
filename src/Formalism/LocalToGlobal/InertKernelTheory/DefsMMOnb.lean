@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.InertKernelTheory.DefsMM
+import Formalism.SharpRestriction.GlobalSchurBounds.StandardLatticesGL3
 
 noncomputable section
 

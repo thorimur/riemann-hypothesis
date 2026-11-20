@@ -1,4 +1,4 @@
-import Formalism.MahlerMeasure.GoodCount
+import Formalism.MahlerMeasure.LevelSum
 
 namespace Formalism.GM.M
 

@@ -1,4 +1,3 @@
-import Development.WeilBound.ThetaLifts.LeviDeterminants.EvStmt
 import Development.WeilBound.ThetaLifts.LeviDeterminants.EvChange
 import Development.WeilBound.ThetaLifts.LeviDeterminants.LagrangianUniqueness.GeoLeaves
 

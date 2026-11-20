@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConjPlInvolutive
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EmbLLMem
 
 noncomputable section

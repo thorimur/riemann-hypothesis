@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsCharpolyBaseChangeIntegrallyClosed
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AlgebraMapNormCoeff
 open CategoryTheory Polynomial GlobalTheory.NormalDescent
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.exists_charpoly_baseChange_integrallyClosed : ∀ {A B K : Type} [CommRing A] [IsDomain A] [IsIntegrallyClosed A] [CommRing B] [Field K]

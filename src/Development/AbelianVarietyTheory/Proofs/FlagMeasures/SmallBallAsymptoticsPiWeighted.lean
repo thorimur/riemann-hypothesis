@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsGaugeAll
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.TendstoProdSmallBallAsymptoticsStatement
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Tactic.Polynomial.Basic
 
 open MeasureTheory NumberField Matrix Finset Formalism.MainNotions.S GlobalTheory.Count GlobalTheory.FlagMeas
 

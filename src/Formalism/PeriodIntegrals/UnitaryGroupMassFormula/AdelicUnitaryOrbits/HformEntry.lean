@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.UnitChoice
+import Formalism.SatakeDualWeyl.Statement
 
 noncomputable section
 

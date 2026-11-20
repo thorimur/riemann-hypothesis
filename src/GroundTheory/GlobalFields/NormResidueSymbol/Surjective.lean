@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.NormResidueSymbol.RestrictNormalInfiniteLocalSymbol
 import GroundTheory.GlobalFields.FirstInequality
 

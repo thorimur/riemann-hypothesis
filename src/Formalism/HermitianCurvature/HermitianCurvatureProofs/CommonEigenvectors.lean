@@ -1,4 +1,7 @@
 import Formalism.HermitianCurvature.CapelliDeterminantAndBranching
+import Mathlib.Algebra.Lie.Sl2
+import Mathlib.LinearAlgebra.Eigenspace.Minpoly
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open Matrix Finset
 

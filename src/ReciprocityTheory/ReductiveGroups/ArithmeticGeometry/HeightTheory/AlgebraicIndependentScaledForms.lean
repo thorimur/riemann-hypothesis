@@ -1,6 +1,5 @@
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.AevalElimEqRenameLinearSubstitution
 import ReciprocityTheory.SemistableReduction.ExistsDualDerivations
-import ReciprocityTheory.CommutativeAlgebra.SaturatedChains.AlgStep
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.TheoremA
 
 namespace ReciprocityTheory.ChartRestriction.G.T0
 

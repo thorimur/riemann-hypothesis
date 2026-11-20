@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.PrimeDiscriminants.SmallRam
 
 open NumberField IsDedekindDomain

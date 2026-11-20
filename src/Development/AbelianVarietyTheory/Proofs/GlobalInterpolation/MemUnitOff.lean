@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.InfiniteGroup
 import Formalism.LocalToGlobal.Columns.DecoFin
 

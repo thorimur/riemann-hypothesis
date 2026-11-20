@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SeparatingAlgebras.StGlob
+import Mathlib.Data.Finset.Functor
 
 noncomputable section
 

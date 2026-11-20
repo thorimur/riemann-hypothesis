@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.TateTwists.EtaleTwistResolutionUniversalExtension
+import Mathlib.CategoryTheory.Abelian.Injective.Ext
+import Mathlib.CategoryTheory.ExtremalEpi
 
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex GlobalTheory.EtC
 

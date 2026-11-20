@@ -1,5 +1,7 @@
-import Mathlib
 import ReciprocityTheory.EigenFrames.EigenSt
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 open scoped BigOperators

@@ -1,6 +1,6 @@
-import Mathlib
-import Formalism.HarderNarasimhan.StatementPl
 import Formalism.QuotientMetricDivisors.Statement
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.FractionalIdeal.Norm
 
 open Module NumberField
 

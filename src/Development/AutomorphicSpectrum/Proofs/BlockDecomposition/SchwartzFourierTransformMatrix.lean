@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SchwartzBilinear.ExistsEquivInnerOfNondegenerate
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
 open scoped Matrix SchwartzMap FourierTransform RealInnerProductSpace
 open MeasureTheory
 

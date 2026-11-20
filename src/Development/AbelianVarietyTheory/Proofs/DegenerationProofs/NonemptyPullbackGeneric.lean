@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsLevelIso
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.CrossIdentity
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.HomExtOfIntegralRatios
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsCompletedPointOfThickenings

@@ -1,4 +1,3 @@
-import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.InertDef
 import Development.WeilBound.CoreStatements.LocalThetaKernels.IwasLoc
 import Development.WeilBound.CoreStatements.LocalThetaKernels.IwasFrame
 import Development.WeilBound.CoreStatements.LocalThetaKernels.IwasAd

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsFiniteExtensionCapitulationComplex
-import Mathlib
 open NumberField IsDedekindDomain Matrix
 open scoped BigOperators
 set_option maxHeartbeats 1000000 in

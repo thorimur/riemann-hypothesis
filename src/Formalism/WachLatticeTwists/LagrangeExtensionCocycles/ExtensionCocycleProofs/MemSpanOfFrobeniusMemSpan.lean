@@ -1,6 +1,5 @@
 import Formalism.WachLatticeTwists.LagrangeExtensionCocycles.Statement
 import Formalism.LagrangeIdealLifts.LiftLagrangeIdealInt
-import Formalism.WindowSums.PowerSeriesRelationList
 
 noncomputable section
 

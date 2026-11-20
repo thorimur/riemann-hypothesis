@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.EtaleCompletion.ArtinHenselCompletionNoetherian
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.RegularSmooth
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAffineCompletionNormal
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StAdicCompletionRegular

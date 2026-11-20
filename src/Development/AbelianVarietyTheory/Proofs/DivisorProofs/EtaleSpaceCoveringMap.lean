@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsOpenGraph
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Topology.Covering.Basic
 open GlobalTheory.PrimLift
 
 namespace GlobalTheory.PrimLift.SphericalEisensteinCover

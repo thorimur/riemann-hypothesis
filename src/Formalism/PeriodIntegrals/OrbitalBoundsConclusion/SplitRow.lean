@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SplitRow
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SesquilinearRowSplitting.Assemble
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SesquilinearRowSplitting.MeasureIsomorphismAtInfinity
 

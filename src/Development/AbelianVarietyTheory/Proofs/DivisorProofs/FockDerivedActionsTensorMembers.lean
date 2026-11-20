@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.SchurIrreducible
-import Development.AbelianVarietyTheory.Definitions.Foundations.IsFockIPOfFockData
+import Formalism.LocalRingCardinality.DataTheta
 
 noncomputable section
 namespace GlobalTheory.FockEmbExp

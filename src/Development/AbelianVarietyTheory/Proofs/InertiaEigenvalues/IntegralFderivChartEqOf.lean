@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SumLieCoord
 import Development.AbelianVarietyTheory.Definitions.Divisors.MeasurableCompInfGL
 

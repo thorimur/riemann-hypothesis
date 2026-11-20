@@ -1,7 +1,7 @@
-import Formalism.AdmissibleDesigns.TheoremFromNormalizedOpenThree
 import Formalism.AdmissibleDesigns.EKSymmCont
-import Formalism.AdmissibleDesigns.HomeoKOf
 import Formalism.AdmissibleDesigns.LengthSemilinear
+import Formalism.AdmissibleDesigns.CycMatchRec
+import Formalism.AdmissibleDesigns.SelmerInequalityOfInputs
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core] [hH0Fin : Fact Formalism.MainNotions.N.K.H0.FinCore]
 

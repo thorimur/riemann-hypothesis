@@ -2,8 +2,6 @@ import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.ExSummand
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.SSatIff
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.StrongMultiplicityOne.Strong
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.StrongMultiplicityOne
-import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.DefsObj
 
 open MeasureTheory NumberField IsDedekindDomain
 open GroundTheory.Automorphic GroundTheory.Automorphic.Reduction GroundTheory.Automorphic.RightCosetSpace

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CompFinEqZeroOfAt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WordHolomorphicAndUniform
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteDimensionalSpanCommutant
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HoweDualityReal

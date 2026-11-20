@@ -8,7 +8,6 @@ import Development.EtaleCohomology.CohomologicalPurity.LeafCoordPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafSecPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafPolyPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafNbhdPf
-import Development.EtaleCohomology.CohomologicalPurity.LeafChartCut
 
 namespace LateralTheory.Fin.LeafChart
 theorem etale_chart_localization_property_holds : LateralTheory.CohomologicalPurity.ChartCut.LeafLoc := by

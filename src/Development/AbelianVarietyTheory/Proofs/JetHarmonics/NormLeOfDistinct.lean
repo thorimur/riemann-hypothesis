@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.CmLatticeCommutatorPairingPowEqOneOfGoodLift
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 open PowerSeries GlobalTheory.MomOne

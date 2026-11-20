@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.OneMemNbh
+import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.ProjExists
 
 noncomputable section
 

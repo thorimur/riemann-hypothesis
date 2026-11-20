@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.ExpIntW
+import Mathlib.RingTheory.PowerSeries.Substitution
 
 namespace PI
 

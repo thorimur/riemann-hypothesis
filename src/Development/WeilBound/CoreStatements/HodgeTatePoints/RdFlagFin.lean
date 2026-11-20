@@ -1,10 +1,5 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.CotangentSurjective
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsTight
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.StepOrderRes
 import Development.WeilBound.CoreStatements.HodgeTatePoints.RdFlag
 import Development.WeilBound.CoreStatements.HodgeTatePoints.RbFund
-import Development.WeilBound.CoreStatements.HodgeTatePoints.RangeSubtypeEq
 import Development.WeilBound.CoreStatements.HodgeTatePoints.ProdIccFin
 import Development.WeilBound.CoreStatements.HodgeTatePoints.RcFlag
 

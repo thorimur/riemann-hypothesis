@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.PowerSeriesOneAddConstMulXMulInv
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SubIdBijOfContracting
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 namespace GlobalTheory.PhiGam.TrivCocycle

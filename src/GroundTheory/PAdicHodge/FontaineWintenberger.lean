@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.FWGalois
 import GroundTheory.PAdicHodge.FWCharP
 set_option maxSynthPendingDepth 1

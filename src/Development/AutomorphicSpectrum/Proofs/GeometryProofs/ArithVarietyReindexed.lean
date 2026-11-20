@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.IsSmoothHermTrivLine
-import GroundTheory.HeightsAndTheta.Heights.Intersections.PtsOverPt
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGenFibreChartDeg
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PChartScalingIndep
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PAdjoinIndepRelfinrank

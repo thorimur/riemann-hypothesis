@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.CobOn
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsFirstChernClassOfLineBundle
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

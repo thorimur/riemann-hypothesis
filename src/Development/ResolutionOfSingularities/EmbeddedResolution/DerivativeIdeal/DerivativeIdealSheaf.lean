@@ -1,7 +1,8 @@
-import Mathlib
-import Development.ResolutionOfSingularities.EmbeddedResolution.DerivativeIdeal.DerivativeIdeal
 import Development.ResolutionOfSingularities.EmbeddedResolution.DerivativeIdeal.DerivativeIdealLocalization
-import Development.ResolutionOfSingularities.Foundations.Schemes.IdealSheafData
+import Mathlib.AlgebraicGeometry.IdealSheaf.Basic
+import Mathlib.AlgebraicGeometry.Modules.Sheaf
+import Mathlib.AlgebraicGeometry.Morphisms.FiniteType
+import Mathlib.Combinatorics.Quiver.ReflQuiver
 universe u
 
 open AlgebraicGeometry CategoryTheory TopologicalSpace

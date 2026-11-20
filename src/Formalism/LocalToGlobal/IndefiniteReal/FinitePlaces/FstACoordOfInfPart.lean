@@ -1,6 +1,7 @@
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.ActsLinOfSplitLin
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemUniq
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.TendstoCut
+import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleLayerExistsGenerators
+import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemElt
+import Formalism.LocalToGlobal.IndefiniteReal.LocalNewformFunction
 
 noncomputable section
 

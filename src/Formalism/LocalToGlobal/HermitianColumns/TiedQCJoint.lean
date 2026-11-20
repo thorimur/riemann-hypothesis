@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.HermitianColumns.ColsHerm
 import Formalism.LocalToGlobal.HermitianColumns.TiedQC
+import Formalism.LocalToGlobal.HermitianColumns.HermCols
 
 noncomputable section
 

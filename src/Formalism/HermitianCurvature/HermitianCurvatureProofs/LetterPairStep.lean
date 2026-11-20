@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SmoothnessOnGoodSet
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.ChartIntegralLocal
 
 open Matrix MeasureTheory Filter Topology
 

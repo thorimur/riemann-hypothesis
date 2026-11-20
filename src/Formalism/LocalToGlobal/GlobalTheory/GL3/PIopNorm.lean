@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.GlobalTheory.GL3.PIopIso
 import Formalism.LocalToGlobal.GlobalTheory.GL3.DeterminantNormOneOfUnitDisc
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.EpEqOneIff

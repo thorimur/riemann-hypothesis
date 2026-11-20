@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.VolumeInputs
+import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.HeckeSectionsIsotropicCommutatorPairingPower
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterNamed
 
 noncomputable section
 

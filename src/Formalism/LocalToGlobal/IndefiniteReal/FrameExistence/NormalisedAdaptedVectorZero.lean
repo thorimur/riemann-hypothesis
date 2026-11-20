@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.NormalFrame0
 import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
-import Formalism.LocalRingCardinality.IntCastDvdOfDvdIntegers
 
 noncomputable section
 

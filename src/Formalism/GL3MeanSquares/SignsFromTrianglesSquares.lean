@@ -1,5 +1,8 @@
-import Mathlib
-import Formalism.GL3MeanSquares.ModelCocycleExponent
+import Formalism.GL3MeanSquares.InvariantSeriesBidegreeOneOne
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.NumberTheory.ModularForms.JacobiTheta.TwoVariable
+import Mathlib.RingTheory.DedekindDomain.Different
+import Mathlib.RingTheory.PowerSeries.Exp
 
 noncomputable section
 

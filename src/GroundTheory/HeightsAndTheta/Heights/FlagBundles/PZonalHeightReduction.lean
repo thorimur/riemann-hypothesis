@@ -1,7 +1,9 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FlagBundles.Statements
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.StatementsSphereLongitude
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.StatementsZonalReduction
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.MeasureTheory.Measure.RegularityCompacts
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.UniformSpace.Uniformizable
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.FlagBundles

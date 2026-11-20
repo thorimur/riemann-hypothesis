@@ -1,7 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ModuleFormPositivity
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SumPairLevStarMul
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PairOperatorCommute
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.GammaFamilyCommuteGenerators
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.InvariantOperatorUnderJacquet
 
 namespace Formalism.FourierDecayAlt.P.PBF
 

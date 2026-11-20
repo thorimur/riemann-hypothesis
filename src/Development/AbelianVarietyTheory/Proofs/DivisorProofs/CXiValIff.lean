@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.OneMapT
 import Development.AbelianVarietyTheory.Definitions.ThetaValues.LeCovCoeff
 
 set_option autoImplicit false

@@ -1,6 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.SiegelReframe
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Topology.Sheaves.Presheaf
 open Matrix MeasureTheory GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe
 open scoped Real ContDiff
 

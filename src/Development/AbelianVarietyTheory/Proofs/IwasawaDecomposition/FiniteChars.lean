@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.UnitaryNorms.IsUnitaryNormOf
+import Mathlib.RingTheory.RootsOfUnity.AlgebraicallyClosed
 
 open IsDedekindDomain NumberField
 

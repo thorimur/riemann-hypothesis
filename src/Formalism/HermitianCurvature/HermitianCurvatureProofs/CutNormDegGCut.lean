@@ -1,7 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJmuDegG
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutLemB
-import Formalism.HermitianCurvature.WeylElementCommutesLevelOne
-import Formalism.PeriodIntegrals.KFinSmooth
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.DegreeBoundOfHolomorphicContinuation
 
 namespace Formalism.FourierDecayAlt.P.CutBP.Jmu.NDG
 

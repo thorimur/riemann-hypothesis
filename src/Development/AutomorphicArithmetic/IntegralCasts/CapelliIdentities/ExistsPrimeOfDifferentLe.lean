@@ -1,7 +1,5 @@
-import Mathlib
-import Formalism.LocalRingCardinality.Params
 import Formalism.LocalRingCardinality.DataHost
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
+import Mathlib.NumberTheory.NumberField.Discriminant.Different
 
 attribute [local instance] Subfield.toField._proof_1 SubfieldClass.toField._proof_12 SubringClass.toRing._proof_8
 

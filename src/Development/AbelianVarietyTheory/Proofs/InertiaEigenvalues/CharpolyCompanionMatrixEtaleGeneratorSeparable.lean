@@ -1,4 +1,6 @@
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LeftMulTau
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 open GlobalTheory.JR Matrix MeasureTheory Filter Topology
 
 namespace GlobalTheory.JR.LinDesc

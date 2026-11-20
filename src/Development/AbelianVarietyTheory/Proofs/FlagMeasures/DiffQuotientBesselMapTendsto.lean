@@ -1,9 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.MatrixOfBesselTwoSidedAction
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SmoothVectorsDenseInvariantStatement
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.EquivariantSubspace
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdjointInverseTranslate.AnaHpartUnique
-import Formalism.FormalDegreeBessel.FormalDegreeRatio.GBasic
 
 noncomputable section
 

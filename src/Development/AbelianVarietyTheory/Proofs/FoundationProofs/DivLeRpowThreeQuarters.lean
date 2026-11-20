@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.CyclotomicNorms.StatementI
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExceptionalPrimesFiniteCardLe
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.CardPowEqOneLeOfIsCyclicUnits
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Finset
 

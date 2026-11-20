@@ -1,4 +1,5 @@
 import Formalism.AdmissibleDesigns.LiftMapEquivariant
+import Formalism.AdmissibleDesigns.LengthSemilinear
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

@@ -1,9 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.RegularisedSiegelWeil.SingularNullSets.WeakApproximationFinitePlace
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RankOneThetaTotal
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProductThetaOfSchwartzTensor
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProductMeasureStatement
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzTensorDensity
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterEtaCondition
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.PAdicHodge.FieldOfNormsAPF
+import GroundTheory.PAdicHodge.FieldOfNormsField
 set_option maxSynthPendingDepth 1
 
 noncomputable section

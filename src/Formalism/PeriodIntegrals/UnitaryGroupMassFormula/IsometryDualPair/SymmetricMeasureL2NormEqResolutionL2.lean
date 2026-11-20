@@ -1,5 +1,9 @@
-import Mathlib
 import Formalism.PeriodIntegrals.IsoDualPair
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToEndDApply
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Tactic.ENatToNat
 open GlobalTheory.LocFinIso
 
 namespace GlobalTheory.LocFinIso

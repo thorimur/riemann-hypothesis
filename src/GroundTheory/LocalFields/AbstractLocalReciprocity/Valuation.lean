@@ -1,8 +1,7 @@
-import Mathlib
-import GroundTheory.LocalFields.AbstractLocalReciprocity.ExistsOpenSubgroupMemFixedModule
 import GroundTheory.LocalFields.AbstractLocalReciprocity.ExistsEqNsmulOfProjEqZero
 import GroundTheory.LocalFields.AbstractLocalReciprocity.UniqueQuotientSubgroupOfSelf
 import GroundTheory.PowerSubgroups.CountableNeighbourhoods.RelIndexSup
+import Mathlib.Topology.Separation.Connected
 
 namespace GroundTheory.LocalField.Abstract
 

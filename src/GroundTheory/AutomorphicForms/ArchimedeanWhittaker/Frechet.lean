@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ArchimedeanWhittaker.ContinuousMultilinearOfFiniteDimensional
 
 namespace GroundTheory.Automorphic

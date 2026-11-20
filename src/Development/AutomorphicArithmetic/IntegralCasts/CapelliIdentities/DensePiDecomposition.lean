@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ResMapBijective
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MvPowerSeries in
 private theorem UpperTheory.Reformulated.B.AdicDensityOfPresentationSubalgebra.mem_span_of_coeff {σ O : Type} [CommRing O] (s : Finset σ) :

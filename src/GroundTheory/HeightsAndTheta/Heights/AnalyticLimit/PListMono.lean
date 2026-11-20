@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StListMono
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StListMonoRaise
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StListMonoDens

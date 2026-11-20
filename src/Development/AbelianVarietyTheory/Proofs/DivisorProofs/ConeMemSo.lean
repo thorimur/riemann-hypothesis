@@ -1,8 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConeIntZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBStabilizerEigenStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBStabilizerThetaStatement
-import Development.AbelianVarietyTheory.Definitions.Divisors.DiscreteSeriesHermitianUnique
 
 noncomputable section
 

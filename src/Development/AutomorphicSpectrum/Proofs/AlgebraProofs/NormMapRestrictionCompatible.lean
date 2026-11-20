@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFlatLocallyFreeAffine
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsSecOfFinite
 

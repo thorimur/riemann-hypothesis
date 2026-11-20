@@ -1,9 +1,9 @@
 import Formalism.ConjugateSelfDual.StatementRest
-import Mathlib
-import Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LiftInvariantsFinrankEq
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 import Formalism.SharpRestriction.ValuationFrobeniusEpsilon.ScaledValuations.ValuationApplyLtOneIff
 import Formalism.SharpRestriction.ValuationFrobeniusEpsilon.ScaledValuations.ScaleEps
+import Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar
+import Mathlib.NumberTheory.LSeries.Basic
 
 noncomputable section
 

@@ -1,8 +1,6 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ClassNumImQ
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuadraticDedekindZeta.Development
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ClassNumImQInt
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuadraticInvariants.QuadPolyIrreducible
+import Mathlib.Tactic.ENatToNat
 
 open NumberField
 

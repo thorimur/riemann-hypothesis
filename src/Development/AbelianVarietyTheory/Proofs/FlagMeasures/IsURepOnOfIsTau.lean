@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.CuspFrameWeights.DiscreteSpectrumKFiniteDecomposition
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLeadMinorDecay
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.InnerRepK
 

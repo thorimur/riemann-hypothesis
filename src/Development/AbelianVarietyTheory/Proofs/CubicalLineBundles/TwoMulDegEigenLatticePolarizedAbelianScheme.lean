@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Statements.PrincipalLattices.ConclusionsAtIdentity
-import Development.AbelianVarietyTheory.Definitions.CMLattices.LamLetters
-import Development.AbelianVarietyTheory.Definitions.CMLattices.ExistsIsThetaDegOfIsLocalModel
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.DegEigLatEqOfIso
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.ExistsPatOfPolAV
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.HasTypeOfIso

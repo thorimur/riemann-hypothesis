@@ -1,4 +1,4 @@
-import Development.WeilBound.ThetaLifts.CartanFactorisation.CartanConj
+import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HoweDualityReal
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import GroundTheory.LocalFields.PrincipalUnitsRank
+import GroundTheory.LocalFields.PrincipalUnitsModule
 
 open GroundTheory.LocalField ValuativeRel Module Topology
 

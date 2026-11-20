@@ -1,4 +1,5 @@
 import Development.WeilBound.ThetaLifts.SmallCones.KFinArch
+import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PureEqPureA
 
 noncomputable section
 

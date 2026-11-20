@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.BoundedStatements
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshRegMax
 set_option maxSynthPendingDepth 1

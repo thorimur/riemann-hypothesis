@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.SigmaFiniteAmplitudes.BesselIntg
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.MeasSgsPow
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.PsiMajNonneg
 
 noncomputable section
 

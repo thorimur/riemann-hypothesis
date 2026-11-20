@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HarishChandraCentre.Projection
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace GroundTheory.Automorphic.HarishChandra
 

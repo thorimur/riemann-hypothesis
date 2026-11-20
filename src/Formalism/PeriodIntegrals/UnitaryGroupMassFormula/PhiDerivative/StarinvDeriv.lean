@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.LongWeylElementSquare
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

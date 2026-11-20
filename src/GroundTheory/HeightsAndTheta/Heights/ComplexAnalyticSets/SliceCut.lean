@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSliceSectionMass
+import Mathlib.Topology.UniformSpace.Uniformizable
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.MembTop
-import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.PosTLSurj
 
 noncomputable section
 

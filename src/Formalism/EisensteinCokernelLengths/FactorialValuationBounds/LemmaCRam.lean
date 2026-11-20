@@ -1,6 +1,7 @@
-import Formalism.EisensteinCokernelLengths.RationalTailBound
 import Formalism.EisensteinCokernelLengths.FactorialValuationBounds.GaussRam
-import Formalism.GaussValuationBounds.NokLemmaCVal
+import Formalism.GaussValuationBounds.GaussValueContraction.GaussBasic
+import Formalism.GaussValuationBounds.GaussValueContraction.GaussMul
+import Mathlib.Algebra.Order.Ring.Star
 
 namespace Formalism.ZetaNonvanishing.EisensteinGaussValuationBounds
 

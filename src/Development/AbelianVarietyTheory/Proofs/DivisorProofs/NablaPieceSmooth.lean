@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarAddVectorScalar
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalLiftSmoothStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConnectionFormSmoothStatement

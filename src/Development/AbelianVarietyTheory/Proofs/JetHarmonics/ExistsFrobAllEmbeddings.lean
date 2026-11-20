@@ -1,7 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Jets.IsSelfOf
-import Development.AbelianVarietyTheory.Definitions.Jets.TwoPlaces
 import Development.AbelianVarietyTheory.Counterexamples.HeightSurvey.ImaginaryRootConj
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.Frobenius
+import Mathlib.RingTheory.Ideal.Int
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
 
 set_option autoImplicit false
 

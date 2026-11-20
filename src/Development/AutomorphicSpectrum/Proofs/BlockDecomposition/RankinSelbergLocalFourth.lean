@@ -1,5 +1,5 @@
-import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.VerticalStrips.UnramifiedEulerProductIntegral
+import GroundTheory.LocalFields.LocalZeta
 
 open MeasureTheory Matrix GroundTheory.LocalField Ad3 Ad3.R
 open scoped ValuativeRel ENNReal

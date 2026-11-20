@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.HbApply
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.GlueIsLatticeUnimodular
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.MemGenusOfIsUnimodular
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.PartsOfLat

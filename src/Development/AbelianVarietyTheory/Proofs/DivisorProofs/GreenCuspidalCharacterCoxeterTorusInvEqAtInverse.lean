@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.LevelCuspCharacters
+import Mathlib.Algebra.Polynomial.Mirror
+import Mathlib.RingTheory.TotallySplit
 
 open Polynomial
 

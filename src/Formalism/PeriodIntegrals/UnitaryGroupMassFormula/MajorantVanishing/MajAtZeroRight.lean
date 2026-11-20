@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.DivisionRowsRationalLattice
-import Formalism.HarderNarasimhan.FinalCor
+import Formalism.HarderNarasimhan.ShiftInvariance
 
 noncomputable section
 

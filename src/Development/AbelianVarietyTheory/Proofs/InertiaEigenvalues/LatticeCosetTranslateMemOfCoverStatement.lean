@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LatticeCosetTranslateMemOfCover
-import Mathlib
 open MeasureTheory Filter Topology
 open scoped InnerProductSpace BigOperators
 set_option maxHeartbeats 1000000 in

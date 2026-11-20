@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.TheoremDivIneqRows
 
 open Finset

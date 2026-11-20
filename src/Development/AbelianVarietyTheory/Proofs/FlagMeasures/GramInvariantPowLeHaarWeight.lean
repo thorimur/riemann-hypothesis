@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RowsConc
 
 open NumberField Formalism.FourierDecayAlt Formalism.L2.SG.RowsConc Finset

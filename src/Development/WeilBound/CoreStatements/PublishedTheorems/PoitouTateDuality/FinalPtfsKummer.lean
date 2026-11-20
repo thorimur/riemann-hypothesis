@@ -1,5 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.FinalGenDefs
+import Mathlib.RepresentationTheory.Rep.Basic
+import Mathlib.Topology.Instances.ZMod
+import ReciprocityTheory.GaloisValuations.Global
 
 noncomputable section
 

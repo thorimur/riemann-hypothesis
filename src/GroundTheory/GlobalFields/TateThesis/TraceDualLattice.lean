@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.TraceFourier
+import Mathlib.NumberTheory.NumberField.Discriminant.Basic
+import Mathlib.RingTheory.DedekindDomain.Different
 
 namespace GroundTheory.Global
 

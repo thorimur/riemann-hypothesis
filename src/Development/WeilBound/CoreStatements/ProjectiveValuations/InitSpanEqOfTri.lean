@@ -1,8 +1,8 @@
 import Development.WeilBound.CoreStatements.ProjectiveValuations.IsIsoOfIntegral
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EqSpMapEv
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LowerUnitriangularMulUpperTriangularOfIsUnitLeadStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRowPermLeadingMinorsNotMemStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagCellPointImageAndFrameStatement
+import Development.AbelianVarietyTheory.Definitions.Divisors.BarCompSubsetClosure
 
 noncomputable section
 

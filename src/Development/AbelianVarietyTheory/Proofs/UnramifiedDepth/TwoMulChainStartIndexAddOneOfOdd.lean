@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.CharacterGerms.LatticeInclusionFormsInjective
 import Formalism.LocalToGlobal.CharacterGerms.CartesianBoundOnCurves
-import Formalism.LocalToGlobal.CharacterGerms.CoeffIterateZero
+import Mathlib.Algebra.Order.Ring.Star
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Formalism.L2.FormalSeriesBounds Formalism.IncomingBounds
 open Formalism.BaseCaseIdentities (Data Kn s0)

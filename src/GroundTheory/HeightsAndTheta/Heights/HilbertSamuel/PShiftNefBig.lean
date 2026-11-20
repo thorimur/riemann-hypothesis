@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsShiftNefBig
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsNefPlusAmpleDegree
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PKodairaSection

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.TwistPowZeroSub
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTwinEqBundle
 set_option maxSynthPendingDepth 1

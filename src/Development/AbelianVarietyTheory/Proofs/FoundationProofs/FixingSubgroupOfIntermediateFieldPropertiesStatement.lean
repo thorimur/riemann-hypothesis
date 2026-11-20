@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.FixingSubgroupOfIntermediateFieldProperties
-import Development.AbelianVarietyTheory.Definitions.Foundations.IsOneCocycleOnSubgroup
-import Development.AbelianVarietyTheory.Definitions.Foundations.IsTopWTopWOfExists
 open GlobalTheory.KCoh Polynomial
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.fixingSubgroupOfIntermediateField_properties : ∀ (F K Ω : Type) [Field F] [Field K] [Field Ω] [Algebra F K] [Algebra F Ω] [Algebra K Ω] [IsScalarTower F K Ω] [Algebra.IsAlgebraic F Ω],

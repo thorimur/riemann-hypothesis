@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2Classical.CuspWeights
-import GroundTheory.AutomorphicForms.GL2Classical.EigenformTranslatesIrreducible
+import GroundTheory.AutomorphicForms.GL2Classical.WeightOperators
 
 open NumberField Matrix CongruenceSubgroup ModularForm Complex
 open UpperHalfPlane hiding I I_re I_im

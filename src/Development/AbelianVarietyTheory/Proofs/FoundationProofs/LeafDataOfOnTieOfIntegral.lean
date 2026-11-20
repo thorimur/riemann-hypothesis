@@ -1,11 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.ThetaSeriesTies
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.TwistTrivialOnRational
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDetOfMemSt
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.WeightOnDatum
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsAlgebraMapOfSigRFixed
 import Development.AbelianVarietyTheory.Counterexamples.JetSurvey.OrientationExclusive
-import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.WeightedPrimeSumBound
 
 set_option autoImplicit false
 

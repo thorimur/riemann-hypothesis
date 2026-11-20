@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.GlobalTheory.GL5.Statement
-import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.SelfDualLatticeMass
-import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.MassFormulaPositivity
+import Formalism.LocalRingCardinality.DataSpaces
 
 noncomputable section
 

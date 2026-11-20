@@ -1,5 +1,4 @@
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.ThinScalesIffHostBound
-import Development.AutomorphicArithmetic.CharacterBoxes.Imports
 import Development.AutomorphicArithmetic.CharacterBoxes.PairHyp
 import Development.AutomorphicArithmetic.MeanSquareBounds.pairEx
 import Development.AutomorphicArithmetic.CoprimeRanks.AdmChi

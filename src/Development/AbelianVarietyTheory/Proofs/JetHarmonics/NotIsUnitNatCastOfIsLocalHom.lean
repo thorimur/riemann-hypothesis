@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.StChartFH
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.OriginChartMultiplication
 

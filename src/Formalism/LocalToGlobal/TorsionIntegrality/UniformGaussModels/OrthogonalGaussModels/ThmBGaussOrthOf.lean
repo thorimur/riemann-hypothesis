@@ -1,6 +1,7 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.StatementC
-import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.FinalD
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.SqrtInUnramifiedCompletion
+import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.FinalA
+import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.FinalC
 
 noncomputable section
 open scoped BigOperators

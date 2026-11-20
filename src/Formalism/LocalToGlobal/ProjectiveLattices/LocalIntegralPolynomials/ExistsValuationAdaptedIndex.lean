@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.LocalIntegralPolynomials.LocStructSt
-import ReciprocityTheory.SemistableReduction.AlgAll
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.TheoremA
 
 noncomputable section
 

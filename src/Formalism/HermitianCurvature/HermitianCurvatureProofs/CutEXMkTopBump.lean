@@ -1,10 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEX2
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LeftFubiniNormalizedTower
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.NegMulCCancel
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ReproducingFormulaReduction
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CornerBlockActionInvariant
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ActualAdjointnessFromHermitian
-import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
 
 noncomputable section
 

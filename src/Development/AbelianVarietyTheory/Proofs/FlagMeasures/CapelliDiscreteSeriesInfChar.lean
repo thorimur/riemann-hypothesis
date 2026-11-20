@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.DSInfCharCap
 import CompanionTheory.HarishChandraModules.LowKTypeMultiplicity.DiscreteSeriesCharacters.DiscreteSeriesInfinitesimalCharacter
 
 namespace GlobalTheory

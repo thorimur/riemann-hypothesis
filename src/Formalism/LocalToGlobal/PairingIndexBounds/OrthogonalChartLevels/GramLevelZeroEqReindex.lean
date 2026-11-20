@@ -1,6 +1,4 @@
 import Formalism.LocalToGlobal.GroupLattices.StdSubAtOfRing
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.TiedRec
-import Formalism.LocalToGlobal.GroupLattices.DownNaturalLevelZero
 
 noncomputable section
 

@@ -1,9 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasLatticesComplete
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ShortExactMapOfIso
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ShortExactVectorBundlesRankAdd
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalSubringGenericPoint
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SlopeAndEigenDegrees
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsPrincipalIdealRingStalk
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ShortExactOfCover
 
 set_option autoImplicit false
 set_option backward.isDefEq.respectTransparency false

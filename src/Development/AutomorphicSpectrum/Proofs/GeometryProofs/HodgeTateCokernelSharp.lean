@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.HodgeTateCokerSharp
 import Development.WeilBound.CoreStatements.HodgeTatePoints.Farsharp
 
 namespace GlobalTheory.CompanionTheory.Ar.HT

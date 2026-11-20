@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.TruncatedSeriesCounting.RamifiedValuationInequality
-import Formalism.TruncatedSeriesCounting.LengthQuotientLeOfPowSMul
+import Mathlib.LinearAlgebra.Charpoly.Basic
 
 noncomputable section
 

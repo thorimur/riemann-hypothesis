@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.WeightMemWeightsOfNeZero
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectorTraceFormula
 
 noncomputable section
 

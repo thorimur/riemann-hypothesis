@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.RelativeDiscriminant
 import GroundTheory.GlobalFields.SemilocalAlgebras.NormTrace
 import GroundTheory.GlobalFields.CompletionAtPlace.Integers

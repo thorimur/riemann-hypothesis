@@ -1,9 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsTerSide
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsTerExtra
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsTerRest
 import GroundTheory.HeightsAndTheta.Heights.Intersections.CardLength
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.KrullDimQuotientEqOneIffEqBot
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Inter

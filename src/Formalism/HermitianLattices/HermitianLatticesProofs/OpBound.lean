@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.HermitianLattices.StatementMaj
+import Mathlib.RingTheory.WittVector.IsPoly
 
 open NumberField Matrix
 

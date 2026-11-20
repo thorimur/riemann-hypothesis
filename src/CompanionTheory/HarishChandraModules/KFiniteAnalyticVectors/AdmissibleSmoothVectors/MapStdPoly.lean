@@ -1,5 +1,4 @@
-import Formalism.PeriodIntegrals.KFinSmooth
-import Formalism.PeriodIntegrals.IsLowUnitH
+import Formalism.PeriodIntegrals.UpqRep
 
 open MeasureTheory Matrix
 

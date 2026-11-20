@@ -1,6 +1,10 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjSpace
 import GroundTheory.HeightsAndTheta.Heights.ProjTopology
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Topology.Algebra.MvPolynomial
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

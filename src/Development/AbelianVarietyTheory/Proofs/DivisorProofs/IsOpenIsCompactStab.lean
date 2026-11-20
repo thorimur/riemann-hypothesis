@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.SatakeDualWeyl.Statement
+import Mathlib.RingTheory.PiTensorProduct
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open scoped Matrix
 open Formalism.UG

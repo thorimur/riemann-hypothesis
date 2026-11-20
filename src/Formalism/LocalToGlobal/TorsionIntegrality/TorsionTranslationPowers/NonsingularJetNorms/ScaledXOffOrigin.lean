@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.StatementT
+import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.StatementU
 
 open PowerSeries
 

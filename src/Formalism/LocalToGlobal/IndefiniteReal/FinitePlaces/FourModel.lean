@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.SmulSubMulLe
+import Mathlib.RingTheory.SimpleRing.Principal
 
 set_option linter.style.haveILetI false
 

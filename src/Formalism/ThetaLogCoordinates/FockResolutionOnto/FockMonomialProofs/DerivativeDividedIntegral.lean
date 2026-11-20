@@ -1,5 +1,7 @@
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.StatementG
-import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.RaisingKeepsEarlyLetters
+import Formalism.MahlerMeasure.MahlerMeasureProofs.RemoveS
+import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.InitPartZeroXMul
+import Mathlib.RingTheory.Binomial
 
 namespace Formalism.InvariantFactorPaths.L4
 

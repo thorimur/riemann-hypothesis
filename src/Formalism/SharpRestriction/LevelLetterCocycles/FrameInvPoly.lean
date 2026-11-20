@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.IndepStep
+import Formalism.SharpRestriction.LevelLetterCocycles.HorTrExists
+import Formalism.SharpRestriction.LevelLetterCocycles.HorTrUnique
 
 noncomputable section
 

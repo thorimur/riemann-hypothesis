@@ -1,1 +1,1 @@
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.WeylBridge
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd

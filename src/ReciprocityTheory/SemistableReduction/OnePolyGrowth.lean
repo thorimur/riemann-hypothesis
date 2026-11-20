@@ -1,5 +1,7 @@
 import ReciprocityTheory.SemistableReduction.TorsionNonvanishStatement
 import Lemmata.IterateZero.IterZero
+import Mathlib.Analysis.Complex.RemovableSingularity
+import Mathlib.Topology.Algebra.Module.Cardinality
 
 namespace ReciprocityTheory.MultiplicativeHeights
 

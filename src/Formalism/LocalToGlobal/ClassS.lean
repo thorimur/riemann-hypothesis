@@ -1,16 +1,17 @@
-import Formalism.LocalToGlobal.ThetaChr
-import Formalism.LocalToGlobal.HermitianForms.BothSym
 import Formalism.LocalToGlobal.HermitianForms.ExtraSym
-import Formalism.LocalToGlobal.HermitianForms.TiedTwSymAll
 import Formalism.LocalToGlobal.HilbertRowConditions.TiedEMt
-import Formalism.LocalToGlobal.HilbertRowConditions.CenterIdempotentAction
 import Formalism.LocalToGlobal.GroupLattices.StdSubAtOfRing
 import Formalism.LocalToGlobal.GroupLattices.Joint0
-import Formalism.LocalToGlobal.LatticeGeometry.GeoTied
 import Formalism.LocalToGlobal.LatticeGeometry.GeoTiedP
 import Formalism.SharpRestriction.PageFix
 import Formalism.SharpRestriction.Divisibility.SmallFirstModulusBelowScale
 import Formalism.SharpRestriction.LevelLetterCocycles.AlignN
+import Formalism.LocalToGlobal.BesselHermitianTheta.AllTied
+import Formalism.LocalToGlobal.HilbertRowConditions.KaTiedIffKapDef
+import Formalism.LocalToGlobal.JointCharacters.SameChr
+import Formalism.LocalToGlobal.NormalizedHeckeFactors.EMtLevel
+import Formalism.LocalToGlobal.UnitaryNorms.CharGal
+import Formalism.LocalToGlobal.UnitaryNorms.JointCut
 
 noncomputable section
 

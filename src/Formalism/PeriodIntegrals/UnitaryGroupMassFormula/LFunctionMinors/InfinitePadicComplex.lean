@@ -1,6 +1,6 @@
-import Mathlib
-import Formalism.PeriodIntegrals.WwMain
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LFunctionMinors.FintypeColChoice
+import Mathlib.Algebra.MvPolynomial.Funext
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open MvPolynomial Finset
 

@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.SiegelLatticeTheory.WeightedGaugeFactors.FactsDS
 import CompanionTheory.AutomorphicTheory.LocalBesselUniqueness.BesselModels.LocalUniquenessReduction
 import CompanionTheory.AutomorphicTheory.LocalBesselUniqueness.BesselModels.LocScalar
 

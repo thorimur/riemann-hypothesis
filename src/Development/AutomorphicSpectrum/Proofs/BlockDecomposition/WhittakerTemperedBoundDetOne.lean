@@ -1,5 +1,3 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.LocalWhittakerDuality.WhittakerFunctionalEquationAdditive
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.Row1
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NewformTorusVanishing
 open MeasureTheory Matrix GroundTheory.LocalField GroundTheory.Automorphic Ad3 Ad3.K.GL2LocalData

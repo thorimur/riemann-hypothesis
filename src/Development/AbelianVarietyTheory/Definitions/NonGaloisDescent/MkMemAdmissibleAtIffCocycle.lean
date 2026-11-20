@@ -1,9 +1,8 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
-import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
-import Formalism.WeaklyAdmissibleFiltrations.StatementTor
 import ReciprocityTheory.BasicDefinitions.AdRep
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.PowerSeriesOneAddConstMulXMulInv
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.Topology.Order.Hom.Esakia
 
 noncomputable section
 

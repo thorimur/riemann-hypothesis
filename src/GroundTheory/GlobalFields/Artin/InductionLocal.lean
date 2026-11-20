@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.InductionFrobenius
 import GroundTheory.GlobalFields.Artin.Series
 import GroundTheory.GlobalFields.Artin.InflationTower
+import GroundTheory.GlobalFields.Artin.PlacesGalois
 set_option maxSynthPendingDepth 1
 
 noncomputable section

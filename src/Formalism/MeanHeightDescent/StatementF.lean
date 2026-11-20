@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.MeanHeightDescent.StatementA
-import Formalism.MeanHeightDescent.CombinedAverageDegreeBound
+import Formalism.QuotientMetricDivisors.Statement
 
 open Finset Module NumberField
 

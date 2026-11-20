@@ -1,5 +1,9 @@
 import Formalism.LocalRingCardinality.SpanPowerMembership.NZTypeF
 import Formalism.LocalRingCardinality.SpanPowerMembership.NZTypeG
+import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleNewtypesIdempotentZero
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZTypeC
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZTypeE
+import Std.Tactic.BVDecide.Normalize.BitVec
 
 noncomputable section
 

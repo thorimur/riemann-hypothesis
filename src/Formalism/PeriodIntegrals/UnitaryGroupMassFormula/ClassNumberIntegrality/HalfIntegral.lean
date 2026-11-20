@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.ClassNumImQ
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuadraticDifference.QuadraticDifferenceForm
 

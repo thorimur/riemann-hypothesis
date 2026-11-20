@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.ThGerm
+import Mathlib.AlgebraicGeometry.AffineSpace
 
 set_option autoImplicit false
 

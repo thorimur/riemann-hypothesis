@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.PolynomialModelIsometry.LowerInv
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

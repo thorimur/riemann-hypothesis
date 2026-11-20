@@ -1,8 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.FrameEx
 import Formalism.LocalToGlobal.ProjectiveLattices.FrameExBor
-import Development.AbelianVarietyTheory.Proofs.GenericRegularity.EvaluationLawsGenericFramesAtlasHold
-import Development.AbelianVarietyTheory.Proofs.GenericRegularity.NormDiagEqNormBdiag
+import Formalism.LocalToGlobal.ProjectiveLattices.FnDefC
 
 open NumberField IsDedekindDomain ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.FD Formalism.L2.Pj
 

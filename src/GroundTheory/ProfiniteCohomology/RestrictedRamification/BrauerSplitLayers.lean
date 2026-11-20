@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalDegrees
 set_option maxSynthPendingDepth 1
 

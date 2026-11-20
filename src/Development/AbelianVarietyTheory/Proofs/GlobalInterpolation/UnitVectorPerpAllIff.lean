@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.HermitianLattices.StatementLat
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.UnitVectorOrthogonal
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.SelfDualLatticeComplements
 

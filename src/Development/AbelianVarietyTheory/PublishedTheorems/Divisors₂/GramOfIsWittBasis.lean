@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.SiegelWeilAnisotropicWitt
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsWeilFormulas
 
 noncomputable section
 

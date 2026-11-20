@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.ModularCurves.WeierstrassProj
+import GroundTheory.ArithmeticGeometry.ModularCurves.WeierstrassCharts
 
 open CategoryTheory AlgebraicGeometry
 

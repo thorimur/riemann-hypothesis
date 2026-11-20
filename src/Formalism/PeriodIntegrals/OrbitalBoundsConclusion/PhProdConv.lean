@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.PhProdConv
+import Mathlib.MeasureTheory.Integral.Pi
 
 theorem isConvIdempotent_pi : PI.PhProdConv.ProdConv := by
   intro ι _ _ G _ _ _ _ _ _ μ _ _ _ ph m hint hconv

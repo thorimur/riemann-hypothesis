@@ -1,5 +1,6 @@
 import Formalism.WachLatticeTwists.RamifiedBlockRings.LemmaFiveThreeAnyResidueField
 import Formalism.CharacterColumnKernels.IdempotentNormalForms.LengthKerOfDetEqZero
+import Mathlib.RingTheory.PicardGroup
 
 open Finset Classical
 

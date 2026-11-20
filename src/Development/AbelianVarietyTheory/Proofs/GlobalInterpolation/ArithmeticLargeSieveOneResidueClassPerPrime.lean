@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.MultiplicativeLargeSieve
+import Batteries.Data.Nat.Gcd
+import Mathlib.Data.Int.Star
+import Mathlib.NumberTheory.Harmonic.Bounds
+import Mathlib.Topology.Sheaves.Presheaf
 open Complex DirichletCharacter ArithmeticFunction MeasureTheory Filter Topology
 
 namespace GlobalTheory

@@ -1,6 +1,6 @@
-import Mathlib
 import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ArakelovDegreeEqDegreeOfFamily
 import ReciprocityTheory.SemistableReduction.SemiDegCA
+import Mathlib.Algebra.Order.Star.Real
 open NumberField ReciprocityTheory.GeometryOfNumbersTheory
 open scoped ComplexOrder
 

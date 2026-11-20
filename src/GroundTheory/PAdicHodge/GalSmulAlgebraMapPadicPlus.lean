@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.FontaineLemmaInvariants
 set_option maxSynthPendingDepth 1
 

@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.StSpecOf
+import Formalism.PeriodIntegrals.EagonNorthcott
 
 universe u
 

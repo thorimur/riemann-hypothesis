@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PLelongWeightDiffLemmas
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StChartMassCompact
+import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StLelongWeightDiff
+import Mathlib.Algebra.Ring.IsFormallyReal
 set_option maxSynthPendingDepth 1
 
 noncomputable section

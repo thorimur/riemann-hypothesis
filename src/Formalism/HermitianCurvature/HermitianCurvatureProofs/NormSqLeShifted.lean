@@ -1,5 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutDec
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.TriangleInequalityAtPlace
+import Formalism.HermitianCurvature.StatementTBB
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace Formalism.FourierDecayAlt.P.CutBP2
 

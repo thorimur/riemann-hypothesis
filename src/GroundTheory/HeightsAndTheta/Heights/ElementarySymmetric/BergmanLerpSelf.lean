@@ -1,8 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBergman
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBergmanIntegrable
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBergmanDensIntegrable
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.BergmanNorms
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ImportsBis
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PLocalBergmanBound
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PUniformBergmanBound

@@ -1,6 +1,3 @@
-import Mathlib
-import CompanionTheory.HarishChandraModules.LowKTypeMultiplicity.DiscreteSeriesCharacters.CapelliDeterminantBlockProduct
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.KsetSubset
 
 open Matrix

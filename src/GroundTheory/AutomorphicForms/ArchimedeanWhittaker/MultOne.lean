@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ArchimedeanWhittaker.Weights
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
 
 namespace GroundTheory.Automorphic.ArchWhittaker
 

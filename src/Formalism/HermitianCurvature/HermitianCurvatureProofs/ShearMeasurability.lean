@@ -1,5 +1,5 @@
 import Formalism.HermitianCurvature.FiniteOrderIntersectionInSmooth
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LowerParabolicCoordinates
+import Mathlib.RingTheory.PiTensorProduct
 
 open Matrix MeasureTheory Formalism.FourierDecayAlt
 

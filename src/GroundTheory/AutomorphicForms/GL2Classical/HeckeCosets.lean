@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GL2Classical.Adelic
 import GroundTheory.AutomorphicForms.GL2Classical.ConstantTerm
+import Mathlib.Data.Int.Star
 
 open NumberField IsDedekindDomain Matrix
 open GroundTheory.Global

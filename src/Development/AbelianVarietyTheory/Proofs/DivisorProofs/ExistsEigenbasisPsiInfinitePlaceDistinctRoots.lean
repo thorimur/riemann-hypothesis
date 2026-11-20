@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.Brauer.TensorSimple
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsRootSelectionUnitaryRankOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatrixDiagonalizableOfCharpolyEqProdDistinct
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardRootsMapPol
 

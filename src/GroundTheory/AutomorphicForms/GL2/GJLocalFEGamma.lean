@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJLocalFECoeff
 import GroundTheory.AutomorphicForms.WhittakerCriterion
 

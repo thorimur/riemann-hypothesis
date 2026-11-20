@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.HermitianLattices.StatementMass
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open NumberField
 

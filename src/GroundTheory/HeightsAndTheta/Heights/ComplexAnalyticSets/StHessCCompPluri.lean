@@ -1,6 +1,4 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.MaIntEmpty
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.LintegralImageEqLintegralNormSqDetMul
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

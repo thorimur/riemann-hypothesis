@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.KeyMinorDvd
+import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.KeyOne
 
 noncomputable section
 

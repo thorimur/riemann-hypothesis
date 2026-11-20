@@ -6,6 +6,7 @@ import Formalism.FormalDegreeBessel.FinalIO
 import Formalism.FormalDegreeBessel.FinalBF
 import Formalism.SharpRestriction.CuspSpanNormBounds.ChoiceOfModulusAndDiscriminant
 import Formalism.SharpRestriction.CuspSpanNormBounds.RadialRules
+import Mathlib.Analysis.SpecialFunctions.Complex.Analytic
 
 open scoped ContDiff Topology
 open Filter

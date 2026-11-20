@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UMultOne
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.ConjTransposeOf
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.ExistsUnitReal
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.Transfer

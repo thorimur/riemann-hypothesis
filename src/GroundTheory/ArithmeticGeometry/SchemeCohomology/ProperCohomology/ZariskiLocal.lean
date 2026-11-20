@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.FormalIdeal
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.FormalLimit
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.SupportMore
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.HasExtInstances
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjTwistLeray
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.Support
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

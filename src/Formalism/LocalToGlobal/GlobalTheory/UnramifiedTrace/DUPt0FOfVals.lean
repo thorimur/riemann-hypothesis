@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.GlobalTheory.UnramifiedTrace.DUAllOfParts
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CrossDiagonalMatching.DnkLkLocP
 
 noncomputable section
 

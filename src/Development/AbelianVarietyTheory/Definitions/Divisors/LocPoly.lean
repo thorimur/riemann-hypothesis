@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RealCusp
 import GroundTheory.AutomorphicForms.ReductionSplitting
-import Development.AbelianVarietyTheory.Definitions.Divisors.ZetaPair
+import Mathlib.Data.Multiset.Functor
 
 noncomputable section
 

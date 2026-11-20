@@ -1,5 +1,5 @@
-import Formalism.WachLatticeTwists.WachProductBases.NontrivialWachExample
-import Formalism.WachLatticeTwists.HodgeTateChains.UnitCongruenceGivesPerturbation
+import Formalism.WachLatticeTwists.HodgeTateChains.GammaIterateMatrixCongruence
+import Formalism.WachLatticeTwists.WachProductBases.Statement
 
 noncomputable section
 

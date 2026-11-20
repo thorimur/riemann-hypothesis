@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.EigenvalueSeparation.AlmostEverywhereEigen.OneStepOf
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open MeasureTheory
 open PositivityTheory.Rg.BcB.E1 PositivityTheory.Rg.BcB.E2

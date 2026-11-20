@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MatrixIntegralOfAddCharTraceDual
+import Mathlib.RingTheory.PiTensorProduct
 open ValuativeRel MeasureTheory Matrix
 
 noncomputable section

@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ArchBetween
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemOfAevalEqZero
+import Development.AutomorphicSpectrum.Definitions.MetricPeriods.HasMultiplier
 
 noncomputable section
 

@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.GermEvalOneStandardPointSelf
-import Formalism.LocalToGlobal.CharacterGerms.ConstantZeroFirstThenZero
+import Formalism.LocalToGlobal.CharacterGerms.MaximalOfValuationGeOne
 
 set_option autoImplicit false
 

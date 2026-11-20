@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.StatementTL
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.SingleMulVecOne
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.AnisotropicColumnSums
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.DifferentialOperatorBracket
 
 open Matrix Finset
 

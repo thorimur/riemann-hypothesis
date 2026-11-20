@@ -1,5 +1,9 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.InFlagDomainOne
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FactorialBounds.Statements
 set_option maxSynthPendingDepth 1
 

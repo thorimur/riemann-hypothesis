@@ -1,5 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.RowFormsLemmas
+import Formalism.LocalToGlobal.Columns.GSetLemmas
+import Formalism.LocalToGlobal.Columns.RowForms
 
 open NumberField IsDedekindDomain Module
 

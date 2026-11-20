@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.DivisorFrames.PadicSpanCoordinateLattice
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AmpleOnAbelianBase
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RingKrullDimIntegers
+import Mathlib.RingTheory.Valuation.Integral
+import Mathlib.Tactic.Monotonicity.Lemmas
 open CategoryTheory AlgebraicGeometry NumberField IsDedekindDomain ReciprocityTheory.ChartRestriction.G.Geo.Tor GlobalTheory.Cartier GlobalTheory.ProjVar GlobalTheory.TrueGeo GlobalTheory.ShFam.Pad
 
 private theorem norm_le_one_of_int {F : Type} [NormedField F] [IsUltrametricDist F] (y : F)

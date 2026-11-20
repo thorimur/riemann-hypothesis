@@ -1,4 +1,8 @@
 import Formalism.ZeroFreeRegion.SmallHeightLogDeriv
+import Mathlib.NumberTheory.LSeries.Nonvanishing
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Complex Set Filter Topology
 

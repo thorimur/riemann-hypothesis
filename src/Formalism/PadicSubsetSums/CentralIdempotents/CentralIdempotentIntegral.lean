@@ -1,10 +1,8 @@
-import Mathlib
 import Formalism.ResultantValuation.KoszulSecondDifferential
 import Formalism.ResultantValuation.BoundedCubic
 import Formalism.CyclotomicNorms.StatementA
-import Formalism.CyclotomicNorms.DiscardKernel
 import Formalism.CyclotomicNorms.StatementTW
-import Formalism.CyclotomicNorms.TWAbsUniform
+import Mathlib.RingTheory.PowerSeries.Order
 
 open Finset Polynomial Formalism.CyclotomicNorms Formalism.ResultantValuation
 

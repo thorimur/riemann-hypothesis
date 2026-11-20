@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RowRatW
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HoldsUIff
 

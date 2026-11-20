@@ -1,14 +1,9 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.PrimitiveRootFifteenSubOneUnit
-import Mathlib
-import Formalism.GaloisIrreducibility.NoSolvableTransitive
-import Formalism.ResultantValuation.ResultantAdjugateProofs.Adjugate
-import Formalism.ResultantValuation.ResultantAdjugateProofs.Mobius
-import Formalism.ResultantValuation.ResultantAdjugateProofs.Window
-import Formalism.ResultantValuation.ResultantAdjugateProofs.Koszul
-import Formalism.ResultantValuation.ResultantAdjugateProofs.Parabolic
-import Formalism.ResultantValuation.BoundedCubic
-import Formalism.ResultantValuation.ResultantAdjugateProofs.Laplace
-import Formalism.ResultantValuation.PrimePairDyadicDisjointAlt
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
 
 open Polynomial
 

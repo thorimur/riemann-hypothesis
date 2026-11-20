@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.FormalGroupReduction
 
 namespace GroundTheory.Global

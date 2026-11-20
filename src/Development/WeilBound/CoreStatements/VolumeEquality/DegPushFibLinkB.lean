@@ -1,4 +1,7 @@
 import Development.WeilBound.CoreStatements.VolumeEquality.DegPushFibLinkA
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

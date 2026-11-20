@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.ArvOSobPfK
 import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.ArvOSobPfBdd
 
 noncomputable section

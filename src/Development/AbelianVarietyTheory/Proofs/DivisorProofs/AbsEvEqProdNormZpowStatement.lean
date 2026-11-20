@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbsEvEqProdNormZpow
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ValAtOfUnder
 
 noncomputable section
 

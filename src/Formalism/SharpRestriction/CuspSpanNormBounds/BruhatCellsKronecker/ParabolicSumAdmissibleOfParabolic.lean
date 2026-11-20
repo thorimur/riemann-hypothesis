@@ -1,5 +1,3 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.OwnEvIntro
-import Formalism.SharpRestriction.CuspSpanNormBounds.CongruenceAtSplitFrobeniusHolds
 import Formalism.SharpRestriction.CuspSpanNormBounds.AuxiliaryNormPrimes
 import Formalism.SharpRestriction.CuspSpanNormBounds.BranchingAndRankConstants
 import Formalism.SharpRestriction.CuspSpanNormBounds.PExtra

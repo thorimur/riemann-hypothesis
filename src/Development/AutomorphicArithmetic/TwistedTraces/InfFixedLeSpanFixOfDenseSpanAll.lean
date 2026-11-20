@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.LocUApply
 import Development.AutomorphicArithmetic.TwistedTraces.FixedProjectionApplyEquivariantEq
 import Development.AutomorphicArithmetic.TwistedTraces.FixedProjectionInvariantAndCommutingReps
 

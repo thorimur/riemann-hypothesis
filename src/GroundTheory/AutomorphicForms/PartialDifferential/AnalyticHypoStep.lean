@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.PartialDifferential.SqrtSumPdTMulSubLe
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 namespace GroundTheory.Automorphic.Sobolev
 

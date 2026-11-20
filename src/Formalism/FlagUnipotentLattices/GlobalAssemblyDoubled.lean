@@ -1,4 +1,3 @@
-import Formalism.FlagUnipotentLattices.ConductorCharacterLeakBound
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.GaussSumCharacterAverageBound
 
 namespace Formalism.HermitianLatticeCounting.Final.S4

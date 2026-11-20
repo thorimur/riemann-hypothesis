@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerGeoHom
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ValuationRingDominatesPointStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagTorusFrameSmoothStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagTorusEigenFrameCompatStatement

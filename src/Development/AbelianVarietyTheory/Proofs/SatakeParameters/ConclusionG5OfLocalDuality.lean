@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.HeckeCharEqOfLAdicRealisation
-import ReciprocityTheory.Hypotheses.GalCoh
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.EigenPeriodOfLocalGlobalStatement
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.H1H2LocalDualityStatement
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.LocalGlobalCompatibilityStatement

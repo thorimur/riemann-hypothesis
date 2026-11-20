@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.PeriodIntegrals.GTDefs
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
 
 noncomputable section
 

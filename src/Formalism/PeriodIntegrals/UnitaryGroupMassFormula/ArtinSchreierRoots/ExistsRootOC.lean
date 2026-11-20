@@ -1,5 +1,9 @@
-import Mathlib
 import Formalism.PeriodIntegrals.ArtSch
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.Valuation.Integral
+import Mathlib.Tactic.ENatToNat
 
 namespace PI.ArtSch.RootWork
 

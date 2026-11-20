@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsAmbOfIsArithVar
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NontrivialIsomClassInt
 
 set_option autoImplicit false
 

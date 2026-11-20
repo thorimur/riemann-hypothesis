@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedTwoCoboundaries
 import ReciprocityTheory.GaloisValuations.ContinuousConstSMulQuotient
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open IsLocalRing MvPowerSeries UpperTheory.V.Alg
 

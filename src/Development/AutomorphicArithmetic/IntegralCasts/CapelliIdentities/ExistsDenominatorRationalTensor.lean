@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.NotCompactOfMEqOne
+import Mathlib.Tactic.Polynomial.Basic
 
 @[reducible] noncomputable def UpperTheory.Reformulated.B.Qh61.VQ :
     {p : ℕ} → [inst : Fact (Nat.Prime p)] → GlobalTheory.UPel.HT.Datum p → Type :=

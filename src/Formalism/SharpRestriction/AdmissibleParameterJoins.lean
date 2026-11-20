@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GlobalTheoremInputs
+import Formalism.LocalRingCardinality.DataParams₂
 
 namespace Formalism.MainNotions
 

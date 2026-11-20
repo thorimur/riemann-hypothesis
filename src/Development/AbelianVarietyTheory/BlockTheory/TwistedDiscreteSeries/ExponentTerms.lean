@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.MatrixMeasurableSpace
 import Development.AbelianVarietyTheory.Definitions.Foundations.SimpleSum
+import Mathlib.Algebra.Module.Lattice
 
 open MeasureTheory ValuativeRel Matrix
 open scoped Pointwise

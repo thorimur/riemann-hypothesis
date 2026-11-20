@@ -1,6 +1,9 @@
 import Formalism.SubspaceCounting.StatementC
 import Formalism.SubspaceCounting.SubspaceCountingProofs.LengthLayers
 import Formalism.SubspaceCounting.SubspaceCountingProofs.WalkSharp
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Data.Int.Star
 
 noncomputable section
 

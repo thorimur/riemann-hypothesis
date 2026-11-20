@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.PrimeIsMaximalOfIsFractionRing
+import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PCoordConeArithVar
 
 noncomputable section
 

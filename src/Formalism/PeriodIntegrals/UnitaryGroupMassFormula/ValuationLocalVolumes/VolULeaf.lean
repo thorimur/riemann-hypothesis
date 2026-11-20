@@ -1,6 +1,10 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ValuationLocalVolumes.VolUHaar
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ValuationLocalVolumes.VolTProd
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalJacobianType.ComponentsOfD1EqZero
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalJacobianType.IsCompactDbox
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalJacobianType.KitScale
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.CategoryTheory.Countable
 
 noncomputable section
 

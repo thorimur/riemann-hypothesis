@@ -1,5 +1,4 @@
-import Formalism.WachLatticeTwists.HerrComplexInjectivity.ExtInputNA
-import Formalism.WachLatticeTwists.HerrComplexInjectivity.StatInvWach
+import Formalism.WachLatticeTwists.HerrComplexInjectivity.StatementA
 
 noncomputable section
 

@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.AddCharConductorAndHaarIntegersExist
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.LinearIndependentWave
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 open ValuativeRel Matrix GlobalTheory.SplitWeil GlobalTheory.PlaceModel Filter

@@ -1,5 +1,4 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.PerDeriv
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.KLevTop
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import Development.WeilBound.RepresentationTheoryGL.HolomorphicDiscreteSeries.WeightOccurrence.OccSome
+import Development.WeilBound.CoreStatements.BranchingTraces.HeBranching
 
 noncomputable section
 

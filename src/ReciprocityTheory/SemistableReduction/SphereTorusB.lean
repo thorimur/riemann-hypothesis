@@ -1,4 +1,6 @@
 import ReciprocityTheory.SemistableReduction.SphereTorusA
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

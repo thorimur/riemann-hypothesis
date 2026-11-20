@@ -1,7 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGermTop
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.VecVNonloc
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelFormsJointContinuity
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ThetaCompactSupport
 
 namespace Formalism.FourierDecayAlt.P.CutBP.GT
 

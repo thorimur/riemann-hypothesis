@@ -1,7 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.NormResidueSymbol.Functorial
-import GroundTheory.GlobalFields.NormResidueSymbol.Rational
 import GroundTheory.GlobalFields.NormResidueSymbol.Surjective
+import GroundTheory.GlobalFields.NormResidueSymbol.RationalDiagonal
 
 namespace GroundTheory.Global
 

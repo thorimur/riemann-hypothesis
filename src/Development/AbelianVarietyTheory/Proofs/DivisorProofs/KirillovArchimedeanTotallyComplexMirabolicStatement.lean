@@ -1,9 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovArchimedeanTotallyComplexMirabolic
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.MeasurableCompInfGL
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.StrongMultiplicityOne
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MeasurePreservingToMixedPiSymm
 open NumberField GlobalTheory.CuspRep MeasureTheory
 open scoped FourierTransform ContDiff
 set_option maxHeartbeats 1000000 in

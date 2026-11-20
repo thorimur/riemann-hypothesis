@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.FinOrdAd
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicFiniteOrder.Assembly
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.UnitKron
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PowBddInt

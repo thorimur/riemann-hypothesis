@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.DifferentiableAtChart
-import GroundTheory.AutomorphicForms.GL2.GJMatrixAdelic
 import CompanionTheory.AutomorphicTheory.UnitriangularMeasure.AdeleCoordinateMeasure.GJGlobalModulus
 
 noncomputable section

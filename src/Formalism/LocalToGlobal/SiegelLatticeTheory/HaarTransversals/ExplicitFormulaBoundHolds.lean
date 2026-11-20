@@ -1,9 +1,9 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures
 import Formalism.FlagUnipotentLattices.FinalTr
 import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.FoldBound
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CasimirReductionTheory.GgExistsAddCharNeOne
 import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.RowsDef
 import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.HidaSetting
+import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.KernelGeometryConditionsOfVolumeCount
 
 noncomputable section
 

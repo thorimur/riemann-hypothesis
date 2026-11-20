@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsChartEnergyInvariant
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsChartEnergySwap
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ChartMassAffine
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartMassInvariant
 set_option maxSynthPendingDepth 1
 

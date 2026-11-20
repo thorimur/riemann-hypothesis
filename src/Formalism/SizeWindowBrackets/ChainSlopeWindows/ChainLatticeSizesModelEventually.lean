@@ -2,14 +2,9 @@ import Formalism.SizeWindowBrackets.Chain2aCoreNoAnalytic
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.PChain
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.SlopeInequalityOfLattices
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.GaloisMapComplexConjugation
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.AdmissibleSchurLemma
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.OneLeThresholdMulPowers
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.StronglyIrreducible
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.ProjectiveLines
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SlopeIneqMean
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.HtGram
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.PolygonSlopeSum
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SizeMu
+import Mathlib.NumberTheory.Bertrand
 
 open Module NumberField Matrix
 open Formalism.HN

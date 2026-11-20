@@ -1,6 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.TensorLatticeBounds.DataLoc
-import Formalism.SharpRestriction.GrowthBounds.DefsInst
-import Formalism.SharpRestriction.GrowthBounds.LatticeSystems
 import Formalism.SharpRestriction.GrowthBounds.WeilJacquetShalikaLaw
 
 noncomputable section

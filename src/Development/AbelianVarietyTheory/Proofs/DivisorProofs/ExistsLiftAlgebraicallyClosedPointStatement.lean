@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLiftAlgebraicallyClosedPoint
-import Mathlib
 open CategoryTheory AlgebraicGeometry
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.exists_lift_algebraically_closed_point : ∀ {X Y : AlgebraicGeometry.Scheme.{0}} (f : X ⟶ Y) [AlgebraicGeometry.LocallyOfFiniteType f] (k : Type) [Field k] [IsAlgClosed k]

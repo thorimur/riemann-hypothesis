@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StFormIntSlice
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceIdeal
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceFormMass
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StVarIntChartChange
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSliceSectionMass

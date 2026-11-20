@@ -1,4 +1,11 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.GL2UnipotentBruhatDecomposition
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.PowerSeries.Inverse
+import Mathlib.RingTheory.WittVector.Compare
+import Mathlib.RingTheory.WittVector.Teichmuller
+import Mathlib.RingTheory.ZMod.Torsion
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.IrreducibleCountingLemmas.WindowSums
 

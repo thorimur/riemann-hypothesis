@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.PieceEqPieceT
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ZpowCongrOfModEq
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open GlobalTheory.KummerEisensteinGalois
 

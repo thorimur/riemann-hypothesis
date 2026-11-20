@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.IsOrthFull
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FibrePowerMapOfTotalSpacesIsPullback
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.CentralizerCmFieldInvolution
+import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.FiniteSupportHeight
 
 open GroundTheory.Heights₂.Heights NumberField TensorProduct ComplexAt GlobalTheory.CompanionTheory.Ar Matrix
 open scoped BigOperators ComplexOrder

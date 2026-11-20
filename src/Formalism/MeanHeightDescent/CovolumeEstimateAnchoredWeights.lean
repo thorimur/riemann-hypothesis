@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.MeanHeightDescent.StatementA
-import Formalism.MeanHeightDescent.StatementF
-import Formalism.MeanHeightDescent.StatementJ
+import Formalism.LogFactorialIndices.StatementSize
+import Formalism.QuotientMetricDivisors.Statement
+import Mathlib.NumberTheory.Harmonic.EulerMascheroni
 
 open Finset Module NumberField
 

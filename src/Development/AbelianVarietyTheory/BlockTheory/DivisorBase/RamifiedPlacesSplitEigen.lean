@@ -1,7 +1,9 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.FlagBasis
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsLieBasis
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.EigLatBasis
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Analysis.Normed.Field.Instances
+import Mathlib.NumberTheory.Padics.Complex
+import Mathlib.RingTheory.DedekindDomain.Different
 
 set_option autoImplicit false
 

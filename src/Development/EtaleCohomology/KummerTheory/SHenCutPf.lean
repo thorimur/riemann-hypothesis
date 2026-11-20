@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.KummerTheory.SHenCut
+import Mathlib.RingTheory.Etale.StandardEtale
 
 noncomputable section
 open CategoryTheory Limits GlobalTheory.EtC Polynomial

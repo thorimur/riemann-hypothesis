@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.LatticeGeometry.DegFlLApply
 import Formalism.LocalToGlobal.LatticeGeometry.ArVolEqOfNef
 import Formalism.SharpRestriction.Divisibility.WeightAlgebra

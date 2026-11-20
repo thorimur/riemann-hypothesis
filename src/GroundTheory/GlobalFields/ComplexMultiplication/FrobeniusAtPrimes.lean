@@ -1,8 +1,12 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.FrobeniusAtPrimesIsogeny
 import GroundTheory.GlobalFields.ComplexMultiplication.FrobeniusAtPrimesLocal
 import GroundTheory.GlobalFields.ComplexMultiplication.BadPrimesFinite
 import GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityDescent
+import GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityGalois
+import GroundTheory.GlobalFields.SemilocalAlgebras.Galois
+import GroundTheory.GlobalFields.TateThesis.DegreeOnePrimes
+import Mathlib.NumberTheory.NumberField.Ideal.Basic
+import Mathlib.RingTheory.Frobenius
 
 namespace GroundTheory.Global
 namespace Elliptic

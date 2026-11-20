@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.KummerTheory.AdicLimPfKer
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

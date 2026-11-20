@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegerCoordinatesBound
-import Mathlib
 open NumberField
 
 set_option maxHeartbeats 1000000 in

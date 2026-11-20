@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PolarizationOpenImmersion
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsChartOf
 open AlgebraicGeometry CategoryTheory Limits NumberField
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo.Tor GlobalTheory GlobalTheory.ShFam GlobalTheory.LocM GlobalTheory.TorRef
 set_option maxHeartbeats 1000000 in

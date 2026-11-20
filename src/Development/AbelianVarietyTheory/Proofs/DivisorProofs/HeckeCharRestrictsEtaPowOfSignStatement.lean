@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeckeCharRestrictsEtaPowOfSign
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPhaseAt
 
 open NumberField MeasureTheory
 open scoped Classical

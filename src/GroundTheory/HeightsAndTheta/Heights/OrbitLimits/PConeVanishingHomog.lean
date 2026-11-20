@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StConeVanishingHomog
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartZeroSet
 set_option maxSynthPendingDepth 1

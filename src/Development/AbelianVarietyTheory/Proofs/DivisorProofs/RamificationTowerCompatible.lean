@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothCharCompNormU
+import GroundTheory.GlobalFields.CompletionAtPlace.Integers
+import GroundTheory.LocalFields.LocalFourierHaar
+import Mathlib.Algebra.Module.StablyFree.Basic
 open NumberField IsDedekindDomain
 
 noncomputable section

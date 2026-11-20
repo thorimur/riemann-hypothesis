@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.CMTraceOnto
 
 noncomputable section

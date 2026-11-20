@@ -1,9 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualTopSimpleStacked
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualStackedGraph
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsGrassFibreDegree
-import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsArith
-import GroundTheory.HeightsAndTheta.Heights.Intersections.TableDegreeThreeBase
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PConsequences
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ChangeOfModel
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLineSemipositive

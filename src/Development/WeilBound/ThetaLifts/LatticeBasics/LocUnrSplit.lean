@@ -3,6 +3,8 @@ import Development.WeilBound.ThetaLifts.LatticeBasics.LocUnrSplitA
 import Development.WeilBound.ThetaLifts.LatticeBasics.LocUnrSplitL
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.NormSatakeLeOfUnitarySphericalGL
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormUniformiserEqInvAbsNorm
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharacterAtUniformizer
+import Development.WeilBound.CoreStatements.LocalThetaKernels.IwasMain
 
 noncomputable section
 

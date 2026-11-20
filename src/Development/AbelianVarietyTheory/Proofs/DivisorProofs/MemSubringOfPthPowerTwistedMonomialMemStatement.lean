@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemSubringOfPthPowerTwistedMonomialMem
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsEulerContraction
 open GlobalTheory GlobalTheory.LogDR
 
 set_option maxHeartbeats 1000000 in

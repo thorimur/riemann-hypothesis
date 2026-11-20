@@ -1,7 +1,6 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.FormalIdealMul
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.FormalLimit
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.CohFinite
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.SerrePAux
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.FormalIdeal
+import Mathlib.CategoryTheory.Abelian.GrothendieckCategory.HasExt
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

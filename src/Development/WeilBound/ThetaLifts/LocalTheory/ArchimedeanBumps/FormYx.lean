@@ -1,5 +1,5 @@
 import Development.WeilBound.ThetaLifts.LocalTheory.ArchimedeanBumps.HeisenbergActionAddOfOrthogonal
-import Development.WeilBound.ThetaLifts.FrameEstimates.GrpTop
+import Development.WeilBound.ThetaLifts.LocalTheory.ArchimedeanBumps.RationalWeightSuccMulInvNorm
 
 noncomputable section
 

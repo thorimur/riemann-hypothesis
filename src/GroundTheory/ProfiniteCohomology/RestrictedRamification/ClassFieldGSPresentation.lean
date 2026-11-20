@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.ClassFieldGSUnram
+import GroundTheory.ProfiniteCohomology.RestrictedRamification.ClassFieldGSDefs
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

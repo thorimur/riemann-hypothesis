@@ -1,8 +1,8 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.ExistsDpPow
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.CrSEqOne
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.ZariskiEtaleLifting.MapAcrFromBase
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.FrobeniusElement
+import Mathlib.RingTheory.WittVector.Isocrystal
 
 set_option backward.isDefEq.respectTransparency false
 

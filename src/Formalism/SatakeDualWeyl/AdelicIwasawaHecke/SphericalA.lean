@@ -1,4 +1,8 @@
 import Formalism.SatakeDualWeyl.StatementE
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open NumberField IsDedekindDomain Formalism.UG
 

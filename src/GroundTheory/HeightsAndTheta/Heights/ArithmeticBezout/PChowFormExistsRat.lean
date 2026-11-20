@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.MemConePointsSpanX0
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ImportsAlt
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PGenericFibreIdeal
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PIntChowFormExists
 set_option maxSynthPendingDepth 1

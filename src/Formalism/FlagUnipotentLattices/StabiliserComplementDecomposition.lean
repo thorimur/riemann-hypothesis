@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.FlagUnipotentLattices.UnipotentStabiliserCharacterisation
 
 namespace Formalism.HermitianLatticeCounting.ExpansionTerms

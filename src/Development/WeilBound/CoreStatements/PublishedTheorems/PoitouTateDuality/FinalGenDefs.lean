@@ -1,6 +1,5 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.PtfsDefs
-import GroundTheory.ProfiniteCohomology.PoitouTate.PoitouTateNineTermGs
+import GroundTheory.LocalFields.MaximalUnramified
+import GroundTheory.ProfiniteCohomology.PoincareDuality.Torsion
 
 noncomputable section
 

@@ -1,4 +1,8 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.TubeSummability
+import Mathlib.Topology.Sheaves.Presheaf
+import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FourBasic
+import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FourIndep
+import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FourSum
 
 namespace ReciprocityTheory.ChartRestriction.G.FD.TubeFourierExpansion
 

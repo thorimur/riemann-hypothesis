@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.MonicFactorCoeffNatDegreeLe
+import Mathlib.RingTheory.Nullstellensatz
 
 open Polynomial
 

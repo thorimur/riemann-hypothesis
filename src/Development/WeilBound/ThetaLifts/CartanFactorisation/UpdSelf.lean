@@ -1,5 +1,8 @@
 import Development.WeilBound.ThetaLifts.CartanFactorisation.ExistsBeta
 import Development.WeilBound.CoreStatements.LocalThetaKernels.Locrep
+import Development.WeilBound.ThetaLifts.CartanFactorisation.AdmDef
+import Development.WeilBound.ThetaLifts.CartanFactorisation.RadOfZero
+import Development.WeilBound.ThetaLifts.ConeHypotheses.PureEqPureA
 
 noncomputable section
 

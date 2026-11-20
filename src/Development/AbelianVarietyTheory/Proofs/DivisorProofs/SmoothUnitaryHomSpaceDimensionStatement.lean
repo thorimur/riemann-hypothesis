@@ -1,9 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothUnitaryHomSpaceDimension
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsMidJacAt
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndicatorIntMMemSB
 
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.smooth_unitary_hom_space_dimension : GlobalTheory.ThK.KP → ∀ (k : Type) [Field k] [ValuativeRel k] [TopologicalSpace k] [IsNonarchimedeanLocalField k] (n d : ℕ) (ν α : kˣ →* ℂˣ), GlobalTheory.KSplit.IsSmU ν → GlobalTheory.KSplit.IsSmU α →

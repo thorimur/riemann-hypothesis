@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.DedekindZetaContinuation
 set_option maxSynthPendingDepth 1
 

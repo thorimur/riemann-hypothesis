@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormFormOneUnitary.UnitaryP
+import Formalism.HermitianCurvature.OperatorsCommuteTranslations
 
 open Matrix Finset Formalism.QuantumDeterminants Formalism.FourierDecayAlt.C3
 

@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.ClassAct
-import Formalism.LocalToGlobal.Columns.NonDeg
+import Formalism.LocalToGlobal.Columns.AtTRank
 
 open NumberField IsDedekindDomain Module
 

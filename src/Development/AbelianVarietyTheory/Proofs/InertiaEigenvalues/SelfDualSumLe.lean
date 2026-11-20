@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StdPowMemOfLe
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitMulMemIff
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
 
 open MeasureTheory Filter Topology
 open scoped InnerProductSpace BigOperators

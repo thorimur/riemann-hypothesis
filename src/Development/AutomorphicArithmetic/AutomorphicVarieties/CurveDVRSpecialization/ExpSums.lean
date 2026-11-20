@@ -1,6 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CurveDVRSpecialization.IsUnitOrIsUnitOfAddOne
 import Mathlib.Combinatorics.HalesJewett
-import Mathlib.LinearAlgebra.Vandermonde
+import Mathlib.RingTheory.SimpleRing.Principal
 
 theorem UpperTheory.V.Pr.expSums :
     UpperTheory.V.Pr.ExpSums := by

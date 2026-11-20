@@ -1,5 +1,5 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.InCellMulRightIff
+import Development.DiscreteGroups.GlobalIrreducibility.ValuationUnitriLt
 
 noncomputable section
 

@@ -1,8 +1,4 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.StmtLocFOfCountsAll
-import Formalism.PeriodIntegrals.SqfRootsInj
-import Formalism.PeriodIntegrals.SqfRootShift
-import Formalism.PeriodIntegrals.SqfDivDeg
-import Formalism.PeriodIntegrals.SqfPrimeFactor
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SqfRootsInj
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SqfRootShift
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SqfDivDeg

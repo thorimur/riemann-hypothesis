@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsSplitGaussChars
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.GapCondExample
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

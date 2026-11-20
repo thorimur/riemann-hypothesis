@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSupBoundCount
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSupBoundBlock
 set_option maxSynthPendingDepth 1
 

@@ -1,6 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MirabolicDerivatives.CuspGenericWhittaker.CuspGeneric
-import GroundTheory.AutomorphicForms.ContragredientTranspose
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NonemptyEquivMultiProdOne
+import GroundTheory.AutomorphicForms.SmoothRep
+import GroundTheory.AutomorphicForms.WhittakerGroups
 
 noncomputable section
 

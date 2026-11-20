@@ -1,7 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.UnramifiedSplitting.SplitAt
 import GroundTheory.AutomorphicForms.GL2.GJMatrixLocal
-import GroundTheory.GlobalFields.LocalFieldAtPlace
-import GroundTheory.GlobalFields.TateThesis.AdelicCharLocal
 
 noncomputable section
 

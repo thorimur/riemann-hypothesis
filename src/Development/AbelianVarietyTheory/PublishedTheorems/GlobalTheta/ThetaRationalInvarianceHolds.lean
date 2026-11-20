@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.InertPrimeOrderParitySignRadicalIntegralForm
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsWeilOfVacuum
 

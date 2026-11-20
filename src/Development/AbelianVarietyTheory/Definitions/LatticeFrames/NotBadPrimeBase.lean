@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.UnitRatio
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.CxTiesOf
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.TopFormula

@@ -1,6 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.FiniteTypeHarishChandra.SupportExistsAll
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SimpleIffIrreducibleStatement
+import Mathlib.RepresentationTheory.Maschke
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open CategoryTheory ReciprocityTheory.Ty.Fin
 

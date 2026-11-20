@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianCurvature.StatementC
 import Formalism.HermitianCurvature.FiniteOrderIntersectionInSmooth
 import Formalism.HermitianCurvature.OperatorsCommuteTranslations

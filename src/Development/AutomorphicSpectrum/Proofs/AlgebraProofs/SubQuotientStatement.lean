@@ -1,6 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBundles
-import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSubQuotient
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagIndependenceStatement
 
 namespace GlobalTheory.CompanionTheory.Ar.Num.SubQuotFlags

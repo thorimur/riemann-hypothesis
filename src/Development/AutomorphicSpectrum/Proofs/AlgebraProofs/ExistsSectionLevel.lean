@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.ProIsoAt
 
 open NumberField TensorProduct GlobalTheory.CompanionTheory.Ar

@@ -1,7 +1,4 @@
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.FinIdemSmulOfReal
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.LatRepA
-import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.FiniteRationalPointsCompletedLattice
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLatticeSelfDualFgFullIndex
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteDetSmulSubOne
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalUnitaryOrbits.QInertHolds
 

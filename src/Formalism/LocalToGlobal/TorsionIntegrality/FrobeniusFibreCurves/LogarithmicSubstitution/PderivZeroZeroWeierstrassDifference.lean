@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementA
 import Formalism.FormalGroupLog.FormalGroupLogProofs.ConstantCoeffSubstOfZero
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

@@ -1,4 +1,7 @@
 import Formalism.LocalToGlobal.CharacterGerms.MemVarsProdAll
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.MvPowerSeries.Rename
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

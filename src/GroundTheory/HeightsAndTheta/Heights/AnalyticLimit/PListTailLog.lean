@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StListTailLog
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StLemmaETailLog
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StListMono
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StRegSection
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StTailShift

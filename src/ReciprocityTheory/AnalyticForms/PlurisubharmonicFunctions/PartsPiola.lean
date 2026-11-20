@@ -1,4 +1,5 @@
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PartsCalc
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
 
 namespace ReciprocityTheory.AnForm.A
 

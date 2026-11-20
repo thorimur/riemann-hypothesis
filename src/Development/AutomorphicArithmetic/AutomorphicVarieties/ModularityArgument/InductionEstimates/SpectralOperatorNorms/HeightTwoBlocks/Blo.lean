@@ -1,4 +1,5 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.BlockHeckeSlices.DatDatum
+import Development.AutomorphicArithmetic.Foundations.Convolution.BlockHeckeSlices.SliceShift
+import Development.AutomorphicArithmetic.Foundations.Convolution.TensFun
 
 noncomputable section
 

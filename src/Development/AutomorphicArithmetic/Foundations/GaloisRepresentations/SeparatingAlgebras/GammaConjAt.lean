@@ -1,5 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.MacdonaldWhittakerHecke
+import GroundTheory.AutomorphicForms.MacdonaldNormalization
+import GroundTheory.AutomorphicForms.MacdonaldSpherical
+import Mathlib.Analysis.SpecialFunctions.Complex.Circle
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.CoeffFirstPairingLinear
+import Formalism.LocalToGlobal.CharacterGerms.IntSubst
 
 noncomputable section
 

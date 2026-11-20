@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LargeFor
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.PadTrueNormDetConst
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsIsHodgeFrameIff

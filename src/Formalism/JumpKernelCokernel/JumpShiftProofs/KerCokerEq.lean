@@ -1,4 +1,5 @@
 import Formalism.JumpKernelCokernel.KerCokerEq
+import Mathlib.Tactic.ENatToNat
 
 namespace Formalism.KernelCokernelLengths.KernelCokernelEqualityLemmas
 

@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CupProducts
-import GroundTheory.ProfiniteCohomology.CupProducts.Cocycles
 import GroundTheory.ProfiniteCohomology.ContinuousCochains.LongExactSequence
 set_option maxSynthPendingDepth 1
 

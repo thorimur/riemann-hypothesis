@@ -1,5 +1,9 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.WhitGenOf
-import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.MollifiedIntegrability.Integr
+import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.MollifiedIntegrability.ClsBoundAlt
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Formalism.UnipotentAdelicQuotients.SWXSDefs
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.Distribution.SchwartzSpace.Fourier
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

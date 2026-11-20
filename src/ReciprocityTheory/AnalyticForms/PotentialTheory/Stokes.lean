@@ -1,8 +1,4 @@
-import ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialPullbackStatement
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PotentialContDiffAt
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PartsSt
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.HessCRestrictThm
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PartsAlg
 import ReciprocityTheory.AnalyticForms.PotentialTheory.StokesD
 
 namespace ReciprocityTheory.AnForm.M

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsDualPairIsUnitDetBlocks
-import Mathlib
 open scoped Matrix
 
 set_option maxHeartbeats 1000000 in

@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.ProIsoAt
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 open NumberField TensorProduct GlobalTheory.CompanionTheory.Ar
 
 namespace PositivityTheory.UnitarySelfGeneration

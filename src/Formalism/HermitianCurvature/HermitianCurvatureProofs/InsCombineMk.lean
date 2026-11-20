@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BlockTwist
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.FrameOfAdmissibleWord
 
 open Matrix
 open scoped ComplexConjugate

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegrableMulInner
+import Development.AutomorphicSpectrum.Definitions.MetricPeriods.IsNormEmbId
 
 noncomputable section
 

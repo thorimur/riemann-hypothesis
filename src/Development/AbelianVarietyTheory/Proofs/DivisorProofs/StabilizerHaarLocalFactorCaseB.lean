@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConeLin
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LintegralMulRight
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetNeZeroOfSig
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryAdelicGroupTopology
@@ -9,11 +7,11 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryHaarRightInv
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.QuotientHaarMeasureNormal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviEmbeddingMultiplicative
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviUnipotentHaarModulusStatement
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemUnipotentRadicalIff
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryFixingVectorPreserves
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviEmbeddingExistsDoublingConfiguration
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CompMemOfIsStab
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousComponents
+import Development.AbelianVarietyTheory.Definitions.Divisors.DiscreteSeriesHermitianUnique
 
 noncomputable section
 

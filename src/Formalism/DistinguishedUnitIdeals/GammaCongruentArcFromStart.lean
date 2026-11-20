@@ -1,8 +1,4 @@
-import Mathlib
-import Formalism.DistinguishedUnitIdeals.ArcLiftOfLocalizationData
-import Formalism.DistinguishedUnitIdeals.FrobeniusDiffBijective
 import Formalism.DistinguishedUnitIdeals.ExistsConstOfInvariantMod
-import Formalism.DistinguishedUnitIdeals.LemmaCFull
 import Formalism.DistinguishedUnitIdeals.FrobeniusCoboundedArc
 
 noncomputable section

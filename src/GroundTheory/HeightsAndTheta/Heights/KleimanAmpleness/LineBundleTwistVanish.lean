@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsRestExtra
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsFurtherAlt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ChartRingOverOneBlockBase
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTwistVanishAll
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTwistSplit

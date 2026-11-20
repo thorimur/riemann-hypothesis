@@ -1,5 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.PlusAWICondition
-import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestPlusOf
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.BePhiSmulRight
 
 noncomputable section
 

@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ThDistC
+import Formalism.LocalToGlobal.Columns.FiniteSumNonzeroLargeDepth
 
 open NumberField IsDedekindDomain
 

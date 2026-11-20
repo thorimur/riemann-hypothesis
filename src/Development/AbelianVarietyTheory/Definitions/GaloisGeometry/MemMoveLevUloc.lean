@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.HermitianForms.TiedTwGen
 import Formalism.LocalToGlobal.Columns.RecLevelTop
 import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.ToLEInvApply

@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CmpLApply
+import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ColSpanMap
 
 noncomputable section
 

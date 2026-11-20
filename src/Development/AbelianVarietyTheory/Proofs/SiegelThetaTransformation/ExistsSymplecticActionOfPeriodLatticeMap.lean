@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SpanningFamilies.IMemSiegel
+import Mathlib.LinearAlgebra.SymplecticGroup
 
 open Matrix Complex GlobalTheory.SW
 open scoped ComplexConjugate Real

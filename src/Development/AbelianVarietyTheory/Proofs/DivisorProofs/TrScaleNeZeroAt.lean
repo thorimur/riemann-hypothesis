@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.LiftLatLemmas
-import Formalism.LocalToGlobal.IndefiniteReal.LinksChar
 
 noncomputable section
 

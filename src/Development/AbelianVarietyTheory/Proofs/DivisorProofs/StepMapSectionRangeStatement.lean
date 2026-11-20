@@ -1,10 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StepMapSectionRange
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.NormSqColGrLineOfOrthogonal
-import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.RestrictPullbackIsoHomAppPullbackSections
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ColSec
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VecSecCol
 open CategoryTheory AlgebraicGeometry ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor GlobalTheory GlobalTheory.VB GlobalTheory.FlagZ GlobalTheory.FlagZ.TautUniq
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.step_map_section_range : ∀ (ι : Type) [Fintype ι] (N : ℕ)

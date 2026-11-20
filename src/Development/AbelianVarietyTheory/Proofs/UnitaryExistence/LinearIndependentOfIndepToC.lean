@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.TieUpA
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.BaseChangeTensorProduct
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.SiegelSpaceAlgebraHolds
 
 set_option synthInstance.maxHeartbeats 400000
 

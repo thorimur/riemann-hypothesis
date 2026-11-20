@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.SumIoPrAlt
 
 open Matrix MeasureTheory Finset

@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.GlobalHeightBoundIffAtGoodPrimes
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CkUniqueCharacterizationStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDividedDifference
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericIsoDivisorClassRootStatement

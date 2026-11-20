@@ -1,6 +1,8 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.LevelSectionsExactKernelLocusOpen
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.GenPtSpecializes
+import Mathlib.AlgebraicGeometry.Modules.Sheaf
+import Mathlib.AlgebraicGeometry.Noetherian
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.SetTheory.ZFC.PSet
 
 noncomputable section
 

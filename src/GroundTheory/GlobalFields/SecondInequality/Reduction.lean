@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.SecondInequality.PrimeDegree
 
 namespace GroundTheory.Global

@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SelfMemSpanK
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemZalgCommuteCompactRep
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GrowthOfTame
 
 noncomputable section
 

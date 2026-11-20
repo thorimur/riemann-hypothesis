@@ -1,6 +1,10 @@
-import Mathlib
-import Development.AutomorphicArithmetic.IntegralCasts.Imports
 import Development.AbelianVarietyTheory.Definitions.Foundations.SmoothPartStable
+import Development.AutomorphicArithmetic.IntegralCasts.IsOpenStabOfMemNhds
+import Mathlib.RepresentationTheory.Irreducible
+import Mathlib.RepresentationTheory.Rep.Basic
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

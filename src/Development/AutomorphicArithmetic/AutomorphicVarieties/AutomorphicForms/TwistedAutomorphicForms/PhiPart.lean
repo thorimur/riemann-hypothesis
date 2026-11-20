@@ -1,6 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TwistedAutomorphicForms.EqOneOfMemLev
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TwistedAutomorphicForms.SplitIso
-import Development.AbelianVarietyTheory.Definitions.Foundations.DiagUnitsEqLocalIdele
 
 open NumberField IsDedekindDomain Neutral.B1 GlobalTheory.Mem.Chr.Model
 open GlobalTheory.IndefiniteRowSideFullHecke.UnitaryHeckeCharacterIdele (ideleMap finiteCompletionMap)

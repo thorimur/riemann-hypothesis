@@ -1,7 +1,7 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.Imports
-import ReciprocityTheory.DualLattices.CyclicRecursion
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValuationCoeEqNorm
+import ReciprocityTheory.DualLattices.DvdOfCoeffZero
+import ReciprocityTheory.DualLattices.ValUntiltESubOne
+import ReciprocityTheory.DualLattices.ZmodTrichotomy
 
 open WittVector Ideal ReciprocityTheory.PGsh
 

@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.HasStrictFDerivAtCay
+import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.ArvOSobPfA
 
 noncomputable section
 

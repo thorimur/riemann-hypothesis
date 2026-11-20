@@ -1,5 +1,5 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.LConvKirStep
+import Development.DiscreteGroups.GlobalIrreducibility.LConvCut
 
 noncomputable section
 open GlobalTheory.SmGL GlobalTheory.Whittaker GlobalTheory.LocLanglands GlobalTheory.PRep

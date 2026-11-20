@@ -1,5 +1,7 @@
 import Formalism.HermitianCurvature.StatementPN
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LocalVolumePositivity
+import Mathlib.Data.Int.Star
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 namespace Formalism.FourierDecayAlt.P.HermitianFormNormLemmas.A
 

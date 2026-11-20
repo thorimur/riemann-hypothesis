@@ -1,4 +1,6 @@
-import Development.EtaleCohomology.EtaleSheaves.LeafKumSpecPfEv
+import Development.AbelianVarietyTheory.Definitions.Divisors.SecClass
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

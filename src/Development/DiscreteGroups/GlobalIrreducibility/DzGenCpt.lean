@@ -1,4 +1,3 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.DzGenMat
 
 noncomputable section

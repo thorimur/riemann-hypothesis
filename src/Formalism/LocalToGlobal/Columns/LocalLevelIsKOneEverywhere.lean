@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.Columns.ExistsPlaceOverFirstPrime
 import Formalism.LocalToGlobal.Columns.TiedGlPl
+import Formalism.LocalToGlobal.Columns.TiedCH
 
 open NumberField IsDedekindDomain Module Matrix
 open scoped TensorProduct

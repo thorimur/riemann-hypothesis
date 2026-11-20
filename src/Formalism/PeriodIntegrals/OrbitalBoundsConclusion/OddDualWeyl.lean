@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.OddDualWeyl
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OddDualWeylJacobian.OddDualWeylFactorization
 
 theorem oddDualWeyl {K : Type} [Field K] (O : Type) [CommRing O] [Algebra O K] (m : ℕ) (lam : Fin (m + 1) → ℤ) :

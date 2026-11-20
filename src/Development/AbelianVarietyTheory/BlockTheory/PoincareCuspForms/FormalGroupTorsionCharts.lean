@@ -1,5 +1,9 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.HtLinStatement
+import Mathlib.RingTheory.MvPowerSeries.Substitution
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
+import ReciprocityTheory.DualLattices.SqZeroOfSpan
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

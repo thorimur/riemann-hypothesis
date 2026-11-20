@@ -1,12 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsBaseEqChain
-import Development.AbelianVarietyTheory.Definitions.Divisors.FaithfulSMulAlgClosure
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.PrismaticDieudonnePerfd
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIsoRestrictPushforwardUnit
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EAComm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEmbCompEq
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrobeniusPowerEmbedding
+import Development.AbelianVarietyTheory.Definitions.Divisors.GlobalHeightBoundIffAtGoodPrimes
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 400000

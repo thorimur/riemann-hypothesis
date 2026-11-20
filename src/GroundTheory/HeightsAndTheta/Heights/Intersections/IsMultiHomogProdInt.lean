@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PtsOverChart
+import GroundTheory.HeightsAndTheta.Heights.Intersections.PtsOverPt
 set_option maxSynthPendingDepth 1
 
 noncomputable section

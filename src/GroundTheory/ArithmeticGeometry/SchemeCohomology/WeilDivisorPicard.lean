@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.WeilDivisorInvertible
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.Picard
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.WeilDivisorTensor
 
 namespace GroundTheory.Arith.SchemeCoh
 

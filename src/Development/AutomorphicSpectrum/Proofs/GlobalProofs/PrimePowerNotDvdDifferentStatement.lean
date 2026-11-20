@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.PrimePowerNotDvdDifferent
 open NumberField IsDedekindDomain
 set_option maxHeartbeats 1000000 in

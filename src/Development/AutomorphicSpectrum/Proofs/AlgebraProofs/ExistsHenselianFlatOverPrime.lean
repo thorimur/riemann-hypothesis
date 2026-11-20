@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatHens
 
 namespace GlobalTheory.CompanionTheory.CommAlg

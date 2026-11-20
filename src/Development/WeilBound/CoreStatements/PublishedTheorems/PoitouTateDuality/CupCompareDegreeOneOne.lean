@@ -1,6 +1,5 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.PtfsDefs
-import GroundTheory.ProfiniteCohomology.PoitouTate.PoitouTateNineTermGs
+import GroundTheory.ProfiniteCohomology.CupProducts.Pairing
+import ReciprocityTheory.GaloisValuations.ContinuousConstSMulQuotient
 
 noncomputable section
 

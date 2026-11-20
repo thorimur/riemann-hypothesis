@@ -1,9 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSH2
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LowVLift
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.AsmCastVCastV
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsNormBoundThreeFamilies
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.OpApplyZeroNear
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelFormSesquilinearFiniteClass
 
 open MeasureTheory
 open scoped ComplexConjugate

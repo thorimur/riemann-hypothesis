@@ -1,4 +1,11 @@
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SecondCountableHermC
+import Mathlib.Analysis.Distribution.SchwartzSpace.Basic
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
+import Mathlib.Topology.UniformSpace.Uniformizable
 open MeasureTheory
 open GlobalTheory.CompanionTheory.SiegelND.Integ.Arch
 

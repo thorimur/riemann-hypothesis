@@ -1,6 +1,7 @@
-import Formalism.LocalToGlobal.GlobalTheory.BlockActions.SelfDualPHolds
-import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ClassMapPropertiesOfSymmetricForms
 import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ColSpanMap
+import Formalism.LocalToGlobal.GlobalTheory.BlockActions.FiniteAdeleRingNontrivial
+import Formalism.LocalToGlobal.GlobalTheory.BlockActions.PrVTensInt
+import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocBases
 
 noncomputable section
 

@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.KeyOne
-import Formalism.SharpRestriction.GrowthBounds.FrobeniusPaths.SelfDualLatticesOneOrbit
 import Formalism.SharpRestriction.GrowthBounds.FrobeniusPaths.LatticeCountingFormula
 
 noncomputable section

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StDiagRatioBasis
+import GroundTheory.HeightsAndTheta.Heights.Intersections.StYYRatioBasis
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Inter

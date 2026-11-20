@@ -1,4 +1,6 @@
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.CasValK
+import Mathlib.LinearAlgebra.Eigenspace.Basic
+import Mathlib.Order.CompletePartialOrder
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.IsInfUnitary
 
 noncomputable section
 

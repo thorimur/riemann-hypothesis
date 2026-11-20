@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.VolNzeroOne
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NilpotentVolumeOne.VolumeDegenerateRankOne
 
 theorem volumeUnipotentOne : PI.VolNzeroOne.VolumeUnipotentOneFrom := PI.VolNzeroOne.W.volume_degenerate_rank_one

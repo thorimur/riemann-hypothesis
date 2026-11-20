@@ -1,7 +1,7 @@
-import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.RestRoom
-import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.SymbolFormOfOrthogonality
-import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.IoBlockMonomial
 import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BFTrueDeg
+import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.LogLeOfLeSq
+import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.NormalWeightCovectorZero
+import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.TCoreDef
 
 noncomputable section
 

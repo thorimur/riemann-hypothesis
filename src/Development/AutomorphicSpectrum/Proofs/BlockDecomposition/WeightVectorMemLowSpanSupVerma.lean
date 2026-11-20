@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ActEqZeroOfMem
 set_option maxSynthPendingDepth 1
 

@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.FrmCase
+import Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.SelfDualFramesExistOfDiagonal
 
 noncomputable section
 

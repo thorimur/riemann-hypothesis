@@ -1,4 +1,5 @@
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.QsMnTranspose
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

@@ -1,5 +1,3 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.HasTypeVec
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.DiscreteSeriesCharacter
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryTorusEquivCentralizerWithMeasureStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBoundUnitary
 open MeasureTheory Set Filter NumberField IsDedekindDomain

@@ -1,4 +1,5 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardQuotExtPPow
+import Mathlib.RingTheory.PiTensorProduct
 
 open NumberField Module Matrix
 

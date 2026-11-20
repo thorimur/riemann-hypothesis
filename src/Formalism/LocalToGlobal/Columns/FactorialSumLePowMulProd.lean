@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.BrzoPairAtZeroRight
-import Formalism.LocalToGlobal.Columns.BzdConjTTranspose
-import Formalism.LocalToGlobal.Columns.SliceIntegralDeltaNeBot
+import Formalism.LocalToGlobal.Columns.SummandSlopeAtDecoratedLattice
 
 open NumberField IsDedekindDomain Module MvPolynomial
 open scoped Matrix ComplexOrder

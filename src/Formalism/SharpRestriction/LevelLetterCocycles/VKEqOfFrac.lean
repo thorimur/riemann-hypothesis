@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.CommutingEndomorphismPreservesInvariants
+import Formalism.SharpRestriction.LevelLetterCocycles.BlochKatoPhases
 
 noncomputable section
 

@@ -1,5 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TraceOpen
+import Development.AbelianVarietyTheory.Definitions.Divisors.OneMemH0WeightZero
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open NumberField IsDedekindDomain GlobalTheory.QSA
 open scoped Quaternion Topology

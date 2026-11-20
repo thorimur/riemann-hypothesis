@@ -1,10 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.DivisionRowsRationalLattice
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdempotentTransfer.TraceFormulaOfRankDegree
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdempotentTransfer.CharacteristicPolynomialCompatibility
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdempotentTransfer.NormAtAddLe
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdempotentTransfer.DegTop
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdempotentTransfer.RankIdentity
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdempotentTransfer.PerSLat
 
 namespace PI.Dv.Tr

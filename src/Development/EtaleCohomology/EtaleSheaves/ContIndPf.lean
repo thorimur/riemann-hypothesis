@@ -1,4 +1,7 @@
 import Development.EtaleCohomology.EtaleSheaves.ContPf
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry

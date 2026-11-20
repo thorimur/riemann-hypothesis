@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IsotropicMahlerBounds.OnlyIsotropic
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HaarQK
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MapWithDensityEqOfScale
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegralNonnegNormaliserEq

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.LeviMatchingWords.MatchLM
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasCompactSupportTj
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MatchingTransferOf

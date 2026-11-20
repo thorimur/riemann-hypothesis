@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.EigenOfTwoStep
 import Development.AbelianVarietyTheory.Definitions.Foundations.SiegelNeZeroIff
+import Mathlib.Analysis.Real.Pi.Bounds
 open scoped MatrixGroups
 open GlobalTheory.KZ
 

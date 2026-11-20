@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.JacobiTripleFiniteCoeffTendstoAndBounded
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.MultipliableTpFactor
 open Complex
 open scoped Real
 set_option maxHeartbeats 1000000 in

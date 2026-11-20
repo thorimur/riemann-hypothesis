@@ -1,7 +1,7 @@
-import Mathlib
 import CompanionTheory.HarishChandraModules.LowKTypeMultiplicity.DiscreteSeriesCharacters.CapelliDeterminantBlockProduct
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SmoothCyclicVectors.SmoothVec
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Matrix Filter Topology
 open scoped ContDiff

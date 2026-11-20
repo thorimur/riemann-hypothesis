@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GHommem
 
 open IsLocalRing

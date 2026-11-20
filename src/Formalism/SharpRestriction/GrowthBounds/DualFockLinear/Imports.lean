@@ -1,2 +1,1 @@
-import Formalism.SharpRestriction.GrowthBounds.DualFockLinear.DgFalseDiag
-import Formalism.SharpRestriction.GrowthBounds.DualFockLinear.ThAllMonomial
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd

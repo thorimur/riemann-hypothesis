@@ -1,4 +1,5 @@
-import Development.WeilBound.CoreStatements.AmpleLineBundles.HeightRecRFull
+import GroundTheory.HeightsAndTheta.Heights.Antisymmetric.PNefOnFibresRelabel
+import GroundTheory.HeightsAndTheta.Heights.HeightComparison.PPtsIntegralPoints
 
 noncomputable section
 

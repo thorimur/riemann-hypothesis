@@ -1,5 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HeckeAdjoints.HasPairingOfHerm
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformCoefficients.AbsExpo
+import Development.AbelianVarietyTheory.Definitions.Foundations.AbsCharNotUnitary
 open NumberField IsDedekindDomain Matrix Formalism.L2.Host UpperTheory.V UpperTheory.V.TR UpperTheory.V.Af.Gk
 open GlobalTheory.HeckeGal.Model GlobalTheory.Mem.Chr.CharModel
 open GlobalTheory.CuspRep (Af)

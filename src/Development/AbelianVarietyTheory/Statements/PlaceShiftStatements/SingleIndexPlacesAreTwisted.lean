@@ -1,13 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.TupleReadBaseTupleEqFamily
 import Development.AbelianVarietyTheory.Definitions.Divisors.ScalOf
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.TraceLatticeLeThetaLatticeAtPlace
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.LeafTW1OfAllConjugatesGood
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ExistsIsScalar
-import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.RationalRayLevels
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DimPartsAtIffBadAndOff
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.CoverFieldOfContainsRayField
-import Formalism.LocalToGlobal.UnitaryNorms.CharGal
+import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.ONPage
 
 set_option autoImplicit false
 

@@ -1,6 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.LocF
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.CuspidalTwists.Reduce
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RTwist
 open NumberField IsDedekindDomain Neutral.B1 Formalism.L2.Host Formalism.BasicNotions GlobalTheory.CuspRep UpperTheory.V UpperTheory.V.Af UpperTheory.V.Lit UpperTheory.V.Lit.JL
 
 private theorem UpperTheory.V.Lit.JL.exists_intertwiner_iff {G A A' B B' : Type*} [AddCommGroup A] [Module ℂ A]

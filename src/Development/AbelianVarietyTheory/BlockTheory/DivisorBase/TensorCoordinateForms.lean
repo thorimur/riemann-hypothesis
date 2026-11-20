@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.ThetaSupremumBounds.StatementE
+import Mathlib.Analysis.InnerProductSpace.Adjoint
 
 open Finset
 open scoped ComplexConjugate Real

@@ -1,7 +1,5 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MirabolicDerivatives.UnipotentDerivatives.DerUnipLeUnipB
-import GroundTheory.LocalFields.LocalFourierChar
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MemTwKerIffAverage
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MirabolicDerivatives.ColMatMulGlEmbMat
+import GroundTheory.LocalFields.PadicLogSeries
 
 noncomputable section
 

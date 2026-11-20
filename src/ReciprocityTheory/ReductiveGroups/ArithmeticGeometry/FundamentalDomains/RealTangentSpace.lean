@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.LatticeSpanMembership
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.Transference
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.OrthogonalLatticeDecomposition
 
 namespace ReciprocityTheory.ChartRestriction.G.FD
 

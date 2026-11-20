@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsFinSetSplitPlacesCoprimeConductor
+import Mathlib.NumberTheory.NumberField.CMField
 open NumberField GlobalTheory.CMVal
 open scoped ComplexConjugate
 

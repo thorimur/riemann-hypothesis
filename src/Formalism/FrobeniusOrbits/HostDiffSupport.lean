@@ -1,4 +1,5 @@
 import Formalism.FrobeniusOrbits.Statement
+import Mathlib.RingTheory.DedekindDomain.Different
 
 open NumberField IntermediateField Ideal
 open scoped Pointwise

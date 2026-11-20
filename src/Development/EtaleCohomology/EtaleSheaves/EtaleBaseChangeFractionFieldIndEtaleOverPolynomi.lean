@@ -1,5 +1,5 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.DivisorSupportCondition
 import Development.EtaleCohomology.EtaleSheaves.EtaleChapterEThree
+import Mathlib.CategoryTheory.MorphismProperty.Ind
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC

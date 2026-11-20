@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.FlatDegree
 import Development.WeilBound.CoreStatements.SesquilinearFractions.SqrtDiscriminantBoundsCmField
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor

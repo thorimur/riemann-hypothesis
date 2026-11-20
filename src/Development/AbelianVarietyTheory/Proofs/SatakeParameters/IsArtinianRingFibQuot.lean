@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.TcoMem
+import Mathlib.RingTheory.PicardGroup
 open GlobalTheory.PD
 
 namespace GlobalTheory

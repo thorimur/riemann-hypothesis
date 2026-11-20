@@ -1,4 +1,6 @@
 import ReciprocityTheory.SemistableReduction.SemiDegH
+import Mathlib.RingTheory.PiTensorProduct
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

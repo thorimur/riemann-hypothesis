@@ -1,4 +1,7 @@
 import Formalism.ThetaLogCoordinates.PartnerMeanCoordinates.TheoremMXB
+import Formalism.MahlerMeasure.MahlerMeasureProofs.MeanGam
+import Formalism.ThetaLogCoordinates.PartnerMeanCoordinates.TheoremMCB
+import Mathlib.Data.Int.Star
 
 namespace Formalism.InvariantFactorPaths.MC
 

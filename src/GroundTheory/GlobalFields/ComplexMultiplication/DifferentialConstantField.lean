@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.DifferentialBaseChange
+import GroundTheory.GlobalFields.ComplexMultiplication.DifferentialConstant
 
 namespace GroundTheory.Global
 

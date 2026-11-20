@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RootSubstitutionLambda
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RootSub
 open NumberField MvPolynomial
 open Formalism.BasicNotions Formalism.DegreeFormula GlobalTheory.FlagPoly GlobalTheory.Mean4O GlobalTheory.ShFam GlobalTheory.ShFam.Pad
 set_option maxHeartbeats 1000000 in

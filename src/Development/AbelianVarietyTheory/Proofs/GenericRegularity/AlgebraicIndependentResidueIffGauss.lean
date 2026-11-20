@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.SemistableReduction.ComapInclusionIsLocalHom
 
 namespace GlobalTheory

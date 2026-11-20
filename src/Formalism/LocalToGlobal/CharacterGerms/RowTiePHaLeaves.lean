@@ -1,4 +1,9 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePHaDefs
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Rat.Star
+import Mathlib.RingTheory.SimpleRing.Principal
 
 set_option autoImplicit false
 

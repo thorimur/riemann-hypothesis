@@ -1,6 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.ChartComparison.LocTiesOf
-import Formalism.SharpRestriction.GrowthBounds.ChartComparison.BadQNotOver
-import Formalism.LocalToGlobal.GroupLattices.LevelCharts.LevelWithoutExtraPlaces
+import Formalism.LocalToGlobal.HermitianForms.TiedTwSym
+import Formalism.SharpRestriction.GrowthBounds.ChartComparison.LocCore
 
 noncomputable section
 

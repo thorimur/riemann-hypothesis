@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsDimEqOne
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.SectionOfFreeOnUnitComp
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TlLevSurjKer
 
 noncomputable section
 

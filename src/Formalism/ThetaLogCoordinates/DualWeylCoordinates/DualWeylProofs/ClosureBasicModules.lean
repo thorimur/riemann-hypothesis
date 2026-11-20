@@ -1,4 +1,6 @@
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.QcColESymmVal
+import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.QcColHSuccLe
+import Formalism.ThetaLogCoordinates.DualWeylCoordinates.StatementC
 
 noncomputable section
 

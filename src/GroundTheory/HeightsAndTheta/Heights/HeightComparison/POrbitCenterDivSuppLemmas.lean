@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitCenter
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.PHeightRecR
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitCenterMemIff
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightSubringPrimeMaximal

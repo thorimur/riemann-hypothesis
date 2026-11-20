@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCMLocusOpen
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCMProjDimCriterion
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StProjDimSpread

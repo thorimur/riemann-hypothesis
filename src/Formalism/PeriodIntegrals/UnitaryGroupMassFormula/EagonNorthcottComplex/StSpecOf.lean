@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.EagonNorthcottSpec
+import Formalism.PeriodIntegrals.EagonNorthcott
 
 universe u
 

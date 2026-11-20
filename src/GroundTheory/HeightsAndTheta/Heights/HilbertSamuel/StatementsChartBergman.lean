@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.BergmanObjects
+import ReciprocityTheory.AnalyticForms.MaIntEmpty
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

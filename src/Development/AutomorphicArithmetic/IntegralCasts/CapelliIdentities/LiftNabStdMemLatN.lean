@@ -1,12 +1,4 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataCoeff
-import Development.AbelianVarietyTheory.Definitions.Divisors.HasBlockOfOccurs
-import Formalism.LocalToGlobal.Divisibility.CoefMod
-import Formalism.PieriBlockIdeals.BlockIdealBound5Derived
-import Formalism.GradedWeylDivisibility.StatementA
-import Formalism.PieriBlockIdeals.BranchingBoundLastGradedOneRow
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LamGApply
-import Formalism.HermitianLattices.StatementLat
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.NormIntegersLeOne
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightedHomogeneousMap
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SemilinearLatticeMem

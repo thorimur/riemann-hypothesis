@@ -1,7 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ColHeightWith
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.HtPsiLeIffExists
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.SlopeStepG
 
 noncomputable section
 

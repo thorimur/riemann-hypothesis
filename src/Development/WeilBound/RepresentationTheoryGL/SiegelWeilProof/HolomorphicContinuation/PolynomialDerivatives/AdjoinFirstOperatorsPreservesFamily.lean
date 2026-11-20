@@ -1,4 +1,6 @@
-import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.PolynomialDerivatives.FformSmulRight
+import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.PolynomialDerivatives.CoreSt
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Bool
 
 noncomputable section
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PHomogeneousDifferenceLinear
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.IsGauss
 open GlobalTheory.PMon.Gauss
 open scoped Formalism.Per
 set_option maxHeartbeats 1000000 in

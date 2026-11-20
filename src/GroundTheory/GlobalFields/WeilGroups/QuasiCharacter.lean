@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.HeckeChar
-import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms
 import GroundTheory.GlobalFields.IdeleGroups.NormOneCompact
 import GroundTheory.GlobalFields.TateThesis.IdeleMeasureNormOne
 

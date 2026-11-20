@@ -1,8 +1,4 @@
-import ReciprocityTheory.DualLattices.CotangentSurjective
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsTight
 import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.StepOrderRes
-import ReciprocityTheory.DualLattices.CharTableIsUnit
-import ReciprocityTheory.DualLattices.SqIdeal
 import ReciprocityTheory.DualLattices.PowMemCarrier
 import Development.WeilBound.CoreStatements.HodgeTatePoints.RiEasy
 

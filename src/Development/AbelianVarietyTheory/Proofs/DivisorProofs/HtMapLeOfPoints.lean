@@ -1,8 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsProbabilityMeasureMuPart
 import Formalism.MeanHeightDescent.DivisionInequalityWithCovolume
-import Formalism.MeanHeightDescent.CovolumeFullAssemblyWeighted
 import Formalism.LocalToGlobal.LatticeGeometry.OperatorNormFibers.PDescentCutA
+import Formalism.BranchSandwichDivisors.BranchIsometryProofs.OrthSum
+import Formalism.BranchSandwichDivisors.BranchIsometryProofs.Transfer
 
 open Module NumberField GlobalTheory.AllWt
 

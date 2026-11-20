@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.BCrisNewtonFrac
 import GroundTheory.PAdicHodge.BCrisRegular
 set_option maxSynthPendingDepth 1

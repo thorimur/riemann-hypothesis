@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.CokLenLeOfRangeLe
+import Mathlib.Order.CompletePartialOrder
 
 open UpperTheory.V UpperTheory.V.PropA
 

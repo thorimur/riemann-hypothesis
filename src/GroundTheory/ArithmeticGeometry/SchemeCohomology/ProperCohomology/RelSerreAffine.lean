@@ -1,5 +1,9 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.RelSerreLocal
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.ExistsGeneratingSectionsTwist
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.HasExtInstances
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ProjBaseChangeEmbed
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.PullbackCoherent
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.RestrictTensor
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

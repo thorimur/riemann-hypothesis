@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnipMinSubsetMinParOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModulusOfNormEqAbs
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RatVInjective
 
 set_option linter.unusedSectionVars false
 

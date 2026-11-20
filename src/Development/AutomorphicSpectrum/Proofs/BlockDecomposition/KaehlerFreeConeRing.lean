@@ -1,9 +1,8 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.HodgeSurjectivity.NLeA
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlgebraMapConeRing
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsMulPowEqIncl
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PolyEqPolyEquiv
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ToConeSurjective
+import Mathlib.RingTheory.TensorProduct.IsBaseChangeFree
+import Mathlib.RingTheory.TotallySplit
 
 set_option autoImplicit false
 noncomputable section

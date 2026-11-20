@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DrAtNonneg
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsExtPointSpecializingOutsideBasicOpen
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PadicApproxAlgebraicPointStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PadicPointAffineApproxStatement
+import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 
 set_option autoImplicit false
 

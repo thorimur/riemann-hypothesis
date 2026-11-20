@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.MSplitDefs
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.TopNilDefs
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.SpBasis
+import Mathlib.LinearAlgebra.PiTensorProduct.Basis
+import Mathlib.RingTheory.WittVector.IsPoly
 
 open Filter UpperTheory.V.AlgebraTools
 open scoped TensorProduct

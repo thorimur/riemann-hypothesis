@@ -1,5 +1,7 @@
-import Formalism.LocalToGlobal.CMDeterminantIdeals.CmNumbersLink
 import Formalism.LocalToGlobal.CMDeterminantIdeals.HadamardLoc0
+import Formalism.LocalToGlobal.CMDeterminantIdeals.CMIdealValuations.AbsNormSpanGalois
+import Formalism.LocalToGlobal.CMDeterminantIdeals.CMIdealValuations.ProdMulLeDetIdeal
+import Formalism.LocalToGlobal.CMDeterminantIdeals.CMIdealValuations.ValuationLeOfEqAlgebraMap
 
 noncomputable section
 

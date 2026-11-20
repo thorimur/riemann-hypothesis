@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.SchurIrreducible
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ContinuousExptPY
+import Mathlib.Analysis.SpecialFunctions.Trigonometric.Series
 open Formalism.BasicNotions.TH Formalism.MainNotions.SchurIrreducible GlobalTheory.PolarU Matrix MeasureTheory
 
 namespace GlobalTheory.PolarU

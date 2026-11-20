@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.AdelicGLn
 import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open NumberField IsDedekindDomain Topology Filter Set Matrix
 open scoped NumberField.AdeleRing RestrictedProduct

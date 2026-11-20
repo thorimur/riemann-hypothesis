@@ -1,6 +1,8 @@
-import Formalism.HermitianCurvature.ThetaExistenceInductiveFromPieces
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FirstKernelExplicitFormula
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ModulusLocallyConstant
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.TotallySplit
 
 open Matrix Formalism.DoubleCosetMeasures Formalism.FourierDecayAlt.A5 Formalism.FourierDecayAlt.A6
 open scoped ComplexConjugate

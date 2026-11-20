@@ -1,8 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.ReductionIsogenyMap
 import GroundTheory.GlobalFields.ComplexMultiplication.BaseChangeField
-import GroundTheory.GlobalFields.ComplexMultiplication.RespectsAddUniversal
-import GroundTheory.GlobalFields.ComplexMultiplication.TorsionReduction
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Global

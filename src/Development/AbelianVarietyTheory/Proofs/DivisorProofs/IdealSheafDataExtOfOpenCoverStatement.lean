@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IdealSheafDataExtOfOpenCover
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ComapBcComp
 open AlgebraicGeometry CategoryTheory CategoryTheory.Limits Opposite
 universe u
 set_option maxHeartbeats 1000000 in

@@ -1,7 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RingKrullDimIntegers
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.NonemptyExt
-import ReciprocityTheory.GaloisValuations.Global
 
 set_option autoImplicit false
 noncomputable section

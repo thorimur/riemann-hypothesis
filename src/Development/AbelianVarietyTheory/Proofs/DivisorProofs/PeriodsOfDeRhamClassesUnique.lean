@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsPeriodHom
-import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.FamUnif
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPointHol
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodClassInjectiveOfRichChartsStatement
 

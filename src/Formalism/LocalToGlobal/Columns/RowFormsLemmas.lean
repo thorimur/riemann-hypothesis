@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.RowForms
-import Formalism.LocalToGlobal.Columns.GSetLemmas
-import Formalism.LocalToGlobal.Columns.CoefColLemmas
 import Formalism.LocalToGlobal.Columns.ColFormsLemmas
 
 open NumberField IsDedekindDomain Module

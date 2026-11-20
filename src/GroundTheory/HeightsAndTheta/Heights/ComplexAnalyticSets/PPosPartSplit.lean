@@ -1,6 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StatementsCurrent
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StPosPartIndependent
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StPosPartSplit
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.LogIntegrableOnOfLogIntegrable
 set_option maxSynthPendingDepth 1

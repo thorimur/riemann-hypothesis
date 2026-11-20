@@ -1,6 +1,8 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HarishChandraCentre.MemCenterOfCommuteE
 import GroundTheory.AutomorphicForms.HarishChandraCentre.RepBase
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.Derivation.Lie
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace GroundTheory.Automorphic.HarishChandra
 

@@ -1,5 +1,7 @@
 import Formalism.LocalRingCardinality.SpanPowerMembership.EmbeddingBaseFieldMul
 import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowD
+import Formalism.LocalRingCardinality.SpanPowerMembership.TrivialSubgroupEigenspaceTop
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

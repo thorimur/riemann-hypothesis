@@ -1,9 +1,8 @@
 import Development.WeilBound.CoreStatements.VolumeEquality.BaseUnifVecA
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.FamilyPeriodRiemannLattice
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LatticeTangentVectorsAffineOpen
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.IsExcisionNbhdAway
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.LieModelOfIsLieBasis
-import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.DifferentiableOnOfTendstoLocallyUniformlyOn
+import Development.WeilBound.CoreStatements.VolumeEquality.BaseUnifDefs
+import Development.WeilBound.CoreStatements.VolumeEquality.BaseUnifDefsB
 
 noncomputable section
 

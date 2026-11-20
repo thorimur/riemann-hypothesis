@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasLenOfLatLen
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

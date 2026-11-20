@@ -1,5 +1,7 @@
 import ReciprocityTheory.GroupCohomology.MemZpowersQuot
 import ReciprocityTheory.GroupCohomology.FiniteLevel
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace ReciprocityTheory.Coh
 

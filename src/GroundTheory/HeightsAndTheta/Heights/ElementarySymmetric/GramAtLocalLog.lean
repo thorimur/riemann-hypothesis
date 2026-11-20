@@ -1,8 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.GramDetSandwich
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.IsFrameOverLine
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.SplitModelToPlaceModel
-import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.ULogBound
 set_option maxSynthPendingDepth 1
 
 noncomputable section

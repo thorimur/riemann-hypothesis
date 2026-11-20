@@ -1,6 +1,12 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjTwistAway
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ConsCompSuccAboveZero
+import Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Basic
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.MvPolynomial.Ideal
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

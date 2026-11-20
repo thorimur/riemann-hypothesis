@@ -1,5 +1,9 @@
 import Formalism.LogVandermondeBounds.UpperPlace
-import Mathlib
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Analysis.Real.Pi.Bounds
+import Mathlib.NumberTheory.ZetaValues
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace Formalism.LogVandermondeBounds.StandardLattice
 

@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.EtaleSheaves.LeafRepCut
+import Development.EtaleCohomology.EtaleSheaves.LeafGhostCut
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC CochainComplex CochainComplex.HomComplex

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NormPowLeNormFactorial
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace GlobalTheory.BK.DivApprox
 

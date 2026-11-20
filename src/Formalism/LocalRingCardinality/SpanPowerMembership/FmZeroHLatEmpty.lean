@@ -1,4 +1,6 @@
 import Formalism.LocalRingCardinality.DataForms
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 

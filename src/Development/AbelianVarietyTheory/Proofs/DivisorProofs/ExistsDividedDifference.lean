@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataDIV
-import Formalism.SharpRestriction.Divisibility.LatticeTransfer
 
 open Formalism.BasicNotions Formalism.BasicNotions.DV
 

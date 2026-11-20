@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.PowerSeriesOneAddConstMulXMulInv
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsLatComap
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIndepSpan
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ImportsMore

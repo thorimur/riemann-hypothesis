@@ -1,8 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.HermSysHypOneLeLambdaZero
-import ReciprocityTheory.SemistableReduction.TorusL2CauchyInequality
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsMultiHomogeneousProd
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LinSubstLinSubst
 
 set_option autoImplicit false
 

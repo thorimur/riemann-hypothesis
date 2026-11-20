@@ -1,7 +1,12 @@
-import Formalism.HermitianCurvature.StatementG
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PhaseFunctionCriticalPoints
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.AdditiveCharacterPsi
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.AffineChangeOfVariables
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.CategoryTheory.Countable
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open Matrix MeasureTheory Filter Topology
 

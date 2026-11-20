@@ -1,5 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.StatementFamilies.ArithmeticCylinders
-import Formalism.SharpRestriction.LevelLetterCocycles.PlaceLabelTeichmuller
+import Formalism.SharpRestriction.LevelLetterCocycles.ArithmeticCylinders
 
 noncomputable section
 

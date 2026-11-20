@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.Statements
 import GroundTheory.ArithmeticGeometry.ToricVarieties.KrullDomain
 set_option maxSynthPendingDepth 1

@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TraceOpen
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.MetricSpace.Contracting
 open NumberField IsDedekindDomain GlobalTheory.QSA
 open scoped Quaternion Topology
 

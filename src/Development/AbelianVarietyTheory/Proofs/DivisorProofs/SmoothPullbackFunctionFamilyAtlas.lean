@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AppendVMemFamAtlasTarget
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SecondCountableTopologySphere
 open Set MeasureTheory
 open ReciprocityTheory.L2DbarEstimates (V)
 open GlobalTheory GlobalTheory.CxForm GlobalTheory.BcUnique

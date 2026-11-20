@@ -1,8 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.LatticeBundleObjects
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ImportsMore
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ImportsTer
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ImportsBis
+import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ImportsRest
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.Kernels

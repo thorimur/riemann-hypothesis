@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.LogarithmicSums.PrimeSums
+import Formalism.SharpRestriction.GrowthBounds.LogarithmicSums.Conclusion1OfGainBoundAll
 
 noncomputable section
 

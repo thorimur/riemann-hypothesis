@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.KeepsMatHeqRefl
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SetupMove
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeTieMoveOfPin

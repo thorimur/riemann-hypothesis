@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasTemperateGrowthProdMkConst
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzSeminormTranslateSubLineDerivLe
+import Mathlib.Tactic.Polynomial.Basic
 
 open scoped SchwartzMap ContDiff
 open GlobalTheory.SchwartzFstOp

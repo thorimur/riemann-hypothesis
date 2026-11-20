@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.SiegelReframe
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPrimitiveClosedOneFormStatement
+import Mathlib.Analysis.Normed.Module.RCLike.Extend
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Matrix MeasureTheory GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe
 open scoped Real ContDiff

@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.Columns.ChainInstY
-import Formalism.LocalToGlobal.Columns.ChainInstS
+import Formalism.LocalToGlobal.Columns.ChainInst
 
 open NumberField IsDedekindDomain Module Matrix
 

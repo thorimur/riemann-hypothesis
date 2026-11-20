@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.DedekindLFunctions.CharFamily
+import Mathlib.NumberTheory.DirichletCharacter.Orthogonality
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Complex MeasureTheory Set Filter Topology
 

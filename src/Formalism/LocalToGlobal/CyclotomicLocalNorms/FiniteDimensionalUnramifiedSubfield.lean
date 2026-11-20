@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.CyclotomicLocalNorms.FiniteDimensionalQ0
 
 noncomputable section

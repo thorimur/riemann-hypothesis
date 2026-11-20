@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.WeightChange
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.Qminor
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RTwist
 
 open NumberField Neutral.B1 Formalism.L2.Host GlobalTheory.CuspRep UpperTheory.V UpperTheory.V.TR Matrix
 

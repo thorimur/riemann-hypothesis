@@ -1,11 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StResExists
 import GroundTheory.HeightsAndTheta.Heights.Intersections.JacMinorC
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.IsMultiHomogIdealIff
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.SchemeRes
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChart
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ProjLogResCOfCR
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.IfaceInh
 set_option maxSynthPendingDepth 1
 
 noncomputable section

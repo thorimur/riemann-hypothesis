@@ -1,6 +1,5 @@
 import Development.EtaleCohomology.TateTwists.EtaleInjectiveSheafSectionsInjectiveHolds
 import Development.EtaleCohomology.TateTwists.ZmodInjectiveModuleFlatHolds
-import Development.EtaleCohomology.TateTwists.EtaleKInjectiveExtensionAlongQuasiIsoFromSingle
 
 namespace LateralTheory.Fin.EtaleTwistResolutionUniversalExtension
 theorem etale_twisted_resolution_sections_injective : LateralTheory.EtaleFoundations.EtaleInjectiveSheafSectionsInjective := by

@@ -1,14 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HypercohomologyLongExactFirstOfInjectiveStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsNaturalHomotopyEquivChainsConstantPresheafStatement
-import Development.EtaleCohomology.EtaleSheaves.CxDescPf
 import Development.EtaleCohomology.EtaleSheaves.DescentInduction.Bounds
 import Development.EtaleCohomology.EtaleSheaves.LevelIdentPf
 import Development.EtaleCohomology.EtaleSheaves.inclPf
-import Development.EtaleCohomology.EtaleSheaves.longPf
 import Development.EtaleCohomology.EtaleSheaves.longPfSes
 import Development.EtaleCohomology.EtaleSheaves.shiftPf
-import Development.EtaleCohomology.EtaleSheaves.stupidPf
 import Development.EtaleCohomology.EtaleSheaves.CochainComplexSingleFunctorZeroMapFZero
 
 namespace UpperTheory.Et.EtaleDescentEtaleAxioms

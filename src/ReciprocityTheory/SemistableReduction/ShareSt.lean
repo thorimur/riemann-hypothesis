@@ -1,5 +1,6 @@
 import ReciprocityTheory.SemistableReduction.LatSemiSt
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.IndependentSectionsUpperCount
+import Mathlib.RepresentationTheory.Basic
+import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FamilyLeCoords
 
 noncomputable section
 

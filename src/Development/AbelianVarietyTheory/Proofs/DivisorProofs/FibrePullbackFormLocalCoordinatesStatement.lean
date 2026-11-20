@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FibrePullbackFormLocalCoordinates
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AppendVMemFamAtlasTarget
 open Set MeasureTheory
 open ReciprocityTheory.L2DbarEstimates (V)
 open GlobalTheory GlobalTheory.CxForm GlobalTheory.BcUnique

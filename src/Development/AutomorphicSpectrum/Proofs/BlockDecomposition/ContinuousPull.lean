@@ -1,10 +1,9 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AdjOne
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.WeilThetaConvergence
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegralMulRight
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FrameIntegralEqThetaPartNondegenerate
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeightKInvariance
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MemSchwartzAOfIsMonoFock
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsSelfDualSiegelWeilMeasures
+import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemElt
 noncomputable section
 open scoped Matrix NNReal ENNReal ComplexConjugate TensorProduct
 open Formalism.BasicNotions Formalism.BasicNotions.TH Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes Formalism.L2.Theta Formalism.L2.Pj Formalism.IndefR.Datum MeasureTheory

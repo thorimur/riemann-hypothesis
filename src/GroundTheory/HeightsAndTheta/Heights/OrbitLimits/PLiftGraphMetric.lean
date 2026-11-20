@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsLiftGraphMetric
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsLiftGraphFactor
 import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA

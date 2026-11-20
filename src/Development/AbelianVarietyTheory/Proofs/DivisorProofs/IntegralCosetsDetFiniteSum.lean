@@ -1,9 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IwasawaExponentHnfGL
-import GroundTheory.AutomorphicForms.SphericalIntegral
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.HermiteReductionUnipotent
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardHermiteDataPowerQStatement
-import Formalism.ArtinHasse.ArtinHasseProofs.SymmSeries
 
 open GroundTheory.Automorphic GLnLocal Iwasawa
 open scoped ValuativeRel

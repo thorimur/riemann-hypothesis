@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.BeConjNorm
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ConjugateNormBound.BeConjNormOfIntInv
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ConjugateNormBound.MemIntegerRingIffNormLeOne
 

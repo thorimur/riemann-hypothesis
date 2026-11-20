@@ -1,7 +1,8 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.VolStabFromSWW
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicLocalCompactness.T2SpaceTensorProductFiniteExtension
 import ReciprocityTheory.GeneralLinearIntegers.AlgebraMapIntMemOint
+import Mathlib.Algebra.Order.Ring.Star
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

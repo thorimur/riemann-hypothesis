@@ -1,5 +1,6 @@
 import Formalism.BranchSandwichDivisors.StatementL
 import Formalism.HarderNarasimhan.ShiftInvariance
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

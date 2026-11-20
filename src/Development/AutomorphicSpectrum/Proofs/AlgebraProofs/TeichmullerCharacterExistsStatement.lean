@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.TeichmullerCharacterExists
 open scoped Matrix TensorProduct
 open Matrix

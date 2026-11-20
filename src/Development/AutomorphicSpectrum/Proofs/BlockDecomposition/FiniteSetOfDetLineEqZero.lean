@@ -1,6 +1,10 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.BlkConjTranspose
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.IsAdmOnOfFiniteDimensional
+import Mathlib.Analysis.Normed.Module.Connected
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
 
 open Matrix
 

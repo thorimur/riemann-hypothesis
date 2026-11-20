@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatHalfSt
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsFlagFrame
+import Development.AbelianVarietyTheory.Definitions.Divisors.GrNormCompCast
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 400000

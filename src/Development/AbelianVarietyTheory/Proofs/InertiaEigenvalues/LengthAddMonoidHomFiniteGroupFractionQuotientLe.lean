@@ -1,5 +1,13 @@
-import Mathlib
-import Formalism.CharacterColumnKernels.StatementRho
+import Formalism.CharacterColumnKernels.Statement
+import Mathlib.NumberTheory.Padics.PadicIntegers
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 open Formalism.NG
 
 namespace GlobalTheory.HomLen

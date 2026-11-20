@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IdentityAsSumExpMinusOneStatement
+import Mathlib.Analysis.Distribution.SchwartzSpace.Basic
 
 namespace GlobalTheory.CharInvForm
 

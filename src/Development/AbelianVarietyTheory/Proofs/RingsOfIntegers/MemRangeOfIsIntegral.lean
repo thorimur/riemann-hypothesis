@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation.AdaptStd
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.PushMemHarmK
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ColumnMapShift

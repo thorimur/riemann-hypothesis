@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.LeviCartan
 import GroundTheory.AutomorphicForms.SmoothRepSchur
-import GroundTheory.AutomorphicForms.MeasuresModulus
+import GroundTheory.AutomorphicForms.AdmissibleInduction
+import Mathlib.Data.Finset.Functor
 
 noncomputable section
 

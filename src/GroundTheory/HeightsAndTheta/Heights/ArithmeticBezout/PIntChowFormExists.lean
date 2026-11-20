@@ -1,8 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.LinFormOneZero
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsGenericFibreDim
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.Assembly
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PAffineChartTrdeg
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ImportsAlt
 set_option maxSynthPendingDepth 1
 
 noncomputable section

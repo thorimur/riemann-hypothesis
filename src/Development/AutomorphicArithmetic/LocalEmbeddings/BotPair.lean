@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.BotPure
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilModelArchimedeanExponent
 

@@ -1,11 +1,10 @@
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalRingCardinality.DataDIVDefs
-import Formalism.LocalRingCardinality.DataLatDefs
-import Formalism.LocalRingCardinality.DataKap
 import Formalism.LocalRingCardinality.DataExtra
 import Formalism.LocalRingCardinality.DataParams
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.Rerealize
+import Formalism.LocalRingCardinality.HostCls
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.HostFacts
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 
 open Module NumberField
 

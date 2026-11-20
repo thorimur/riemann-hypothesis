@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CstD
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TransposeInverseLocal
 

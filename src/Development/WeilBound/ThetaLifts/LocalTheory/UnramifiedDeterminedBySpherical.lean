@@ -1,6 +1,4 @@
 import Development.WeilBound.ThetaLifts.LocalTheory.IsArchimedeanLocalEquivariantMap
-import Development.WeilBound.ThetaLifts.ConeHypotheses.PolDense
-import Development.WeilBound.ThetaLifts.CartanFactorisation.CartanConj
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PtMapDualBCLeft
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapPairDetCovec
 
 set_option autoImplicit false
 

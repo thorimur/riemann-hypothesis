@@ -1,10 +1,10 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.ThShort
 import Formalism.LocalToGlobal.ProjectiveLattices.ThGerm
-import Formalism.LocalToGlobal.ProjectiveLattices.IsLevMove
 import Formalism.LocalToGlobal.ProjectiveLattices.LiftLaSpec
 import Formalism.LocalToGlobal.ProjectiveLattices.NormsFree
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.ComplexResidueRing
+import Mathlib.Analysis.Complex.Circle
+import Mathlib.RingTheory.DedekindDomain.FiniteAdeleRing
 
 noncomputable section
 

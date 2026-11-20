@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemClosureOfMemChartRing
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PHilbertPositive
-import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.IntNumRelabel
-import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PCutRegular
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.IsGraphGenTwistBundleZero
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman.SectionsOverLocalization

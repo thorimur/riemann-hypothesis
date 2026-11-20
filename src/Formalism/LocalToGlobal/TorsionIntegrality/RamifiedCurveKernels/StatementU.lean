@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.StatementT
+import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.StatementS
 
 noncomputable section
 open scoped BigOperators

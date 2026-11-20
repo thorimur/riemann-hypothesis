@@ -1,4 +1,9 @@
 import Development.AutomorphicArithmetic.ThickFrames.MarkedLow
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Finset UpperTheory.BernoulliSumsFrobeniusOrbits Formalism.G0
 

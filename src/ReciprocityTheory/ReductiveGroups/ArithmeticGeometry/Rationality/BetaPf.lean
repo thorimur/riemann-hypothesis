@@ -1,4 +1,13 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.Rationality.BetaSt
+import Mathlib.Algebra.Module.ZLattice.Basic
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace ReciprocityTheory.ChartRestriction.G.FreeQuotientRank
 

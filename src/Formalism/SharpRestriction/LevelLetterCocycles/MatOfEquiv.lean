@@ -1,7 +1,9 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.BaseChangeMapMemLattice
-import Formalism.SharpRestriction.LevelLetterCocycles.Imports
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.CoefExt
 import Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.BaseCoefJump
+import Formalism.AdmissibleDesigns.InvariantsEqBotIff
+import Formalism.SharpRestriction.LevelLetterCocycles.WachCoordinates
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.HermitianForms.UnitaryLattices.DerKer
+import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.HermitianForms.AvgData
 
 noncomputable section
 

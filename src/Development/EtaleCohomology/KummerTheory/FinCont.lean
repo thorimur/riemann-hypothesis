@@ -5,15 +5,12 @@ import Development.EtaleCohomology.KummerTheory.GluePf
 import Development.EtaleCohomology.KummerTheory.FlasquePf
 import Development.EtaleCohomology.KummerTheory.DictExistPf
 import Development.EtaleCohomology.KummerTheory.NrmMkPf
-import Development.EtaleCohomology.KummerTheory.DictNormalPf
 import Development.EtaleCohomology.KummerTheory.DictZeroPf
-import Development.EtaleCohomology.KummerTheory.DictPfEv
 import Development.EtaleCohomology.KummerTheory.DeltaPf
 import Development.EtaleCohomology.KummerTheory.ExactPf
 import Development.EtaleCohomology.KummerTheory.MVnatPf
 import Development.EtaleCohomology.KummerTheory.AffRingPf
 import Development.EtaleCohomology.KummerTheory.LimOfIso
-import Development.EtaleCohomology.KummerTheory.ContCut
 
 namespace LateralTheory.Fin.Cont
 theorem etale_continuity_by_five_lemma_in_continuity_assembly : LateralTheory.KummerTheory.ContCut.Five := by

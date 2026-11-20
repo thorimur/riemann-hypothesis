@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.SerreP
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.Immersion
 set_option maxSynthPendingDepth 1

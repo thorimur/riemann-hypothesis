@@ -1,8 +1,8 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.FinalD
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.BiextensionFormalMulMul
-import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.CurveJetsUnitBall
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementE
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementI
+import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.FinalB
+import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.FirstLevelFromUniversalLaw
 
 noncomputable section
 

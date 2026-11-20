@@ -1,7 +1,3 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.CubeTheorem.LBSpreads
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsProjOverOfIsProjOverBase
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.CubeTheorem
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PerfAllOfModels
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PerfectBaseChangeStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PerfectOfGenericIsoStatement

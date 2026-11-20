@@ -1,6 +1,6 @@
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GaloisFamilyCrystallineWeights
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.HeckeOpen
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ContinuousNormFin
+import Formalism.LocalToGlobal.UnitaryNorms.CharShare
 
 set_option synthInstance.maxHeartbeats 200000
 

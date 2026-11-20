@@ -1,6 +1,5 @@
-import Mathlib
-import ReciprocityTheory.SemistableReduction.LatAll
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.LUStatementPfA
+import ReciprocityTheory.SemistableReduction.TorsionNonvanishStatement
 
 open Matrix MvPolynomial ReciprocityTheory.MultiplicativeHeights
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.IdCell
 
 noncomputable section

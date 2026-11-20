@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.AnalyticAlgebraicGerm
 import GroundTheory.GlobalFields.ComplexMultiplication.UniformizationGroup
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.DualIsogeny

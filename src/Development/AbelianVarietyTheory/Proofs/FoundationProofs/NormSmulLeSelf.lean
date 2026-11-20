@@ -1,4 +1,5 @@
-import Development.AbelianVarietyTheory.Definitions.Foundations.FinalTheorems
+import Development.AutomorphicArithmetic.AutomorphicVarieties.HeightAndVanishing.DirichletPrimeToLPartMulLPowerPart
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 namespace GlobalTheory.BoundedScalarNorm
 

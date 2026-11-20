@@ -2,6 +2,7 @@ import Development.WeilBound.CoreStatements.MultihomogeneousSquares.SingSt
 import Development.WeilBound.CoreStatements.FlagImmersions.SumFundOnRoot
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemAbLocusIff
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ComplexPointsIffCentresStatement
+import Development.WeilBound.CoreStatements.MultihomogeneousSquares.AntisymmetryFibreSquares
 
 noncomputable section
 

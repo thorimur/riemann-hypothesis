@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.HermitianCurvature.StatementC
 import Formalism.HermitianCurvature.StatementD
 import Formalism.HermitianCurvature.StatementMA
 import Formalism.HermitianCurvature.LowerBlockNormalisedBoundFromComponents

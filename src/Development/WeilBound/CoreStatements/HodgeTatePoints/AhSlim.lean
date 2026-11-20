@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.ArithIntersectionSystemOfPoincareLelongStatement
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.DeepStROfHyp
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.ArithIntersectionSystemOfPoincareLelong
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HodgeTateOfFarguesExact
@@ -8,7 +6,6 @@ import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.QuotientByFiniteFlat
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FreeQuotientSchemeHolds
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ResKOfResolutionPrincipalisation
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.PoincareLelongOfInv
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.LineOfLargeDegreeOfMoriwaki
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.GagaSections
 
 namespace PositivityTheory.HtPt.Ah

@@ -1,6 +1,8 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.FilCrisTriv
-import Formalism.SharpRestriction.LevelLetterCocycles.MembershipCriterionOfLevelZero
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.FrobeniusUniformizerPowDvd
+import Formalism.SharpRestriction.LevelLetterCocycles.ExistsSmulPowEqSumOfInFNc
+import Formalism.SharpRestriction.LevelLetterCocycles.HorTrExists
+import Formalism.SharpRestriction.LevelLetterCocycles.HorTrUnique
 
 noncomputable section
 

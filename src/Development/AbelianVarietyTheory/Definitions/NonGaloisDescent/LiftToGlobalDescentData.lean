@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.NormalizedHeckeData
 
 noncomputable section

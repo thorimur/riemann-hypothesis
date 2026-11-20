@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsPullInjLoc
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsLocSectionsInj
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PPullbackBasis

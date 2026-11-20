@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CotInd
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.DetLocus
 import ReciprocityTheory.CommutativeAlgebra.SaturatedChains.Integral
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaDetLocus
 

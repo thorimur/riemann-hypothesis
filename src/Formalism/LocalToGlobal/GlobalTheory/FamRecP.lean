@@ -1,4 +1,6 @@
 import Formalism.LocalToGlobal.GlobalTheory.FamRec
+import Formalism.LocalRingCardinality.Lemmas
+import Mathlib.Order.Interval.Finset.Box
 
 open Module NumberField IsDedekindDomain Matrix
 

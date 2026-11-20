@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsCartanDecomposition
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.SingularValueFrame
 open scoped Matrix
 open GlobalTheory.IndefiniteRowSideFullHecke.RealRankSubgroupMembership
 set_option maxHeartbeats 1000000 in

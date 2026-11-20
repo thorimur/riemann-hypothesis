@@ -1,5 +1,10 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.ToricVarieties.ToricFaces
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.AffineMonoid.UniqueSums
+import Mathlib.AlgebraicGeometry.Properties
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.TotallySplit
 
 namespace GroundTheory.Arith.Toric
 

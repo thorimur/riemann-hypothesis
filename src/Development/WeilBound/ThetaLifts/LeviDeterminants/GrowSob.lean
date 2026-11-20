@@ -2,7 +2,6 @@ import Development.WeilBound.ThetaLifts.LeviDeterminants.GrowDef
 import Development.WeilBound.ThetaLifts.LeviDeterminants.GrowSobA
 import Development.WeilBound.ThetaLifts.LeviDeterminants.GrowSobB
 import Development.WeilBound.ThetaLifts.LeviDeterminants.GrowSplit
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.ExistsCompactAdeleRingModNumberField
 
 noncomputable section
 

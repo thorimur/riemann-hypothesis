@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.MemOfSecEq
+import Formalism.SharpRestriction.LevelLetterCocycles.InNOfPiLam
 
 noncomputable section
 

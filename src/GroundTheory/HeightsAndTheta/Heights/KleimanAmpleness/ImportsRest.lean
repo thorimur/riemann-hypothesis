@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsFurtherMore
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsTerTail
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ChartRingOverOneBlockBase

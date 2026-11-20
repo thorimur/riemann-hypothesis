@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.SmoothDesignExistence.DGamSmooth
+import Formalism.SharpRestriction.ParamsHeightRankConstant
 
 noncomputable section
 

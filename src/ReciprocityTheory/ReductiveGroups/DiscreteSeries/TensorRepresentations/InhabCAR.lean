@@ -1,4 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.CarSumSqZeroOfAnti
+import Mathlib.LinearAlgebra.CliffordAlgebra.Contraction
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

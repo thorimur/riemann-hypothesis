@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FlagBundles.Statements
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.StatementsZonalPairing
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.ZonalPairingCalculus
 set_option maxSynthPendingDepth 1

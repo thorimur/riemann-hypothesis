@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.BesselL2FixAtZero
 
 noncomputable section

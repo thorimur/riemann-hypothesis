@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InstMeasurableSpaceRealSU
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Analysis.InnerProductSpace.Adjoint
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 namespace GlobalTheory.FrameIndep

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.LiftingConditionOfCrystallineLift
 import Development.AutomorphicArithmetic.ResidueCharacters.LocNum
 import Development.AutomorphicArithmetic.ResidueCharacters.LocRes

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.HighInflUnits
 set_option maxSynthPendingDepth 1
 

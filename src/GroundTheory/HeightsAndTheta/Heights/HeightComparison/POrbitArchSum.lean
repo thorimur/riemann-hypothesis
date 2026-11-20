@@ -1,7 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitArchSum
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitConjSum
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.PHeightRecR
+import GroundTheory.HeightsAndTheta.Heights.HeightComparison.POrbitDegree
+import Mathlib.Algebra.Ring.IsFormallyReal
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

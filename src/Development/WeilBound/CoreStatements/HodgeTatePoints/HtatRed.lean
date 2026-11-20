@@ -1,11 +1,10 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatHtBc
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatLieBc
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatLieIso
 import Development.AutomorphicSpectrum.Statements.GeometryStatements.IsPolLatticePlane
 import Development.AutomorphicSpectrum.Statements.GeometryStatements.HTChartExists
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.TwoWeightEqOneAddRoot
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsLast
+import Mathlib.GroupTheory.FiniteAbelian.Basic
 open CategoryTheory AlgebraicGeometry MonoidalCategory CartesianMonoidalCategory MonObj TensorProduct NumberField GlobalTheory.CompanionTheory.Ar GlobalTheory.CompanionTheory.Ar.BT GlobalTheory.CompanionTheory.Ar.HT ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
 
 noncomputable section

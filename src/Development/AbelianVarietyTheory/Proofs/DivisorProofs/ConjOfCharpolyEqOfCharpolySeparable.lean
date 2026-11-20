@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCyclicVectorOfSeparableCharpoly
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 open Matrix Polynomial
 
 namespace GlobalTheory.SimSep

@@ -1,5 +1,4 @@
 import Formalism.CharacterColumnKernels.CharacterColumnKernelPairSetVariant
-import Formalism.CharacterColumnKernels.StatementX
 
 open Finset Classical
 

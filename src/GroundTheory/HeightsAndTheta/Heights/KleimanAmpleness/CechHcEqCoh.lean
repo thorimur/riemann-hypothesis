@@ -1,11 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CechHcSubsingletonOfBlock
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.DegZero
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PKHCechSES
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PKHCechDDeg
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.SnapperComponentMulX
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.CechHcSubsingletonOfBij
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PQuotPartGraded
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman.SectionsOverLocalization

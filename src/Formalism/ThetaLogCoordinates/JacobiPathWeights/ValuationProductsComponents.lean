@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.StatementA
-import Formalism.ThetaLogCoordinates.JacobiPathWeights.StatementE
+import Formalism.ThetaLogCoordinates.JacobiPathWeights.DetLetters
 
 noncomputable section
 

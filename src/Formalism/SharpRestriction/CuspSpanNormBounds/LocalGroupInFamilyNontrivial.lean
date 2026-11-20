@@ -1,8 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
-import Formalism.SharpRestriction.CuspSpanNormBounds.FractionFieldToGenericStalkAlgebraMapEq
-import Formalism.SharpRestriction.CuspSpanNormBounds.PsiEDef
 import Formalism.SharpRestriction.CuspSpanNormBounds.LinQRawRange
 import Formalism.SharpRestriction.CuspSpanNormBounds.FlagEEqHyperbolic
 

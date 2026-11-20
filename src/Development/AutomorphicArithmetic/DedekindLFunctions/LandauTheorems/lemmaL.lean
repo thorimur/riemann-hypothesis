@@ -1,8 +1,6 @@
-import Development.AutomorphicArithmetic.DedekindLFunctions.LandauZeroFreeCriterion
 import Development.AutomorphicArithmetic.DedekindLFunctions.LandauTheorems.poleData
 import Development.AutomorphicArithmetic.DedekindLFunctions.LandauTheorems.landauWindow
 import Development.AutomorphicArithmetic.DedekindLFunctions.LandauTheorems.WindowHypUOfWindowHyp
-import Development.AutomorphicArithmetic.DedekindLFunctions.LandauTheorems.CharFamilyLFunctionNeZeroOfOneLeRe
 
 open Complex MeasureTheory Set Filter Topology
 

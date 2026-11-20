@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCMLengthParameters
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCMRegularElement
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLengthLocalizedQuotient

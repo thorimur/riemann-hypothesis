@@ -1,6 +1,7 @@
 import Development.WeilBound.ThetaLifts.LocalTheory.UnramifiedDeterminedBySpherical
 import Development.WeilBound.ThetaLifts.LocalTheory.DixmierCommutants.AtSingle
 import Development.WeilBound.ThetaLifts.LocalTheory.DixmierCommutants.LocalMultiplicityOneIrreducibleGL
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDict
 
 noncomputable section
 

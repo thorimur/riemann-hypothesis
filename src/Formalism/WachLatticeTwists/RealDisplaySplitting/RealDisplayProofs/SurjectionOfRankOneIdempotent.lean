@@ -1,5 +1,11 @@
 import Formalism.WachLatticeTwists.RealDisplaySplitting.SurjectionRankOneIdempotent
-import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.Normal
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Finset Classical
 

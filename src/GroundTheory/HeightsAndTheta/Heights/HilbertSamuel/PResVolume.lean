@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsResVolume
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SmoothChartVolume
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.GenericComplexPoint

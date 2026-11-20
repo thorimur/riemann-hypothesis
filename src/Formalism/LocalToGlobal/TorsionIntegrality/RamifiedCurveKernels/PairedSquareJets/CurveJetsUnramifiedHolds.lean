@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.StatementV
-import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.FinalC
+import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.PairedSquareJets.CurveKernelUnramOf
 
 noncomputable section
 open scoped BigOperators

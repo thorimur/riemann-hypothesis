@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.ConstantCoeffTripleSubstitution
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CountGrowthExponentialRadii
 open Filter Topology
 set_option maxHeartbeats 1000000 in

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.SideSucc
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProdLeOfInterlacingPairing
 open Finset

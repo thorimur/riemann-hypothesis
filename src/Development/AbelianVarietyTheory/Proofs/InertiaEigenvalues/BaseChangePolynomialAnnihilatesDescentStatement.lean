@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BaseChangePolynomialAnnihilatesDescent
-import Mathlib
 open Polynomial
 open scoped TensorProduct
 set_option maxHeartbeats 1000000 in

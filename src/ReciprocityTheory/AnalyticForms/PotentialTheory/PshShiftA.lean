@@ -1,4 +1,5 @@
 import ReciprocityTheory.AnalyticForms.MaIntEmpty
+import Mathlib.Order.CompletePartialOrder
 
 namespace ReciprocityTheory.AnForm
 

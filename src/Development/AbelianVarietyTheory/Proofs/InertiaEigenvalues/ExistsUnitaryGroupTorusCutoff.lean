@@ -1,8 +1,12 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MulMatMemUnitaryGroup
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsLocallyConstantCutoffClosedEmbedding
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugatesSeparableMatrixCompactModCentralizerStatement
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyEtaleGeneratorMulMatrixSeparable
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugatesSeparableMatrixCompactModCentralizer
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.LinearAlgebra.Charpoly.BaseChange
+import Mathlib.Topology.Algebra.Star.Unitary
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
+import Mathlib.Topology.Separation.Connected
 
 open GlobalTheory.JR Matrix MeasureTheory Filter Topology
 

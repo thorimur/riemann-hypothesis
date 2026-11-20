@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.LefschetzSigmaSums.HeckeTraceSemi
+import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.RootSumWOff
 open UpperTheory.Gal.LocalSmoothExtension
 
 theorem UpperTheory.Gal.LocalSmoothExtension.rootW_of :

@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SuperDiagEqSdM
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsRapidInf
 open NumberField IsDedekindDomain GlobalTheory.CuspRep Matrix MeasureTheory GlobalTheory.WhitBump
 open scoped ContDiff
 

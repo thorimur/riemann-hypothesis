@@ -1,6 +1,5 @@
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.DiscreteSpanOfLinIndep
-import Formalism.GelfandTransference.EnergyIdentity
-import Formalism.LocalToGlobal.LatticeGeometry.RealizationNorms.ExistsStarMulSelf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField NumberField.InfinitePlace Module Matrix
 

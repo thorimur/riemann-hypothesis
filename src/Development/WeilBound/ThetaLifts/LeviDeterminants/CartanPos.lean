@@ -3,7 +3,6 @@ import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.MMPreservesHM
 import Development.AutomorphicSpectrum.Proofs.TwistedProofs.EqZeroOfPiInf
 import Development.AutomorphicSpectrum.Proofs.TwistedProofs.ExistsAdelePiInf
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.DisjointSpanPerpLat
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ProductFormulaHaar.TrSumOf
 
 noncomputable section
 

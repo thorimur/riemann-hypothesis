@@ -1,6 +1,4 @@
 import Formalism.WachLatticeTwists.HerrComplexInjectivity.GammaSubOneInvariants
-import Formalism.WachLatticeTwists.HerrComplexInjectivity.HerrComplexProofs.CompositionCaseA
-import Formalism.WachLatticeTwists.HerrComplexInjectivity.HerrComplexProofs.WachInvariantsHolds
 
 noncomputable section
 

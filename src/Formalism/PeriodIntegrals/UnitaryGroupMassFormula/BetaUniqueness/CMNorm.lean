@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.BetaLUniq
+import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 
 noncomputable section
 

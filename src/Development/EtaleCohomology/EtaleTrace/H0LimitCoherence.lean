@@ -1,4 +1,5 @@
-import Development.EtaleCohomology.EtaleTrace.TorsionH0PointAndSections
+import Development.AbelianVarietyTheory.Definitions.Divisors.PullHlComp
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC

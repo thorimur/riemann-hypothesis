@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.MembershipCriteria.OrderOKOneInert
 import Development.AutomorphicSpectrum.Proofs.MembershipProofs.IsLatticeOfCompactOpen
+import Mathlib.RingTheory.DedekindDomain.FiniteAdeleRing
 open GlobalTheory.CompanionTheory.VacLoc GlobalTheory.CompanionTheory.FinHeis GlobalTheory.WeilM MeasureTheory Matrix ValuativeRel NumberField IsDedekindDomain
 open scoped TensorProduct
 

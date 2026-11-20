@@ -1,7 +1,5 @@
-import Formalism.LatticeSlopes.Statement
 import Formalism.LatticeSlopes.CovolAntiSameRank
-import Formalism.LatticeSlopes.LatticeSlopesProofs.DiscreteTopologyOfLe
-import Formalism.LatticeSlopes.LatticeSlopesProofs.CovolEqGram
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
 
 open Module Submodule
 

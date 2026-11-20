@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.Transference
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.TransferenceCover
 
 noncomputable section

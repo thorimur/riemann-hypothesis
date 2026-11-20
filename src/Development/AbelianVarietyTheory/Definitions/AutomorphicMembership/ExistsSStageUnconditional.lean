@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.SCuIsom
-import Development.AbelianVarietyTheory.Definitions.Foundations.AuxiliaryFrameNormalizedSpaces
 import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsBaseTwoWords
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsPotential
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ModelLamPDef

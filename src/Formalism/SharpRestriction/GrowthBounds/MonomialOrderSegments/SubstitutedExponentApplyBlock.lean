@@ -1,6 +1,8 @@
-import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.DigitPartMonomial
 import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.ProjKeepsLetter
 import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.AddMemSupportOfMemSupportCoefOut
+import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.CollapseExponent
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
 
 noncomputable section
 

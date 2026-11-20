@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.FirstPartialLawAtPoints
+import Formalism.LocalToGlobal.CharacterGerms.ValuationEqPairOfBiadditiveCross
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.SquareIntegrable.SSmooth
+import GroundTheory.AutomorphicForms.MacdonaldAlternant
 
 noncomputable section
 

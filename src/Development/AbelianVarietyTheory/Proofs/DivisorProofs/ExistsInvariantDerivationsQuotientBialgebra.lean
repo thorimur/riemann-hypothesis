@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsInvariantDerivationOfCounitalComul
+import Mathlib.RingTheory.Bialgebra.TensorProduct
+import Mathlib.RingTheory.HopfAlgebra.Basic
 open scoped TensorProduct
 
 namespace GlobalTheory

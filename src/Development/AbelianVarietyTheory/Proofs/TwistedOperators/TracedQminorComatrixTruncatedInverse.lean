@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 open Formalism.REAL Finset
 

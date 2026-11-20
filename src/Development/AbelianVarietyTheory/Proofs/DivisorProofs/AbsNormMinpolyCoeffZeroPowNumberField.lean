@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.FinitePrimesUnder
-import Formalism.PairingDivisors.StatementH
 open NumberField Polynomial IsDedekindDomain
 open Formalism.DivisionValues (vw lw)
 

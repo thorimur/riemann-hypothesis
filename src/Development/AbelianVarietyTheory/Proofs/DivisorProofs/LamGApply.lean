@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClassesAt
+import Development.AbelianVarietyTheory.Definitions.Divisors.HasBlockOfOccurs
+import Formalism.LocalToGlobal.Divisibility.CoefMod
 
 set_option autoImplicit false
 

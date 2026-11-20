@@ -1,4 +1,7 @@
-import Development.EtaleCohomology.EtaleSheaves.ProEqvPfA
+import Development.EtaleCohomology.EtaleSheaves.ProEqvPf
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.t_E2Cut LateralTheory.E.CoverCut LateralTheory.E.ProEqvPf

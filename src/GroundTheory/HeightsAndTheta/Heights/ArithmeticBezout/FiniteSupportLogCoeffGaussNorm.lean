@@ -1,8 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Statements
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.SpecFirstDetFormNeZero
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ImportsAlt
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.AevalGenericIdealIff
+import Mathlib.Order.CompletePartialOrder
 set_option maxSynthPendingDepth 1
 
 noncomputable section

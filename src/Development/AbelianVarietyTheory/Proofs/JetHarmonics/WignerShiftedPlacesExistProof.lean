@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Statements.DiscreteSeriesShifts.ShiftExists
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.WignerMapsThreePlacesExistsStatement
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsShiftedTypesLowerBound
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.WithRightAction
 
 open Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P.CutBP2

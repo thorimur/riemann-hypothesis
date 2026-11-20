@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegralDoubleSeriesInterchange
-import Mathlib
 open MeasureTheory
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.integral_double_series_interchange : ∀ (X : Type) [MeasurableSpace X] (μ : Measure X) (𝓕 : Set X), μ 𝓕 ≠ ⊤ → ∀ (ι κ : Type) [Countable ι] [Countable κ]

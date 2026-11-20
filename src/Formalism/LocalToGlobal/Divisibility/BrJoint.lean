@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GTLower
 import Formalism.LocalRingCardinality.FactDelDualNabla
-import Formalism.SharpRestriction.Divisibility.PrimeDegreeVariant
 import Formalism.SharpRestriction.AdmissibleParameterJoins.SfromGLd
 
 noncomputable section

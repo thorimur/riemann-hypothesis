@@ -1,7 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CentralEig2
-import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms.InfiniteAdeleRingMapInfiniteAdeleRingMap
-import GroundTheory.GlobalFields.IdeleGroups.GaloisOnAdeles.Action
-import GroundTheory.GlobalFields.NormResidueSymbol.FunctorialFinite
+import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms.BaseChange
 
 noncomputable section
 

@@ -1,6 +1,5 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSt
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterRedF
+import Mathlib.Analysis.SpecialFunctions.SmoothTransition
 set_option maxSynthPendingDepth 1
 
 noncomputable section

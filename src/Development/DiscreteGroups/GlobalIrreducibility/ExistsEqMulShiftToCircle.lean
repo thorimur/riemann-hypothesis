@@ -1,6 +1,7 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.DzMatchCut
 import GroundTheory.LocalFields.LocalFourierPadic
+import Mathlib.Topology.Algebra.Group.OpenMapping
+import Mathlib.Topology.Baire.LocallyCompactRegular
 
 noncomputable section
 

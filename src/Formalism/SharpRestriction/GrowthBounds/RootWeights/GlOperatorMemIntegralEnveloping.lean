@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsHighestCoordinateFunctional
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

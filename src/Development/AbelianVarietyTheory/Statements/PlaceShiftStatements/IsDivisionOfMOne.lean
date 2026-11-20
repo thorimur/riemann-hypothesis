@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.IwSemistable
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDatumAOne
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.IsStrictlySemistableBase
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 open CategoryTheory AlgebraicGeometry

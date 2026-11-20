@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.KernelTrace
 import GroundTheory.AutomorphicForms.TraceFormulaConvolution
 
 open MeasureTheory Topology Filter Set Function

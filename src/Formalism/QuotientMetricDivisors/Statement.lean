@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.HarderNarasimhan.StatementPl
-import Formalism.HermitianLattices.StatementLat
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

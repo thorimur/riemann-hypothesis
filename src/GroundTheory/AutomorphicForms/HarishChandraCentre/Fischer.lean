@@ -1,6 +1,13 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HarishChandraCentre.RepBase
 import GroundTheory.AutomorphicForms.HarishChandraCentre.FischerForm
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.Derivation.Lie
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace GroundTheory.Automorphic.HarishChandra
 

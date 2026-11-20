@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.SIdeleGroups.InfinitePlaces
 import GroundTheory.GlobalFields.IdeleGroups.SIdeleGroups.IntegerUnits
 

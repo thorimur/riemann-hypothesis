@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.MetaplecticOneParameterSchwartzIntertwining
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.RealMetaplecticRepresentation
 open GlobalTheory.RealWeil MeasureTheory
 open scoped SchwartzMap Matrix
 set_option maxHeartbeats 1000000 in

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.CoverIntegralClosure
 
 namespace UpperTheory.Et.EtaleCovers

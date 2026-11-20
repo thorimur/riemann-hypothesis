@@ -1,11 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.ClassMassEqSumOfBijective
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUnitaryClassRepTrivialAtCm
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.ClassSet
-import Formalism.HermitianLattices.HermitianLatticesProofs.LocBasic
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.AlgebraMapApply
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.UnitaryTranspose
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.EpsMemLatSIff
+import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.RationalPointsLeHolds
 
 noncomputable section
 

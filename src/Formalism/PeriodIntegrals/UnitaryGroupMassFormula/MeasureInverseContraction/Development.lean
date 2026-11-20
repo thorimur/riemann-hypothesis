@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.NMeasInv
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureInverseContraction.RightInvOfContract
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.ContinuousUMatApply

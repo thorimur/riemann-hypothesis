@@ -1,9 +1,5 @@
-import Mathlib
-import Formalism.QuotientMetricDivisors.ProdFormula
 import Formalism.QuotientMetricDivisors.DualMu
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.DualPl
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SizeMu
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.DiscreteSpanOfLinIndep
 
 open Module NumberField
 

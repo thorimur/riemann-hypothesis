@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolUnramified
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolNorm
 import GroundTheory.LocalFields.LocalArtinBaseChange

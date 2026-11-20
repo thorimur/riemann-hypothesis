@@ -1,6 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ExplicitMapOntoTwoLetterSpace
-import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.MemInvariantSectionsIffIntegral
-import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.QaNuNextAdd
+import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ShapeCovering.CovDet
+import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TieDefs
 
 noncomputable section
 

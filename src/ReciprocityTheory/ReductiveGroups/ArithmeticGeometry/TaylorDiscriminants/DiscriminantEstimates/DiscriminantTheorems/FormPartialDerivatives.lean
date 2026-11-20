@@ -1,7 +1,6 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.PerpVecPerpSt
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.DiscriminantEstimates.DiscriminantLemmas.PerpendicularDeterminants.DetMemSubalgebra
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.DiscriminantEstimates.DiscriminantLemmas.PerpendicularDeterminants.PerpVecOfPerp
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 private theorem det_mem_subalgebra_of_entries_mem {R : Type} [CommRing R] {A : Type} [CommRing A] [Algebra R A]
     (S : Subalgebra R A) {m : ℕ} (M : Matrix (Fin m) (Fin m) A) (hM : ∀ i j, M i j ∈ S) :

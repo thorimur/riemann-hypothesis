@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.CompletionAtPlace.Integers
 
 noncomputable section

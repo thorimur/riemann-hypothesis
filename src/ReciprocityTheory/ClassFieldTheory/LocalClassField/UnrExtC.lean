@@ -1,4 +1,5 @@
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.UnrExtB
+import Mathlib.FieldTheory.Relrank
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField
 

@@ -1,9 +1,9 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.SecondCountableTopologyArchUnitary
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StBoundedGenerators
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StLenCauchySchwarz
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StGramDetermines
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StBoundedInverseCompact
+import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.Statements
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

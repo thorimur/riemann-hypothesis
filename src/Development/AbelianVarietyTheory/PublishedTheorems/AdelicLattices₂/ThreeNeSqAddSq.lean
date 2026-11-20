@@ -1,5 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.AlgebraMapNormOfBasisOneSqrt
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Data.Rat.Star
+import Mathlib.NumberTheory.SumTwoSquares
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField IsDedekindDomain
 open scoped Matrix TensorProduct ComplexConjugate

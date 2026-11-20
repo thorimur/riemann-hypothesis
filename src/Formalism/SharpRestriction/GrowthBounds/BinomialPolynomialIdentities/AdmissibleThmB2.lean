@@ -4,7 +4,6 @@ import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.Filtrati
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.FiltrationCoactionStable
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.FiltrationDirectSummand
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.FiltrationMaximalQuotient
-import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.HighestVectorsEqLattice
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameCoord
+import Formalism.LocalToGlobal.ProjectiveLattices.OneLtAbsNormReal
 
 noncomputable section
 open NumberField IsDedekindDomain Formalism.L2.Pj

@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AutomorphicArithmetic.ResidueCharacters.InvariantsKilledOverCyclotomicAlt
 import Development.AutomorphicArithmetic.ResidueCharacters.FiniteRoots
+import Formalism.SharpRestriction.LevelLetterCocycles.LocalSituation
+import Mathlib.Order.Interval.Finset.Box
 
 open Formalism Formalism.MainNotions
 

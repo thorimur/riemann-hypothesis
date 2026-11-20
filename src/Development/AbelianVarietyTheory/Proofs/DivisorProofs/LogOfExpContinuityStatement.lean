@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogOfExpContinuity
 
 set_option maxHeartbeats 1000000 in

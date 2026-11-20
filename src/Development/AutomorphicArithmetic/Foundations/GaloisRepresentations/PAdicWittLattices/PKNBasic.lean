@@ -1,6 +1,7 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.TransCancel
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCoprimeNsmulEndomorphismPreservesCompletioStatement
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.InvMemLatMonoidOfMemAwaySupp
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CentralizerAlgO
 
 open UpperTheory.Gal.G3
 

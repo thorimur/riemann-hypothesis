@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.LocSpBot
 import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.DetOfColSpanEq
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.PtStep0
 import Formalism.LocalToGlobal.Divisibility.Tuples
+import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ValRat
 
 noncomputable section
 

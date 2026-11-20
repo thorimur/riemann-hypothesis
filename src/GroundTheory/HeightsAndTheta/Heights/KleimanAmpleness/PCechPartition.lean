@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CechPartitionSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ZColumnsCechPartition
+import Mathlib.Algebra.Order.Ring.Star
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

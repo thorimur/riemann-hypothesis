@@ -1,10 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GL2Classical.HeckeCosets
-import GroundTheory.AutomorphicForms.GL2Classical.HeckeOperator
-import GroundTheory.AutomorphicForms.GL2Classical.HeckeCommute
-import GroundTheory.AutomorphicForms.GL2Classical.HeckePetersson
-import GroundTheory.AutomorphicForms.GL2Classical.HeckeSatake
 import GroundTheory.AutomorphicForms.GL2Classical.HeckeSatakeRep
+import GroundTheory.AutomorphicForms.GL2Classical.ZFinite
 
 open NumberField IsDedekindDomain Matrix MeasureTheory CongruenceSubgroup
 open UpperHalfPlane hiding I I_re I_im

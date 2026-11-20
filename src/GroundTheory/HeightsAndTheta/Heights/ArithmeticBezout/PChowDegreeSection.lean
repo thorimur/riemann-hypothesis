@@ -1,8 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsChowDegreeSection
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PIntChowFormExists
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ChowDegree
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowFormHomog
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsChowFormSectionPerfect
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

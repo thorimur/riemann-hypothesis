@@ -1,7 +1,6 @@
-import ReciprocityTheory.GroupCohomology.CupConnRightStatement
-import ReciprocityTheory.GroupCohomology.DEqZeroOfMemB
-import ReciprocityTheory.GroupCohomology.LowHolds
 import ReciprocityTheory.GroupCohomology.InnerHolds
+import Mathlib.Tactic.Polynomial.Basic
+import ReciprocityTheory.GroupCohomology.ComapZeroCoboundariesEqBot
 
 namespace ReciprocityTheory.Coh.InflationRestrictionInvariants
 

@@ -4,6 +4,8 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutLam
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutAdm
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutBesselEigen
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutCutTr
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutRegFF
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelSystemAdmissibleSize
 
 open Formalism.FourierDecayAlt
 

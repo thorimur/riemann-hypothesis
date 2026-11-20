@@ -1,4 +1,5 @@
 import Development.WeilBound.ThetaLifts.EigenvalueEndgame.SignatureSplitting.ConvCont
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 

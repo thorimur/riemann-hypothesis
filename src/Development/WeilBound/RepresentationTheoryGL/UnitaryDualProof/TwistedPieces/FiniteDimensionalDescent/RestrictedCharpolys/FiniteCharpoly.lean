@@ -1,7 +1,4 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.RestrictedCharpolys.PullPieces
-import Mathlib
-import GroundTheory.AutomorphicForms.StableConjInvariant
-import GroundTheory.LocalFields.Interface
 
 noncomputable section
 

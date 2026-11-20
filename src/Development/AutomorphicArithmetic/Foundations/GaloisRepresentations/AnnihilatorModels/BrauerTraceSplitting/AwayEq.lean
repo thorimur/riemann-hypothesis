@@ -1,5 +1,4 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.LocFacts
-import GroundTheory.PAdicHodge.BdRAlg
 
 set_option backward.isDefEq.respectTransparency false
 

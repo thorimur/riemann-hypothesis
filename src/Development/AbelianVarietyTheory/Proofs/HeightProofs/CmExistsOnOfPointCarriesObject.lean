@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.PrincipalLattices.ExistsPrincipalLattice
 import Development.AbelianVarietyTheory.Statements.PrincipalLattices.PhiNeOne
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.TensorObjectExistence
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.ExistsPullback
@@ -12,8 +10,6 @@ import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.CmCurveBaseCha
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.IsTenBaseChange
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.HasTypeBaseChange
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.ExistsUniqueExtendRingOfIntegersHom
-import Development.AbelianVarietyTheory.Proofs.ModuliProofs.WeilIsGrpPullbackOfCommute
-import Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsPushEquiv
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.PolPull
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.PushEquivSymmLeft
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSabCancel

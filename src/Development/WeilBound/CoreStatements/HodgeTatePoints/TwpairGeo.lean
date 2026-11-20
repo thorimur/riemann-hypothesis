@@ -1,9 +1,8 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.HodgeTatePoints.TwpairAlg
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.FiniteOpenHopfOrder
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.IsFinOpenSubOfFinite
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsDenominatorRegular
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.FinitePartLePreimageOfClosedFibreSubset
+import Mathlib.RingTheory.Etale.Weakly
 
 open CategoryTheory Limits AlgebraicGeometry MonoidalCategory CartesianMonoidalCategory MonObj TensorProduct
 open GlobalTheory.CompanionTheory.Ar.BT GlobalTheory.CompanionTheory.Ar.BT.SubOrder

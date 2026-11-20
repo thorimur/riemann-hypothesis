@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.KerIso
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalLatticeIsomorphism.KerLocIsoOfNormOne
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalLatticeIsomorphism.NormOne
 

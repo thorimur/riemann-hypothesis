@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.CokLenLeOfRangeLe
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.UnipPow
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.Imports
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.PowIn

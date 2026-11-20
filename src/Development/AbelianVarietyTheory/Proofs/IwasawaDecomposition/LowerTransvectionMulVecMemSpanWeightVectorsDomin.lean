@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsPolyRep
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Std.Tactic.BVDecide.Normalize.Prop
 open Matrix Formalism.L2.NG ReciprocityTheory.Aut Formalism.AUTREP NumberField GlobalTheory.AlgWtHW
 
 noncomputable section

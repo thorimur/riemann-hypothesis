@@ -1,10 +1,11 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.IsPairLevel
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBallSubset
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsSat2InvTConj
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsNormalisedOfDualIsConj
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.BlockIntegralIff
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.BlockInverseIntegralIff
+import GroundTheory.GlobalFields.CompletionAtPlace.Integers
+import GroundTheory.LocalFields.PadicLogSeries
 
 noncomputable section
 

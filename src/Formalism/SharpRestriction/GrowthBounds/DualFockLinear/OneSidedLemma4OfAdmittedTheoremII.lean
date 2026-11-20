@@ -1,5 +1,10 @@
-import Formalism.SharpRestriction.GrowthBounds.PathWeight
 import Formalism.SharpRestriction.GrowthBounds.TableLineDegreeFive
+import Formalism.SharpRestriction.GrowthBounds.PathWeight.CoeUntopDLeAlt
+import Formalism.SharpRestriction.GrowthBounds.PathWeight.DvDegOtherMono
+import Formalism.SharpRestriction.GrowthBounds.PathWeight.Lemma4OfRemainingStatements
+import Formalism.SharpRestriction.GrowthBounds.PathWeight.LetterWeightPos
+import Formalism.SharpRestriction.GrowthBounds.PathWeight.MdWeightMapDomain
+import Formalism.SharpRestriction.GrowthBounds.PathWeight.SymbolGeneratorData
 
 noncomputable section
 

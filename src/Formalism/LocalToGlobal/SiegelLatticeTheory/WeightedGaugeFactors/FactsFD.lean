@@ -1,7 +1,10 @@
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.SzHypFD
-import Formalism.LocalToGlobal.SiegelLatticeTheory.BesselDiscreteSeries.FdegUniqG
 import Formalism.SharpRestriction.CuspSpanNormBounds.DiscreteSeriesExistence.ExistsG
 import Formalism.LocalToGlobal.SiegelLatticeTheory.WeightedGaugeFactors.FactsDS
+import Formalism.LocalRingCardinality.SpanPowerMembership.SignSplitEquivInl
+import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.DegIUp
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.FdCons
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.HaarVolumes.OmegaDensityUnique
 
 noncomputable section
 

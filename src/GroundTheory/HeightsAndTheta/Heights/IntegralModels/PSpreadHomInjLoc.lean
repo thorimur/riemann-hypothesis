@@ -1,8 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomInjLoc
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsLocSectionsInj
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PPullbackFaithful
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadBundle
+import Mathlib.CategoryTheory.EffectiveEpi.Comp
+import Mathlib.CategoryTheory.ExtremalEpi
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Model

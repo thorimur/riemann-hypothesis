@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.HarderNarasimhan.StatementPl
+import Mathlib.RepresentationTheory.Basic
 
 open Module NumberField IsDedekindDomain
 

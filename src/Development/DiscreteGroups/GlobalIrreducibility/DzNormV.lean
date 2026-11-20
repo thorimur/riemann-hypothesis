@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.ConjugateSelfDual.Statement
 import Development.DiscreteGroups.GlobalIrreducibility.ExistsOfMemKOne
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual Filter Topology

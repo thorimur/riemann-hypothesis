@@ -1,4 +1,7 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.IsConstituent
+import Mathlib.Data.Finsupp.Pointwise
+import Mathlib.LinearAlgebra.PiTensorProduct.Finite
+import Mathlib.RingTheory.PicardGroup
 
 open Polynomial CategoryTheory
 noncomputable section

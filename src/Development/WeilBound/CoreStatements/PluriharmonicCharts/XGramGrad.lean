@@ -1,7 +1,7 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.MetricPeriods.InFlagDomainOne
 import ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.LogDetSt
 import Development.WeilBound.CoreStatements.PluriharmonicCharts.TripleDeriv
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.Monotonicity.Lemmas
 open Matrix GlobalTheory.CompanionTheory.Ar.PB
 open scoped ComplexOrder
 

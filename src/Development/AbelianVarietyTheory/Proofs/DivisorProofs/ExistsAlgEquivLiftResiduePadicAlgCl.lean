@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.KbIsAlgClosedAndConj
+import Mathlib.FieldTheory.Galois.Profinite
+import Mathlib.RingTheory.Invariant.Profinite
 
 open IsLocalRing
 

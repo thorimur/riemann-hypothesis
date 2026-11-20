@@ -1,4 +1,7 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.OneAddProjectionMemIsotropicSet
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.ThirdPolynomialExpansion
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.TriangularFactorMiddleRow
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormFormOneUnitary.PRowWSColW
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix Finset
 

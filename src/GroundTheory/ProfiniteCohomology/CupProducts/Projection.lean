@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CupProducts.Functoriality
 import GroundTheory.ProfiniteCohomology.Shapiro
 set_option maxSynthPendingDepth 1

@@ -1,6 +1,9 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.HasArcDataIff
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.LiftChartIdeal
+import Mathlib.Algebra.Category.Ring.Topology
+import Mathlib.CategoryTheory.Limits.Shapes.Countable
+import Mathlib.NumberTheory.Padics.PadicNumbers
+import Mathlib.Topology.Algebra.IsOpenUnits
 
 noncomputable section
 

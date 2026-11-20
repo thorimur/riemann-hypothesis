@@ -1,4 +1,3 @@
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.AutDef
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.AutEtaC
 
 noncomputable section

@@ -1,11 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BlockCurvaturePeriodFormula
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExtFormAdjEqNegSecondForm
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BlockModelPosFrameBound
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChTwoInvOfIsSymm
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChTwoBlockDiagonalSumStatement
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChTwoImaginaryPartSymmetricZeroStatement
 open Matrix Filter Topology GlobalTheory.HermFrame
 open scoped ComplexOrder
 set_option maxHeartbeats 1000000 in

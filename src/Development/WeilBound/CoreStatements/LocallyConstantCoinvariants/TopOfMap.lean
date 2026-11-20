@@ -1,7 +1,7 @@
 import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.LocConstChar
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoinvariantsFiniteOfSmoothLevi
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FibreRepresentationSmoothStatement
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.BernsteinUnitaryProductIrreducible
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.SmIndCoinvariants
 
 noncomputable section
 

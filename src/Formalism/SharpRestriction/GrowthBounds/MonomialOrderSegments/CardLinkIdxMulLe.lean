@@ -2,7 +2,7 @@ import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.CgeZeroIffI
 import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.ProjKeepsLetter
 import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.AddMemSupportOfMemSupportCoefOut
 import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.SlopeOfBinomCombGen
-import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.DigitPartMonomial
+import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.CollapseExponent
 
 noncomputable section
 

@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.LvlDimGen
-import Formalism.MahlerMeasure.MahlerMeasureProofs.TheoremM
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.SumFinrankLeOfIndep
 
 noncomputable section
 

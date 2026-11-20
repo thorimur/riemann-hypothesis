@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CompactSupportCohomology.ConeMap
 import GroundTheory.ProfiniteCohomology.CompactSupportCohomology.HomologyMapPiLiftPiHomologyIsoHom
 import GroundTheory.ProfiniteCohomology.ContinuousCochains.LongExactSequence

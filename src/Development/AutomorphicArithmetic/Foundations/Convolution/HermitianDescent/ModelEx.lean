@@ -1,6 +1,7 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.UniformExportStatement
 import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.GalBase
 import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.Descent
+import Mathlib.RingTheory.Finiteness.Descent
 
 open Matrix Polynomial NumberField IsDedekindDomain
 open scoped TensorProduct

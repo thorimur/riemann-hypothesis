@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.MirabolicMackeyTheory.StatementL
-import Formalism.MirabolicMackeyTheory.LocalConditionsWeighted
 
 open Module NumberField IsDedekindDomain
 

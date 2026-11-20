@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.TwistStep
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RatioProportionalTarget
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TmSubOneNeZeroPt

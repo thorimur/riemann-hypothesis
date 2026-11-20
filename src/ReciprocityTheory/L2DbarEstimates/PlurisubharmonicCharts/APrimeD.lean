@@ -1,4 +1,7 @@
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.APrimeDA
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
 
 open Complex ComplexConjugate
 

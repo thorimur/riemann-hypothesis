@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.Procyclic
 import GroundTheory.ProfiniteCohomology.Characters
 set_option maxSynthPendingDepth 1

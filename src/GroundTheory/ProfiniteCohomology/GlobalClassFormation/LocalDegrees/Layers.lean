@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.CyclotomicCharacters.Degree
 import GroundTheory.GlobalFields.NormResidueSymbol.CyclotomicCompositum
 set_option maxSynthPendingDepth 1

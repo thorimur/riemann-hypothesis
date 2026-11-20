@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.FiniteDimensionalForms
 import Formalism.LocalToGlobal.Columns.GFamS
+import Formalism.LocalToGlobal.Columns.ToHLatLemmas
 
 open NumberField IsDedekindDomain Module
 open scoped Matrix ComplexOrder

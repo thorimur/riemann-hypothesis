@@ -1,5 +1,4 @@
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ChartOfBasis
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.UniformisationConclusion
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatLieBc
 
 noncomputable section

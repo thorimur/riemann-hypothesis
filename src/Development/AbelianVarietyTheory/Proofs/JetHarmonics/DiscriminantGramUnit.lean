@@ -1,8 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.SplitUnramifiedPlaces
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.StAvDefs
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsUniqueMaximalAbovePlace
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.DifferentPowerUnramifiedIffStatement
 
 noncomputable section
 open scoped TensorProduct

@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.SlopeTestRemainingChoices
-import Development.EtaleCohomology.KummerTheory.InjSlice
-import Development.AbelianVarietyTheory.Definitions.Divisors.E5
 import Development.AutomorphicArithmetic.CommutativeAlgebra.CohomologyRepresentatives
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex GlobalTheory.EtC UpperTheory.Et

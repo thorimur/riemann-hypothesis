@@ -1,4 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.DegreeZeroWeightsBounded
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.MemWeightSpaceIffDiagonalEigen
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

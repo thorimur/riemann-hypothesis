@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WirtConst
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.DualGramInterpGram
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FderivDetEqTraceAdjugateStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HermitianDerivWirtingerDecompositionStatement

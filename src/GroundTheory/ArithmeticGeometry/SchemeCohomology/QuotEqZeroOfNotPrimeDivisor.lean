@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.CurveCohomology
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.CechNaturality.CechFunctor
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.SheafHFlasque
 
 open CategoryTheory AlgebraicGeometry TopologicalSpace Opposite Limits Topology
 

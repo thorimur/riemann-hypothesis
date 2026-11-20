@@ -1,4 +1,6 @@
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FlatNullA
+import Mathlib.Topology.Sheaves.Presheaf
+import ReciprocityTheory.L2DbarEstimates.JacobianInterpolationStatement
 
 namespace ReciprocityTheory.L2DbarEstimates.Y
 

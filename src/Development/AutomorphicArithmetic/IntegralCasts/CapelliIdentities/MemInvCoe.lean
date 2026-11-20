@@ -1,8 +1,4 @@
-import Mathlib
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
-import Formalism.LocalRingCardinality.Params
-import Formalism.LocalRingCardinality.DataHost
 
 theorem UpperTheory.Reformulated.B.Qf38.mem_inv_coe :
     ∀ (D : Formalism.BasicNotions.D7) {J : Ideal (NumberField.RingOfIntegers D.host.E)},

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.DiscreteSeriesCharacter
 
 open Matrix Polynomial GlobalTheory.Orb GlobalTheory.HCChar

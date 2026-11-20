@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.UnitsLevels
-import GroundTheory.ProfiniteCohomology.LocalClassFormation.InvariantRes
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

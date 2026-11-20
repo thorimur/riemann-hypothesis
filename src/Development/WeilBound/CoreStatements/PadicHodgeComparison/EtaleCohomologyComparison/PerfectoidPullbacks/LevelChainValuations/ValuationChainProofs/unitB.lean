@@ -1,4 +1,5 @@
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.LevelChainValuations.ChainOf
+import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.LevelChainValuations.ToBSurj
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 set_option backward.isDefEq.respectTransparency false
 set_option autoImplicit false

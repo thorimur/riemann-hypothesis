@@ -1,5 +1,4 @@
-import Mathlib
-import Development.DiscreteGroups.GlobalIrreducibility.DzNormV
+import Development.DiscreteGroups.GlobalIrreducibility.ExistsOfMemKOne
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual
 

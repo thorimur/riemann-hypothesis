@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SecondCountableTopologySphere
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TotalEqOfNonneg
 open CategoryTheory AlgebraicGeometry Set Matrix MeasureTheory OnePoint

@@ -1,9 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StPtsChartDenNotMem
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StPtsChartDim
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChartA
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.KleimanNefness.AlgDim
-import ReciprocityTheory.CommutativeAlgebra.PolynomialHeights.HeightAddRingKrullDimQuotientMvPolynomialField
+import Mathlib.RingTheory.Nullstellensatz
 set_option maxSynthPendingDepth 1
 
 noncomputable section

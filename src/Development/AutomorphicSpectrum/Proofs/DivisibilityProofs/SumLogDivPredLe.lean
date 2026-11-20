@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.SumPrimeLogDivLeStatement
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.SumLogDivNSqLeTwoStatement
+import Mathlib.Analysis.Complex.ExponentialBounds
 
 namespace GlobalTheory.CompanionTheory.Ar.Small
 

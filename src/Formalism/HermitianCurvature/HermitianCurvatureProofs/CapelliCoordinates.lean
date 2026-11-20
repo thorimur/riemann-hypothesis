@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.FrameMinor
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorRepresentations
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RestrictionIrrelevantDoubleLevelOperator
 
 open Matrix Finset
 open scoped ContDiff

@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.ConjugateSelfDual.Statement
+import Mathlib.NumberTheory.DirichletCharacter.Basic
+import Mathlib.NumberTheory.ModularForms.QExpansion
 
 noncomputable section
 

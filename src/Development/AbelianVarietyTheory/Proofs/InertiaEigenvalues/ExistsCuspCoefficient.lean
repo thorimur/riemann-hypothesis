@@ -1,11 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.MulCMemSec
 import Formalism.LocalToGlobal.ProjectiveLattices.FreeBridge
-import Formalism.LocalToGlobal.ProjectiveLattices.ThClassPins
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.EqOfForallAlgClosed
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.MarkedIsometryHalf
-import Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.DatEqOfPhiHat
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MemCuspOfThetaSum
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsSecOfMoveInv
 
 open AlgebraicGeometry CategoryTheory NumberField MvPolynomial
 open ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.L2.Pj

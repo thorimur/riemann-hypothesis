@@ -1,6 +1,6 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.LatticeBasics.LocDistB
 import Development.WeilBound.ThetaLifts.LatticeBasics.LocDistD
+import Mathlib.RingTheory.PicardGroup
 
 open Filter Topology GlobalTheory.WeilM Matrix
 

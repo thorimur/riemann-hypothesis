@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsIvDOfDefinite
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.DivSheaf
 
 open AlgebraicGeometry CategoryTheory IsLocalRing
 open ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.AnForm.R GlobalTheory.LocM

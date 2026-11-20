@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.OverIx
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.SetUnipotentTranslate
 
 noncomputable section
 

@@ -1,7 +1,8 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ArchBetween
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemOfAevalEqZero
 import Development.WeilBound.CoreStatements.HodgeTatePoints.GfForms
+import Development.AutomorphicSpectrum.Definitions.MetricPeriods.HasMultiplier
+import Mathlib.Analysis.Polynomial.CauchyBound
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

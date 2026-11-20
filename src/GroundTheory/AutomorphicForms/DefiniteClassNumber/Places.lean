@@ -1,5 +1,9 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.DefiniteClassNumber.HermTraceSelfOfHermValue
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.NumberTheory.NumberField.InfiniteAdeleRing
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

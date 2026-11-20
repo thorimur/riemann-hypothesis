@@ -1,4 +1,6 @@
 import Development.WeilBound.ThetaLifts.SphericalLattices.IndexComapOfCover
+import Development.WeilBound.ThetaLifts.SphericalLattices.LocCommSt
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

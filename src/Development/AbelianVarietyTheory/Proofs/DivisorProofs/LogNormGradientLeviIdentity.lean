@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ModelDdcForms
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviFormLogPotentialFormula
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffAtLogNorm
 open ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M GlobalTheory.IndefiniteRowSideFullHecke.ModelDdcForms MeasureTheory Filter Topology

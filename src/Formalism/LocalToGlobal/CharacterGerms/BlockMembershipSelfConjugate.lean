@@ -2,6 +2,7 @@ import Formalism.LocalToGlobal.CharacterGerms.MemVarsProdAll
 import Formalism.LocalToGlobal.CharacterGerms.ContentZeroAt
 import Formalism.LocalToGlobal.CharacterGerms.CartesianBoundOnCurves
 import Formalism.LocalToGlobal.CharacterGerms.CoeffIterateZero
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

@@ -1,13 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.ColValMonomial
 import Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.ExistsFormalBiextMap
 import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.DofIterSmulDir
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.MapDofIterate
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.BilinPartEigenMemRange
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.NabValColumnsCongr
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.CoeffProdLeadingMinors
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.SumProdNabValLeadingMinors
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.SumProdNabValLeadingMinorsOfColumnJets
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.WickVanishing.GEWick
 
 set_option autoImplicit false
 

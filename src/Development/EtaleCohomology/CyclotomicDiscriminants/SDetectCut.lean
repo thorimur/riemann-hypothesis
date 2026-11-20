@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ClassCounting.LemmaKOfSteps
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ChebotarevDegreeOne
+import Mathlib.FieldTheory.KummerExtension
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual UpperTheory.V.ZK
 

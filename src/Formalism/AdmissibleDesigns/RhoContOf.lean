@@ -1,6 +1,5 @@
 import Formalism.AdmissibleDesigns.IsDROfWpIso
 import Formalism.AdmissibleDesigns.KernelLengthHigherColumns
-import Formalism.AdmissibleDesigns.FgTopContinuousLinearMap
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core] [hH0Fin : Fact Formalism.MainNotions.N.K.H0.FinCore]
 

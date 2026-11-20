@@ -1,7 +1,6 @@
-import Mathlib
 import Formalism.HarderNarasimhan.StatementFrameF
-import Formalism.LatticeSlopes.ExistsSaturatedSlopeEqMuMax
 import Formalism.CorankShare.CorankShareProofs.SumNormSqLeHilbertSchmidt
+import Mathlib.Analysis.InnerProductSpace.Trace
 
 noncomputable section
 

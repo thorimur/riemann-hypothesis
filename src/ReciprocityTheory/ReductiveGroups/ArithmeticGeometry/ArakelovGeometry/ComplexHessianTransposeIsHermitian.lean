@@ -1,4 +1,9 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.HasFDerivAtMvPolynomialEval
+import Mathlib.Algebra.Group.ForwardDiff
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
+import Mathlib.Analysis.Matrix.Hermitian
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.LinearAlgebra.Matrix.PosDef
 
 namespace ReciprocityTheory.ChartRestriction.G.ArakelovGeometry
 

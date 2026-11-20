@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.Statements
+import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.Examples
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

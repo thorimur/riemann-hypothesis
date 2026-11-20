@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemSpanDetSetIffAdelicLatticeValuation
-import Formalism.LocalToGlobal.ProjectiveLattices.ThClass
 open NumberField IsDedekindDomain Formalism.L2.Pj
 open scoped nonZeroDivisors
 set_option maxHeartbeats 1000000 in

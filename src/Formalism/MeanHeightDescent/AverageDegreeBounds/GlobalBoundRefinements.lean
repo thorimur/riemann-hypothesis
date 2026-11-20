@@ -1,12 +1,8 @@
-import Mathlib
 import Formalism.MeanHeightDescent.CovolumeEstimateAnchoredWeights
-import Formalism.MeanHeightDescent.AverageDegreeBounds.CovolumeAssemblyHolds
 import Formalism.MeanHeightDescent.AverageDegreeBounds.CovolumeFullAssemblyHolds
-import Formalism.MeanHeightDescent.AverageDegreeBounds.CovolumeIntoDivisionHolds
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.TheoremDivIneq
 import Formalism.MeanHeightDescent.AverageDegreeBounds.SpanMuMin
-import Formalism.MeanHeightDescent.AverageDegreeBounds.TwistLower
 import Formalism.MeanHeightDescent.AverageDegreeBounds.MuMaxMinkowski
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 namespace Formalism.ExtensionFiltration
 

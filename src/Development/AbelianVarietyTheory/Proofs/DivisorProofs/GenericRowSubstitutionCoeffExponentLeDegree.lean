@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RowSubst
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TotalDegreeAevalLeOfDegLeOne
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BaseChange
 
 set_option autoImplicit false
 

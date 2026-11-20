@@ -1,8 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.RegXInst
-import Formalism.LocalToGlobal.ProjectiveLattices.CurveLocInst
-import Formalism.LocalToGlobal.ProjectiveLattices.TieInst
-import Formalism.LocalToGlobal.ProjectiveLattices.RealPtPf
 import Formalism.LocalToGlobal.ProjectiveLattices.RealPtMain
 import Formalism.LocalToGlobal.ProjectiveLattices.PtOfSPf
 import Formalism.LocalToGlobal.ProjectiveLattices.CompFin

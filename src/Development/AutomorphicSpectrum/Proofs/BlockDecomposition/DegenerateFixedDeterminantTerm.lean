@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.GaussianSchwartz
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.RealLocalIntegrals.RealTemperedBounds.StepsD
+import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.RealLocalIntegrals.StSmooth
 
 noncomputable section
 

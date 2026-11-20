@@ -1,9 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RelIndexLevelUnipotentCoprimePrime
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SplitPlaceHeckeOperatorScalarOnSpherical
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitaryFiniteAdelesSplitPlaceDecomposition
-import Formalism.LocalToGlobal.GaloisLevelStructure.DefsLevel
 open NumberField IsDedekindDomain ReciprocityTheory.Aut Formalism.L2
 open Formalism.AUTREP (GAf)
 set_option maxHeartbeats 1000000 in

@@ -1,12 +1,7 @@
 import Formalism.CyclotomicNorms.NonsquarefreeBounds.Newton
-import Formalism.CyclotomicNorms.NonsquarefreeBounds.SubstitutionBound
-import Formalism.CyclotomicNorms.NonsquarefreeBounds.SpanQuadraticOfImage
 import Formalism.CyclotomicNorms.NonsquarefreeBounds.Central
-import Formalism.CyclotomicNorms.NonsquarefreeBounds.Cycles
-import Formalism.TameInertiaTowers.FinalGroup
 import Formalism.CyclotomicNorms.NonsquarefreeBounds.Jordan
 import Formalism.CyclotomicNorms.NonsquarefreeBounds.RestrictionOfBlocksAndJordan
-import Formalism.CyclotomicNorms.NonsquarefreeBounds.NonsquarefreeMonicBoundHolds
 import Formalism.CyclotomicNorms.NonsquarefreeBounds.IrreducibilityOfRestriction
 
 namespace Formalism.CyclotomicNorms

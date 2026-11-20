@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.MaIntEmpty
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace ReciprocityTheory.AnForm.A
 

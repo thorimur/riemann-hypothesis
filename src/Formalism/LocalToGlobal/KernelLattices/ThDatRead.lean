@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.FirstKernelLawReading
-import Formalism.LocalToGlobal.KernelLattices.ColInst
 import Formalism.LocalToGlobal.KernelLattices.MatrixKernelDiamondCommutation
 
 open NumberField IsDedekindDomain

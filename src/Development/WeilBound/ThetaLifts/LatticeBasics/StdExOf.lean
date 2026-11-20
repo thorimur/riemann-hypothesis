@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.LatticeBasics.UnfoldB
 import Development.WeilBound.ThetaLifts.LatticeBasics.HypothesesE
 

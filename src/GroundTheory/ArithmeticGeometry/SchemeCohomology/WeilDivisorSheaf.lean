@@ -1,5 +1,7 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.WeilDivisorLocal
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.WeilDivisor
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

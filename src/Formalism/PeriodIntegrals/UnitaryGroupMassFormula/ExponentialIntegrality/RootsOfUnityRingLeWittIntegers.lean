@@ -1,4 +1,9 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExponentialIntegrality.Development
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

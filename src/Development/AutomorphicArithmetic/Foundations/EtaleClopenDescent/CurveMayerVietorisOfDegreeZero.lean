@@ -1,4 +1,3 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.LeafCurveCut
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsMayerVietorisConnectingExact
 import Development.EtaleCohomology.EtaleTrace.LocalSplitting.Cover2

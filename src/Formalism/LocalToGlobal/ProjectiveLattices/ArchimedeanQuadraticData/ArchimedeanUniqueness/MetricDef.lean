@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.SectionOfLineBundleOne
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsLieBasis
 
 noncomputable section
 

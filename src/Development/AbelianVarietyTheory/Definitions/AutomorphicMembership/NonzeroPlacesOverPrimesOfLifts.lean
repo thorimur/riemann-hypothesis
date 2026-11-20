@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.NonzeroPlacesOverPrimesLifts
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.FinTypRepCast
 import Development.AbelianVarietyTheory.Counterexamples.RotationExamples.IrrationalRotationBk

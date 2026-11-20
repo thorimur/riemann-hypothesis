@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Degenerations.SepticCharacterInjective
+import Mathlib.Analysis.Normed.Field.Instances
+import Mathlib.Data.Int.Star
+import Mathlib.NumberTheory.Padics.Complex
+import Mathlib.RingTheory.PiTensorProduct
 
 open ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open scoped BigOperators

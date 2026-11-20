@@ -1,6 +1,5 @@
-import Development.WeilBound.ThetaLifts.LatticeBasics.BadStmt
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.SplitStab
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.IsLatRepL
+import Development.WeilBound.ThetaLifts.LatticeBasics.HypothesesX
 
 set_option synthInstance.maxHeartbeats 200000
 

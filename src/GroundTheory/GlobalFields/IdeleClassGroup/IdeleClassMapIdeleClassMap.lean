@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.GlobalFields.CyclotomicCharacters.Character
 import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms.InfiniteAdeleRingMapInfiniteAdeleRingMap
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace GroundTheory.Global
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.EisensteinSeries.SiegelEisensteinHalfPlane.UnitTestFunctions.LiftUnit
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness.SiegelConj
 
 noncomputable section
 

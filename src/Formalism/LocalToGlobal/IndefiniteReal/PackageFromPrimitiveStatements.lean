@@ -1,13 +1,11 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.LiftCoordinatesInGoodPartFamily
 import Formalism.LocalToGlobal.IndefiniteReal.LiftGoodPartComplexEqRangeFamily
 import Formalism.LocalToGlobal.IndefiniteReal.MajAtEqZeroOfMemQpOfNe
 import Formalism.LocalToGlobal.IndefiniteReal.RationalAdjoints.RangeAdjointRat
-import Formalism.LocalToGlobal.IndefiniteReal.RationalAdjoints.RatMuOfRowTest
 import Formalism.LocalToGlobal.IndefiniteReal.RationalAdjoints.RatThOfLiftTest
 import Formalism.LocalToGlobal.IndefiniteReal.FinrankISupLeSum
-import Formalism.LocalToGlobal.IndefiniteReal.CutPassage
-import Formalism.LocalToGlobal.IndefiniteReal.IsometricPeriodsOfUnitHypotheses
+import Formalism.LocalToGlobal.Divisibility.TrivialExtensionSideWellFormed
+import Formalism.LocalToGlobal.IndefiniteReal.CxCoreRG
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder InnerProductSpace

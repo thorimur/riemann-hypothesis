@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.LintegralFintypeProdEqProd
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 noncomputable section
 

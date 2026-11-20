@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BlockModelPosFrameBound
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PoincareMetricBoundPuncturedPolydisc
 import Development.AutomorphicArithmetic.DivisorFrames.PoincareDerivativeBound
 open Matrix Filter Topology
 open scoped ComplexOrder

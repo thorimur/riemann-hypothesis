@@ -1,6 +1,6 @@
 import Formalism.HermitianCurvature.StatementJF
-import Formalism.FormalDegreeBessel.FinalBF
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TwoByOneBlock
+import Formalism.FormalDegreeBessel.FormalDegreeRatio.BFCell
 
 open Matrix MeasureTheory Filter Topology
 

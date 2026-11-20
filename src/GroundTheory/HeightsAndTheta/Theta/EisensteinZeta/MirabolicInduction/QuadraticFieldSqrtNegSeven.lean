@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Theta.EisensteinZeta.MirabolicInduction.CfunOmStatements
+import Mathlib.Algebra.QuadraticAlgebra.Basic
+import Mathlib.Data.Rat.Star
+import Mathlib.NumberTheory.NumberField.ClassNumber
+import Mathlib.Tactic.Polynomial.Basic
 set_option maxSynthPendingDepth 1
 
 noncomputable section

@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.WeightChange
+import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.BrData
 
 noncomputable section
 

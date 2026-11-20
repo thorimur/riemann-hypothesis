@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypLiftTw
-import Formalism.SharpRestriction.GrowthBounds.ChartComparison.PStabEq
 
 noncomputable section
 

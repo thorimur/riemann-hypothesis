@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnimodularGenus.StdLatEqSpan
 import Formalism.HermitianLattices.StatementMass
 import Formalism.HermitianLattices.HermitianLatticesProofs.LocDual
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnimodularGenus.Development
 
 open NumberField
 

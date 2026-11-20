@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.JointBlockShapes.MinusPart
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockRaisingLowering.GradedOscillatorPropertyOf
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockRaisingLowering.KroneckerMapOneRightNeZero
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockRaisingLowering.BlockDiagonalPreservesDegree

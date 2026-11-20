@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TprodMemDegLE
+import Formalism.LocalRingCardinality.DataTheta
 
 noncomputable section
 

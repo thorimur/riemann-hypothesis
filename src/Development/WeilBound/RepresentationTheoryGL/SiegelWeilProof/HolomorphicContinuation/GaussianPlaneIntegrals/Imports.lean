@@ -1,4 +1,8 @@
 import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.GaussianPlaneIntegrals.IntegralMonSelf
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Topology.Algebra.MvPolynomial
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

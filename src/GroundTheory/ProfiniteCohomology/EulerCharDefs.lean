@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.ContinuousCochains
 set_option maxSynthPendingDepth 1
 

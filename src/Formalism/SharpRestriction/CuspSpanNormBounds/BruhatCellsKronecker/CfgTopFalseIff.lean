@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.OwnEvIntro
 import Formalism.HermitianCurvature.StatementSz
+import Formalism.SharpRestriction.CuspSpanNormBounds.StandingNumericalData
 
 noncomputable section
 

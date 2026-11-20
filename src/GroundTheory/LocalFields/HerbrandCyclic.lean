@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.TateCohomology.HerbrandAbstract
 import GroundTheory.GlobalFields.HerbrandQuotients.CycTate
 import GroundTheory.LocalFields.CompleteTrivial
 

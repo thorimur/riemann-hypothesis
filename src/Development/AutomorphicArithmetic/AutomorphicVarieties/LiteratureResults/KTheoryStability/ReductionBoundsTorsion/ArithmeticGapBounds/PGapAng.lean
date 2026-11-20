@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.ReductionBoundsTorsion.ArithmeticGapBounds.AeEqCosetAvgOfMemInvariantSubspace
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

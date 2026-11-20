@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StSegreSheetFormCompare
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSheetFormCompare
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSheet
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelProductIndex.Development
 
 open NumberField IsDedekindDomain Formalism.UG

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.InfinitesimalCharacterLimits.AllLeaves
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UfamConst
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SetLIntegralLeOfBound
 import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.ExponentialNegativity.BoxVolumes.ExistsMeasureLeProd

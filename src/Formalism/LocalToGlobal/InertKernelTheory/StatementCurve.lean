@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.KerStd
 import Formalism.LocalToGlobal.KernelLattices.ColumnData
 

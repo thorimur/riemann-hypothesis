@@ -1,8 +1,4 @@
-import Mathlib
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
-import Formalism.LocalRingCardinality.Params
-import Formalism.LocalRingCardinality.DataHost
 
 theorem UpperTheory.Reformulated.B.Rd4.exists_nat_smul_mem :
     ∀ {D : Formalism.BasicNotions.D7} {n : ℕ}

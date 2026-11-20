@@ -1,7 +1,8 @@
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.CoverAlg
 import Formalism.LocalToGlobal.Columns.RhoEqOfSmulEq
-import Formalism.LocalToGlobal.Columns.StdLatUnimodular
 import Formalism.LocalToGlobal.Columns.DecoFin
+import Mathlib.GroupTheory.FiniteAbelian.Basic
+import Mathlib.LinearAlgebra.Eigenspace.Semisimple
 
 noncomputable section
 

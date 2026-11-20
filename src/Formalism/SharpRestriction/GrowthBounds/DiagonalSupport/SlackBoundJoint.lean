@@ -1,4 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.SlackBoundReal
+import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.FramesOf
+import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.SPbound
+import Mathlib.Algebra.Order.Field.GeomSum
 
 noncomputable section
 

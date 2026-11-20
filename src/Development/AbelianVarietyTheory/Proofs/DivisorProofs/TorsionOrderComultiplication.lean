@@ -1,9 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsMulVal
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTorsionPrechartStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsionPrechartGroupStatement
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsionPrechartPointsSeparateStatement
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTorsionPrechartCoverStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PrechartTranslateOrderStatement
 
 set_option autoImplicit false

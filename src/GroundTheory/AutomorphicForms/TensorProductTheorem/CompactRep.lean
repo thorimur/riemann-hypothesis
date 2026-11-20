@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GKModules.GKModule
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.ScalPairs
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

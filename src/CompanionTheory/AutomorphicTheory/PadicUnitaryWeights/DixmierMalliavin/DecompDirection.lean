@@ -1,4 +1,8 @@
-import GroundTheory.AutomorphicForms.DixmierMalliavin
+import GroundTheory.AutomorphicForms.DixmierMalliavinHaar
+import GroundTheory.AutomorphicForms.DixmierMalliavinLine
+import GroundTheory.AutomorphicForms.DixmierMalliavinProducts
+import GroundTheory.AutomorphicForms.DixmierMalliavinSeries
+import GroundTheory.AutomorphicForms.HeckeAlgebra
 
 namespace CompanionTheory.DM
 

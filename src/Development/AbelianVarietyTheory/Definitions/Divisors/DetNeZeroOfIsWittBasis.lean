@@ -1,7 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsIsotropicComplGram
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnipotentFundamentalDomain
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnipotentRadicalRationalTranslate
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsSquareIntegrableIffMemL2
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPurelyImaginaryElement
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnipotentFundamentalDomain
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalUnitaryIffGroupPoints
 
 noncomputable section
 

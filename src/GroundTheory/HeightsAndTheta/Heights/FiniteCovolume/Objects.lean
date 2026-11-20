@@ -1,5 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.AdelicUnitaryGroups
+import GroundTheory.AutomorphicForms.UnitaryGroupScheme
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.LinearAlgebra.Matrix.PosDef
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

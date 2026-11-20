@@ -1,7 +1,5 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.SchwartzMoments.MulLPowApply
 import Development.WeilBound.ThetaLifts.SchwartzMoments.JetApply
-import Development.WeilBound.ThetaLifts.SchwartzMoments.DenseC
 import Development.WeilBound.ThetaLifts.LocalTheory.ArchimedeanBumps.DictIrr
 
 noncomputable section

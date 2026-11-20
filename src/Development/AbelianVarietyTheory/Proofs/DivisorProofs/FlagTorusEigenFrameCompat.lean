@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerGeoHom
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EigenFrameWeylPermutationStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EigenFrameCompositionStatement

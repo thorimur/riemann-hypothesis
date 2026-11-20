@@ -1,5 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MooreNorm
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.MetricSpace.Contracting
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open GlobalTheory.PMonE Finset
 

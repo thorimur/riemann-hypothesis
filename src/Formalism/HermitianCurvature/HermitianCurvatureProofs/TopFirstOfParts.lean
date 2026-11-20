@@ -1,12 +1,7 @@
 import Formalism.HermitianCurvature.StatementHeads
-import Formalism.HermitianCurvature.RealInputsClosedAdmissibleSettings
-import Formalism.HermitianCurvature.StatementTL
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ThetaCompactSupport
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OpApplyContinuousOn
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LiftClosedUnderOperations
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellValues
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RadJFExists
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbJConvCpt
 
 open MeasureTheory Matrix Filter Topology
 open scoped ComplexConjugate

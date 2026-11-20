@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankEqSpanGen
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.BlockBoundUniformiser
 
 noncomputable section
 

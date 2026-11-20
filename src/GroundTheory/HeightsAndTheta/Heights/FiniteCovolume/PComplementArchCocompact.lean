@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StComplementArchCocompact
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StArchCovolumeBound
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PComplementExtension

@@ -1,6 +1,3 @@
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.DiffDefs
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.LogRdSum
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.MemRam
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.RadBounds
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.NormDiffEK
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.RdLower

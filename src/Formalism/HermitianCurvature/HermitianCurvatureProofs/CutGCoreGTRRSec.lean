@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTRRotCut
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.WCellMemOmPlus
 
 open Matrix
 

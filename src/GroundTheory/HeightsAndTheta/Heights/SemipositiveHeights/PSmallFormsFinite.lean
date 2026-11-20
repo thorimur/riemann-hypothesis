@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.StSmallFormsFinite
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSectionLatticeFinite
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PRealFormsOnPoints

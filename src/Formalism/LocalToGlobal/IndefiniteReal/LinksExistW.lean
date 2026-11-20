@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.IndefiniteReal.LinksExist
 import Formalism.LocalToGlobal.IndefiniteReal.LinksW
+import Formalism.LocalToGlobal.IndefiniteReal.BridgeLemmas
 
 noncomputable section
 

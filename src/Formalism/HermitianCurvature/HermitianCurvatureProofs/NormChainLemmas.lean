@@ -1,6 +1,4 @@
-import Formalism.HermitianCurvature.StatementPN
 import Formalism.HermitianCurvature.HeisenbergConjugationMeasurePreserving
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.SecondDerivativeHolds
 import Formalism.FlagUnipotentLattices.ValuationProductBound
 import Formalism.FlagUnipotentLattices.AlgebraicIdentityHigherDegree
 import Formalism.FlagUnipotentLattices.CardSubgroupsOfIndexLe

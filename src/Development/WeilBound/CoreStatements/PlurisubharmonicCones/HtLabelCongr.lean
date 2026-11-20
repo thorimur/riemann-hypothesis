@@ -1,4 +1,3 @@
-import Development.WeilBound.CoreStatements.PlurisubharmonicCones.ProdSqrtLead
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.RootOriginComparisonSubset
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ExistsUniqueLeftBasisCoordsAdicCompletion
 

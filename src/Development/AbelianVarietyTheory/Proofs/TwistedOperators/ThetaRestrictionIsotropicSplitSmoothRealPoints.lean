@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.AdjointIsotropicDecomposition
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.EqZeroOfAeFundamentalDomain
+import Mathlib.Topology.Compactness.DeltaGeneratedSpace
 
 noncomputable section
 

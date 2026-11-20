@@ -1,4 +1,3 @@
-import Formalism.LocalRingCardinality.Lemmas
 import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLd
 
 namespace Formalism.MainNotions.J

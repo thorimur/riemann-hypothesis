@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.FiniteCocycles
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MatMapTmul
 open TensorProduct Polynomial IsLocalRing GlobalTheory.Pat
 

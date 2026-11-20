@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions.InstMulActionTup
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.Shapiro
 
 open CategoryTheory UpperTheory.V.Af.CohB in
 theorem UpperTheory.adelic_rep_bounded_of_subgroup_bounded :

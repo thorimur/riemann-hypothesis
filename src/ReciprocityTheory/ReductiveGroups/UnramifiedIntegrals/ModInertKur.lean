@@ -1,6 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModGDefs
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModGBasic
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModLocA
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModLocB
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModLocC

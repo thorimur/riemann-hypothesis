@@ -1,5 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.MfacMapDomainAdd
-import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.BlockValuationZpOfLatticeInclusion
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestRankLProved
 
 noncomputable section
 

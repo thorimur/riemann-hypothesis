@@ -1,9 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.TopShape
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.LabelDatum
-import Formalism.SharpRestriction.Divisibility.ClosedSizeLink.AdmissibleFamilyOfThreshold
-import Formalism.LocalToGlobal.TieTwRecOf
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.JoinSISel
 import Development.AutomorphicArithmetic.CharacterBoxes.DesWin
 import Development.AutomorphicArithmetic.CharacterBoxes.ZeroFreeAllOfTopG
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LinkEx

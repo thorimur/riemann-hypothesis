@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.SiegelWeilFock
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ExistsIsParamFunOne
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FockVectorFiniteUnderCompactCommutingCartan
@@ -6,6 +5,8 @@ import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledCar
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingSeesawTensorMapPolynomialFockVector
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.GramAtP
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.LowerLiftsZeroOfWittIdxEqZero
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsWeilDatumOfSplittingCharacters
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeOfIsotropicSignature
 
 noncomputable section
 namespace GlobalTheory.Core.Rk.IP.FockModel

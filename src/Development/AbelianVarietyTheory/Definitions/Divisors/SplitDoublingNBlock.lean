@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.DefGroup
+import Mathlib.RepresentationTheory.Coinduced
+import Mathlib.RepresentationTheory.Irreducible
 
 noncomputable section
 

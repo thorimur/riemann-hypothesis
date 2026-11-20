@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.HighSUnits
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.HighDivisor
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.HighDecompLadic

@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.FactorBounds
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeightedNormSquareRows
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.OrthogonalNormSquareSum
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CosetRefinement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerChainMatricesWithNormBoundsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsInvFrameOfPosDef
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FamFramedOfPos
@@ -13,7 +8,6 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PrimeWordLocalConst
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LastMapNorm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OrthNormLogBound
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodBoundLastLog
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeightsInterlaceSameShift
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LastSideLogBoundStatement
 
 open Module NumberField IsDedekindDomain Formalism.BasicNotions Formalism.MainNotions Formalism.L2.DIV Formalism.L2.Indef Formalism.L2.Col Formalism.L2.Ker GlobalTheory.IndefiniteRowSideFullHecke.PlaceLogThetaBounds GlobalTheory.ColRows

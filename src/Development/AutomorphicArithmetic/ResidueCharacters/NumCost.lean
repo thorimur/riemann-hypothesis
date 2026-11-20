@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.ResidueCharacters.NumParameters
 import Development.AutomorphicArithmetic.ResidueCharacters.NumBounds
 

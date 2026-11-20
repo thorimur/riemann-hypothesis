@@ -1,7 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCoeffRoots
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VectorValuedLiftFieldChangeStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnfoldingFrameDeltaChangeStatement
+import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ActLevAndActBC
+import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IntValuationEqOfMem
+import Formalism.LocalToGlobal.IndefiniteReal.OneMapT
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 200000

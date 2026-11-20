@@ -1,8 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.UnivChar
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.CmQuadraticFormEqAlternatingForm
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistDataAgreeAcrossCoefficients
 import Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.CoreBC
+import Formalism.SharpRestriction.Divisibility.LiftErrorLocal
 
 noncomputable section
 

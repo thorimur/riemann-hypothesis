@@ -1,7 +1,9 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GelfandTsetlinLowering.ZScalarVanish
 import Formalism.PeriodIntegrals.HwIrred
-import Formalism.PeriodIntegrals.GTBranch
-import Formalism.GradedWeylDivisibility.FinalD
+import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

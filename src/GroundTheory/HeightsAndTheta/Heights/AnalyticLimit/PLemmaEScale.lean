@@ -1,6 +1,6 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PotentialTheory.ProjectiveLineFubiniStudyFacts
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StLemmaEScale
+import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.EnergyStep
+import ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasure
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.AnalyticLimit

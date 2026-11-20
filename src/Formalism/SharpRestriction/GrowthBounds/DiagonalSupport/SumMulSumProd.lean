@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.RestValBdG
+import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.ExistsMapOfCoefGe
+import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.LowestWeightCNonpos
 
 noncomputable section
 

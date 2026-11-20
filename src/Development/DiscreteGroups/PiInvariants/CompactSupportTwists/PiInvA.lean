@@ -1,4 +1,6 @@
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ThetaCellCovers.KernelL2RowsColumns
+import Mathlib.Dynamics.Ergodic.Action.Regular
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

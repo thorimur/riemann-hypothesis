@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodComparisonOfGaussManinPeriods
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaussManinPeriodsHolds
 

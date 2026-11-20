@@ -1,6 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Degenerations.OfDerivationFnOn
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.Imports
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.RingTheory.PiTensorProduct
 open TensorProduct MvPolynomial
 noncomputable section
 namespace GlobalTheory.SS.Dil

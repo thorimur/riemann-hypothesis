@@ -1,4 +1,5 @@
 import Formalism.ThetaLogCoordinates.ProductIdealMonotone.ParamDefs
+import Mathlib.Algebra.Order.Star.Real
 
 noncomputable section
 

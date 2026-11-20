@@ -1,4 +1,3 @@
-import Formalism.ThetaLogCoordinates.FockResolutionOnto.StatementD
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.RaisingKeepsEarlyLetters
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.TypesLELeYcondC
 

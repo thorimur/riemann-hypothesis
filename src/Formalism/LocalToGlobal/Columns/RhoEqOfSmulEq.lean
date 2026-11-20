@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.ClassSumBridge
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

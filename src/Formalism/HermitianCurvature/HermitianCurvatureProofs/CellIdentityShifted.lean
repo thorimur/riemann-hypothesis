@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ThmBpAtEqOfShiftR
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BaseCutoffIsTruncation
 
 namespace Formalism.FourierDecayAlt.P.CutBPEq
 

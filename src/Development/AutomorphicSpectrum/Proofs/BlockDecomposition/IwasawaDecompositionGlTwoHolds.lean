@@ -1,5 +1,3 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.GaugeTopology.GTorus
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NewformTorusVanishing
 
 noncomputable section

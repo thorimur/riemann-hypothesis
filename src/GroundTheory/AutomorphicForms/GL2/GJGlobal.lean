@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJGlobalBound
 import GroundTheory.AutomorphicForms.GL2.GJGlobalEntire
 

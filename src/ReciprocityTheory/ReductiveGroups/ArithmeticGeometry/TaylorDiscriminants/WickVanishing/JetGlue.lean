@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.JetGlue
+import Mathlib.AlgebraicGeometry.Stalk
 
 set_option autoImplicit false
 

@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.WhittakerOrbit
 import Development.AutomorphicArithmetic.Foundations.Convolution.TwistedLocalOrbits.HoweSpace
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NonemptyEquivMultiProdOne
+import GroundTheory.AutomorphicForms.LocallyConstantCompact
 
 noncomputable section
 

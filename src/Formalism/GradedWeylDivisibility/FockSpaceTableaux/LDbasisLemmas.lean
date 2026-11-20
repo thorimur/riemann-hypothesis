@@ -1,4 +1,7 @@
 import Formalism.GradedWeylDivisibility.StatementD
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MvPolynomial
 

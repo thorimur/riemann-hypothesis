@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.ValuationEqSelfOfUnitGerm
+import Formalism.LocalToGlobal.CharacterGerms.GermLiftSelfSt
 
 noncomputable section
 

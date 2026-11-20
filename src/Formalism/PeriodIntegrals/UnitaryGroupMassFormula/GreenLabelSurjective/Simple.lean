@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.PadicSubsetSums.CentralIdempotents.IsConstituent
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.RepresentationTheory.Coinduced
+import Mathlib.RepresentationTheory.FinGroupCharZero
 
 open CategoryTheory Formalism.IrreducibleCountingLemmas.TYPES
 

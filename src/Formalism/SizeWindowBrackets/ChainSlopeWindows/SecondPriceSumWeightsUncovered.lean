@@ -1,7 +1,7 @@
 import Formalism.SizeWindowBrackets.TranslateWordBoundHypotheses
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.LevelOfCongruence
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.SubThreeMulLogTwoLe
-import Formalism.LogVandermondeBounds.HookGammaAmgmMultinomialBounds
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
 
 open Real
 

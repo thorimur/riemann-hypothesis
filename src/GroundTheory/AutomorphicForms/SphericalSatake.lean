@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.SphericalPrincipal
 import GroundTheory.AutomorphicForms.SphericalLaurent
 

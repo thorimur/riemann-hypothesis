@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FullToGlIsSelfAdjoint
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open GlobalTheory.JR Matrix MeasureTheory Filter Topology
 

@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CIndAll
-import Formalism.LocalToGlobal.ProjectiveLattices.DatIndep
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CIndSt
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 set_option autoImplicit false
 

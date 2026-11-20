@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.ArakelovSingularities.MetricLoc
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.ArakelovSingularities.MetricPart
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NontrivialIsomClassInt

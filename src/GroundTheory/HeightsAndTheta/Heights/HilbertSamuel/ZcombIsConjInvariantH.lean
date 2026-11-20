@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsArith
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsKodairaSection
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSectionProduct
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsPerturbSemipos

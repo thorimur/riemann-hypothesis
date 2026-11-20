@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.IrreducibleSpans.Burnside
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IrrIffSpan
 
 open Polynomial Matrix

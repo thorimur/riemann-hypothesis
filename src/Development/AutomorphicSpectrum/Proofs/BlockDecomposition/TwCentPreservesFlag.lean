@@ -1,5 +1,5 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.QuotientVanishing.QuotVanish
+import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IsotropicMahlerBounds.VeryCuspZero
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
 
 open Matrix PositivityTheory.Rg.BcB PositivityTheory.Rg.Tf.Loc
 

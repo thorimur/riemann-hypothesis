@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.OnePlaceEstimates
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.NGData
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.RealObj
 
 noncomputable section
 

@@ -1,10 +1,11 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.HeckeRatioExpansion
 import GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.IntSeriesRing
 import GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.IntSeriesInv
 import GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.DeltaIntSeries
 import GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.IntSeriesNorm
 import GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.HeckeRatioHolo
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.ChowlaSelberg

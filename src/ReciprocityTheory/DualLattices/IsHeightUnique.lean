@@ -1,4 +1,3 @@
-import ReciprocityTheory.DualLattices.HtLinStatement
 import ReciprocityTheory.DualLattices.HeightFunctionalStatementOfPairingProperties
 
 noncomputable section

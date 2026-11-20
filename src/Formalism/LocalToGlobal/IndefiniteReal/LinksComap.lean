@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.IndefiniteReal.ZeroPartEigenvalueConvention
-import Formalism.LocalToGlobal.Divisibility.HeckeCSDICommTrRep
 import Formalism.LocalToGlobal.Divisibility.ColumnFamilyPlaceCharacterComap
 
 noncomputable section

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.ShaDescent
 import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.CoprimeTwist
 import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.AdditiveInvariants

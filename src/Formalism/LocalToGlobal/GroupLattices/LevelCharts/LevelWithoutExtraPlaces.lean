@@ -1,7 +1,6 @@
 import Formalism.LocalToGlobal.GroupLattices.LevelCharts.LevelsOfChChartsCover
 import Formalism.LocalToGlobal.GroupLattices.LevelCharts.LamHLocPrinc
 import Formalism.LocalToGlobal.GroupLattices.CloudFilling.CloudBound
-import Formalism.LocalToGlobal.HermitianColumns.HermCols
 import Formalism.LocalToGlobal.HermitianColumns.TiedQC
 
 noncomputable section

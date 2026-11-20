@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.WindowSums.Statement
 
 noncomputable section

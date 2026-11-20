@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SatakeDualWeyl.Statement
 set_option autoImplicit false
 noncomputable section

@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.PlaceBelow
+import Mathlib.NumberTheory.RamificationInertia.Basic
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
 
 open NumberField IsDedekindDomain Formalism.L2.Pj
 

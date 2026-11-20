@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.StatementB
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 open Matrix MeasureTheory Filter Topology
 open scoped ComplexConjugate ENNReal

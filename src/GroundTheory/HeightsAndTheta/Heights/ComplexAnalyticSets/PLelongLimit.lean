@@ -1,9 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimit
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimitOffZero
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimitOnZero
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StVarIntAdd
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.LocalLimitGlue
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Topology.Algebra.MvPolynomial
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

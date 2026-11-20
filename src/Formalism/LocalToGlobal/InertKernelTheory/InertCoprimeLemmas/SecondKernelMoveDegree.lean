@@ -1,7 +1,5 @@
 import Formalism.LocalToGlobal.InertKernelTheory.SubBSplit
-import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.K2Hermitian
-import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.InvarianceIffAdditiveMapsExist
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NatActRVtupR
+import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.QuadraticBaseChangeGL3
 
 noncomputable section
 

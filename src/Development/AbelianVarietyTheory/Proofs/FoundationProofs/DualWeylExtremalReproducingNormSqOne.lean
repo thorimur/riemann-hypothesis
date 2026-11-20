@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsUnitaryMulTriangular
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.DualWeylEqEvalAtOneSmulExtremalOfRowWeight
 
 open GlobalTheory.DualWeyl MvPolynomial NumberField MeasureTheory

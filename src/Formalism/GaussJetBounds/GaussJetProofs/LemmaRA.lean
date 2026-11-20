@@ -1,5 +1,6 @@
 import Formalism.GaussJetBounds.OneLetterRadius
 import Formalism.GaussJetBounds.StatementG
+import Formalism.GaussJetBounds.GaussJetProofs.PureCrossTermWeight
 
 noncomputable section
 open scoped BigOperators

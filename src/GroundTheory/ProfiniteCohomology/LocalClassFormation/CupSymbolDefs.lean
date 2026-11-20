@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolBridge
 import GroundTheory.ProfiniteCohomology.LocalClassFormationAlt
 set_option maxSynthPendingDepth 1

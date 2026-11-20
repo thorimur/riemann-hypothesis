@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUniformizerSeparableReduction
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.TensorProductAction
 open scoped TensorProduct nonZeroDivisors
 open Polynomial
 set_option maxHeartbeats 1000000 in

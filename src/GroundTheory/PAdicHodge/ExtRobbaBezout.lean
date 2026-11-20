@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.PAdicHodge.ConvergesAtOfNormLeSeq
 import GroundTheory.PAdicHodge.BoundOfEventuallyAntitone
-import GroundTheory.PAdicHodge.ExtRobba
 set_option maxSynthPendingDepth 1
 
 noncomputable section

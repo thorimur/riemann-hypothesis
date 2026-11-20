@@ -1,5 +1,7 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.KFiniteVectors.KFinOfMem
 import Development.WeilBound.ThetaLifts.LatticeBasics.ExistsIsGauss
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilRepresentationPreservesSchwartz
+import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.AuxiliaryPrimeFunction
+import Development.WeilBound.ThetaLifts.LatticeBasics.BoxFinB
 
 noncomputable section
 

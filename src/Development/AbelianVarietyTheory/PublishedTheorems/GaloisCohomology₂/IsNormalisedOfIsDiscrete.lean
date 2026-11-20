@@ -1,9 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.BaseChangeDefiniteUnitary
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsUnitaryOfCharIff
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NonemptyEquivMultiProdOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaloisOfPolarized
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.EquivOfISupRange
 
 noncomputable section
 

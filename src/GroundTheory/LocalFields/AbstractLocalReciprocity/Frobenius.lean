@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.LocalFields.AbstractLocalReciprocity.ExistsEqNsmulOfProjEqZero
 import GroundTheory.LocalFields.AbstractLocalReciprocity.Valuation
+import Mathlib.Topology.Algebra.ClopenNhdofOne
 
 namespace GroundTheory.LocalField.Abstract
 

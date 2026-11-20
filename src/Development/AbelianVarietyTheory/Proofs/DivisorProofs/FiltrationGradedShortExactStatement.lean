@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiltrationGradedShortExact
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsFrameCokernelP
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalSection
-import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.RestrictPullbackIsoHomAppPullbackSections
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry
 open GlobalTheory GlobalTheory.VB GlobalTheory.LieFilt GlobalTheory.GrFilt
 open GlobalTheory.Twist (resM)

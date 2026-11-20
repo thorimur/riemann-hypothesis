@@ -1,5 +1,5 @@
-import Development.AutomorphicArithmetic.DedekindLFunctions.LandauZeroFreeCriterion
 import Development.AutomorphicArithmetic.DedekindLFunctions.LandauTheorems.LFunctionConj
+import Development.AutomorphicArithmetic.DedekindLFunctions.CharFamily
 
 open Complex MeasureTheory Set Filter Topology
 

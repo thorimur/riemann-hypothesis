@@ -1,4 +1,6 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.AdFormOf
+import Mathlib.Analysis.Complex.UpperHalfPlane.Measure
+import Mathlib.NumberTheory.Modular
 
 noncomputable section
 

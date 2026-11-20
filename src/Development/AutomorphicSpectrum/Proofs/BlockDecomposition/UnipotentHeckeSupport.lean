@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.IntegralUnitBaseChange.Development
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SecondCountableT2LocalField
 

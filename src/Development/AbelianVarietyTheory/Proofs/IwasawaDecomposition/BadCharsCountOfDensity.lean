@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.GL3MeanSquares.PrimeCountAsymptoticInProgressions
-import Development.AbelianVarietyTheory.Definitions.Foundations.RayPrimes
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.Jutila
+import Formalism.GL3MeanSquares.SmoothedRemainderRealIntegralFormula
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace GlobalTheory.FewBadChars
 

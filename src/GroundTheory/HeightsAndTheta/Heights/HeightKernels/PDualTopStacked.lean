@@ -1,10 +1,12 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualTopStacked
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualTopBasisChange
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualStackedDegree
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualTopSimpleSub
 import GroundTheory.PowerSubgroups.CountableNeighbourhoods.ExistsCover
 import GroundTheory.PowerSubgroups.CountableNeighbourhoods.ExistsSmulMemHermitianLattice
+import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualEmbBijective
+import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLatticeBasisExists
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

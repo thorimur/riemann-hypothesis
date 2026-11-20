@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LogVandermondeBounds.LogRatioUpperBound
 import Formalism.HermitianLattices.StatementMass
 

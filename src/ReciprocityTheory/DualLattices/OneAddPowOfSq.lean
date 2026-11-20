@@ -1,4 +1,6 @@
 import ReciprocityTheory.DualLattices.NsetExpInjectiveSurjective
+import Mathlib.Algebra.Module.StablyFree.Basic
+import ReciprocityTheory.DualLattices.SeriesState
 
 noncomputable section
 

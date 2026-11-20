@@ -1,6 +1,7 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.IntegralUnitBaseChange.Development
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedExtensionIntegralBasis
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PicardGroup
 
 open Matrix PositivityTheory.Rg.Tf.Loc
 

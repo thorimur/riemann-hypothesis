@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CohomologyFunctoriality
 set_option maxSynthPendingDepth 1
 

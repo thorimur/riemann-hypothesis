@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ArchimedeanWhittaker.HasDerivAtCompLog
+import GroundTheory.AutomorphicForms.ArchimedeanWhittaker.Density
+import GroundTheory.AutomorphicForms.ArchimedeanWhittaker.MultOne
 
 namespace GroundTheory.Automorphic.ArchWhittaker
 

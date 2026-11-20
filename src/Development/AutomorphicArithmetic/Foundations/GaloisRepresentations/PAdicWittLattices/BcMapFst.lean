@@ -1,8 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IdTower
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.OmegaPullOmegaTraceOfSecTraceOne
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.OmegaPullId
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.HodgePullHodgePull
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsCorrOpOfAvg
+import Mathlib.GroupTheory.DoubleCoset
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.LinCombTrivG
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC GlobalTheory.GalV GlobalTheory.HodgeCoh

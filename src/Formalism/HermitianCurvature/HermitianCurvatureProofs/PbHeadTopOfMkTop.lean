@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEXAsm
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEXHeadFam
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEXMkCpt
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEXPbEquiv2
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEXPbRight2
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEXPbSmooth
@@ -14,6 +13,7 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.HeadGermSmoothExten
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FirstBasisVectorIsRadialSlice
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FrameParameterRegularity
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PbHeadTopOf
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEXp
 
 namespace Formalism.FourierDecayAlt.P
 

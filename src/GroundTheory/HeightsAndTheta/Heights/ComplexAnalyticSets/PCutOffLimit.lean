@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCutOffLimit
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StChartMassCompact
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCutOffDominated

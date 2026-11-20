@@ -1,6 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.Statements
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.VandermondeOfEqDet
+import Mathlib.Data.Fin.Tuple.Sort
+import Mathlib.Data.Rat.Star
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.RestTerms.Comb

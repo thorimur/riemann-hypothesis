@@ -1,5 +1,7 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.ComplexLatticeClosure.LatticeAreaPositivity.CmSignEqOneOrNegOne
 import Formalism.LocalToGlobal.TorsionIntegrality.ComplexLatticeClosure.LatticeAreaPositivity.BottomNotUniqueHolds
+import Formalism.LocalToGlobal.TorsionIntegrality.ComplexLatticeClosure.LatticeAreaPositivity.DensityIntegrableFundDomain
+import Formalism.LocalToGlobal.TorsionIntegrality.ComplexLatticeClosure.LatticeAreaPositivity.TwoTorsionOffKernelsExists
 
 namespace Formalism.L2.Th1.F2
 

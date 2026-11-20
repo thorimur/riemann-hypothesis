@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSectionLatticeFinite
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSectionSpanStep
+import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSectionRing
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

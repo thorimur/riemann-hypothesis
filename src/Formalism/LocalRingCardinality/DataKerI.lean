@@ -1,6 +1,7 @@
 import Formalism.LocalRingCardinality.DataKerP
 import Formalism.LocalRingCardinality.DataDIVDefs
 import Formalism.LocalRingCardinality.DataForced
+import Mathlib.Combinatorics.Young.YoungDiagram
 
 open Formalism.MainNotions.G NumberField
 

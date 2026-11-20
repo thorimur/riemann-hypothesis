@@ -1,9 +1,5 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SymSum
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SandId
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SatAvg
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.ThPMul
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.GapDom
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.VandSum
 
 open MeasureTheory GroundTheory.Automorphic GroundTheory.Automorphic.Spherical GroundTheory.Automorphic.GLnLocal GroundTheory.Automorphic.Iwasawa UpperTheory.ConvolutionTheory.H
 

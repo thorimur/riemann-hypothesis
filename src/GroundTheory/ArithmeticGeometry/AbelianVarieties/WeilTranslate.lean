@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisorsPullback
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.KernelCard
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisionPoints
 
 namespace GroundTheory.Arith.Abelian
 

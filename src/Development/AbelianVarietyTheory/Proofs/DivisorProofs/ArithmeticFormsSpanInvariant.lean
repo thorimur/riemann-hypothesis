@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ComplexificationBaseChangeLinearOneTmul
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsNeZeroSmulMemSpan
+import Formalism.HarderNarasimhan.StatementPl
+import Formalism.LocalToGlobal.IndefiniteReal.GramCEqTranspose
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 open NumberField
 
 namespace GlobalTheory.IntFormsRank

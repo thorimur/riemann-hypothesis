@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.PageOKRun
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.XLeOfSqLeFMulR
+import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.FourthHypothesisOfParams
 
 set_option autoImplicit false
 

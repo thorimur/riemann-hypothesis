@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.GenericGermInjectivity.CoverGeneric
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermDifferentialFormPullbackDominantStatement
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.SchemeCechComparisonNaturalRefinementStatement

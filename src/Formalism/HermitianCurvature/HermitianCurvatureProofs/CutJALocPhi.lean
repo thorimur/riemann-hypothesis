@@ -1,7 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJALocCC
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAGCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAPhi
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.SlicesFiniteRegularityBuilt
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 open scoped ContDiff

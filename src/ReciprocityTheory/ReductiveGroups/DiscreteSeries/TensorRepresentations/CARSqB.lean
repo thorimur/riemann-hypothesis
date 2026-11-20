@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.CARSqA
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

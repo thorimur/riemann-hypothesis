@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TZero
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Finset GlobalTheory.CompanionTheory.CoefId
 

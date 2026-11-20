@@ -1,8 +1,4 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.InflationRestriction.Higher
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolReal
-import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolNorm
-import GroundTheory.TateCohomology.Characters
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

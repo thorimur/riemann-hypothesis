@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.ParamsHeightRankConstant
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
-import Formalism.LocalRingCardinality.DataParams
 
 noncomputable section
 

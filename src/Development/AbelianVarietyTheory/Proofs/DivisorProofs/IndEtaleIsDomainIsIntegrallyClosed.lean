@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtaleLocalizationAtPrimeIsDomainIsIntegrallyClos
+import Std.Tactic.BVDecide.Normalize.Prop
 open IsLocalRing
 
 namespace GlobalTheory

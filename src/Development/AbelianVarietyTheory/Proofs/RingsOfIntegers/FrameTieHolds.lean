@@ -1,8 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation.AdaptStd
 import Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.RigidificationAtOriginIffPullback
 import Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.RigidificationAtOriginBaseChange
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDPf
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.GermExCut
 
 set_option autoImplicit false
 

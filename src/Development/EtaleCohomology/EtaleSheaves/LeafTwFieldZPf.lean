@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafTwSecKillCut
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

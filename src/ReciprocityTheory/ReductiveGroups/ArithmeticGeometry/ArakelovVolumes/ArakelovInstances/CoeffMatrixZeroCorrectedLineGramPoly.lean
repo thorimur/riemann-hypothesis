@@ -1,5 +1,5 @@
-import ReciprocityTheory.AnalyticForms.LeviForms.HomDens
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
+import ReciprocityTheory.AnalyticForms.LeviForms.HomDensB
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option autoImplicit false
 

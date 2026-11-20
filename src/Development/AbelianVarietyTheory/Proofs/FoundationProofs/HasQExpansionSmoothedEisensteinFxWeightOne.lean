@@ -1,9 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.Integral
-import Development.AbelianVarietyTheory.Definitions.Foundations.CthFac
 import Development.AbelianVarietyTheory.Definitions.Foundations.MultipliableAndSgNeZero
-import Development.AbelianVarietyTheory.Definitions.Divisors.HasQIff
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasQExpansionOfLevelLinearOperations
+import Mathlib.Data.Int.Star
 
 noncomputable section
 

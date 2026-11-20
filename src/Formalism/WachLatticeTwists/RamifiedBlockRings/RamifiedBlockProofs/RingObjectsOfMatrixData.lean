@@ -1,4 +1,7 @@
 import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.FinrankRangeEq
+import Formalism.CharacterColumnKernels.IdempotentNormalForms.IsUnitDetOfConst
+import Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.BridgeDet
+import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.RankDiagIte
 
 open Finset Classical
 

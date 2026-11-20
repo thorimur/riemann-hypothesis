@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.PairedCharacterCondition
-import Formalism.PadicSubsetSums.CentralIdempotents.GaloisConjCentralIdempotent
 import Formalism.PadicSubsetSums.CentralIdempotents.HCDisjointO
 
 noncomputable section

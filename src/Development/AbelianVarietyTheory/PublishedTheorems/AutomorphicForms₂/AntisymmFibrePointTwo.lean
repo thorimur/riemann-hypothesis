@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.InterPolyProdSum
+import Mathlib.Algebra.MvPolynomial.Coeff
 
 set_option autoImplicit false
 

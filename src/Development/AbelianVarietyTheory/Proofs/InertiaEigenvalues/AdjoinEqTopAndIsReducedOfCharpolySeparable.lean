@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CharacterTheory.EqZeroOfNotPrimary
+import Mathlib.RingTheory.Artinian.Instances
 
 open Polynomial
 

@@ -1,9 +1,6 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.InflationRestriction.DegreeOne
-import GroundTheory.ProfiniteCohomology.Procyclic
-import GroundTheory.ProfiniteCohomology.CupProducts.Functoriality
-import GroundTheory.ProfiniteCohomology.CupProducts.Pairing
 import GroundTheory.LocalFields.WildInertia
+import GroundTheory.ProfiniteCohomology.CohomologyFunctoriality
+import GroundTheory.ProfiniteCohomology.ProcyclicDefs
 set_option maxSynthPendingDepth 1
 
 noncomputable section

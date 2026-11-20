@@ -1,5 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.IsIntersectionFamily
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.PenVol
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

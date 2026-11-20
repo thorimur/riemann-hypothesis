@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.LtSeries
+import Formalism.LocalRingCardinality.AdicCompletionLocal.LocTied
 
 noncomputable section
 

@@ -1,13 +1,9 @@
-import Mathlib
-import Formalism.UnipotentAdelicQuotients.SiegelWeilUnitaryConvergent
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.AllRows
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.LoopRowOfFiniteDim
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.OffK0Closed
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.RanksFramesOfSiegelWeil
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.RowsFinDimLink
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.RowPositivityOfSiegelWeil
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.UnitaryHyperplaneVolumeRatioSiegelWeil
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SwxsOfSiegelWeil
 open Formalism.BasicNotions Formalism.MainNotions GlobalTheory.EX GlobalTheory.EX.OB GlobalTheory.Mem GlobalTheory.Mem.Top GlobalTheory.Fc GlobalTheory.Cp
 
 namespace GlobalTheory.LocalRows

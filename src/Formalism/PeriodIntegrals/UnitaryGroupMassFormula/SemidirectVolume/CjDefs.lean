@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.VolSemiDirect
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ClosedStep
+import Formalism.LocalToGlobal.SiegelLatticeTheory.FundamentalEquivalence.LevelIntersectParabolic
 
 noncomputable section
 

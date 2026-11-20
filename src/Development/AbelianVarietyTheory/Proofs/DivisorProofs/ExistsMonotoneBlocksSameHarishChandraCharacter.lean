@@ -1,8 +1,5 @@
-import Mathlib
-import Formalism.PadicSubsetSums.CentralIdempotents.GaloisConjCentralIdempotent
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.CuspidalProductMultiplicity
-import Formalism.LocalToGlobal.NormalizedHeckeFactors.CoeffZeroNeOfMonicIrr
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HasLabelTransportEquiv
+import Mathlib.Data.Fin.Tuple.Sort
 open CategoryTheory Polynomial Formalism.IrreducibleCountingLemmas.TYPES
 
 noncomputable section

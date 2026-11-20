@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.DiscreteSeriesCharacterSUTrivialTwo
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.IsGlobalCharDetPow
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.HarishChandraPermute
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.HarishChandraParameterDescent

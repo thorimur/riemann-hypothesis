@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.NormOneUnitIdealAlt
+import Formalism.LocalToGlobal.KernelLattices.ColumnData.DetIdealsKernelNormOne
 
 noncomputable section
 open NumberField Formalism.BasicNotions Classical

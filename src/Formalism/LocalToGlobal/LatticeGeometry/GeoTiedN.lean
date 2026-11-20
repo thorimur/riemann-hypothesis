@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.LatticeGeometry.GeoTied
+import Formalism.LocalToGlobal.LatticeGeometry.LevPrPrime
+import Formalism.LocalToGlobal.LatticeGeometry.ShimuraSheafOfIndefiniteSubspace
 
 noncomputable section
 

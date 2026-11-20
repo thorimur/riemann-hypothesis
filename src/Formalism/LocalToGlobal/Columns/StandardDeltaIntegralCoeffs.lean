@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.SummandSlopeOfThreeLemmas
-import Formalism.LocalToGlobal.Columns.MaxSlopeOrthogonalNegLog
+import Formalism.LocalToGlobal.Divisibility.CoefModLemmas
 
 open NumberField IsDedekindDomain Module MvPolynomial
 open scoped Matrix ComplexOrder

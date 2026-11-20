@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.ClopenCondOnto
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

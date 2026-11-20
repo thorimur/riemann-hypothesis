@@ -1,4 +1,3 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.DzTwFin
 import Development.DiscreteGroups.GlobalIrreducibility.DzTwChar
 

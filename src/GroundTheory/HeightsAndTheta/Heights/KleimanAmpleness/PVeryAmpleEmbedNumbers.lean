@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.VeryAmpleEmbedNumbersSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PVeryAmpleDim
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PVeryAmpleDegree

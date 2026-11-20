@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.QuadraticExtensions.ModulusAdjoinISqrtNegPrimes
 import Development.AutomorphicArithmetic.AutomorphicVarieties.QuadraticExtensions.TameGen
 import Development.AutomorphicArithmetic.AutomorphicVarieties.QuadraticExtensions.IneConj
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.HodgeTatePoints.RaCarry
 
 open scoped Matrix TensorProduct

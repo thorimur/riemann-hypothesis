@@ -1,6 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.RegularizedMaxC2ExampleRealLine
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Convergence
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.ConvergenceRate
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.EnergyStep
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.EnergySum
@@ -10,15 +7,11 @@ import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.TendstoLocallyUniforml
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PDivisorNull
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGluedLocal
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassZero
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PKaehlerBound
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.LinearWeights
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Pullback
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.SystemIndependence
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.TailBound
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Telescoping
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.UniformIntegrability
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.AgreementOnBase
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PPushDown
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.AnalyticLimit

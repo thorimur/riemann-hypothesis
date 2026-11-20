@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RightTranslationIntertwinesLie
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemNilRad
 open Matrix GlobalTheory.TorFin
 open scoped ContDiff
 

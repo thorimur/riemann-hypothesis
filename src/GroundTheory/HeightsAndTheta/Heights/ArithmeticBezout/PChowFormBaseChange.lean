@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Characterised
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsBaseChange
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.LowerBoundConditional

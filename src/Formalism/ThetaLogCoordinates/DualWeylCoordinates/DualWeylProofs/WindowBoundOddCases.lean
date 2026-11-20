@@ -1,4 +1,5 @@
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.QbBasisApply
+import Formalism.ThetaLogCoordinates.DualWeylCoordinates.StatementB
 
 noncomputable section
 

@@ -1,7 +1,7 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.DeterminantGeneric
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CapelliTwoByTwo
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.QRadialDecompositionOfPieces
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnTPres
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.RightTypeAction
 
 namespace Formalism.FourierDecayAlt.P
 

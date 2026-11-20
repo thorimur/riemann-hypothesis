@@ -1,13 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsFlagModelHermSum
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EqOfIsometricTrivShift
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharZeroResidueFieldGenericPoint
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFlagCh2Indep
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagBcFiniteOfIso
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteExceptional
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NonemptyFlagModel
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIsometryPullIdComp
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsFlagCh2
 
 set_option autoImplicit false
 

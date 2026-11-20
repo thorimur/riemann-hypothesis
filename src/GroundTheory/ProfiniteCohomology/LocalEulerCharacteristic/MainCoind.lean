@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.EulerChar
-import GroundTheory.ProfiniteCohomology.Shapiro
-import GroundTheory.ProfiniteCohomology.ContinuousCochains.LongExactSequence
+import Mathlib.Tactic.Monotonicity.Lemmas
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

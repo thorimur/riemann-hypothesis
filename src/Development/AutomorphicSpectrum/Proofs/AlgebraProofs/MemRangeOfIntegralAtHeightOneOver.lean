@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.ToricVarieties.KrullDomain
 
 namespace GlobalTheory.CompanionTheory.Ar.Flat

@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.FiniteIndexOfGammaLe
 import ReciprocityTheory.DualLattices.HasSumNormalizedDeriv
+import Mathlib.NumberTheory.ModularForms.LevelOne.DimensionFormula
+import Mathlib.RingTheory.PiTensorProduct
 
 open UpperHalfPlane hiding I
 open Complex ModularForm ModularFormClass MatrixGroups Function Filter EisensteinSeries

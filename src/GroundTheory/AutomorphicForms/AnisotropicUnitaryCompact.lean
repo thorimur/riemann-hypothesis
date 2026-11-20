@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.AnisotropicUnitaryHeight
 set_option maxSynthPendingDepth 1
 

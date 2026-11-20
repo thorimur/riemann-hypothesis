@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.CMDeterminantIdeals.CMIdealValuations.AbsNormEqRelIndexMul
 open NumberField
 

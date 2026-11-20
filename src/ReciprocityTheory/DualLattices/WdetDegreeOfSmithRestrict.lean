@@ -2,6 +2,10 @@ import ReciprocityTheory.DualLattices.EigenQuotientSmithStatement
 import ReciprocityTheory.DualLattices.PowMemCarrier
 import ReciprocityTheory.DualLattices.SumValCoord
 import ReciprocityTheory.DualLattices.VDetEqOneOfIntegral
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
+import ReciprocityTheory.DualLattices.RestrictedHopfOrderApproximationStatement
 
 noncomputable section
 

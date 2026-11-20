@@ -1,4 +1,12 @@
 import ReciprocityTheory.SemistableReduction.SphereLogIntegrableStatement
+import Mathlib.Analysis.Polynomial.MahlerMeasure
+import Mathlib.MeasureTheory.Measure.RegularityCompacts
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.UniformSpace.Uniformizable
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

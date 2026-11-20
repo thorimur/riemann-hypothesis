@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.SumNormAddSqLeOfBounds
 open Finset
 open scoped InnerProductSpace

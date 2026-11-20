@@ -1,8 +1,6 @@
-import Mathlib
-import GroundTheory.GlobalFields.Artin.Induction
-import GroundTheory.GlobalFields.Artin.OneDimL
-import GroundTheory.GlobalFields.AnalyticClassNumber.HeckeContinued
-import GroundTheory.LocalFields.BrauerInduction
+import GroundTheory.GlobalFields.Artin.PlacesGalois
+import GroundTheory.GlobalFields.Artin.Series
+import Mathlib.Analysis.Meromorphic.NormalForm
 set_option maxSynthPendingDepth 1
 
 noncomputable section

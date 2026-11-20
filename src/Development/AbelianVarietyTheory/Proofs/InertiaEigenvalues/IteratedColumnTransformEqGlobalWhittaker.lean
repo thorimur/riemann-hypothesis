@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnipotentBlockColumnIndex
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsRapidInf
-import GroundTheory.GlobalFields.TateThesis.AdelicChar
 open NumberField Matrix GlobalTheory.CuspRep
 
 noncomputable section

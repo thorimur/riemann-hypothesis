@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogAbsEEqZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedLocalLatticeThetaStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnipotentThetaPeriodStatement
 open scoped TensorProduct NNReal Matrix

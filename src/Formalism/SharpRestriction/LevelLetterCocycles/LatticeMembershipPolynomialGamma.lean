@@ -1,8 +1,6 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.ArcCoordinatesOfFrame
 import Formalism.SharpRestriction.LevelLetterCocycles.PsCoprimeOf
-import Formalism.SharpRestriction.LevelLetterCocycles.AnnihilatorGeneralOfRingCondition
-import Formalism.SharpRestriction.LevelLetterCocycles.SecondComparisonInCoordinates
+import Mathlib.Order.Interval.Finset.Box
 
 noncomputable section
 

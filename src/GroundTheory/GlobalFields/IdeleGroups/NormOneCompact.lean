@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.UnitBound
 import GroundTheory.GlobalFields.IdeleGroups.ClassGroup
+import Mathlib.Algebra.Order.Positive.Field
+import Mathlib.NumberTheory.NumberField.ClassNumber
 
 namespace GroundTheory.Global
 

@@ -1,7 +1,4 @@
-import Formalism.LocalRingCardinality.DataParams₂
 import Formalism.SharpRestriction.ParConsts
-import Formalism.SharpRestriction.ElevenLe
-import Formalism.SharpRestriction.GrowthBounds.IsResidueClassZero
 
 noncomputable section
 

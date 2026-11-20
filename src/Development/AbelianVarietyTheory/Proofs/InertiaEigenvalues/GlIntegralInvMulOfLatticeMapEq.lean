@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.IsIntOv
 
 namespace GlobalTheory.SplitHecke

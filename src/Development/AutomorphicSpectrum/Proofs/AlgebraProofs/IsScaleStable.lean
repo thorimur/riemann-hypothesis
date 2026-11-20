@@ -1,12 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.Assembly
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Assembly
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeAreaFormula
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeTangentAverage
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeFibreAverage
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PMahlerSection
-import GroundTheory.HeightsAndTheta.Heights.LocalFiniteness.ObjectsChowIntChowFormExists
-import GroundTheory.HeightsAndTheta.Heights.LocalFiniteness.TargetsProjRegularDens
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeTangentAverage
 
 set_option maxSynthPendingDepth 1
 

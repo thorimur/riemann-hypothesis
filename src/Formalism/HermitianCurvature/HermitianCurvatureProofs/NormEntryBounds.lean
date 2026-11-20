@@ -1,5 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.EntryMinorBounds
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ZhatSectionExists
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.LowerParabolicCoordinates
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
 
 open Matrix Formalism.FourierDecayAlt Formalism.QuantumDeterminants
 open scoped ComplexConjugate

@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.HDiscAA
+import ReciprocityTheory.SemistableReduction.AlgAll
 
 namespace ReciprocityTheory.ChartRestriction.G.T0
 

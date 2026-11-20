@@ -1,4 +1,7 @@
 import Formalism.FormalDegreeBessel.FormalDegreeRatio.GBasic
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Matrix Formalism.QuantumDeterminants Formalism.QuantumDeterminants.GBasic
 

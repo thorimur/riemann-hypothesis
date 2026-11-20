@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataErr
+import Mathlib.Combinatorics.Young.YoungDiagram
+import Mathlib.RingTheory.PowerSeries.Exp
 
 noncomputable section
 

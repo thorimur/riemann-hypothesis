@@ -1,5 +1,7 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.CasValK
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirAlgebra.MulMulSubMulMulEqAdd
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

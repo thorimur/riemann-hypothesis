@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.AbsoluteSiegel
 import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.InhabSt
 import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountSt

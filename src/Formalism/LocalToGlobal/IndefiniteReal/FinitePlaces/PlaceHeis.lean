@@ -1,6 +1,4 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.CharLem
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.SmulFinsum
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.PlaceS
 
 noncomputable section
 

@@ -1,9 +1,8 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PotentialTheory.ProjectiveLineFubiniStudyFacts
 import ReciprocityTheory.AnalyticForms.PotentialTheory.HessCEqZeroOfEventuallyEqZero
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.UIObjects
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PKaehlerBound
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassReplaceLevi
+import ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasureA
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.AnalyticLimit

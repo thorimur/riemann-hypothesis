@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.ExpRules
+import Formalism.SharpRestriction.LevelLetterCocycles.LatticeBoundsOfThreeParts
 
 noncomputable section
 

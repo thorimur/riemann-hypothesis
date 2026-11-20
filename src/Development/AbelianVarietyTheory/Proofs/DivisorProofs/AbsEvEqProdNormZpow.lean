@@ -1,7 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ValAtOfUnder
 import GroundTheory.GlobalFields.SemilocalAlgebras.NormTrace
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IntValuationNormEqSumResidueDegreeMul
+import Development.AbelianVarietyTheory.Definitions.Foundations.T2SpaceTensorProductFiniteExtension
+import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsFinitePlaceIdempotentBaseChangeAdeles
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.UnitOpenAndCongrOpen
 
 noncomputable section
 

@@ -1,8 +1,8 @@
-import Development.WeilBound.ThetaLifts.LeviDeterminants.WeilRepresentationPointwiseArchimedeanDecayBound
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.SplitStab
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.IsLatRepL
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.ThetaBasicK
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SchwartzDecayUniform
+import Development.WeilBound.ThetaLifts.LeviDeterminants.GrowFin
+import Development.WeilBound.ThetaLifts.LeviDeterminants.GrowHt
+import Development.WeilBound.ThetaLifts.LeviDeterminants.GrowSob
+import Development.WeilBound.ThetaLifts.LeviDeterminants.GrowTr
 
 set_option synthInstance.maxHeartbeats 200000
 

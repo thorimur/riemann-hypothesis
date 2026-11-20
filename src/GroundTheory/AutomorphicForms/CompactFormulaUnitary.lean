@@ -1,7 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.CompactFormulaSums
 import GroundTheory.AutomorphicForms.CompactFormulaCountable
 import GroundTheory.AutomorphicForms.Anisotropic
+import GroundTheory.AutomorphicForms.TraceFormulaWeil
 
 open Module Matrix TensorProduct Topology NumberField IsDedekindDomain MeasureTheory Set
 open scoped NumberField.AdeleRing

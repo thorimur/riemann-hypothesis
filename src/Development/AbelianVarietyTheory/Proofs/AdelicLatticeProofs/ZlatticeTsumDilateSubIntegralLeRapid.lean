@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LatticeTheta.ThetaShiftInversion
+import Mathlib.RingTheory.PiTensorProduct
 
 open NumberField IsDedekindDomain NumberField.mixedEmbedding MeasureTheory Complex Classical
 open scoped ContDiff nonZeroDivisors

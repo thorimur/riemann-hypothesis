@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.PtsOverPt
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagCoverArithmeticFourth
 
 namespace GlobalTheory.CompanionTheory.Ggeo

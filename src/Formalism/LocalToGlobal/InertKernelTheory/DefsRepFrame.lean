@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.InertKernelTheory.DefsRep
+import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.InvarianceIffAdditiveMapsExist
+import Formalism.LocalToGlobal.InertKernelTheory.FirstKernelGeneratorOfOrthogonal
 
 noncomputable section
 

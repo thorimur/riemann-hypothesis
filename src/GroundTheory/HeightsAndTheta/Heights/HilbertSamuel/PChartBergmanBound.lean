@@ -1,8 +1,12 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBergman
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartBergman
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComplexTaylor
 import ReciprocityTheory.AnalyticForms.PotentialTheory.HessCIsHermitian
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.Complex
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Separation.CompletelyRegular
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

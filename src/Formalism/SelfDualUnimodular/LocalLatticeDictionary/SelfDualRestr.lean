@@ -1,5 +1,6 @@
-import Mathlib
-import Formalism.SelfDualUnimodular.LocalLatticeDictionary.ExistsUnitNorm
+import Formalism.PeriodIntegrals.HermitianGenusExtension.SemilocalHermitianLattices.ExistsIsomFrame
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

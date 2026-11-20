@@ -1,5 +1,5 @@
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.ModerateCoefficientPositivity
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.SliceBounds
+import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FourSignHolds
 
 namespace ReciprocityTheory.ChartRestriction.G.FD
 

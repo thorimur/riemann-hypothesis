@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.InertJacobiLevels.BTop2
+import Formalism.LocalRingCardinality.DataParams₂
 
 noncomputable section
 

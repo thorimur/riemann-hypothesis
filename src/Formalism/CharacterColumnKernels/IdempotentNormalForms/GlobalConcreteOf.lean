@@ -1,9 +1,6 @@
-import Formalism.CharacterColumnKernels.StatementN
 import Formalism.CharacterColumnKernels.IdempotentNormalForms.GenFin
-import Formalism.CharacterColumnKernels.IdempotentNormalForms.DetTri
-import Formalism.CharacterColumnKernels.IdempotentNormalForms.LengthKerOfDetEqZero
-import Formalism.CharacterColumnKernels.IdempotentNormalForms.SingleEqSmul
 import Formalism.CharacterColumnKernels.IdempotentNormalForms.VccSpan
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Finset
 

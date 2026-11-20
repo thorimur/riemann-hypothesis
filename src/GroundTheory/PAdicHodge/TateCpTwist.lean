@@ -1,5 +1,13 @@
-import Mathlib
 import GroundTheory.PAdicHodge.GaloisOnCp
+import Mathlib.NumberTheory.Cyclotomic.CyclotomicCharacter
+import Mathlib.RepresentationTheory.Continuous.TopRep
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RootsOfUnity.AlgebraicallyClosed
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Algebra.Nonarchimedean.Completion
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.PAdicHodge

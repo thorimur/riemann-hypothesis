@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TensorProductTheorem.CuspidalRep
 
 namespace GroundTheory.Automorphic

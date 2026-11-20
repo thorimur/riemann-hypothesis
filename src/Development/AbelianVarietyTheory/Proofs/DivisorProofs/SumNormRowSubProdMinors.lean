@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdMinorsMemInv
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CBinet
 open Classical

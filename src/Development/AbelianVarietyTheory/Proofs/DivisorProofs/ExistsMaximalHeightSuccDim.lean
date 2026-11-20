@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.IntToRatA
 open scoped TensorProduct
 

@@ -1,6 +1,3 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.CechPairings.CechAugRow
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.CechPairings.MapHComp
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PiHBijective
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CochainExt
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ElementsBijectiveOfBijectiveAppStatement

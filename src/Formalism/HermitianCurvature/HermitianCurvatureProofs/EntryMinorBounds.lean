@@ -1,4 +1,6 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.StabilizerAntidiagonalExact
+import Formalism.HermitianCurvature.FiniteOrderIntersectionInSmooth
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Matrix Formalism.FourierDecayAlt Formalism.QuantumDeterminants
 

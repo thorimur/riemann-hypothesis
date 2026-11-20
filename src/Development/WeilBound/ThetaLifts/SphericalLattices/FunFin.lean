@@ -1,5 +1,6 @@
 import Development.WeilBound.ThetaLifts.SphericalLattices.FunDefs
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.HasSatakeGLOfIsSatVecGL
+import Development.WeilBound.CoreStatements.LocalThetaKernels.IwasMain
 
 noncomputable section
 

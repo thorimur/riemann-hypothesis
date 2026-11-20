@@ -1,6 +1,6 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.AdmBoundsBOfAdm
-import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.ArcGamLiftCore
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.InIOfMemPi0Lattice
+import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.RepVVAeval
 
 noncomputable section
 

@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.CharacterGerms.ScaledSecondIntegral
-import Formalism.LocalToGlobal.CharacterGerms.BiadditiveInSingleVariables
+import Formalism.IncomingBounds.StatementThmP
+import Mathlib.RingTheory.MvPowerSeries.Substitution
 
 noncomputable section
 

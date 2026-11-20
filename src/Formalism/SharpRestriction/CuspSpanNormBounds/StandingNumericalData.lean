@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 import Formalism.SharpRestriction.CuspSpanNormBounds.SArith
 import Formalism.SharpRestriction.CuspSpanNormBounds.LocalDataRealPlace
 import Formalism.LocalRingCardinality.DataParams₂

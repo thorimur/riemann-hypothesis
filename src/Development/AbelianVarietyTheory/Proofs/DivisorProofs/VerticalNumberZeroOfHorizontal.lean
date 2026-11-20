@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasTotalBiChains
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AwOCommDStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DTCompDTStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BisimplicialOperatorChainsAcyclicPositiveDegreeStatement

@@ -1,6 +1,7 @@
-import Mathlib
 import Lemmata.FirstBlockLemmaH.Imports
 import Lemmata.GeneralBFactThirdVariant.Imports
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

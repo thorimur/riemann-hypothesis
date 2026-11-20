@@ -1,10 +1,8 @@
-import Mathlib
 import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TiePsi
 import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.ChiMemSubfield
-import Formalism.LocalToGlobal.GroupLattices.DownNaturalLevelZero
 import Formalism.LocalToGlobal.GroupLattices.PerfectRings.ExtWRec
-import Formalism.LocalToGlobal.GroupLattices.CloudFilling.FillInstRecEqWj
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.GlintPrincRelIndexNeZero
+import Formalism.LocalRingCardinality.DataKerI
+import Formalism.LocalToGlobal.GroupLattices.CloudFilling.ExistsPowOrbRep
 
 noncomputable section
 

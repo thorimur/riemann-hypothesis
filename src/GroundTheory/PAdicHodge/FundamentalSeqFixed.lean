@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.FundamentalSeqSurj
 set_option maxSynthPendingDepth 1
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.OneLeftSpMap
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.AppLEBasicOpenIsStandardSmooth
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsDualElements
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.DerivationVanishingConstants

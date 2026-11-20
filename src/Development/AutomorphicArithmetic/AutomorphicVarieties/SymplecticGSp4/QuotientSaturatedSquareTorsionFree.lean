@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.EntryMem
 import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TanGlob
 import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.ASmooth
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CotFg

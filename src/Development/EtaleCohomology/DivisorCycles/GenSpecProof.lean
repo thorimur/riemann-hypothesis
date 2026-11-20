@@ -1,4 +1,10 @@
 import Development.EtaleCohomology.DivisorCycles.CycleCount
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix PositivityTheory.AutomorphicGaloisHodgeTate.Div
 

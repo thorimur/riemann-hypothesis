@@ -1,4 +1,7 @@
-import Formalism.PieriBlockIdeals.PieriColumnMinors.BinaryFormsExample
+import Formalism.PieriBlockIdeals.IntegralQuotient
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.CohomologicalDescent.LR
 

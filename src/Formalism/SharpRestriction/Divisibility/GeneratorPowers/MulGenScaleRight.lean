@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CIndFrFix
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdSy
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpTie
 
 set_option autoImplicit false
 

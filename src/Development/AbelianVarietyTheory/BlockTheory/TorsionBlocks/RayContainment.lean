@@ -1,6 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.ThClass
 import Formalism.LocalToGlobal.ProjectiveLattices.ThGerm
+import Formalism.LocalToGlobal.ProjectiveLattices.PetersonNormSubspace
+import Formalism.LocalToGlobal.ProjectiveLattices.ThShort
 
 set_option autoImplicit false
 

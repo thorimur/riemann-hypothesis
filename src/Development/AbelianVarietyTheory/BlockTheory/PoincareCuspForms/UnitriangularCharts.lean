@@ -1,6 +1,6 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.FundamentalDomainPointBound
 import ReciprocityTheory.L2DbarEstimates.IsLocalHomeomorph
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.Signature
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace GlobalTheory.IndefiniteRowSideFullHecke.UnitriangularCharts
 

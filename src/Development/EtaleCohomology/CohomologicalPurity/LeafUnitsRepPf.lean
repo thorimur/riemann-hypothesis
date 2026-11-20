@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.CohomologicalPurity.LeafTailNervePf
+import Mathlib.CategoryTheory.Limits.Shapes.FunctorToTypes
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite

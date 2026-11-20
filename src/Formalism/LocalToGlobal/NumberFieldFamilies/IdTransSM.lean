@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.UnitaryNorms.IsUnitaryNormOf
 import Formalism.LocalToGlobal.UnitaryNorms.UnrAe
+import Mathlib.Algebra.Order.Star.Real
 
 noncomputable section
 

@@ -1,7 +1,9 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.SamePartIffOfNeZero
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.SquarefreeLabelTorusMassSamePartOneFactorLe
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.SquarefreeLabelTorusMassTwoFactorsLe
+import Development.AbelianVarietyTheory.Proofs.FoundationProofs.PowPadicValEqOneOfPrimePow
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.RingTheory.Artinian.Instances
+import Mathlib.RingTheory.PicardGroup
 
 open Polynomial Classical GlobalTheory.BadShare
 

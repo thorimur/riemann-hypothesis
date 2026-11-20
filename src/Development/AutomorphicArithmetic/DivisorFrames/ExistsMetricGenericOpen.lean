@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.VertCmp
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModelPresentingDivisor
 open CategoryTheory Limits AlgebraicGeometry IsLocalRing NumberField IsDedekindDomain

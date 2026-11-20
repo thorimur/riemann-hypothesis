@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.Divisibility.JetBounds.Statement
 import Formalism.LocalToGlobal.Divisibility.JetBounds.MinorProductsLattice
-import Formalism.GaussJetBounds.FinalB
+import Formalism.GaussJetBounds.StatementN
 
 open Module NumberField IsDedekindDomain
 open scoped BigOperators

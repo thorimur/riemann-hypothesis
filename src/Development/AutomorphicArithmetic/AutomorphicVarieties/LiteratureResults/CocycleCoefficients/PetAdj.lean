@@ -1,8 +1,7 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CoefFieldEq
-import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.Thorne
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.Hypotheses2
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformModel
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CocycleCoefficients.PetAdjQuot
+import Mathlib.NumberTheory.ModularForms.Bounds
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Formalism.BasicNotions Formalism.BasicNotions.Loc Formalism.MainNotions.N GlobalTheory.GalOfCusp GlobalTheory.CuspRep UpperTheory.V UpperTheory.V.Af UpperTheory.V.Published.Kato UpperTheory.V.Lit CongruenceSubgroup
 open scoped Matrix MatrixGroups ModularForm ComplexConjugate

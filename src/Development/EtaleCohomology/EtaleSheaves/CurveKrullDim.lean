@@ -1,7 +1,7 @@
 import Development.EtaleCohomology.EtaleSheaves.QuotientFieldNonconstantLift
-import Development.EtaleCohomology.EtaleSheaves.LeafDescendVCut
 import Development.EtaleCohomology.EtaleSheaves.CurveKrullDimTopology
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FirstCohomology.DimSplitPf
+import Mathlib.AlgebraicGeometry.QuasiAffine
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry LateralTheory.E.E4 Set Topology TopologicalSpace

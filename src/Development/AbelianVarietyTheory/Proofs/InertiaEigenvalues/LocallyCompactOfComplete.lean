@@ -1,6 +1,12 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.UnitLemmaGroup
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.FourierMatch
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.Ideal.Quotient.Index
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 open GlobalTheory.UnitLemma Polynomial
 
 namespace GlobalTheory.UnitLemma.Bridge

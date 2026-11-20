@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.IntegralNormalization
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry LateralTheory.E.t_E2Cut Polynomial

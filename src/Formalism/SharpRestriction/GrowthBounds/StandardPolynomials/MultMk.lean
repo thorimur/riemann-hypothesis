@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.GenWh
+import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.NormalWeightCovectorZero
 
 noncomputable section
 

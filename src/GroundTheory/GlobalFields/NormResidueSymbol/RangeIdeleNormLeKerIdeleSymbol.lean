@@ -1,8 +1,5 @@
-import Mathlib
-import GroundTheory.GlobalFields.NormResidueSymbol.RangeFiniteLocalNormLeKerLocalSymbol
 import GroundTheory.GlobalFields.NormResidueSymbol.Infinite
 import GroundTheory.GlobalFields.NormResidueSymbol.AbstractUnique
-import GroundTheory.GlobalFields.IdeleGroups.LocalNormsEverywhere
 
 namespace GroundTheory.Global
 

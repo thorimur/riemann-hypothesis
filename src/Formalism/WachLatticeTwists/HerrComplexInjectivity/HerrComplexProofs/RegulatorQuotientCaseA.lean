@@ -1,5 +1,6 @@
 import Formalism.WachLatticeTwists.HerrComplexInjectivity.StatementA
-import Formalism.WachLatticeTwists.HerrComplexInjectivity.HerrComplexProofs.ShortExactSequenceHolds
+import Formalism.WachLatticeTwists.WachProductBases.WachConsequencesFurther
+import Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.ConsequenceFourLocal
 
 noncomputable section
 

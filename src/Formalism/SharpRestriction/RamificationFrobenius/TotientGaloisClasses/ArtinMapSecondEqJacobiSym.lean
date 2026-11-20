@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.FrameCyclicGenerator
-import Formalism.FrobeniusOrbits.HostCorollaries
+import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.CoprimeTwoPow
+import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.EqZeroOfNegEq
+import Formalism.FrobeniusOrbits.RealSubfieldLeCompositum
 
 open NumberField IntermediateField Ideal
 

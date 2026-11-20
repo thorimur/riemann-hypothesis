@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Torsfree
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Cardsep
 

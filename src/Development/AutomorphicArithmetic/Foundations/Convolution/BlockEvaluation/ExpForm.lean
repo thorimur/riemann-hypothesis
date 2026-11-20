@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.BlockEvaluation.TruncSpec
+import Mathlib.LinearAlgebra.Lagrange
 
 open UpperTheory.ConvolutionTheory.Ci
 

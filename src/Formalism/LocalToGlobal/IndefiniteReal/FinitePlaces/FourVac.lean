@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.FourUniq
+import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.FourModel
 
 set_option linter.style.haveILetI false
 

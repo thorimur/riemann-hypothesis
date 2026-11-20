@@ -1,6 +1,7 @@
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.IntertwiningCandidates.StrictJoin
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AdmissibleParabolicInduction
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryLevelSubgroupProperties
+import GroundTheory.LocalFields.PadicLogSeries
 
 noncomputable section
 

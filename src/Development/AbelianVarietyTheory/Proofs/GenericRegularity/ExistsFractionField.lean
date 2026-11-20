@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GenericRegularity.RankOfQuasiIdem
+import Development.AbelianVarietyTheory.Proofs.GenericRegularity.PolyChartSmoothFractionLift
 
 open NumberField
 

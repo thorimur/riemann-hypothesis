@@ -4,7 +4,6 @@ import Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.Complementa
 import Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.ComplementarySeries.NontrivialOfIsIrreducible
 import Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.ComplementarySeries.CuspPair
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DerivativeJacquetHoldsStatement
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsSmoothIterPhi
 
 namespace PositivityTheory.RgGu.NR
 

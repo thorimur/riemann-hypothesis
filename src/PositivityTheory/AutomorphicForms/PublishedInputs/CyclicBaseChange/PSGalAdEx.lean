@@ -1,5 +1,4 @@
-import PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.SConjSpaceC
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsFinsetDefiniteUnitaryDoubleCosets
+import PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.IsGalAd
 
 noncomputable section
 

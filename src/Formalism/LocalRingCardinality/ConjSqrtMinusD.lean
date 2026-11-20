@@ -1,4 +1,3 @@
-import Formalism.LocalRingCardinality.DataHost
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 
 namespace Formalism.BasicNotions

@@ -1,16 +1,12 @@
 import Development.EtaleCohomology.KummerTheory.PlaceResGoodPf
-import Development.EtaleCohomology.KummerTheory.PlaceStepPf
 import Development.EtaleCohomology.KummerTheory.PlaceExPfZorn
 import Development.EtaleCohomology.KummerTheory.PlacePfVal
 import Development.EtaleCohomology.KummerTheory.AlgExtPf
 import Development.EtaleCohomology.KummerTheory.SHInsepLocPf
 import Development.EtaleCohomology.KummerTheory.SHInsepHensPf
 import Development.EtaleCohomology.KummerTheory.SHInsepResPf
-import Development.EtaleCohomology.KummerTheory.SHInsepPf
 import Development.EtaleCohomology.KummerTheory.PrimTorsPf
 import Development.EtaleCohomology.KummerTheory.ShSectPf
-import Development.EtaleCohomology.KummerTheory.SecSHPf
-import Development.EtaleCohomology.KummerTheory.TwSecPf
 import Development.EtaleCohomology.KummerTheory.InsepPf
 import Development.EtaleCohomology.KummerTheory.SHInvPf
 

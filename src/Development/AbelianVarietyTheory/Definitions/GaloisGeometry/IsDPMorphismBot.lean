@@ -1,5 +1,12 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.OfNatTrans
+import Mathlib.Algebra.DualNumber
+import Mathlib.RingTheory.DividedPowers.DPMorphism
+import Mathlib.RingTheory.DividedPowers.RatAlgebra
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option autoImplicit false
 

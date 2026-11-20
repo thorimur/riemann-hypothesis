@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DOpMemDStep
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialFockSpaceStableArchimedeanMaximalCompa
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ActsDIffDOp
 

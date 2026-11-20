@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.LocalMaximality.LiftFactorization
+import Development.AbelianVarietyTheory.Proofs.SatakeParameters.GermCompatId
+import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.LocalMaximality.MonoM
 
 set_option autoImplicit false
 

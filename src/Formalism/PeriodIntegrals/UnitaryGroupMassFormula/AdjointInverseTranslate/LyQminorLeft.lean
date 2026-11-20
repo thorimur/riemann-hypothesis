@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdjointInverseTranslate.CoefLeftAaVector
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix Finset
 

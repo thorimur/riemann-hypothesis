@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.RhGradStatementPfB
+import Mathlib.RingTheory.PiTensorProduct
 
 namespace ReciprocityTheory.ChartRestriction.G.AR.Up.RgE
 

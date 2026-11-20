@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.KerTens
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TensorSpanning.MatHHOne
 
 noncomputable section

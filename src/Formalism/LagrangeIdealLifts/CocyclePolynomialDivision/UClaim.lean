@@ -1,5 +1,6 @@
 import Formalism.LagrangeIdealLifts.Statement
 import Formalism.WindowSums.AnnihilatorPolynomials.ZpowVal
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

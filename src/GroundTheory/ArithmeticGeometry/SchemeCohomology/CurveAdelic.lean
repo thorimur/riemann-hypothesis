@@ -1,7 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.QuotEqZeroOfNotPrimeDivisor
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.CurveDivisors
-import GroundTheory.FunctionField.ExistsBoundDegSubFinrankL
+import GroundTheory.FunctionField.Repartition
 
 open CategoryTheory AlgebraicGeometry TopologicalSpace Topology Module
 

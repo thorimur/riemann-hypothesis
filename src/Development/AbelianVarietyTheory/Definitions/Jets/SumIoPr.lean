@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.RealPlaceAnalysis.StatementKT
 import Formalism.FormalDegreeBessel.StatementDS
 

@@ -1,6 +1,8 @@
 import ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.Statement
 import ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.SplitD
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Exists
+import ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.SplitB
+import ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.SplitC
 
 noncomputable section
 

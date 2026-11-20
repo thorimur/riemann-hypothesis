@@ -1,6 +1,5 @@
-import Formalism.SharpRestriction.InertJacobiLevels.AsmPoint
 import Formalism.SharpRestriction.InertJacobiLevels.GaugeExists
-import Formalism.SharpRestriction.InertJacobiLevels.ExtraZero
+import Formalism.SharpRestriction.InertJacobiLevels.TiesAsm
 
 noncomputable section
 

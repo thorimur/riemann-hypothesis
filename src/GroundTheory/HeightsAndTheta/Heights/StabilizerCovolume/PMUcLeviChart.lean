@@ -1,8 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PNbarLeviChartReg
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PRefChartDisc
-import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.PMUcSmooth
 import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.StMUcLeviChart
+import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.StMUcSmooth
 set_option maxSynthPendingDepth 1
 
 noncomputable section

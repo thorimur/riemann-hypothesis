@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.WeightRankUnits.DeltaProdAlt
 import Development.AutomorphicArithmetic.Foundations.Convolution.WeightRankUnits.EllCsr
 import Development.AutomorphicArithmetic.Foundations.Convolution.WeightRankUnits.DeltaProd
 import Development.AutomorphicArithmetic.Foundations.Convolution.WeightRankUnits.LpolTwist

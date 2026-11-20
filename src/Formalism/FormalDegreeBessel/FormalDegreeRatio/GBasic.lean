@@ -1,4 +1,7 @@
 import Formalism.FormalDegreeBessel.StatementG
+import Mathlib.RingTheory.PiTensorProduct
+import Std.Tactic.BVDecide.Normalize.BitVec
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix
 

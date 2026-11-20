@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictCapFBijective
 
 set_option autoImplicit false

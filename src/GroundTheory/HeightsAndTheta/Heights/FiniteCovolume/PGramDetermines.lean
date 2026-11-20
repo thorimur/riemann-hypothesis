@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.SecondCountableTopologyArchUnitary
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StGramDetermines
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume

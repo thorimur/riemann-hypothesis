@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StDualLatticeMultiple
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

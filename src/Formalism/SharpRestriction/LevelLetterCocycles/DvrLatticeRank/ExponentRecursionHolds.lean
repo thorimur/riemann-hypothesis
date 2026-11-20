@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.ExpansionFormAll
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ExponentRecursionOfDimension
 
 noncomputable section

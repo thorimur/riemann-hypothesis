@@ -1,5 +1,6 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceReducedGeneral
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Statements
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceObjects
+import Mathlib.RingTheory.Ideal.AssociatedPrime.Basic
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

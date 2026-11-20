@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ZerosWindow
 import Formalism.PeriodIntegrals.ZerosWindowIn
 
 noncomputable section

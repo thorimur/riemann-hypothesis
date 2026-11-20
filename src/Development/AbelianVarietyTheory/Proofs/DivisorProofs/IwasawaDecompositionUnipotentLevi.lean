@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DiffsZeroOfLev
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicUnitaryFiniteInfiniteSplitStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IwasawaDecompInfiniteIsotropicStatement

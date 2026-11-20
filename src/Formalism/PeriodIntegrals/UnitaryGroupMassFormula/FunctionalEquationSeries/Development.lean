@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.FunEqAll
+import Mathlib.NumberTheory.Padics.PadicIntegers
+import Mathlib.RingTheory.MvPowerSeries.Expand
 
 noncomputable section
 

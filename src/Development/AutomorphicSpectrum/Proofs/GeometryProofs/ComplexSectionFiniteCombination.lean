@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.NoCommonZeroCombVal
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsResidueEval
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LinIndepDescent
 

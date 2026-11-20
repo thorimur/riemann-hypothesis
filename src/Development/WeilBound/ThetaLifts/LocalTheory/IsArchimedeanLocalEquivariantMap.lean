@@ -1,4 +1,4 @@
-import Development.WeilBound.ThetaLifts.CTKernel
+import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
 
 noncomputable section
 

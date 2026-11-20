@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.ConeBumpB
-import Development.AutomorphicArithmetic.DivisorFrames.FourierSchwartzBruhatPreserved
 import Development.AutomorphicArithmetic.DivisorFrames.HaarIntegralUnitsScaling
 open scoped TensorProduct NNReal Matrix
 open NumberField IsDedekindDomain MeasureTheory Filter Topology Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes

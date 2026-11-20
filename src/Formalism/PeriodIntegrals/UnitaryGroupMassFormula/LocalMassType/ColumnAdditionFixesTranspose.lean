@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassType.StepW
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassType.Development
 
 noncomputable section
 

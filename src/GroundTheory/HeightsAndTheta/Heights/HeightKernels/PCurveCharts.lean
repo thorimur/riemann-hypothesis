@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsPointVertRSteps
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsClosedPointChart
+import Mathlib.Algebra.GroupWithZero.Submonoid.CancelMulZero
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

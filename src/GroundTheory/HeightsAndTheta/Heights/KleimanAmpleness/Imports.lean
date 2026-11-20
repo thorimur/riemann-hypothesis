@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CellResMemLocPart
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CechConstVanish
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ExistsOfMemChartRing
 set_option maxSynthPendingDepth 1

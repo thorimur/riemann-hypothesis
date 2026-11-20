@@ -1,11 +1,8 @@
-import Mathlib
 import GroundTheory.PAdicHodge.ACrisBdRInj
-import GroundTheory.PAdicHodge.ACrisLog
-import GroundTheory.PAdicHodge.ACrisGalois
 import GroundTheory.PAdicHodge.InstMulSemiringActionGalPlus
 import GroundTheory.PAdicHodge.BdRGalois
 import GroundTheory.PAdicHodge.UntiltFrobeniusEquivSymmEpsilonNeOne
-import GroundTheory.PAdicHodge.BdRAlg
+import Mathlib.Data.Rat.Star
 set_option maxSynthPendingDepth 1
 
 noncomputable section

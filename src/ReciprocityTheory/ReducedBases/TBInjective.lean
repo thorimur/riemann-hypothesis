@@ -1,5 +1,10 @@
 import ReciprocityTheory.ReducedBases.GsInnerBOfLt
 import ReciprocityTheory.ReducedBases.LatDefs
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

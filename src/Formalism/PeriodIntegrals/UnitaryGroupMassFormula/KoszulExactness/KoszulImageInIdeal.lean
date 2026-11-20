@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.KoszulExact
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.KoszulExactness.Ii
 

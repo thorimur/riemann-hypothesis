@@ -1,4 +1,10 @@
 import ReciprocityTheory.L2DbarEstimates.SymmetricSections.HoloSectionStatement
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.Complex.RemovableSingularity
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace ReciprocityTheory.L2DbarEstimates.Norm
 

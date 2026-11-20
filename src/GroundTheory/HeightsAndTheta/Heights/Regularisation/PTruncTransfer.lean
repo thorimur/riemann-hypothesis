@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.StatementsTruncTransfer
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.GlueCharts
 set_option maxSynthPendingDepth 1

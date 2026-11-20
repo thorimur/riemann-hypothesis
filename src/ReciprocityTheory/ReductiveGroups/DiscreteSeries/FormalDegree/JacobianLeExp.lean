@@ -1,4 +1,5 @@
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.PSpecB
+import Mathlib.Analysis.SpecialFunctions.Trigonometric.Series
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.PmatIsHermitian
 
 noncomputable section
 

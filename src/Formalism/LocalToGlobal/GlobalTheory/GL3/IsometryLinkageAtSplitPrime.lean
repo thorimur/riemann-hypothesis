@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.GlobalTheory.GL3.PUnitBasis
 import Formalism.LocalToGlobal.GlobalTheory.GL3.IsometryLinkageTrivialLevel
 

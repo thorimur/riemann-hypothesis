@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.GeOfPowEqOne
+import Formalism.LocalToGlobal.CharacterGerms.NegMem
 
 noncomputable section
 

@@ -1,10 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.BlockPolyLevelMove
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.BlockProductLattices
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsIndexIdeal
-import Development.AbelianVarietyTheory.Counterexamples.LevelGroupExamples.BetaIsPrincipal
-import Development.AbelianVarietyTheory.Counterexamples.LevelGroupExamples.ZeroNotAdmissibleOfRankPos
-import Development.AbelianVarietyTheory.Counterexamples.LevelGroupExamples.BaseClassMove
+import Batteries.Data.Nat.Gcd
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.RingTheory.Henselian
 
 set_option autoImplicit false
 

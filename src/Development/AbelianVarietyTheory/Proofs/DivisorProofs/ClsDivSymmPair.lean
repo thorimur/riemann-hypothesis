@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTriSelf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFlagOfTriangularFramesStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TriangularFrameGradedPieceStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineBundleClassOfTriangularFrameStatement

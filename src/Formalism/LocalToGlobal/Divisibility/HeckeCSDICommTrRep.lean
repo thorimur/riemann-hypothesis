@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.TrivialExtensionSideWellFormed
 import Formalism.LocalToGlobal.Divisibility.DivisionHeightBoundColumns
-import Formalism.LocalToGlobal.Columns.HeckeInert
-import Formalism.LocalToGlobal.Columns.HeckeInertLemmas
 import Formalism.LocalToGlobal.Columns.HeckeInertTr
 
 open Module NumberField IsDedekindDomain

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.StatementsChartFirstGroupDvd
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.StatementsNormOfDividedForm
 set_option maxSynthPendingDepth 1

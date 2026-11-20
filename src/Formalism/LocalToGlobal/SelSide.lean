@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.ClassRec
-import Formalism.LocalToGlobal.GaloisLevelStructure.DefsAut
 import Formalism.LocalToGlobal.UnitaryNorms.CharTransport
 
 noncomputable section

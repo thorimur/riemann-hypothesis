@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.KappaLatticeEvaluation
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSmulShortNonneg
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsMetricOfIsOrtho
@@ -10,8 +9,7 @@ import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.ExistsRankOneC
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.CuspFormsFiniteDimensionalOfGoodEmb
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.MemHolSubIff
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.CongrOfDvdModulus
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsHermCoordOfDatum
-import Formalism.LocalToGlobal.ProjectiveLattices.DatProofs
+import Formalism.LocalToGlobal.ProjectiveLattices.FamilyUniformisationBasePointOrthogonal
 
 noncomputable section
 

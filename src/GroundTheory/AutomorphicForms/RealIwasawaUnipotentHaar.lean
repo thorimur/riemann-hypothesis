@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.RealIwasawaSubgroups
+import Mathlib.Topology.Separation.CompletelyRegular
 
 namespace GroundTheory.Automorphic
 

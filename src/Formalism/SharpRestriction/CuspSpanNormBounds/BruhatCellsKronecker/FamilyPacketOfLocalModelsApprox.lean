@@ -1,5 +1,7 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.GlobalConditionOfProductFormula
 import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellSchur
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.KernelNonzeroModulusDeterminantEq
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 noncomputable section
 

@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJGlobalSingular
 import GroundTheory.AutomorphicForms.GL2.GJGlobalPoisson
-import GroundTheory.AutomorphicForms.GL2.GJGlobalLatticeCont
 import GroundTheory.AutomorphicForms.GL2.GJGlobalLatticeSummable
 
 open MeasureTheory Set Filter NumberField ComplexConjugate

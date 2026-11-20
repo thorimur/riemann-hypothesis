@@ -1,8 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.RdOrbIntOfLatZ
 import Formalism.LocalToGlobal.ProjectiveLattices.UnifDom
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.FourierCoefficientDomain
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.FderivIntegralApplyOfHolomorphicOfDominated
+import Formalism.LocalToGlobal.ProjectiveLattices.IntegrableOnIntegrand
 
 noncomputable section
 

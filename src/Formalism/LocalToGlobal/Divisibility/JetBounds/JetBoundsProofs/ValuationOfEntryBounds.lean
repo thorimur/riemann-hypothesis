@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.Divisibility.JetBounds.PlaceInputAllEntries
 import Formalism.LocalToGlobal.Divisibility.JetBounds.JetBoundsProofs.NormInvNatCastLeOfDvd
 
 open Module NumberField IsDedekindDomain

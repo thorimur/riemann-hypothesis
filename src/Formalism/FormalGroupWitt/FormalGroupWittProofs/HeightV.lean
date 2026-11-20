@@ -2,7 +2,7 @@ import Formalism.FormalGroupWitt.FormalGroupWittProofs.FunctionalEquationHomVect
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.EqSingleOfDegreeEqOne
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.ShiftFE
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.FrobSqV
-import Formalism.FormalGroupWitt.FormalGroupWittProofs.CongrV
+import Mathlib.RingTheory.MvPowerSeries.Rename
 
 noncomputable section
 

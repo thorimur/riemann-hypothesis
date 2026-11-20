@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.SatakeLifts.PairOfLiftAlt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.JacTwistMapSurjective
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvTransposeInvTranspose

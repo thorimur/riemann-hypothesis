@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OfValuesMulOfValues
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsPosFrameQuotIn
 open Set Matrix Filter Topology
 open ReciprocityTheory.L2DbarEstimates (V)
 open GlobalTheory.HermFrame GlobalTheory.CxForm GlobalTheory.SecForm

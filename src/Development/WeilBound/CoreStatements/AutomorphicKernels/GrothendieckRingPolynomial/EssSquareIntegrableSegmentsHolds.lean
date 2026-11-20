@@ -1,6 +1,4 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AutomorphicKernels.GrothendieckRingPolynomial.GrothendieckRingPolynomialOfSeg
-import Development.WeilBound.CoreStatements.AutomorphicKernels.SquareIntegrableSegments.HeadSeg
 import Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.ComplementarySeries.SegmentJacquetSubquotients.SegmentRepresentation
 
 namespace PositivityTheory.Groth

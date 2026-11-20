@@ -1,4 +1,4 @@
-import Formalism.FlagUnipotentLattices.FlagUnipotentLattice
+import Formalism.FlagUnipotentLattices.HalfDifferenceL1Bound
 
 open Finset MeasureTheory NumberField Matrix
 open scoped ComplexOrder

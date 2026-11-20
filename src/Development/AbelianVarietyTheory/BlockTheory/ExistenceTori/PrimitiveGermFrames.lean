@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.SymmetricAdjointUnits
-import Formalism.LocalToGlobal.ProjectiveLattices.IsThRule
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ThetaVV
 
 set_option autoImplicit false
 

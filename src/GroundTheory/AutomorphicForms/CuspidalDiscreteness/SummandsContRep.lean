@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsBase
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness.IsHilbertSchmidtOfAeEqDual
+import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.GKStable
+import GroundTheory.AutomorphicForms.GKModules.Garding
 
 open MeasureTheory Set Filter Topology Function
 open scoped InnerProductSpace

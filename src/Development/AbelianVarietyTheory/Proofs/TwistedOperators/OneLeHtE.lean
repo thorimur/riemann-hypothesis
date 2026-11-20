@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.EventuallyNormFinLeOne
 
 noncomputable section

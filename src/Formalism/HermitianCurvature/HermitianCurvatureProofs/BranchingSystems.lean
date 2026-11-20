@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.CapelliDeterminantAndBranching
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.QuantumDetHighestWeightHolds
+import Mathlib.LinearAlgebra.Eigenspace.Minpoly
 
 open Matrix Finset
 

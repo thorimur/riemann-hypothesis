@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FirstCohomology.OneCHyp
+import Mathlib.Data.Int.Star
 
 set_option autoImplicit false
 

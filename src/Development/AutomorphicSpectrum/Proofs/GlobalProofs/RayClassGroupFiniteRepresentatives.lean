@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.SiegelKlingenDeligneRibet
-import Development.AutomorphicSpectrum.Proofs.GlobalProofs.AbelContinuation
 import Formalism.LocalToGlobal.GlobalTheory.GL2.TotallyComplexOfNoReal
 
 set_option autoImplicit false

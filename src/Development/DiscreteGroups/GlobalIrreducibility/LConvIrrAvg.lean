@@ -1,4 +1,6 @@
-import Development.DiscreteGroups.GlobalIrreducibility.LConvIrrComm
+import Development.AbelianVarietyTheory.Definitions.Foundations.SmoothPartStable
+import Development.DiscreteGroups.GlobalIrreducibility.LConvIrrPre
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 

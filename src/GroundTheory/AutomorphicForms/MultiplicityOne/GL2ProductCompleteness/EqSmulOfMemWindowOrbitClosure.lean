@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ArchimedeanWhittaker.MultOne
 import GroundTheory.AutomorphicForms.MultiplicityOne.OpenSubgroupRep
 

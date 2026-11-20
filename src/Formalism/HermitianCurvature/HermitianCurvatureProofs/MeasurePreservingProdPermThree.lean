@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.UTransEMp
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.HermitianFormRankZeroApply
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.MulVecBvecApply
 
 open Matrix MeasureTheory Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.U
 

@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.CornerGLContinuity
-import Formalism.FrobeniusOrbits.HostCorollaries
 import Formalism.LocalRingCardinality.HostCls
 import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 

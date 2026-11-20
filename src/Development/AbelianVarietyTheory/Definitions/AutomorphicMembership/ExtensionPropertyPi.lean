@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.ModuliIntegralCharts
 import Formalism.SharpRestriction.Divisibility.BoundaryLocalData
 
 noncomputable section

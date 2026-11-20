@@ -1,5 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.MultiplicityOne.JMixedA
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.MultiplicityOne.JSchurG
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.MultiplicityOne.UnitaryGroupStructuralFacts
 
 noncomputable section
 

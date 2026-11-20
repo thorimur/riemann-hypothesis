@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbSplitPt
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.TopFirstOfParts
 
 open Matrix MeasureTheory
 

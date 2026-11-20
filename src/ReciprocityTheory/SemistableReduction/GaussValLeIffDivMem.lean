@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.SemistableReduction.GaussValExists
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace ReciprocityTheory.MultiplicativeHeights
 

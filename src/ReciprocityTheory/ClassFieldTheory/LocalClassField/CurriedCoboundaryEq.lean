@@ -1,5 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.IsTwoCocycleCoboundary
+import ReciprocityTheory.GroupCohomology.InfRes
+import ReciprocityTheory.GroupCohomology.PartialProdCoe
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField.Deg2
 

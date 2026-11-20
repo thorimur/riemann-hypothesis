@@ -1,4 +1,5 @@
 import Development.WeilBound.ThetaLifts.LeviDeterminants.GrowDef
+import Mathlib.Algebra.Module.Torsion.Prod
 
 noncomputable section
 

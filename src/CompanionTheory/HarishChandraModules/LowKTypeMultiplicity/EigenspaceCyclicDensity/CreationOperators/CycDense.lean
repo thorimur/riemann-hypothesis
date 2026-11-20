@@ -1,5 +1,6 @@
 import CompanionTheory.HarishChandraModules.LowKTypeMultiplicity.EigenspaceCyclicDensity.LowKMultOnePOf
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Closure
+import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 
 open Finset
 open scoped InnerProductSpace

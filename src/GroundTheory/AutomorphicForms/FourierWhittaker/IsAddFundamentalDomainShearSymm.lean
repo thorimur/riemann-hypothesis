@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.FourierWhittaker.Single
 
 open NumberField NumberField.mixedEmbedding MeasureTheory Topology Set Filter IsDedekindDomain Matrix

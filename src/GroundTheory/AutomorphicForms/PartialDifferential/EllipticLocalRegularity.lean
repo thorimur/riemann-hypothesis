@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.PartialDifferential.EllipticLocal
+import Mathlib.Data.Int.Star
 
 namespace GroundTheory.Automorphic.Sobolev
 

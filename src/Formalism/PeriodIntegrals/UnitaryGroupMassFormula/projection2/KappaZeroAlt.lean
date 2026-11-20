@@ -1,4 +1,3 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.projection2.EmbedMatrixBasisVecApplyOfNotFree
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.projection2.AllowColLt
 
 noncomputable section

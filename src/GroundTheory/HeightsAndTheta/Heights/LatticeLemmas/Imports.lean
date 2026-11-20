@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.Assembly
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PSphereLawBasic
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PSphereLawFirstCoord

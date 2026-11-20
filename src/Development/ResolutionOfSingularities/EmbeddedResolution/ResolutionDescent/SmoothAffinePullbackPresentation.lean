@@ -1,4 +1,3 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.SmoothAffineLiftRelativeDimension
 universe u
 

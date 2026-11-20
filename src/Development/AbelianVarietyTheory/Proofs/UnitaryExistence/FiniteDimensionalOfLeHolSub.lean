@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.JFDFree
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.FundamentalDomainPointBound
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsFirstMinimumLowerBoundNearMax
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.MahlerCompactness
 

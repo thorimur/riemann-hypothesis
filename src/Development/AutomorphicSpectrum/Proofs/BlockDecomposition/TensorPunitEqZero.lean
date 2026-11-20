@@ -1,7 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.WittExactSequences.IsCompl
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LeftCommLTensorNatural
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PerfectTensorProductStatement
+import Mathlib.Algebra.Order.PUnit
 open TensorProduct CrystallineSemistableComparison.D
 open scoped LaurentPolynomial
 

@@ -1,8 +1,8 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AutomorphicKernels.DepthZeroCuspidal.DegOneOfChar
 import Development.WeilBound.CoreStatements.AutomorphicKernels.DepthZeroCuspidal.FixedOfCharNeBotIff
 import Development.WeilBound.CoreStatements.AutomorphicKernels.DepthZeroCuspidal.TameLpOfCharIff
 import Development.WeilBound.CoreStatements.AutomorphicKernels.DepthZeroCuspidal.LeviInductionForms
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.Langlands
 
 noncomputable section
 

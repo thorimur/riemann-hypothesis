@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GenericRegularity.RegularAtCentre
 
 noncomputable section

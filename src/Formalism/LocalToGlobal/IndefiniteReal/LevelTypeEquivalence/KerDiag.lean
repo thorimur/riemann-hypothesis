@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.EquivIoYOf
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.ThetaFinsetSum
+import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
 
 noncomputable section
 

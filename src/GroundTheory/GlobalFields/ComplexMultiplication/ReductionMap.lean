@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.ReductionPoints
 import GroundTheory.GlobalFields.ComplexMultiplication.ReductionGauss
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.ReductionTorsion

@@ -1,9 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsRankOneIdem
 import Development.AbelianVarietyTheory.Definitions.Divisors.HasDivPlace
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.IsFullSetCompEquiv
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ForgetIsHeckeOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtModelForgetFiniteEtale
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocallyOfFinitePresentationOfIsQProjOver
 
 set_option autoImplicit false
 

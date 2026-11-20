@@ -1,4 +1,4 @@
-import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowG
+import Formalism.LocalRingCardinality.PrincipalHermitianLattice
 
 noncomputable section
 

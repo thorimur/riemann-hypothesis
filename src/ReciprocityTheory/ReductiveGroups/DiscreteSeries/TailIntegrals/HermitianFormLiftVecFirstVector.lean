@@ -1,4 +1,8 @@
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.LevelDeterminantOfTriangularChange
+import Formalism.HermitianCurvature.WeylElementCommutesLevelOne
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.MatExtBvec
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open Matrix MeasureTheory

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.JordanExists
 
 open NumberField Module IsDedekindDomain Formalism.HermitianLattices.Ext.L3

@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.GlobalTheory.CoefficientMapSurjective
-import Formalism.LocalToGlobal.GlobalTheory.GL4.PColFin
+import Formalism.LocalToGlobal.GlobalTheory.MemIffOfLocBasisG
 
 noncomputable section
 

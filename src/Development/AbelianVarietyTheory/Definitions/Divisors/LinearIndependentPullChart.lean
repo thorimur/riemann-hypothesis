@@ -1,9 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.SecondCountableTopologyOfIsProjOver
 import Development.AbelianVarietyTheory.Definitions.Divisors.QuasiRegularAlongOfEtale
 import Development.AbelianVarietyTheory.Definitions.Divisors.LinearIndependentBasisCoords
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndepBaseChange
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NonemptyHomologyEquiv
+import Mathlib.FieldTheory.PurelyInseparable.Exponent
 
 set_option autoImplicit false
 

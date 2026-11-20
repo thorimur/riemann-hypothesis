@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAStarOp2
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 open Formalism.FourierDecayAlt Formalism.FourierDecayAlt.MA MeasureTheory
 open scoped ComplexConjugate

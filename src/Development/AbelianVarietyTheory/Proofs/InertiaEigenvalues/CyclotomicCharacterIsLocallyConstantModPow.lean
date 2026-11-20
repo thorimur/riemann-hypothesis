@@ -1,8 +1,6 @@
-import Mathlib
-import Formalism.CharacterColumnKernels.StatementRho
-import Formalism.GaloisCohomology.LocalTateDualityK
-import ReciprocityTheory.Hypotheses.GalCohDefs
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LevRepZApply
+import Formalism.GaloisCohomology.StatementLoc
+import Mathlib.RingTheory.RootsOfUnity.AlgebraicallyClosed
+import Mathlib.Tactic.ENatToNat
 open ReciprocityTheory.Gal
 
 namespace GlobalTheory.ShapeNeg

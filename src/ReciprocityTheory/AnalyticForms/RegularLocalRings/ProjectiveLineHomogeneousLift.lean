@@ -1,4 +1,7 @@
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ProjectiveLineMultihomogClassify
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.Topology.UniformSpace.Uniformizable
+import ReciprocityTheory.AnalyticForms.RegularLocalRings.IsOpenAlt
 
 namespace ReciprocityTheory.AnForm.R
 

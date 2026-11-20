@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.HermitianCurvature.StatementQ
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GeneralLinearLevel.ElementaryGeneratorsLevelGroup
 
 private lemma single_one_mul_single_one {n : ℕ} (p q s t : Fin n) :

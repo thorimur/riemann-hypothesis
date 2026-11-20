@@ -1,7 +1,9 @@
-import Formalism.SharpRestriction.GrowthBounds.FockGramWindow.NormFockLe
-import Formalism.MahlerMeasure.MahlerMeasureProofs.GamLead
 import Formalism.MahlerMeasure.MahlerMeasureProofs.SSDirect
 import Formalism.ThetaLogCoordinates.BihomogeneousPairs.LetterChainEmbeddings.SmulMemOfNorm
+import Formalism.MahlerMeasure.MahlerMeasureProofs.PhiInt
+import Formalism.SharpRestriction.GrowthBounds.FockGramWindow.LvlDef
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.ValFactSumLe
+import Formalism.ThetaLogCoordinates.BihomogeneousPairs.LetterChainEmbeddings.BiHomPlus
 
 noncomputable section
 

@@ -1,4 +1,6 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SelmerTransport.RestrictionMemInvariantH1
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.NumberTheory.Padics.ProperSpace
+import ReciprocityTheory.GaloisValuations.SeparatedDvrSecondCohomologyMem
 
 open ReciprocityTheory.Gal UpperTheory.V.Base
 

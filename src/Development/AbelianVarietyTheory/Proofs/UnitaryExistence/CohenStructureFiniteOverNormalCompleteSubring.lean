@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosure
 import ReciprocityTheory.CommutativeAlgebra.SaturatedChains.Integral
 import ReciprocityTheory.AdicCompleteness.IsAdicCompleteComapConstantCoeff

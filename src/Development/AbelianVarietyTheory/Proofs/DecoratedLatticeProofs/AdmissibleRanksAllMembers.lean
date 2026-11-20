@@ -1,13 +1,11 @@
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.PtRows
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BrgStdR
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.IsScaleWithBoundedGamma
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SizesEqCount
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.UnitTraceSumBounds.RankConditionsOfLayerTwo
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassNumberAll
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.CollisionTypingsCompare
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ColumnStabilizerTrivialLocal
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.RealTiedSetDiv
+import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.IsLinked
+import Formalism.SharpRestriction.AdmissibleParameterJoins.SfromGLx
 open Formalism.BasicNotions Formalism.MainNotions GlobalTheory.EX GlobalTheory.EX.OB GlobalTheory.Mem GlobalTheory.Mem.Top GlobalTheory.Fc GlobalTheory.MiS GlobalTheory.Fam
 attribute [local instance] Formalism.BasicNotions.Host.cmStar
 

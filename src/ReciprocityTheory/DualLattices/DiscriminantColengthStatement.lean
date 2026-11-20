@@ -1,4 +1,3 @@
-import ReciprocityTheory.DualLattices.CotangentSurjective
 import ReciprocityTheory.DualLattices.VDetEqOneOfIntegral
 
 noncomputable section

@@ -1,9 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.ColumnData
 import Formalism.LocalToGlobal.KernelLattices.ColumnData.HfTrace
-import Formalism.FrobeniusOrbits.HostCorollaries
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.DiscrB
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ExportFamilies
+import Mathlib.Algebra.Polynomial.SpecificDegree
 
 noncomputable section
 

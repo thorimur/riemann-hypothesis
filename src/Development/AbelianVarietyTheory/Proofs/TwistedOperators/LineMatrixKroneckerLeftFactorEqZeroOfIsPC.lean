@@ -1,7 +1,6 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.SchurIrreducible
-import Formalism.LocalToGlobal.BesselHermitianTheta.DefsReal
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsFockIPOfFockData
+import Mathlib.RingTheory.MvPolynomial.EulerIdentity
 
 noncomputable section
 namespace GlobalTheory.FockDeg

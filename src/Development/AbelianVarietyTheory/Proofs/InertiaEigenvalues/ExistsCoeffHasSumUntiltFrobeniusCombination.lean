@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ImportsAlt
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UntiltFrobeniusLaurentSeriesHasSumBoundFrobeniusStatement
+import Mathlib.Order.Interval.Finset.Box
 open Formalism.Per GlobalTheory.PSer
 open scoped Formalism.Per
 

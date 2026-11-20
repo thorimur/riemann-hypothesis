@@ -1,5 +1,7 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.TraceFormulaEigenvalues.FormsFin
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.TraceFormulaEigenvalues.TraceNil
+import Mathlib.Algebra.DirectSum.LinearMap
+import Mathlib.Tactic.ENatToNat
 
 open Module in
 theorem UpperTheory.V.Z.Sym.Tf.trPos :

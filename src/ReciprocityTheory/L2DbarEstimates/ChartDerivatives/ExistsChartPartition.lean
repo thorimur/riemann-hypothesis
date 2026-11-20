@@ -1,4 +1,5 @@
 import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.TsupportDbSubset
+import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
 
 namespace ReciprocityTheory.L2DbarEstimates
 

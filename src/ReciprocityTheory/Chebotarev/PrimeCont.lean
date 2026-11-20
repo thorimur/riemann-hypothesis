@@ -1,5 +1,10 @@
 import ReciprocityTheory.Chebotarev.CasimirPowerSurjectiveSymmetric
 import ReciprocityTheory.Chebotarev.EulerSum
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.SpecialFunctions.Complex.LogBounds
+import Mathlib.NumberTheory.DirichletCharacter.Bounds
+import Mathlib.Tactic.ENatToNat
 
 open NumberField Filter Topology
 

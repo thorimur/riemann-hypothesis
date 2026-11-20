@@ -1,12 +1,8 @@
 import Development.EtaleCohomology.CohomologicalPurity.LeafExcIdentPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafExcDegPf
-import Development.EtaleCohomology.CohomologicalPurity.LeafExcFormalPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafFreeCokInjPf
-import Development.EtaleCohomology.CohomologicalPurity.LeafFreeCokPfSurj
 import Development.EtaleCohomology.CohomologicalPurity.LeafSurjGeoPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafInjGeoPf
-import Development.EtaleCohomology.CohomologicalPurity.LeafExcSheafCut
-import Development.EtaleCohomology.CohomologicalPurity.LeafExcPf
 
 namespace LateralTheory.Fin.LeafExc
 theorem etale_excision_identification_of_excision : LateralTheory.CohomologicalPurity.LeafExcIdent := by

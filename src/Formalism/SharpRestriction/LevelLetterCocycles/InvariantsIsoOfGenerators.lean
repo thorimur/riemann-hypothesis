@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.InvariantsGenerators
-import Formalism.SharpRestriction.LevelLetterCocycles.HerrClassFieldOfNorms
 
 noncomputable section
 

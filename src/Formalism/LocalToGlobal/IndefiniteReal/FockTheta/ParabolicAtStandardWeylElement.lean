@@ -1,6 +1,5 @@
-import Formalism.LocalToGlobal.IndefiniteReal.FockTheta.IoExist
-import Formalism.LocalToGlobal.IndefiniteReal.MultGood
 import Formalism.LocalToGlobal.IndefiniteReal.ConjLemmas
+import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
 
 noncomputable section
 

@@ -1,7 +1,10 @@
-import Mathlib
 import Formalism.FlagUnipotentLattices.UnipotentStabiliserCharacterisation
 import Formalism.FormalDegreeBessel.FormalDegreeRatio.DSFdeg
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.DegreeProportionalWords
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Finset
 open scoped ENNReal

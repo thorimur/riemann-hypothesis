@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.FWExist
-import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.GeometricConstantEquiv
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IpMSelfEqZero
 
 noncomputable section
 

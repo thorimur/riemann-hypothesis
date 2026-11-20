@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TermAttractorConstant.LeadMinorEMulUpper
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

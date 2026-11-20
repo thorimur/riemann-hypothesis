@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.QuotInv
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 open MeasureTheory Matrix
 open scoped ENNReal

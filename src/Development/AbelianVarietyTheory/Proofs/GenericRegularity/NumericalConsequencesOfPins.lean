@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.L2DefiniteCuspForms
 import Formalism.LocalToGlobal.ProjectiveLattices.CuspidalL2Subspace
-import Formalism.LocalToGlobal.ProjectiveLattices.IsGenFrGenFr
 import Development.AbelianVarietyTheory.Proofs.GenericRegularity.DimAddCardFlagVar
 open NumberField IsDedekindDomain ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.BasicNotions Formalism.MainNotions Formalism.L2.Pj
 

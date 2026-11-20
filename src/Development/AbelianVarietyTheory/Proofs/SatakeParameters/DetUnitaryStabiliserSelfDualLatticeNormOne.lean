@@ -1,7 +1,6 @@
-import Formalism.LocalToGlobal.KernelLattices.FirstKernelLawReading
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.IsIntegralDetOfStable
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SmulLatMatOf
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.KernelDatumPeriodIdealFgAndSelfDual
+import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleLayerExistsGenerators
 open Formalism.BasicNotions Formalism.MainNotions Formalism.L2.Ker Formalism.L2.Col Formalism.HermitianLatticesTheory NumberField IsDedekindDomain
 
 namespace GlobalTheory.DetFields

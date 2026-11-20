@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChartDensityChangeFormula
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ChartMeasApplyOfSubset
 open MeasureTheory Topology
 open scoped ENNReal
 set_option maxHeartbeats 1000000 in

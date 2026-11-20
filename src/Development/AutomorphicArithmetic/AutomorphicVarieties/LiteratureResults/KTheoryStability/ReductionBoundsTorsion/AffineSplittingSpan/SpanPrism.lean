@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.ReductionBoundsTorsion.AffineSplittingSpan.Transfer
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.DcCons
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

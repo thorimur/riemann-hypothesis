@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.CdScaleTieIff
 
 open Formalism.BasicNotions Formalism.MainNotions.S MeasureTheory

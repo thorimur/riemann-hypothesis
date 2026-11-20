@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.HostFacts
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.CycGrp
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.HostRam
 
 open NumberField IntermediateField
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.MeasurableCompInfGL
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzRapidDecayColumnStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArchimedeanSmoothKernelRepresentationStatement
 

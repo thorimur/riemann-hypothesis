@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsPolyRep
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PolynomialRepTransvectionEntries
+import Std.Tactic.BVDecide.Normalize.Prop
 open Matrix GlobalTheory.AlgWtHW
 
 namespace GlobalTheory.UnipotentWeights

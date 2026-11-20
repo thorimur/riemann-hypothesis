@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsEulerContraction
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemChartFormsIff
 open GlobalTheory GlobalTheory.LogDR
 

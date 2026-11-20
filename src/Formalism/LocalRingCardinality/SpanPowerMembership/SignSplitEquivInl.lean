@@ -1,5 +1,5 @@
 import Formalism.LocalRingCardinality.SpanPowerMembership.HaarDensityNeZero
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.FrobeniusBoundOfMulNearOne
+import Formalism.RealPlaceAnalysis.InstMeasurableSpaceUJ
 
 noncomputable section
 

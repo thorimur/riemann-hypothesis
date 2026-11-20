@@ -1,8 +1,4 @@
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.SymplOHZeroRight
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.AdlEqZeroOfMemNbhd
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.SobSym
-import Formalism.LocalToGlobal.IndefiniteReal.HaarTransfer.SobLeafP
 
 noncomputable section
 

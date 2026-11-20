@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.Divisibility.CoefModLemmas
 import Formalism.LocalToGlobal.Columns.CoefficientsModP.LatticeBasisExistsHolds
 
 open MvPolynomial NumberField IsDedekindDomain

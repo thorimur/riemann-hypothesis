@@ -1,8 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.CoeffRingsHaveRootsOfUnity
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsLabOfOrder
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.LabelSettingTameGenerator
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BlocksUnique
+import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.NotIsobaricRigid
 
 noncomputable section
 

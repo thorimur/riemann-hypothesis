@@ -1,6 +1,5 @@
 import Formalism.PieriBlockIdeals.TailInequalityEventually
-import Formalism.PieriBlockIdeals.PieriColumnMinors.ParameterBounds
-import Formalism.PieriBlockIdeals.PieriColumnMinors.CorollaryOfParamsSevenLinkage
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

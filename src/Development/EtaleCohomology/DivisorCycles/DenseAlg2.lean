@@ -1,4 +1,8 @@
 import Development.EtaleCohomology.DivisorCycles.CycleCount
+import Mathlib.FieldTheory.IsAlgClosed.Spectrum
+import Mathlib.LinearAlgebra.Matrix.Charpoly.Eigs
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open Matrix Polynomial PositivityTheory.AutomorphicGaloisHodgeTate.Div
 

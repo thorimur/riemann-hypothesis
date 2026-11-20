@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.ProdFormula
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix

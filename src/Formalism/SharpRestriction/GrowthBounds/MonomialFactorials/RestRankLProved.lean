@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestPlusOf
-import Formalism.PolynomialDimension.MultinomialDepth.PartnerM
 
 noncomputable section
 

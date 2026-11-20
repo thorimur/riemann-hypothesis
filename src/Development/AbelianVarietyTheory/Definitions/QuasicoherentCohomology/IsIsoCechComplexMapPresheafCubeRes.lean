@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.QuasicoherentCohomology.HomologyRestrictScalarsBijective
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Topology.Sheaves.SheafCondition.UniqueGluing
 
 open CategoryTheory Limits TopologicalSpace Opposite
 

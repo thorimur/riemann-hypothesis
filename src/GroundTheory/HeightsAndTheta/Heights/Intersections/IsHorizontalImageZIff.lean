@@ -1,8 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.IsPrimeSpanXb
 import GroundTheory.HeightsAndTheta.Heights.Intersections.IsHorizontalSpanXb
 import GroundTheory.HeightsAndTheta.Heights.Intersections.NotIsHorizontalSpanTwo
 import GroundTheory.HeightsAndTheta.Heights.Intersections.IdDeg
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.MultihomogeneousIdeals.ExistsUniqueStatement
 set_option maxSynthPendingDepth 1
 
 noncomputable section

@@ -1,9 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsOmPinsLev
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PinsMerge
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapRowOfBaseTupleIdentityRowSpan
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VectorValuedLiftFieldChange
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterIdeleCharacterMatchUnique
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.PredMemGamRanks
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 200000

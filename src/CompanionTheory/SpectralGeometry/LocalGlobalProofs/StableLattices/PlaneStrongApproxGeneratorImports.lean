@@ -1,3 +1,1 @@
-import Mathlib
-import GroundTheory.GlobalFields.LocalAtPlace
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousSingleV
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd

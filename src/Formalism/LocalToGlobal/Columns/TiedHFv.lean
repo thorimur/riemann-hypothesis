@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.Columns.TiedFv
 import Formalism.LocalToGlobal.Columns.LevPackFrLat
+import Formalism.LocalToGlobal.Columns.JointLevelFrameZero
 
 open NumberField IsDedekindDomain Module Matrix
 open scoped TensorProduct

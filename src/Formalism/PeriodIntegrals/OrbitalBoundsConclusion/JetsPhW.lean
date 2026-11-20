@@ -2,7 +2,6 @@ import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.JetIntegrality.GlueHold
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.JetIntegrality.HighGOf
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.JetIntegrality.ChainSt
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.JetIntegrality.InvOmega
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.JetIntegrality.FirstJetIntegralGeneralHolds
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.JetIntegrality.SecondJetIntegralGeneralHolds
 
 theorem jets_high_generation : PI.JetsPhW.HighG :=

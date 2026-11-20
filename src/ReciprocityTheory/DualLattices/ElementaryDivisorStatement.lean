@@ -2,6 +2,7 @@ import ReciprocityTheory.DualLattices.DotSingle
 import ReciprocityTheory.DualLattices.EmbeddingSeparatingGroupStatement
 import ReciprocityTheory.DualLattices.UnramifiedCokernelLengthOfLengthEigenLengthProduct
 import ReciprocityTheory.DualLattices.EigenLengthProductStatementHolds
+import ReciprocityTheory.DualLattices.IsLocalOfIntegers
 
 noncomputable section
 

@@ -1,6 +1,8 @@
-import Mathlib
 import Formalism.PeriodIntegrals.WeylForU
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CompactGroupIntegrability.InstCompactUG
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Algebra.Star.Unitary
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

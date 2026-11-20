@@ -1,4 +1,8 @@
 import Formalism.HermitianCurvature.StatementJ
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Finset NumberField Formalism.FourierDecayAlt Formalism.FourierDecayAlt.J
 

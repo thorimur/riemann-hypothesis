@@ -1,4 +1,8 @@
 import Formalism.LocalToGlobal.CharacterGerms.IntSProd
+import Formalism.DropLevelBounds.ConstantCoeffVanishing.UbintConstantCoeffEqZero
+import Formalism.LocalToGlobal.CharacterGerms.ConstantCoeffSinglePointZero
+import Formalism.LocalToGlobal.CharacterGerms.LeafHolds
+import Formalism.LocalToGlobal.CharacterGerms.RowTieCartAdd
 
 noncomputable section
 

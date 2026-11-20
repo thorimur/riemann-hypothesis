@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.GenusGluing.GenusApproximation.GlueExists
+import Formalism.LocalToGlobal.GenusGluing.GenusApproximation.Statement
 
 noncomputable section
 

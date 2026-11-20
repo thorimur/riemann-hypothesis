@@ -1,5 +1,5 @@
-import Formalism.ThetaLogCoordinates.TraceIsometryWeights.StatementA
-import Formalism.PolynomialDimension.MultinomialDepth.MonoCount
+import Formalism.MahlerMeasure.MahlerMeasureProofs.WeightSpaceDimensionMonotone
+import Formalism.ThetaLogCoordinates.TraceIsometryWeights.DivStable
 
 namespace Formalism.InvariantFactorPaths.PW
 

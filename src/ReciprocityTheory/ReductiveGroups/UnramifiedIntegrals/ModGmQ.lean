@@ -1,9 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModDefs
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModBasic
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.CoeffRescaleExpandOfNotDvd
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModEvalSer
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModEvalMF
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModFacSer
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModGmForm
 

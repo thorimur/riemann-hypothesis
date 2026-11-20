@@ -2,6 +2,8 @@ import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescen
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.TwGFree
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.DvdOfAeval
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.EqZeroOfAevalEqZero
+import Mathlib.LinearAlgebra.AnnihilatingPolynomial
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix Polynomial NumberField IsDedekindDomain
 open scoped TensorProduct

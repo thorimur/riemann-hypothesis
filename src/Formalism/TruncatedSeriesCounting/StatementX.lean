@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.WindowSums.Statement
 import Formalism.TruncatedSeriesCounting.RamifiedValuationInequality
 
 noncomputable section

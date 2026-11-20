@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.PublishedTheorems.QuotRepMk
+import Mathlib.Analysis.Complex.UpperHalfPlane.Measure
+import Mathlib.NumberTheory.ModularForms.Petersson
 
 noncomputable section
 

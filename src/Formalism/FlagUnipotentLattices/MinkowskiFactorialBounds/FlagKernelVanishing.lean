@@ -1,5 +1,6 @@
 import Formalism.FlagUnipotentLattices.FlagUnipotentLattice
-import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.OperatorHilbertSchmidtNorm
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.WittVector.IsPoly
 
 open MeasureTheory NumberField Matrix
 open scoped InnerProductSpace

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.HeckeCharEqOfLAdicRealisation
+import Formalism.SharpRestriction.LevelLetterCocycles.DataN
 
 namespace GlobalTheory.AbsolutelyIrreduciblePullback
 

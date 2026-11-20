@@ -1,6 +1,7 @@
 import Formalism.LocalToGlobal.NumberFieldFamilies.ThetaCB
-import Formalism.SharpRestriction.InertJacobiLevels.ExtraTheta
-import Formalism.LocalRingCardinality.SpanPowerMembership.BaseFormAnisotropicOrthogonalSingle
+import Formalism.LocalToGlobal.BesselHermitianTheta.LemmasWeil
+import Formalism.LocalToGlobal.BesselHermitianTheta.TiedType
+import Formalism.LocalToGlobal.GlobalTheory.GL5.FamilyMassVolumeIdentityOfClassDecomp
 
 noncomputable section
 

@@ -1,4 +1,7 @@
 import Formalism.TruncatedSeriesCounting.LengthQuotientLeOfPowSMul
+import Mathlib.RingTheory.PowerSeries.NoZeroDivisors
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

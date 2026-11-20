@@ -1,8 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEnCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutCVPresFF
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellHermitian
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellOrbitSet
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralAeConvergenceContinuity
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaCutoffLimit
 
 open Formalism.FourierDecayAlt MeasureTheory

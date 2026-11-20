@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSBArgs
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsWeilOver
 
 noncomputable section
 

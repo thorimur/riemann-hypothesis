@@ -1,8 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.PullRigIsSymmetric
 import Development.AbelianVarietyTheory.Definitions.Foundations.MemUnitaryGroupIffIsIsometry
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.KTrivOfUnimodular
-import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.ExistsLeftInverse
+import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.ExistsLbHermitian
+import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.IsSemiAbelianOfRetract
+import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.NonemptyTorusExtensionOfIsPowGrp
 
 noncomputable section
 

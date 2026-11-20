@@ -1,10 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsLiftSpread
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsLiftAtPrime
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsLiftModelNef
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsLiftModelGen
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsLiftBirationalAmple
 import GroundTheory.HeightsAndTheta.Heights.Intersections.IsSmoothMetricOfIsSmoothHerm
+import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsLiftBirationalNef
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

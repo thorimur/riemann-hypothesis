@@ -1,5 +1,5 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PeriodRingComparison.CrystallinePeriodRings.AcrisNAlgebraMapAinf
+import Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Embedding
+import Development.WeilBound.CoreStatements.PeriodRingComparison.CrystallinePeriodRings.GammaEqDpow
 
 noncomputable section
 open GroundTheory.PAdicHodge

@@ -1,7 +1,4 @@
-import Mathlib
-import Development.WeilBound.ThetaLifts.CTKernel
 import Development.WeilBound.ThetaLifts.FrameEstimates.SquareIntegrableWeilRange
-import Development.WeilBound.ThetaLifts.TowerModels.PlaneHerm
 
 noncomputable section
 

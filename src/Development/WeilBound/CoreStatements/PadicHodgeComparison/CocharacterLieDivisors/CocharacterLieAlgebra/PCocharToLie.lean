@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.CocharacterLieDivisors.CocharacterLieAlgebra.StCochar
+import Mathlib.Algebra.DualNumber
 
 noncomputable section
 

@@ -1,4 +1,6 @@
 import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohTateA
+import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohDefs
+import GroundTheory.ProfiniteCohomology.CyclicCupProf
 
 open CategoryTheory MonoidalCategory GroundTheory.ProfCoh ReciprocityTheory.Gal ValuativeRel
 

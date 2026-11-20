@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.GrowthBounds.FormalGroupSystem
 import Formalism.LocalToGlobal.GroupLattices.PerfectRings.ICIntCp
 
 noncomputable section

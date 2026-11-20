@@ -4,6 +4,12 @@ import Formalism.EllipticTorsion.EllipticTorsionProofs.WPoint
 import Formalism.EllipticTorsion.EllipticTorsionProofs.WSubst
 import Formalism.EllipticTorsion.EllipticTorsionProofs.WChord
 import Formalism.EllipticTorsion.EllipticTorsionProofs.NDeriv
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Topology.Algebra.InfiniteSum.Nonarchimedean
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open PowerSeries
 

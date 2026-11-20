@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.AdBridgeSteps
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FiniteAdelicComparison.MemLocFrom
 
 noncomputable section

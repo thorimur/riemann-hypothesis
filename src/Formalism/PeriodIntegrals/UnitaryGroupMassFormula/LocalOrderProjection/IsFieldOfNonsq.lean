@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.PeriodIntegrals.LocHerm
-import Formalism.PeriodIntegrals.AlgebraMapMemO
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalOrderProjection.LocOProjOf
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.DedekindDomain.PID
 
 noncomputable section
 

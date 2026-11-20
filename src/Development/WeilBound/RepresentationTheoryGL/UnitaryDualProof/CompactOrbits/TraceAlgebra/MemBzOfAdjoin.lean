@@ -2,6 +2,7 @@ import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbi
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.TraceAlgebra.CoefficientTraces.TraceAllHolds
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.TraceAlgebra.LinearConjugation.ToLinAlgEquivEq
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.TraceAlgebra.RestrictionHomomorphisms.ResHomApply
+import Mathlib.NumberTheory.LocalField.Basic
 
 noncomputable section
 

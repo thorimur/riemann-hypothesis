@@ -1,4 +1,4 @@
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RigOfOmegaInjectiveOfEqZero
+import Development.AbelianVarietyTheory.Definitions.Divisors.KerIdealCompOfSurjective
 open scoped TensorProduct
 
 namespace GlobalTheory

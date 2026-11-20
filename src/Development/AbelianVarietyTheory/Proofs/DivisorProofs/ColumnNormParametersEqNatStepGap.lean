@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsClassFam
 import Formalism.LocalToGlobal.Divisibility.NumbersLemmas
 open Formalism.BasicNotions Formalism.MainNotions Formalism.L2.DIV

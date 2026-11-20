@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapPairDetCovec
-import Development.AbelianVarietyTheory.Proofs.ModuliProofs.WeilIsGrpPullbackOfCommute
-import Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsPushEquiv
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PAdicPointLevelPowerStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTateModuleOfEvaluationsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TateLatticeSpansStatement

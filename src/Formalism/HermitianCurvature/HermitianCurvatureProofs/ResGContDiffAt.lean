@@ -1,6 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.MinorCellOfParts
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RadJFExists
-import Formalism.FormalDegreeBessel.FinalWR
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.WCellMemOmPlus
 
 open Matrix
 

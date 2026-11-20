@@ -1,5 +1,15 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.InstFintypeSumElim
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.NumberTheory.Zsqrtd.GaussianInt
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.DedekindDomain.Instances
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.KrullDimension.Polynomial
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 set_option maxSynthPendingDepth 1
 
 noncomputable section

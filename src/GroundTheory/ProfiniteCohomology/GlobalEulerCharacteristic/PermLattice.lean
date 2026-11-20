@@ -1,9 +1,9 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.Additive
-import GroundTheory.GlobalFields.HerbrandQuotients.Lattice
 import GroundTheory.GlobalFields.HerbrandQuotients.SUnitsPerm
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.PermLatticeDefs
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.PermLatticeCharacter
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

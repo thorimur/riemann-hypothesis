@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.Alternates
 
 namespace GlobalTheory.HTW.Model

@@ -8,7 +8,6 @@ import Development.EtaleCohomology.DivisorCycles.TanLiePf
 import Development.EtaleCohomology.DivisorCycles.GradePf
 import Development.EtaleCohomology.DivisorCycles.CycSpecQzkPf
 import Development.EtaleCohomology.DivisorCycles.FixScalOf
-import Development.EtaleCohomology.DivisorCycles.CycleCountPf
 import Development.EtaleCohomology.DivisorCycles.DiagScalar2
 import Development.EtaleCohomology.DivisorCycles.AlgStruct2
 import Development.EtaleCohomology.DivisorCycles.CoeMulInv

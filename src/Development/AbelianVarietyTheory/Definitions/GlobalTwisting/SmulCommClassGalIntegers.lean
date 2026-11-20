@@ -1,8 +1,8 @@
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.MainIn
-import Formalism.GL3MeanSquares.SmoothedRemainderRealIntegralFormula
-import Formalism.CyclotomicNorms.StatementI
 import Development.AbelianVarietyTheory.Definitions.Foundations.RayPrimes
+import Mathlib.NumberTheory.Harmonic.ZetaAsymp
+import Mathlib.NumberTheory.Padics.HeightOneSpectrum
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

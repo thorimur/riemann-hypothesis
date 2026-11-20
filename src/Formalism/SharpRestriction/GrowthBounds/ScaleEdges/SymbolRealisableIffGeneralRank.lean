@@ -1,5 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.ExistsPolFamilyOfMemGenOfVsDegLe
 import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.MultidegreeBoundLeA
+import Formalism.SharpRestriction.GrowthBounds.PathWeight.CoeUntopDLeAlt
+import Formalism.SharpRestriction.GrowthBounds.PathWeight.LetterWeightPos
 
 noncomputable section
 

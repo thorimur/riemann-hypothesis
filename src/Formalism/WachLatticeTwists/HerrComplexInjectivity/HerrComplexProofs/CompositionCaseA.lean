@@ -1,5 +1,7 @@
 import Formalism.WachLatticeTwists.HerrComplexInjectivity.ExtInputNA
 import Formalism.WachLatticeTwists.HerrComplexInjectivity.HerrComplexProofs.RegulatorQuotientCaseA
+import Formalism.WachLatticeTwists.HerrComplexInjectivity.HerrComplexProofs.ShortExactSequenceHolds
+import Formalism.WachLatticeTwists.LagrangeExtensionCocycles.ExtensionCocycleProofs.EtaleClosedPointLiftsSimpleRootsMonic
 
 noncomputable section
 

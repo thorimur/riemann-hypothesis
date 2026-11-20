@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.HeckeLower
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.UnderEqOfNotCoprime
 

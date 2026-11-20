@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.GeometricAbelianConnected
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.CompRightEqZero
 
 noncomputable section
 

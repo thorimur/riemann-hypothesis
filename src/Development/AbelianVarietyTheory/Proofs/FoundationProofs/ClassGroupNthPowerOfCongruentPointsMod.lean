@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.DedekindFiniteTypeIdealCodimensionStatement
+import Mathlib.Tactic.ENatToNat
 open Polynomial
 
 namespace GlobalTheory

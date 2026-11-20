@@ -1,8 +1,7 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.JacChart
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.FinalTheorems
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.StalkLocA
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.StalkLocB
+import Mathlib.RingTheory.Nullstellensatz
 
 open AlgebraicGeometry CategoryTheory MvPolynomial
 

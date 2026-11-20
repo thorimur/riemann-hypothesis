@@ -1,5 +1,9 @@
 import Formalism.LocalRingCardinality.DataRows
 import Formalism.LocalRingCardinality.DataArith
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 open NumberField IsDedekindDomain
 

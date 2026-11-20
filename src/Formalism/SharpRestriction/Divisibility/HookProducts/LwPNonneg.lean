@@ -1,8 +1,3 @@
-import Formalism.SharpRestriction.Divisibility.SlopeExcess.ConstRankBaseLePolyFourth
-import Formalism.SharpRestriction.GrowthBounds.TopChoiceBounds
-import Formalism.SharpRestriction.GrowthBounds.JointsLit
-import Formalism.SharpRestriction.GrowthBounds.AdmissibleIntegers.FirstTermSizeBound
-import Formalism.LocalRingCardinality.DataExtra
 import Formalism.SharpRestriction.Divisibility.HookProducts.CardLiftsEq
 
 noncomputable section

@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WEMulNUMulTD
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BallIndicatorSmallerBallsSumStatement
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

@@ -1,11 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsGrassFibreDegree
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGrassLinesProj
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ConservationDegreeFormOfExistence
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.GeoNum
-import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.IntNumRelabel
-import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsExamples
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.MultihomogeneousIdeals.InhDivCycleOfSuppEmpty
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

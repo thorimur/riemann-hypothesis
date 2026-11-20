@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
 import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
-import Formalism.HarderNarasimhan.QuotRealize
 
 open MeasureTheory NumberField Matrix Finset
 open scoped InnerProductSpace

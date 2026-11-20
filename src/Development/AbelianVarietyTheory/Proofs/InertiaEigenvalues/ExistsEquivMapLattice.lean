@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.TwGood
-import Formalism.SharpRestriction.ParamsHeightRankConstant
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCharDescent
+import Formalism.LocalRingCardinality.DataNChoice
+import Formalism.SharpRestriction.LevelLetterCocycles.IntegralHeckeForms
 
 noncomputable section
 

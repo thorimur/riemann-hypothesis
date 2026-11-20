@@ -1,7 +1,7 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ExistsGaugeMeasureForEachRank
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CircleGaugeAction.DglApplyOff
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CircleGaugeAction.OfRealCoordsSmulCenterCoord
+import Mathlib.Analysis.SpecialFunctions.Complex.Circle
+import Mathlib.MeasureTheory.Measure.Lebesgue.VolumeOfBalls
+import Mathlib.Topology.Separation.CompletelyRegular
 
 noncomputable section
 

@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.OneMapT
-import Formalism.LocalToGlobal.IndefiniteReal.FWExist
-import Development.AbelianVarietyTheory.Definitions.Divisors.PerCEmb
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsUnitaryOnTheta
 
 open NumberField Matrix IsDedekindDomain

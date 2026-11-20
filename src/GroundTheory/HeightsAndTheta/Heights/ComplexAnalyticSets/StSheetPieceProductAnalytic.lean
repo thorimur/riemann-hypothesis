@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.LocalParametrisation
 set_option maxSynthPendingDepth 1
 

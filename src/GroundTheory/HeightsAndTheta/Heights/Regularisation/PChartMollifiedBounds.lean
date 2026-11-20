@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Regularisation.Statements
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.StatementsChartBounds
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.StatementsTruncPsh
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMoll

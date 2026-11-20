@@ -1,4 +1,3 @@
-import Formalism.RankGapBounds.RankAndGapBounds
 import Formalism.RankGapBounds.RandomSubsetCounterexample
 import Formalism.RankGapBounds.ConjInOrbit
 

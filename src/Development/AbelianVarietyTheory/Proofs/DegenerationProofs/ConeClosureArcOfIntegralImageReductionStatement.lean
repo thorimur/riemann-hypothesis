@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ConeClosureArcOfIntegralImageReduction
 open scoped BigOperators
 set_option maxHeartbeats 1000000 in

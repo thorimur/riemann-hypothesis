@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.ACrisGalois
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.MapWXi
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.CechPairings.InstAddCommGroup

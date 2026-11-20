@@ -1,8 +1,7 @@
-import Mathlib
 import Formalism.HermitianLattices.NeighbourConstruct
 import Formalism.HermitianLattices.HermitianLatticesProofs.LocBasic
-import Formalism.HermitianLattices.HermitianLatticesProofs.DualBasic
 import Formalism.HermitianLattices.HermitianLatticesProofs.NeighbourBasic
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

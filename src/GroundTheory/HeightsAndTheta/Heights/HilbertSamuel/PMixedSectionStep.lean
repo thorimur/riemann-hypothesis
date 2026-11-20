@@ -1,15 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsMixedSectionStep
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSmallSectionMixed
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsIntegralAgainstPositive
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsZCombExpand
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSmallSectionMixed
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PShiftNefBig
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PZCombLimit
-import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsArith
 import GroundTheory.HeightsAndTheta.Heights.Intersections.NotLtLtOfMemMinimalPrimes
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.KleimanNefness.KleimanSt
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterDivSupp
 set_option maxSynthPendingDepth 1
 
 noncomputable section

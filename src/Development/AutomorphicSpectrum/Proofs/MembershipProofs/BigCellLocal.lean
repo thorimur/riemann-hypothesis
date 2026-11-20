@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.MembershipCriteria.GoodChar
 import Development.AutomorphicSpectrum.Proofs.MembershipProofs.ExistsSkewOfDiagonal
+import Mathlib.Tactic.Polynomial.Basic
 
 open GlobalTheory.CompanionTheory.VacLoc GlobalTheory.CompanionTheory.FinHeis GlobalTheory.WeilM MeasureTheory Matrix
 

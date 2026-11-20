@@ -3,6 +3,8 @@ import Development.WeilBound.ThetaLifts.LatticeBasics.LocUnrInertA
 import Development.WeilBound.ThetaLifts.LatticeBasics.LocUnrInertN
 import Development.WeilBound.ThetaLifts.LocalTheory.UnramifiedCohomology.ExistsSelfDual
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIsSplitChartOne
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharactersAgreeInertUnramified
+import Development.WeilBound.CoreStatements.LocalThetaKernels.IwasMain
 
 noncomputable section
 

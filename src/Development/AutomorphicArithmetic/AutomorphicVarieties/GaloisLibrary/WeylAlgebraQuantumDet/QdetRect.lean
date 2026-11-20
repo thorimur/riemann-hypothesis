@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.WeylAlgebraQuantumDet.IsTop
+import Formalism.RealPlaceAnalysis.StatementE
 
 open Matrix UpperTheory.V.Weyl
 

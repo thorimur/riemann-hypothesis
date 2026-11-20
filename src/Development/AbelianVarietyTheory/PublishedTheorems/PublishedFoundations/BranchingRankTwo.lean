@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.PublishedFoundations.FiniteIntertwining
+import Mathlib.Order.Interval.Finset.Box
 
 open MvPolynomial Formalism.BasicNotions
 open Formalism.MainNotions.PrimeDegreeVariant (embGL Interlace)

@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.AtTLemmas
-import Formalism.LocalRingCardinality.DataArith
-import Formalism.GL3MeanSquares.RationalMatrixPrimeOrderBound
 
 open NumberField IsDedekindDomain Module
 

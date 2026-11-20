@@ -1,11 +1,7 @@
 import ReciprocityTheory.GroupCohomology.TransgressionStatement
-import ReciprocityTheory.GroupCohomology.DEqZeroOfMemB
 import ReciprocityTheory.GroupCohomology.ConnNatHolds
-import ReciprocityTheory.GroupCohomology.FinGen
-import ReciprocityTheory.GroupCohomology.FiberFirstH0Injective
-import ReciprocityTheory.GroupCohomology.ProdHolds
-import ReciprocityTheory.GroupCohomology.EqZeroOfLe
 import ReciprocityTheory.GroupCohomology.RankLenA
+import Mathlib.Order.CompletePartialOrder
 
 namespace ReciprocityTheory.Coh
 

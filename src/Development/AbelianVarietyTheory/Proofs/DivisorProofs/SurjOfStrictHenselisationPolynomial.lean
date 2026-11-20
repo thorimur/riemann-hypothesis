@@ -1,10 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.GalMapMul
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsStrictHenselisation
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndEtaleLocalizedPiecesTrans
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AlgHomExtLocalization
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BijectiveResidueCompEtaleHenselian
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSpecialisationToStrictlyHenselian
+import Mathlib.Algebra.Order.PUnit
 open IsLocalRing Polynomial
 open GlobalTheory.EtC
 

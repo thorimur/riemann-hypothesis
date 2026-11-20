@@ -1,7 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.StBoundedChartsOfRegCharts
-import GroundTheory.HeightsAndTheta.Heights.Regularisation.ToPotentialChartsChartFun
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.ProjLineChartsNotSubsetBall
+import Mathlib.Topology.OpenPartialHomeomorph.Constructions
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.Regular

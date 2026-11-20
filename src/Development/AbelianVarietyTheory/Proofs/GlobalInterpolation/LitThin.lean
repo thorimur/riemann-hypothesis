@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.MainSup
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ImportsFurther
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ExplicitFormulaAndWindowCount

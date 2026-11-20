@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.QuotientVanishing.NonEllFlag
+import Mathlib.LinearAlgebra.Eigenspace.Semisimple
 
 noncomputable section
 

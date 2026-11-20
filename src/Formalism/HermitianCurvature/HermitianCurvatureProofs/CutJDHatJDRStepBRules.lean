@@ -1,7 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapRGrpPTop
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.QminorZero
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.WeylCellMulVecBasis
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.NFRadRedLocSec
 
 open Matrix
 

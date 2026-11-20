@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.TateTwists.EtaleSheafRestrictScalarsResolutionHomExistsOfEx
+import Mathlib.CategoryTheory.Sites.Adjunction
 
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC
 

@@ -1,6 +1,9 @@
-import Development.WeilBound.ThetaLifts.EigenvalueEndgame.OrthogonalDecomposition.PairLocOf
 import Development.WeilBound.ThetaLifts.EigenvalueEndgame.OrthogonalDecomposition.Imports
 import Development.WeilBound.ThetaLifts.LatticeBasics.SchToPol
+import Development.WeilBound.ThetaLifts.CartanFactorisation.IntegrableOnRight
+import Development.WeilBound.ThetaLifts.EigenvalueEndgame.OrthogonalDecomposition.ActsOfReads
+import Development.WeilBound.ThetaLifts.EigenvalueEndgame.OrthogonalDecomposition.HodgeTateFromSandwich
+import Development.WeilBound.ThetaLifts.FrameEstimates.ThickFrames
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.VEqZeroOfPowEqOne
 
 namespace ReciprocityTheory.ChartRestriction.G.Sh

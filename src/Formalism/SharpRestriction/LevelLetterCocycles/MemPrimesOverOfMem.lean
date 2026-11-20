@@ -1,6 +1,3 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.StatementFamilies.ExportFamilies
-import Formalism.FrobeniusOrbits.RealSubfieldLeCompositum
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.FrameFacts
 import Development.AutomorphicArithmetic.ResidueCharacters.SumLogDivSqModPmOneLe
 import Development.AutomorphicArithmetic.CyclotomicBounds.CyclotomicOrders.NuHost
 

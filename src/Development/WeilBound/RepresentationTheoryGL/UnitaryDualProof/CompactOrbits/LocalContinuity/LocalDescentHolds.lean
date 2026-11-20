@@ -1,5 +1,7 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.LocStep
-import GroundTheory.AutomorphicForms.WhittakerDistribution
+import GroundTheory.AutomorphicForms.GLnLocal
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Topology.Algebra.Nonarchimedean.TotallyDisconnected
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GroupLattices.LevelCharts.LevelsOfTie
+import Formalism.LocalToGlobal.GroupLattices.LevelCharts.LevelsOfCh
 
 noncomputable section
 

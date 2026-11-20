@@ -1,10 +1,9 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.RowsExhaust
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.SplitRep
 import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.ResidualConstruction
 import Formalism.SharpRestriction.LevelLetterCocycles.TypePrimeCongruences
 import Formalism.AdmissibleDesigns.RestrictedSevenEightOfFull
 import Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.CoefficientCompatibilityOf
+import Formalism.LocalToGlobal.NormalizedHeckeFactors.HeckeStdTwOfStd
 
 noncomputable section
 

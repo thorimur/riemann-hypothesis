@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDRInvCov
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapRGrpMRealInv
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDRInvDefs
 
 open Matrix
 open scoped ContDiff

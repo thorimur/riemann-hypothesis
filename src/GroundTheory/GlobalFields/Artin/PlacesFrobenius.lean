@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.Places
+import GroundTheory.GlobalFields.Artin.MackeyFrobenius
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 set_option maxSynthPendingDepth 1
 
 noncomputable section

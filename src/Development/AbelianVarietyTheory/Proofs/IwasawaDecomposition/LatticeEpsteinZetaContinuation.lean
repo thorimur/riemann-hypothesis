@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.NonemptyRayDataOfNeZero
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeThetaAsymptoticsStatement
+import Mathlib.NumberTheory.LSeries.MellinEqDirichlet
 open Complex Filter Asymptotics
 
 namespace GlobalTheory

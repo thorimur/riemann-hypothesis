@@ -1,11 +1,7 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.GermLocalOfFibres
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FmSmulLeft
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.WaveLocBOf
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBBLiftV
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCLoc
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PsiNegBetaL
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PositivityBoundOfActual
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBJoint
 
 namespace Formalism.FourierDecayAlt.P.GermFibreKernels
 

@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.LocalFields.LocalFourier
+import GroundTheory.LocalFields.LocalFourierChar
+import Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar
 
 noncomputable section
 

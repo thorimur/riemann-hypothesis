@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IsometryDeterminant.LidxAntisymm
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

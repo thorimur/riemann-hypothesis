@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.OrbitLabellings.RowDefs
-import Formalism.LocalToGlobal.CharacterGerms.RowTieMemCFin
-import Formalism.LocalToGlobal.CharacterGerms.RowTieFlagS
 import Formalism.LocalToGlobal.CharacterGerms.RowTieUpFBrFin
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ImportsRestBis
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ImportsRestTer

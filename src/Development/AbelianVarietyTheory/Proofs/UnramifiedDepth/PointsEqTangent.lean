@@ -1,5 +1,5 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.EvCotStatement
+import ReciprocityTheory.DualLattices.TowerZeroSurjective
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open TensorProduct IsLocalRing Matrix ReciprocityTheory.PGsh ReciprocityTheory.PGsh.Up ReciprocityTheory.PGsh.L2 ReciprocityTheory.PGsh.Be2
 

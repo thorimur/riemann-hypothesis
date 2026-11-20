@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Statements.GeometryStatements.CompactConjugacyDomainLocal
 
 noncomputable section

@@ -1,7 +1,7 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.RestrictedCharpolys.FiniteCharpoly
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.RestrictedCharpolys.FibVanPull
-import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.LocalContinuity.LocalDescentHolds
-import GroundTheory.AutomorphicForms.ContragredientTranspose.MatrixSimilarity
+import Mathlib.LinearAlgebra.Matrix.Charpoly.Univ
+import Mathlib.Topology.Algebra.MvPolynomial
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.InertKernelTheory.DefsRepRec
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.SameChart
 
 noncomputable section

@@ -7,7 +7,7 @@ import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.CoefLoc
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.BesselVectors.Closed
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.BesselVectors.DecLow
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.FinalClosed
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.HWExists
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.DiscreteSeriesUniqueLargeGap
 
 namespace Formalism.L2.SG.OwnFacts
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.AlgebraicPreliminaries.CoproductBaseChange
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry
 

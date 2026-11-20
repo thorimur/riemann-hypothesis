@@ -1,5 +1,7 @@
-import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.VerticalStrips.UnramifiedEulerProductIntegral
+import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.Translation
+import GroundTheory.AutomorphicForms.GL2Classical.Growth
+import GroundTheory.AutomorphicForms.GL2Classical.KFinite
 
 noncomputable section
 

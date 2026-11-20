@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.LinksChar
 import Formalism.SharpRestriction.Divisibility.PrimeDegreeVariant
-import Formalism.LocalToGlobal.Divisibility.ProjLemmas
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.CuspidalProductMultiplicity
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PlaceBound
 
 noncomputable section

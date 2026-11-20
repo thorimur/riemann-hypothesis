@@ -1,4 +1,5 @@
 import Formalism.SatakeDualWeyl.DefsCS
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

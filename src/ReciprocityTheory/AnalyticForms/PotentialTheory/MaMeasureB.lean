@@ -1,5 +1,4 @@
 import ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasureA
-import ReciprocityTheory.AnalyticForms.PotentialTheory.IntegrableOnTargetOfTsupport
 import ReciprocityTheory.AnalyticForms.PotentialTheory.LocDens
 import ReciprocityTheory.AnalyticForms.PotentialTheory.Partition
 

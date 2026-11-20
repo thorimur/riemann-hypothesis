@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterBridgeH
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsProjRegular
 set_option maxSynthPendingDepth 1

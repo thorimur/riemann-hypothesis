@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GeneratesAlong
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Proportional
 
 noncomputable section
 

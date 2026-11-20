@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.Tuples
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsFiniteAdeleBaseChangeEquiv
 open NumberField IsDedekindDomain Formalism.L2.DIV Formalism.UG
 

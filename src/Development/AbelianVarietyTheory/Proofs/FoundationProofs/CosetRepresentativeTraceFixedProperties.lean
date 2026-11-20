@@ -1,4 +1,6 @@
 import Development.AbelianVarietyTheory.Definitions.Foundations.CosetTrace
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 open GlobalTheory.AlmostEt
 open scoped NNReal
 

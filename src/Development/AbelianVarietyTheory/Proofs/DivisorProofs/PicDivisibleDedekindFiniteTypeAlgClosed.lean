@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConstantCoeffHasse
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AlgebraMapQuotBijective
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCompletionEmbedding
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DegreeCountGenerates
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClassGroupNthPowerOfCodimOneMod
@@ -12,6 +9,7 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasseDerivativePowe
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasseJetVanishingMemPowStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFinrankQuotientSpanModEqOneStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSeparableNormalisationReducedFibresStatement
+import Mathlib.RingTheory.PowerSeries.Inverse
 
 open Polynomial
 

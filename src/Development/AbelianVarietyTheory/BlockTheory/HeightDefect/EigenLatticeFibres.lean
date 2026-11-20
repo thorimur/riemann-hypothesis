@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.CMCurveHermitianForms
-import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ArakelovDegreeEqDegreeOfFamily
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.EigLatBasis
+import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ConjSymm
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.ThetaUnifAV
 
 noncomputable section
 

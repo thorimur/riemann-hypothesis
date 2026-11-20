@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Statements.GeometryStatements.HodgeTateCokerSharp
 import Development.WeilBound.CoreStatements.HodgeTatePoints.FarsharpA
 import Development.WeilBound.CoreStatements.HodgeTatePoints.FarsharpB
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConvEqOneOfForallPairing
 
 noncomputable section
 

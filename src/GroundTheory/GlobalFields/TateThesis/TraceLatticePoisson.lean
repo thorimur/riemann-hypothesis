@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.TraceLatticeEuclidean
 import GroundTheory.GlobalFields.TateThesis.LatticePoisson
 

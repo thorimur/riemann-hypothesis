@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.ThDistC
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsOfStarEq
 
 noncomputable section

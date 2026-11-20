@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.RestNonneg
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Complex.ExponentialBounds
 
 open Formalism.L2.FormalSeriesBounds
 

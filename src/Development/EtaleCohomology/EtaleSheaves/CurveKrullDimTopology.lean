@@ -1,6 +1,5 @@
 import Mathlib.Topology.KrullDimension
 import Mathlib.Topology.NoetherianSpace
-import Mathlib.Topology.Sober
 
 open Set Topology TopologicalSpace
 

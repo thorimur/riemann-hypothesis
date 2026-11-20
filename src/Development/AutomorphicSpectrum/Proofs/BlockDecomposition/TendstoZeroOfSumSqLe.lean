@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PublishedTheorems.JacquetShalikaBound.FormQuasiInvariantMirabolic
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsBisTer
 

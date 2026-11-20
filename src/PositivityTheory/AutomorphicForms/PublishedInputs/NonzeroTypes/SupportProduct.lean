@@ -11,7 +11,6 @@ import PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.PSpPiSub
 import PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.PSpSupp
 import PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.CuspidalSupport2
 import PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.ProductIrreducible2
-import PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.TensorVector
 
 namespace UpperTheory.TNZ.Grp
 

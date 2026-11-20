@@ -1,9 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.CurveVerticalPointChart
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsCurveRingFinite
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsCurveClosedPointChart
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PLiftBirationalAmple
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.PCurveDivVertical
+import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.CurveCountObjects
+import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsCurveVertPointLengthSteps
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Targets

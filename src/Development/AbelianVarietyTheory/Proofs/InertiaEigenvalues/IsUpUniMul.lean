@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellDef
+import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 
 namespace GlobalTheory.UpperUnipotentMul
 

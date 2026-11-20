@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.GoodModelLattice
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementK
+import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.IsogenyFormulaInstance
 
 noncomputable section
 open scoped BigOperators

@@ -1,10 +1,8 @@
 import Development.EtaleCohomology.CohomologicalPurity.FinLeafThom
 import Development.EtaleCohomology.CohomologicalPurity.FinLeafChart
 import Development.EtaleCohomology.CohomologicalPurity.FinLeafExc
-import Development.EtaleCohomology.CohomologicalPurity.LeafClCut
 import Development.EtaleCohomology.CohomologicalPurity.LeafDescOSepPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafDescOGluePfP
-import Development.EtaleCohomology.CohomologicalPurity.LeafDescPfGlue
 import Development.EtaleCohomology.CohomologicalPurity.LeafDictPfDbl
 import Development.EtaleCohomology.CohomologicalPurity.LeafDiscNrmPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafEvPf
@@ -16,7 +14,6 @@ import Development.EtaleCohomology.CohomologicalPurity.LeafZlocPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafZeroPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafStepPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafTopPf
-import Development.EtaleCohomology.CohomologicalPurity.LeafFlqPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafNbPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafVanRingPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafVanPf
@@ -24,7 +21,6 @@ import Development.EtaleCohomology.CohomologicalPurity.LeafVanFPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafOffPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafGenRingPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafGenKerPf
-import Development.EtaleCohomology.CohomologicalPurity.LeafGenPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafMatPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafCmpPfAll
 

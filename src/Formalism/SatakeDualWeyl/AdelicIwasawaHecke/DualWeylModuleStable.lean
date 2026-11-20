@@ -1,5 +1,4 @@
 import Formalism.SatakeDualWeyl.StatementW
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
 
 noncomputable section
 

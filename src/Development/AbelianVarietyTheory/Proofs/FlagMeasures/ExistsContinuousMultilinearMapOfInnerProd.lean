@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
+import Mathlib.RingTheory.PiTensorProduct
 
 open Formalism.MainNotions.S NumberField
 open scoped InnerProductSpace

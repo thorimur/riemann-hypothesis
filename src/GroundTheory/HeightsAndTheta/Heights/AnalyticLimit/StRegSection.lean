@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StLemmaETailLog
 set_option maxSynthPendingDepth 1
 

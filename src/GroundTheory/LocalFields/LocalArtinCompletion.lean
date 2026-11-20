@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.LocalFields.NormCorrespondence
 import GroundTheory.LocalFields.OpenCompletion
+import GroundTheory.LocalFields.LocalArtinMap
 
 noncomputable section
 

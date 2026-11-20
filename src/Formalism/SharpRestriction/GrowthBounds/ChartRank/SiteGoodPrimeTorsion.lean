@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypVinRec
-import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypInvLe
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypForms
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypEvChain
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypLat
@@ -7,9 +6,6 @@ import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypChi
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.IntWOfPow
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypFin
 import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.ValIntN
-import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.TiedCls
-import Formalism.SharpRestriction.GrowthBounds.ChartComparison.LocTiesOf
-import Formalism.SharpRestriction.GrowthBounds.IntegralWeylLatticeSpan
 
 noncomputable section
 

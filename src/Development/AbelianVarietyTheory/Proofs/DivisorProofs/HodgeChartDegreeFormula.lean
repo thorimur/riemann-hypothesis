@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MinorAtMulTriangular
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CramerTriBlockTriangular
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CompareFrames
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WValAtLeOneAndUnitAt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HodgeChartHeightBoundStatement

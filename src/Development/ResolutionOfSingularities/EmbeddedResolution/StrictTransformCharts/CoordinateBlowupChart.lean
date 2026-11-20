@@ -1,8 +1,5 @@
-import Mathlib
-import Development.ResolutionOfSingularities.Foundations.Blowup.AffineBlowup
 import Development.ResolutionOfSingularities.Foundations.Blowup.AffineBlowupUniversalLift
 import Development.ResolutionOfSingularities.Foundations.Blowup.AffineBlowupChartPreimages
-import Development.ResolutionOfSingularities.Foundations.Blowup.ReesGrading
 open CategoryTheory AlgebraicGeometry
 
 noncomputable section

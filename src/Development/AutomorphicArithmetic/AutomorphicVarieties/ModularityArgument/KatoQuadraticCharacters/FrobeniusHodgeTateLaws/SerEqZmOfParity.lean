@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.FrobeniusHodgeTateLaws.SerVal
+import Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar
 
 noncomputable section
 

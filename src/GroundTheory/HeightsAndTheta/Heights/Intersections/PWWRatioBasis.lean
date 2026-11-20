@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StWWRatioBasis
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StMobiusAlgIndep
 import GroundTheory.HeightsAndTheta.Heights.Intersections.IsAlgebraicMapAdjoin

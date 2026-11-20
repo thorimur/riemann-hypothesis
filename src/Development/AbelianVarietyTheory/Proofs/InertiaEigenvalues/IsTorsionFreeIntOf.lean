@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsInertTop
-import Formalism.LocalToGlobal.ProjectiveLattices.FullExists
+import Formalism.LocalRingCardinality.DataHost
+import Formalism.LocalToGlobal.ProjectiveLattices.ThShort
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.GroupTheory.IndexNSmul
 
 open NumberField Matrix Complex IsDedekindDomain
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.FD GlobalTheory GlobalTheory.ThFr GlobalTheory.Dict GlobalTheory.AdTh GlobalTheory.ClsVal

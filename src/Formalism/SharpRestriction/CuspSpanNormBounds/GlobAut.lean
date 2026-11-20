@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataSpaces
-import Formalism.SatakeDualWeyl.Statement
 import Formalism.RealPlaceAnalysis.InstMeasurableSpaceUJ
 
 noncomputable section

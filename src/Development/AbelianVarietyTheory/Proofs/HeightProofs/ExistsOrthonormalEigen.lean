@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.IterateOnePlusCasOfEq
 
 noncomputable section

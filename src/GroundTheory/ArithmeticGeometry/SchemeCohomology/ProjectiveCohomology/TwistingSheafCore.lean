@@ -1,6 +1,9 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.TwistingSheaf
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjTwistLeray
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.InvertibleSheaf
+import Mathlib.AlgebraicGeometry.Noetherian
+import Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

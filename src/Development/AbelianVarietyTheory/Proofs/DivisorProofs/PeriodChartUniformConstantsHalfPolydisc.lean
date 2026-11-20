@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HodgePeriodGram
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
 open Matrix Complex Filter Topology

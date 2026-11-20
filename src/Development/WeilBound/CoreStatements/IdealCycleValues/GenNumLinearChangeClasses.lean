@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.BundleChernComparison
-import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsFlagIndependence
 import Development.WeilBound.CoreStatements.IdealCycleValues.ProdMapToMultiset
 import Development.WeilBound.CoreStatements.IdealCycleValues.IntersectionNumbersPermInvariant
 import Development.WeilBound.CoreStatements.IdealCycleValues.IntNumLCons

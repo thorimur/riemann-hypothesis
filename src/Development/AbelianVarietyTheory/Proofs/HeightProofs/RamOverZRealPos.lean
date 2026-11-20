@@ -1,6 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.CombAlgOfCombBound
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.SpanResCharNeBot
+import Formalism.LocalToGlobal.ProjectiveLattices.NumericalH1Condition
+import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.WeightedPrimeSumBound
 
 open NumberField IsDedekindDomain ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.BasicNotions Formalism.MainNotions Formalism.L2.Pj
 

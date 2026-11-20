@@ -1,5 +1,6 @@
 import Development.WeilBound.CoreStatements.HodgeTatePoints.IsMaximalOfNeBot
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFiniteBirationalLength
+import GroundTheory.FunctionField.PlaceBridge
 
 namespace PositivityTheory.HtPt.Plen
 

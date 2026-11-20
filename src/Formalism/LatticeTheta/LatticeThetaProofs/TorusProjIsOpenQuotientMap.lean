@@ -1,5 +1,7 @@
 import Formalism.LatticeTheta.LatticeThetaProofs.InnerDualVecBasis
 import Formalism.LatticeTheta.LatticeThetaProofs.FundamentalDomainEqPreimage
+import Mathlib.Analysis.Fourier.AddCircleMulti
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open MeasureTheory Set Complex
 open scoped RealInnerProductSpace

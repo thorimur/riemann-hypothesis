@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.FderivIntegralApplyOfHolomorphicOfDominated
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Complex.MeanValue
 
 open Filter Metric Set
 open scoped Topology

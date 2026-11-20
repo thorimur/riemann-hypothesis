@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsPullConeNullModP
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PPullConeNull
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

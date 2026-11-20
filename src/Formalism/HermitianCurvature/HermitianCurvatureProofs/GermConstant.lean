@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PtSizeToStd
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.GermLocalOfFibres
+import Mathlib.Data.Int.Star
 
 namespace Formalism.FourierDecayAlt.P.FormNormSumIdentities
 

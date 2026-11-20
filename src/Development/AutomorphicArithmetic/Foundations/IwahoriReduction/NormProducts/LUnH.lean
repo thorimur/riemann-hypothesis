@@ -1,5 +1,6 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.NormProducts.InvMod
+import Development.AbelianVarietyTheory.Definitions.Foundations.Letter
+import Development.AbelianVarietyTheory.Definitions.Foundations.Mdl
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

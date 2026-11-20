@@ -1,6 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFLeib
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.AdjointLeibnizExpansion
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HomogeneityNaturalDegree
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.TheoremPIntegralOfPlaces
 
 namespace Formalism.FourierDecayAlt.P.CutBP.LeibExp
 

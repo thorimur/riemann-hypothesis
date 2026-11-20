@@ -1,4 +1,12 @@
 import Formalism.CharacterColumnKernels.StatementN
+import Mathlib.Data.Finsupp.Interval
+import Mathlib.RingTheory.PowerSeries.Inverse
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Finset
 

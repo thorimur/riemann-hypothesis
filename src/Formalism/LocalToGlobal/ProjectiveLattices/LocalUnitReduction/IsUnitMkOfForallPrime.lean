@@ -1,4 +1,8 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.LocalUnitReduction.FinRedStatement
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.L2.Pj.LocalUnitReduction
 

@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.CohomologicalPurity.LeafClCut
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC CochainComplex.HomComplex

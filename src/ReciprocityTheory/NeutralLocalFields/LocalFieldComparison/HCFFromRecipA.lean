@@ -1,5 +1,10 @@
 import ReciprocityTheory.NeutralLocalFields.Reciprocity
-import ReciprocityTheory.NeutralLocalFields.LocalFieldComparison.HilbertClassFieldA
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.ClassGroup.Basic
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

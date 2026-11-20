@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CutDimLowerSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PZeroIdealChart
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.TwistBundleToSubSystem

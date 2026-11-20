@@ -1,7 +1,6 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.NcardPrimesOverOfSplitsCompl
-import Formalism.SharpRestriction.CuspSpanNormBounds.PExtra
 import Formalism.HermitianCurvature.StatementSz
-import Formalism.HermitianCurvature.PrimeToDifferent
+import Formalism.SharpRestriction.CuspSpanNormBounds.LocalBesselAndTopKernel
 
 noncomputable section
 

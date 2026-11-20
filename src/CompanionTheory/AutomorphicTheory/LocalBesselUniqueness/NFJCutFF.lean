@@ -2,8 +2,6 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFHypS
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFApxDom
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDJDJComm
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PbGermRateLowBOfParts
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.JfBetaAdjCOfLemmaBNorm
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelFormSesquilinearFiniteClass
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJUnramifiedCosets
+import GroundTheory.AutomorphicForms.GL2.GJUnramifiedDegree
+import GroundTheory.AutomorphicForms.Satake
 
 noncomputable section
 

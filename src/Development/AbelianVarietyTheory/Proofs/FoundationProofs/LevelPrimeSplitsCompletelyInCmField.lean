@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.GlobalSchurBounds.StandardLattice
 import Formalism.SharpRestriction.GlobalSchurBounds.ThickPlacesCorollaryOfAnyTranslate
-import Formalism.SharpRestriction.ElevenLe
 import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.SplitColumnClasses
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.NcardPrimesOverOfStabilizer
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIrreducible

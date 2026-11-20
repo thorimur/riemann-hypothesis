@@ -1,8 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsOpenImmersionChart
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsEquivOfIsGrpPullback
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TanEvBaseChange
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClsDivPullEqVPull
+import Development.AbelianVarietyTheory.Definitions.Divisors.GrNormCompCast
 
 set_option autoImplicit false
 

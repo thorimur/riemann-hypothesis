@@ -1,4 +1,6 @@
 import Formalism.AdmissibleDesigns.NonemptyPl
+import Formalism.SharpRestriction.LevelLetterCocycles.RingDataOfIdempotents
+import Formalism.WachLatticeTwists.ShapeRowIsomorphisms.Statement
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

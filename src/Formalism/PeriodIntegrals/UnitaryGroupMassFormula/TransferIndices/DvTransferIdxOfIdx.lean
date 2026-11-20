@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TransferIndices.BlockMain
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TransferIndices.SumIndexFormula
 

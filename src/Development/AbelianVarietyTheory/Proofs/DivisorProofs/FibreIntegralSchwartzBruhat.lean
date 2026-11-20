@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HaarOIsAddHaar
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DropColsInsB
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.KeptColNeLastCol
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsSchwartzBruhatConvolutionLocalFieldPower
 open NumberField IsDedekindDomain MeasureTheory Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes GlobalTheory.IndefiniteRowSideFullHecke.WeilTensorModels GlobalTheory.StdPairLoc GlobalTheory.ColIns GlobalTheory.ColFib

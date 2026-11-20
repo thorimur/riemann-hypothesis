@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.DifferentIdealMapNeBot
+import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 
 set_option linter.unusedVariables false
 

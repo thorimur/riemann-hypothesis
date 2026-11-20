@@ -1,5 +1,3 @@
-import Mathlib
-import Development.EtaleCohomology.EtaleSheaves.LineHigh
 import Development.EtaleCohomology.EtaleSheaves.DescIntPf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechLevelRepresentable
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtaleCechNerveBaseChangeIsPullback

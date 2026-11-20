@@ -1,7 +1,7 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.IsHypPair
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.HomotheticLatticeIntegralS2
-import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.StatementK
-import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.StatementV
+import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.StatementS
+import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.StatementA
+import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.StatementP
 
 noncomputable section
 open scoped BigOperators

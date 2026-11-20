@@ -1,10 +1,9 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.TranslationInv
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PullFullL
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CurvatureSumOfSectionsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CurvaturePullbackOneVectorStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumLambdaPullRhoIdentityStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegrableOnPeriodicFundamentalDomainStatement
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 set_option autoImplicit false
 

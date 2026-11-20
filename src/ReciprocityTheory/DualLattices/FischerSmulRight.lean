@@ -1,4 +1,8 @@
 import ReciprocityTheory.DualLattices.FischerAdjointStatement
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

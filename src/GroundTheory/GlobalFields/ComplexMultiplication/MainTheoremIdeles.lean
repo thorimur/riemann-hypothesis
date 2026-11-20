@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.GlobalFields.ClassFieldConsequences.RayClassField
 import GroundTheory.GlobalFields.ComplexMultiplication.IdeleActionQuotient
 import GroundTheory.GlobalFields.ComplexMultiplication.HilbertClassFieldArtin
 import GroundTheory.GlobalFields.WeilGroups.SignSymbol

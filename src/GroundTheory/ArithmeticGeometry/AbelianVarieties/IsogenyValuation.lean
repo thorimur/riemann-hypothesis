@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.IsogenyPoints
 
 namespace GroundTheory.Arith.Abelian

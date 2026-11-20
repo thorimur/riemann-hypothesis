@@ -1,5 +1,7 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.Rationality.GlobSt
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.Hadamard
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Order.CompletePartialOrder
 
 namespace ReciprocityTheory.ChartRestriction.G.FreeQuotientRank
 

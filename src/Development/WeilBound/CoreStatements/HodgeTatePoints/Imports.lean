@@ -1,10 +1,6 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsBisAltMore
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PGradedCech
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PVanishingCechResidue
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTildeVanish
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSurjectiveClosed
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PExtension
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PIdealTwistFamily
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PRestrLenRestrict
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PRestrictQuotX

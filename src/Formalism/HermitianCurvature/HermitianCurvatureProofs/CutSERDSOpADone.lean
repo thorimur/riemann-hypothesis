@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSERDSOpA
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSERDSPolyProp
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSERDSAGrp
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSERDSARad

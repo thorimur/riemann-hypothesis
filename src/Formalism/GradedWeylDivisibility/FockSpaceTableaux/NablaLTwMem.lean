@@ -1,4 +1,7 @@
 import Formalism.GradedWeylDivisibility.StatementD
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open MvPolynomial
 

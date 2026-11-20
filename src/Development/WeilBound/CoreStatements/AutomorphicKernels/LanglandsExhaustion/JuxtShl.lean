@@ -2,7 +2,6 @@ import Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhausti
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.JacquetMultiplicityPosStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WordOccursOfSubquotientStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ShuffleOfPermStatement
-import CompanionTheory.AutomorphicTheory.HeckeStandardModules.EqZeroOfCompAt
 
 noncomputable section
 

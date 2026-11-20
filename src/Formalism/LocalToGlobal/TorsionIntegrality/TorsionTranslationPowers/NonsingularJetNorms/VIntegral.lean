@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.StatementV
-import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.ShiftPtsInt
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.BiextensionRelation
+import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.AnalyticTransOfAdd
 
 open PowerSeries
 

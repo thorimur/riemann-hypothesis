@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.HeckeIrreducible
-import GroundTheory.AutomorphicForms.MeasuresGL
+import GroundTheory.AutomorphicForms.Cartan
+import GroundTheory.AutomorphicForms.HeckeAlgebraLevel
+import GroundTheory.AutomorphicForms.MeasuresModulus
 
 noncomputable section
 

@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.AtTLemmas
+import Formalism.LocalToGlobal.Columns.DecoFin
 
 open NumberField IsDedekindDomain Module
 

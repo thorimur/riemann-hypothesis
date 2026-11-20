@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ImportsAlt
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.IsMultiHomogOfIsChowForm
+import Mathlib.Order.CompletePartialOrder
 set_option maxSynthPendingDepth 1
 
 noncomputable section

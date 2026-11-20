@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.CharacterGerms.ValuationEqPairOfLogUnitGerm
+import Formalism.LocalToGlobal.CharacterGerms.ConstMemTypeSetOfNonneg
+import Formalism.LocalToGlobal.CharacterGerms.ConstantCoeffSinglePointZero
 
 noncomputable section
 

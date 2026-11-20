@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PChartDimBound
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PChartFiniteIrrel
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PSegreComponent

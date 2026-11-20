@@ -1,4 +1,3 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.RhoInvMulSelf
 import Development.DiscreteGroups.GlobalIrreducibility.DzFeCard
 

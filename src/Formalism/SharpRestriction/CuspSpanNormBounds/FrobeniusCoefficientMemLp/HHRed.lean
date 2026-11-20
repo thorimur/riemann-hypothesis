@@ -2,7 +2,6 @@ import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.H
 import Formalism.SharpRestriction.CuspSpanNormBounds.BesselShellMomentBounds
 import Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.RowsTrm
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.CoveringOfTransferenceVariant
-import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.DetMulEqSumProdMulDetSubmatrix
 
 noncomputable section
 

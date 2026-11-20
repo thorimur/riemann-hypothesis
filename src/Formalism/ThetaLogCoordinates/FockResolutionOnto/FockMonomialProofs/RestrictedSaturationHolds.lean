@@ -2,6 +2,7 @@ import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.Deriv
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.RestrictedLatticeDividedPower
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.WmMulWmComm
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.DerivativeDividedIntegral
+import Formalism.ThetaLogCoordinates.TraceIsometryWeights.DischargeHeightBound
 
 namespace Formalism.InvariantFactorPaths.L4
 

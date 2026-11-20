@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.BiaddOfCube
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BiadditiveCubes.ConstantCoeffLogEqZero
 
 theorem biadditiveOfCube_holds : PI.BiaddOfCube.Target := by

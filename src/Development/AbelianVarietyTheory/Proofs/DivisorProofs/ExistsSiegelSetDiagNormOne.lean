@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.Reduction
+import GroundTheory.AutomorphicForms.ReductionSiegel
 open NumberField MeasureTheory Matrix
 open scoped NumberField.AdeleRing Pointwise
 open GroundTheory.Automorphic GroundTheory.Automorphic.Reduction GroundTheory.Global GroundTheory.Global.IdeleGroup

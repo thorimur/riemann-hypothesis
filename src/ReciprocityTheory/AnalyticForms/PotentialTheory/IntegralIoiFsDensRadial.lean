@@ -1,4 +1,12 @@
 import ReciprocityTheory.AnalyticForms.MaIntEmpty
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Analysis.InnerProductSpace.Calculus
+import Mathlib.Analysis.SpecialFunctions.PolarCoord
+import Mathlib.RingTheory.Complex
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Topology.Separation.CompletelyRegular
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace ReciprocityTheory.AnForm
 

@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseDegreeRatioConsecutive
 import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.PairFacts
 
 noncomputable section

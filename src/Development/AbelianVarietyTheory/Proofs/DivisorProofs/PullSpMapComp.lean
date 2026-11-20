@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentVarUnit
+import Development.AbelianVarietyTheory.Definitions.Divisors.DivisorSupportCondition
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

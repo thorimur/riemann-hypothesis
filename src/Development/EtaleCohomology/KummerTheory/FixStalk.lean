@@ -3,7 +3,6 @@ import Development.EtaleCohomology.KummerTheory.ResNegZero
 import Development.EtaleCohomology.KummerTheory.PrimIsPrimitiveRoot
 import Development.EtaleCohomology.KummerTheory.EtaleNormalizedFreeChainsDifferentialOneZeroEqZe
 import Development.EtaleCohomology.KummerTheory.PrimTorsPf
-import Development.EtaleCohomology.KummerTheory.SecSHPf
 import Development.EtaleCohomology.KummerTheory.ShSectPf
 
 theorem LateralTheory.Fix.Stalk.intersectionNumber_baseChange : LateralTheory.KummerTheory.Stalk := by

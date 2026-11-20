@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfLoc
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

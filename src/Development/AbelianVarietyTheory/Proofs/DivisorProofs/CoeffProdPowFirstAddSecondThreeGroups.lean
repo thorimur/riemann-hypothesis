@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.EqZeroOfForallPowDvd
+import Development.AbelianVarietyTheory.Definitions.Divisors.FormalCoboundarySmul
 
 set_option autoImplicit false
 

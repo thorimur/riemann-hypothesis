@@ -1,7 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.BesselHermitianTheta.TiedBessel
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.BesselDatum
-import Development.AbelianVarietyTheory.Counterexamples.HeightSurvey.BesselPeriodPositionOneEqZero
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

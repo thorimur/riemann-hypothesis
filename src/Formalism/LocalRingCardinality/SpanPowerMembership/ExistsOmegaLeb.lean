@@ -1,5 +1,7 @@
 import Formalism.LocalRingCardinality.DataCD
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Upqcpt
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

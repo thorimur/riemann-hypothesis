@@ -1,7 +1,9 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Statements
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.SphereMeanVol
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.SphereMeanDisc
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.NumberTheory.Harmonic.Int
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

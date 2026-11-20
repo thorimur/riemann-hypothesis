@@ -1,8 +1,7 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.HsVecApply
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BudgetClassEstimate
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentComposition.HasDerivAtInvpow
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentComposition.DegPderivMul
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentComposition.Expand
+import Formalism.HermitianCurvature.BigCellVanishingOfCommute
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentComposition.Development
 
 open Matrix MvPolynomial
 open scoped ComplexConjugate ContDiff Topology

@@ -1,8 +1,7 @@
-import Mathlib
 import GroundTheory.TateCohomology.DimensionShift
 import GroundTheory.TateCohomology.InducedNorm
 import GroundTheory.TateCohomology.CoindOne
-import GroundTheory.TateCohomology.UniquelyDivisible
+import Std.Tactic.BVDecide.Normalize.Prop
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.GroupCoh

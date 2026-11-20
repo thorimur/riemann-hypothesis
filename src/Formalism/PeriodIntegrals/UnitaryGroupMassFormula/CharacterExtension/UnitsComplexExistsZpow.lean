@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.CharExtend
 
 namespace PI.CharExtendWork

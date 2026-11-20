@@ -1,6 +1,4 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.LineHigh
-import Development.EtaleCohomology.EtaleSheaves.DescIntPf
 import Development.AutomorphicArithmetic.CommutativeAlgebra.CohomologyBaseChangeIntegralSurjectiveCech
 
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC LateralTheory.E.DescIntPf

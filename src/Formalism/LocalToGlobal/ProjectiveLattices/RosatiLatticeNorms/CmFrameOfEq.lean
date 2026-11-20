@@ -1,6 +1,9 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.RosatiLatticeNorms.LamPtClauses
 import Formalism.LocalToGlobal.ProjectiveLattices.RosatiLatticeNorms.LinkNum
 import Formalism.LocalToGlobal.CMDeterminantIdeals.LambdaLowerBound
+import Formalism.LocalToGlobal.ProjectiveLattices.RosatiLatticeNorms.LinkFD
+import Formalism.LocalToGlobal.ProjectiveLattices.XcLat
+import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.WeightedPrimeSumBound
 
 noncomputable section
 

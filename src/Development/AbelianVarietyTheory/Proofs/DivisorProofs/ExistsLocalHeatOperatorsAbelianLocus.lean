@@ -1,8 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ResV
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusInvariantLiftAddInvariantCombination
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsKSSymmAbLocus
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpMapDualMapCompEq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDlogAddCoboundaryAbLocus
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeatV
 open CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj AlgebraicGeometry NumberField IsLocalRing

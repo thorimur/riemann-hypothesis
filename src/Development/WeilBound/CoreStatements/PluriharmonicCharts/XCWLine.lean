@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.MetricPeriods.Pull1
-import Development.AutomorphicSpectrum.Definitions.MetricPeriods.IsPeriodOn
 import Development.WeilBound.CoreStatements.PluriharmonicCharts.ExistsPenFrame
 import Development.WeilBound.CoreStatements.PluriharmonicCharts.MinorElementaryColumnOp
 import Development.WeilBound.CoreStatements.PluriharmonicCharts.ExistsPositivePeriodLine

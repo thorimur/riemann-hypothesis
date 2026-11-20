@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GKModules.RightRegular
 
 namespace GroundTheory.Automorphic

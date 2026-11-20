@@ -1,9 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsDegreePos
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PHilbertDimZero
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PIntersectionRecursion
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.OfSteps
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.JacobianSmoothness.RingKrullDimLeRingKrullDimQuotientAddOne
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.GlobalFields.NormResidueSymbol.Rational
+import GroundTheory.GlobalFields.NormResidueSymbol.RationalCyclotomic
 
 namespace GroundTheory.Global
 

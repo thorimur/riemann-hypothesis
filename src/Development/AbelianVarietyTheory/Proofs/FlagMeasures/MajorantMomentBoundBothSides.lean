@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.DegVand
-import Formalism.LocalRingCardinality.DataTies
+import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.BlockAnti
 
 noncomputable section
 

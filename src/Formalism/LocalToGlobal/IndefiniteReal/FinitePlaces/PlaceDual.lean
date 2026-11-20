@@ -1,6 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.SplitInt
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.PlaceLatDualIiiOf
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.PlaceDualB
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.ExistsNatIntFMat
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.PlaceDualBIv
 

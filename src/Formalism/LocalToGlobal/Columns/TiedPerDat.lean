@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.Columns.WordFin
 import Formalism.LocalToGlobal.Columns.TiedPer
 
 noncomputable section

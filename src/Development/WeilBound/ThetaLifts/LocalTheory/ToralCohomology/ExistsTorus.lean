@@ -1,5 +1,5 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
 import Development.AutomorphicSpectrum.Proofs.TwistedProofs.EqZeroOfPiInf
+import Development.AbelianVarietyTheory.Definitions.Foundations.T2SpaceTensorProductFiniteExtension
 
 noncomputable section
 

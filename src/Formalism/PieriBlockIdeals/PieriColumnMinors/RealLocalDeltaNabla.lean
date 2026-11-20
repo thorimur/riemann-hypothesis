@@ -1,7 +1,7 @@
 import Formalism.PieriBlockIdeals.LocalFaithfullyFlat
 import Formalism.PieriBlockIdeals.PieriColumnMinors.SL2BinomialLattices
-import Formalism.PieriBlockIdeals.PieriColumnMinors.ExactExponentLatticeIncl
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
+import Formalism.RankGapBounds.RankGapProofs.FormsTensorLocalization
+import Mathlib.LinearAlgebra.PiTensorProduct.Basis
 
 open MvPolynomial TensorProduct
 

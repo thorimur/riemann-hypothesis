@@ -1,12 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsNefPlusAmpleDegree
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenDegAmple
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PShiftDegreePolynomial
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PNefAmpleGeneric
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PCurvePointsFinite
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PGenDegTwist
-import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.AssemblyBridgeFull
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.KleimanNefness.KleimanSt
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

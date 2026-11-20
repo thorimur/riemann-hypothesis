@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIsDiscreteValuationRingOfMaximalIdealEqSpa
+import Mathlib.RingTheory.TotallySplit
 
 open TensorProduct IsLocalRing
 

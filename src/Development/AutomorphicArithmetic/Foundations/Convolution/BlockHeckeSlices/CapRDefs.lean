@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.BlockHeckeSlices.SliceShift
+import Development.AutomorphicArithmetic.Foundations.Convolution.BlockHeckeSlices.Summand
 
 noncomputable section
 

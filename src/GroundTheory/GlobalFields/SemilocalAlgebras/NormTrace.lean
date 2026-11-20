@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.SemilocalAlgebras.Finite
+import Mathlib.LinearAlgebra.Charpoly.BaseChange
 
 namespace GroundTheory.Global
 

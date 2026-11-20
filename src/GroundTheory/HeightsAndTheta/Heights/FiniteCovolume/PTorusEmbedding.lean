@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsTorusEmbedding
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PHermAtPlace
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PGramAtData

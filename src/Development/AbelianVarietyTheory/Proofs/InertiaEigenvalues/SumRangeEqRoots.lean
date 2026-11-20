@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.GreenRegularCharacters
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CuspidalCharExistsOfGreen
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FixedMemRange
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MemRootsBarXSubC
 
 set_option autoImplicit false
 

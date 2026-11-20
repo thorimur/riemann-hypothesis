@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatOfEssentiallyEtaleLocalAlgebrasStatement
+import Mathlib.RingTheory.RingHom.FaithfullyFlat
 open IsLocalRing
 
 namespace GlobalTheory

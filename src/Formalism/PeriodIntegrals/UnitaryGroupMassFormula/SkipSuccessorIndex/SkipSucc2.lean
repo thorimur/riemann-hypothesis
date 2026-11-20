@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.QmSkip
+import Formalism.PeriodIntegrals.QmDefs
 
 namespace PI.QmSkipWork
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.HermitianCurvature.StatementK
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
 
 namespace Formalism.FourierDecayAlt.TA
 

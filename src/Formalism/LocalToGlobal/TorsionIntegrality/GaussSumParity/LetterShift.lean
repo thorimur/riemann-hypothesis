@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementA
+import Formalism.FormalGroupLog.Statement
+import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.TrDual
 
 noncomputable section
 open scoped BigOperators

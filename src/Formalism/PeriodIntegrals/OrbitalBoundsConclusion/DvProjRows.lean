@@ -1,9 +1,5 @@
-import Mathlib
-import Formalism.PeriodIntegrals.DivisionRowsRationalLattice
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ProjectionRows.AsmDual
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ProjectionRows.Adapted
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ProjectionRows.MulVecInjectiveOfKer
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ProjectionRows.LatticeFinitelyGenerated
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ProjectionRows.LocalPairingPerfect
 
 theorem projection_rows_bound : PI.Dv.division_rows_base_level :=

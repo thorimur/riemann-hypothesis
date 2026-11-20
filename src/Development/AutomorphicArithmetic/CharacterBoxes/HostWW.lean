@@ -1,11 +1,10 @@
-import Development.AutomorphicArithmetic.CharacterBoxes.Supply
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.LogCondLeThree
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ExistsFamPOfKits
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.MPowFiveMulFMulLLe
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.SzRowNumAt
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.KitOfPoints
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeightWindowRequirementHostOfPoint
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ExistsWeightsInWindows
+import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.AuxiliaryPrimeMemAvoidedPrimes
 open Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.Inhab Formalism.HC GlobalTheory.EX UpperTheory.Top
 
 private theorem gk_nonneg {C : FC} (h : Std C) : C.GK.Nonneg := by

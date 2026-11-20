@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LocMulVec
+import Formalism.SharpRestriction.LevelLetterCocycles.BlochKatoDuality
 open Formalism Formalism.MainNotions Formalism.BasicNotions Formalism.BasicNotions.Loc Formalism.MainNotions.N Formalism.WeaklyAdmissibleFiltrations NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Module GlobalTheory.Pass Formalism.MainNotions.PairedCharacterCondition
 set_option synthInstance.maxHeartbeats 400000
 set_option maxHeartbeats 1000000

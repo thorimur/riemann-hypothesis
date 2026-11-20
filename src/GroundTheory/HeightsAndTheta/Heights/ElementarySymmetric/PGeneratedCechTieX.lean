@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.GeneratedCechTieSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.DegreeOneCellEqChartUpdate
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PGenTwistGenerated

@@ -1,9 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.CoordinateIdeals
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.PermFinTwoUniv
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.DetLineSmooth
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.PCurveComplexPoint
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualCurvePoint
 set_option maxSynthPendingDepth 1
 
 noncomputable section

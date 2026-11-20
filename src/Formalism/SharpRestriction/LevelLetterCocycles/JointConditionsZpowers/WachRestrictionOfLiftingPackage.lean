@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.DeltaInvariantLattices
 import Formalism.SharpRestriction.LevelLetterCocycles.LiftingTheory
 
 noncomputable section

@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqJet
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ChartPullbacks.UniversalCharts.DualLiftInjective
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ChartPullbacks.UniversalCharts.ChartLawPf
+import Formalism.LocalToGlobal.ProjectiveLattices.ThGerm
+import Mathlib.Data.Rat.Star
 
 set_option autoImplicit false
 

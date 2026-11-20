@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EabIsKCInr
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FockOperatorsLieRepresentationCommute
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FockFirstActionMatrixUnitEq
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TprodMemTensSpan
 
 open MvPolynomial Formalism.BasicNotions.TH
 

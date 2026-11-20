@@ -1,6 +1,9 @@
-import Mathlib
 import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.BranchDefs
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.RealInputOfBranching
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.FormalDegreeLeOfNeighbourhoodVolumeStatement
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LowestKTypeLieWordNormBoundStatement
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryNearIdentityEqExpLogBoundStatement
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.VolumeOfBallBoundStatement
 
 open MeasureTheory Matrix Finset Formalism.MainNotions.S Formalism.REAL Formalism.QuantumDeterminants GlobalTheory.Ell GlobalTheory.SepReal UpperTheory.Lit.Branch
 open scoped InnerProductSpace

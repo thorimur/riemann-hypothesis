@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.CMLattices.ExistsIsThetaDegOfIsLocalModel
 import Development.AbelianVarietyTheory.BlockTheory.CMModuli.EllipticFibrePrincipalData
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.IsKroneckerCharIff
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.IsEtaMeanOfIsKroneckerChar

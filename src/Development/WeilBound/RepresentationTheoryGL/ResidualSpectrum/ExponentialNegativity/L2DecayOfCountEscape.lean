@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.Reduction
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspFormsSiegel
+import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspFormsDiff
+import GroundTheory.AutomorphicForms.ReductionSiegel
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PairingDivisors.StatementH
 
 open Module NumberField IsDedekindDomain Finset

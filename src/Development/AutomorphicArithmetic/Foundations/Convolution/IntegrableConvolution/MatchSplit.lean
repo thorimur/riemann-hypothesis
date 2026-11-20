@@ -1,10 +1,5 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.ClosedProperAlt
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.GeoAbs
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.GlueBasic
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.PushTest
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.QuotAny
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.QuotFin
 
 open MeasureTheory PositivityTheory.Rg.Tf.Loc PositivityTheory.Rg.Tf.Geo
 open scoped ENNReal

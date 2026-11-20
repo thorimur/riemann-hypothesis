@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModelGramPosSemidef
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HermitianInterpolation
 
 set_option autoImplicit false
 

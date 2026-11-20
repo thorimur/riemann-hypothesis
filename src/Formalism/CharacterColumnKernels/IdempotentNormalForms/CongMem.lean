@@ -1,4 +1,6 @@
 import Formalism.CharacterColumnKernels.Statement
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace Formalism.NG
 

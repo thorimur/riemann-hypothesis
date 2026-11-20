@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.GoodLiftOnto
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EOpEqAsAlgebraHom
+import Development.AbelianVarietyTheory.Definitions.Foundations.ThetaSeriesTies
 
 set_option autoImplicit false
 

@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.FiniteMinimalPrimes
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.ChPrime
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.StalkLocA
 
 namespace GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Kreg

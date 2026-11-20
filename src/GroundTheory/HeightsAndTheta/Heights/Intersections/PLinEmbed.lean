@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.LinEmbedSt
 import GroundTheory.HeightsAndTheta.Heights.Intersections.LinEmbedAlg
 set_option maxSynthPendingDepth 1
 

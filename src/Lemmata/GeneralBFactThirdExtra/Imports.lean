@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataSpaces
 
 namespace Bl.general_b_fact_third_extra

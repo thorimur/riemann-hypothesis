@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFTopDomCore
+import Formalism.HermitianCurvature.StatementTBB
 
 namespace Formalism.FourierDecayAlt.P.CutBP
 

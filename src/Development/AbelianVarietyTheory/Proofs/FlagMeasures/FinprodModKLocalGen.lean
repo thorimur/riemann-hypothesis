@@ -1,12 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.TermLoc
-import Formalism.SharpRestriction.CuspSpanNormBounds.IsTermOver
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanDifferentEqLocalGeneratorStatement
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.RelIndexMulMeasure
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.AbsNormEqFinprod
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.GFrames
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsUniquePlace
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SubMemDifferentIdeal
 open NumberField Formalism.BasicNotions Formalism.MainNotions.S Formalism.MainNotions.S.LocalSplitGroups Formalism.L2.SG.TermLoc
 
 open ValuativeRel Formalism.MainNotions.S.Loc IsDedekindDomain

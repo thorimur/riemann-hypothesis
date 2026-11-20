@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.FourierCoefficientMatrices
+import Mathlib.Algebra.Order.Star.Real
 
 namespace ReciprocityTheory.ChartRestriction.G.FD.FourierCoefficientLattice
 

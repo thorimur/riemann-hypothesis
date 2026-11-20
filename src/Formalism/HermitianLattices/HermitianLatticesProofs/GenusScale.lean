@@ -1,6 +1,7 @@
-import Mathlib
 import Formalism.HermitianLattices.DefsCS
 import Formalism.HermitianLattices.HermitianLatticesProofs.GenusBasic
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open NumberField
 

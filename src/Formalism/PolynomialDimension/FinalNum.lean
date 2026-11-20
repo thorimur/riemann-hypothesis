@@ -1,7 +1,5 @@
 import Formalism.PolynomialDimension.MultinomialDepth.SecondParameterSizeBoundsHolds
 import Formalism.PolynomialDimension.MultinomialDepth.SecondParameterSlackBoundsHolds
-import Formalism.PolynomialDimension.MultinomialDepth.FrameMultinomialBoundHolds
-import Formalism.PolynomialDimension.MultinomialDepth.ParamsI
 import Formalism.PolynomialDimension.MultinomialDepth.IntervalCleanDepthBound
 
 namespace Formalism.CountingSumsFrames.Top

@@ -1,7 +1,4 @@
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.LocModel
-import Mathlib
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.TermsAtPtFinite
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TermsFiniteAtPoint.TermsAtFiniteOf
 
 noncomputable section
 

@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.ArtSch
 import GroundTheory.PAdicHodge.PerfectoidField
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace PI.ASDivW
 

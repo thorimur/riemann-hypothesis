@@ -1,7 +1,5 @@
 import Formalism.LocalToGlobal.GlobalTheory.GL6.WeylLengthDiagonalUnitUniformiser
-import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwDecomp
 import Formalism.LocalToGlobal.GlobalTheory.GL6.ValuationDetBasisChange
-import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLcInt
 import Formalism.SharpRestriction.GlobalSchurBounds.FiniteModelOfAdmissibleTransports
 import Formalism.LocalToGlobal.GlobalTheory.GL6.LinearIndependentProdRenameOfCard
 

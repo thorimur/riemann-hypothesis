@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.ThetaSeriesTies
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ResidueInjectivityAt
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.SplitOffBadOfSuppSplitOff
@@ -6,7 +5,6 @@ import Development.AbelianVarietyTheory.Proofs.FoundationProofs.NablaDeltaOperat
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.LatticeExtensionAlongFieldEmbeddingDuals
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.DualFrLatticeHolds
 import Formalism.LocalToGlobal.IndefiniteReal.ConcretePkgSpec
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.SecondStepGluing
 
 set_option autoImplicit false
 

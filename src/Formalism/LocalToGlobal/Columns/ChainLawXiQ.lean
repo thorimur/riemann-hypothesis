@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.Columns.ChainLawXi
-import Formalism.LocalToGlobal.Columns.ChainTw
 import Formalism.LocalToGlobal.Columns.ChainTwZero
 import Formalism.LocalToGlobal.KernelLattices.KerHypAll
 

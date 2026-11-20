@@ -1,5 +1,4 @@
 import Development.WeilBound.RepresentationTheoryGL.LimitMultiplicityWeights.RegularClassIntegrals.ClosedGraph
-import Mathlib
 
 open MeasureTheory Set Filter Topology
 

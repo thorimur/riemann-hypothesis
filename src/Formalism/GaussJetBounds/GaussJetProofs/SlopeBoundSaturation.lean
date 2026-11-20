@@ -1,4 +1,3 @@
-import Formalism.GaussJetBounds.GenLogInverse
 import Formalism.GaussJetBounds.StatementS
 import Formalism.GradedWeylDivisibility.FinalD
 

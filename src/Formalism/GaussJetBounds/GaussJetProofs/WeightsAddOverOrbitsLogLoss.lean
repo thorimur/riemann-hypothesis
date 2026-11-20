@@ -1,6 +1,4 @@
 import Formalism.GaussJetBounds.StatementO
-import Formalism.GaussJetBounds.OneLetterRadius
-import Formalism.GaussJetBounds.GaussJetProofs.AsmRDotAddRight
 import Formalism.GaussJetBounds.GaussJetProofs.LemmaRA
 import Formalism.GaussJetBounds.GaussJetProofs.WeightsAddOverOrbits
 

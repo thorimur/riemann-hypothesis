@@ -1,4 +1,7 @@
 import Formalism.CharacterColumnKernels.Statement
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Finset
 

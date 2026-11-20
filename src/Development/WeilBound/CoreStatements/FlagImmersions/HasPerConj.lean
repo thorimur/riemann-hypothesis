@@ -1,7 +1,11 @@
 import Development.WeilBound.CoreStatements.FlagImmersions.Transport
-import Development.WeilBound.CoreStatements.VolumeEquality.BaseUnif
 import Development.WeilBound.CoreStatements.VolumeEquality.Pieces
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.ConjugateUniversalFamily
+import Development.AbelianVarietyTheory.Statements.HyperbolicHypotheses.HypothesesInhabitedHyperbolic
+import Development.AutomorphicSpectrum.Proofs.GeometryProofs.InducedModelMorphismCompStructureMap
+import Development.WeilBound.CoreStatements.VolumeEquality.BaseUnifConj
+import Development.WeilBound.CoreStatements.VolumeEquality.BaseUnifCoord
+import Development.WeilBound.CoreStatements.VolumeEquality.BaseUnifGood
+import Development.WeilBound.CoreStatements.VolumeEquality.BaseUnifVec
 
 noncomputable section
 

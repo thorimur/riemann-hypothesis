@@ -1,4 +1,5 @@
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ThetaValC
+import Formalism.LocalToGlobal.ProjectiveLattices.HasDataCondition
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.TorusPin
 
 noncomputable section
 

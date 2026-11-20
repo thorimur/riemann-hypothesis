@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.GroupLattices.CloudFilling.ExistsPowOrbRep
 import Formalism.LocalToGlobal.GroupLattices.LevelGatherings.LevelGatherings
-import Formalism.LocalRingCardinality.SpanPowerMembership.GatAdd
+import Formalism.LocalRingCardinality.SpanPowerMembership.GatTies
 
 noncomputable section
 

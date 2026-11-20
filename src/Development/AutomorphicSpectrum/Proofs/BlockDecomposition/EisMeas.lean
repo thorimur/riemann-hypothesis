@@ -1,7 +1,8 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdNonnegReal
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.BlockMatrixApplyInrInr
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsFinsetIntOff
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsClosedHermSVal
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfinite
 
 noncomputable section
 

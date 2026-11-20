@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsHilbRep
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ComapEqKerIff
+import Mathlib.AlgebraicGeometry.Morphisms.Proper
 open AlgebraicGeometry CategoryTheory CategoryTheory.Limits GlobalTheory.HilbertSch GlobalTheory.HilbGlue
 
 namespace GlobalTheory.HilbGlue

@@ -1,8 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.XMemOne
-import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.EventuallySubsingletonCohTwistZOfIsProjOver
-import Development.AbelianVarietyTheory.Proofs.ThetaFamilyOrigin.RingKrullDimOfEtaleMvPolynomial
-import ReciprocityTheory.CommutativeAlgebra.SaturatedChains.Integral
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsAffCoverSpec
 
 set_option autoImplicit false
 

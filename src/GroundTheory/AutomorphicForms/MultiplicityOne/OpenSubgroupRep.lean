@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.DiscreteSpectrumAbstract
 
 open MeasureTheory Set Filter Topology Function

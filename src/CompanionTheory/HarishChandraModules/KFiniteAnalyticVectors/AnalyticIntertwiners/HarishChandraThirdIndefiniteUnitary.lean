@@ -1,5 +1,4 @@
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AnalyticIntertwiners.BoundedOperators
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.KFinDensePf
 import Development.WeilBound.HeckeVectors.SmoothVectors.SobolevApproximation.PCDense
 
 namespace CompanionTheory.D.gk.HC

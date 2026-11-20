@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsUnitaryMulTriangular
 import Formalism.BranchSandwichDivisors.BranchIsometryProofs.BranchScale
 open GlobalTheory.DualWeyl MvPolynomial NumberField Formalism.GradedWeylDivisibility

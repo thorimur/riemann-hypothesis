@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.FockGram.StatementFock
+import Mathlib.Data.Rat.Star
 
 open MvPolynomial
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.Interface
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open scoped BigOperators

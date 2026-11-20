@@ -1,9 +1,8 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.JacChart
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeC
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.IntToRat
-import ReciprocityTheory.CommutativeAlgebra.PolynomialHeights.HeightAddRingKrullDimQuotientMvPolynomialField
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.IsSemipositiveOn
+import Mathlib.LinearAlgebra.Matrix.Rank
 
 namespace ReciprocityTheory.ChartRestriction.G.ArakelovGeometry
 

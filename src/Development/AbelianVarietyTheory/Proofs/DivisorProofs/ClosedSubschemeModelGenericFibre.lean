@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormSecOfNot
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SecondChernDensity
 
 set_option autoImplicit false
 

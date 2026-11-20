@@ -1,6 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypInvLe
-import Formalism.LocalToGlobal.GroupLattices.FockModels.SwRowGenMonomial
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
 
 noncomputable section
 

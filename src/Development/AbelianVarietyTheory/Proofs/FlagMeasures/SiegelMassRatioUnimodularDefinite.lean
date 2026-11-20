@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.HermitianLattices.StatementMass
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.SiegelMassRatioOfLI
-import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.LiStatOf
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.BinaryHermitianRepresents
 
 namespace GlobalTheory.Mass

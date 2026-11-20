@@ -1,4 +1,8 @@
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.HerbrandB
+import Mathlib.CategoryTheory.EffectiveEpi.Comp
+import Mathlib.CategoryTheory.ExtremalEpi
+import Mathlib.RepresentationTheory.Coinduced
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.FiniteCyclic
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand
 

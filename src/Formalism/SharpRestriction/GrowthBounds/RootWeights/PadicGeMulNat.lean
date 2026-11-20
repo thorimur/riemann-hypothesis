@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.CovariantDegrees
-import Formalism.GrowthSums.LemmaATwoFactList
+import Mathlib.Algebra.Group.ForwardDiff
 
 noncomputable section
 

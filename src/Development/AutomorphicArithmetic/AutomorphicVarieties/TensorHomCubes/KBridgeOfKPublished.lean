@@ -1,12 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.PublishedTheorems.KAcyclicHomology
-import Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.GrpHComp
-import Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.DedekindSR
 import Development.AutomorphicArithmetic.AutomorphicVarieties.PublishedTheorems.KArith
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.TensSurj
-import Mathlib.RingTheory.Flat.TorsionFree
-import Mathlib.NumberTheory.Padics.PadicIntegers
-import Mathlib.GroupTheory.Perm.Fin
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.Bridge
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

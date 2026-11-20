@@ -1,13 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.RegXInst
-import Formalism.LocalToGlobal.ProjectiveLattices.CurveLocInst
-import Formalism.LocalToGlobal.ProjectiveLattices.LocRingPf
-import Formalism.LocalToGlobal.ProjectiveLattices.TieInst
-import Formalism.LocalToGlobal.ProjectiveLattices.RealPtPf
-import Formalism.LocalToGlobal.ProjectiveLattices.CurveSec
-import Formalism.LocalToGlobal.ProjectiveLattices.LiftSec
 import Formalism.LocalToGlobal.ProjectiveLattices.LiftModelHolds
-import Formalism.LocalToGlobal.ProjectiveLattices.SecPtRed
 import Development.AbelianVarietyTheory.Proofs.GenericRegularity.CurveModelExistsAllPrimesAllPoints
 import Development.AbelianVarietyTheory.Proofs.GenericRegularity.CurveSectionStatementStatement
 import Development.AbelianVarietyTheory.Proofs.GenericRegularity.CurveSectionAlt

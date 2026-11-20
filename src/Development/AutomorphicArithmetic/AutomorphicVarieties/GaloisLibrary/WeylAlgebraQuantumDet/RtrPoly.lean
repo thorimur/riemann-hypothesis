@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.WeylAlgebraQuantumDet.IsTop
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 open Matrix UpperTheory.V.Weyl
 

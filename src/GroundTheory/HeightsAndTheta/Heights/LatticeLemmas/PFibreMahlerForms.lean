@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.StatementsFibreMahler
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PDiagonalChange
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.MahlerMul

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsUniqueHcharOfFiniteOrder
+import ReciprocityTheory.NeutralLocalFields.Reciprocity
 
 noncomputable section
 

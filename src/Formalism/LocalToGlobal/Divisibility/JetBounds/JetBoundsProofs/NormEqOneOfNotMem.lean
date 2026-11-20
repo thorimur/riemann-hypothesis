@@ -1,7 +1,7 @@
 import Formalism.LocalToGlobal.Divisibility.JetBounds.EmbExists
-import Formalism.LocalToGlobal.Divisibility.JetBounds.JetBoundsProofs.NormInvNatCastLeOfDvd
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ValBasic
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.VwEqZeroOfNotMem
+import Formalism.GaussJetBounds.GaussJetProofs.TheoremAMatrixEntries
+import Formalism.MirabolicMackeyTheory.MirabolicIsMackey
 
 open Module NumberField IsDedekindDomain
 open scoped BigOperators

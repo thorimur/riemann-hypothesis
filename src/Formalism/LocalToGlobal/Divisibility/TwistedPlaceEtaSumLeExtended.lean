@@ -1,8 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.LinkDefN
 import Formalism.LocalToGlobal.Divisibility.LinkDIVL2R3Rec
-import Formalism.LocalToGlobal.Divisibility.DivisionCompatibleToSub2Indef2
-import Formalism.LocalToGlobal.Divisibility.RecBridgeTied
+import Formalism.LocalToGlobal.Divisibility.LinkDef
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

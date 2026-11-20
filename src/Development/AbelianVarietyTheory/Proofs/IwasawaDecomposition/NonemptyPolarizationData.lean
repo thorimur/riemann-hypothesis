@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.MemSupportBDIff
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LbIsoPolPull
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.EventuallyAmple
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsKaehlerFormCongr

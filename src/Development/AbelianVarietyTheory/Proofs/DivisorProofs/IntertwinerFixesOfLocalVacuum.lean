@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsHeisTrivial
+import Mathlib.Tactic.ENatToNat
 
 open Classical GlobalTheory.FinWeil
 open scoped BigOperators

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.ClifMod
+import Formalism.RealPlaceAnalysis.QuotientSettingHolds
 
 noncomputable section
 

@@ -1,7 +1,7 @@
 import Development.WeilBound.ThetaLifts.EigenvalueEndgame.PlaneRemovalConfiguration
 import Development.WeilBound.ThetaLifts.SmallCones.ThetaKernelGeneralIdentity
-import Development.WeilBound.ThetaLifts.FrameEstimates.HodgeTateFromSandwich
-import Development.WeilBound.ThetaLifts.LocalTheory.UnramifiedDeterminedBySpherical
+import Development.WeilBound.ThetaLifts.CartanFactorisation.CartanConj
+import Development.WeilBound.ThetaLifts.LocalTheory.IsArchimedeanLocalEquivariantMap
 
 noncomputable section
 

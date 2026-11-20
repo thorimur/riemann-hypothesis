@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselFrameTranslatedPerpOfIsFrame
 import Development.AutomorphicArithmetic.ThetaCorrespondence.BesselModels.HWSpan
 import Development.AutomorphicArithmetic.ThetaCorrespondence.BesselModels.KShift
 

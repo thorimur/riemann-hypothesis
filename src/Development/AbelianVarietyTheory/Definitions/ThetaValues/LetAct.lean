@@ -1,5 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.ThClassPinsRec
+import Formalism.LocalRingCardinality.DataCoeff
+import Formalism.LocalToGlobal.ProjectiveLattices.IsThRule
 
 set_option autoImplicit false
 

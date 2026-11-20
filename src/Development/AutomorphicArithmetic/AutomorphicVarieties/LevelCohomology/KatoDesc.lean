@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.PublishedTheorems.QuotRepMk
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LevelCohomology.KatoBkMap
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LevelCohomology.KatoFinExt
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LevelCohomology.KatoBasis

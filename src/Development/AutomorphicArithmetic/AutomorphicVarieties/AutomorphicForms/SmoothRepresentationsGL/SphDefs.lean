@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.SmoothRepresentationsGL.ExistsCombComb
-import GroundTheory.AutomorphicForms.MacdonaldWhittakerHecke
-import GroundTheory.GlobalFields.LocalFieldAtPlace
+import GroundTheory.AutomorphicForms.WhittakerGroups
 
 noncomputable section
 

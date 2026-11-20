@@ -1,8 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.BesselHermitianTheta.LemmasWeil
-import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.OmegaUpDownForms
 import Development.AbelianVarietyTheory.Counterexamples.HeightSurvey.StarPurelyImaginaryEqNeg
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsIsDetRoot
+import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.WeilIdempotents
 
 noncomputable section
 

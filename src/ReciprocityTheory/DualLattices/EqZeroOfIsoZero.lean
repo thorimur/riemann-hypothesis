@@ -1,4 +1,6 @@
 import ReciprocityTheory.DualLattices.AvgFZero
+import ReciprocityTheory.DualLattices.EigenLiftsFrobeniusStatement
+import ReciprocityTheory.DualLattices.EmbeddingSeparatingGroupStatement
 
 noncomputable section
 

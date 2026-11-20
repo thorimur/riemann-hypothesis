@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.UnitTraceSumBounds.SigmaStarUniq
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.AreaLat
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.TransInvLat
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SigmaStarUniq
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.DiscrNe

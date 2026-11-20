@@ -1,6 +1,5 @@
-import ReciprocityTheory.AnalyticForms.LeviForms.IsRegFamilyInhabitStatement
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
 import ReciprocityTheory.AnalyticForms.LeviForms.HomDensB
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace ReciprocityTheory.AnForm.P
 

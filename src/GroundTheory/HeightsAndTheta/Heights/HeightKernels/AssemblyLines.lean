@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesTop
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesLatticeBasis
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesGenIndexDet

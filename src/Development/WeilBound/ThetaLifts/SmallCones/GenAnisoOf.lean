@@ -1,6 +1,7 @@
 import Development.WeilBound.ThetaLifts.SmallCones.HodgeTateFromSandwich
 import Development.WeilBound.ThetaLifts.SmallCones.ConeBasic
 import Development.WeilBound.ThetaLifts.SmallCones.ThetaKernelGeneralIdentity
+import Development.WeilBound.ThetaLifts.CTKernel
 
 noncomputable section
 

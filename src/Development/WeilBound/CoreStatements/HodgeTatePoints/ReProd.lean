@@ -1,5 +1,4 @@
 import Development.WeilBound.CoreStatements.HodgeTatePoints.ReBase
-import ReciprocityTheory.DualLattices.CharTableIsUnit
 
 noncomputable section
 

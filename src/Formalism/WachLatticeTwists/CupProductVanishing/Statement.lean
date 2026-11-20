@@ -1,4 +1,3 @@
-import Formalism.WachLatticeTwists.CharacterSplitJumps.StatPropLocContBK
 import ReciprocityTheory.ReductiveGroups.TraceFormulas.LatDefs
 
 open Formalism.NG (KO annih)

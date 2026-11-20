@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FactorialBounds.Statements
+import Mathlib.Analysis.Complex.ExponentialBounds
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

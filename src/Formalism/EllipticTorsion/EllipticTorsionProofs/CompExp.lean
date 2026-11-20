@@ -1,5 +1,9 @@
-import Mathlib
 import Formalism.EllipticTorsion.CompExpWeight
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open PowerSeries IsUltrametricDist
 

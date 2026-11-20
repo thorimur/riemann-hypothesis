@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.IsHorizontalTwist
+import Mathlib.Analysis.InnerProductSpace.Calculus
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ArithmeticHilbertSamuelLowerBound
 
 open MvPolynomial ReciprocityTheory.ChartRestriction.G.Geo MeasureTheory GlobalTheory.CompanionTheory.Ar.Tw
 

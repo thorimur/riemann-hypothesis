@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.PairingIndexBounds.SplitPairEquations.SplitTripleEquations.MuOneOfSplit
-import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.RightMoveTrianglesOfUnit
+import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.Reduction
 
 noncomputable section
 open NumberField Formalism.BasicNotions Classical

@@ -1,6 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.GammaLaurentFactors.HodgeTateFromSandwich
-import GroundTheory.AutomorphicForms.GL2.GJStandardLDual
-import GroundTheory.GlobalFields.TateThesis.RootNumberLocalPlace
+import GroundTheory.AutomorphicForms.GL2.GJFEInduced
+import GroundTheory.AutomorphicForms.GL2.GJFELevi
 
 open NumberField IsDedekindDomain MeasureTheory Polynomial GroundTheory.Automorphic GroundTheory.Automorphic.GLnLocal GroundTheory.Automorphic.Parabolic
 open GroundTheory.Automorphic.GodementJacquet GroundTheory.Automorphic.GJStandardL

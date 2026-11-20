@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.PairingIndexBounds.RowActionCoefficients.ColHLe
+import Formalism.LocalToGlobal.GroupLattices.FockModels.TransposeWords.FockR
 
 open MvPolynomial
 

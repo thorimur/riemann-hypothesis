@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.cut_PtwCut
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutLimET
 
 namespace Formalism.FourierDecayAlt.P.CutBP
 

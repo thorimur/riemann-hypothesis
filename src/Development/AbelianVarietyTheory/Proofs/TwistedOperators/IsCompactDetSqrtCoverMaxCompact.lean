@@ -1,8 +1,7 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.SchurIrreducible
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Upqcpt
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ContinuousExptPY
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGrpDataMapHaar
+import Development.AbelianVarietyTheory.Proofs.HeightProofs.BlockOrderedSquareIntegrable
+import Development.AbelianVarietyTheory.Proofs.HeightProofs.NotTrivialAndTwist
 
 open Formalism.BasicNotions.TH Formalism.MainNotions.SchurIrreducible GlobalTheory.PolarU Matrix MeasureTheory
 

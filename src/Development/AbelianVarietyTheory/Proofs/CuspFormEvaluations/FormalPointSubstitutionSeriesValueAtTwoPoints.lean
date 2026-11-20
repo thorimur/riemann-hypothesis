@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.ConstantCoeffEv
+import Mathlib.RingTheory.MvPolynomial.Ideal
 
 noncomputable section
 

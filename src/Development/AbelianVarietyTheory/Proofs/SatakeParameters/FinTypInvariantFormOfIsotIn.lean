@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.ConjSubConjSub
-import Formalism.LocalToGlobal.GaloisLevelStructure.TiedHecke
 open Formalism.BasicNotions Formalism.L2 Formalism.L2.NG Formalism.AUTREP Formalism.IndefR.principalLevelFrame
 
 namespace GlobalTheory

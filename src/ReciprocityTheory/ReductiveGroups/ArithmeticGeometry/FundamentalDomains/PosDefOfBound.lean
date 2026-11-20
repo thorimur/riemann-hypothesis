@@ -1,4 +1,5 @@
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.LowBlock
+import Mathlib.LinearAlgebra.Matrix.PosDef
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.NsqMulVecLeOpN
 
 namespace ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds
 

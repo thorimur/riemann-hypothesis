@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.InvertibleSheaf
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjSpace
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjTwist

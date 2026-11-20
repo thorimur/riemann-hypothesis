@@ -1,10 +1,9 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PotentialTheory.ProjectiveLineFubiniStudyFacts
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Objects
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PDivisorNull
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StProductBounds
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StListProductMass
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StListTailLogSmooth
+import ReciprocityTheory.AnalyticForms.PotentialTheory.AnalyticSubsetChartLocal
+import ReciprocityTheory.AnalyticForms.PotentialTheory.Stokes
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.AnalyticLimit

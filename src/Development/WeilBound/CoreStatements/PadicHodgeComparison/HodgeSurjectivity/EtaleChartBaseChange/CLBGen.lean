@@ -1,5 +1,11 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.HodgeSurjectivity.FormLaws
+import Mathlib.LinearAlgebra.ExteriorPower.Basis
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.RingHom.Etale
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 set_option linter.style.haveILetI false
 
 set_option autoImplicit false

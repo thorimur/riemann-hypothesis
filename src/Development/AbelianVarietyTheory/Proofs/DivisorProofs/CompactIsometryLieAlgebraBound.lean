@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryLieAlgebraVectorDecomposition
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformBoundedRightInverse
+import Mathlib.Analysis.Matrix.Normed
+import Mathlib.Topology.Sheaves.Presheaf
 open scoped Matrix
 
 namespace GlobalTheory.UniformLieDecomp

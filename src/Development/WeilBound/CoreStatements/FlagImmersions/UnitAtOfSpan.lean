@@ -4,6 +4,7 @@ import Development.WeilBound.CoreStatements.VolumeEquality.ChartMeetsPoint
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.CoordOverIntOfFiniteOrder
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFormNotInCoordIdeal
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.PointOverNumberFieldValue
+import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsPlaceWeightConjInvariantStatement
 
 noncomputable section
 

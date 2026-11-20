@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinPart
 import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ArakelovDegreeEqDegreeOfFamily
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FullLatticeContainsScaledBasisStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ScaledStandardLatticePadicSumStatement

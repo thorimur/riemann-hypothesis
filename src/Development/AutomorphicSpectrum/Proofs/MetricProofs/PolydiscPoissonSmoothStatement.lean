@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.PolydiscPoissonSmooth
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.IntegralAngMeas
 open MeasureTheory Filter Topology GlobalTheory.CompanionTheory.Ar.PB.Flat
 open scoped ContDiff
 set_option maxHeartbeats 1000000 in

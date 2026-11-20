@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.OwnEvIntro
-import Formalism.SharpRestriction.CuspSpanNormBounds.SBridge
 import Formalism.SharpRestriction.CuspSpanNormBounds.PExtra
 
 noncomputable section

@@ -1,4 +1,8 @@
 import ReciprocityTheory.L2DbarEstimates.WeakHolomorphy.ExtCutA
+import Mathlib.Analysis.Calculus.LineDeriv.IntegrationByParts
+import Mathlib.Analysis.InnerProductSpace.Calculus
+import Mathlib.MeasureTheory.Function.StronglyMeasurable.Inner
+import Mathlib.Order.CompletePartialOrder
 
 namespace ReciprocityTheory.L2DbarEstimates.C
 

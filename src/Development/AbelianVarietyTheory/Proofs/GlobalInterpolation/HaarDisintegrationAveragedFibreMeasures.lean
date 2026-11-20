@@ -1,5 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FibOfZero
+import Mathlib.MeasureTheory.Measure.Haar.DistribChar
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open MeasureTheory Topology
 open scoped Pointwise ENNReal NNReal

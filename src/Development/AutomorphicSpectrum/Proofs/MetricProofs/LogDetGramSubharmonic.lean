@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.MetricPeriods.InFlagDomainOne
 import Development.WeilBound.CoreStatements.PluriharmonicCharts.XGramSize
 open Matrix GlobalTheory.CompanionTheory.Ar.PB
 open scoped ComplexOrder

@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.Signature
 
 theorem UpperTheory.Reformulated.B.Ga5b.exists_nat_smul_mem :

@@ -1,5 +1,4 @@
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.ReadMod
-import Development.WeilBound.CoreStatements.AutomorphicKernels.IsobaricBaseChange.LocalL
 
 noncomputable section
 

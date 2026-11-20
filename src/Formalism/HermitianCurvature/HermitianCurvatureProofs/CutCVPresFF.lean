@@ -2,7 +2,6 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutMP2
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorPreservesFusionForms
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.RestrictionIrrelevantDoubleLevelOperator
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SeminormCompletion
-import Formalism.FormalDegreeBessel.FinalG
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

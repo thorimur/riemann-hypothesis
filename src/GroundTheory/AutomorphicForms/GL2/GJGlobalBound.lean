@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJGlobalTheta
 
 open MeasureTheory Set Filter NumberField ComplexConjugate

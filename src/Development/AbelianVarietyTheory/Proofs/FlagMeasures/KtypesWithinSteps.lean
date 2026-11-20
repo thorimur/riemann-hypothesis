@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.RealPlaceAnalysis.StatementU
 import Formalism.RealPlaceAnalysis.QuotientSettingHolds
 
 open Formalism.REAL

@@ -1,7 +1,7 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.PsiEDef
-import Formalism.LocalRingCardinality.DataSpaces
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.MemIntegersLocalisationIffSumCmDataStatement
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Topology.UniformSpace.Uniformizable
 open NumberField IsDedekindDomain Formalism.MainNotions.S.Loc ValuativeRel
 open scoped nonZeroDivisors
 

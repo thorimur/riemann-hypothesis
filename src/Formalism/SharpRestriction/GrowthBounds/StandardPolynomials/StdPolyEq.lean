@@ -1,5 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.MultMk
-import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.ThresholdStandardSeventeen
+import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.IoDScalLast
 
 noncomputable section
 

@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CasimirVolumeRatios.DensDefs
+import Mathlib.Data.Matrix.ColumnRowPartitioned
 
 noncomputable section
 

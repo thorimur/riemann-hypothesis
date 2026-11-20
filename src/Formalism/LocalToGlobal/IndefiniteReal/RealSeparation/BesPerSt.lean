@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.BesselHermitianTheta.TiedBessel
 import Formalism.LocalToGlobal.IndefiniteReal.ScalarOnPartsFull
 
 noncomputable section

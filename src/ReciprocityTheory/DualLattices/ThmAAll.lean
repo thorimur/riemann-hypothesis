@@ -1,8 +1,7 @@
 import ReciprocityTheory.DualLattices.IsPairingValueAddRight
 import ReciprocityTheory.DualLattices.HeightFunctionalStatementOfPairingProperties
 import ReciprocityTheory.DualLattices.TangentPairingStatementOfHeightFunctional
-import ReciprocityTheory.DualLattices.ThmAFull
-import ReciprocityTheory.DualLattices.AinfTower
+import ReciprocityTheory.DualLattices.OneAddPowOfSq
 
 namespace ReciprocityTheory.PGsh
 

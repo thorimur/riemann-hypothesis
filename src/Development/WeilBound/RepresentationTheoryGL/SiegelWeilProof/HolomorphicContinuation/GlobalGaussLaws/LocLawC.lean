@@ -1,5 +1,6 @@
-import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.GlobalGaussLaws.BlockMatrixDiagonalOneEqOne
-import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.GlobalGaussLaws.LocLawB
+import Formalism.LocalRingCardinality.DataHost
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

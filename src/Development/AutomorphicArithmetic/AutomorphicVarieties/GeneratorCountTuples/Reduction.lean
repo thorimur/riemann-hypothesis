@@ -8,6 +8,7 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTupl
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.NumGens
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.NumT
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.NumFin
+import Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.Bridge
 
 noncomputable section
 

@@ -1,9 +1,4 @@
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.UnitTraceSumBounds.EndIntWOf
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WfSubst
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WfRing
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EvenPowerSeries.WqEven
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WittLogarithm
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WittFrobeniusEnd
 
 namespace Formalism.MainNotions.Ext

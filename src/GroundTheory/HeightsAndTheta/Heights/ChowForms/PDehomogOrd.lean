@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ChowForms.StatementsDehomogOrd
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChartLocalOrder
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChartLocDomain
 set_option maxSynthPendingDepth 1

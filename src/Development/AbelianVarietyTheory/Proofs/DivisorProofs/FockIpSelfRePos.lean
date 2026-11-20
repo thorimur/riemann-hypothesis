@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GoodModModT
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OpenKLeFockStab
 

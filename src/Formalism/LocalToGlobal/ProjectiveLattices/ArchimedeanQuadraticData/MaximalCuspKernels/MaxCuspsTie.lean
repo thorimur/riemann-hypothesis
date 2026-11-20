@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.SpanRatSmulMem
 import Formalism.LocalToGlobal.ProjectiveLattices.XcLat
 
 set_option autoImplicit false

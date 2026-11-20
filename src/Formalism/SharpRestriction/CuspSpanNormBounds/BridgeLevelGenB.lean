@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.CartierFrobeniusFormLocal
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

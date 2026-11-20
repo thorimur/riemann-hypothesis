@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.HodgeTatePoints.WeilfunCore
 
 noncomputable section

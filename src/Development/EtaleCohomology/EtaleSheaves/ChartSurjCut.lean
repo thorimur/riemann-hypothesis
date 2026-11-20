@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LineOneCut
+import Mathlib.Topology.LocallyConstant.Algebra
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC LateralTheory.E.t_E2Cut LateralTheory.E.LineOneCut

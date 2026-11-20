@@ -1,4 +1,9 @@
 import Formalism.UnipotentAdelicQuotients.EllRegCut
+import Mathlib.Analysis.Fourier.FourierTransformDeriv
+import Mathlib.Analysis.Fourier.Inversion
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace ZetaZeros.D.EllReg
 

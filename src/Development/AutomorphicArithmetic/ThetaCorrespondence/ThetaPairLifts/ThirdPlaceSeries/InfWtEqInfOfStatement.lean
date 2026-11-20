@@ -1,6 +1,3 @@
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.InfinitesimalWeightOfDualStatement
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.HeckeOpen
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.InfWtEqInfOf
 
 set_option synthInstance.maxHeartbeats 200000

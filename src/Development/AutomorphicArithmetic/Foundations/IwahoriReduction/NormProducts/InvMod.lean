@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.IsZetaTW
+import Development.AbelianVarietyTheory.Definitions.Foundations.LiftSL
 
 noncomputable section
 

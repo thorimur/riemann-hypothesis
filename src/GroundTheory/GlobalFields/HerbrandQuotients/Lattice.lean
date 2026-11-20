@@ -1,7 +1,7 @@
-import Mathlib
-import GroundTheory.TateCohomology.HerbrandAbstract
 import GroundTheory.GlobalFields.HerbrandQuotients.Cyclic
 import GroundTheory.GlobalFields.HerbrandQuotients.RationalForm
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 namespace GroundTheory.Global
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.WeaklyAdmissibleFiltrations.Statement
 import Formalism.SharpRestriction.LevelLetterCocycles.LocCoh
 
 private lemma exists_ne_zero_smul_mem_of_span_eq_top_alt {O LL V : Type} [CommRing O] [IsDomain O] [Field LL] [Algebra O LL]

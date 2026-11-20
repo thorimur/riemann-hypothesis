@@ -1,4 +1,14 @@
 import Development.EtaleCohomology.DivisorCycles.CycleCount
+import Mathlib.LinearAlgebra.Eigenspace.Charpoly
+import Mathlib.LinearAlgebra.Eigenspace.Minpoly
+import Mathlib.LinearAlgebra.Lagrange
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 
 open Matrix Polynomial PositivityTheory.AutomorphicGaloisHodgeTate.Div
 namespace LateralTheory.DivDb.ProjPf

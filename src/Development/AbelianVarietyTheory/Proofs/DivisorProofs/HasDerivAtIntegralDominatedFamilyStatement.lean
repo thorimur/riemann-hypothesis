@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasDerivAtIntegralDominatedFamily
-import Mathlib
 open MeasureTheory
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.has_deriv_at_integral_dominated_family : ∀ {α : Type} [MeasurableSpace α] (μ : Measure α) (F F₁ F₂ : ℝ → α → ℂ) (B : ℝ),

@@ -1,7 +1,6 @@
-import Formalism.PeriodIntegrals.GoodTwo
-import Formalism.EllipticTorsion.EllipticTorsionProofs.Deuring
-import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.MulStableIntegral
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModJInt
+import Formalism.LocalToGlobal.TorsionIntegrality.CMGoodModels.Statement
+import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.TranslateProduct
+import Mathlib.AlgebraicGeometry.EllipticCurve.Weierstrass
 
 noncomputable section
 open scoped ComplexConjugate

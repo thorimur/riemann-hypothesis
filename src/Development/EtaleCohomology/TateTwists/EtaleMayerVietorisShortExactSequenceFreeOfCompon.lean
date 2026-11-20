@@ -1,5 +1,4 @@
 import Development.EtaleCohomology.TateTwists.EtaleFreePresheafMayerVietorisShortExactHolds
-import Development.EtaleCohomology.TateTwists.EtaleChainsMayerVietorisShortExactOfFree
 
 namespace LateralTheory.Fin.EtaleMayerVietorisChainsShortExact
 theorem etale_mayer_vietoris_short_exact_sequence_free_of_components : LateralTheory.EtaleFoundations.EtaleFreePresheafMayerVietorisShortExact := by

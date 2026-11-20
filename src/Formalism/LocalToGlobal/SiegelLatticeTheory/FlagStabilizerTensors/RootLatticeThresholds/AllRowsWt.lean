@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.AllRowsTr
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.AllRowsOf
+import Mathlib.Analysis.Fourier.FiniteAbelian.PontryaginDuality
 
 noncomputable section
 

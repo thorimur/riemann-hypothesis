@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsVerticalTwistGenDeg
 import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.PVerticalGenericDeg
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PGenDegTwist

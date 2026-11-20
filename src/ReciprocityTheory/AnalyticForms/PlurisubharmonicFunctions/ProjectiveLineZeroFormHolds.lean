@@ -1,6 +1,3 @@
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.GreenOfPoincareLelongHyperplane
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.LogInt
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.GreenCoord
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.HasCompactSupportCompHypInclAt
 
 namespace ReciprocityTheory.AnForm.A

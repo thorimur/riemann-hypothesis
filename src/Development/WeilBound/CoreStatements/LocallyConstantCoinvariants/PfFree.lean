@@ -1,4 +1,4 @@
-import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.RightOnto
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilTensorModels
 
 noncomputable section
 

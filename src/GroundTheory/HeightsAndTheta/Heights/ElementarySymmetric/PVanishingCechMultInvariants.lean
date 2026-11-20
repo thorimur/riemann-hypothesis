@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.VanishingCechMultInvariants
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.TorsionAverageBasics
 set_option maxSynthPendingDepth 1

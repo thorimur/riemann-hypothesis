@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelStructures.HaarIdxGlobOfFinProj
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.SplitG
 

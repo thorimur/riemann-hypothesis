@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.ThetaLiftGeometry.PolynomialIntegralityJets
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpTieAlg
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsNormSubEqOne

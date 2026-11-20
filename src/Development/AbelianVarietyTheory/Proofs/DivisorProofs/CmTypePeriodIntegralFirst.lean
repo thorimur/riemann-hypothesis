@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ConjugateOrderData
+import Mathlib.LinearAlgebra.DirectSum.Finite
+import Mathlib.LinearAlgebra.Eigenspace.Pi
 open NumberField IsDedekindDomain TensorProduct GlobalTheory.CMVal GlobalTheory.IndefiniteRowSideFullHecke.DifferentConductorValuations
 open Classical
 

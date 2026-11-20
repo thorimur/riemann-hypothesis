@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FockTheta.SquareNormIntegralNonneg
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HookBound
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.DiagonalMonomialFactorial
 
 noncomputable section
 

@@ -1,5 +1,6 @@
 import Formalism.ThetaLogCoordinates.ResidueClassEstimates.StatementW
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.JacobiMinorProofs.AntitoneOfMemGtBox
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

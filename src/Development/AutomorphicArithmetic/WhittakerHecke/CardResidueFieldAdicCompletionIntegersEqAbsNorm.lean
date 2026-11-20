@@ -1,5 +1,5 @@
-import Development.AutomorphicArithmetic.Foundations.LocalLanglands.RecTTransport
 import Development.DiscreteGroups.GlobalIrreducibility.DzApprox
+import Formalism.ConjugateSelfDual.Statement
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Polynomial GlobalTheory.WeilDeligne GlobalTheory.LocGL GlobalTheory.LocLanglands GlobalTheory.GLq
 

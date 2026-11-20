@@ -1,5 +1,4 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.PNTFinal
-import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.MSqFinal
 import Formalism.GL3MeanSquares.PrimePairOfPrimeNumberTheoremInProgressions
 
 namespace Formalism.HermitianLattices.Ext.PrimesInProgressions

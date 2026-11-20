@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.CupPullbacks.ConstCompSingle
+import Mathlib.RingTheory.PiTensorProduct
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC UpperTheory.Pbf
 
 noncomputable section

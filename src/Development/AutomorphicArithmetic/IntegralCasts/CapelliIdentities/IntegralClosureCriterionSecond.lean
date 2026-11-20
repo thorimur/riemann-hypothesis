@@ -1,8 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalRingCardinality.DataHost
-import Formalism.LocalRingCardinality.Params
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralImagQuadraticHalfInt
 
 @[reducible] noncomputable def UpperTheory.Reformulated.B.IntegralClosureCriterionSecond.be :

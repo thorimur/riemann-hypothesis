@@ -1,4 +1,5 @@
 import ReciprocityTheory.SemistableReduction.TorusLexB
+import Mathlib.Algebra.Order.Star.Real
 
 namespace ReciprocityTheory.MultiplicativeHeights.TorusLexOrder
 

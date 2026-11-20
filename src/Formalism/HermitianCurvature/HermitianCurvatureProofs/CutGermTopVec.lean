@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGermTop
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.TendstoSmulCocompact
 
 namespace Formalism.FourierDecayAlt.P.CutBP.GT
 

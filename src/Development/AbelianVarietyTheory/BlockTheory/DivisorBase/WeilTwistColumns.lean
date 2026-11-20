@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.LinksChar
 import Formalism.LocalToGlobal.IndefiniteReal.ThPinsR
 import Formalism.LocalToGlobal.ProjectiveLattices.ThClassPins
 

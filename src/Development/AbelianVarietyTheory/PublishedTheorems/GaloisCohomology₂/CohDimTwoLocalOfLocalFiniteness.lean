@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.Hypotheses.GalCoh
 
 noncomputable section

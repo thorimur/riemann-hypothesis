@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeightedLeastSquaresBoundStatement
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Data.Matrix.ColumnRowPartitioned
+import Mathlib.Topology.Sheaves.Presheaf
 
 open scoped ComplexOrder Matrix
 

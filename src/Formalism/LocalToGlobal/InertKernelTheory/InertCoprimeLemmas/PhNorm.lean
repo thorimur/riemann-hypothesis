@@ -1,8 +1,4 @@
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.EndInt
-import Formalism.LocalToGlobal.InertKernelTheory.DefsBeW
-import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.FinalC
-import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.HasCMByStable
-import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.SecondCoeffConsistency
 import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.OneLetterGaussSharpTranslateHolds
 
 open PowerSeries

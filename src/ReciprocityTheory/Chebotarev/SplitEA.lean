@@ -1,5 +1,9 @@
 import ReciprocityTheory.Chebotarev.SplitA
 import ReciprocityTheory.Chebotarev.SplitD
+import Mathlib.NumberTheory.Cyclotomic.Gal
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 open NumberField
 

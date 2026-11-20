@@ -1,6 +1,6 @@
 import Development.WeilBound.CoreStatements.FlagImmersions.FibSandwich
 import Development.WeilBound.CoreStatements.HodgeTatePoints.GhModel
-import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.DifferentGeneratorDualIntegral
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ProjectiveLinePlaceTrivialOnConstants
 
 set_option backward.isDefEq.respectTransparency false
 set_option linter.unusedSectionVars false

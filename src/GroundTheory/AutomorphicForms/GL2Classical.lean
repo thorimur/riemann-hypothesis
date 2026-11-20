@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2Classical.Smooth
+import GroundTheory.AutomorphicForms.GL2Classical.Cuspidal
+import GroundTheory.AutomorphicForms.GL2Classical.KFinite
 
 open NumberField Matrix CongruenceSubgroup
 open UpperHalfPlane hiding I I_re I_im

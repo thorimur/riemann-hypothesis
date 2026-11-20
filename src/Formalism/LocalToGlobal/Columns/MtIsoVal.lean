@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.Divisibility.CoefMod
-import Formalism.LocalToGlobal.Columns.PolyFn
 
 noncomputable section
 

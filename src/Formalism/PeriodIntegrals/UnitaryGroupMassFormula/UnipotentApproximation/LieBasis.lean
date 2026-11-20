@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.UnipotentAdelicQuotients.UnipotentStrongApprox
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentApproximation.MemZeroLocusGLIff
+import Mathlib.Algebra.DualNumber
 
 open NumberField IsDedekindDomain
 

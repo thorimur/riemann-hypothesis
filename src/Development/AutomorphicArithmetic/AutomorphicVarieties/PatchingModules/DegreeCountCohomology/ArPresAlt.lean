@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.PatchingModules.DegreeCountCohomology.IsDualPair
+import ReciprocityTheory.Hypotheses.GalCohDefs
 
 noncomputable section
 

@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.HHRed
+import Formalism.SharpRestriction.CuspSpanNormBounds.BesselShellMomentBounds
+import Formalism.SharpRestriction.CuspSpanNormBounds.BlockEnds
 
 set_option linter.unusedVariables false
 

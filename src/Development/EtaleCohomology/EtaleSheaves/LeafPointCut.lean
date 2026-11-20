@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.CupUnitChernKummerLaws
+import Mathlib.AlgebraicGeometry.AffineSpace
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

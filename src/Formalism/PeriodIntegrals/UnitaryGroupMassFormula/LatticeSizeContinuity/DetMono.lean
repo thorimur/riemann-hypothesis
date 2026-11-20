@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeSizeContinuity.LatSizeContOfSteps
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HermDefON
 

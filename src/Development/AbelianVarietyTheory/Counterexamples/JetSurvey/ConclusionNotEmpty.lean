@@ -1,8 +1,5 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GPowPf
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.PowerRosatiTauBalAction
 import Development.AbelianVarietyTheory.Counterexamples.JetSurvey.PremisesMetRankOne
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.InhTate
 
 set_option autoImplicit false
 

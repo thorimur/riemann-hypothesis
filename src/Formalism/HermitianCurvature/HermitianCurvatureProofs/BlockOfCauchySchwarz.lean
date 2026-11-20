@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.StatementKB
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.JointInstanceTheoremA
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.OutsideSystemsBound
 
 open Finset
 open scoped ComplexConjugate

@@ -1,9 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.FiniteMinimalPrimes
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.ChPrime
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.Monomial
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ExistsMulMemOfAlgebraMapLocRingEqZero
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.StalkLoc
 
 noncomputable section
 

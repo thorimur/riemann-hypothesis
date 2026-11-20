@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.TelescopingCoordinateDifference
 
 set_option maxHeartbeats 1000000 in

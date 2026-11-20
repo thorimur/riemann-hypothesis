@@ -1,6 +1,7 @@
 import ReciprocityTheory.L2DbarEstimates.LeviForms.BergmanExistsStatement
 import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.CommFderivApply
 import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.ExistsChartPartition
+import ReciprocityTheory.L2DbarEstimates.JacobianInterpolationStatement
 
 namespace ReciprocityTheory.L2DbarEstimates.I
 

@@ -1,6 +1,10 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.SecBaseChangeAnySt
 import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.ExistsSecNonzeroLocusEqOfLbIso
+import Mathlib.Algebra.Module.Submodule.Union
+import Mathlib.AlgebraicGeometry.Geometrically.Integral
+import Mathlib.AlgebraicGeometry.QuasiAffine
+import Mathlib.RingTheory.KrullDimension.Polynomial
+import Mathlib.RingTheory.Unramified.LocalStructure
+import Mathlib.SetTheory.ZFC.PSet
 
 noncomputable section
 

@@ -1,6 +1,5 @@
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ClosureFromSpecMemCompsH
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.StalkLoc
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.IsOpenAlt
 
 namespace ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages
 

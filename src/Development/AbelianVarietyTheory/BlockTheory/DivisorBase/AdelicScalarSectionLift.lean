@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.OneMapT
 import Formalism.LocalToGlobal.IndefiniteReal.FWTie
-import Formalism.LogFactorialIndices.StatementSize
 
 noncomputable section
 

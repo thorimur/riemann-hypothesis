@@ -1,8 +1,4 @@
-import Formalism.SharpRestriction.GlobalSchurBounds.TopDensityNGeSixteen
-import Formalism.LocalRingCardinality.Lemmas
 import Formalism.SharpRestriction.GlobalSchurBounds.FrameCodeOfAdditive
-import Formalism.SharpRestriction.GlobalSchurBounds.JointsL
-import Formalism.SharpRestriction.GlobalSchurBounds.JointsF
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.SlopesMFOfCountFam
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.CMFieldLemmas
 

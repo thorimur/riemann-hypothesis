@@ -1,4 +1,6 @@
 import Formalism.SatakeDualWeyl.Statement
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 
 open Matrix
 

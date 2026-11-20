@@ -1,4 +1,6 @@
 import Formalism.FrobeniusOrbits.Statement
+import Mathlib.NumberTheory.NumberField.Discriminant.Defs
+import Mathlib.NumberTheory.Padics.PadicIntegers
 
 open NumberField IntermediateField Ideal
 

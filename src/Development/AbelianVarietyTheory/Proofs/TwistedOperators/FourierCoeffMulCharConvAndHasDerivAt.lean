@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.MeanSquareAddFundamentalDomainOfCocompact
+import Mathlib.Analysis.Calculus.ParametricIntegral
 open MeasureTheory
 
 namespace GlobalTheory

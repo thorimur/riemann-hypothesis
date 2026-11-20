@@ -1,5 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.HermitianXiVector
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CardInsertEmbedding
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.FlagSpanVanishing
 
 open Matrix Formalism.FourierDecayAlt Formalism.QuantumDeterminants
 open scoped ComplexConjugate

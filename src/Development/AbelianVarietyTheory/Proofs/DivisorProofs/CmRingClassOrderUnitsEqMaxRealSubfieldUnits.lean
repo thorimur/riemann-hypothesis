@@ -1,6 +1,8 @@
-import Mathlib
-import Formalism.PairingDivisors.StatementA
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsFinSetSplitPlacesCoprimeConductor
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.NumberTheory.NumberField.CMField
+import Mathlib.NumberTheory.NumberField.Discriminant.Different
+import Mathlib.RingTheory.TotallySplit
 
 open NumberField IsDedekindDomain GlobalTheory.CMVal
 

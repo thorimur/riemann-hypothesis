@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.LocalFields.LocalArtinUniqueness
-import GroundTheory.LocalFields.LocalReciprocityLimitAbstract
 
 noncomputable section
 

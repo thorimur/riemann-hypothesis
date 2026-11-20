@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsHeisTrivial
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumEqZeroAddUnits
+import Mathlib.CategoryTheory.Action.Concrete
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Classical GlobalTheory.FinWeil
 open scoped BigOperators

@@ -1,12 +1,10 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsTateZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEquivOfExp
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LePreimageOfFst
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RiemannDataLinearChart
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormVerticalNegativeImagPositive
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodTorusFlatCoordsInverse
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ExistsEqCexpQuadraticOfEquivalentFactors
-import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.HermFormPullEqOfLbIsoPow
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaOfPolAV
 
 set_option autoImplicit false
 

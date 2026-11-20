@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.HermitianForms.TiedTwAll
+import Formalism.LocalToGlobal.HermitianForms.FormsTied
 
 noncomputable section
 

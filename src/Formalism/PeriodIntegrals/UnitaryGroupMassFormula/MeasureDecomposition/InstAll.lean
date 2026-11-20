@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.InstTop
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.InstPlace
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.InstExp

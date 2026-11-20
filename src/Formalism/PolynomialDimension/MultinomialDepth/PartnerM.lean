@@ -1,6 +1,7 @@
 import Formalism.MahlerMeasure.MahlerMeasureProofs.TheoremM
 import Formalism.MahlerMeasure.MahlerMeasureProofs.FockBlocks
-import Formalism.MahlerMeasure.MahlerMeasureProofs.RemoveS
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 
 namespace Formalism.CountingSumsFrames
 

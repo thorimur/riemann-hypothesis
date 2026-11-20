@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FreeActionExpansion
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.WordMonicExtraction
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.RealWeightedForms
 
 namespace Formalism.FourierDecayAlt.P.PolynomialDegreeExpansion
 

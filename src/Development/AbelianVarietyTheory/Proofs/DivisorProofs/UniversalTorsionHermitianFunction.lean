@@ -1,9 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsTateZero
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaMetricChernFlat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelPeriodMapSimplyConnected
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodMapRigidity
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetricTranslationPullbackFlat
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaOfPolAV
 open CategoryTheory AlgebraicGeometry Set Matrix ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open GlobalTheory GlobalTheory.CxPts GlobalTheory.ArInt GlobalTheory.TorsionForm GlobalTheory.ThetaRR
 open GlobalTheory.LB (toMod)

@@ -1,6 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsIncidenceZeroLocus
-import GroundTheory.HeightsAndTheta.Heights.ChowForms.StatementsSectionOrder
+import GroundTheory.HeightsAndTheta.Heights.ChowForms.Statements
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.PeriodIntegrals.ArtSch
+import Mathlib.RingTheory.WittVector.Teichmuller
+import Mathlib.RingTheory.WittVector.Truncated
+import Mathlib.RingTheory.WittVector.Verschiebung
+import Mathlib.Tactic.ReduceModChar
 
 namespace PI.ArtSch.WittLiftWork
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.ExistsLinearIndependentNormLeSuccMin
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

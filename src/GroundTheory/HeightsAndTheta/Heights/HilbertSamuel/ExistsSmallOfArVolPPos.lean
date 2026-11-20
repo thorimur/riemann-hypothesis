@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsTopConstantTwist
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBirationalModelExists
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSmallSectionPointHeight
@@ -7,6 +6,7 @@ import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.PCurveComplexPoint
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.PCurveIsOrbit
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PPtsIntegralZeroLowerNE
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterDerived
+import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsArith
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

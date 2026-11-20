@@ -1,10 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExtFormAdjEqNegSecondForm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BlockModelPosFrameBound
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChTwoInvOfIsSymm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChTwoBlockDiagonalSumStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChTwoImaginaryPartSymmetricZeroStatement
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DifferentiableOnFderiv
 
 open Matrix Filter Topology GlobalTheory.HermFrame
 open scoped ComplexOrder

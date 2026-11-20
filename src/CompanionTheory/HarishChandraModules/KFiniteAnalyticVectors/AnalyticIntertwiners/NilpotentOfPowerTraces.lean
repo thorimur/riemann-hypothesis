@@ -1,4 +1,7 @@
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AnalyticIntertwiners.SubquotientNontrivial
+import Mathlib.Analysis.InnerProductSpace.JointEigenspace
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.IteratedDerivOrbit
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Unitary
 
 open Matrix Topology Filter
 open scoped InnerProductSpace

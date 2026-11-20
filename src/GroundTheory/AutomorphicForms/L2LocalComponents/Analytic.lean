@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HarishChandraRegularity
 import GroundTheory.AutomorphicForms.ArchimedeanWhittaker.Density
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 namespace GroundTheory.Automorphic
 

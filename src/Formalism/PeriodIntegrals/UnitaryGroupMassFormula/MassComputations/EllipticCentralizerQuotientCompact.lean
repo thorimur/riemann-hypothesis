@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NVolAllOf
 
 noncomputable section

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ActEqZeroOfMem
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutBPEqWigMapsValueECas
 set_option maxSynthPendingDepth 1

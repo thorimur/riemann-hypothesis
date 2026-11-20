@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TopPairDForm
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PrimeSpectrumDualNumberEq
+import Development.AbelianVarietyTheory.Definitions.Divisors.BarCompSubsetClosure
 
 set_option autoImplicit false
 

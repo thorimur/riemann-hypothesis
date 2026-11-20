@@ -1,10 +1,13 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.LocalDualIndex
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ExistsSubConjNotMem
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.IsFieldAdicCompletionTensorOfInert
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotIsFieldAdicCompletionTensorOfSplit
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.QuadraticUnramifiedIffInertOrSplit
-import Formalism.GL3MeanSquares.HookFormulaTorsion.SumWeightsOverPrimeLeHalfDegree
+import Mathlib.Analysis.PSeries
+import Mathlib.Analysis.SpecialFunctions.Log.Summable
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

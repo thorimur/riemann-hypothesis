@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.TraceWedgePairingPerfectRationalForms
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.AbsAZero
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LogMeanShares.LogMeanStatements.MeanLogS
+import Formalism.LocalToGlobal.Divisibility.Frames
 
 noncomputable section
 

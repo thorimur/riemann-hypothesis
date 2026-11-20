@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Jets.SideFam
-import Development.AbelianVarietyTheory.Definitions.Jets.SumIoPr
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuotientMeasureAeMemAndMeasurableBesselModelStatement
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IsometricBesselSideBoundStatement
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IsometricBesselCompareStatement
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.TensorBesselTransferStatement
 

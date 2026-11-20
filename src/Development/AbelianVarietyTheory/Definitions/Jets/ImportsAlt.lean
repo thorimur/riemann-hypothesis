@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianCurvature.StatementTBB
 
 namespace GlobalTheory.TopVec

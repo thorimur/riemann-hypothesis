@@ -3,16 +3,17 @@ import Formalism.PadicSubsetSums.StableGradedCounts.PropositionOneCentralCount
 import Formalism.PadicSubsetSums.StableGradedCounts.IRRDivisorDegreeSubSum
 import Formalism.PadicSubsetSums.StableGradedCounts.IRRCycleProbSum
 import Formalism.PadicSubsetSums.StableGradedCounts.IRRPrimeRecipSum
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRLemmaLWeight
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRPrimeToPartEqIff
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRPrimeToPartSpec
 import Formalism.PadicSubsetSums.StableGradedCounts.IRRLemmaP
-import Formalism.GaloisIrreducibility.NoSolvableTransitive
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRCentralIdemSelfAdjoint
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRIrredCountUpper
 import Formalism.PadicSubsetSums.StableGradedCounts.IRRSquarefreeCount
 import Formalism.PadicSubsetSums.StableGradedCounts.IRRTypeCountExact
 import Formalism.PadicSubsetSums.StableGradedCounts.IRRCycleTypeProb
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.FieldTheory.Finite.Extension
+import Mathlib.LinearAlgebra.Eigenspace.Charpoly
+import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Card
+import Mathlib.RingTheory.PicardGroup
 
 section
 namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility

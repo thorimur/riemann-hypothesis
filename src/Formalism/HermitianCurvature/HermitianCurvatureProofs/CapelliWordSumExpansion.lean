@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.StatementJF
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RegularisedPairingViaPhase
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SumDualVectorEqZeta
 
 open Matrix MeasureTheory Filter Topology

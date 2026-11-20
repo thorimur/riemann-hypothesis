@@ -1,5 +1,3 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.RangeShape
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PBConjTranspose
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StR
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousDen
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConjDiagReNonneg
@@ -7,7 +5,7 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StExpDeriv
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConjTransposeSignFormDiagEqSignedSumCol
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IteratedDerivScale
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StConstHolds
-import Mathlib
+import Formalism.RealPlaceAnalysis.RealPlaceTaylor.CompactHaarRightInvariantInst
 
 section
 

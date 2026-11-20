@@ -1,4 +1,5 @@
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.MapStdPoly
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

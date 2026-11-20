@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.CapelliComatrixLastRow
 
 open Formalism.REAL

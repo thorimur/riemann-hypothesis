@@ -1,5 +1,5 @@
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.AutDef
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.AutProdA
+import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.GoodLat
 
 noncomputable section
 

@@ -1,9 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.LinksChar
-import Formalism.LocalToGlobal.Divisibility.LiftLat
-import Formalism.PieriBlockIdeals.StatementE
 import Formalism.PieriBlockIdeals.TailInequalityEventually
-import Formalism.SharpRestriction.Divisibility.JumpSets
 import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.SingleIndexPlacesAreTwisted
 
 set_option autoImplicit false

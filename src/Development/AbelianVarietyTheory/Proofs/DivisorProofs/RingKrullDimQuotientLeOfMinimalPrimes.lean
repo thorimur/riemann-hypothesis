@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.KrullDimQuotientMinimalPrimeOverL
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.IntToRatA
 

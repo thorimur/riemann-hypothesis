@@ -1,4 +1,6 @@
 import Formalism.PeriodIntegrals.FockDegreeTwoParts
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Rat.Star
 
 noncomputable section
 

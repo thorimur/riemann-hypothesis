@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PolynomialDimension.StatementNum
 import Formalism.PolynomialDimension.DigitClassSize
 

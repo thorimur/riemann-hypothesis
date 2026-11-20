@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdEApply
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.UnitLemmaGroup
 open GlobalTheory.UnitLemma GlobalTheory.StableLatCount Polynomial
 
 noncomputable section

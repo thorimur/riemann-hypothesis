@@ -1,6 +1,7 @@
 import Formalism.HermitianCurvature.BesselNonvanishingReduction
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.LowSmooth
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CapelliEigenvalues.Smooth
+import Formalism.FormalDegreeBessel.FormalDegreeRatio.GBasic
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open MeasureTheory Matrix
 open scoped InnerProductSpace ENNReal ComplexConjugate ContDiff

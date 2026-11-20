@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.EtaleSheaves.KerLocPf
+import Development.EtaleCohomology.EtaleSheaves.LocalDescent
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC LateralTheory.E.t_E3Cut LateralTheory.E.StalkCut LateralTheory.E.DescLocPf LateralTheory.E.KerLocPf

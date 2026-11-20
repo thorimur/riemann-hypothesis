@@ -1,6 +1,6 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.ConvolutionKernels.CommProj
 import Development.AutomorphicArithmetic.Foundations.Convolution.ConvolutionKernels.RopAdj
-import Development.AutomorphicArithmetic.Foundations.Convolution.ConvolutionKernels.GalTwistEx
+import GroundTheory.AutomorphicForms.CuspidalProjection.OrthogonalProjectionOntoCompSubtypeL
 
 open MeasureTheory NumberField GroundTheory.Automorphic GroundTheory.Automorphic.CuspidalSpectrum GroundTheory.Automorphic.RightCosetSpace
 open GroundTheory.Automorphic.CuspidalProjection PositivityTheory.Rg.Tf.Core UpperTheory.ConvolutionTheory.K

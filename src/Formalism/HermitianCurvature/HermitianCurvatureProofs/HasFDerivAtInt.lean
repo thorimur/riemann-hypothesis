@@ -1,5 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.DifferentiableAtOfPuncturedSmooth
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BasePointInChart
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 open MeasureTheory Filter Topology
 open scoped ContDiff ComplexConjugate

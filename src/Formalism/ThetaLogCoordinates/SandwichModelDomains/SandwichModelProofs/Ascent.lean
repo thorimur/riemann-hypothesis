@@ -1,7 +1,6 @@
 import Formalism.ThetaLogCoordinates.SandwichModelDomains.SpreadSquare
-import Formalism.GradedWeylDivisibility.FinalD
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LClosedeqLemmas
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LDlatLemmas
+import Formalism.GradedWeylDivisibility.FinalC
 
 open MvPolynomial
 

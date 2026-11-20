@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.JacquetSubsetSums.JacquetSubsetSum
-import Formalism.JacquetSubsetSums.SeparationTR
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

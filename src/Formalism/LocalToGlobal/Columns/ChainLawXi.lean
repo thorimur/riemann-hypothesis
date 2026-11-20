@@ -1,9 +1,4 @@
-import Formalism.LocalToGlobal.Columns.ChainLawLev
-import Formalism.LocalToGlobal.Columns.ChainLawXiStmt
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.KerEquivStmt
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ThDistC
-import Formalism.LocalToGlobal.Columns.RecLevelSym
-import Formalism.LocalToGlobal.Columns.ChainOne
 
 open NumberField IsDedekindDomain Module
 

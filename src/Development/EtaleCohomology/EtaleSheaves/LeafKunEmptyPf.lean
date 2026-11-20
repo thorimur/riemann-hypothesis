@@ -1,4 +1,5 @@
-import Development.EtaleCohomology.EtaleSheaves.LeafKunGlobalCut
+import Development.AbelianVarietyTheory.Definitions.Divisors.GalMapMul
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite

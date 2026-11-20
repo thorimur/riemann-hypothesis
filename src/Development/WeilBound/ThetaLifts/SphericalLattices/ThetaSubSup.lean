@@ -1,5 +1,6 @@
 import Development.WeilBound.ThetaLifts.SphericalLattices.HoweInert
 import Development.WeilBound.CoreStatements.LocalThetaKernels.Locrep
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.HoweMaximalTori.MaxSplit
 
 noncomputable section
 

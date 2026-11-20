@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsLocalRingTrivSqZeroExt
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsKSValueOneOfRetraction
+import Mathlib.Analysis.SpecialFunctions.Log.ERealExp
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 400000

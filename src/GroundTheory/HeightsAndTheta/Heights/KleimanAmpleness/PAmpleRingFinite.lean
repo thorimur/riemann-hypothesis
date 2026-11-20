@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.AmpleRingFiniteSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.AmpleRingIntegralSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.AmpleRingFiniteTypeSt

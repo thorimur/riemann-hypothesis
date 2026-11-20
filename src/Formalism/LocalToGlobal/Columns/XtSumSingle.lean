@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.Columns.XtPhiTopGCongr
+import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.MemGoodPrimesOfNoExceptional
 
 open NumberField IsDedekindDomain Module Matrix
 

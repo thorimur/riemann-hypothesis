@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsHomWeightHomWeight
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PrimeSpectrumDualNumberEq
+import Development.AbelianVarietyTheory.Definitions.Divisors.NonemptyCuspFrame
 
 set_option autoImplicit false
 

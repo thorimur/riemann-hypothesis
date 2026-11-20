@@ -1,10 +1,6 @@
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.UnitTraceSumBounds.ClosedRankTiesFC2S
-import Formalism.SharpRestriction.GlobalSchurBounds.TheoremThreeFamilyOfFormalDegreeInput
-import Formalism.SharpRestriction.GlobalSchurBounds.MainSup
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.MinkowskiQ
-import Formalism.LocalToGlobal.TieTwRecOf
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.JoinSISel
+import Formalism.LocalToGlobal.ClassOfRecordOfChoice
 
 noncomputable section
 

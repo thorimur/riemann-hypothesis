@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.Kern
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LintegralKernelUniformBoundStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LintegralMajorantFiberBoundStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MajorantLeSumSwapStatement

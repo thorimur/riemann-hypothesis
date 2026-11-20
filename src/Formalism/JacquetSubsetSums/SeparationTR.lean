@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.Statement
-import Formalism.JacquetSubsetSums.JacquetSubsetSum
 
 open Module NumberField
 

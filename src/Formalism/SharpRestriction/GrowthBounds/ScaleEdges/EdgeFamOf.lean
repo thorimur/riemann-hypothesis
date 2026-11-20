@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.SymbolRealisableBound
 import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeLatticeMulOfWeightSum
+import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.ManyEdges
 
 noncomputable section
 

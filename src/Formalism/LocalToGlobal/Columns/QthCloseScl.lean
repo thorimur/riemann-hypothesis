@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.Columns.QthExistsBound
+import Formalism.LocalToGlobal.Columns.ChainInst
 
 open NumberField IsDedekindDomain
 

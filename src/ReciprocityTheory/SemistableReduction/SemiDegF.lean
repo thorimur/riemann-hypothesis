@@ -1,4 +1,6 @@
-import ReciprocityTheory.SemistableReduction.SemiDegE
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import ReciprocityTheory.SemistableReduction.SemiDegSt
 
 noncomputable section
 

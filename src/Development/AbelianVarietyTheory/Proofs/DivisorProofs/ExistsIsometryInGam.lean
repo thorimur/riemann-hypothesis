@@ -1,9 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.ExistsPsiTieOfValues
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OmegaDataLevelForms
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OscillatorModelValuesSixth
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsSimInducing
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsCoversOfHalves
 
 noncomputable section
 

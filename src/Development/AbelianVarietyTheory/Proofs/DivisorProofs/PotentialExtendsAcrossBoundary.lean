@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ModelDdcForms
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MongeAmpereMeasureFiniteStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PotentialSmoothOnOpenStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MongeAmpereLocalIntegralStatement

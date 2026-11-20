@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisorsTranslate
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisorsPic
 

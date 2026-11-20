@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsTerLast
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsTerTer
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsTerFurther
+import Mathlib.Algebra.AffineMonoid.Basic
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Inter

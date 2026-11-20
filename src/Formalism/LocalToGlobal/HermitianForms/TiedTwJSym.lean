@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.HermitianForms.TiedTw
 import Formalism.LocalToGlobal.HermitianForms.TiedSym
 
 noncomputable section

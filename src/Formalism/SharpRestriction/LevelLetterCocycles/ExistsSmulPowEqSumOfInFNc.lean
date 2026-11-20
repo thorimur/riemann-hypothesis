@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.DvOZeroHigh
+import Formalism.SharpRestriction.LevelLetterCocycles.LamZero
 
 noncomputable section
 

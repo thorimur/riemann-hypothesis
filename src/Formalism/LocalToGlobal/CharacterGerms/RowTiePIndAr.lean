@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePPTAvg
+import Mathlib.Algebra.Order.Star.Real
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsPlueckerArith
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsGrassHeight
 set_option maxSynthPendingDepth 1

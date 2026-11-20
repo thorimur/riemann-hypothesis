@@ -1,7 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.BlockValue
 import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.StatementsCoinv
 import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.StatementsTop
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

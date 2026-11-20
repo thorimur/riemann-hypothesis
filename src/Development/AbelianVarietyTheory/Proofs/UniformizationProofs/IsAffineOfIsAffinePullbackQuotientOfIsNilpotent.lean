@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUniqueZpowMulAppLE
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.AlgebraicGeometry.Morphisms.Finite
 
 open CategoryTheory Limits AlgebraicGeometry TopologicalSpace Opposite
 

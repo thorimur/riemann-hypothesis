@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.PtKOfReal
-import Formalism.SharpRestriction.Divisibility.HookProducts.SharpFunctionalBoundFamily
+import Formalism.SharpRestriction.Divisibility.HookProducts.NormAtEqSqrtMajAt
 
 noncomputable section
 

@@ -1,10 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.ThetaCorrespondence.HoweDuality.FactorApply
-import Development.WeilBound.ThetaLifts.SphericalLattices.ThetaSubSup
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.RelInfAlt
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianTransform
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitKernel
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianIdentity
 open NumberField IsDedekindDomain Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes GlobalTheory.WeilM GlobalTheory.AdelicU GlobalTheory.LFun GlobalTheory.IndefiniteRowSideFullHecke.WeilTensorModels
 open UpperTheory.Lit.HoweDuality GlobalTheory.HoweGlobalPair
 

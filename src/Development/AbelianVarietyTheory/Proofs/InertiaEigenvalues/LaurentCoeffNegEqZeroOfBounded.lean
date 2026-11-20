@@ -1,5 +1,7 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.HasArcDataIff
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.LaurentSeries
+import Mathlib.Tactic.Monotonicity.Lemmas
 open ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open scoped LaurentSeries
 

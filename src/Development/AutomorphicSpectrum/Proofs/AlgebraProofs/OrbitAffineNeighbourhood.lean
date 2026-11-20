@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.PublishedTheorems.Algebra₂.RegularHypothesesAndConclusion
-import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HasAffineChartId
-import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFreeHom
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ShearIsoActionProjectionStatement
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.MemOrbitSelfStatement
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.OrbitTransStatement
@@ -11,6 +7,7 @@ import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFreePullbackAf
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.PullbackRestrictOpenStatement
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.NormNotMemPrimeIffStatement
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.BasicOpenNormFibreIffStatement
+import Mathlib.AlgebraicGeometry.Morphisms.QuasiFinite
 
 open CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory AlgebraicGeometry Opposite
 open scoped CategoryTheory.MonObj

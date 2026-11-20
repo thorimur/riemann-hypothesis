@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.TorMatch
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PowNotMemMaximalIdealPowSucc
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FormalFibreIsReducedOfField
+import Development.AbelianVarietyTheory.Definitions.Divisors.SharpOverIff
 
 open IsLocalRing GlobalTheory.Poinc.Eq8
 open scoped TensorProduct

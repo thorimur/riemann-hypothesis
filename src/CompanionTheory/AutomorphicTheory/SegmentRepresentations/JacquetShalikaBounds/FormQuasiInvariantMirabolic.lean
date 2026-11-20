@@ -1,4 +1,5 @@
 import CompanionTheory.AutomorphicTheory.SegmentRepresentations.JacquetShalikaBounds.CMMul
+import GroundTheory.AutomorphicForms.MacdonaldWhittaker
 
 noncomputable section
 

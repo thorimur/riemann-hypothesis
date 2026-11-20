@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.WeilPairing
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.WeilGaloisFunctionField
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.TateDeterminant
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.Abelian

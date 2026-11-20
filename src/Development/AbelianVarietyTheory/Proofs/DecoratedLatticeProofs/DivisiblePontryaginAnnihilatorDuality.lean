@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.LinearIndependentWave
+import Mathlib.Analysis.Fourier.FiniteAbelian.PontryaginDuality
 
 namespace GlobalTheory.DualTransfer
 

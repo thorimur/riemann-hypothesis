@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IoYStOfIoPair
-import BuildAid.D3
 
 noncomputable section
 

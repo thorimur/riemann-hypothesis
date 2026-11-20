@@ -1,6 +1,5 @@
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.MemBasicOpenSecHomIff
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.BijOnClosedPointsOfIsIso
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ProjDehom
+import ReciprocityTheory.AnalyticForms.RegularLocalRings.StalkLoc
 
 namespace ReciprocityTheory.AnForm.R
 

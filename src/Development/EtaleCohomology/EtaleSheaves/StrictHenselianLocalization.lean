@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafSHNbSys
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC
 open LateralTheory.E.E4 LateralTheory.E.LeafGhostCut LateralTheory.E.EtaleTopologySheaves LateralTheory.E.LeafDegCut LateralTheory.E.LeafInj0Pf LateralTheory.E.LeafInj0VPf LateralTheory.E.LeafSHPtPf

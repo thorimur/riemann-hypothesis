@@ -1,5 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.TCoefMInMMul
+import Mathlib.Analysis.Calculus.Deriv.Star
+import Mathlib.Analysis.Matrix.Normed
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
 open MvPolynomial
 open scoped ContDiff
 open GlobalTheory.PsCo.Pc1

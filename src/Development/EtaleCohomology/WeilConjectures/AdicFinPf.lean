@@ -1,4 +1,7 @@
 import Development.EtaleCohomology.KummerTheory.AdicLimPf
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.CategoryTheory.CofilteredSystem
+import Mathlib.CategoryTheory.Functor.OfSequence
 
 noncomputable section
 open CategoryTheory GlobalTheory.EtC

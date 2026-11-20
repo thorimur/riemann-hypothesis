@@ -1,5 +1,4 @@
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.StringRepresentations.AdmissibleTemperedUnramified
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.HeckeSplitOne
+import Formalism.SharpRestriction.LevelLetterCocycles.SumRepresentations
 
 noncomputable section
 

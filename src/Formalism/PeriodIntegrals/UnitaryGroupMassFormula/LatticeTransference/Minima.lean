@@ -1,6 +1,8 @@
-import Mathlib
-import Formalism.PeriodIntegrals.Transference
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeTransference.TransferenceKey
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Module
 open scoped InnerProductSpace

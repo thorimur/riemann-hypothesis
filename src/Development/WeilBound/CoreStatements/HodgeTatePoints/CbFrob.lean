@@ -1,5 +1,6 @@
 import Development.WeilBound.CoreStatements.HodgeTatePoints.FirstPowerEqProdAt
 import Development.WeilBound.CoreStatements.HodgeTatePoints.CoeffEvPowOne
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.HasSubstEv
 
 noncomputable section
 

@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.RadfordShufflePolynomialHolds
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Data.ENat.BigOperators
+import Mathlib.Order.CompletePartialOrder
 open GlobalTheory
 
 namespace GlobalTheory.ShuffleCount

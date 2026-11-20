@@ -1,5 +1,8 @@
-import Mathlib
-import Development.DiscreteGroups.GlobalIrreducibility.LConvKirB
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 set_option linter.unusedSimpArgs false

@@ -1,6 +1,4 @@
 import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.SubsingletonQuotientOfIdealEqTop
-import Formalism.SharpRestriction.ElevenLe
-import Formalism.LocalRingCardinality.DataParamsT
 import Formalism.LocalRingCardinality.CoeNeZeroOfNotMem
 import Development.AutomorphicArithmetic.CyclotomicBounds.RamifiedDiscriminants.TwoFmLeRdE
 import Development.AutomorphicArithmetic.CyclotomicBounds.RamifiedDiscriminants.CondLam

@@ -1,9 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CastMIotaSelf
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HeadPictureEmptyWord
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ModuleFormEqRadialFormOne
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.InvariantOperatorUnderJacquet
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.QNFAsm
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelFormSesquilinearFiniteClass
 
 open Matrix MeasureTheory
 open scoped ComplexConjugate

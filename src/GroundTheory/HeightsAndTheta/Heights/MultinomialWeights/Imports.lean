@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.StatementsVolume
 set_option maxSynthPendingDepth 1
 

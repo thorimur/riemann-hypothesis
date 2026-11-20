@@ -1,13 +1,7 @@
-import Mathlib
-import Formalism.QuotientMetricDivisors.StatementK
-import Formalism.QuotientMetricDivisors.RatHermLcvTwist
 import Formalism.QuotientMetricDivisors.EigenRatHermLcv
-import Formalism.QuotientMetricDivisors.ClassSumDualLe
 import Formalism.QuotientMetricDivisors.ClassSumDualGeF
-import Formalism.QuotientMetricDivisors.UntwistedChoice
 import Formalism.QuotientMetricDivisors.HeightBoundExactNorms
 import Formalism.QuotientMetricDivisors.Complement2Normaliser
-import Formalism.QuotientMetricDivisors.ScalarLiftLowerBoundRows
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder InnerProductSpace

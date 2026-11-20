@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.NormalizedValuationMul
 import Formalism.LocalToGlobal.ProjectiveLattices.CurveInstSt
 
 noncomputable section

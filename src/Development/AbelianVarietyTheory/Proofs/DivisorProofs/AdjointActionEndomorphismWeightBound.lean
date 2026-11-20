@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NablaSchur
 
 open GlobalTheory.LeviCut

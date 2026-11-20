@@ -1,4 +1,9 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVC
+import Formalism.FlagUnipotentLattices.ArithmeticIdentityEntries
+import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.DifferentIdealEqTop
+import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ExistsMassConstOne
+import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.FiniteDimensionalOfOrtho
+import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVR
 
 noncomputable section
 

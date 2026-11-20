@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrobeniusPowRootOfUnity
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.ValUnitsB
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedExtensionBasisStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormSumFrobeniusGcdStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientsBoundedRootsUnityStatement

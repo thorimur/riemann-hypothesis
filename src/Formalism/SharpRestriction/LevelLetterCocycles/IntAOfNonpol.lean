@@ -1,7 +1,7 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.LetterPull
 import Formalism.SharpRestriction.LevelLetterCocycles.ArcCoordinatesOfLevelZeroParts
-import Formalism.SharpRestriction.LevelLetterCocycles.CancelUnitMulUniformizerPow
-import Formalism.SharpRestriction.LevelLetterCocycles.UniversalGeneralOfRestriction
+import Formalism.SharpRestriction.LevelLetterCocycles.LinearIdentityHeadDifference
+import Formalism.SharpRestriction.LevelLetterCocycles.SecOfPInt
 
 noncomputable section
 

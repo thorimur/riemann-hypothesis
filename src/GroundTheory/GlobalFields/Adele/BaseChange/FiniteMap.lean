@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.GlobalFields.SemilocalAlgebras.NormTrace
-import GroundTheory.GlobalFields.CompletionAtPlace.Integers
+import GroundTheory.GlobalFields.SemilocalAlgebras.ContinuousCompletionMap
+import Mathlib.RingTheory.DedekindDomain.FiniteAdeleRing
 
 namespace GroundTheory.Global
 

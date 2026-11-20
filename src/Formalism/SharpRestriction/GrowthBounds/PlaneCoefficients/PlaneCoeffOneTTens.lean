@@ -1,6 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.PlaneCoefficients.PlanePairsOnBlocksAt
-import Formalism.SharpRestriction.GrowthBounds.TwistedSubstitution.SymGSupport
-import Formalism.SharpRestriction.GrowthBounds.TwistedSubstitution.JointEIntList
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.ValuationNonnegIffIntegral
 
 noncomputable section
 

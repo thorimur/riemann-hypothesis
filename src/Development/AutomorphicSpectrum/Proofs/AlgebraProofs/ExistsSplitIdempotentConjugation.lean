@@ -1,13 +1,12 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.CotangentSurjective
 import ReciprocityTheory.DualLattices.ImportsAlt
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsTight
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.StepOrderRes
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.TeichmullerCharacterOrderGeneratesStatement
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GaussSumValuationTeichmullerStatement
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FundamentalCharacterIdealPowersStatement
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.DualHopfOrderGaussSumStatement
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsExtraFurther
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.TotallySplit
 open ReciprocityTheory.PGsh.L2 ReciprocityTheory.PGsh.Up GlobalTheory.CompanionTheory.Ar.GR
 open scoped Matrix
 

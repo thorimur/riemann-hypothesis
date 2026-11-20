@@ -1,4 +1,6 @@
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.CrRootMem
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

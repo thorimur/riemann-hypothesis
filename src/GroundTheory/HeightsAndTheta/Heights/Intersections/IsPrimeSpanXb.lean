@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.IsFieldIntersectionNoBlockFam
 import GroundTheory.HeightsAndTheta.Heights.Intersections.FlagBundleSt
 set_option maxSynthPendingDepth 1
 

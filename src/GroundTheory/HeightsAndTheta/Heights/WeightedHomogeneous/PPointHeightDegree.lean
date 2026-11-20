@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.StatementsPointHeight
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.FieldChange
+import GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.Statements
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

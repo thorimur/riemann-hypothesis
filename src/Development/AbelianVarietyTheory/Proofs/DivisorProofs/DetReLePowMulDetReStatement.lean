@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetReLePowMulDetRe
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsRatioOfWeight
 open Filter Topology MeasureTheory GlobalTheory.HSAmp
 open scoped ComplexOrder Matrix
 set_option maxHeartbeats 1000000 in

@@ -3,6 +3,8 @@ import Formalism.LogFactorialBounds.LogFactorialProofs.PrimeSum
 import Formalism.RankGapBounds.RankGapProofs.RankGapDecayHypothesis
 import Formalism.RankGapBounds.RankGapProofs.PmModulusFacts
 import Formalism.RankGapBounds.RankGapProofs.FourNotDvdOddSqAddOne
+import Mathlib.Algebra.Order.Field.GeomSum
+import Mathlib.RingTheory.PiTensorProduct
 
 namespace Formalism.LFunctionChainParameters.DeficitSplitLemmas
 

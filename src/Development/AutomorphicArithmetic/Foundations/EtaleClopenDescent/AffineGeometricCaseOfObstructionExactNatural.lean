@@ -1,4 +1,3 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.GeoProof
 import Development.EtaleCohomology.KummerTheory.FinSHen
 import Development.EtaleCohomology.KummerTheory.FinCont

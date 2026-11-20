@@ -2,6 +2,8 @@ import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowU
 import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowV
 import Formalism.LocalRingCardinality.SpanPowerMembership.EntPlNonempty
 import Formalism.LocalRingCardinality.Lemmas
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowF
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

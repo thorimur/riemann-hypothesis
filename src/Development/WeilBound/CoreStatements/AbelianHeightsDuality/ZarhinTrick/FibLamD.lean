@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.ZarhinTrick.FibLamC
+import Development.WeilBound.CoreStatements.AbelianHeightsDuality.ZarhinTrick.FibLamB
 
 set_option autoImplicit false
 

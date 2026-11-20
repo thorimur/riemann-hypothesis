@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.HermitianLattices.StatementLat
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 open Module
 

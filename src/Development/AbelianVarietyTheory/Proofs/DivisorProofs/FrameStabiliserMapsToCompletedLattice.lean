@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.DefGroup
 open NumberField
 open scoped TensorProduct Matrix

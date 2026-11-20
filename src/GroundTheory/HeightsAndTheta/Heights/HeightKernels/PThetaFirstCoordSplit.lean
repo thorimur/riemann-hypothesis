@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsTheta
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ThetaGauss
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.CoordFirst

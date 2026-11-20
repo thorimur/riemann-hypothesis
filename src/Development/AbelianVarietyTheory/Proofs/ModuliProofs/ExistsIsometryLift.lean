@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.CMModuli.LevelActionTransitions
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModNOfDvdModulus
 

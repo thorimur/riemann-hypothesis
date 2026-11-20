@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.ExtRobbaPointEval
 import GroundTheory.PAdicHodge.ExistsWeightLeOfConvergesAt
 set_option maxSynthPendingDepth 1

@@ -1,6 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.UnifUniqSt
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.AgreeOfCore
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.RigidArcOfMono
 
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry NumberField

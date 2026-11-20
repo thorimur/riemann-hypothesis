@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GenericRegularity.PeriodCoordinatesFramesLiftTendsto
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.Signature
 open NumberField Topology Filter ReciprocityTheory.ChartRestriction.G.FD
 open scoped Matrix
 set_option maxHeartbeats 1000000 in

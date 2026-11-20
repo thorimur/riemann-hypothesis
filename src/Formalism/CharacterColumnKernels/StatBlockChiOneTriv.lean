@@ -1,4 +1,4 @@
-import Formalism.CharacterColumnKernels.StatBlockRhoCount
+import Formalism.CharacterColumnKernels.StatementRho
 
 open Finset
 

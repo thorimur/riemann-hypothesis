@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InvariantTopologyComparison.EntriesLat
+import Mathlib.Algebra.AffineMonoid.Basic
 
 noncomputable section
 

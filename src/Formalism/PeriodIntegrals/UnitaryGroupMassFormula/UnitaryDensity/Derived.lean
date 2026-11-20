@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryDense
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Matrix MvPolynomial
 open scoped ComplexOrder

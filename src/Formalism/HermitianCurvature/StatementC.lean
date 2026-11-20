@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianCurvature.StatementPB
 import Formalism.HermitianCurvature.StatementB
 

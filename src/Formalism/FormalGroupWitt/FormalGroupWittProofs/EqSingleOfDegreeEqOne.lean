@@ -1,4 +1,5 @@
 import Formalism.FormalGroupWitt.SubstInjectiveV
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

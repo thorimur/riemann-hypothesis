@@ -1,8 +1,11 @@
-import Formalism.TameInertiaTowers.FinalGroup
 import Formalism.TameInertiaTowers.CentralOrderTwo.Galois
 import Formalism.TameInertiaTowers.CentralOrderTwo.ConjEqInvOfPowEqOne
 import Formalism.TameInertiaTowers.CentralOrderTwo.DecompositionSubgroupIndex
 import Formalism.TameInertiaTowers.CentralOrderTwo.OddEqOneOfSubOneMem
+import Formalism.TameInertiaTowers.CentralOrderTwo.Groups
+import Formalism.TameInertiaTowers.CentralOrderTwo.MemDecompositionSubgroupIff
+import Formalism.TameInertiaTowers.CentralOrderTwo.NegOneNeOneUnitsZmodFour
+import Formalism.TameInertiaTowers.CentralOrderTwo.OrderOfThreeUnitsTwoPow
 
 namespace Formalism.TwoAdicCyclotomicDecomposition
 

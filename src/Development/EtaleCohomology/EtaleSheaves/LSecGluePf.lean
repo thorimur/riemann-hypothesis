@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.EtaleSheaves.LeafKumSpecPf
+import Development.AbelianVarietyTheory.Definitions.Divisors.GalMapMul
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

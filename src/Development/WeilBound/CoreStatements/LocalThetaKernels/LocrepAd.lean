@@ -1,8 +1,6 @@
 import Development.WeilBound.CoreStatements.LocalThetaKernels.LocrepSB
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchrodingerTensorEqLocalOfSupportedAt
 import Development.AutomorphicSpectrum.Proofs.MembershipProofs.WeilRepresentationThetaEquivariance
-import Development.AutomorphicSpectrum.Proofs.MembershipProofs.ThetaDistributionNonzeroAdmissible
-import Development.AutomorphicSpectrum.Proofs.MembershipProofs.ThetaSumAdmissibility
 
 noncomputable section
 

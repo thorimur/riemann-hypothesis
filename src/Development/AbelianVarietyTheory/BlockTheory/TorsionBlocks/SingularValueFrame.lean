@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.T2SpaceAdeleRing
+import Mathlib.Analysis.InnerProductSpace.SingularValues
 
 noncomputable section
 

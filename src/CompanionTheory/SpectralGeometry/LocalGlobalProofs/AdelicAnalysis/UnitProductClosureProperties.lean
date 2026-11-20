@@ -1,5 +1,5 @@
-import Mathlib
 import CompanionTheory.SpectralGeometry.CountingDefinitions.AdelicEulerProducts.IsEulerProd
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 

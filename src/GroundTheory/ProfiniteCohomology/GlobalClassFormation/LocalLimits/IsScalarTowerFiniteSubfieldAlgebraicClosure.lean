@@ -1,9 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits.NormalFixingSubgroupGaloisClosure
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.LocalMaps
-import GroundTheory.GlobalFields.SemilocalAlgebras.Galois
 import GroundTheory.GlobalFields.IdeleGroups.LocalHerbrand
-import GroundTheory.ProfiniteCohomology.GaloisModules.Discrete
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.AbstractLocalReciprocity.Isomorphism
 
 namespace GroundTheory.LocalField.Abstract

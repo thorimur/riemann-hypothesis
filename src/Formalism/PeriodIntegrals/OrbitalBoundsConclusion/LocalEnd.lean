@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.LocalEnd
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalEndomorphisms.Assembly
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalEndomorphisms.HenselRoot
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalEndomorphisms.IntVal

@@ -1,4 +1,5 @@
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DiagPairs
+import Mathlib.Tactic.Monotonicity.Lemmas
 open GlobalTheory.PRep GlobalTheory.SmGL Matrix ValuativeRel GlobalTheory.CompanionTheory.IwJac
 open scoped Classical
 

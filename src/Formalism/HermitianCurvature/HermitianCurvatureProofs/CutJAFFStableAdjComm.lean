@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAFFStableAdjFund
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAFFStableAdjCont
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAFFStableAdjInt
 
 namespace Formalism.FourierDecayAlt.P.CutMP.JA.FFS

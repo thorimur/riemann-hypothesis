@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.GradedWeylDivisibility.StatementA
 import Formalism.BranchSandwichDivisors.StatementR
 

@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.MultiplicityOne.NormOne
+import GroundTheory.AutomorphicForms.FourierWhittaker
 
 open NumberField NumberField.mixedEmbedding MeasureTheory Topology Set Filter IsDedekindDomain Matrix
 open scoped NumberField.AdeleRing

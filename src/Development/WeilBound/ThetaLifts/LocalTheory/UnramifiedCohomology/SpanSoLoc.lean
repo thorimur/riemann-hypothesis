@@ -1,5 +1,4 @@
 import Development.WeilBound.ThetaLifts.LocalTheory.ConeShifts.KAtCompact
-import Development.WeilBound.ThetaLifts.LocalTheory.AdmissiblePureTensorSchwartz
 import Development.WeilBound.ThetaLifts.SmallCones.MatCancel
 import Development.WeilBound.ThetaLifts.SmallCones.SoDefs
 import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.FullOfSoLoc

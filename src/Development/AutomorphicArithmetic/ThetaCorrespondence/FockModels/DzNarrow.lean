@@ -1,5 +1,6 @@
 import Development.DiscreteGroups.GlobalIrreducibility.NarrowBigHolds
 import Development.AutomorphicArithmetic.ThetaCorrespondence.FockModels.MultiIrr
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ChevalleyUnitsStatement
 
 noncomputable section
 

@@ -1,6 +1,10 @@
 import Formalism.EisensteinCokernelLengths.StatementLIFTV
 import Formalism.LagrangeIdealLifts.LiftLagrangeIdealInt
-import Formalism.WindowSums.PowerSeriesRelationList
+import Mathlib.Algebra.Order.Field.GeomSum
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.CardIntervalMod
+import Mathlib.Data.Rat.Star
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace Formalism.ZetaNonvanishing.LIFTV
 

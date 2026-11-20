@@ -3,6 +3,7 @@ import Formalism.RealPlaceAnalysis.RealPlaceTaylor.MemUnitaryGroupIffMulConjTran
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.IndefiniteUnitaryPreservesForm
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.ComplexificationHolds
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InvolutionInvariants
+import Mathlib.MeasureTheory.Group.ModularCharacter
 
 open MeasureTheory Matrix Topology
 open scoped NNReal ENNReal

@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousIteratedFDerivApply
+import Mathlib.LinearAlgebra.Multilinear.FiniteDimensional
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 open MeasureTheory
 
 namespace GlobalTheory.WeakDeriv

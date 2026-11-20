@@ -1,5 +1,11 @@
 import Formalism.HermitianCurvature.StatementE
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.Herglotz
+import Mathlib.MeasureTheory.Integral.PeakFunction
+import Mathlib.MeasureTheory.Integral.Pi
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.FourierDecayAlt.P.HLsc
 

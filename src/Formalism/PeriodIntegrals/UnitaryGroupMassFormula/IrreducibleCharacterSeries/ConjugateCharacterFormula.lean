@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IrreducibleCharacterSeries.IrrCharIff
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 noncomputable section
 open Matrix ComplexOrder

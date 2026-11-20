@@ -1,8 +1,5 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.ExistsNatMulMemConeRingIntFin
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFrameChange
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRatNoetherFrame
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsHSMTransport
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsResChiIndex
 set_option maxSynthPendingDepth 1
 

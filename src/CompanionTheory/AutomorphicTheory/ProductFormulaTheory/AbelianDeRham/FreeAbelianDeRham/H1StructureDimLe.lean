@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.AutomorphicTheory.TemperedLocalSpectra.ObstructionLifting.H1StructureDimLe
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HtpyStOfCxSt
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.QIsoAtRight

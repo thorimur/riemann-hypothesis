@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ColHeightSharpWith
-import Development.AbelianVarietyTheory.Definitions.Divisors.FactorBounds
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantEighth
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.BadPrimesSharp
 

@@ -1,7 +1,12 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StRiemannExtensionPolynomial
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.OsgoodSeparate
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PolynomialFrame
+import Mathlib.AlgebraicTopology.FundamentalGroupoid.SimplyConnected
+import Mathlib.Analysis.Analytic.Polynomial
+import Mathlib.Analysis.Calculus.FDeriv.Pi
+import Mathlib.Analysis.Complex.RemovableSingularity
+import Mathlib.Analysis.Convex.Contractible
+import Mathlib.RingTheory.PicardGroup
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.ComplexSets

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.HtValOnSubset
 import Development.AbelianVarietyTheory.Counterexamples.UpperHalfSurvey.WeightEqZeroOfOneIsSec
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCuspNe
 open NumberField Formalism.L2.Pj ReciprocityTheory.ChartRestriction.G.FD

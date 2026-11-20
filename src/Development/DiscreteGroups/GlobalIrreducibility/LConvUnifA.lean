@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.SmoothRep
 import GroundTheory.AutomorphicForms.HeckeIrreducible
 import ReciprocityTheory.BurnsideSurjectivity.Burnside
 

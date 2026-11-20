@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.FaceDSingle
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open CategoryTheory UpperTheory.V.KH
 

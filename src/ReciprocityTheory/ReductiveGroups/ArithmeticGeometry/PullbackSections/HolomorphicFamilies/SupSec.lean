@@ -1,7 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.SupGen
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.LemmaS
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.ExtProof
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.HfRsmulRight
 
 noncomputable section
 

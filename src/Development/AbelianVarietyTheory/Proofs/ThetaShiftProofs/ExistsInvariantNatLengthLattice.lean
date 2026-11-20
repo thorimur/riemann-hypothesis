@@ -1,5 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.DataRigidTorsionOfDataRigid
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.PiTensorProduct
 
 namespace GlobalTheory
 

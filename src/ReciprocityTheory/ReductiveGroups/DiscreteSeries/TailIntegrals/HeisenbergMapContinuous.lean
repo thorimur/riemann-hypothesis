@@ -1,5 +1,8 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.ScaleInt
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.HeisenbergDualBaseVectorFormulaAlt
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Topology.Separation.CompletelyRegular
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

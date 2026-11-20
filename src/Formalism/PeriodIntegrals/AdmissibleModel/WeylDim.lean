@@ -2,7 +2,7 @@ import Formalism.GradedWeylDivisibility.FinalD
 import Formalism.ThetaLogCoordinates.ResidueClassEstimates.FinalT
 import Formalism.SharpRestriction.GrowthBounds.TableLineDegreeFive
 import Formalism.SharpRestriction.GrowthBounds.ProjectionLemmaBaseLevel
-import Formalism.SharpRestriction.GrowthBounds.ColumnSystems
+import Mathlib.Order.Interval.Finset.Box
 
 open Finset
 

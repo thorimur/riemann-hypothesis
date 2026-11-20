@@ -1,4 +1,5 @@
 import Formalism.JumpKernelCokernel.Statement
+import Mathlib.Order.CompletePartialOrder
 
 namespace Formalism.KernelCokernelLengths.KernelCokernelLemmas
 

@@ -1,14 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.StFSSmallCountBound
-import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.FSScaled
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PScaledFSTopPos
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PPerturbSemipos
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ZcombIsConjInvariantH
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SmallSectionCountLeOfInjOn
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PNefOnGenericOfSemipos
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PSmallGenHeightsNonneg
-import GroundTheory.HeightsAndTheta.Heights.Intersections.PThmIUnique
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.MoriwakiSt
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.ForSecondHalf

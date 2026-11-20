@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafUnitActPfAug
+import Development.EtaleCohomology.EtaleSheaves.LeafUnitActPf
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

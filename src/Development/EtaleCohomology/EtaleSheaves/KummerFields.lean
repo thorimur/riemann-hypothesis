@@ -1,9 +1,6 @@
-import Development.EtaleCohomology.EtaleSheaves.IsChernClassCocycle
 import Development.EtaleCohomology.EtaleSheaves.KummerSequence.ResMapNsmulHomotopy
-import Development.EtaleCohomology.EtaleSheaves.KummerSequence.LeafKumMuPf
 import Development.EtaleCohomology.EtaleSheaves.KummerFields.H0Naturality
 import Development.EtaleCohomology.EtaleSheaves.KummerFields.GmSecSurj
-import Development.EtaleCohomology.EtaleSheaves.LeafKumCut
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

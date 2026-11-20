@@ -1,6 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEX2
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.Side0PosOf
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SliceTopZero
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutHBPts
 
 open Matrix MeasureTheory
 

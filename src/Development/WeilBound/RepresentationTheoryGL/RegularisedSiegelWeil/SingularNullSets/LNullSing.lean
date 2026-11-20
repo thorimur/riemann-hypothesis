@@ -1,4 +1,3 @@
-import Development.WeilBound.RepresentationTheoryGL.RegularisedSiegelWeil.SingularNullSets.WeakApproximationFinitePlace
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NullSingOfIdemEx
 
 namespace PositivityTheory.Rg.Rsw.L

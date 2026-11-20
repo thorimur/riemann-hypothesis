@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.FaceRes
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtaleCochainEvalOnSimplexBasicPropertiesStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtaleCochainEvalOnSimplexDifferentialValuesStatement

@@ -1,4 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.DualFockLinear.OneSidedLemma4
+import Formalism.PeriodIntegrals.AdmissibleModel.WeylDim
+import Formalism.SharpRestriction.GrowthBounds.DualFockLinear.DvdOfCompl
+import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeLatticeMulOfWeightSum
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.OfChartPointSecPointSpecChart
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChartPointTrdeg
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecPointSeparable

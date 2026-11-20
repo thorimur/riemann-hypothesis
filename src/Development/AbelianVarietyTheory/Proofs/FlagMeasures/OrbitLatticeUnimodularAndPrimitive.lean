@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.HbApply
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ImportsBisBis
 open scoped Classical ENNReal Pointwise

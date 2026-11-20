@@ -1,11 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.GlobalHeightBoundIffAtGoodPrimes
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.Adj
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CapDegreeSymmetric
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PresentationFlagFiltrationExists
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericMapExtendsAfterScaling
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagPairDivisorClassSumStatement
+import Development.AbelianVarietyTheory.Definitions.Divisors.CapDegUniformiserLine
 
 set_option autoImplicit false
 set_option backward.isDefEq.respectTransparency false

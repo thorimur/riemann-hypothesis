@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsGenericPullInj
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsGenericSections
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PClearDenominators

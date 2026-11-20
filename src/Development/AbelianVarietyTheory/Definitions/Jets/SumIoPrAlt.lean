@@ -1,7 +1,3 @@
-import Mathlib
-import Formalism.HermitianCurvature.BesselNonvanishingReduction
-import Formalism.HermitianCurvature.StatementQ
-import Formalism.PeriodIntegrals.CapelliEig
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SmoothAdd
 
 open Matrix MeasureTheory Finset

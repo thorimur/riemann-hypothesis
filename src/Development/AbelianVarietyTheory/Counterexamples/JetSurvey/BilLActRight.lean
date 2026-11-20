@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CIndFrFix
 
 set_option autoImplicit false

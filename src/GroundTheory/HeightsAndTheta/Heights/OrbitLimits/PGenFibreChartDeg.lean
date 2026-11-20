@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.GenFibreChartDeg
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StChartScalingIndep
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StAdjoinIndepRelfinrank

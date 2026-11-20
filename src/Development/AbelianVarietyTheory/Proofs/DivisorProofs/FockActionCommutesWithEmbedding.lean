@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetSNeZero
 open MvPolynomial Formalism.BasicNotions.TH GlobalTheory.CharPair
 

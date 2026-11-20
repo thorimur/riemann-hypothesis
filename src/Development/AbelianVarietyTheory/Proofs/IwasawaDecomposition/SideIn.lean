@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.DatVtEq
+import Formalism.LocalToGlobal.Divisibility.RowSideTie
+import Formalism.LocalToGlobal.GaloisLevelStructure.TiedLevel
 
 noncomputable section
 

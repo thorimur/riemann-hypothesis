@@ -1,6 +1,8 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.BiadditiveInSingleVariables
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.PeriodValuation
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.RingTheory.PiTensorProduct
 
 open Formalism.L2.FormalSeriesBounds
 

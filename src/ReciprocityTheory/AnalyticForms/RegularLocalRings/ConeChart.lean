@@ -1,5 +1,3 @@
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.ProjHyp
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.MemConePtsIffChartIdeal
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChartA
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChartB
 

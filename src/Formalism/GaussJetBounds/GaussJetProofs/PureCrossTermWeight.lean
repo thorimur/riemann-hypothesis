@@ -1,5 +1,6 @@
-import Formalism.GaussJetBounds.GenLogInverse
 import Formalism.GaussJetBounds.GaussJetProofs.SubstitutionWeightBound
+import Mathlib.Analysis.Normed.Ring.Ultra
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 open scoped BigOperators

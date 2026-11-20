@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.SplitIso
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

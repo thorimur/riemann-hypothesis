@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.Adele.BaseChange.FiniteTensor
 import GroundTheory.GlobalFields.SemilocalAlgebras.InfiniteAdeleTopology
+import Mathlib.NumberTheory.NumberField.AdeleRing
 
 namespace GroundTheory.Global
 

@@ -1,6 +1,5 @@
 import ReciprocityTheory.DualLattices.LiftMonomialDeterminantStatement
-import ReciprocityTheory.DualLattices.PowMemCarrier
-import ReciprocityTheory.DualLattices.HasLenCokerDet
+import ReciprocityTheory.DualLattices.UpSmith
 
 noncomputable section
 

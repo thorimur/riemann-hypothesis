@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.MassRatio
+import Mathlib.RingTheory.DedekindDomain.Different
 
 open NumberField
 

@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.IterDifferentiableOn
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.CStarAlgebra.Classes
 open Set Filter Topology Metric
 
 namespace GlobalTheory.CompanionTheory.Ar.Flat.LocalLog

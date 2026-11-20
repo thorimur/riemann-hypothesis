@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ConeBall
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeSlab
+import Mathlib.Analysis.InnerProductSpace.Adjoint
+import Mathlib.CategoryTheory.Countable
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.ComplexSets

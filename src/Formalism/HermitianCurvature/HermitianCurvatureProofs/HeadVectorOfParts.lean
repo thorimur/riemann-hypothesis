@@ -1,6 +1,6 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.HeadTypesAtOfWeight
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PolynomialHeadTypes
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CompactCoefficientAppend
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.UnipotentLevelZeroEqOne
 
 noncomputable section
 

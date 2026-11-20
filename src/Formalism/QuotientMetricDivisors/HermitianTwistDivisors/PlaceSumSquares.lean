@@ -1,6 +1,14 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.UntwistedChoice
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ConjugateWeightLatticeOfGeneral
+import Formalism.LogFactorialIndices.SignedSubspaceIndex.LogProductFormula
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Analysis.SpecialFunctions.Log.Monotone
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

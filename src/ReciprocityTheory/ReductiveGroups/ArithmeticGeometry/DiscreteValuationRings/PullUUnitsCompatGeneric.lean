@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.AppCompatGeneric
+import Mathlib.Tactic.ENatToNat
 
 set_option autoImplicit false
 

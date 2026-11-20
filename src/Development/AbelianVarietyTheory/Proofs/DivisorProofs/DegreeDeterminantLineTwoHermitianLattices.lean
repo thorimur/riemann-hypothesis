@@ -1,8 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameCoord
 import Formalism.LocalRingCardinality.CoeNeZeroOfNotMem
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.LcvBasis
 import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.IdxRules
+import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsFlatSecRankZero
+import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ArakelovDegreeEqDegreeOfFamily
 
 noncomputable section
 

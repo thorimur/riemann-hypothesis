@@ -1,9 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimitOnZero
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimitOffZero
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimitGoodPoints
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongMassNearSmall
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StVarIntAdd
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.LocalLimitGlueOn
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PLelongLimit
 set_option maxSynthPendingDepth 1

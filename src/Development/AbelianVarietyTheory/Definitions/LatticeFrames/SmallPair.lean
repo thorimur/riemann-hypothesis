@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.VacOfShape
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ValueDoubleUnif
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.DoubleCollapse
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.PlaceLaws
 
 noncomputable section
 

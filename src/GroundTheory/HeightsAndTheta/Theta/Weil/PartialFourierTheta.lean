@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Theta.EisensteinZeta.WeilPolarization.StdFormOneNondegenerate
-import GroundTheory.GlobalFields.TateThesis.AdelicChar
+import Mathlib.LinearAlgebra.BilinearForm.Orthogonal
 
 namespace GroundTheory.Heights₂.Theta
 

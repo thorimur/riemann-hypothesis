@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.BlockYZeroLeOfBound
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.YcondCongr
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.TCNumDef
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.DvrFractionFieldCharZeroPrime
 
 noncomputable section
 

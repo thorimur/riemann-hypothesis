@@ -1,4 +1,4 @@
-import Formalism.MoebiusJetDuality.EvDualJet
+import Formalism.MoebiusJetDuality.Statement
 
 noncomputable section
 

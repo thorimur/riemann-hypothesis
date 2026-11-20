@@ -1,5 +1,8 @@
 import Formalism.HermitianCurvature.LatticeHerglotzBound
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HerglotzLowerSemicontinuous
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.Topology.Separation.CompletelyRegular
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.FourierDecayAlt.P.PairingConjugationLemmas
 

@@ -2,6 +2,12 @@ import Formalism.HermitianCurvature.PrimeToDifferent
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.DualIdealInclusion
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FirstEmbeddingOne
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.DualVolumePowerIdentity
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.NumberTheory.NumberField.Discriminant.Different
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.FourierDecayAlt.P.S6x2
 

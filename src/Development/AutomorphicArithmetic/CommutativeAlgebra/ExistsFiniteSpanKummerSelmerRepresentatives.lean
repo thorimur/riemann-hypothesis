@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.IsChart
+import GroundTheory.FunctionField.ExistsBoundDegSubFinrankL
 
 open GroundTheory.FunctionField UpperTheory.Et.Sel
 open scoped TensorProduct

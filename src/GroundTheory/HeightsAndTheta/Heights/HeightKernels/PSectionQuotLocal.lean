@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsVertPointLengthSteps
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PSectionQuotFinite
 set_option maxSynthPendingDepth 1

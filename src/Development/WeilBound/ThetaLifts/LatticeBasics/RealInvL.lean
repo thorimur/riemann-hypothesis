@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.LatticeBasics.ExistsRealStructure
 import Development.WeilBound.ThetaLifts.SchwartzMoments.SchwartzDqTendsto
 

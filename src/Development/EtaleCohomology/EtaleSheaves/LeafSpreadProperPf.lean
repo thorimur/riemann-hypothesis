@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.EtaleSheaves.PropertyDescent.LeafPropsDescendOf
+import Development.EtaleCohomology.EtaleSheaves.LeafDescendVCut
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite LateralTheory.E.E4 LateralTheory.E.LeafDescendVCut LateralTheory.E.LeafDescendChainPf

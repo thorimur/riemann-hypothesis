@@ -1,5 +1,6 @@
-import Formalism.LocalRingCardinality.SpanPowerMembership.TrivialLocalDataRank
-import Formalism.CyclotomicNorms.StatementT
+import Formalism.LocalRingCardinality.SpanPowerMembership.GPlacesExampleNatAct
+import Formalism.LocalRingCardinality.SpanPowerMembership.TrivialColumnsRamifiedTop
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

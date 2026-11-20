@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TensorProductTheorem.GKTensor
+import GroundTheory.AutomorphicForms.TensorProductTheorem.TwoFactorUnique
 
 noncomputable section
 

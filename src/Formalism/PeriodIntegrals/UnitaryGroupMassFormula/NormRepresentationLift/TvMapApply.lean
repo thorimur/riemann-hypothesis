@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.IsPrimitiveSub
+import Formalism.LocalRingCardinality.DataSpaces
 
 noncomputable section
 

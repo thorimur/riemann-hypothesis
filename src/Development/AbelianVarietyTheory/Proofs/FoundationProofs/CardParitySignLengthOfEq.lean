@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.HESmulRight
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIntSmulIntegral
+import Mathlib.GroupTheory.FiniteAbelian.Basic
 
 noncomputable section
 

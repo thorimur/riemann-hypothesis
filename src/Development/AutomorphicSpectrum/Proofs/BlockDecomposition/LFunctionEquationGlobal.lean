@@ -1,10 +1,6 @@
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.RationalPrimesBelowPlaces
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GlobalRankinSelbergBasicFacts
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GammaFactorTransportRingEquiv
-import GroundTheory.GlobalFields.Adele.BaseChange.FiniteCoord
-import GroundTheory.GlobalFields.SemilocalAlgebras.NormTrace
 import GroundTheory.GlobalFields.SemilocalAlgebras.Finite
+import GroundTheory.GlobalFields.CompletionAtPlace.Integers
+import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.DualWhittakerAdelicGL3
 
 noncomputable section
 

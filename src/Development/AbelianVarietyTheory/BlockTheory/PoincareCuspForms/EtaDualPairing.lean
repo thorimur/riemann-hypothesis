@@ -1,5 +1,8 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.SeriesState
+import Mathlib.Algebra.DualNumber
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import ReciprocityTheory.DualLattices.SqZeroOfSpan
 
 noncomputable section
 

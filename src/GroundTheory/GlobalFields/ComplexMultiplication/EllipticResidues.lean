@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.EllipticFunctions
-import GroundTheory.GlobalFields.ComplexMultiplication.Residue
-import GroundTheory.GlobalFields.ComplexMultiplication.RectangleIntegral
 import GroundTheory.GlobalFields.ComplexMultiplication.ResidueTheorem
+import Mathlib.Algebra.Order.Star.Real
 
 open Complex Filter Topology Set
 open scoped Interval Real

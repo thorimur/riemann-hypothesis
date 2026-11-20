@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ResInjOfDetermined
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ResidueInjectivityChar
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultiplicitySpaceEqZeroOfLowestKTypesStatement
 
 noncomputable section

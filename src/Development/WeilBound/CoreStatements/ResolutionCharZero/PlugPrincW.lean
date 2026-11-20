@@ -1,4 +1,3 @@
-import Mathlib
 import Development.ResolutionOfSingularities.HasSimpleNormalCrossingsOfInStrictNormalCrossing
 import Development.WeilBound.CoreStatements.ResolutionCharZero.FromRes
 

@@ -1,21 +1,9 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.ToHLat
-import Formalism.LocalToGlobal.Columns.ToHLatLemmas
-import Formalism.LocalToGlobal.Columns.AlgebraMapMemMaximalIdealPowIff
-import Formalism.LocalToGlobal.Columns.LocWLemmas
-import Formalism.LocalToGlobal.Columns.AtTRank
-import Formalism.LocalToGlobal.Columns.DiamondPreservesRamified
 import Formalism.LocalToGlobal.Columns.FiniteSumNonzeroLargeDepth
 import Formalism.LocalToGlobal.Columns.CmUnramifiedOfFieldConditions
 import Formalism.LocalToGlobal.Columns.RowFormsRat
-import Formalism.LocalToGlobal.Columns.RowFormsSym
 import Formalism.LocalToGlobal.Columns.SliceIntegralDeltaNeBot
-import Formalism.LocalToGlobal.Columns.SummandSlopeAtDecoratedLattice
 import Formalism.LocalToGlobal.Columns.BrzoPairAtZeroRight
-import Formalism.SizeWindowBrackets.Chain2aCoreNoAnalytic
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.SecondStepGluing
-import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
-import Formalism.FormalDegreeBessel.StatementDS
 import Formalism.FormalDegreeBessel.FdegFactorial
 
 open NumberField IsDedekindDomain Module

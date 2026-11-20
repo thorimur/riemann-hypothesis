@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TorsionFreeGenerators.RankOneStep
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 namespace PI.FGTFG
 

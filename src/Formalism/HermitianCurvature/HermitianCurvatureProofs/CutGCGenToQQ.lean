@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.QNFAsm
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntertwinerStructure
 

@@ -1,9 +1,5 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SupportParts
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.Development
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.ModKUnitMul
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.ExistsMulOfRangeLe
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.Blocks
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.DeterminantFormIdentity
 
 theorem support_vector_all : PI.SupportParts.SupportVecAll :=

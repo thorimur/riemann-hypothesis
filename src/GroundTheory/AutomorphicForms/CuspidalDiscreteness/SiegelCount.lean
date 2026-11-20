@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.CuspidalDiscreteness.Counting
-import GroundTheory.AutomorphicForms.Reduction
+import GroundTheory.AutomorphicForms.NormDetDiagUnitsPosRealToUnits
+import GroundTheory.AutomorphicForms.ReductionMahler
 
 open NumberField IsDedekindDomain Set Matrix
 open scoped NumberField.AdeleRing Pointwise

@@ -1,5 +1,9 @@
-import Mathlib
-import Formalism.HarderNarasimhan.ShiftInvariance
+import Formalism.HermitianLattices.StatementMaj
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Matrix NumberField Module
 

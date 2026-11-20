@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRingRChain
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTransport
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalModelVerticalLettersSetup
+import Development.AbelianVarietyTheory.Definitions.Divisors.FaithfulSMulAlgClosure
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 400000

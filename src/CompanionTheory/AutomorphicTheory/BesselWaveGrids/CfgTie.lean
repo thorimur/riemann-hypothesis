@@ -1,5 +1,4 @@
-import Formalism.HermitianCurvature.StatementSz
-import CompanionTheory.AutomorphicTheory.BesselWaveGrids.NqMovedExample
+import CompanionTheory.AutomorphicTheory.BesselWaveGrids.NQText
 
 namespace CompanionTheory.WaveGrid
 

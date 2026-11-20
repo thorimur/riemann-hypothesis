@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.SelfDualOfDiff
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.KernelSplitting.IsIntegralHalf
 

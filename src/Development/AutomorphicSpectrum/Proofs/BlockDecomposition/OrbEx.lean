@@ -1,11 +1,6 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.RegularisedSiegelWeil.HermitianCellMeasures.EmDefs
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TestAlg
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AbscissaConvergenceIdentity
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.JoinedBlockFormula
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousThetaKernelComponents
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IpSmulRight
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmulInvSub
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousIpFst
 
 noncomputable section

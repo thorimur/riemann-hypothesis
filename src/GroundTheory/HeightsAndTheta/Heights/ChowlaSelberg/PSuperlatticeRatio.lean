@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.SuperlatticeRatio
 import GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PClassMean
 import GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PPhScale
+import GroundTheory.GlobalFields.ComplexMultiplication.JInvariantHomothety
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.ChowlaSelberg

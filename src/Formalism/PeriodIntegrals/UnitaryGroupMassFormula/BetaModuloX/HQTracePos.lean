@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BetaModuloX.MemOrth
 
 noncomputable section

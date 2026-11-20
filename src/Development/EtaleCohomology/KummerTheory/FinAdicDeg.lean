@@ -1,7 +1,6 @@
 import Development.EtaleCohomology.WeilConjectures.AdicFinPf
 import Development.EtaleCohomology.KummerTheory.AdicLimPfGlue
 import Development.EtaleCohomology.KummerTheory.AdicAlgPf
-import Development.EtaleCohomology.KummerTheory.AdicDegPf
 
 namespace LateralTheory.Fin.AdicDeg
 theorem etale_adic_cohomology_finiteness_holds : LateralTheory.KummerTheory.AdicFin := by

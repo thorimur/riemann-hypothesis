@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AutomorphicArithmetic.DivisorFrames.ClosedSubgroupEqTopOfDense
 import Development.AutomorphicArithmetic.DivisorFrames.EqTopOfCircleSup
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Topology.Sheaves.Presheaf
 open Filter Topology
 
 theorem UpperTheory.eq_top_of_finite_circle_sup :

@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.DFam
+import Formalism.LocalRingCardinality.DataParams₂
 
 noncomputable section
 

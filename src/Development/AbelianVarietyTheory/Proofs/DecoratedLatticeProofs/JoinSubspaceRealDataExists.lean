@@ -1,14 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.TwArgs
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.See
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ToSTiesRPin
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.JoinSIOnV0
-import Formalism.LocalToGlobal.IndefiniteReal.LinksStage
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SeeExJoinPin
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GoodOperatorSpectrum
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.KernelJoinOnV0Three
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.JoinSI
-import Formalism.LocalToGlobal.IndefiniteReal.RealPins
 
 noncomputable section
 

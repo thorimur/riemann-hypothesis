@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianCurvature.StatementQ
 import Formalism.FormalDegreeBessel.FormalDegreeRatio.IOLeft
 

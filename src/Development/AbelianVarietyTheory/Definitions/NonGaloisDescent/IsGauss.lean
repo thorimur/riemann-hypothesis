@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.AdicCompletionLocal.InstIsAdicCompleteOCSpanSingletonSetCast
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsCrisP
 
 noncomputable section

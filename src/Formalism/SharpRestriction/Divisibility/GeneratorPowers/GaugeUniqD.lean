@@ -1,5 +1,4 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqC
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeBeta
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqA
 
 set_option autoImplicit false
 

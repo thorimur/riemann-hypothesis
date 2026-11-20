@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.LocalFields.Existence
-import GroundTheory.LocalFields.LubinTateLimit
 import GroundTheory.LocalFields.PrincipalUnitsRank
 import GroundTheory.LocalFields.MaximalAbelianExtension
 

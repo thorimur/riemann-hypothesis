@@ -1,7 +1,4 @@
-import Development.WeilBound.ThetaLifts.TowerModels.TowerCodimensionTwoOf
-import Development.WeilBound.ThetaLifts.TowerModels.LeviEx
 import Development.WeilBound.ThetaLifts.TowerModels.PlaneSkew
-import Development.WeilBound.ThetaLifts.TowerModels.StabEx
 import Development.WeilBound.ThetaLifts.TowerModels.ModelEx
 import Development.WeilBound.ThetaLifts.TowerModels.WeilExOf
 

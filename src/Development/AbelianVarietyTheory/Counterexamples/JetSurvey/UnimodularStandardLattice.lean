@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.JetGauges.ThetaSpanAdjoint
+import Formalism.LocalToGlobal.ProjectiveLattices.ThShort
 
 set_option autoImplicit false
 

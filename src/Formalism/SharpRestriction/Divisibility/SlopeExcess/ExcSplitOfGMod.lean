@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.AdmissibleParameterJoins.GandSl
-import Formalism.SharpRestriction.ParConsts
 import Formalism.LocalRingCardinality.IntCastDvdOfDvdIntegers
 
 noncomputable section

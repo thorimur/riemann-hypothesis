@@ -1,11 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.Chebyshev
-import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.UnitTraceSumBounds.LemmaTwoThreeOfSiegelBound
-import Formalism.SharpRestriction.GlobalSchurBounds.MainSup
-import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.UnitTraceSumBounds.FamilyExplicitFormulaHolds
-import Formalism.LocalToGlobal.GlobalTheory.GL2.Statement
-import Formalism.GL3MeanSquares.HookFormulaTorsion.MeanSquareOfPrimeNumberTheorem
-import Formalism.LandauZeroFreeBounds.NoZeroComplex
+import Formalism.SharpRestriction.GlobalSchurBounds.ShortIntervalPrimes
 
 noncomputable section
 

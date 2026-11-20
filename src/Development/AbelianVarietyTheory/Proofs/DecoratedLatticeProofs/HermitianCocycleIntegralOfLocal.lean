@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.AlternatingFormStandardHermitian
+import Formalism.LocalToGlobal.KernelLattices.XiIndCClass
 open NumberField IsDedekindDomain Formalism.L2.Ker
 
 open Formalism.L2.Col Formalism.HermitianLatticesTheory Formalism.L2.Th1.H

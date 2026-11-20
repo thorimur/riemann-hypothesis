@@ -1,9 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.LinkDIVL2R3Rec
-import Formalism.LocalToGlobal.Divisibility.RecBridge
 import Formalism.LocalToGlobal.HilbertRowConditions.ColumnsFunctionAtSubspaces
-import Formalism.LocalToGlobal.Divisibility.RecBridgeMkF
-import Formalism.LocalToGlobal.Columns.RowFormsSym
 import Formalism.LocalToGlobal.Divisibility.HeckeCSDICommTrRep
 
 open Module NumberField IsDedekindDomain

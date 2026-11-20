@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.MassRatioUnfoldedOfTheoremTwo
-import Formalism.SharpRestriction.GlobalSchurBounds.ThickPlacesCorollaryOfAnyTranslate
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.VolumeRatioOfUnfolding
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.SelfDualLatticeDensity
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.RealPlaceMeasures

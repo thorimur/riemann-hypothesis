@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.MixedPositionHypothesis
+import Formalism.SharpRestriction.LevelLetterCocycles.LamPS
 
 noncomputable section
 

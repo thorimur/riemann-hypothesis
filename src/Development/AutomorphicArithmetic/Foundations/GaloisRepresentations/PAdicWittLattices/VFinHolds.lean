@@ -1,10 +1,8 @@
 import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.SplitsSelfOfIso
-import Development.EtaleCohomology.WeilConjectures.ContinCut
 import Development.EtaleCohomology.WeilConjectures.FinQCut
 import Development.EtaleCohomology.WeilConjectures.AdicKerPf
 import Development.EtaleCohomology.EtaleDuality.FinAdicFin
 import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleDualityTraceIsomorphism
-import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AffineProperBaseChange
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC

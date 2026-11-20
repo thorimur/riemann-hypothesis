@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.Statements
+import Mathlib.Order.Interval.Finset.Box
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

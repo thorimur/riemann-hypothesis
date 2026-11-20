@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TauL
+import GroundTheory.LocalFields.LocalFourier
 
 noncomputable section
 

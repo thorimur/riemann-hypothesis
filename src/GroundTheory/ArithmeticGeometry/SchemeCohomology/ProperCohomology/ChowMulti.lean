@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ChowGraph
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ChowLocal
+import Mathlib.AlgebraicGeometry.QuasiAffine
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

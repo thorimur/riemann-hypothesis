@@ -1,5 +1,5 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.SiegelHeights.SiegelHeight
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.MemArchMaxCompactIffOrthogonalAtInfinitePlaces
+import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.Translation
 open NumberField Matrix GlobalTheory.CuspRep GroundTheory.Automorphic GroundTheory.Automorphic.AutomorphicForm UpperTheory.V UpperTheory.V.Fb
 
 private theorem kfinite_of_level {K : Type} [Field K] [NumberField K] {n : ℕ} (φ : AdelicGLn.AdelicGL K n → ℂ)

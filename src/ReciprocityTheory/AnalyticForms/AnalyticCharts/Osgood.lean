@@ -1,4 +1,9 @@
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.OsgoodA
+import Mathlib.Analysis.CStarAlgebra.ContinuousMap
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Compactness.CompactlyGeneratedSpace
 
 noncomputable section
 

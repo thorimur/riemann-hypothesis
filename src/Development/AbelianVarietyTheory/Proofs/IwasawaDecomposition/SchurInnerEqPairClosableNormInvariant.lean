@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InnerOfNormEq
+import Mathlib.Algebra.Order.Ring.Star
 open Filter
 open scoped InnerProductSpace Topology
 

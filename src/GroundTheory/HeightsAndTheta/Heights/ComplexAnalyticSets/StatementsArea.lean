@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Statements
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.InnerProductSpace.Adjoint
+import Mathlib.CategoryTheory.Countable
+import Mathlib.Order.CompletePartialOrder
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

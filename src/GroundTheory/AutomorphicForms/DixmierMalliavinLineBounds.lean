@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.DixmierMalliavinLineStage
+import Mathlib.Analysis.Fourier.Convolution
 
 namespace GroundTheory.Automorphic
 

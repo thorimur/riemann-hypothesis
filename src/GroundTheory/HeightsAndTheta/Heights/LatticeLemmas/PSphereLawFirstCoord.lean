@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.StatementsSphereLaw
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.SphereMeanSlice
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.SphereMean
 set_option maxSynthPendingDepth 1
 

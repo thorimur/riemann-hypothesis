@@ -1,4 +1,3 @@
-import Formalism.MeanHeightDescent.DivisionInequalityWithCovolume
 import Formalism.MeanHeightDescent.AverageDegreeBounds.GlobalBoundRefinements
 
 namespace Formalism.ExtensionFiltration

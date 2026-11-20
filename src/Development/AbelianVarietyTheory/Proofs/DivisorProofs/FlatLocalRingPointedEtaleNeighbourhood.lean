@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InstPreorder
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 open IsLocalRing GlobalTheory.Henselisation
 
 namespace GlobalTheory.Henselisation

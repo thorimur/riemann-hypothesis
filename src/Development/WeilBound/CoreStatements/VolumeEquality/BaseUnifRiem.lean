@@ -1,4 +1,5 @@
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.ExistsEigenComponentPolynomial
+import Development.AutomorphicSpectrum.Definitions.MetricPeriods.IsEigFrames
 
 open NumberField Matrix Filter Topology GlobalTheory.CompanionTheory.Ar GlobalTheory.CompanionTheory.Ar.Cusp
 open scoped TensorProduct

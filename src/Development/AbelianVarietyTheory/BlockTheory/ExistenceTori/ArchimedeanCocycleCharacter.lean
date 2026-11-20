@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.AdelicNormWeight
 import Formalism.LocalToGlobal.ProjectiveLattices.NormsFree
 

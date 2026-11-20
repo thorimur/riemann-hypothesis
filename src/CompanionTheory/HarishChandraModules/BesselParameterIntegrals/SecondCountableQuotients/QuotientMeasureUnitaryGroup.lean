@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.PolarUH
 import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SecondCountableQuotients.StabilizerModularFunctionTrivial
 import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SecondCountableQuotients.ModExists

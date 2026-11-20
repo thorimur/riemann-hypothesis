@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.WwMain
 
 open MvPolynomial Finset

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianLattices.GenusCovolBound
 import Formalism.HermitianLattices.HermitianLatticesProofs.ThetaSummable
 

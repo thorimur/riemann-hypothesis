@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SatakeDualWeyl.Statement
+import Mathlib.RingTheory.PicardGroup
 
 namespace PI.AutLzFinite.SlopeTestRemainingChoices
 

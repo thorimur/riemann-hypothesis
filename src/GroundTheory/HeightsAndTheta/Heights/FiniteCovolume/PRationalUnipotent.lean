@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StRationalUnipotent
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume

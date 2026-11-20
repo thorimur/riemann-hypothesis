@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.CndRefine
+import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.CNDefs
 
 noncomputable section
 

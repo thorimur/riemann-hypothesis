@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.PAdicHodge.ExtRobbaTrivialSB
+import GroundTheory.PAdicHodge.ExtRobbaTrivialV
 set_option maxSynthPendingDepth 1
 
 noncomputable section

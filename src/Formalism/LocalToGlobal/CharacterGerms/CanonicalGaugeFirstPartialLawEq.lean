@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.ConstantZeroSecondCoordinate
+import Formalism.LocalToGlobal.CharacterGerms.UnitSeriesFrobenius
 
 noncomputable section
 

@@ -1,12 +1,7 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSheet
-import GroundTheory.HeightsAndTheta.Heights.Intersections.PPtsAddFirst
-import GroundTheory.HeightsAndTheta.Heights.Intersections.PRFormula
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.LogRegLineTensor
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.LelongChartLimit
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StSegreChartIntegral
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StSegreChartDim
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StChartSection
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StLelongPolyLimit
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StChartDivisor
 set_option maxSynthPendingDepth 1

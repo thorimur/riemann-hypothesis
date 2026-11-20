@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StValCentreZ
 import GroundTheory.HeightsAndTheta.Heights.Intersections.KerIsMultiHomogIdeal
 set_option maxSynthPendingDepth 1

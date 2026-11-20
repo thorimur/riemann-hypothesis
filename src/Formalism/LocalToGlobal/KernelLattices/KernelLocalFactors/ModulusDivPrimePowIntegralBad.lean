@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.ColInst
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ColInst
-import Formalism.LocalToGlobal.Columns.ChainInstY
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.KerEquivFr
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.KerEquivGen
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.KerEquivStmt

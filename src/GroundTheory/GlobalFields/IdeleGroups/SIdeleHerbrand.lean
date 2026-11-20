@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.SIdeleHerbrand.Places
-import GroundTheory.GlobalFields.SemilocalAlgebras.Finite
+import GroundTheory.GlobalFields.IdeleGroups.SIdeleGroups.Decomposition
 
 namespace GroundTheory.Global
 

@@ -1,8 +1,7 @@
-import Mathlib
-import GroundTheory.GlobalFields.ComplexMultiplication.EllipticFunctions
-import GroundTheory.GlobalFields.ComplexMultiplication.EllipticRational
-import GroundTheory.GlobalFields.ComplexMultiplication.Uniformization
 import GroundTheory.GlobalFields.ComplexMultiplication.UniformizationAddition
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 open Complex Filter Topology Set
 open scoped PeriodPair Nat

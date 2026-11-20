@@ -1,6 +1,7 @@
 import Development.WeilBound.CoreStatements.LocalThetaKernels.Locpair
 import Development.WeilBound.CoreStatements.LocalThetaKernels.LocpairUnit
 import Development.WeilBound.ThetaLifts.CartanFactorisation.MaxDef
+import Development.AutomorphicSpectrum.Proofs.MembershipProofs.WeilRepresentationSplittingsDiffer
 
 noncomputable section
 

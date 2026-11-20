@@ -1,7 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.Statements
-import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.StatementsFlag
-import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.IsFlagIntegralOne
 import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.FlagIntegralRealEqMulDdConst
 import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.PCoinvAtTop
 import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.PCoinvPolynomialReduction

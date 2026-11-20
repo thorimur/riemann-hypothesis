@@ -1,5 +1,7 @@
-import Formalism.LocalToGlobal.GaloisLevelStructure.NGalTied
 import Formalism.LocalToGlobal.GaloisLevelStructure.DefsRowLoc
+import Formalism.LocalToGlobal.GaloisLevelStructure.DefsFinTyp
+import Formalism.LocalToGlobal.GaloisLevelStructure.TiedGal
+import Formalism.LocalToGlobal.GaloisLevelStructure.TiedHecke
 
 noncomputable section
 

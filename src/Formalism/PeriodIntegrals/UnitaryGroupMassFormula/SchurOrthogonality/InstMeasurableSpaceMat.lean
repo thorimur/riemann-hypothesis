@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SchurFock
-import Formalism.PeriodIntegrals.HwIrred
+import Formalism.LocalRingCardinality.DataCoeff
 
 noncomputable section
 

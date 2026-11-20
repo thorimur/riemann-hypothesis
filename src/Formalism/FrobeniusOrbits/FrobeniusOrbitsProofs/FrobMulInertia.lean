@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.FrobeniusOrbits.Statement
 import Formalism.TameInertiaTowers.TowerFieldFoundations
 

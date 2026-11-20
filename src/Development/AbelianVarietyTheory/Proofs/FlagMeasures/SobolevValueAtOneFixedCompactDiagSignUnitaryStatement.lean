@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SobolevValueAtOneFixedCompactDiagSignUnitary
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SobolevInequalityAtOneIndefiniteUnitary
 open MeasureTheory Matrix Formalism.MainNotions.S
 open scoped ENNReal
 set_option maxHeartbeats 1000000 in

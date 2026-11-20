@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CupProducts.GroupCohomology
 import GroundTheory.ProfiniteCohomology.Colimit
 import GroundTheory.TateCohomology.CupGraded

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsDescendHom
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PClearDenominators
 set_option maxSynthPendingDepth 1

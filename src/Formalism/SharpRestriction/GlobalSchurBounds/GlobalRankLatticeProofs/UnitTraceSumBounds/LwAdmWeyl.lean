@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GlobalSchurBounds.AdmittedWeylDimension
-import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeWeylDS
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.WeylBridge
 
 noncomputable section
 

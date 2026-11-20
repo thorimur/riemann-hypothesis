@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDivPushForwardLocal
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPFDegree
 set_option maxSynthPendingDepth 1
 

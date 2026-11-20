@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BlockMatrixTwoByTwoFinTranspose
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SubstMemAndComm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSchACompCoordEq
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzCoordinatesInInfiniteFamily
 
 noncomputable section
 

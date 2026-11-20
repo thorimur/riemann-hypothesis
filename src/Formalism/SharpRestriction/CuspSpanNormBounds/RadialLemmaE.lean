@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.DiagonalEntryIdentity
 import Formalism.SharpRestriction.CuspSpanNormBounds.FamilyBlockLiftEstimate
 import Formalism.SharpRestriction.CuspSpanNormBounds.LeSCSCl
 

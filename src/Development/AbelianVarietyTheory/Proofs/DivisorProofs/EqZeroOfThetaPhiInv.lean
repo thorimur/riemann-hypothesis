@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.PrismaticDieudonnePerfdIff
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.BaseChangeClauseInhabited
 

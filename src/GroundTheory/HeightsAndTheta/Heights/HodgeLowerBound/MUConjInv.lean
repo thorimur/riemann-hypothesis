@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FlagSectionNeZero
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.Imports
+import Mathlib.Algebra.Ring.IsFormallyReal
 set_option maxSynthPendingDepth 1
 
 noncomputable section

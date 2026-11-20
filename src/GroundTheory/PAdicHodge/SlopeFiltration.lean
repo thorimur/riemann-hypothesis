@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.SlopeRobbaPure
 set_option maxSynthPendingDepth 1
 

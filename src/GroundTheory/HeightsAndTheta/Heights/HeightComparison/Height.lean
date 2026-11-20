@@ -1,8 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.Comparison
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitCurve
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitDegree
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightRecR
+import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.FiniteSupportHeight
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

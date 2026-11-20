@@ -1,5 +1,6 @@
 import ReciprocityTheory.CommutativeAlgebra.CohenMacaulay.Bridge
 import ReciprocityTheory.CommutativeAlgebra.CohenMacaulay.Unmixed
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace ReciprocityTheory.CA
 

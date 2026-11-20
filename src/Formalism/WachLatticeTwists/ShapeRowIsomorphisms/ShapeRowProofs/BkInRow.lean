@@ -1,5 +1,4 @@
 import Formalism.WachLatticeTwists.ShapeRowIsomorphisms.StatBKInIso
-import Formalism.WachLatticeTwists.CupProductVanishing.CupProductProofs.PropLocGKOf
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CornerMatrixBlockThreeMul
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.IsOpenDomP
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SmoothnessOnGoodSet
 

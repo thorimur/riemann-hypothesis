@@ -1,10 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.IntChartCut
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ChartPullbacks.UniversalCharts.ChartLawPf
-import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsIsChartGOfBasis
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.DifBijectiveOfParam
-import Development.AbelianVarietyTheory.Statements.FundamentalDomains.ExistsIsAddFundamentalDomain
-import Development.AbelianVarietyTheory.Counterexamples.JetSurvey.NotSurjectiveSplitTorus
 
 set_option autoImplicit false
 

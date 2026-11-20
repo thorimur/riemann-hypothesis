@@ -2,6 +2,7 @@ import Formalism.PeriodIntegrals.ContractionsCovariantIff
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.QuantumDetHighestWeightHolds
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.ShiftedGeneratorEqIteSmulAdd
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.GeneratorCommutatorQuantumDet
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix Finset
 

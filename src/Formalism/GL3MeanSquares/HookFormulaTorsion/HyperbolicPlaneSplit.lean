@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.GL3MeanSquares.InvariantSeriesBidegreeOneOne
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.HermitianLattices.IntegralLatticeDensity.PD
 

@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ProfDefs
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.Topology.Algebra.Category.ProfiniteGrp.Completion
 
 open Filter UpperTheory.V.AlgebraTools
 open scoped TensorProduct

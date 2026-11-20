@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.SignatureConjugationInvariant
 import Formalism.LocalRingCardinality.DataSpaces
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

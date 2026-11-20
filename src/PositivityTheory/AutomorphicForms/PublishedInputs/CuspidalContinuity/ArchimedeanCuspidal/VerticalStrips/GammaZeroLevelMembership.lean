@@ -1,7 +1,5 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.SquareIntegrable.WhittakerModelGL2
-import GroundTheory.AutomorphicForms.GL2Classical
-import GroundTheory.AutomorphicForms.GL2.GodementSectionFactor
-import GroundTheory.AutomorphicForms.ReductionMeasure
+import GroundTheory.AutomorphicForms.GL2Classical.IsWeightLevelAdelicLift
 
 noncomputable section
 

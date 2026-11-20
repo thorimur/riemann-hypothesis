@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinPart
 import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.DegStB
+import Development.AbelianVarietyTheory.Definitions.Divisors.TorusExt
 
 set_option autoImplicit false
 

@@ -1,8 +1,8 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.CompactSelfAdjoint
 import GroundTheory.AutomorphicForms.HilbertSchmidtCompact
 import GroundTheory.AutomorphicForms.HilbertSchmidtKernel
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ExistsCharNeOne
+import Mathlib.MeasureTheory.Function.ContinuousMapDense
 set_option maxSynthPendingDepth 1
 
 open MeasureTheory Filter Topology Module End

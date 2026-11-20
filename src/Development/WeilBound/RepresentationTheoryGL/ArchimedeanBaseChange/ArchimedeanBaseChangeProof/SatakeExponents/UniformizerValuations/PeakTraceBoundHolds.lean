@@ -1,7 +1,10 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.PeakTraceBound
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RegularizedExponentialSum
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RegularizedExponentialSumStatement
+import Mathlib.Algebra.DirectSum.LinearMap
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

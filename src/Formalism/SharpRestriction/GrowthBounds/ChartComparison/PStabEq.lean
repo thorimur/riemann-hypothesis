@@ -1,9 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.ChartComparison.KerLabelsMu
-import Formalism.SharpRestriction.GrowthBounds.ChartComparison.StepIn
 import Formalism.SharpRestriction.GrowthBounds.ChartComparison.LocCore
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ColSpanMap
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NatActRVtupR
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsOrb
 
 noncomputable section
 

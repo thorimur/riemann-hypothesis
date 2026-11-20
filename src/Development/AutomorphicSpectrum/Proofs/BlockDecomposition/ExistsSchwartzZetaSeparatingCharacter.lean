@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GTil
-import GroundTheory.LocalFields.LocalZetaGauss
+import GroundTheory.LocalFields.LocalFourierMult
+import GroundTheory.LocalFields.LocalZetaIntegral
 open MeasureTheory Matrix GroundTheory.LocalField GroundTheory.Automorphic Ad3 Ad3.K.GL2LocalData
 open scoped ValuativeRel NNReal ENNReal
 

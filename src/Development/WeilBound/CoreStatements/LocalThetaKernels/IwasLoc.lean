@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.FIwasawaE
 import Development.AutomorphicSpectrum.Proofs.MembershipProofs.BigCellLocal
 

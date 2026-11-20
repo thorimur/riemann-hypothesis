@@ -1,6 +1,7 @@
 import ReciprocityTheory.L2DbarEstimates.NormFibrations.NormFib
 import ReciprocityTheory.L2DbarEstimates.NormFibrations.NormOrd
 import ReciprocityTheory.L2DbarEstimates.SymmetricSections.NormVanishOfHoloSection
+import ReciprocityTheory.L2DbarEstimates.JacobianInterpolationStatement
 
 universe u
 

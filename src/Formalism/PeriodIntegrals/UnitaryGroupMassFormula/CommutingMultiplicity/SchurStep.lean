@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UMultOne
 
 namespace PI.UnitaryGroupMassFormula.CommMult

@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.DixmierMalliavinLineBounds
 import GroundTheory.AutomorphicForms.DixmierMalliavinLineLimit
+import Mathlib.Analysis.Normed.Group.Tannery
 
 namespace GroundTheory.Automorphic
 

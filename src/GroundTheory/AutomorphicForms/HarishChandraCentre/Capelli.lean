@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HarishChandraCentre.MemCenterOfCommuteE
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.EMulSubMulCapelliMatrixPow
 

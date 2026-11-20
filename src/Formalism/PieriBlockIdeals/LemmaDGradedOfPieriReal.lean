@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PieriBlockIdeals.StatementLC
 import Formalism.PieriBlockIdeals.StatementLP
 import Formalism.PieriBlockIdeals.StatementLR
 

@@ -1,4 +1,5 @@
 import Formalism.SatakeDualWeyl.Statement
+import Mathlib.Algebra.Order.Star.Real
 
 noncomputable section
 

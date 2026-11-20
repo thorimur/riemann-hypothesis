@@ -1,10 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StArchCovolumeBound
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StCoordEmbedBasis
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StIntegralFormCovolume
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StTraceHermNondegenerate
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StDualLatticeMultiple
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StCoordLatticeFullRank
+import Mathlib.Algebra.AffineMonoid.Basic
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

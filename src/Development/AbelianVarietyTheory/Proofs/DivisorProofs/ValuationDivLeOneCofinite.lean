@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.CMDeterminantIdeals.DetIdeal
 import Formalism.LocalToGlobal.CMDeterminantIdeals.CMIdealValuations.ValuationLeOfEqAlgebraMap
 open NumberField IsDedekindDomain
 open scoped nonZeroDivisors

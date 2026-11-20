@@ -1,6 +1,4 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.LeviForms.TailBoundA
-import Development.AbelianVarietyTheory.Definitions.Divisors.FirstChernLeviEqConstant
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PotentialChartContDiffAtTwo
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulLogInvSqDivLeSmall
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExpAndLogPowerLeLinear

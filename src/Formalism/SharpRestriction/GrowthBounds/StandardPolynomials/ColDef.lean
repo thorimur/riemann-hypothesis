@@ -1,6 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.ColNumDef
-import Formalism.SharpRestriction.GrowthBounds.FrobeniusPaths.CanonicalTranslateJetIdentity
-import Formalism.SharpRestriction.GrowthBounds.FrobeniusPaths.EqEmptyIffSplit
+import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.RestRawTail1Of
 
 noncomputable section
 

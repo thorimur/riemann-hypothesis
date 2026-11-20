@@ -1,5 +1,5 @@
-import ReciprocityTheory.AnalyticForms.MaIntEmpty
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.MdiscPos
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace ReciprocityTheory.AnForm.A
 

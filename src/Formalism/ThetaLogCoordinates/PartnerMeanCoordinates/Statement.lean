@@ -1,4 +1,4 @@
-import Formalism.ThetaLogCoordinates.PartnerDischarge.GramBoundUnconditionalDouble
+import Formalism.ThetaLogCoordinates.PartnerDischarge.StatementPW
 
 namespace Formalism.InvariantFactorPaths.MC
 

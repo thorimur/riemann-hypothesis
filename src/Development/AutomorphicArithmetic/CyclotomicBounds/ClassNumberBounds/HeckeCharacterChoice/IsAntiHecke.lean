@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.HeckeCharacterChoice.PrincipalIdele
+import Mathlib.NumberTheory.NumberField.Ideal.Basic
 
 open NumberField IsDedekindDomain
 open scoped nonZeroDivisors

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.ExistsFactorialMulEqPow
+import Mathlib.RingTheory.DividedPowers.Padic
 
 noncomputable section
 

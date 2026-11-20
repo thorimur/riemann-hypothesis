@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.PetersonNormSubspace
 import Formalism.LocalToGlobal.IndefiniteReal.GramCEqTranspose
+import Formalism.LocalToGlobal.ProjectiveLattices.EquivariantFiniteGroup
 
 noncomputable section
 

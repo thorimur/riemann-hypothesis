@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.CMTypeGalois.StatementField
+import Mathlib.NumberTheory.NumberField.Discriminant.Defs
 
 open NumberField Ideal Filter Topology Finset Formalism.Q3
 

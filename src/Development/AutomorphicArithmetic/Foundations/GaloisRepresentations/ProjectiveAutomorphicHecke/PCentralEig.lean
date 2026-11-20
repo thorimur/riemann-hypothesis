@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.MapWopWmap
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SimultaneousEigenvectors.SimEig
+import Development.WeilBound.SimpleEigenvalues.SimpleEigenvalueExtension.SimEig
 open Module
 universe u v
 

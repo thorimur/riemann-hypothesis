@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SameIdIff
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsCrystalPairing
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftsAlong
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftsAlongOfPrincipal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftsAlongOfSmoothInj
 

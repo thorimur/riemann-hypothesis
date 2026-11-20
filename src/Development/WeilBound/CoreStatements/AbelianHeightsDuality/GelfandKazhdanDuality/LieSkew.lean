@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.GelfandKazhdanDuality.PairingL2
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.HasDerivAtLpOfDominated
 

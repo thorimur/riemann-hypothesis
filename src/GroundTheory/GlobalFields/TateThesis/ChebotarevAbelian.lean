@@ -1,9 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.RayClassDensity
 import GroundTheory.GlobalFields.GlobalReciprocity.General
 import GroundTheory.GlobalFields.GlobalReciprocity.Frobenius
-import GroundTheory.GlobalFields.NormResidueSymbol.Surjective
-import GroundTheory.GlobalFields.KummerTheory.Splitting
 
 open NumberField IsDedekindDomain Topology Filter Set GroundTheory.LocalField
 

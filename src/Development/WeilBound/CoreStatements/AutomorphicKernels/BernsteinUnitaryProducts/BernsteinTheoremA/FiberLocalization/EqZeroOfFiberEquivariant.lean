@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.WhittakerLSpace
 import GroundTheory.AutomorphicForms.WhittakerCriterion
+import Mathlib.Topology.Separation.Connected
 
 noncomputable section
 

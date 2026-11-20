@@ -1,8 +1,6 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelCoordinatesCommute
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ConnectionRaisingConstantEq
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.InterpolationInverseMatrixSumIdentity
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.InvariantOperatorUnderJacquet
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.InterlaceSignTwo
 
 namespace Formalism.FourierDecayAlt.P
 

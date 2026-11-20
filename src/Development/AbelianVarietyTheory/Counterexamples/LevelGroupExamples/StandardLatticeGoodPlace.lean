@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.ThetaIntegralityAtPlaces
+import Formalism.LocalToGlobal.ProjectiveLattices.ThShort
 
 set_option autoImplicit false
 

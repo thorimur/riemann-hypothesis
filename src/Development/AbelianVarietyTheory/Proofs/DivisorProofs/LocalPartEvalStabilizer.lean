@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocPart
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StabilizerCompactLocalSchwartz
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TriplePairLocalPartCaseAStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IdeleAbsPowerIntegrable

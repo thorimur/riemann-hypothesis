@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RankPosOfLeaves
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MultisetSeparation
 

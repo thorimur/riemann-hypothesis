@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ClassInjectiveOfDegree
-import Formalism.FrobeniusOrbits.RealSubfieldLeCompositum
 
 noncomputable section
 

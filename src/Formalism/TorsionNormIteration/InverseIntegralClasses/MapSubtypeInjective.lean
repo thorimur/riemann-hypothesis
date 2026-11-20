@@ -1,5 +1,6 @@
 import Formalism.TorsionNormIteration.InvIntegralOfClass
 import Formalism.FormalGroupLog.LogDeterminesLaw
+import Mathlib.RingTheory.PowerSeries.Expand
 
 noncomputable section
 

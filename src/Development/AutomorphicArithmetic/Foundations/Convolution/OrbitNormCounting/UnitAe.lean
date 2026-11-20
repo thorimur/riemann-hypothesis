@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.NormCount
 import Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.IntUniq
 import Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.CptInt
 import Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.OrbUnit
@@ -6,7 +5,6 @@ import Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounti
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitalIntegralTwistedConjInvariant
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitalIntegralProductGroup
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.KappaConstantMulOfCoprimeEllipticPolynomials
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalTwistContinuousInvolutionIntegralProperties
 
 open NumberField IsDedekindDomain Matrix Polynomial Filter
 open GlobalTheory.CuspRep GlobalTheory.PRep Formalism.UG Formalism.BasicNotions GlobalTheory.UnitaryBC GlobalTheory.BCT

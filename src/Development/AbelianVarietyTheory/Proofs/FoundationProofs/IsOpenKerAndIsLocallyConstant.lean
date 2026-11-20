@@ -1,4 +1,5 @@
-import Development.AbelianVarietyTheory.Definitions.Foundations.FinalTheorems
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.BlochKatoSelmerVanishes
+import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ResMapBijective
 
 namespace GlobalTheory.OpenKernelLocallyConstant
 

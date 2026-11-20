@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.JetFieldLeKR
-import Formalism.LocalToGlobal.GlobalTheory.GL3.CubicFields.ComplexMultiplication.ExtEmbEquivComp
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.PeriodLatticeFinitelyGenerated
 
 open NumberField IsDedekindDomain

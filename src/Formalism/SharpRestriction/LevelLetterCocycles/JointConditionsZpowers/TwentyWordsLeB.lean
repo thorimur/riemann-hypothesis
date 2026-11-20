@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.IsTwistedDualOfGaloisRep
+import Formalism.SharpRestriction.LevelLetterCocycles.RamifiedCoefficientChains
 
 noncomputable section
 

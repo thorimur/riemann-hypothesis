@@ -1,7 +1,11 @@
 import ReciprocityTheory.DualLattices.EigenLengthFrobeniusStatement
-import ReciprocityTheory.DualLattices.FrobEqOfLe
 import ReciprocityTheory.DualLattices.StdJForm
 import ReciprocityTheory.DualLattices.UnramifiedCokernelLowerBoundOf
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

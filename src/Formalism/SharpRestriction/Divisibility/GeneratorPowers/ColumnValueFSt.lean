@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FramedFamilyStatement
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermCut
+import Formalism.LocalToGlobal.ProjectiveLattices.PlaceBelow
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpBijectiveUniformisation
 
 set_option autoImplicit false
 

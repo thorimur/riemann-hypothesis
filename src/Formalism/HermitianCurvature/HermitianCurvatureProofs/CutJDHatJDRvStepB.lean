@@ -1,5 +1,8 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDRvStepBRules
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapRGrpMRad
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDACapTodaVGrp
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDACapTodaVRules
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDRStepB
 
 open Matrix
 open scoped ContDiff

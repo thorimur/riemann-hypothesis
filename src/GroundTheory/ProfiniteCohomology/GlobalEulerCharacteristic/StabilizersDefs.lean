@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChangeMackey
 import GroundTheory.ProfiniteCohomology.RealPlaces.GSDefs
 set_option maxSynthPendingDepth 1
 

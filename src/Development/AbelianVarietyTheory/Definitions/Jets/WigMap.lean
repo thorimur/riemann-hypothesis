@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementQ
 import Formalism.HermitianCurvature.StatementD
 
 open Matrix Finset

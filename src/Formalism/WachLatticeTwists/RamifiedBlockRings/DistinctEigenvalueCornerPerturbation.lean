@@ -1,5 +1,5 @@
 import Formalism.WachLatticeTwists.RamifiedBlockRings.Statement
-import Formalism.WachLatticeTwists.CoprimeLiftBounds.WachTwistTheoremDeltaClause
+import Formalism.CharacterColumnKernels.CharacterColumnKernelEqualityForm
 
 open Finset Classical
 

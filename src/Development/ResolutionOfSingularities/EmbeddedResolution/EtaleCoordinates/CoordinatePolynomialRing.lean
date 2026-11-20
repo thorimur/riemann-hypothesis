@@ -1,5 +1,5 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.EtaleCoordinates.SmoothRegular
+import Mathlib.RingTheory.Etale.Weakly
 universe u
 
 namespace FunctorialResolution.EmbeddedResolution

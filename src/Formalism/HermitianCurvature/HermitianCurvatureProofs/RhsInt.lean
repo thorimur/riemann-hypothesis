@@ -1,7 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.HeisConjInt
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OpApplyZeroNear
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LUFactorOrbitBounds
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.JfBetaAdjCOfLemmaBNorm
 
 open Matrix MeasureTheory
 open scoped ComplexConjugate

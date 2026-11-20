@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.Statement
 import Formalism.LogFactorialIndices.StatementSize
 

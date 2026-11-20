@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocallyIntegrableRep
+import Mathlib.Topology.Compactness.Paracompact
 
 open MeasureTheory
 open scoped ContDiff

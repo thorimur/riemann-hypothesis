@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusThreeBlockApply
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DiagFirstApply
 open GlobalTheory.SmGL GlobalTheory.PRep GlobalTheory.LeviBlockExponent GlobalTheory.IndJacBlock
 
 namespace GlobalTheory.UnipRadThree

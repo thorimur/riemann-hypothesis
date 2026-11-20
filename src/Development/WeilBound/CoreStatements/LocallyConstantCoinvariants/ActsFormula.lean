@@ -2,6 +2,7 @@ import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.EqZeroOf
 import Development.AutomorphicSpectrum.Proofs.MembershipProofs.ThetaSumTensorProduct
 import Development.AutomorphicSpectrum.Proofs.MembershipProofs.DblCoordUnique
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProductFunctionOnSumCoordsMemAdelicSchwartzSpace
+import Development.AutomorphicSpectrum.Proofs.MembershipProofs.ExistsEqMulApplyZero
 
 set_option linter.unusedSectionVars false
 

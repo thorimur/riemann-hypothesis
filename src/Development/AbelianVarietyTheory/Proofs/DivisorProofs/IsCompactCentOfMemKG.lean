@@ -1,5 +1,4 @@
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsMulCommutativeCentRealUJ
-import Formalism.RealPlaceAnalysis.SmoothOnGVIff
 open MeasureTheory Matrix GlobalTheory.Orb
 open Formalism.REAL (UJ KG toM toMK muK expG inG Jm Kset)
 open scoped ContDiff

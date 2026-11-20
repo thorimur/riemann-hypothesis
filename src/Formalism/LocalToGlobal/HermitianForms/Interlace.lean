@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.HermitianForms.FormsTied
+import Formalism.LocalToGlobal.HermitianForms.LastCoordinateUniformizerVectorSpansOrthogonalLi
 
 namespace Formalism.L2.Forms
 open Formalism.BasicNotions

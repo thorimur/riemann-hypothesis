@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.GL3MeanSquares.PrimeCountAsymptoticInProgressions
 import Development.AbelianVarietyTheory.Definitions.Foundations.RayPrimes
+import Mathlib.NumberTheory.Harmonic.EulerMascheroni
 
 noncomputable section
 

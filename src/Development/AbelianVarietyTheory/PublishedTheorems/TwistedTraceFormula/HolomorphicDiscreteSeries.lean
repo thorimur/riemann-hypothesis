@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.HeckeThetaElements.IsHeckeElt
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.EqZeroOfInnerSmooth
 
 noncomputable section

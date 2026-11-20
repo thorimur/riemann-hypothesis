@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.InterPolyProdSum
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.BlockSymApply
-import ReciprocityTheory.DualLattices.DetPolyMulCayleyOmegaPow
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.BlockGraph
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 set_option autoImplicit false
 

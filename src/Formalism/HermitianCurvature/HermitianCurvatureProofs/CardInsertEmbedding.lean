@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.StabilizerAntidiagonalExact
+import Formalism.FormalDegreeBessel.FormalDegreeRatio.GroupFactorizationHolds
 
 open Matrix Formalism.FourierDecayAlt Formalism.QuantumDeterminants
 

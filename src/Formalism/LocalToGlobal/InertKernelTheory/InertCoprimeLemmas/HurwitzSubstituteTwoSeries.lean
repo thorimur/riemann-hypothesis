@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.FormalGroupLog.FormalGroupLogProofs.ChainRule
 import Formalism.LocalToGlobal.InertKernelTheory.StatementZ
 import Formalism.LocalToGlobal.InertKernelTheory.Adm11OfBeProp
@@ -6,6 +5,8 @@ import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.EnInParamKProd
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.WittTeichmullerRoot
 import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.CoeffPowEqZeroOfCc
 import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.DegreeLeOfMemAntidiagonal
+import Mathlib.RingTheory.LocalProperties.Reduced
+import Mathlib.Tactic.Cases
 
 noncomputable section
 

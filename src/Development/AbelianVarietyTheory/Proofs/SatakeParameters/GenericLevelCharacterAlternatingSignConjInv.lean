@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.GoodGeneric
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChiIdemMulLvlIdemBaseNeZero
+import Formalism.LocalRingCardinality.DataHost
+import Formalism.LocalToGlobal.Divisibility.DefGroup
 
 noncomputable section
 

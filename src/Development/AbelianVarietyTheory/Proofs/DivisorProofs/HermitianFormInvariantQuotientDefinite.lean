@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeSocleOverOfSimple
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HermitianFormOrthogonalDecompositionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteOrbitOrthogonalComplementStatement

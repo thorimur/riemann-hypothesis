@@ -2,6 +2,7 @@ import Formalism.SharpRestriction.GrowthBounds.FockGramWindow.InitialPointNumeri
 import Formalism.SharpRestriction.GrowthBounds.FockGramWindow.WinLvl
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.LatMin
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.DiagRank
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.ClosedOfMinimalVector
 
 noncomputable section
 

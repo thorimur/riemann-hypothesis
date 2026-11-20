@@ -1,7 +1,4 @@
 import Formalism.LocalToGlobal.GlobalTheory.GL2.Statement
-import Formalism.SharpRestriction.GlobalSchurBounds.TopDensityNGeSixteen
-import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleLayerExistsGenerators
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.EqZeroOfNegEq
 
 noncomputable section
 

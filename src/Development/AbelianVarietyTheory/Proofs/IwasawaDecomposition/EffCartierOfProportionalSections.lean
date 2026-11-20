@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GeneratesAlong
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Proportional
+import ReciprocityTheory.AnalyticForms.RegularLocalRings.FinalTheorems
 
 open AlgebraicGeometry CategoryTheory Limits ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.AnForm.R GlobalTheory.ProjBlowup
 

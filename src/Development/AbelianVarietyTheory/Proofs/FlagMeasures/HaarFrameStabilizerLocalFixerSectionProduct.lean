@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.Measures
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.Closed
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsContinuousUnitriangularSectionStatement

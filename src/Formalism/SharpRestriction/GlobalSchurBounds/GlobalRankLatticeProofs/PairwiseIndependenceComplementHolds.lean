@@ -1,6 +1,9 @@
-import Mathlib
-import Formalism.SharpRestriction.GlobalSchurBounds.ConclusionR7abs
-import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.BranchingInterlacingPairs
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.LinearAlgebra.Matrix.CharP
+import Mathlib.NumberTheory.Padics.RingHoms
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

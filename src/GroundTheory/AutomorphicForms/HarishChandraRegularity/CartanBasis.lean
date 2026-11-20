@@ -1,6 +1,9 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GKModules.Casimir
-import GroundTheory.AutomorphicForms.RealGroupsLie
+import GroundTheory.AutomorphicForms.GKModules.SmoothVectors
+import Mathlib.LinearAlgebra.QuadraticForm.Basic
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace GroundTheory.Automorphic
 

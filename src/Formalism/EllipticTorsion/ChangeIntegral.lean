@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.EllipticTorsion.Statement
+import Mathlib.AlgebraicGeometry.EllipticCurve.VariableChange
 
 universe u
 

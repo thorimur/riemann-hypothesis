@@ -1,4 +1,10 @@
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.SobSym
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.Calculus.ContDiff.Bounds
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.IndefR.Eqv
 

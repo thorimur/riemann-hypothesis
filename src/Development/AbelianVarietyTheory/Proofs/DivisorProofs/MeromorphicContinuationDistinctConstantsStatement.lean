@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeromorphicContinuationDistinctConstants
-import Mathlib
 open Filter Topology
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.meromorphic_continuation_distinct_constants : ∀ (Y : Type) (τ : Y → Y) (c₁ c₂ c₃ c₄ : ℂ → ℂ), Differentiable ℂ c₁ → Differentiable ℂ c₂ → Differentiable ℂ c₃ →

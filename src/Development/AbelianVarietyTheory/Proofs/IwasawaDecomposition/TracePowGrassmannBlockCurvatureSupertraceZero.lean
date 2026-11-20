@@ -1,4 +1,9 @@
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.VecMulVecComm
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

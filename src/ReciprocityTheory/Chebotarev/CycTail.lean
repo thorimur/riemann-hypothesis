@@ -1,4 +1,14 @@
 import ReciprocityTheory.Chebotarev.NZIdeal
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.PSeries
+import Mathlib.NumberTheory.RamificationInertia.Basic
+import Mathlib.RingTheory.Ideal.Int
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open NumberField IsDedekindDomain
 

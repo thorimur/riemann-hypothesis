@@ -1,6 +1,8 @@
 import Development.WeilBound.CoreStatements.LocalThetaKernels.EvlLoc
 import Development.WeilBound.CoreStatements.LocalThetaKernels.EvlDual
 import Development.WeilBound.CoreStatements.LocalThetaKernels.EvlBridge
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsStdCharNegOneOfStandardTraceAdelicAddChar
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharacterNontrivialAtPlaces
 
 noncomputable section
 

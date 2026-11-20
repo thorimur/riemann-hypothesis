@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.Divisors
+import Mathlib.RingTheory.Ideal.Norm.RelNorm
+import Mathlib.RingTheory.Polynomial.IsIntegral
 
 namespace GroundTheory.Arith.Abelian
 

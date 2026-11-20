@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.GaloisValuations.Global
 
 set_option linter.style.haveILetI false

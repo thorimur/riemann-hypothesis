@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.GL3MeanSquares.PrimeCountAsymptoticInProgressions
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Finset ArithmeticFunction
 

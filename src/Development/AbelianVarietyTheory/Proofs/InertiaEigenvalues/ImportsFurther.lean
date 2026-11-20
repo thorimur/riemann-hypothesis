@@ -1,4 +1,10 @@
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.SmulMemRatForms
+import Formalism.LocalToGlobal.IndefiniteReal.GramCEqTranspose
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace GlobalTheory.ScalarMultipleMembership
 

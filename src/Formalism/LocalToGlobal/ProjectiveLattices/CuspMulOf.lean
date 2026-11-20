@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.MulCMemSec
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.ModerateCoefficientPositivity
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.HolSubMul
 
 noncomputable section

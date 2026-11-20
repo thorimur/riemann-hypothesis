@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.CohomologicalPurity.LeafTubeCut
+import Mathlib.CategoryTheory.Limits.Types.Pushouts
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

@@ -2,7 +2,6 @@ import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.Excepti
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.ExceptionalCharacterBounds.EffConsts
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.ExceptionalCharacterBounds.EffExc
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.ExceptionalCharacterBounds.PsiAPLeCount
-import Mathlib
 
 open Formalism.ZeroFreeDirichlet
 

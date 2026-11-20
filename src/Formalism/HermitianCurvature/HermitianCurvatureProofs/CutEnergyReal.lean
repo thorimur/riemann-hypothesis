@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutMP2
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutERAsm
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutERCapAdjAsm
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutERCapAdjS

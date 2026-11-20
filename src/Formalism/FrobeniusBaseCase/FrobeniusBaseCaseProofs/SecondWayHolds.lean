@@ -1,5 +1,5 @@
 import Formalism.FrobeniusBaseCase.FrobeniusBaseCaseProofs.ChainI
-import Formalism.FrobeniusBaseCase.FrobeniusBaseCaseProofs.BaseCaseKOneHolds
+import Mathlib.RingTheory.PiTensorProduct
 
 open MvPowerSeries
 

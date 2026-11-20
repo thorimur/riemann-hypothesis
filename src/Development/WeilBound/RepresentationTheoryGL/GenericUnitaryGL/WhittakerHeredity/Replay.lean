@@ -1,4 +1,3 @@
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MirabolicDerivatives.LeibnizDerivatives.GenericProdIff
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WhittakerHeredity
 open GlobalTheory.BZMir.Leib
 

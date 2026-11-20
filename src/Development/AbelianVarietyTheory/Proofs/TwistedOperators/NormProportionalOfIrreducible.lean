@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.SchurIrreducible
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.SameBlockOfPosC
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 noncomputable section
 namespace GlobalTheory.FockTensor

@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.GFamEv
 import Formalism.LocalToGlobal.Columns.GFamSH
+import Formalism.LocalToGlobal.Columns.Record
 
 open NumberField IsDedekindDomain Module Matrix
 open scoped TensorProduct

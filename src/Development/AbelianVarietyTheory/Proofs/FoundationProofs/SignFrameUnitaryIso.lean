@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.SingularValueFrame
 import Formalism.LocalRingCardinality.SpanPowerMembership.SignSplitEquivInl
 import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsAuxiliaryPlaceNotMemFinset
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.KoszulLowersPower
 
 open scoped TensorProduct Matrix
 open NumberField Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes Formalism.UG GlobalTheory.AdelicU

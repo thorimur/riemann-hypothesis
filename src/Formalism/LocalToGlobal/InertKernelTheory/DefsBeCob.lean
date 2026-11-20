@@ -1,7 +1,6 @@
-import Formalism.SharpRestriction.GrowthBounds.FormalGroupSystem
 import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.CoeffOneLNe
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementW
-import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.UniformGaussModelCondition
+import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementE
 
 noncomputable section
 

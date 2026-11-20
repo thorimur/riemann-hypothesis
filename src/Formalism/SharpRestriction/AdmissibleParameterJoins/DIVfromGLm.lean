@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLb
-import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLd
 import Formalism.SharpRestriction.AdmissibleParameterJoins.LenAtT
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.SevenLogLeLOfPowerBound
 

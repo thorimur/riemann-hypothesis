@@ -1,5 +1,9 @@
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.OpEqExp
 import Formalism.RealPlaceAnalysis.StatementKT
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.OneParam
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

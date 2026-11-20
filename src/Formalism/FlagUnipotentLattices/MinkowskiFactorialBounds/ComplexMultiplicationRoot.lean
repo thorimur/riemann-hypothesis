@@ -1,5 +1,14 @@
 import Formalism.FlagUnipotentLattices.DetIndexProductHyperbolicInequality
-import Formalism.HyperbolicPlaceProducts.ArithmeticCountRevised
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Module NumberField Formalism.HermitianLatticeCounting.LocalIntegralStructure
 

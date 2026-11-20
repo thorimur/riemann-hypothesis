@@ -1,8 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.InjPrimeTo
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjPlMemPlacesOver
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TameFixedAwayStatement
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TameAnyAtPlaceStatement
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TameOfFrobeniusDenseStatement
 
 noncomputable section

@@ -1,9 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StSegreChartAbsIntegrable
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StSegreChartSheetCompare
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PtsPosDensMeasurable
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceMassFinite
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSheetSumMeasurable
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCutOffGradient
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCutOff
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PVarIntAdd

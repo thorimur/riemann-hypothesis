@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsEqOfNatCastMulMem
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.HilbertClassFieldJ
 
 namespace GlobalTheory.Laid

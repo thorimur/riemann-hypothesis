@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsRestrictGenerated
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PStepThreeOnWGen
 set_option maxSynthPendingDepth 1
 

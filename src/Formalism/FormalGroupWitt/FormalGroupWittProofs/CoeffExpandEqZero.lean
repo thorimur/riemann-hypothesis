@@ -1,4 +1,7 @@
 import Formalism.FormalGroupWitt.SubstInjectiveV
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RegularLocalRingNormalDomain
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace GlobalTheory
 

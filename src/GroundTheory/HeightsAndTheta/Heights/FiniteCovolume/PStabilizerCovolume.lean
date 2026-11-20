@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsStabilizerCovolume
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsSemidirectCovering
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsStabilizerLevi
@@ -7,6 +6,7 @@ import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PComplementForm
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PWittPartner
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PDiscreteFundamentalDomain
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PArchLatticeDiscrete
+import Mathlib.Dynamics.Ergodic.Action.Regular
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

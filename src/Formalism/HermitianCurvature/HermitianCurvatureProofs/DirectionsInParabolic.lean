@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.StatementU
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix Formalism.FourierDecayAlt Formalism.FourierDecayAlt.U Formalism.QuantumDeterminants
 open scoped ComplexConjugate

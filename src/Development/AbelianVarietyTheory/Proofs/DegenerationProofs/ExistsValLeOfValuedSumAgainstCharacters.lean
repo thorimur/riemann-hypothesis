@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Uniformization.AllDV
 open GlobalTheory.UT
 

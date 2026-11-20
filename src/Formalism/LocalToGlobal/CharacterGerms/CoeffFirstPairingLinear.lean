@@ -1,5 +1,6 @@
-import Formalism.LocalToGlobal.CharacterGerms.CanonicalGaugeFirstPartialLawEq
 import Formalism.LocalToGlobal.CharacterGerms.CoeffPowCharFrobenius
+import Formalism.LocalToGlobal.CharacterGerms.IndependenceBoundRaw
+import Formalism.LocalToGlobal.CharacterGerms.RowTiePGerm
 
 noncomputable section
 

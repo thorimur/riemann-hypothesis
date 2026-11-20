@@ -1,8 +1,8 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.QuotientVanishing.NonEllFlag
 import Development.AbelianVarietyTheory.Proofs.CharacterTheory.CharpolyBlockAndInvariantUnderStabilizerNilradic
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TwCentPreservesFlag
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalIntertwining
+import Mathlib.RingTheory.Artinian.Instances
 
 open Polynomial Matrix PositivityTheory.Rg.BcB
 

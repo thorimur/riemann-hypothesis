@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.MetricPeriods.ZeroMemLieBall
+import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsCompactDualHaar
 open MeasureTheory Filter Topology Matrix Metric Set GlobalTheory.SUVol GlobalTheory.CompanionTheory.Ar.abelian₂
 open scoped ENNReal NNReal Pointwise
 

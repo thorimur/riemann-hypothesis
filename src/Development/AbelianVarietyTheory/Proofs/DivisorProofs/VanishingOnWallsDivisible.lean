@@ -1,8 +1,9 @@
-import Mathlib
-import Formalism.DegreeFormula.PointDegree.PowSum
 import Formalism.DegreeFormula.PointDegree.PermExpInj
 import Development.AbelianVarietyTheory.Definitions.Foundations.CurveCl
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.XSubXDvdOfVanishOnOpenHyperplane
+import Mathlib.Algebra.AffineMonoid.UniqueSums
+import Mathlib.RingTheory.SimpleRing.Principal
+import Std.Tactic.BVDecide.Normalize.Prop
 open MvPolynomial Formalism.DegreeFormula GlobalTheory.FlagPoly
 
 noncomputable section

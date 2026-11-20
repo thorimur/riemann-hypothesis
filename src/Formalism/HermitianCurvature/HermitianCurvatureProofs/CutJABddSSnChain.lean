@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaSesquilinearity
+import Formalism.HermitianCurvature.StatementB
 
 namespace Formalism.FourierDecayAlt.P.CutMP.JA.SSn
 

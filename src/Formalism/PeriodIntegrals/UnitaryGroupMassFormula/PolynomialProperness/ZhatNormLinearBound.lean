@@ -1,5 +1,7 @@
 import Formalism.HermitianCurvature.FiniteOrderIntersectionInSmooth
 import Formalism.FormalDegreeBessel.FormalDegreeRatio.GBasic
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Matrix
 open scoped ComplexConjugate

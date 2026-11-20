@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Theta.Cartan
 import GroundTheory.AutomorphicForms.HermitianSpaces
+import GroundTheory.AutomorphicForms.RealGroupsLie
+import Mathlib.Analysis.Matrix.Spectrum
 
 namespace GroundTheory.Heights₂.Theta
 

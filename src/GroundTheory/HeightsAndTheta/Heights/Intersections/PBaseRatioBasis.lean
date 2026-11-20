@@ -1,7 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.StBaseRatioBasis
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PWWArithVar
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.Assembly
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Inter

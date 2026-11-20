@@ -1,10 +1,8 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.SecondBound
-import Development.AutomorphicArithmetic.AutomorphicVarieties.CMFieldExponentialBounds.ExistsNumberFieldIsAbFieldFinrankEqDeg
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.Window
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.Kmono
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.PartA
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.PartB
+import Mathlib.Data.Finset.Functor
 
 open NumberField Formalism.GaloisCohomology UpperTheory.Top UpperTheory.V UpperTheory.V.LDataCardLeFinrank UpperTheory.V.Win
 

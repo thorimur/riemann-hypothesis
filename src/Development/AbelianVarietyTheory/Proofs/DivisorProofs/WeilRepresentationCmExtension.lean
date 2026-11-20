@@ -1,9 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HoweDualityUnitary
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.HypothesesAbsDet
-import Development.AbelianVarietyTheory.Definitions.Divisors.DiscreteSeriesHermitianUnique
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaSubmoduleSupNeTop
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IsSubAug
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSBZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniqueMaximal
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsProperEighthFibrePowerOver
-import Mathlib
 open AlgebraicGeometry CategoryTheory Limits
 
 set_option maxHeartbeats 1000000 in

@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.UnitaryNorms.MemFIffReal
+import Formalism.LocalRingCardinality.DataHost
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.L2.Host Formalism.FrobeniusOrbits
 open scoped Pointwise
 

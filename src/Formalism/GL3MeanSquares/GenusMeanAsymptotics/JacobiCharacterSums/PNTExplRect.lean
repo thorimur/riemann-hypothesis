@@ -2,7 +2,6 @@ import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.PNTExpl
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.PNTExplRectA
 import Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.ZeroFactor
 import Formalism.LFunctionBounds.LFunctionBoundsProofs.RectResidue
-import Formalism.LandauZeroFreeBounds.SiegelWalfiszAPOfSiegelLower
 
 open Complex Classical
 

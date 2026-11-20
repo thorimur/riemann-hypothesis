@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TrdegLeGenerators
-import Mathlib
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.trdeg_le_generators : ∀ {k K K' A : Type} [Field k] [Field K] [Field K'] [CommRing A] (ρ : k →+* K) (σ : K →+* K') (φ : A →+* K),
     Subfield.closure (Set.range φ) = ⊤ → ∀ (L₀ : Subfield K'),

@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SelmerTransport.RestrictionMemInvariantH1
+import Mathlib.GroupTheory.FiniteAbelian.Duality
 
 open ReciprocityTheory.Gal UpperTheory.V.Base
 

@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.SpanPowerMembership.Spaces
-import Formalism.LocalToGlobal.BesselHermitianTheta.LemmasChr
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.EisRegularAtOfEisPoleLE
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.IntegrableOfIsAniso
 import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsHaarZetaValueAt

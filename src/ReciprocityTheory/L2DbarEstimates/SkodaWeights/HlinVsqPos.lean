@@ -1,4 +1,5 @@
 import ReciprocityTheory.L2DbarEstimates.SkodaWeights.SkodaWeightStatement
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace ReciprocityTheory.L2DbarEstimates.H
 

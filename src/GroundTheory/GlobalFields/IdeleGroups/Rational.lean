@@ -1,5 +1,9 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.StandardOpenEquiv
+import GroundTheory.GlobalFields.IdeleGroups.ClassGroup
+import Mathlib.NumberTheory.NumberField.ClassNumber
+import Mathlib.NumberTheory.Padics.HeightOneSpectrum
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace GroundTheory.Global
 

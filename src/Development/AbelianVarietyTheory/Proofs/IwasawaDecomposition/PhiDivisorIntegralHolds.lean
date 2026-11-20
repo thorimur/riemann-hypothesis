@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HasLinForms
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ConeLinearFormNonnegStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TorsionRankBoundStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsRegularFunctionTraitOrderStatement

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GKModules.ZKFinite
 
 namespace GroundTheory.Automorphic

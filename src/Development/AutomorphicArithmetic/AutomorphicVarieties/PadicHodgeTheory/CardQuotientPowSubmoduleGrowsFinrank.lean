@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.TateDefs
-import ReciprocityTheory.GroupCohomology.ImportsAlt
+import Mathlib.Algebra.Module.PID
+import Mathlib.LinearAlgebra.FreeProduct.Basic
 
 open Formalism.WeaklyAdmissibleFiltrations Formalism.MainNotions.N Formalism.BasicNotions Formalism.BasicNotions.Loc ReciprocityTheory.Gal TensorProduct Module UpperTheory.V.Loc Topology
 

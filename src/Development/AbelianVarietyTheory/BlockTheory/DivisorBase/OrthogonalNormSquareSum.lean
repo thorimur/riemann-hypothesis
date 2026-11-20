@@ -1,8 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.FiniteSumNonzeroLargeDepth
-import Formalism.LocalToGlobal.Columns.CoefModB
-import Formalism.LocalToGlobal.Divisibility.CoefMod
-import Formalism.LocalRingCardinality.DataCoeff
 
 open scoped ComplexOrder Matrix
 open Formalism.BasicNotions Formalism.L2.DIV Formalism.L2.Col

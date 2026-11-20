@@ -1,4 +1,10 @@
 import ReciprocityTheory.SemistableReduction.SphereLogIntegrableStatement
+import Mathlib.Analysis.Complex.Isometry
+import Mathlib.MeasureTheory.Measure.RegularityCompacts
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

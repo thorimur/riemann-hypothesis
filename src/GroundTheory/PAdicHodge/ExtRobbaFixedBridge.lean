@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.PAdicHodge.ExtRobbaFixedTerm
-import GroundTheory.PAdicHodge.ExtRobbaFixedSum
 set_option maxSynthPendingDepth 1
 
 noncomputable section

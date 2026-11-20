@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.SlopeTestRemainingChoicesAlt
 import Development.AbelianVarietyTheory.Statements.HeckeThetaIntegrals.FormulaAt
 

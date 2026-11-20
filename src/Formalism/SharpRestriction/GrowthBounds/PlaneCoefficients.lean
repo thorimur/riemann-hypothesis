@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.GrowthBounds.TwistedSubstitution
 import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport
 import Formalism.SharpRestriction.GrowthBounds.PlaneCoefficients.WithThModelLet
 import Formalism.SharpRestriction.GrowthBounds.PlaneCoefficients.WBound

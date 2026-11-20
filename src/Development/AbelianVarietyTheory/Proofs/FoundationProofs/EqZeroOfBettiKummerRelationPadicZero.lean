@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.HsCodiscreteNeBot
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.KummerRootMem
 open scoped MatrixGroups TensorProduct

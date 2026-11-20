@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.DualQuadratic
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.WeilPairingTate
+import GroundTheory.ArithmeticGeometry.AbelianVarieties.TateDeterminant
+import Mathlib.LinearAlgebra.Charpoly.ToMatrix
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.Abelian

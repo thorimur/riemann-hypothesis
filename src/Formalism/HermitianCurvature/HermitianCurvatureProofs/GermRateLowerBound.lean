@@ -1,10 +1,8 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SliceAtApply
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PbGermRateLowBOfParts
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GermConstant
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaCongrRight
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SliceIntegralCutoff
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SliceGermPoints
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.SliceOrbitalBlock
 
 namespace Formalism.FourierDecayAlt.P
 

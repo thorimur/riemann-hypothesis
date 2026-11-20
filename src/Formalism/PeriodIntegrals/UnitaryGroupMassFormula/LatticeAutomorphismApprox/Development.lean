@@ -1,6 +1,5 @@
 import Formalism.PeriodIntegrals.ScXuExists
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Commensurated
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FiniteAdelicComparison.MemLocFrom
 
 noncomputable section
 

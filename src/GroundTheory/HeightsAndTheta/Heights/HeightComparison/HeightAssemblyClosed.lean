@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightAssemblyFull
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.POrbitDegreeRatio
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.POrbitLocalSum

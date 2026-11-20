@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisorsPullback
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.TorsionGalois
+import GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisorsTranslate
 
 namespace GroundTheory.Arith.Abelian
 

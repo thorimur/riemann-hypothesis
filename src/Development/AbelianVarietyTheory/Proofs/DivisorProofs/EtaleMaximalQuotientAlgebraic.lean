@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsAlgebraicRatFuncFractionRingDedekind
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace GlobalTheory
 

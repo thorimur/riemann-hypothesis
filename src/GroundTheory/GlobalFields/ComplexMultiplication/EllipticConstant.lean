@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.EllipticFunctions
 
 open Complex Filter Topology Set

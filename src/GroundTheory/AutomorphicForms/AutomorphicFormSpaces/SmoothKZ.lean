@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.Translation
 
 open NumberField IsDedekindDomain Topology Filter Set

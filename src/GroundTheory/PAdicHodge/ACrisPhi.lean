@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.ACrisLog
 import GroundTheory.PAdicHodge.LogPowSeries
 set_option maxSynthPendingDepth 1

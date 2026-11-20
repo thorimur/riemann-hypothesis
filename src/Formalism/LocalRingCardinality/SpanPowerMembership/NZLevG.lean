@@ -1,5 +1,4 @@
-import Formalism.LocalRingCardinality.SpanPowerMembership.NZLevF
-import Formalism.SharpRestriction.GrowthBounds.TensorLatticeBounds.DataForm
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZLevD
 
 open MvPolynomial
 

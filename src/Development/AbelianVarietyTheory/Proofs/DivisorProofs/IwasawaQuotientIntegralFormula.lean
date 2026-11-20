@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.QuotientMeasure
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HaarMeasureIwasawaQuotient
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantMeasurableModificationStatement

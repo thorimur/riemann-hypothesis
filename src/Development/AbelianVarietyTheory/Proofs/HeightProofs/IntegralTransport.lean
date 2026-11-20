@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.BesselHermitianTheta.TiedLocW
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.SymplecticTensorMeasures
 

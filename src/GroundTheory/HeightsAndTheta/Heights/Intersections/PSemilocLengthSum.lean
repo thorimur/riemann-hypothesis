@@ -1,10 +1,11 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsSemilocLengthSum
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsSemilocResidueDeg
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsFibreDivSupp
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StFibreOverFinite
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsLocRingDimOne
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFiniteAlgebraLengthSum
+import GroundTheory.HeightsAndTheta.Heights.Intersections.OneNotMemOfIsPrime
+import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsSemilocFinite
 set_option maxSynthPendingDepth 1
 
 noncomputable section

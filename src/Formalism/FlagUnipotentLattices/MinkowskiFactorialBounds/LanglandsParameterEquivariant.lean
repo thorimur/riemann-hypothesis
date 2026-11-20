@@ -1,5 +1,5 @@
 import Formalism.FlagUnipotentLattices.InterlaceBlocksW
-import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.InterlacingOfBlocksSecondCase
+import Mathlib.Tactic.ENatToNat
 
 open Formalism.HermitianLatticeCounting.S8 TensorProduct Finset
 

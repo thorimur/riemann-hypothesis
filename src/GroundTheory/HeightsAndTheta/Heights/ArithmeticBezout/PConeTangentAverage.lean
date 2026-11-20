@@ -1,9 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeLocalMass
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeJacMeasurable
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeTangentDim
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsTangentGaussInvariant
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeIntegralLine
+import Mathlib.RingTheory.MvPolynomial.EulerIdentity
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

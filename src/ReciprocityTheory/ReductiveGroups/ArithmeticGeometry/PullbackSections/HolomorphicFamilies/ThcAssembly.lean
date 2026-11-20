@@ -1,5 +1,4 @@
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ShortPlace
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.WeightAssemblyClause
+import Formalism.SharpRestriction.Divisibility.WeightAlgebra
 
 set_option synthInstance.maxHeartbeats 400000
 

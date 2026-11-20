@@ -1,5 +1,10 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.SemiCharBasic
 import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.LineTransport
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

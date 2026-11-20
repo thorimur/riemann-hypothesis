@@ -1,5 +1,5 @@
 import Statements
-import Supplements.Kernels.MainTheoremsAll
+import Supplements.Kernels.MainTheorems
 
 theorem riemannHypothesis : RiemannHypothesis := rhOfAll
 

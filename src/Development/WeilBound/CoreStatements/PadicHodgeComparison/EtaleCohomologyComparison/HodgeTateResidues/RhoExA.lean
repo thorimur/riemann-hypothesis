@@ -1,7 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.HodgeTateResidues.FirstChernHodgeTateCompatAlt
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LiftPOfBounds
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RedTrans
+import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.HodgeTateResidues.IsFirstChernClassInJAlt
 
 set_option autoImplicit false
 set_option backward.isDefEq.respectTransparency false

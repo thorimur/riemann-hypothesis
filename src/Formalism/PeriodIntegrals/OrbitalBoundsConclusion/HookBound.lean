@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.HookBound
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.Assemble
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.CapelliOps
 

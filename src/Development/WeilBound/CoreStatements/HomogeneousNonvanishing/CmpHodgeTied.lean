@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Statements.GeometryStatements.HodgeComparisonCompatibility
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentTwistAutomorphism
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LieModelTwistedComparisonStatement

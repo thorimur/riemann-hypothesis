@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePCEqM2
+import Formalism.LocalToGlobal.CharacterGerms.RowTiePCEqSum2
 
 noncomputable section
 

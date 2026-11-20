@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.IsArithVarBotDualBlocksUnit
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.PCoordCurveDegree
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.PCurveComplexPoint

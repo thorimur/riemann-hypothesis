@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.CoefMod
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
+import Mathlib.Analysis.InnerProductSpace.SingularValues
+import Mathlib.RingTheory.PicardGroup
 
 open MvPolynomial Formalism.GradedWeylDivisibility Formalism.L2.DIV
 

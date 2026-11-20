@@ -1,4 +1,3 @@
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.AutDef
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.AutRealA
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.AutRealB
 

@@ -1,6 +1,5 @@
 import ReciprocityTheory.DualLattices.ValuationFourierLeOne
 import ReciprocityTheory.DualLattices.CharTableIsUnit
-import ReciprocityTheory.DualLattices.TransposeMulSelf
 
 noncomputable section
 

@@ -1,11 +1,9 @@
-import Mathlib
-import ReciprocityTheory.NeutralLocalFields.Duality
 import ReciprocityTheory.GroupCohomology.InfRes
-import ReciprocityTheory.GroupCohomology.CardLenStatement
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.KbarRepContAction
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.Herbrand
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.UnrDefs
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.QZDefs
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField
 

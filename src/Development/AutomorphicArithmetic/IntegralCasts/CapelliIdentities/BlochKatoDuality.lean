@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianCurvature.WeylElementCommutesLevelOne
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MapInvolutionEqSelf
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MeasurableMatrixInv

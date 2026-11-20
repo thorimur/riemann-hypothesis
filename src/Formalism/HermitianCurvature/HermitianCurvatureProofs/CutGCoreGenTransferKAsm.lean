@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.cut_GCore_GenTransferKapCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeVLem
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.NFRadRedA
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.NFRadRedF
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt

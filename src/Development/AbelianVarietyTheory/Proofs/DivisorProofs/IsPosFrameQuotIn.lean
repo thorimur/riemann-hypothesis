@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsTypeIsRealConst
-import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.HoloSmooth
 
 set_option autoImplicit false
 

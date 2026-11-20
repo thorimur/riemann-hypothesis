@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.TrueWtAddSSNonneg
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.CardStabDvdAutU
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.NormMapOfFinOrder
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.IntegralGLSuccEmbeddingMemParahoricTimesPrincipa

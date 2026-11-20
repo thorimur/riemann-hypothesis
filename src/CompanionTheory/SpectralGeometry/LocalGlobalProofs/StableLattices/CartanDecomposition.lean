@@ -1,8 +1,6 @@
-import Mathlib
 import CompanionTheory.AutomorphicTheory.BesselOrbitBounds.BesselMapUniqueness.BesselMapUniqGap
-import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SmoothCyclicVectors.SmoothCyc
-import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SmoothCyclicVectors.PhMeas
-import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.IwaCore
+import Mathlib.LinearAlgebra.Matrix.DotProduct
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix Formalism.QuantumDeterminants CompanionTheory.Bmu
 

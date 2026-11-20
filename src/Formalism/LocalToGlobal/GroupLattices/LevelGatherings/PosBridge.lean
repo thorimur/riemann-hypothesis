@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.GroupLattices.LevelGatherings.PosCompatOfBase
-import Formalism.LocalToGlobal.HermitianColumns.StarConj
 
 noncomputable section
 

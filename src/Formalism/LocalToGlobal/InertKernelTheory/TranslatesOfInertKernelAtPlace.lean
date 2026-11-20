@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.InertKernelTheory.ScalG
 import Formalism.LocalToGlobal.InertKernelTheory.DefsRepLt
 
 noncomputable section

@@ -1,9 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.ShaTwist
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.KummerShaOpen
-import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.Kummer
 import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.Coprime
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.Finite
 import GroundTheory.ProfiniteCohomology.PoitouTate.ZmodToQZCompactCohomologyResMapOfLocalInv
 set_option maxSynthPendingDepth 1
 

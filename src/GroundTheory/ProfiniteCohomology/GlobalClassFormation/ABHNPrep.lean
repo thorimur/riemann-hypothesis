@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.SumInvariants
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalDegreeGen
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.ClassSplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

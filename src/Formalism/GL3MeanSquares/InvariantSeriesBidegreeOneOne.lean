@@ -1,6 +1,7 @@
-import Mathlib
 import Formalism.LogVandermondeBounds.EvenOddPowerQuotientEqualityCases
-import Formalism.FormalGroupWitt.ShiftSOneLetter
+import Formalism.FormalGroupWitt.Statement
+import Mathlib.Analysis.Complex.Circle
+import Mathlib.RingTheory.WittVector.Teichmuller
 
 noncomputable section
 

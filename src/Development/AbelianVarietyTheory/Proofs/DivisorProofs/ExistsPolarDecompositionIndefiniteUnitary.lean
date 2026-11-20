@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFockMap
+import Formalism.LocalRingCardinality.DataTheta
 open scoped Matrix
 open Formalism.BasicNotions.TH
 

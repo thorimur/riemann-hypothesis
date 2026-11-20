@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.HorTrUnique
+import Formalism.SharpRestriction.LevelLetterCocycles.ArcCoordinatesOfMembership
 
 noncomputable section
 

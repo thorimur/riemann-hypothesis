@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GlobalSchurBounds.QuadraticLogDerivCongr
-import Formalism.LocalRingCardinality.Lemmas
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.ChainLatticeSizesModelEventually
 
 open Module NumberField IsDedekindDomain Matrix

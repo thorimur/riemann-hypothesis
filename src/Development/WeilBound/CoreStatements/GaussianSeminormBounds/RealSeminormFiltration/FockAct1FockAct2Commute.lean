@@ -1,5 +1,8 @@
-import Mathlib
-import Formalism.PeriodIntegrals.JointBlockShapes.JointShape
+import Formalism.PeriodIntegrals.JointBlockShapes.MinusPart
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

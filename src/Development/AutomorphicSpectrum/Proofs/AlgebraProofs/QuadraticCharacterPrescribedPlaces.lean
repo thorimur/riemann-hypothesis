@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.ToricVarieties.KrullDomain
 
 open NumberField TensorProduct

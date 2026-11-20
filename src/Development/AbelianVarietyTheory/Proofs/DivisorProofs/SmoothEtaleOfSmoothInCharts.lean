@@ -1,8 +1,6 @@
-import Mathlib
-import ReciprocityTheory.L2DbarEstimates.Imports
-import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FourSignHolds
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.L2ExtensionLogCanonical
 import Development.AbelianVarietyTheory.Definitions.Divisors.EtaleEmpty
+import Mathlib.Analysis.Calculus.InverseFunctionTheorem.ContDiff
+import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.HoloSmooth
 
 namespace GlobalTheory.OTY
 

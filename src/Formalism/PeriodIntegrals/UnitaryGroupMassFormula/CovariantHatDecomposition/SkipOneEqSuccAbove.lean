@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.ContractionsCovariantIff
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.QuantumDetHighestWeightHolds
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.ShiftedGeneratorEqIteSmulAdd

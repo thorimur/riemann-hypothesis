@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.ClassFieldConsequences.ConductorLocal
+import GroundTheory.GlobalFields.GlobalReciprocity.General
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Global

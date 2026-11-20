@@ -1,7 +1,7 @@
 import Formalism.HermitianCurvature.StatementTC
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OneLevelInequality
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OneLevelInequalitySplitBySize
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.AntidiagMulDiagonal
+import Mathlib.Analysis.Complex.ExponentialBounds
 
 namespace Formalism.FourierDecayAlt.P.RecursionWithDensities.A1
 

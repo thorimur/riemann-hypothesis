@@ -1,11 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PAdicFrobeniusPointComparison
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InducesPl
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatSectionFrameInvariance
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.FrameChangeExistsUniqueOfSamePoint
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.IsCombAtGMulVec
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ValueStatementHolds
 
 open CategoryTheory Limits AlgebraicGeometry NumberField IsDedekindDomain
 open scoped NNReal

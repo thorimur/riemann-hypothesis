@@ -1,4 +1,5 @@
 import Formalism.SatakeDualWeyl.Statement
+import Mathlib.Analysis.Matrix.Spectrum
 
 namespace Formalism.UG.P
 

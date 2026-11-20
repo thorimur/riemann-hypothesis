@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSH2
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSHSFGAsm
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSHSFGGfStep
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSHSFGRadProper

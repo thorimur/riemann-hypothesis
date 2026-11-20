@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.DecaysZero
 import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.Weight
 import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.IsCompactBall
 

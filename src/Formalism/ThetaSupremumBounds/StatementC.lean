@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LogFactorialIndices.StatementSize
+import Mathlib.NumberTheory.Harmonic.EulerMascheroni
 
 open Finset
 open scoped Real

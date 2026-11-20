@@ -1,5 +1,6 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramFibrationFormulas.WeilUnimodularityCriterion
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramFibrationFormulas.GlobalDensityProductFormula
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramFibrationFormulas.FundamentalDomainPigeonhole
 
 open scoped TensorProduct ENNReal
 open MeasureTheory NumberField IsDedekindDomain Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes

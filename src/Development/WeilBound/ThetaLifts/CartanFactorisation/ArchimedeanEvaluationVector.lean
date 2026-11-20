@@ -1,7 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
 import Development.WeilBound.ThetaLifts.CartanFactorisation.CartanConj
 import Development.WeilBound.ThetaLifts.CartanFactorisation.NonemptyCoord
+import Development.WeilBound.ThetaLifts.CartanFactorisation.EqOfInner
+import Development.WeilBound.ThetaLifts.CartanFactorisation.ExistsCharNe
 
 noncomputable section
 

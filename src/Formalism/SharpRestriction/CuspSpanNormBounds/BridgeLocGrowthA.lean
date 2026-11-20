@@ -1,7 +1,4 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.UnimodularSchurMeasures.FfHasInfChar
-import Formalism.RealPlaceAnalysis.SmoothOnGVIff
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.IndefiniteUnitaryPreservesForm
-import Formalism.SharpRestriction.CuspSpanNormBounds.PlaceDegreeData
 
 noncomputable section
 

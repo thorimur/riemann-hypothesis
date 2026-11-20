@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.ExistenceOfLattices.Hat1
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsUniqueIdeleOfLinearEquivQuotientLocal
+import Mathlib.Algebra.AffineMonoid.Basic
 
 open NumberField IsDedekindDomain GlobalTheory.AdLat WithZero
 open scoped TensorProduct Matrix nonZeroDivisors

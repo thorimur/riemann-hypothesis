@@ -1,8 +1,8 @@
-import Formalism.HermitianCurvature.StatementM
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FirstEmbeddingOne
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MultiplicationOpHom
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelNablaStarRelations
-import Formalism.YangianSpanCharacter.YangianRelationFirst
+import Formalism.YangianSpanCharacter.YangianRTTProofs.RttRelation
+import Formalism.YangianSpanCharacter.YangianRTTProofs.TransposeSymplecticShift
 
 open Formalism.FourierDecayAlt.M Formalism.FourierDecayAlt.Fr Formalism.FourierDecayAlt.Wd Formalism.FourierDecayAlt.R Formalism.FourierDecayAlt.W Formalism.YangianSpanCharacter.T Formalism.FourierDecayAlt Matrix Finset
 

@@ -1,7 +1,7 @@
-import Mathlib
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
 import Formalism.SatakeDualWeyl.KpqSubgroupCompact
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LClosedeqLemmas
+import Mathlib.RingTheory.HahnSeries.PowerSeries
+import Mathlib.RingTheory.PowerSeries.Inverse
 
 open MvPolynomial
 

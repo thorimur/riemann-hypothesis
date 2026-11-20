@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisorsOrd
+import Mathlib.Order.CompletePartialOrder
 
 namespace GroundTheory.Arith.Abelian
 

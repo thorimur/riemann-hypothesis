@@ -1,11 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsTerTail
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsExtraAlt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsRestRest
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsExtraLast
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.InterNumRestrictSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.BaseComap
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.XMemMIdealOverIff
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ChartRingOverOneBlockEqAlt
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman.SectionsOverLocalization

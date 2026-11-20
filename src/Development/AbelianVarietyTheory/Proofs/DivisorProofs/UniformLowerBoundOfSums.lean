@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.CovolXOfCovol
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
-import Formalism.MeanHeightDescent.DivisionInequalityWithCovolume
 
 set_option synthInstance.maxHeartbeats 400000
 

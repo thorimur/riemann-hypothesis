@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PublishedTheorems.JacquetShalikaBound.FormQuasiInvariantMirabolic
+import GroundTheory.AutomorphicForms.MacdonaldWhittakerHecke
 set_option maxSynthPendingDepth 1
 
 noncomputable section

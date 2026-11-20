@@ -1,4 +1,7 @@
 import Formalism.LocalToGlobal.NumberFieldFamilies.NPartCBase
+import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleLayerExistsGenerators
+import Formalism.LocalToGlobal.GaloisLevelStructure.DefsAut
+import Formalism.LocalToGlobal.NumberFieldFamilies.NPartCNd
 
 noncomputable section
 

@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.TopOddNeEnd
-import Formalism.SharpRestriction.GrowthBounds.PolBridge
 
 noncomputable section
 

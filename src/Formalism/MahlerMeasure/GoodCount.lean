@@ -1,4 +1,6 @@
 import Formalism.MahlerMeasure.LevelSum
+import Mathlib.NumberTheory.Padics.PadicIntegers
+import Mathlib.Order.CompletePartialOrder
 
 namespace Formalism.GM.M
 

@@ -1,9 +1,6 @@
 import ReciprocityTheory.GroupCohomology.CupConnRightStatement
-import ReciprocityTheory.GroupCohomology.HomogExistsStatement
-import ReciprocityTheory.GroupCohomology.DEqZeroOfMemB
 import ReciprocityTheory.GroupCohomology.HomogIso
 import ReciprocityTheory.GroupCohomology.PrismOpZeroEval
-import ReciprocityTheory.GroupCohomology.InnerHolds
 import ReciprocityTheory.GroupCohomology.PartialProdCoe
 
 namespace ReciprocityTheory.Coh

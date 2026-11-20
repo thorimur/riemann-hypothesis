@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexPointsBase
+import GroundTheory.HeightsAndTheta.Heights.ComplexPoints
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteOfLocalizationAndCompletion
-import Mathlib
 open TensorProduct
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.finite_of_localization_and_completion : ∀ (A : Type) [CommRing A] (f : A),

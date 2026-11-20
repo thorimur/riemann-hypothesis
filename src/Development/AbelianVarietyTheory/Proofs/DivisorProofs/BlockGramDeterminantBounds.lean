@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HodgeFrameGram
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModelHodgeGram
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GradedSqInverseTransposeRevStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GradedGramReEqSqStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModelHodgeGramPosDefQuotientStatement

@@ -1,4 +1,4 @@
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LocOf
+import Formalism.SharpRestriction.CuspSpanNormBounds.IsPrimitiveSub
 
 open NumberField
 

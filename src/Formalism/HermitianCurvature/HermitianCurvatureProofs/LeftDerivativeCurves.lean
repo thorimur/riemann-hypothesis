@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.StatementQr
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RestrictionIrrelevantDoubleLevelOperator
 
 open Matrix Finset Filter Topology
 open scoped ContDiff

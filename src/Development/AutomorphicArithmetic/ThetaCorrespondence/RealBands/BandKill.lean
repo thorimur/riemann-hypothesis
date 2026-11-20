@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.IsBand
 import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.EigBand
 import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.Fourier
+import Mathlib.Topology.Sheaves.Presheaf
 
 open MeasureTheory Filter UpperTheory.Lit.Cusp
 open scoped Topology

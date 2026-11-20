@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpOrderLe
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PTorsionFreeQuotientLength
 set_option maxSynthPendingDepth 1

@@ -1,8 +1,6 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.CMGoodModels.CM4
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.IsIntegralOfRoot
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.TorStatus
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgStatus
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.CmAllOf
 
 namespace Formalism.L2.Th1.CM
 

@@ -1,7 +1,5 @@
-import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.ArvOSobPfA
-import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.ArvOSobPfAs
-import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.ArvOSobPfK
-import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.HasFDerivAtIntegralPIter
+import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.ArvOSobPfSt
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
 
 noncomputable section
 

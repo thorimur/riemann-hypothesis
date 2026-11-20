@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.IsModelWithBaseExOPnPt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsTailLast
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsLastAlt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.IsMultiProjPrimeBaseComap

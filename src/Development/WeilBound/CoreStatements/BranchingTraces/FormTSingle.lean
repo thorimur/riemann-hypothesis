@@ -1,5 +1,6 @@
-import Development.WeilBound.CoreStatements.BranchingTraces.ContinuousEmb
-import Formalism.SharpRestriction.CuspSpanNormBounds.LowestKTypeMultiplicity
+import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SmoothCyclicVectors.SmoothVec
+import Development.WeilBound.CoreStatements.BranchingTraces.HeBranching
+import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSchur
 
 noncomputable section
 

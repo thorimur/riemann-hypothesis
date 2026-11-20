@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.CutPassage3SOfSteps
 import Formalism.LocalToGlobal.IndefiniteReal.RhoSpec
 import Formalism.LocalToGlobal.IndefiniteReal.MajorantAtBaseEqInnerOfPackage

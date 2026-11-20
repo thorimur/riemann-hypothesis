@@ -1,5 +1,7 @@
-import Formalism.JumpKernelCokernel.Statement
 import Formalism.JumpKernelCokernel.JumpShiftProofs.DetLen
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.LinearAlgebra.Charpoly.BaseChange
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open Polynomial Module
 

@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.MeanSquareBounds.PrimeSetTwoBounds
 import Development.AutomorphicArithmetic.MeanSquareBounds.Stage1Succ
 import Development.AutomorphicArithmetic.MeanSquareBounds.CharOf
 

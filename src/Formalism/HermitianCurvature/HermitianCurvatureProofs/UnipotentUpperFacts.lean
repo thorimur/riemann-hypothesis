@@ -1,4 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.FixedPointsGramVector
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.HermitianFormBasics
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.MajorantEstimate
 
 open Matrix Formalism.FourierDecayAlt Formalism.QuantumDeterminants
 open scoped ComplexConjugate

@@ -1,5 +1,12 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.RingAFacts
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.NormRingALe
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.RootsOfUnity.AlgebraicallyClosed
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 open scoped BigOperators

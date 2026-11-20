@@ -1,4 +1,4 @@
-import Formalism.PieriBlockIdeals.StatementDown
+import Formalism.PieriBlockIdeals.LatticeInclusionRealSettingAlt
 
 noncomputable section
 

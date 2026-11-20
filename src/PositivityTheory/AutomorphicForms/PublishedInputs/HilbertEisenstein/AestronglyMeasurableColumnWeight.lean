@@ -1,5 +1,4 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.RightBilinearApply
-import GroundTheory.GlobalFields.TateThesis.IdeleMeasure
 
 noncomputable section
 

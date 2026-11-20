@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.InvariantsIsoOfGenerators
+import Formalism.SharpRestriction.LevelLetterCocycles.LocalSituation
 
 noncomputable section
 

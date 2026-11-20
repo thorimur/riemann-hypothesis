@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.PrincipalLevelAction
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.GEqAct
+import Mathlib.Data.Finsupp.Pointwise
 
 noncomputable section
 

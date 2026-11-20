@@ -1,7 +1,6 @@
-import CompanionTheory.RealGroups.FormalDegrees.ArchimedeanFormalDegrees.MomB
-import CompanionTheory.RealGroups.DiscreteSeries.DiscreteSeriesClassification.InConeRefl
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.ProdSubLtEqFactorial
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.PolarJmConjTranspose
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.DatumEmbeddingMemHlam
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.FdDefs
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.PmatIsHermitian
 
 noncomputable section
 

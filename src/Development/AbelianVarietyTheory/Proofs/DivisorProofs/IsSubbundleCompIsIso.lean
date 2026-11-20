@@ -1,9 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsPairBundle
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MonoPullbackOfIsOpenImmersion
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CmpNaturality
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CokernelSubbundleIsVB
-import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.InverseBundleGeneratorPointOfChartUnitsSections
 
 set_option autoImplicit false
 set_option backward.isDefEq.respectTransparency false

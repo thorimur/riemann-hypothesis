@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataDIV
 import Formalism.SharpRestriction.ParamsHeightRankConstant
 
 noncomputable section

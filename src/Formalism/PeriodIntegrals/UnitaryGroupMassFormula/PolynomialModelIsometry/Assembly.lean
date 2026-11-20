@@ -1,4 +1,9 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.PolynomialModelIsometry.IsPolyMon
+import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
+import Formalism.PeriodIntegrals.HwIrred
+import Formalism.PeriodIntegrals.WeylForU
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

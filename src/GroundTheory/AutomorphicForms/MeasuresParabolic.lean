@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.MeasuresGL
 import GroundTheory.AutomorphicForms.Iwasawa
 

@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.MemIntPolIff
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.BlockBoundUniformiser
 
 noncomputable section
 

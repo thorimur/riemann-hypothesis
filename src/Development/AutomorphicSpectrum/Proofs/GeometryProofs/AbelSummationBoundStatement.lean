@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelSummationBound
 
 set_option maxHeartbeats 1000000 in

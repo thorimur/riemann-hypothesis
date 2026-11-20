@@ -1,7 +1,4 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.AuxiliaryPrimeFunction
 import Development.WeilBound.ThetaLifts.LeviDeterminants.WeilRepRationalDarbouxFixesThetaDistribution
-import Development.WeilBound.ThetaLifts.LeviDeterminants.EqZeroOfTheta
-import Development.AutomorphicSpectrum.Proofs.MembershipProofs.ThetaSumTensorProduct
 import Development.WeilBound.ThetaLifts.LatticeBasics.RatEquiv
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.CayleyTransform.CompFinFinOne
 

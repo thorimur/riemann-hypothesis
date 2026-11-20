@@ -1,8 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceFormLelong
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSectionHyperplaneAvoid
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PDivCyclePrime
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsChowFormSectionAlgClosed
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StFormIntSlice
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceCutOffLimit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

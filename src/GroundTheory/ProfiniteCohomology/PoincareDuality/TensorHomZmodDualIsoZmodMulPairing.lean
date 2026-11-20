@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.PoincareDuality.NsmulEqZeroOfNonemptyAddEquiv
 import GroundTheory.ProfiniteCohomology.PoincareDuality.Torsion
+import GroundTheory.ProfiniteCohomology.CartierDual
 set_option maxSynthPendingDepth 1
 
 noncomputable section

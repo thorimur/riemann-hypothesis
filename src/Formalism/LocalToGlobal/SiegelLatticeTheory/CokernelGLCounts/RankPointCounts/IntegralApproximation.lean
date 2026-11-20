@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.DataInst
+import Mathlib.Algebra.Order.Field.GeomSum
 
 noncomputable section
 

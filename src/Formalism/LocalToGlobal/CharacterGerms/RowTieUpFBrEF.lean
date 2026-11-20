@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTieUpFBrS
-import Mathlib
 
 set_option autoImplicit false
 

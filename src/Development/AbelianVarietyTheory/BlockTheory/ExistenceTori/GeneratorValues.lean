@@ -1,5 +1,7 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.RosatiAdj
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.NumberTheory.Padics.PadicIntegers
+import Mathlib.RingTheory.Valuation.Discrete.IsDiscreteValuationRing
 
 set_option autoImplicit false
 

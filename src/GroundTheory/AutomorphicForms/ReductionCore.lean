@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ReductionFinite
 import GroundTheory.AutomorphicForms.ReductionIwasawa
 import GroundTheory.AutomorphicForms.ReductionBlock

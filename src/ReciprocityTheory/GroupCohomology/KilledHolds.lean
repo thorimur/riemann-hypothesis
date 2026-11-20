@@ -1,8 +1,4 @@
 import ReciprocityTheory.GroupCohomology.CardLenStatement
-import ReciprocityTheory.GroupCohomology.DEqZeroOfMemB
-import ReciprocityTheory.GroupCohomology.ConnNatHolds
-import ReciprocityTheory.GroupCohomology.PairHomFCoeOfId
-import ReciprocityTheory.GroupCohomology.Shapiro
 import ReciprocityTheory.GroupCohomology.ShiftA
 
 namespace ReciprocityTheory.Coh

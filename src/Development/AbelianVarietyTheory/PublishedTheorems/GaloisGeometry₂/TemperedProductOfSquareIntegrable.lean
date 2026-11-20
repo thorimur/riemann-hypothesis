@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsTemperedCoeff
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NonemptyEquivMultiProdOne
 
 noncomputable section
 open MeasureTheory GlobalTheory.PRep GlobalTheory.SmGL GlobalTheory.LocGL

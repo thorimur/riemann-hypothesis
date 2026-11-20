@@ -1,5 +1,5 @@
-import Development.AutomorphicArithmetic.DedekindLFunctions.SplitInertia
 import Development.AutomorphicArithmetic.DedekindLFunctions.LandauTheorems.ChBalance
+import Formalism.SizeWindowBrackets.ChainSlopeWindows.PChain
 
 open Finset
 

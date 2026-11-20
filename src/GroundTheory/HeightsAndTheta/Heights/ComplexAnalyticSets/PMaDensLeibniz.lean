@@ -1,6 +1,6 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PartsPiola
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCutOffBoundaryParts
+import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PartsAlg
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

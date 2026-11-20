@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AdelicHermitianForms.SqSubLeNormSub
+import Mathlib.Order.CompletePartialOrder
 open NumberField IsDedekindDomain GlobalTheory.QNorm
 open scoped WithZero
 

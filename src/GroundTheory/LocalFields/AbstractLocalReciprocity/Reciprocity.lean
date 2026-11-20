@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.LocalFields.AbstractLocalReciprocity.UniqueQuotientSubgroupOfSelf
 import GroundTheory.LocalFields.AbstractLocalReciprocity.Frobenius
 import GroundTheory.LocalFields.AbstractLocalReciprocity.Unramified
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.OrderTwoTate
 import GroundTheory.ProfiniteCohomology.RealPlaces.LocalDualityPlace
 import GroundTheory.ProfiniteCohomology.RealPlaces.GSDefs

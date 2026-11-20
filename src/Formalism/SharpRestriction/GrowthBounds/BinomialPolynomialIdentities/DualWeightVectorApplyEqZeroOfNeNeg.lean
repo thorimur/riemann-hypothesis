@@ -1,4 +1,7 @@
-import Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.ContragredientIrreducibleGeneratedByHighestWeigh
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsIntegralWeightProjections
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.IrreducibleStableContainsEqTop
+import Formalism.SharpRestriction.GrowthBounds.StatementOfDegreeAndBound
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.ZsVolCut
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IntLowMul
 
 noncomputable section

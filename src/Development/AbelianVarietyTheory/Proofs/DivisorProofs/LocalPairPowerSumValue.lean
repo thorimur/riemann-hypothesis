@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasTotalBiChains
+import Mathlib.Algebra.Homology.Embedding.ExtendHomotopy
+import Mathlib.CategoryTheory.ExtremalEpi
 open CategoryTheory Limits Opposite AlgebraicTopology GlobalTheory.EZ
 universe u v
 

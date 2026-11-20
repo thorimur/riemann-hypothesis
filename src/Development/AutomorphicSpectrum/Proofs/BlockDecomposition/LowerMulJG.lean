@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.GlobData
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousLowG
 
 noncomputable section

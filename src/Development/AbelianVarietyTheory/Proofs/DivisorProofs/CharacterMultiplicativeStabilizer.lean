@@ -1,8 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnipLeStabP
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairOfPair
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviTorusHyperbolicPairStatement
 
 open scoped TensorProduct NNReal Matrix

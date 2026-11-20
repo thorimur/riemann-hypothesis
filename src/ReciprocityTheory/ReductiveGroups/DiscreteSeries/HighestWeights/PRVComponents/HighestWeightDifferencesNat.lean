@@ -1,5 +1,7 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.IsInfUnitary
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.UniqueA
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

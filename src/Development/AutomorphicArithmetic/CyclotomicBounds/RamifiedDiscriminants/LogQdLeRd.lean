@@ -1,8 +1,4 @@
-import Mathlib
-import Development.AutomorphicArithmetic.PrimeDiscriminants.SlopeTestRemainingChoices
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.RadBounds2
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.RamEq
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.LogRdSum
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.VdTwo
 
 open UpperTheory.HF

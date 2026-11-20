@@ -1,5 +1,4 @@
-import Formalism.RankGapBounds.UniformMeanBound
-import Formalism.RankGapBounds.RankGapProofs.WeightedMeanData
+import Formalism.RankGapBounds.MeanBoundSecondForm
 
 open Real
 

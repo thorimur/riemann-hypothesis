@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EqOfSecAlgTop
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AffineHilbertRepresentingUniversalSubscheme
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry Opposite

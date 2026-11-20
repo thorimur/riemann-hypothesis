@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BijectiveResidueCompEtaleHenselianStatement
+import Mathlib.Order.CompletePartialOrder
 open IsLocalRing
 
 namespace GlobalTheory.IndEtaleHensel

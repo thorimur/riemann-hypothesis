@@ -1,5 +1,7 @@
 import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffFubiniStudyRatioCompChart0
 import ReciprocityTheory.AnalyticForms.PotentialTheory.IntegralIoiFsDensRadial
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.PiTensorProduct
 
 namespace ReciprocityTheory.AnForm.M
 

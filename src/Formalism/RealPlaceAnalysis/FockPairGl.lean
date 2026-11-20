@@ -1,4 +1,5 @@
 import Formalism.RealPlaceAnalysis.StatementA
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 open MvPolynomial
 

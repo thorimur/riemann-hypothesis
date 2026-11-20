@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.ThmSOwn
-import Formalism.SharpRestriction.CuspSpanNormBounds.LocalBesselAndTopKernel
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.UnfoldingConstantsPos
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.VanishingGramTermsBoundParams
 

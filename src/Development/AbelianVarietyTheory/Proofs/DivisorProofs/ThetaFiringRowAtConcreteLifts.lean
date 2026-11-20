@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.ThetaFireRow
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaPToLiftReal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ResInjLToLiftReal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaAdjointAtLiftEqLowestKTypeRestrictionStatement

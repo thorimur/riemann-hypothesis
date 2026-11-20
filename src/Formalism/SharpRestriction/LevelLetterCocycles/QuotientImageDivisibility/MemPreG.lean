@@ -1,5 +1,6 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.LevNOsmul
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.FrobeniusSqComparisonLetter
+import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.NDlCoords
+import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.PchainDN
 
 noncomputable section
 open Classical

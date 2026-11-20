@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ScaledTwistingSheafSpec
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.MemMaximalIdealBall
-import Formalism.LocalToGlobal.ProjectiveLattices.CompFin
+import Formalism.SharpRestriction.Divisibility.AbelianOpenPart.IsOpenPart
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.UniformisationConclusion
 
 noncomputable section
 

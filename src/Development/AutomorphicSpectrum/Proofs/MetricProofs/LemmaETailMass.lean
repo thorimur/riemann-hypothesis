@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StLemmaETailMass
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETailMass
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETrunc
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETruncMass

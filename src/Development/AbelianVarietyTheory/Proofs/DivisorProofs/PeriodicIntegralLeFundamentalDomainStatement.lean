@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodicIntegralLeFundamentalDomain
-import Mathlib
 open MeasureTheory
 open scoped ComplexOrder
 set_option maxHeartbeats 1000000 in

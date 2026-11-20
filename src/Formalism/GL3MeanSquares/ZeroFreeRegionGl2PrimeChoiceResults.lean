@@ -3,7 +3,6 @@ import Formalism.GL3MeanSquares.HookFormulaTorsion.CharacterEstimateOfHypothesis
 import Formalism.GL3MeanSquares.HookFormulaTorsion.SecondEstimateOfHypothesis
 import Formalism.GL3MeanSquares.HookFormulaTorsion.NormOneEstimateOfHypothesis
 import Formalism.GL3MeanSquares.HookFormulaTorsion.TwistIsPrimitiveCharacter
-import Formalism.GL3MeanSquares.HookFormulaTorsion.WeightedVonMangoldtSumIdentity
 
 namespace Formalism.HermitianLattices.Final
 

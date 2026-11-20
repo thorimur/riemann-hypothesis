@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.ArchimedeanThetaValues.ModelsAt
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ExistsSubspaceIsometric
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.AnVecTorusLetter
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusExtExponentialDerivativeBijectiveTangent
@@ -10,7 +8,6 @@ import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.CmMetrisedLineLe
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.SplitBaseChange
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ExistsIsSplit
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.IsTauCanonicalIffOfIsPullDegTauBimult
-import Development.AbelianVarietyTheory.Proofs.GenericRegularity.LieCombBaseChange
 import Development.AbelianVarietyTheory.Proofs.GenericRegularity.LieBasisCoordinatesBijectiveTangent
 
 open AlgebraicGeometry CategoryTheory CategoryTheory.Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField IsDedekindDomain

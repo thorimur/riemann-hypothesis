@@ -1,11 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocOpInfMul
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilActionMapsSchwartz
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulRealAdEqZero
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegrableIdelesPowerDecay
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFinPartNeZero
-import Development.AutomorphicArithmetic.LocalEmbeddings.ConeBDefs
 import Development.AutomorphicArithmetic.DivisorFrames.SchrodingerFunctionalEqZero
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocPart
 open scoped TensorProduct NNReal Matrix
 open NumberField IsDedekindDomain MeasureTheory Filter Topology Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes
 open GlobalTheory.WeilM GlobalTheory.AdelicU GlobalTheory.LFun GlobalTheory.IndefiniteRowSideFullHecke.WeilTensorModels GlobalTheory.ThK GlobalTheory.ThK.LemF

@@ -1,4 +1,5 @@
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.DivSheafA
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace ReciprocityTheory.AnForm.R
 

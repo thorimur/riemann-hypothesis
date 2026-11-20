@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.InvariantSectionsRingChange
+import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.RingIndep
 
 noncomputable section
 

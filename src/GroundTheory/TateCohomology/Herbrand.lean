@@ -1,5 +1,6 @@
-import Mathlib
-import GroundTheory.TateCohomology.HerbrandTate
+import GroundTheory.TateCohomology.TateLow
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.FiniteCyclic
+import Mathlib.RepresentationTheory.Homological.GroupHomology.FiniteCyclic
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.GroupCoh

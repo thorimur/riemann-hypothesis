@@ -1,4 +1,6 @@
 import Formalism.LogSumExpBounds.StatementC
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.NuclearRankWeightBounds.P
 

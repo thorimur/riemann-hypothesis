@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.LocalClassFormation.OrderBound
 import GroundTheory.TateCohomology.InfRes
+import GroundTheory.ProfiniteCohomology.GaloisCohomology.IsZeroGroupCohomologyQuotientToInvariantsGalAdd
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

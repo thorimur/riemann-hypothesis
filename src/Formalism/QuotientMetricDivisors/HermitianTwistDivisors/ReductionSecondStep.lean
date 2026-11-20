@@ -1,11 +1,5 @@
-import Mathlib
-import Formalism.QuotientMetricDivisors.ProdFormula
-import Formalism.HarderNarasimhan.ShiftInvariance
-import Formalism.HermitianLattices.HermitianLatticesProofs.IndexBasic
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ProdFormula
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.LcvBasis
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.IdxChange
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ValBasic
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ImageLcv
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.RatHerm
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.LocBasis

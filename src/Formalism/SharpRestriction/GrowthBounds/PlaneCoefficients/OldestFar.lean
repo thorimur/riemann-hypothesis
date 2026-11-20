@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.PlaneCoefficients.ValSCongrSupp
+import Formalism.SharpRestriction.GrowthBounds.PlaneCoefficients.PlaneCoeffOneTTens
 
 noncomputable section
 

@@ -1,6 +1,8 @@
 import Formalism.FlagUnipotentLattices.LiftUnitaryFixesBase
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.ExistsHasLeadingCoeffOfMemSpanBelow
-import Formalism.HyperbolicPlaceProducts.SecondLevelArithmeticNorm
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Data.Int.Star
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Formalism.HermitianLatticeCounting.S6
 open scoped BigOperators

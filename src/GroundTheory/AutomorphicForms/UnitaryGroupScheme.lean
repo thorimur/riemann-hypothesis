@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HermitianSpaces
+import Mathlib.Algebra.Category.CommAlgCat.Basic
 
 namespace GroundTheory.Automorphic
 

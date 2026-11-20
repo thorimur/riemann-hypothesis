@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HermitianEuclidean
+import GroundTheory.HeightsAndTheta.Heights.HermitianLattice
+import Mathlib.Analysis.InnerProductSpace.TensorProduct
 
 namespace GroundTheory.Heights₂.Heights
 

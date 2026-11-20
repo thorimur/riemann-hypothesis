@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.LeviCentreInducedUnitary
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsInhabitant
 
 noncomputable section

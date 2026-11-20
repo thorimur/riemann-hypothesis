@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LamGApply
-import Formalism.LocalToGlobal.HermitianForms.IsLocBasis
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClassesAt
 
 set_option autoImplicit false
 

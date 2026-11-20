@@ -1,4 +1,5 @@
-import Formalism.LocalRingCardinality.SpanPowerMembership.NDLocF
+import Formalism.LocalRingCardinality.SpanPowerMembership.NDLocC
+import Formalism.LocalRingCardinality.SpanPowerMembership.NDLocE
 
 noncomputable section
 

@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.WickVanishing.DofListSum
+import Mathlib.Tactic.ENatToNat
 
 set_option autoImplicit false
 

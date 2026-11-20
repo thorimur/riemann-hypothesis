@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CutoffInterpolationUniformLimit
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeightBoundConst
 open Matrix Filter Topology Set GlobalTheory.HermFrame GlobalTheory.IndefiniteRowSideFullHecke.HermitianInterpolation GlobalTheory.InterpCurv
 open scoped ComplexOrder ContDiff
 set_option maxHeartbeats 1000000 in

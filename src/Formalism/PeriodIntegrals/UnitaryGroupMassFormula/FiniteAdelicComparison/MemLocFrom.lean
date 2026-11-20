@@ -1,5 +1,5 @@
-import Mathlib
-import Formalism.PeriodIntegrals.AdBridgeSteps
+import Formalism.LocalToGlobal.SiegelLatticeTheory.FundamentalEquivalence.LevelIntersectParabolic
+import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
 
 noncomputable section
 

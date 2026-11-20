@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 import ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.LogDetSt
 

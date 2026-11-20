@@ -1,5 +1,9 @@
 import ReciprocityTheory.SemistableReduction.SemiDegZ
 import Lemmata.GeneralBFactSecondAlt.Imports
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Matrix.PosDef
+import ReciprocityTheory.SemistableReduction.SemiDegG
+import ReciprocityTheory.SemistableReduction.SemiDegW
 
 noncomputable section
 

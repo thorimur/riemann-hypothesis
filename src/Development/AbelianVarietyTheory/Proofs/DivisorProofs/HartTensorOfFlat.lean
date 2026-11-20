@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsionFreeOver
 open IsLocalRing Polynomial
 open scoped TensorProduct

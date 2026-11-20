@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.AutomorphicTheory.SiegelUnitTheory.UnitsAinf
 import CompanionTheory.AutomorphicTheory.SiegelUnitTheory.ClassNumberMass
 

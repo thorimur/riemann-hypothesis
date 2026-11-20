@@ -1,5 +1,4 @@
 import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.ExistsFull
-import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfFree
 
 namespace PositivityTheory.KCo
 

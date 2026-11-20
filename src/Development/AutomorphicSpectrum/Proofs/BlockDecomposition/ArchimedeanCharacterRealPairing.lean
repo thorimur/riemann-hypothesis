@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LastRowMulRowGLInv
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousSInf
 
 noncomputable section

@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.ValuationLowestDegreeRename
-import Formalism.SharpRestriction.GrowthBounds.ValuationLowestDegreeMapFractionField
 
 noncomputable section
 

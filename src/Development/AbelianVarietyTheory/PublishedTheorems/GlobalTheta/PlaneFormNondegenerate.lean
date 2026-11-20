@@ -1,6 +1,15 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.SmoothPartStable
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.EqOneOfPowClose
+import Mathlib.Algebra.Group.MinimalAxioms
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Analysis.SpecialFunctions.Complex.Circle
+import Mathlib.NumberTheory.LocalField.Basic
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RepresentationTheory.Irreducible
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 

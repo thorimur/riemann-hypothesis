@@ -1,9 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ActMatApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OmegaBaseChangeFiniteProjectiveReflexive
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RingChainExists
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BaseChangeNakayamaApproximation
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSMulRegularOfIsReflexive
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 400000

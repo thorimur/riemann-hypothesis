@@ -1,4 +1,3 @@
-import Formalism.FlagUnipotentLattices.FlagUnipotentLattice
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.FlagKernelVanishing
 
 namespace Formalism.HermitianLatticeCounting.Final.FlagKernelVanishing

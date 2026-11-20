@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.VanIdealHomog
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ProjectiveCharts
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.Saturation

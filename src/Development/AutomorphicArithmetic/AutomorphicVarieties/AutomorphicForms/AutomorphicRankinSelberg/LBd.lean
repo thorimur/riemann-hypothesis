@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.AutomorphicRankinSelberg.StripInt
+import Mathlib.NumberTheory.DirichletCharacter.Bounds
+import Mathlib.NumberTheory.ZetaValues
 
 theorem UpperTheory.V.Af.Rs.lBd :
     UpperTheory.V.Af.Rs.LBd := by

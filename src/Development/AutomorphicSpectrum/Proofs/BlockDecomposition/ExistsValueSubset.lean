@@ -1,8 +1,4 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.ElementaryCosets.JPred
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MonomialOfConjTorus
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PermEqOneOfMonomialMem
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowUnifLeOne
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CongruenceSubgroupBasisNhds
 
 noncomputable section

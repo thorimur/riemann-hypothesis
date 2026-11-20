@@ -1,14 +1,12 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ThetaSeriesDataHypothesesBelowMaximalLevel
-import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.TiedCls
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ExistsMidLevIff
-import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.FrecAt
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.MovDXiAtRecStep
 import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.LocalClassDataOfTrivialStabilizers
 import Formalism.LocalToGlobal.InertKernelTheory.ProjRSurj
 import Formalism.LocalToGlobal.InertKernelTheory.TieSerPin
-import Formalism.LocalToGlobal.HermitianColumns.FullSym
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.LocSpBot
+import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.FrobeniusSqIterateTeichmuller
+import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.ClsChartedLabAt
 
 noncomputable section
 

@@ -1,4 +1,9 @@
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.IterSymmR
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.IndefR.Eqv
 

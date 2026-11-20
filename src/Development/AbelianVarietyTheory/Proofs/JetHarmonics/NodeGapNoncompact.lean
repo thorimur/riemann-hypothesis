@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.BesselPeriodGGP
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.DecreasingNodeGaps
 

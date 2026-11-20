@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.TruncatedChains.RestPair
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.MainNotions.G.ExtremalProjector
 

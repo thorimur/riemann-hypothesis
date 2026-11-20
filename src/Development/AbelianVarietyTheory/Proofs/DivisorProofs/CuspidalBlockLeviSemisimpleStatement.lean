@@ -1,10 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CuspidalBlockLeviSemisimple
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TripSizesSum
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsEquivPiExteriorTensorBlockLevi
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.HasFiniteLengthOfIsIrreducible
-import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.IsSemisimpleRepresentationOfISupRangeEquivariant
 open GlobalTheory.PRep GlobalTheory.SmGL GlobalTheory.CuspBlock
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.cuspidal_block_levi_semisimple : GlobalTheory.Published.BernsteinZelevinskyFiniteness →

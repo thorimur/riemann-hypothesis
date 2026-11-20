@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PotentialTheory.ProjectiveLineFubiniStudyFacts
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StTailLogOfMass
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PTailLogOfMassCharts
 set_option maxSynthPendingDepth 1

@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsOpenPartialHomeomorphAnalytic
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 open Complex Matrix Filter Topology
 open scoped BigOperators Real

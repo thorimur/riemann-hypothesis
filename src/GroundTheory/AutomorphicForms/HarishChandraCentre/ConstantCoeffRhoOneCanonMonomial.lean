@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HarishChandraCentre.MemOfMemSupportToFinsupp
 import GroundTheory.AutomorphicForms.HarishChandraCentre.RhoOneEqZeroOfRhoZeroEqZero
 

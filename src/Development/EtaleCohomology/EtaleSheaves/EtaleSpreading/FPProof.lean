@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.EtaleSpreading.LiftPolys
+import Development.EtaleCohomology.EtaleSheaves.EtaleSpreading.EtSpreadsOf
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 noncomputable section
 open CategoryTheory Limits

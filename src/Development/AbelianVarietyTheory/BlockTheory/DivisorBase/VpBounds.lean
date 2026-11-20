@@ -1,6 +1,7 @@
-import Mathlib
 import Formalism.PairingDivisors.StatementN
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsFinSetSplitPlacesCoprimeConductor
+import Mathlib.NumberTheory.NumberField.CMField
+import Mathlib.NumberTheory.NumberField.ClassNumber
 
 noncomputable section
 

@@ -1,5 +1,7 @@
 import Formalism.GaloisCohomology.LocalTateDualityK
-import GroundTheory.ProfiniteCohomology.LocalTateDuality.TensorHomDualRepRootsOfUnityIsoCartierPairing
+import GroundTheory.ProfiniteCohomology.CupProducts
+import GroundTheory.ProfiniteCohomology.GaloisModules.CoeGalRootsOfUnityHomApply
+import Mathlib.NumberTheory.LocalField.Basic
 
 open CategoryTheory GroundTheory.ProfCoh ReciprocityTheory.Gal ValuativeRel
 

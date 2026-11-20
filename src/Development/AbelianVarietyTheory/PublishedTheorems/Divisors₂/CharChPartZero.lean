@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ConstantOneMemNonvanishing
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsIsoQuotToImOmegaLieOfSplit
-import Development.AbelianVarietyTheory.Definitions.AbelianSchemeLaws.IsScalarTowerOfAlgebraMapEq
+import Mathlib.NumberTheory.Bernoulli
+import Mathlib.NumberTheory.LSeries.RiemannZeta
+import Mathlib.RingTheory.MvPolynomial.Symmetric.FundamentalTheorem
 
 set_option autoImplicit false
 

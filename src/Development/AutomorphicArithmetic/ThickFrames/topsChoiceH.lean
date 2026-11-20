@@ -1,6 +1,4 @@
-import Development.AutomorphicArithmetic.ThickFrames.MarkedLow
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.ThinScalesIffHostBound
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.PairRowIffQdRows
 import Development.AutomorphicArithmetic.ThickFrames.topsBase
 
 open Finset UpperTheory.BernoulliSumsFrobeniusOrbits Formalism.G0

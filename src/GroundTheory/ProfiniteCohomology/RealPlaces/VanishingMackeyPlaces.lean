@@ -1,8 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.VanishingMackey
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.FiniteOpen
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChangeMackey
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.Splitting
 set_option maxSynthPendingDepth 1
 
 noncomputable section

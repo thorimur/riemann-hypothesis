@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsFlagFrame
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FromModelAddStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FromModelNegStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FromModelZeroLogConstantStatement
@@ -8,8 +6,6 @@ import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsNormal
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TangentSectionsOnNormalModelStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FrameCombinationCoeffUnique
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsFrameComposeRingHomBaseChangeStatement
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IoOfLeOneIff
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.JGenSpecializes
 
 set_option autoImplicit false
 

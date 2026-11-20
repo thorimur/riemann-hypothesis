@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.MembershipProofs.DenseHasCompactSupport
 
 noncomputable section

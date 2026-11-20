@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOfValHomEq
 import Development.AbelianVarietyTheory.Proofs.ThetaFamilyOrigin.AppLESurjective
-import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.ExistsSecKIsUnit
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.IsExtensionPullOver
+import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsUnitCharts
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ProdIso
 
 noncomputable section
 

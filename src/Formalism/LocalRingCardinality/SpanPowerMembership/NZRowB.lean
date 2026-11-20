@@ -1,6 +1,4 @@
 import Formalism.LocalRingCardinality.DataAmbForm
-import Formalism.LocalRingCardinality.DataKap
-import Formalism.LocalRingCardinality.DataDIVDefs
 import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowA
 
 noncomputable section

@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.WeilFull
 import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.RaisingLoweringOperators
+import Formalism.LocalToGlobal.IndefiniteReal.FockTheta.UnitBracket
 
 noncomputable section
 

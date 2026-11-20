@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.KummerCompletionNoPrimeTorsion
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.HsCodiscreteNeBot
 open scoped MatrixGroups TensorProduct
 open Matrix GlobalTheory.KZ GlobalTheory.KZ.BettiB
 set_option maxHeartbeats 1000000 in

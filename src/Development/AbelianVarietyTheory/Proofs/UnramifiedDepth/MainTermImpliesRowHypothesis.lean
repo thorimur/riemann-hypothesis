@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.LatticeInclusionFormsInjective
+import Mathlib.RingTheory.MvPowerSeries.Rename
 open Formalism.L2.FormalSeriesBounds
 
 noncomputable section

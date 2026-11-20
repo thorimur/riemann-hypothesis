@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.SchwartzBruhat
 import GroundTheory.GlobalFields.TateThesis.TraceLatticePoisson
 import GroundTheory.GlobalFields.IdeleGroups.ClassGroup

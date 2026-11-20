@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PieriBlockIdeals.LemmaDSkeletonUnit
 
 namespace Formalism.CohomologicalDescent.LC

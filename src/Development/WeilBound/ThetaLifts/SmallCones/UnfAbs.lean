@@ -1,6 +1,6 @@
 import Development.WeilBound.ThetaLifts.SmallCones.RightOfCompact
 import Development.WeilBound.CoreStatements.ThetaDilations.Nuabs
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.UnitaryRationalPointsCountableDiscreteFundDomain
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsFundamentalDomain
 
 open MeasureTheory Topology Set
 open scoped ENNReal NNReal Pointwise

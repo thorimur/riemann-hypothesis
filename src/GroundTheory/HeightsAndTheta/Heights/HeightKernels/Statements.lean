@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KernelsMatrix
 import GroundTheory.HeightsAndTheta.Heights.KernelsLattice
 import GroundTheory.HeightsAndTheta.Heights.KernelsRest
-import ReciprocityTheory.ThetaQuasiPeriods.PeriodLattice
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

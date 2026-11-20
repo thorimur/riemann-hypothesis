@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.SameForm
-import Formalism.LocalToGlobal.Columns.ToHLatLemmas
 
 noncomputable section
 

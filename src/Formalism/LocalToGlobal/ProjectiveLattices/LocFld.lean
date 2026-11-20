@@ -1,4 +1,6 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.IntAllProof
+import Mathlib.NumberTheory.RamificationInertia.Valuation
+import Mathlib.RingTheory.AdicCompletion.Noetherian
 
 set_option autoImplicit false
 

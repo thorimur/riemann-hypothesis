@@ -1,6 +1,6 @@
-import CompanionTheory.AutomorphicTheory.SegmentRepresentations.JacquetShalikaBounds.FormQuasiInvariantMirabolic
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.StrongMultiplicityOne
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsContinuousPadic
+import CompanionTheory.AutomorphicTheory.SegmentRepresentations.JacquetShalikaBounds.CMMul
 
 noncomputable section
 

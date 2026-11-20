@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.Saturated
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.SmoothRep
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

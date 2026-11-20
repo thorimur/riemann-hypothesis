@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.OfNatTrans
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.FaceFaceApply
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.CoeEqAlgebraMapZeroEquiv
+import Development.AbelianVarietyTheory.Definitions.Divisors.CechDeRhamCoefMapOneFormsRestrictAlongFunctor
+import Mathlib.Topology.Sheaves.Presheaf
 
 set_option autoImplicit false
 

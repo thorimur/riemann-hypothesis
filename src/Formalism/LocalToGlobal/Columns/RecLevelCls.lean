@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.Columns.RecLevel
 import Formalism.LocalToGlobal.Columns.CoefColLemmas
+import Formalism.LocalToGlobal.Columns.AdelicLemmas
 
 open NumberField IsDedekindDomain Matrix
 open scoped TensorProduct

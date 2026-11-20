@@ -1,4 +1,6 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.PrimitiveRootFifteenSubOneUnit
+import Mathlib.Analysis.SpecialFunctions.Complex.Circle
+import Mathlib.Tactic.ENatToNat
 
 namespace Formalism.IrreducibleCountingLemmas.Z
 

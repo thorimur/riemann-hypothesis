@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NotTeichTrivOfIsDelta
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsTwLFull
 
 noncomputable section

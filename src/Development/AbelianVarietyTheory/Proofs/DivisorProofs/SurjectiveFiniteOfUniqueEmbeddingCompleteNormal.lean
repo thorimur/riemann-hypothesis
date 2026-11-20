@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsCompleteDvrFiniteSubalgebra
+import Mathlib.Order.CompletePartialOrder
 open IsLocalRing
 
 namespace GlobalTheory.DegreeOne

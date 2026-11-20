@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.AutomorphicTheory.ThetaDilations.BoundedA
 
 open NumberField IsDedekindDomain MeasureTheory Matrix

@@ -1,5 +1,10 @@
 import Formalism.GaussJetBounds.StatementN
 import Formalism.GaussJetBounds.GaussJetProofs.SubstitutionWeightBound
+import Mathlib.Analysis.Normed.Ring.Ultra
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open scoped BigOperators

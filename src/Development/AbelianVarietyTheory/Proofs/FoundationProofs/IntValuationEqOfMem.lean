@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.ThPinsR
 import Formalism.LocalToGlobal.IndefiniteReal.FWExist
-import Formalism.LocalToGlobal.Columns.DecoFin
 import Development.AbelianVarietyTheory.Definitions.Foundations.AbsCharNotUnitary
 
 noncomputable section

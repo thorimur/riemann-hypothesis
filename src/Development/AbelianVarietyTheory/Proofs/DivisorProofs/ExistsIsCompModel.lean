@@ -1,7 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EqOfIsometricTrivShift
 import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsUniqueLiesUnder
-import Development.AbelianVarietyTheory.Definitions.Divisors.EqOfSpecializesOfFinite
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsBaseChange
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.JGenSpecializes
 

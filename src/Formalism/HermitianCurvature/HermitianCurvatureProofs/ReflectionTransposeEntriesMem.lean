@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SumPairAtStarMul
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.AdmissibleRecOfAdmissibleWord
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FrameOfAdmissibleWord
 
 open Matrix MeasureTheory

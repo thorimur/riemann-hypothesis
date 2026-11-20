@@ -1,6 +1,3 @@
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.GrowthBounds.UnramifiedQuadraticSetting
-import Formalism.SharpRestriction.GrowthBounds.DataG
 import Formalism.SharpRestriction.ParConsts
 
 noncomputable section

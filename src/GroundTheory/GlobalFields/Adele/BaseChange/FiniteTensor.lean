@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.Adele.BaseChange.FiniteCoord
+import GroundTheory.GlobalFields.Adele.BaseChange.FiniteMap
 
 namespace GroundTheory.Global
 

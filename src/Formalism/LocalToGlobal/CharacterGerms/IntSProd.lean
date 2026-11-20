@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.ConstantCoeffSinglePointZero
+import Formalism.LocalToGlobal.CharacterGerms.RowTieFB
 
 noncomputable section
 

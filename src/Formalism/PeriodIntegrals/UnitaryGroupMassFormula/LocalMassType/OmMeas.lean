@@ -1,6 +1,7 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassType.ColumnAdditionFixesTranspose
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassOrder.IsTopRingTens
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassType.RightKDef
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassType.StepW
 
 noncomputable section
 

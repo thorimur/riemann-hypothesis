@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.NormResidueSymbol.RationalContinuous
-import GroundTheory.GlobalFields.AnalyticClassNumber.HeckeContinued
+import GroundTheory.GlobalFields.TateThesis.HeckeChar
+import Mathlib.NumberTheory.DirichletCharacter.Bounds
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Global

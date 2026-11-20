@@ -1,5 +1,5 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IsotropicMahlerBounds.LogAbsoluteWedges.LogAbsBasic
+import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IsotropicMahlerBounds.OnlyIsotropic
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
 
 open Matrix PositivityTheory.Rg.BcB PositivityTheory.Rg.BcB.D1
 open Polynomial NumberField

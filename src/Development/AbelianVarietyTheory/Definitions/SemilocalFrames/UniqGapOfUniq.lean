@@ -1,8 +1,6 @@
-import Mathlib
 import CompanionTheory.AutomorphicTheory.PieriRules.ThetaBesselIsometries.IsDSOfIsDG
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLitG
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.SzHypFD
-import Formalism.PeriodIntegrals.BesselMapUniq
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.OnePlaceKF
 
 open MeasureTheory Matrix

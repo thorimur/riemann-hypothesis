@@ -1,5 +1,6 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GelfandTsetlinLowering.ZScalarVanish
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GelfandTsetlinLowering.MultisetProdNormLeOne
+import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
+import Formalism.PeriodIntegrals.GTDefs
 
 noncomputable section
 

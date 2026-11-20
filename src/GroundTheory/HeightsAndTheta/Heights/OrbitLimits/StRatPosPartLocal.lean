@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.RatChartObjects
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StPosPartIndependent
 set_option maxSynthPendingDepth 1

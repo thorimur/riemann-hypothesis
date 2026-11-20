@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.NormSqLeShifted
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ImportsAlt
 

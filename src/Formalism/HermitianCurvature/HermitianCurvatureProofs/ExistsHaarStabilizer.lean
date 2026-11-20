@@ -1,5 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.SupportPhiZeroSubset
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.UnipotentCoordinatesMeasurePreserving
+import Formalism.HermitianCurvature.FiniteOrderIntersectionInSmooth
+import Formalism.HermitianCurvature.StatementU
 
 namespace Formalism.FourierDecayAlt.P.StabilizerDisintegration
 

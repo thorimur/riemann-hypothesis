@@ -1,4 +1,3 @@
-import Formalism.HarderNarasimhan.DegSupermodZ
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.DegSupermodZ
 
 open Module Submodule

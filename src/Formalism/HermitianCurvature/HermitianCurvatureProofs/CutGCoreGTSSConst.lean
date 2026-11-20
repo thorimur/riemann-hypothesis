@@ -1,7 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSTr
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTConnGauge
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGenTransferFn
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.EulerZetaGammaInvIdentity
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSCut
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

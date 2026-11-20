@@ -1,5 +1,4 @@
-import Development.DiscreteGroups.GlobalIrreducibility.ExistsAvgNotMem
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LongElementConjUnipotentRadical
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.WhittakerFunctionalTorusValuationBound
 
 noncomputable section
 

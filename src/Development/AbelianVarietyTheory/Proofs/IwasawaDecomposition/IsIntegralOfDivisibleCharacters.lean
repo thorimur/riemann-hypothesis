@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.AbelianOpenPart.IsOpenPart
 
 open Formalism.MainNotions.DIV.Cons (intO)

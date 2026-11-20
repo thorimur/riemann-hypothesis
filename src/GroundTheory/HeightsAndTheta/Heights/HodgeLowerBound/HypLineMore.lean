@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.ValPolyLineX
 set_option maxSynthPendingDepth 1
 

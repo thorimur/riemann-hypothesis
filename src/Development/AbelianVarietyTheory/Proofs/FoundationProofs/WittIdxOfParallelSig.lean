@@ -1,7 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.WittIndexParallel
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeOfIsotropicSignature
-import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.LandherrAndLandherrSt
 
 noncomputable section
 

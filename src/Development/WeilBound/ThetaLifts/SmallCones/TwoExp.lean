@@ -1,4 +1,5 @@
 import Development.WeilBound.ThetaLifts.SmallCones.KerPol
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsNatMulIntegralOfIsCompact
 
 set_option linter.unusedSectionVars false
 

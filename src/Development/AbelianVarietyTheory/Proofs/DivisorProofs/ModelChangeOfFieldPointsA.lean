@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsLocGrLat
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RegFlagged
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSplitting
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegralityCriterionNormalModel
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithmeticModelFlagHeightFirst
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VectorBundleGluingCocycle

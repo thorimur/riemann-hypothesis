@@ -1,8 +1,7 @@
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.PairRowIffQdRows
-import Development.AutomorphicArithmetic.CharacterBoxes.TwistForm
-import Development.AutomorphicArithmetic.CharacterBoxes.EventuallyRankLeRpowOfLtOneDivFiftytwo
 import Development.AutomorphicArithmetic.MeanSquareBounds.IndUnique
 import Development.AutomorphicArithmetic.MeanSquareBounds.TwistPrim
+import Development.AutomorphicArithmetic.CharacterBoxes.PairGood
 
 open Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.Inhab Formalism.HC GlobalTheory.EX UpperTheory.Top
 

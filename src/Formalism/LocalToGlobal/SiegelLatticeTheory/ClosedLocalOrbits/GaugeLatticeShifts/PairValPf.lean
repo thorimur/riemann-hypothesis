@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.PairVal
 import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellBru
 

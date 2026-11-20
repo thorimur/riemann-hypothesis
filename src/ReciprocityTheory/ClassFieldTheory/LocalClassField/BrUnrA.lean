@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.GroupCohomology.ImportsAlt
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.HSubsingletonOfUniquelyDivisible
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.FinCoh
 

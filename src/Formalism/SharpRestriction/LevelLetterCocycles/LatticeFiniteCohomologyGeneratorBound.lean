@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.ExistsPosConstLagrangeCondition
 import Formalism.SharpRestriction.LevelLetterCocycles.LocalTheoryWindows
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

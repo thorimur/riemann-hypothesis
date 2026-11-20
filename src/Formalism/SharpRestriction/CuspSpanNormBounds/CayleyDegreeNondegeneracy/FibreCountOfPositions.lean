@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.PairsModuloNormFixedQuadruple
+import Formalism.SharpRestriction.CuspSpanNormBounds.IsPrimitiveSub
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

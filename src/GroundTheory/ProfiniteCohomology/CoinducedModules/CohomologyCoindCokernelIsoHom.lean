@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CoinducedModules.Acyclic
 import GroundTheory.ProfiniteCohomology.ContinuousCochains.LongExactSequence
 set_option maxSynthPendingDepth 1

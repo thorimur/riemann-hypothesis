@@ -1,9 +1,9 @@
 import Development.DiscreteGroups.PiInvariants.CompactSupportTwists.CuspPairB
 import Development.DiscreteGroups.PiInvariants.CompactSupportTwists.PiClosT
 import Development.DiscreteGroups.PiInvariants.CompactSupportTwists.IntegrableOfBd
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsFiniteMeasureQuotMeasure
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.CuspRapidDecayGL.CuspRapidDecaySiegelGL
 import Development.WeilBound.RepresentationTheoryGL.ConstantTermFiniteness.LieInvariants.InvariantOfLieOneLEqZero
+import Development.DiscreteGroups.PiInvariants.CompactSupportTwists.CuspPair
 
 set_option linter.all false
 

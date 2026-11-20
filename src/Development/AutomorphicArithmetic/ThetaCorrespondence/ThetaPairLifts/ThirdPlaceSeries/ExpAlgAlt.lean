@@ -1,6 +1,5 @@
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConjRootOfExp
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.RowAtOfRatStep
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsInvOfRoot
 
 set_option synthInstance.maxHeartbeats 200000
 

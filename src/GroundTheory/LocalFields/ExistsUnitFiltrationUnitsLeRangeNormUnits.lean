@@ -1,10 +1,9 @@
-import Mathlib
-import GroundTheory.LocalFields.Interface
 import GroundTheory.LocalFields.Uniqueness
 import GroundTheory.LocalFields.Integers
-import GroundTheory.LocalFields.UnitsBasic
-import GroundTheory.LocalFields.UnitsPowers
 import GroundTheory.LocalFields.ExistsUnitFiltrationUnitsLeAndRangePowLe
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Compactness.CompactlyGeneratedSpace
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

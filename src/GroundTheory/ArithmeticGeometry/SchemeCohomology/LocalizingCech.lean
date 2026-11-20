@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ConsCompSuccAboveZero
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.Cartan
+import Mathlib.RingTheory.WittVector.IsPoly
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

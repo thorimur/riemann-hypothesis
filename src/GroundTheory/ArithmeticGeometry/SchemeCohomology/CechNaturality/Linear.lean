@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.CechSeparated
 set_option maxSynthPendingDepth 1
 

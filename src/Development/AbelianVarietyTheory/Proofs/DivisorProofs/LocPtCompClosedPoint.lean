@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSectionOfChg
-import Formalism.LocalToGlobal.ProjectiveLattices.SatLeaves
 
 set_option autoImplicit false
 

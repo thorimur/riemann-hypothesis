@@ -1,5 +1,6 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChange
+import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalLimits.IsScalarTowerFiniteSubfieldAlgebraicClosure
+import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChangeDefs
+import GroundTheory.ProfiniteCohomology.RestrictedRamification.SUnits
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

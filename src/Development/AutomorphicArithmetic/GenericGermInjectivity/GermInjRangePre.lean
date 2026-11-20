@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.GenericGermInjectivity.CoverGeneric
 import Development.AutomorphicArithmetic.CommutativeAlgebra.FunctionFieldOfFiniteEtaleCover
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.SchemeCechComparisonNaturalRefinementStatement

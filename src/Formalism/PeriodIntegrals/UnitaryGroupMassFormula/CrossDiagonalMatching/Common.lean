@@ -1,6 +1,5 @@
-import Formalism.SharpRestriction.GlobalSchurBounds.IntegralityOfRationalityLocal
-import Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.NaturalTranslateAdelicFunction
-import Formalism.LocalToGlobal.GroupLattices.Joint0
+import Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.StabiliserOfLocalTransport
+import Formalism.LocalToGlobal.GroupLattices.DownNaturalLevelZero
 
 noncomputable section
 

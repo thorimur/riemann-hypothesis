@@ -1,7 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.LiftErrorLocal
-import Formalism.SharpRestriction.Divisibility.ThetaNormsAndLinks
-import Formalism.SharpRestriction.Divisibility.FamilyThetaDenominatorValues
 import Formalism.SharpRestriction.Divisibility.BoundaryLocalData
 import Formalism.SharpRestriction.Divisibility.AdmissibleRank.NoBoundaryComponentOfAbelianAtGenericPoints
 import Formalism.SharpRestriction.Divisibility.ChainOperators.CutDivD

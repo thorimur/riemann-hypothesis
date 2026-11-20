@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementE
 import Formalism.GaussJetBounds.StatementP
 

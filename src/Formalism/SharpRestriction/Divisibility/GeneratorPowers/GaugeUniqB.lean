@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqA
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermFunPf
 
 set_option autoImplicit false
 

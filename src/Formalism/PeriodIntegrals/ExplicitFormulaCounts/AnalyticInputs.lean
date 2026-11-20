@@ -1,9 +1,10 @@
 import Formalism.PeriodIntegrals.DiscIn
 import Formalism.PeriodIntegrals.ZerosWindowIn
-import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.LandauLocal3
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.LGrowth
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.LRight
 import Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.ZetaGrowth
+import Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LogDerivBound
+import Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.ZeroFactor
 
 theorem chk_discFactor : PI.DiscFactor := Formalism.ZF.zeroFactorization
 theorem chk_discLog : PI.DiscLog := fun _ _ _ hf hne => Formalism.ZF.zflb_exists_log hf hne

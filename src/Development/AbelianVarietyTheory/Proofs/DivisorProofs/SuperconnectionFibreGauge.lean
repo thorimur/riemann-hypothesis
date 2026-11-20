@@ -1,9 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConnFormSmul
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HolomorphicConnectionAddSection
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarEqZeroOfHolomorphic
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SuperconnectionContDiffOn
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SuperconnectionSmul
+import Mathlib.Order.CompletePartialOrder
 
 set_option autoImplicit false
 noncomputable section

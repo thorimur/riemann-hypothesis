@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicArithmetic.ThetaCorrespondence.RallisInnerProduct.ExistsCommonLevelSobolevBoundWeilCompact
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.SobContId
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.FockVectorsOverVacuaDenseThetaFunctions
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FockOfVac
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsONBasis

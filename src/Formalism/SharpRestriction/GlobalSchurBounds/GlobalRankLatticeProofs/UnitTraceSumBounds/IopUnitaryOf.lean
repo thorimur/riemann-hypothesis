@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.UnitTraceSumBounds.IdealLattice
-import Formalism.SharpRestriction.GlobalSchurBounds.GL3Theta
 
 open Formalism.MainNotions.TaylorLogMetric Formalism.BasicNotions
 

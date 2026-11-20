@@ -1,5 +1,6 @@
-import Development.WeilBound.RepresentationTheoryGL.HolomorphicDiscreteSeries.WeightOccurrence.OccSome
-import Development.WeilBound.CoreStatements.BranchingTraces.BranchingComatrices.OneLeDiff
+import CompanionTheory.HarishChandraModules.LowKTypeMultiplicity.DiscreteSeriesCharacters.CapelliDeterminantBlockProduct
+import Development.WeilBound.CoreStatements.BranchingTraces.HeBranching
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CapelliAbstractCharacter
 
 noncomputable section
 

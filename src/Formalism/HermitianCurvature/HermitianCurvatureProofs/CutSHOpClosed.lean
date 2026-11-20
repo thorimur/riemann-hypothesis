@@ -1,6 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSH2
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSHFamAlg
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSHFamDeriv
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSHRepLin
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSHCellTie
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSHFamJFDeriv

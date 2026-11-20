@@ -1,6 +1,7 @@
-import Development.WeilBound.ThetaLifts.LocalTheory.IsArchimedeanLocalEquivariantMap
 import Development.WeilBound.ThetaLifts.LocalTheory.DixmierCommutants.ChgApply
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.SplitCharacterFacts
+import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.LmOfLinBar
 
 noncomputable section
 

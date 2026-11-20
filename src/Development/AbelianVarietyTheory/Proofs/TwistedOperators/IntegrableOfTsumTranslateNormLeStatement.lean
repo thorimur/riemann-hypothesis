@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegrableOfTsumTranslateNormLe
-import Mathlib
 open MeasureTheory
 
 set_option maxHeartbeats 1000000 in

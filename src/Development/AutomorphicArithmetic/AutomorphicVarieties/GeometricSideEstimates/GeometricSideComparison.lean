@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.LieGeometryGrowth.ThStmt
+import Mathlib.Combinatorics.Additive.CauchyDavenport
 
 open UpperTheory.V.Lit.Geo
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.HermitianCurvature.FiniteOrderIntersectionInSmooth
+import Mathlib.Tactic.ENatToNat
 
 open Matrix
 

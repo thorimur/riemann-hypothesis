@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.BlockActions.NormBoundOfClasses
+import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ArchimedeanSignatureMatchingOfTrivialBranchingSymm
 
 noncomputable section
 

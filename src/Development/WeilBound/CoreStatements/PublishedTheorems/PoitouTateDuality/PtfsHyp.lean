@@ -1,6 +1,4 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.GelfandSpectralNormalisation.NormalisedInvariants.PTConclAt
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NineTermExactIff
 
 noncomputable section
 

@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsTangent
-import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ArakelovDegreeEqDegreeOfFamily
+import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ConjSymm
 
 set_option autoImplicit false
 

@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SingleMulVecOne
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 
 open Matrix
 

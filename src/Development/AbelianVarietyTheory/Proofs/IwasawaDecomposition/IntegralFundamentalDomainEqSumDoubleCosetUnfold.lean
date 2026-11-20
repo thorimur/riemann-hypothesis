@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.IntegralFundamentalDomainEqSumDoubleCoset
+import Mathlib.Order.CompletePartialOrder
 open MeasureTheory
 open scoped InnerProductSpace
 

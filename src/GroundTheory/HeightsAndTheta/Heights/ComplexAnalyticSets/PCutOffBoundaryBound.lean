@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCutOffBoundaryBound
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCutOffBoundaryParts
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StChartMassCompact
@@ -7,6 +6,8 @@ import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCutOff
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCutOffGradient
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.OsgoodSeparate
 import ReciprocityTheory.AnalyticForms.PotentialTheory.LocDens
+import Mathlib.Analysis.Calculus.FDeriv.Pi
+import Mathlib.Topology.UniformSpace.Uniformizable
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

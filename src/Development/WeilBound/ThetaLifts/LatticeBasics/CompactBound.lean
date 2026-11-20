@@ -1,9 +1,9 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.LatticeBasics.HgtCount
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilTensorModels
 import Development.AbelianVarietyTheory.Definitions.Foundations.T2SpaceAdeleRing
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ModerateGrowthOfHasCompactSupport
 import Development.AutomorphicSpectrum.Proofs.MembershipProofs.ThetaHeisenbergTranslatesSeparate
+import Mathlib.Tactic.PNatToNat
 
 noncomputable section
 

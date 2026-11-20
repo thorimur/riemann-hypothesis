@@ -1,7 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDRInvDefs
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.FiniteSumLocalExpansion
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.IntegrableCsmul
-import Formalism.FormalDegreeBessel.FormalDegreeRatio.CapelliHighestWeightConjugated
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapAInv
 
 open Matrix

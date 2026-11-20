@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.PairingIndexBounds.SplitPairEquations.SplitPairGen
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 open NumberField Matrix

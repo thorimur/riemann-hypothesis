@@ -1,9 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Statements.TowerExistence.GoodTowerExistsX
-import Development.AutomorphicSpectrum.Statements.MetricStatements.ExistsFlagModelBaseMetric
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.RootOnFund
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ContDiffUncentre
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.OmHeightslockG
 import Development.WeilBound.CoreStatements.PluriharmonicCharts.LeMCoordIdealOfTorus
 import Development.WeilBound.CoreStatements.PluriharmonicCharts.EvalFam
 

@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.FaceDSingle
+import Mathlib.Combinatorics.Quiver.ReflQuiver
 
 open CategoryTheory UpperTheory.V.KH
 

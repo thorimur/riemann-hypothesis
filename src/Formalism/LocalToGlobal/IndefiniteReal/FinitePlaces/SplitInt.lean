@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.LatMod
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.TwoSplit
+import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemSplit
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Formalism.WachLatticeTwists.LatticeDualFibres.LatticeDualProofs.PropLoc
 import Formalism.WachLatticeTwists.LatticeDualFibres.LatticeDualProofs.ConnTors
 import Formalism.WachLatticeTwists.LatticeDualFibres.LatticeDualProofs.HOneTorsionFree
 import Formalism.WachLatticeTwists.LatticeDualFibres.LatticeDualProofs.ExistsPowSmulIntegral

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BlowPolSt
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AmpleOnLocalizedModelStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.DomTrans
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FreeClosedHoldsStatement

@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.ElementDenominator
-import Formalism.PeriodIntegrals.ArtSch
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ASWitt
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ASRoot
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.TiltDivisibility

@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.TateTwists.EtaleTensorComplexExistsOfSheafTensorComplex
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC
 open scoped TensorProduct DirectSum

@@ -1,4 +1,7 @@
 import Development.WeilBound.CoreStatements.PublishedTheorems.SmoothVectorEstimates.MirabolicColumnBlock
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Analysis.Matrix.Normed
+import Mathlib.Topology.UniformSpace.Matrix
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.LocalDensities.PFlagWeightLevi
 import GroundTheory.HeightsAndTheta.Heights.LocalDensities.PFlagRootProduct
 import GroundTheory.HeightsAndTheta.Heights.LocalDensities.PDegreeRatio

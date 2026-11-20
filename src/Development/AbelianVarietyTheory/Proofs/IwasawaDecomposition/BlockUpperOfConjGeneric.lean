@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.BlockUpperOfGenericCharacter
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace GlobalTheory
 namespace GenericCharBlockConj

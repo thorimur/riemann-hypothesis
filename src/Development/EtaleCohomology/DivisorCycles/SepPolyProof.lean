@@ -1,4 +1,10 @@
 import Development.EtaleCohomology.DivisorCycles.OpenCoset
+import Mathlib.LinearAlgebra.Matrix.Charpoly.Univ
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.Polynomial.Resultant.Basic
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix Polynomial
 namespace LateralTheory.DivDb.SepPolyProof

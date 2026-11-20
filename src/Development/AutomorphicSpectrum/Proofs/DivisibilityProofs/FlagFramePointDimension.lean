@@ -1,7 +1,7 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.BundleChernComparison
-import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsFlagIndependence
 import Development.WeilBound.CoreStatements.HodgeTatePoints.PflagZ
+import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.GenNumProductExpansion
+import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.HasExpansionOfMemSpan
+import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.HsymmDualRootsTrivNumZero
 
 open MvPolynomial GroundTheory.Heights₂.Heights.NumbersDVR GlobalTheory.CompanionTheory.Ar.Num
 set_option maxHeartbeats 1000000 in

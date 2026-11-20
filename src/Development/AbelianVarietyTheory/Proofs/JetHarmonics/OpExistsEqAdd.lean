@@ -1,10 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.StChartF
-import ReciprocityTheory.DualLattices.ProdDvdOfIso
-import Development.AbelianVarietyTheory.BlockTheory.JetGauges.LieMatrixCoordinates
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.NotIsUnitNatCastOfIsLocalHom
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.DiscriminantGramUnit
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsUniqueMaximalAbovePlace
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.DifferentPowerUnramifiedIff
 
 set_option autoImplicit false

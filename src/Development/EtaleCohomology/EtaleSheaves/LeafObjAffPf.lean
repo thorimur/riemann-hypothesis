@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafObjFPPf
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite TensorProduct

@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.CuspFrameWeights.DiscreteSpectrumKFiniteDecomposition
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdPartialZpow
+import Mathlib.Analysis.Matrix.LDL
 
 open Matrix Finset Formalism.MainNotions.S
 open scoped ComplexOrder

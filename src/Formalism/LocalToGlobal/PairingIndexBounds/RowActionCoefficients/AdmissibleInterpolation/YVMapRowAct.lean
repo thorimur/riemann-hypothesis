@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.PairingIndexBounds.RowActionCoefficients.AdmissibleInterpolation.FinalTheorems
+import Formalism.LocalToGlobal.PairingIndexBounds.RowActionCoefficients.ColHLe
 
 open MvPolynomial
 

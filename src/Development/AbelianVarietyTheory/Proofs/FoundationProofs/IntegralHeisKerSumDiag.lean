@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsPosHermFormV
-import Development.AbelianVarietyTheory.Definitions.SpanningFamilies.IntMIffInt
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.SetIntegralCharImEqZeroStatement
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.SummableExpNegHermStatement
 open Complex MeasureTheory GlobalTheory.UnitaryTheta

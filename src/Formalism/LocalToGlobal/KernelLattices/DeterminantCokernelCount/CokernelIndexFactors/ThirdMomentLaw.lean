@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.DeterminantCokernelCount.CokernelIndexFactors.IdxSmith
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.RingTheory.Henselian
 
 noncomputable section
 

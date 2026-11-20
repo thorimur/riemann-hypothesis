@@ -1,4 +1,4 @@
-import Formalism.LocalRingCardinality.SpanPowerMembership.TwistRecordRowDimensionZero
+import Formalism.LocalRingCardinality.SpanPowerMembership.ClassRecordRowDimensionZero
 
 noncomputable section
 

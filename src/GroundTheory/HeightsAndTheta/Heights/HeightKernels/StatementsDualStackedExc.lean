@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualStackedGraph
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedDegree
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLatticeIndex
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

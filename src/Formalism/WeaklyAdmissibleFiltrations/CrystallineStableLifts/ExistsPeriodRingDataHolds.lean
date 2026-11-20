@@ -1,4 +1,9 @@
 import Formalism.WeaklyAdmissibleFiltrations.CocyclesFunctorial
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.Data.Rat.Star
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

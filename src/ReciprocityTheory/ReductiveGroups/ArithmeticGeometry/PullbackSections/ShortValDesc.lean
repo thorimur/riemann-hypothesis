@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.FullExists
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ThValDescIn
 
 set_option autoImplicit false
 

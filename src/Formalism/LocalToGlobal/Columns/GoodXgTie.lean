@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.GoodXg
-import Formalism.LocalToGlobal.Divisibility.ProjLemmas
 
 open NumberField IsDedekindDomain Polynomial
 

@@ -1,10 +1,13 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeMapAreaOne
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsAreaFormulaInj
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeIntegralMass
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFrameJacobianSum
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.VolumePreservingUncurry
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.MeasureTheory.Measure.Lebesgue.VolumeOfBalls
+import Mathlib.Topology.MetricSpace.HausdorffDimension
 set_option maxSynthPendingDepth 1
 
 noncomputable section

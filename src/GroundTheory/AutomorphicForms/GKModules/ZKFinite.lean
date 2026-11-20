@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GKModules.RightRegular
+import Mathlib.Order.CompletePartialOrder
 
 namespace GroundTheory.Automorphic
 

@@ -1,4 +1,7 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FrameInduction.NegBound
+import Formalism.FormalDegreeBessel.FormalDegreeRatio.ReverseCauchySchwarzHolds
+import Formalism.HermitianCurvature.FiniteOrderIntersectionInSmooth
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.RingTheory.PicardGroup
 
 open Matrix Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.C2
 

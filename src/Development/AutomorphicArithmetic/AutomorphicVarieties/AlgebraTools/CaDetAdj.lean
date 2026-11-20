@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.DetLocus
 
 open IsLocalRing UpperTheory.V.AlgebraTools

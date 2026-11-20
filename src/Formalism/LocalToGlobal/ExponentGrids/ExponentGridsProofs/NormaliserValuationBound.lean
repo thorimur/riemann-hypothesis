@@ -1,9 +1,9 @@
-import Mathlib
-import Formalism.LocalToGlobal.ExponentGrids.SecondComplementColumnExponents
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.SecondComplementParameterBounds
-import Formalism.TranslateCocycles.TranslateCocycleProofs.TranslateScale
-import Formalism.TranslateCocycles.TranslateCocycleProofs.NetGLMapSurjective
-import Formalism.TranslateCocycles.TranslateCocycleProofs.HcBlockSumBounds
+import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ValBasic
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Module NumberField IsDedekindDomain Finset
 open Formalism.DivisionValues (vw conjPl lw PlOver IsConjAt)

@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementJF
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.WordKeyIdentity
 
 open Matrix MeasureTheory Filter Topology

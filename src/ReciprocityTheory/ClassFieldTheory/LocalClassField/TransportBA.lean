@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.TransportDefs
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.ValUnitsG
 import ReciprocityTheory.NeutralLocalFields.LocalFieldComparison.LocalFieldAutomorphisms.ModelC

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.MemTwInv
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

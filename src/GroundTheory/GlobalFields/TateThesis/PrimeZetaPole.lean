@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.DegreeOnePrimes
+import Mathlib.Algebra.Order.Field.GeomSum
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.NumberTheory.NumberField.DedekindZeta
 
 namespace GroundTheory.Global
 

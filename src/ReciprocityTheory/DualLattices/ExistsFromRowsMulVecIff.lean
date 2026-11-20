@@ -1,5 +1,8 @@
-import ReciprocityTheory.DualLattices.LenIdBStatement
-import ReciprocityTheory.DualLattices.UnramifiedCokernelLowerBoundOf
+import Mathlib.Data.Matrix.ColumnRowPartitioned
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
+import ReciprocityTheory.DualLattices.CotangentSurjective
 
 noncomputable section
 

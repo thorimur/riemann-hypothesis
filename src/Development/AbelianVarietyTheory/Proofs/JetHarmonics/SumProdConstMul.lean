@@ -1,11 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Jets.ColValMonomial
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.VRatioGtStatement
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.TwistBC
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.PowerSeriesExpIntegralCanonGaugeAdditiveSecond
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ColValueMulOfDisjointColumns
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ValLeOfMemSpan
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsEigenColumn
+import Mathlib.CategoryTheory.Monoidal.Cartesian.Over
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.ChartChg
 
 set_option autoImplicit false
 

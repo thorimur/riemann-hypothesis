@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.NotZeroChi
-import Development.AbelianVarietyTheory.Definitions.Foundations.ZetaSysUOfHalves
+import Development.AbelianVarietyTheory.Definitions.Foundations.HTLawAt
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.LevOfSymVar
+import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BFDefs
 
 noncomputable section
 

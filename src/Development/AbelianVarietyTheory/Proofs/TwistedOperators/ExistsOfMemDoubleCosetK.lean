@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.LatticeCosetUniformizer
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 
 namespace GlobalTheory.MinusculeCosetsProof
 

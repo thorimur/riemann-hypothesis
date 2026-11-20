@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.LinQRawRange
 import Formalism.SharpRestriction.CuspSpanNormBounds.LocalModelPeriodLattices
 
 noncomputable section

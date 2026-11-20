@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.IdealMulPrincipal
+import Mathlib.NumberTheory.NumberField.ClassNumber
 
 noncomputable section
 

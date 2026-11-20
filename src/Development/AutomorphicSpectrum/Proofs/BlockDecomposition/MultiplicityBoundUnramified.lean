@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.UnramifiedWhittaker.CProps
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CardHermitianMatricesModPow
 

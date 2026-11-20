@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsPowPrincipal
 open NumberField IsDedekindDomain
 

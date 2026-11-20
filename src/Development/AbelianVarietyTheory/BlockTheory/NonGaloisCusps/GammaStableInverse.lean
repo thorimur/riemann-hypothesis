@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.CoboundaryTransfers.Statement
-import Formalism.WeaklyAdmissibleFiltrations.Statement
 import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
 
 noncomputable section

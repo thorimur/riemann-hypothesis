@@ -1,4 +1,5 @@
-import Development.EtaleCohomology.EtaleSheaves.LeafPointTransferCut
+import Development.EtaleCohomology.EtaleSheaves.CupUnitChernKummerLaws
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex GlobalTheory.EtC

@@ -1,4 +1,5 @@
 import Development.DiscreteGroups.GlobalIrreducibility.DzStickValBasic
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

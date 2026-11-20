@@ -1,9 +1,8 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SecondCountableHermC
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TupCoordApply
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousSeminormDiffSLe
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DetConjUnitary
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.PiDens
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 open MeasureTheory
 open GlobalTheory.CompanionTheory.SiegelND.Integ.Arch

@@ -1,4 +1,4 @@
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaloisOfPolarized
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaloisOfRegularForms
 
 noncomputable section
 

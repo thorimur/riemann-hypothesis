@@ -1,5 +1,5 @@
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeasurableToGLEntry
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnipotentLowerRowsLeviSetClosedSubgroupStatement
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
 open MeasureTheory GlobalTheory.JSW
 open scoped FourierTransform ContDiff
 

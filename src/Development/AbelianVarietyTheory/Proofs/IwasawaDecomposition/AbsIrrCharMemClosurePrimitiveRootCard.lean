@@ -1,5 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.GoodXgFin
+import Formalism.LocalToGlobal.Divisibility.GoodPartHermitianSpec
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 open Formalism.L2.DIV
 
 namespace GlobalTheory

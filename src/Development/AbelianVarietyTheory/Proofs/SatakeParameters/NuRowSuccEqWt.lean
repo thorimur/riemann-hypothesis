@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.JetOpIntegral
-import Formalism.LocalToGlobal.Columns.BaseLemmas
 
 noncomputable section
 

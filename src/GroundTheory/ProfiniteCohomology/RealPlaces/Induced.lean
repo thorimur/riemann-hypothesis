@@ -1,10 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.InducedDropOut
 import GroundTheory.ProfiniteCohomology.RealPlaces.ConeMap
-import GroundTheory.ProfiniteCohomology.MackeyFormula
-import GroundTheory.ProfiniteCohomology.MackeyFormula.CompactSupport
 import GroundTheory.ProfiniteCohomology.PoincarePairs.IsDiscreteRepResHomCoindRes
-import GroundTheory.ProfiniteCohomology.CoinducedModules.Acyclic
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

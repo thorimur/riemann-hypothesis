@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.SignAtBasePlaceEqEmbedding
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsSameData
 
 noncomputable section

@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.YcondFactor
+import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.TCoreDef
 
 noncomputable section
 

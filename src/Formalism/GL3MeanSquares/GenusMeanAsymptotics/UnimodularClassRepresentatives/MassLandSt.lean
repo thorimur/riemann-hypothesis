@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassSt
 
 open NumberField Module

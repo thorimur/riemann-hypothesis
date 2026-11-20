@@ -1,5 +1,7 @@
-import Mathlib
 import ReciprocityTheory.NeutralLocalFields.LocalFieldComparison.TendstoPrimeIdealZetaSumUniv
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.MvPolynomial.Symmetric.NewtonIdentities
 
 open Finset MvPolynomial
 

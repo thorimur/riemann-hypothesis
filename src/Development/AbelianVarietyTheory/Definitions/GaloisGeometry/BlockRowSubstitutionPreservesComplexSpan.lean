@@ -1,29 +1,13 @@
-import Mathlib
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypCard
 import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.CompInjLocJ
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.MRatSpanOfRatInv
-import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.LowestInvariantLeDelta
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ProdMemSpan
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LBidetLemmas
-import Formalism.SharpRestriction.GrowthBounds.UnramifiedQuadraticSetting
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CastGLSymmBc
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NatActRVtupR
 import Formalism.LocalToGlobal.GlobalTheory.GL6.ValuationClassTranslateMem
-import Formalism.LocalToGlobal.GroupLattices.FockModels.SwRowGenMonomial
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
-import Formalism.SharpRestriction.GrowthBounds.IntegralWeylLatticeSpan.WeylLatticeDescentHolds
 import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.LiMap
-import Formalism.SharpRestriction.GrowthBounds.ChartComparison.PStabEq
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypVin
-import Formalism.SharpRestriction.GrowthBounds.ChartComparison.LocCore
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypTwA
-import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.ExistsIsCGBases
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypLat
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypChi
-import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.TiedCls
 import Formalism.SharpRestriction.GrowthBounds.ChartComparison.LocTiesOf
 import Formalism.SharpRestriction.GrowthBounds.IntegralWeylLatticeSpan
-import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.ClsChartedLabAt
 
 noncomputable section
 

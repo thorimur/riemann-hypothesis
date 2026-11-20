@@ -1,7 +1,8 @@
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.FrameFacts
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.SplitK
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.ExistsOpenNormalOrderOf
+import Batteries.Data.Nat.Gcd
+import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Orbits
 
 open NumberField IntermediateField Ideal
 open scoped Pointwise

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.CoordTieCompEquiv
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

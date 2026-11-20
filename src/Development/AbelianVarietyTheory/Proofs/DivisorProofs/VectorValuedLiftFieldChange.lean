@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.ThetaValues.LeCovCoeff
-import Formalism.LocalToGlobal.ProjectiveLattices.ThClassPinsRec
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.MemOfForallLocP
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.TensorMapDescent
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.FFVMap

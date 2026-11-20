@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CoeffDetGenericSumMemOfCharpolyCoeffMem
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 open scoped BigOperators
 
 namespace GlobalTheory

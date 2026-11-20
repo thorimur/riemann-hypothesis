@@ -1,5 +1,3 @@
-import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ArakelovDegreeEqDegreeOfFamily
-import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.GramSt
 import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.HadStA
 
 namespace ReciprocityTheory.GeometryOfNumbersTheory

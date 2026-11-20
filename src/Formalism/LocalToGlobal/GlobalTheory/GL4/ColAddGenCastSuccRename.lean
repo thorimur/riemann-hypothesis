@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL4.BranchingLinkFamilyNormalised
 import Formalism.BranchSandwichDivisors.StatementW
+import Formalism.SharpRestriction.GlobalSchurBounds.FlipTwoThree
 
 noncomputable section
 

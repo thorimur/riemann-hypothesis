@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RowsConc
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.ParametersTermRelations
-import Formalism.LocalRingCardinality.DataTies
-import Formalism.SharpRestriction.CuspSpanNormBounds.LocalBesselAndTopKernel
 
 noncomputable section
 

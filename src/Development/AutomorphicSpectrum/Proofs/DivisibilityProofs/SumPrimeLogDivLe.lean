@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PMertensUpper
 
 namespace GlobalTheory.CompanionTheory.Ar.Small

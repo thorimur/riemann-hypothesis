@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.NotZeroChi
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormLeOneOfIsIntegralBis
+import Development.AbelianVarietyTheory.Definitions.Foundations.HTLawAt
 
 noncomputable section
 

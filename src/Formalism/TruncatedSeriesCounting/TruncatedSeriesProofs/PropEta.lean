@@ -1,5 +1,5 @@
-import Formalism.TruncatedSeriesCounting.LemmaDetPoly
 import Formalism.CharacterColumnKernels.IdempotentNormalForms.LengthQuotSmulRangeFree
+import Mathlib.LinearAlgebra.Eigenspace.Basic
 
 open Formalism.NG Formalism.NG.QuotientPowerLengths Formalism.TruncatedSeriesCounting.TruncatedSeriesCountingIdentities Module IsDiscreteValuationRing
 

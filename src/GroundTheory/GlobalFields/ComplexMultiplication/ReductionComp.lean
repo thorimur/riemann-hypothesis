@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.ReductionIsogeny
 
 namespace GroundTheory.Global

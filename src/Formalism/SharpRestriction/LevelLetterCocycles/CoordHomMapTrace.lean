@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.WachCoordinates
-import Formalism.DistinguishedUnitIdeals.FinalArcProps
+import Formalism.DistinguishedUnitIdeals.StatementE
 
 noncomputable section
 

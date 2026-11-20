@@ -1,11 +1,10 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.IsHTAtIff
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsDualBC
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatPar
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.OverZpOfInFibre
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.HTChartExistsHoldsStatement
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeTateChartIntegralStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LieModelExistsUniqueAct
+import Development.AutomorphicSpectrum.Statements.GeometryStatements.HTChartExists
+import Development.AutomorphicSpectrum.Statements.GeometryStatements.IsPolLatticePlane
 
 noncomputable section
 

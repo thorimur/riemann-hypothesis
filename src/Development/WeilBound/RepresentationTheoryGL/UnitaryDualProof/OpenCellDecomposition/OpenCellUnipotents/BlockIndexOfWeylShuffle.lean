@@ -1,5 +1,7 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.OpenCellDecomposition.OpenCellUnipotents.LevZZero
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OpenFns
+import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.BernsteinExponentBounds.IsInvForm
+import GroundTheory.AutomorphicForms.GLnLocal
 
 noncomputable section
 

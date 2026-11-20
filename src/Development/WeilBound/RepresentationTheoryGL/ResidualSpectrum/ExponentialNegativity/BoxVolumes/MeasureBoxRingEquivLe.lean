@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ReductionLocalVolume
 import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.ExponentialNegativity.BoxVolumes.MeasureBoxGLLe
 

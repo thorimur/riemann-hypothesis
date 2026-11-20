@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.BlockProductIsomorphism
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.BlockEmbeddingFactors
+import Mathlib.RepresentationTheory.Maschke
 
 noncomputable section
 

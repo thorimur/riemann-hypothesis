@@ -1,7 +1,7 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.RamifiedCoefficientChains
-import Formalism.JumpKernelCokernel.LengthTheoremsWithEarlier
 import Formalism.EisensteinCokernelLengths.FactorialValuationBounds.LagrangeIdealSgProof
+import Formalism.TruncatedSeriesCounting.EtaDeterminantPolynomialIdentities
+import Mathlib.LinearAlgebra.Lagrange
 
 noncomputable section
 

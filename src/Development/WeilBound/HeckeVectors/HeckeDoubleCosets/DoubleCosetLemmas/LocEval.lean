@@ -1,4 +1,4 @@
-import Development.WeilBound.HeckeVectors.HeckeDoubleCosets.DoubleCosetLemmas.LocLaw
+import Development.WeilBound.HeckeVectors.HeckeDoubleCosets.DoubleCosetLemmas.LocSets
 
 noncomputable section
 

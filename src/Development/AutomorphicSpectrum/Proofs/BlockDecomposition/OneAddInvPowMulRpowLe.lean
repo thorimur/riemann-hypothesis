@@ -1,8 +1,7 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.EisensteinSeries.SiegelEisensteinContinuation.IsEpCont
-import GroundTheory.GlobalFields.TateThesis.TateMain
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousAdeleWeight
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsExtra
+import GroundTheory.GlobalFields.TateThesis.AdelePoissonUniform
 set_option maxSynthPendingDepth 1
 
 namespace GlobalTheory.CompanionTheory.EpConvB

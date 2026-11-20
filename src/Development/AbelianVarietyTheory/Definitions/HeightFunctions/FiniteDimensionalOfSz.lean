@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.SmulCommClassGalIntegers
+import Mathlib.Analysis.SpecialFunctions.Elliptic.Weierstrass
 
 set_option autoImplicit false
 

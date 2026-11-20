@@ -1,7 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.Iwasawa
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.IsCharLab
 import Development.AbelianVarietyTheory.PublishedTheorems.PublishedFoundations.BlockTriangularOfSubOne
+import GroundTheory.AutomorphicForms.GLnLocal
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.TorBasic
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.TorHensel
 

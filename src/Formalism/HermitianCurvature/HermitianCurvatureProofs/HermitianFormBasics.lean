@@ -1,4 +1,7 @@
-import Formalism.HermitianCurvature.FiniteOrderIntersectionInSmooth
+import Formalism.FormalDegreeBessel.StatementG
+import Mathlib.Analysis.Matrix.Spectrum
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Tactic.ENatToNat
 
 open Matrix Formalism.QuantumDeterminants
 open scoped ComplexConjugate

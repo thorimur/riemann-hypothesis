@@ -1,11 +1,7 @@
-import Formalism.SharpRestriction.Divisibility.SlopeExcess.ConstRankBaseLePolyFourth
 import Formalism.SharpRestriction.Divisibility.SlopeExcess.UniformSizeBoundOfOpenFamily
 import Formalism.SharpRestriction.Divisibility.SlopeExcess.HeightBoundOfComponentBounds
-import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLm
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalLinkOfBranchIdentitiesAndMultiplicity
 import Formalism.LocalToGlobal.GlobalTheory.GL4.PStmtFree
-import Formalism.LocalToGlobal.GlobalTheory.GL4.LowerSlopeInequalityFamily
-import Formalism.LocalToGlobal.ThresholdSelection
 import Formalism.LocalToGlobal.ClassOfRecordOfChoice
 
 noncomputable section

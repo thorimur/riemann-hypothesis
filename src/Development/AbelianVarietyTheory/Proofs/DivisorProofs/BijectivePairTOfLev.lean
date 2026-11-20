@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.MapSmulOfIsHausdorff
 
 set_option autoImplicit false

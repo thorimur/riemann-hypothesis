@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.PtfsDefs
 import GroundTheory.ProfiniteCohomology.PoitouTate.PoitouTateNineTermGs
 

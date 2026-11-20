@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.ValuationChoiceHypothesis
 import Formalism.LocalRingCardinality.DataForced
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CyclicSolvable

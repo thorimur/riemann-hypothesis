@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ZariskiSplit
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.TwistingSheaf
+import Mathlib.AlgebraicGeometry.Morphisms.WeaklyEtale
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

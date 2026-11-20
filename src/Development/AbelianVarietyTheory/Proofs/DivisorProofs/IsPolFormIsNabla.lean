@@ -1,8 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IntLatGEqCanLatOfSurjective
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsCrystalPairing
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GroupLiftTangentCompatibility
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCompOfIsFilLift
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbelianDualCrystal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbelianSchemeFirstDeRhamStructure
 

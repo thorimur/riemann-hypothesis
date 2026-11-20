@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CoarseMultiplicityAtIdentity
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SymmetricFamilySpan
+import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.SymInt
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePPTAvg
+import Formalism.LocalToGlobal.CharacterGerms.RowTieDefs
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.DlogRatioVolumeFormNeZero
+import Development.AbelianVarietyTheory.Definitions.Divisors.CupPair
+import Mathlib.RingTheory.SimpleRing.Principal
 open GlobalTheory.PD GlobalTheory.CechDR KaehlerDifferential
 
 set_option autoImplicit false

@@ -1,5 +1,6 @@
 import Development.WeilBound.ThetaLifts.EigenvalueEndgame.SignatureSplitting.Emb2DiaMulVecIncVY
 import Development.WeilBound.ThetaLifts.EigenvalueEndgame.SignatureSplitting.AeFacts
+import Development.WeilBound.ThetaLifts.EigenvalueEndgame.SignatureSplitting.StageSub
 
 noncomputable section
 

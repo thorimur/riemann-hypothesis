@@ -1,5 +1,7 @@
 import Formalism.HermitianCurvature.StatementB
 import Mathlib.Geometry.Manifold.PartitionOfUnity
+import Mathlib.Geometry.Manifold.Sheaf.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Matrix Set Filter Topology
 open scoped Manifold ContDiff

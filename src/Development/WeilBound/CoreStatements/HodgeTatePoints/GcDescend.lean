@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LeadMinor
 import Development.WeilBound.CoreStatements.HodgeTatePoints.DvrOfHeightOne
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 open Module NumberField GlobalTheory.CompanionTheory.Ar.HT TensorProduct
 

@@ -1,9 +1,7 @@
-import Mathlib
-import Formalism.GL3MeanSquares.PrimeCountAsymptoticInProgressions
-import Formalism.GL3MeanSquares.ModelCocycleExponent
-import Formalism.GL3MeanSquares.InverseNormLeOfIntegerInner
-import Formalism.GL3MeanSquares.QuadraticFormLowerBound
-import Formalism.GL3MeanSquares.RationalMatrixPrimeOrderBound
+import Formalism.GL3MeanSquares.SmoothedRemainderRealIntegralFormula
+import Formalism.HermitianLattices.StatementMass
+import Formalism.LogVandermondeBounds.LogRatioLowerBound
+import Mathlib.Combinatorics.Young.SemistandardTableau
 
 open Finset Filter Topology ArithmeticFunction
 

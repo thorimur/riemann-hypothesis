@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.MoriwakiSt
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ExistsSmallOfArVolPPos
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PTopConstantTwist
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PBirationalModelExists

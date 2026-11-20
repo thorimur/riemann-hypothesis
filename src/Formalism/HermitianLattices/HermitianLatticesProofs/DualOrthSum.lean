@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.HermitianLattices.DualOrthSum
-import Formalism.HermitianLattices.HermitianLatticesProofs.DualBasic
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

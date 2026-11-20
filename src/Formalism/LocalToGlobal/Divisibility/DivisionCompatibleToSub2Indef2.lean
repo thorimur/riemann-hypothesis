@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.RowSideTie
 import Formalism.LocalToGlobal.Divisibility.HeckeRI
 

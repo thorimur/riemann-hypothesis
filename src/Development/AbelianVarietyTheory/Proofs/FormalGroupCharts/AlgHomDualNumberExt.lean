@@ -1,6 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsAdicCompleteOfFgOfNatCastMemStatement
 import Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.MvPowerSeriesExistsPolynomialTotalDegreeLeSubMemStatement
+import Mathlib.Algebra.DualNumber
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.MvPowerSeries.Derivative
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.Valuation.Integral
 
 open IsLocalRing TensorProduct
 

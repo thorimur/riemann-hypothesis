@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.DistinguishedUnitIdeals.ExistsConstOfInvariantMod
-import Formalism.DistinguishedUnitIdeals.FrobeniusCoboundedArc
 import Formalism.DistinguishedUnitIdeals.GammaCongruentArcFromStart
 import Formalism.DistinguishedUnitIdeals.PhiFreeOfBasis
 

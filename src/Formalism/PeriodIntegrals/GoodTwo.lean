@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.CMGoodModels.Statement
 import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.TranslateProduct
+import Mathlib.AlgebraicGeometry.EllipticCurve.Weierstrass
 
 noncomputable section
 open scoped ComplexConjugate

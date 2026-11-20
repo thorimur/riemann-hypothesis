@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteForms.IndefSide
 import Formalism.LocalToGlobal.Divisibility.RowLat
 
 open Module NumberField IsDedekindDomain

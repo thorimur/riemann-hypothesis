@@ -1,6 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.DualFockLinear.OpBound
-import Formalism.LocalToGlobal.GroupLattices.FockModels.FlatModels.LetterWtAnti
-import Formalism.LocalToGlobal.GroupLattices.FockModels.TransposeWords.FormCoreSK
+import Formalism.LocalToGlobal.GroupLattices.FockModels.FlatModels.LetterB
+import Formalism.LocalToGlobal.GroupLattices.FockModels.TransposeWords.FockR
 
 open MvPolynomial
 

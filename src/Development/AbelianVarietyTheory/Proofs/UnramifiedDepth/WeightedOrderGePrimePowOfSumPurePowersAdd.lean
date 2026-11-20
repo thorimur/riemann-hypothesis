@@ -1,7 +1,5 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.DetPolyMulCayleyOmegaPow
-import ReciprocityTheory.DualLattices.VEqZeroOfPowEqOne
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.PeriodValuation
+import Mathlib.RingTheory.PiTensorProduct
 open ReciprocityTheory.PGsh
 
 namespace GlobalTheory.WeightFrobenius

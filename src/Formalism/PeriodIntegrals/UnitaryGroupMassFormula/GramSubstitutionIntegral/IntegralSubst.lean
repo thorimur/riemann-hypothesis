@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.FglGram
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.PowerSeriesNormUnits.NormUnitsSubstitution
 

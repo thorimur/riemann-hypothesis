@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AeMeasureSetOfSmulMemEqZero
+import Mathlib.Dynamics.Ergodic.Action.Regular
 open MeasureTheory
 open scoped ENNReal Pointwise
 

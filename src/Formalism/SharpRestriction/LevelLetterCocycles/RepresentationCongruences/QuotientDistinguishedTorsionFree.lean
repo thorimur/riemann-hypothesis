@@ -1,6 +1,3 @@
-import Mathlib.RingTheory.PowerSeries.WeierstrassPreparation
-import Mathlib.RingTheory.DiscreteValuationRing.Basic
-import Mathlib.LinearAlgebra.Basis.Defs
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.CoeffEqZeroOfSumEqZero
 
 namespace Formalism.MainNotions.N.FrobeniusPowerSeries

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.POrbitDegreeRatioLemmas
+import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitDegreeRatio
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

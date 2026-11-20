@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockHarmonicSplitting.FockInnerSelfReNonneg
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

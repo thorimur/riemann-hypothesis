@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.Hypotheses.GalCoh
 import ReciprocityTheory.NeutralLocalFields.LocalFieldComparison.TransportA
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.DecompositionGroupEquivLocalGaloisGroup
 import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohTopEuler

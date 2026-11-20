@@ -1,4 +1,5 @@
 import ReciprocityTheory.NeutralLocalFields.LocalFieldComparison.LocalFieldAutomorphisms.ContinuousGK
+import Mathlib.Algebra.Order.Star.Real
 
 noncomputable section
 

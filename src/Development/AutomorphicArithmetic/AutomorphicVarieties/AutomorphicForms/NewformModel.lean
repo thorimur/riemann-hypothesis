@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.Newform
+import Mathlib.NumberTheory.ModularForms.LevelOne.DimensionFormula
 
 noncomputable section
 

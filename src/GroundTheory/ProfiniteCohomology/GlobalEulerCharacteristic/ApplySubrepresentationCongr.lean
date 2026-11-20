@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.MainCoind
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.PowDefs
 set_option maxSynthPendingDepth 1

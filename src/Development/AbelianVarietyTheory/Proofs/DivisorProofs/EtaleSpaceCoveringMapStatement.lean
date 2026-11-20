@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtaleSpaceCoveringMap
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsOpenGraph
 open GlobalTheory.PrimLift
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.etale_space_covering_map : ∀ {X : Type} [TopologicalSpace X] (P : Set X → (X → ℂ) → Prop),

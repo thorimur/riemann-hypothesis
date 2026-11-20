@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.PropFTop
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.IntersectionFamilyMultilinearStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ArMonoAddSingle
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.MonoLinesLineSmooth
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.NumberField
 open MvPolynomial NumberField Filter Topology ReciprocityTheory.ChartRestriction.G.Geo ReciprocityTheory.ChartRestriction.G.AI.I2 GlobalTheory.CompanionTheory.Ar.Top GlobalTheory.CompanionTheory.Ar.Flat
 
 namespace GlobalTheory.CompanionTheory.Ar.Flat.RootSum

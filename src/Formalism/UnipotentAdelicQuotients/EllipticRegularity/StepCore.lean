@@ -1,5 +1,9 @@
 import Formalism.UnipotentAdelicQuotients.EllRegStep
 import Formalism.UnipotentAdelicQuotients.EllipticRegularity.KernDecay
+import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
+import Mathlib.Analysis.Real.Pi.Bounds
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace ZetaZeros.D.EllReg
 

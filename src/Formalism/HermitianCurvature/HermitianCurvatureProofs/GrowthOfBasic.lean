@@ -4,6 +4,7 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.PullLatticeTypedUni
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PeriodLatticeFactsSplitOfGeneral
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LocalisationScaledIdealMemIff
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TwistedIsRealOrderLattice
+import Mathlib.Analysis.InnerProductSpace.Positive
 
 namespace Formalism.FourierDecayAlt.P.GrowthPolynomialOperator
 

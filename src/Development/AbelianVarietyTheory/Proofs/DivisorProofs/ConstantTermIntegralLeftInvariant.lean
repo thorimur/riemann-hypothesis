@@ -1,7 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.CentralNilGL
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BlkEquivInl
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.LcscAdelicUnitaryGroup
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExpoConjOfIsCsd
+import Mathlib.CategoryTheory.Countable
+import Mathlib.Dynamics.Ergodic.Action.Regular
 open NumberField MeasureTheory GlobalTheory.CuspRep
 
 namespace GlobalTheory.LeviConstTerm

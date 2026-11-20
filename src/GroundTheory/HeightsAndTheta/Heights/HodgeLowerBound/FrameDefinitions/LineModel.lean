@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.LineMu
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.ProjectiveLine
-import GroundTheory.HeightsAndTheta.Heights.Regularisation.PBoundedGlue
 set_option maxSynthPendingDepth 1
 
 noncomputable section

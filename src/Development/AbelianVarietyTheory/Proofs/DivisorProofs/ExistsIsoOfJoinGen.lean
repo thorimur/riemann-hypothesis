@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsPrimitiveValueOfRingElementPsiRelation
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsGenOfIso
 
 noncomputable section
 

@@ -1,8 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsChartIbpSteps
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ChartCutoffParts
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartEnergyIntegrable
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PHermFormCompare
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

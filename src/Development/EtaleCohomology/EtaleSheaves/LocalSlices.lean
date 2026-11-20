@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafLocPf
+import Mathlib.Algebra.Homology.Embedding.ExtendHomotopy
+import Mathlib.CategoryTheory.Preadditive.Injective.Preserves
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.E4 HomologicalComplex

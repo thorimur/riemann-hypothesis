@@ -1,9 +1,5 @@
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.TermDef
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.FourParts
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.Corank
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GGMirabolic
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.PairVal
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.Saturated
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.DCRelEquiv
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.TermCarrierStable
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.TermAttrConst
@@ -12,13 +8,8 @@ import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.InSClassConst
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.InSRelevant
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PairCorankPos
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ScalEquivGen
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ScalarEquivalenceHermitianSpace
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.BetaModX
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ScalRelRepFree
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ScalarPairDr
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGCardUni
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGConvScalar
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGGenRatio
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGMatBound
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGMirBound
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WhitFunctDual
@@ -26,6 +17,7 @@ import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.CdHaarScale
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SplitRow
 import Formalism.PeriodIntegrals.ExplicitFormulaCounts.BetaIndep
 import Formalism.PadicSubsetSums.StableGradedCounts.MemBesselSetZeroIffUpperTriangular
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GenericRatioBound.GenericRatioOfBound
 
 open Formalism.BasicNotions Formalism.MainNotions.S
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TensorProductTheorem.Window
 
 noncomputable section

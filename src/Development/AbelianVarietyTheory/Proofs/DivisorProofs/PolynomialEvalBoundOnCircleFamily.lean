@@ -1,5 +1,13 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsRootMapMinpolyIffExistsRingHomExtensionStatement
+import Mathlib.Algebra.MvPolynomial.Division
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.Complex.AbsMax
+import Mathlib.LinearAlgebra.Charpoly.Basic
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace GlobalTheory
 

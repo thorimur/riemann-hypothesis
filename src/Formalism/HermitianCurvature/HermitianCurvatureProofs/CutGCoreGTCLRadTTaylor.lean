@@ -1,4 +1,8 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTCut
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open scoped ContDiff
 

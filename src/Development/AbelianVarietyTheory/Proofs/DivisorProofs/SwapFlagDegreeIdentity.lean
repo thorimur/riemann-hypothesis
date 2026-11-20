@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsometricCombEquiv
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagVarietyGradedLinesIsometricStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericDegreeEqFlagDegreeStatement

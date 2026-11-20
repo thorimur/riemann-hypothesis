@@ -1,5 +1,6 @@
-import Formalism.WachLatticeTwists.CoprimeLiftBounds.StatBridgeChiOne
-import ReciprocityTheory.ReductiveGroups.TraceFormulas.LatDefs
+import Formalism.WachLatticeTwists.CoprimeLiftBounds.Statement
+import Mathlib.NumberTheory.NumberField.ClassNumber
+import ReciprocityTheory.GaloisValuations.Global
 
 open Formalism.NG
 open Formalism.RepresentationBoundsCohomology.BR

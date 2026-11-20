@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.PMaxOscillation
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.PMollifierLowerBound
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.PChartComparison

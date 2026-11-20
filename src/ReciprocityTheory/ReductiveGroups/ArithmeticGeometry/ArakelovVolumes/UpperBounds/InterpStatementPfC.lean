@@ -1,6 +1,4 @@
 import ReciprocityTheory.L2DbarEstimates.NormFibrations.Hormander
-import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.ChartSymmEventuallyEq
-import ReciprocityTheory.L2DbarEstimates.LeviForms.EventuallyDifferentiableAtOfContDiffAt
 
 namespace ReciprocityTheory.ChartRestriction.G.AR.Up.HE
 

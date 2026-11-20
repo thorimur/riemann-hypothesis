@@ -1,8 +1,7 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.SSmooth
-import GroundTheory.GlobalFields.TateThesis.TateThetaDecay
-import GroundTheory.GlobalFields.TateThesis.AdelePoissonUniform
 import GroundTheory.GlobalFields.TateThesis.GlobalZetaFinite
 import GroundTheory.GlobalFields.TateThesis.EulerFactorsInfinite
+import GroundTheory.GlobalFields.TateThesis.SchwartzBruhat
 
 noncomputable section
 

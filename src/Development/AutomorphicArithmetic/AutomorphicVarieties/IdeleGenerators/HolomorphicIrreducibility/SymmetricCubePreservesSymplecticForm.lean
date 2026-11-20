@@ -1,4 +1,6 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.ShapeFacts
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Analysis.Normed.Ring.Ultra
+import Mathlib.Tactic.ReduceModChar
 
 open Polynomial UpperTheory.V.Af Formalism.ConjugateSelfDual
 open scoped Matrix

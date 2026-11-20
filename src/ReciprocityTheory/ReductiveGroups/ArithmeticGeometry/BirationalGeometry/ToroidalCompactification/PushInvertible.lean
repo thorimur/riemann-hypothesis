@@ -1,4 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.TwoWeightEqOneAddRoot
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

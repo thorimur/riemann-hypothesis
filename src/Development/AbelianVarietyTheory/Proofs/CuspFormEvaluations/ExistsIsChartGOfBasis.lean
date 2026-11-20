@@ -1,6 +1,6 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.IntChartCut
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsPtJ
+import Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.ExistsIsUnivChartOfIsLieBasis
+import Formalism.LocalToGlobal.ProjectiveLattices.IsChartIff
 
 noncomputable section
 

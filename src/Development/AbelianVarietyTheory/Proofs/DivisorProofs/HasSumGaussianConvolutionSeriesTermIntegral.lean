@@ -1,5 +1,12 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PowForm
+import Mathlib.Analysis.Complex.OperatorNorm
+import Mathlib.Analysis.Distribution.SchwartzSpace.Basic
+import Mathlib.Analysis.SpecialFunctions.Gaussian.FourierTransform
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 open MeasureTheory Filter Topology
 
 noncomputable section

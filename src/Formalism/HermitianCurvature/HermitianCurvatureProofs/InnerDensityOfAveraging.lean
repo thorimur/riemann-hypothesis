@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.LemmaDensOfSteps
+import Mathlib.Tactic.ENatToNat
 
 open Matrix
 

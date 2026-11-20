@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.SubOfNonNil
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HkMemFixed
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinsumOutTranslate
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsSmulEqOnFinset

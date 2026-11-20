@@ -6,6 +6,7 @@ import Development.AbelianVarietyTheory.Proofs.SatakeParameters.MongeAmpereChart
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.MonodromyVanishesWeilTwistIff
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSphericalOfHasSatGL
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsEmbeddingProdIrrSupport
+import Development.AbelianVarietyTheory.Proofs.SatakeParameters.HeckeCharLocalComponentExistsUniqueUnitary
 
 noncomputable section
 

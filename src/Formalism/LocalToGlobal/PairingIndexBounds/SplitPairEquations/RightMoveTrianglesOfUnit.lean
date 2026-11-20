@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.PairingIndexBounds.SplitPairEquations.EqPOf
 import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.SelfDualCovolume
+import Formalism.LocalToGlobal.PairingIndexBounds.SplitPairEquations.NormOneUnitIdealAlt
 
 noncomputable section
 open NumberField Formalism.BasicNotions Classical

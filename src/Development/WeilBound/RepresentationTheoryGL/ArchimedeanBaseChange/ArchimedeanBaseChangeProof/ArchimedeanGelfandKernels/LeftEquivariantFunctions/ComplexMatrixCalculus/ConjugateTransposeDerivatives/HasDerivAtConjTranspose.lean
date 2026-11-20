@@ -1,5 +1,6 @@
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.LeftEquivariantFunctions.ComplexMatrixCalculus.ConjugateTransposeDerivatives.CfSandwich
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContDiffAdjugateEntry
+import Mathlib.Analysis.Calculus.Deriv.Star
 
 noncomputable section
 

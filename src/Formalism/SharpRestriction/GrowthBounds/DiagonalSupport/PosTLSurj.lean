@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.SlackBoundReal
+import Formalism.SharpRestriction.GrowthBounds.PathWeight.PhProdShift
 
 noncomputable section
 

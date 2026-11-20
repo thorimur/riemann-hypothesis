@@ -1,6 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.PlacesOverU
 import Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ThreeNeSqAddSq
+import Mathlib.Algebra.Azumaya.Basic
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.NumberTheory.NumberField.Cyclotomic.Basic
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

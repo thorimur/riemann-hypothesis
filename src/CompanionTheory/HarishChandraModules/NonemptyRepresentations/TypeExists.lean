@@ -1,6 +1,6 @@
 import CompanionTheory.HarishChandraModules.NonemptyRepresentations.HWRepD
-import CompanionTheory.HarishChandraModules.NonemptyRepresentations.TypeHW
 import CompanionTheory.HarishChandraModules.NonemptyRepresentations.ExpEntry
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.FrameCompletion
 
 open Matrix
 

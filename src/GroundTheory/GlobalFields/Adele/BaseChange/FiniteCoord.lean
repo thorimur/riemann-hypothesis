@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.GlobalFields.Adele.BaseChange.FiniteMap
+import GroundTheory.GlobalFields.CompletionAtPlace.Integers
+import GroundTheory.GlobalFields.SemilocalAlgebras.NormTrace
 
 namespace GroundTheory.Global
 

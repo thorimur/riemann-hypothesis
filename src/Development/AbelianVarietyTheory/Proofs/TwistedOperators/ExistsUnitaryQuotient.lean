@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.SchurIrreducible
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.SameBlockOfPosC
+import Formalism.LocalRingCardinality.DataTheta
 
 open Formalism.BasicNotions.TH Formalism.MainNotions.SchurIrreducible
 

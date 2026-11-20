@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.ColumnStabiliser
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.TrivialColumnStabiliser
 

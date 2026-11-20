@@ -1,5 +1,11 @@
 import Formalism.PeriodIntegrals.NormGramAtOrigin
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrthogonalFamilyExistence.ExistsOrthFamily
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 private lemma hform_add_right_orbital_bounds_conclusion {E : Type} [Field E] (σ : E →+* E) {n : ℕ}
     (J : Matrix (Fin n) (Fin n) E) (x y z : Fin n → E) :

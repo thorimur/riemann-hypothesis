@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.AnalyticClassNumber.DirichletHecke
 set_option maxSynthPendingDepth 1
 

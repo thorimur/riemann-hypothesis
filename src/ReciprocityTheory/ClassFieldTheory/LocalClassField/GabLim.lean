@@ -1,6 +1,4 @@
-import Mathlib
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecDefs
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.GalBasic
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.ExistsDvdQKPowSubOne
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField

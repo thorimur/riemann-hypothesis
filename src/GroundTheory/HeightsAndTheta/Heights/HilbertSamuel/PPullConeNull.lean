@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsPullConeNull
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.GenericComplexPoint
 set_option maxSynthPendingDepth 1

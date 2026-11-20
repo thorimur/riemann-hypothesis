@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.SiegelReframe
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodMapFlatDerivativeStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WedgePowerEqFactorialDetStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumePeriodTorusEqDetImaginaryStatement

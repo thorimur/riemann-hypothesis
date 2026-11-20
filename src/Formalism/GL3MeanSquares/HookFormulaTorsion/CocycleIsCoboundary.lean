@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.GL3MeanSquares.InvariantSeriesBidegreeOneOne
-import Formalism.FormalGroupWitt.WeightInvariance
-import Formalism.TorsionNormIteration.LubinTateExample
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.HermitianLattices.IntegralLatticeDensity
 

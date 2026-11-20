@@ -1,6 +1,5 @@
-import Mathlib
-import ReciprocityTheory.CommutativeAlgebra.CohenMacaulay.ModDepthGE
 import ReciprocityTheory.CommutativeAlgebra.CohenMacaulay.ExistsIsRegularAppendOfModDepthGE
+import Mathlib.RingTheory.Etale.Weakly
 open IsLocalRing TensorProduct Pointwise
 
 namespace GlobalTheory

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.ACrisBdRGalois
 import GroundTheory.PAdicHodge.BdRTGalois
 set_option maxSynthPendingDepth 1

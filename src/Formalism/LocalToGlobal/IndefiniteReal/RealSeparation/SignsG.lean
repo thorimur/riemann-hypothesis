@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
-import Formalism.LocalToGlobal.HeckeThetaElements.IsHeckeElt
 
 noncomputable section
 

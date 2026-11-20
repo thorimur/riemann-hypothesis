@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KmapEq
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.DecoratedLatticePointMoveDiamond
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LatAtLattice
 
 noncomputable section
 

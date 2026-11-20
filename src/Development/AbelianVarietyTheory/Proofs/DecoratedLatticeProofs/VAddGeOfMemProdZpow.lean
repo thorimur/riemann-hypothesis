@@ -1,5 +1,9 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataForms
+import Formalism.LocalRingCardinality.DataArith
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 open Formalism.BasicNotions NumberField IsDedekindDomain
 open scoped nonZeroDivisors

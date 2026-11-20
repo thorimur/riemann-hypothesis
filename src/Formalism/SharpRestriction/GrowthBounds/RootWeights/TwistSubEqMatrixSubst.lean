@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.ObjPol
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

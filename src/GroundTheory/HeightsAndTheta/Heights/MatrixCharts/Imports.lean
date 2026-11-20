@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PAnalyticDerivBound
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PChartBounds
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PChartFrameDeriv
@@ -40,8 +39,6 @@ import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PPivotLast
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PPivotProductBound
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PSchurDetBound
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PUnimodularLast
-import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.HermValueIsLeast
-import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.Period
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

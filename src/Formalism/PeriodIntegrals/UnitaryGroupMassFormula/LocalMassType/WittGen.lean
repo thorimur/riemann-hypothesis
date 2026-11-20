@@ -1,7 +1,4 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassType.WProof
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassType.TransitiveOverLocalRings
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassType.SaturatedSplitLattice
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassType.IdxStep
 
 noncomputable section
 

@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutLimENF
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.cut_PtwCut
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaCutoffLimit
 
 namespace Formalism.FourierDecayAlt.P.CutBP
 

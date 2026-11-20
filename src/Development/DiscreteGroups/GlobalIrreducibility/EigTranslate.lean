@@ -1,5 +1,9 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.DzCliff
+import Mathlib.LinearAlgebra.Charpoly.ToMatrix
+import Mathlib.LinearAlgebra.Eigenspace.Pi
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Module Polynomial
 

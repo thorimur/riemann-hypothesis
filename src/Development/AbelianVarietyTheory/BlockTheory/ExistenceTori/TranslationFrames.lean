@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ThetaVV
+import Mathlib.AlgebraicGeometry.Morphisms.Etale
 
 set_option autoImplicit false
 

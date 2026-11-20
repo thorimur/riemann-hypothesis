@@ -1,6 +1,7 @@
 import Formalism.WachLatticeTwists.CharacterSplitJumps.CharacterJumpProofs.MemAnnih
-import Formalism.WachLatticeTwists.HodgeTateChains.CorrectedHypothesisWConsequences
-import Formalism.WachLatticeTwists.LatticeDualFibres.PropLocContOfLattices
+import Formalism.WachLatticeTwists.CharacterSplitJumps.Statement
+import Formalism.WachLatticeTwists.LatticeDualFibres.LatticeDualProofs.PropLoc
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Classical
 

@@ -1,9 +1,8 @@
-import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.NuOfWtPQCast
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudA
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudB
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudC
-import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudIso
+import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.TheoremIOfLatticeFunctorComparison
 
 namespace Formalism.MainNotions.flipOneThree.Pf
 

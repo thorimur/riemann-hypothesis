@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.RealTrOfAll
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryExistsSkewLog
 

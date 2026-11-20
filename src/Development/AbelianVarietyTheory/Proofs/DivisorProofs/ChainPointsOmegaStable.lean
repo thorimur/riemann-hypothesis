@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.GrNormCompCast
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChainPointsReadLie
 
 set_option autoImplicit false

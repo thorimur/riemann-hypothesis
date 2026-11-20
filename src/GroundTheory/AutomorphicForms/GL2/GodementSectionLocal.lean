@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.LocalFields.LocalZeta
 import GroundTheory.AutomorphicForms.GLnLocal
+import GroundTheory.LocalFields.LocalZetaIntegral
+import GroundTheory.LocalFields.PadicLogHom
 
 open MeasureTheory Matrix Filter Topology
 open scoped NNReal ValuativeRel

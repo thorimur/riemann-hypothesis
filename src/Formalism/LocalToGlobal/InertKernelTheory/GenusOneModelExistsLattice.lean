@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.InertKernelTheory.StatementBe
-import Formalism.LocalToGlobal.InertKernelTheory.DefsSigma
 
 noncomputable section
 

@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.WeilGroupCharacters.Inertia
+import Mathlib.NumberTheory.Padics.MahlerBasis
 
 open IsLocalRing UpperTheory.V.Alg UpperTheory.V.W
 

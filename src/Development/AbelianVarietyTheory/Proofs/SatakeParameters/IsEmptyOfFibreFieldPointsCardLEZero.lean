@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.FibrePointsLEId
 open CategoryTheory Limits AlgebraicGeometry
 

@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapAVTr
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapARep
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDACapToda
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapAInv
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDACapTodaV
 

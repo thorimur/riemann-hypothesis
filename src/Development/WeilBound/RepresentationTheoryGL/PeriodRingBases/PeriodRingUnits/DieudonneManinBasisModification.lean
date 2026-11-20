@@ -1,7 +1,6 @@
 import Development.WeilBound.CoreStatements.AutomorphicKernels.DeRhamPotentiallySemistable.DeRhamTwists.ContinuousCyclotomicCharacter
-import GroundTheory.PAdicHodge.WAKummer
-import GroundTheory.PAdicHodge.FundamentalSeq
-import GroundTheory.PAdicHodge.SenTateCharClosure
+import Development.WeilBound.CoreStatements.AutomorphicKernels.DeRhamPotentiallySemistable.DeRhamPlusCondition.IsDRPlus
+import GroundTheory.PAdicHodge.WAKummerEps
 
 noncomputable section
 

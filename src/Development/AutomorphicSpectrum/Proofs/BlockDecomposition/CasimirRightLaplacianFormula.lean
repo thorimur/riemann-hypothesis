@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.Rr
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FderivZeroApply
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RdSkewEqConst
 open MeasureTheory Matrix Finset

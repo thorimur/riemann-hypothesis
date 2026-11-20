@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.EigenOfTwoStep
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ModularTowerMemAdjoinJOfSlTwoIntInvariant
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.GammaLeKer
+import Mathlib.Order.CompletePartialOrder
 
 open scoped MatrixGroups TensorProduct
 open Matrix GlobalTheory.KZ

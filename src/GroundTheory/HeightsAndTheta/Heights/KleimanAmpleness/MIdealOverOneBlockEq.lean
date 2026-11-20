@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OneBlockPnPt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemMIdealOverIff
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ChartRingOverOneBlockEqChartRing

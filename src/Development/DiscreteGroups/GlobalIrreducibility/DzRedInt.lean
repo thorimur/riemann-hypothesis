@@ -1,7 +1,4 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.DzIsoKO
-import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.ValuationDetOfMemKO
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.HasExponentZeroIff
 
 noncomputable section
 

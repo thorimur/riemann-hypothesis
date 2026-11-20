@@ -1,9 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StPtsSheetOnlyNull
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StCriticalFibreInfinite
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSheetOnlyNull
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSheet
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterGood
+import Mathlib.Analysis.Calculus.InverseFunctionTheorem.ContDiff
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterFib
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSheetB
 set_option maxSynthPendingDepth 1
 
 noncomputable section

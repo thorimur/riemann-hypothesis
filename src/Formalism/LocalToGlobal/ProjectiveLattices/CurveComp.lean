@@ -1,5 +1,6 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.CurveInstSt
-import Formalism.LocalToGlobal.ProjectiveLattices.CurveFr
+import Formalism.LocalToGlobal.ProjectiveLattices.HasDataCondition
+import Formalism.LocalToGlobal.ProjectiveLattices.IsGenFrGenFr
+import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.RestrictionEqZeroIffMemVanishingFiltration
 
 noncomputable section
 

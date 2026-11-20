@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.EqOfFiniteOfClosedFibres
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsValuesLineFibre
 

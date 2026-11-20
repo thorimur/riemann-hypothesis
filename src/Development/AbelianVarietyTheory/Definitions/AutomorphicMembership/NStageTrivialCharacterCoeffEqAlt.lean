@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.UnitaryNorms.CharTied
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AssembleLattice
 
 noncomputable section
 

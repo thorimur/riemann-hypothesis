@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.SHExistsPf
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 open CategoryTheory Limits LateralTheory.E.t_E3Cut

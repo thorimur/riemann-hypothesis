@@ -1,5 +1,11 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.LocDensSAChar
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Module.LinearMap.Rat
+import Mathlib.RingTheory.DedekindDomain.Different
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

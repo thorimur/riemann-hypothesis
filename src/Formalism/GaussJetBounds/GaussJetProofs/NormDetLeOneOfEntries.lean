@@ -1,5 +1,6 @@
-import Formalism.GaussJetBounds.GenLogInverse
 import Formalism.GaussJetBounds.StatementD
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 open scoped BigOperators

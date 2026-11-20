@@ -1,6 +1,15 @@
-import Mathlib
 import Formalism.DropLevelBounds.Statement
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WtAddSingle
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Data.Finsupp.Pointwise
+import Mathlib.NumberTheory.Wilson
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.MvPowerSeries.Order
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 open Formalism.UnitaryBoundIntegral Formalism.IncomingBounds ReciprocityTheory.PGsh
 open scoped BigOperators
 

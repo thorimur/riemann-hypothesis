@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.ACrisBdRGalois
 import GroundTheory.PAdicHodge.BdRTGalois
 import GroundTheory.PAdicHodge.BdRField

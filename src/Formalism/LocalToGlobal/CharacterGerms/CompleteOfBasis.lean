@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTieUpFBrPl
 import Lemmata.MiscLemmasH.Imports
+import Mathlib.Tactic.Polynomial.Basic
 
 set_option autoImplicit false
 

@@ -1,13 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NabBaseChange
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.TransportedLatticeLocalizationFreeLeCoefficientS
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.NablaDeltaOperatorLatticePreserved
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.TensorLatSpan
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.SpanMapNabKDelK
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsSmulMemOfLeLocP
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.TensorMapDescent
 import Formalism.LocalToGlobal.Columns.CoefModAt
-import Formalism.LocalToGlobal.Columns.CoefficientsModP
 
 open NumberField IsDedekindDomain Formalism.L2.DIV Formalism.BasicNotions MvPolynomial
 open scoped Matrix

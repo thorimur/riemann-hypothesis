@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeProjHyperplaneDim
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StatementsArea
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeProjHyperplaneNull
 set_option maxSynthPendingDepth 1
 
 noncomputable section

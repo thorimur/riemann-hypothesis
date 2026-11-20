@@ -1,6 +1,10 @@
-import Mathlib
 import Formalism.MirabolicMackeyTheory.StatementT
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ValBasic
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace Formalism.EigenvalueLevelCeiling
 

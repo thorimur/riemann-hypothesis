@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StListTailLog
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StBoundingKaehler
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.TailDimZero

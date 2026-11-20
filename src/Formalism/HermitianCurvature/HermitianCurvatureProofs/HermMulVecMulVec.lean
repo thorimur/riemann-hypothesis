@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.CompositeFormulaLevelZero
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.HasFDerivAtFsvSelf
 
 open Matrix MeasureTheory Filter Topology
 open scoped InnerProductSpace ComplexConjugate ComplexOrder ContDiff

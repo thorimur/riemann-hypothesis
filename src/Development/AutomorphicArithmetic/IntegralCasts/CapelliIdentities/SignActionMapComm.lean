@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataSpaces
-import Formalism.SatakeDualWeyl.Statement
 import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
 
 theorem UpperTheory.Reformulated.B.Qk24.aux2 :

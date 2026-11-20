@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MemBallOfGaugeLt
+import Mathlib.Algebra.Order.Star.Real
 
 open scoped NNReal
 

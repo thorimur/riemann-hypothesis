@@ -1,5 +1,4 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.CJDefs
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.NontrivialOfIrreducible
 
 noncomputable section
 

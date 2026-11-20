@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PHypPairExists
 import GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PAETopologicalRing
 import GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PEDenseInAE

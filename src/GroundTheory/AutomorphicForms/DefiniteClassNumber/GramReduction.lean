@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.DefiniteClassNumber.Reduction
 
 noncomputable section

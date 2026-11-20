@@ -1,9 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseCupCone
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseCupKummer
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseClass
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.MkFiniteEmbeddingGlobalUniformizer
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.SurjectiveOfInjectiveOfInjective
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

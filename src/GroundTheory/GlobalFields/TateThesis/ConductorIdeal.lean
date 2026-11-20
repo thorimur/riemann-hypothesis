@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.Conductor
 
 open Topology Filter NumberField IsDedekindDomain Function

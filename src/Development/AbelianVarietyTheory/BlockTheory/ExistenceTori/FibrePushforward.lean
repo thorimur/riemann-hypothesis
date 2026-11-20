@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.IsLevMove
 import Formalism.LocalToGlobal.ProjectiveLattices.HeckeStabSet
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.HeckeKer
+import Formalism.LocalToGlobal.ProjectiveLattices.IsCombAt
 
 noncomputable section
 

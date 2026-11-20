@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.ChainInstY
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ThDistC
 
 open NumberField IsDedekindDomain
 

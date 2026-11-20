@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.SIdeleGroups.IntegerUnits
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleCohomology.Finite
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleCohomology.Unramified

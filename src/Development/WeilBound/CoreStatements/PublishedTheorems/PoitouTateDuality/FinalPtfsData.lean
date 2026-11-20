@@ -1,9 +1,7 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.PtfsDefs
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.PtfsGsEquiv
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.PtfsLocal
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.PtfsRep
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.PtfsDualPf
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import GroundTheory.ProfiniteCohomology.PoincareDuality.NsmulEqZeroOfNonemptyAddEquiv
+import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseDefs
+import ReciprocityTheory.Hypotheses.GalCoh
 
 noncomputable section
 

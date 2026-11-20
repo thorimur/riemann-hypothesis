@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BlowPolSt
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkIdComapOfAffine
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.BlowupPolarizationAmpleStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.BlowupPolarizationDegreeStatement
 open AlgebraicGeometry CategoryTheory Limits NumberField IsLocalRing TopologicalSpace

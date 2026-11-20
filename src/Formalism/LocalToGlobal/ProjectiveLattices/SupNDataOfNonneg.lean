@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.CompHt
 import Formalism.LocalToGlobal.ProjectiveLattices.EtArch
+import Formalism.LocalToGlobal.ProjectiveLattices.Adm3OfExtension
 
 noncomputable section
 

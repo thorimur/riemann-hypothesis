@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.HaarTransfer.Unimod
 
 namespace Formalism.IndefR.Leaf.Proofs

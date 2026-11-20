@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.IsInfUnitary
 
 noncomputable section

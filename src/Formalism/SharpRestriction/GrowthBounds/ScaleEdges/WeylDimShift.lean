@@ -1,7 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeFamOf
-import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.RankMulConductorDivLeOne
-import Formalism.PolynomialDimension.FinalNum
 import Formalism.PolynomialDimension.MultinomialDepth.FrameMultinomialBoundHolds
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

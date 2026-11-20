@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.IsSmoothHermFubiniStudyO1
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsExtraBis
 set_option maxSynthPendingDepth 1
 

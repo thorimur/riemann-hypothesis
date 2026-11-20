@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemOfMapMemSpanIntegralClosure
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VectorBundleSectionsFiniteProjectiveStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CrdInjective

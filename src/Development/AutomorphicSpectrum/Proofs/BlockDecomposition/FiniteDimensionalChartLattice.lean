@@ -1,13 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsNefSectionsAsymptotic
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsShiftSectionBound
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFujitaOne
-import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.Imports
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.KleimanNefness.AmpleSt
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ArithmeticHilbertSamuelLowerBound
-import Development.AutomorphicSpectrum.PublishedTheorems.Geometry₂.NefRR
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PChartLatQCech
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PQuotPartGraded
 import Development.WeilBound.CoreStatements.HodgeTatePoints.A12
 
 open MvPolynomial ReciprocityTheory.ChartRestriction.G.Geo ReciprocityTheory.ChartRestriction.G.ArakelovGeometry GroundTheory.Heights₂.Heights.HilbertSamuel Filter Topology

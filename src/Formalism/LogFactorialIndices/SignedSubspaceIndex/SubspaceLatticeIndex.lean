@@ -1,6 +1,14 @@
 import Formalism.LogFactorialIndices.StatementIdx
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ChainLength
-import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ExistsPowSmulMem
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 open scoped Pointwise
 

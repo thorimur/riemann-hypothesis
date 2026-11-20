@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.MemParahoricTimesPrincipalCongruenceIff
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.FourierDecayAlt.P.OrderChainWeights
 

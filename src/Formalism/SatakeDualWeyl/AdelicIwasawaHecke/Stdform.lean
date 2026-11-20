@@ -1,6 +1,10 @@
 import Formalism.SatakeDualWeyl.StatementC
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.SignatureExists
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.SignatureConjugationInvariant
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

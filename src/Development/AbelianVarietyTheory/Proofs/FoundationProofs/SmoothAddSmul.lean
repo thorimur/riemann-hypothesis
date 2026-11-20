@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.FormalDegreeBessel.StatementIO
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 import Formalism.RealPlaceAnalysis.QuotientSettingHolds
 
 open Matrix

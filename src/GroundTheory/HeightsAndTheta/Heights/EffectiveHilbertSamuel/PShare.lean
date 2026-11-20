@@ -1,6 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.StatementsShareBound
 import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.PShareCore
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.EffectiveHS

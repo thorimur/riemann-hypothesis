@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.LocalArtinBaseChange
 import GroundTheory.LocalFields.LocalArtinTransport
 

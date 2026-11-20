@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.XiPluckerRel
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PRFormula
+import Mathlib.Algebra.Order.Sub.Prod
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Inter

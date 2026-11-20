@@ -2,7 +2,8 @@ import Development.WeilBound.CoreStatements.CompactAveragingSplitting.Eigenvecto
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.PairwiseDisjointCell
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PowDvdOfHermMatEq
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyDeepSubset
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.NormLeOfCompleteHomogeneousLe
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.PowerSeries.Trunc
 
 open MeasureTheory ValuativeRel Matrix
 open scoped NNReal ENNReal Pointwise

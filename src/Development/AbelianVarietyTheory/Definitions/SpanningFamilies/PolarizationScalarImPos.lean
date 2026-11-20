@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.SpanPowerMembership.Spaces
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.FactPrincipalDatum
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.ModelLatA
 import Development.AbelianVarietyTheory.Definitions.SpanningFamilies.IsWeakOfDatum
@@ -7,6 +5,7 @@ import Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsS
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.FiniteAdeleStrongApproximationModNat
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.StdCharFinitePartRationalEqExpTrace
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.EmbeddingXiZeroNeZero
+import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.FinTensMemLatO
 
 noncomputable section
 

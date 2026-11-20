@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.SqfLab
-import Formalism.PeriodIntegrals.SqfDivDeg
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Polynomial
 

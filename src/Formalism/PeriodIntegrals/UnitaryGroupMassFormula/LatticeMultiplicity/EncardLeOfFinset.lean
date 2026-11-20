@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.LatCountG
+import Mathlib.Analysis.Normed.Algebra.MatrixExponential
 
 open Matrix
 open scoped ENNReal

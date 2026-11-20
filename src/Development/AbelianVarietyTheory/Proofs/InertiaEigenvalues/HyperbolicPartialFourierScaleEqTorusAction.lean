@@ -1,4 +1,7 @@
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WHyp
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.ENatToNat
 open GlobalTheory.JR Matrix MeasureTheory Filter Topology
 open scoped NNReal ENNReal Pointwise
 

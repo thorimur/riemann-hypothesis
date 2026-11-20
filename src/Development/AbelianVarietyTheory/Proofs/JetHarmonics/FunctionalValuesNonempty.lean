@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.ModuliIntegralCharts
-import Formalism.SharpRestriction.Divisibility.WeightFamilies
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.TraceFormDualSystem
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IsPosHermOfPositive
 

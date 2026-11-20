@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.HtdOf
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.EvBasicNEvalSubCoeffMem
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ChartFirstOrderMemSpan

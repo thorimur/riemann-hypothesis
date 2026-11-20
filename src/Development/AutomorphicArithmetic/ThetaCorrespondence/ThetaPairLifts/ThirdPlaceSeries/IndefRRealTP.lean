@@ -1,8 +1,5 @@
-import Formalism.LocalToGlobal.IndefiniteReal.RealTP
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.LayerTwoFamilyClass
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.STiesR
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.IndefRRealT
+import Formalism.LocalToGlobal.IndefiniteReal.PrimitivePackageFullHecke
 
 set_option synthInstance.maxHeartbeats 200000
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ProdUpdateDiv
+import Mathlib.RingTheory.LocalProperties.Reduced
 
 noncomputable section
 

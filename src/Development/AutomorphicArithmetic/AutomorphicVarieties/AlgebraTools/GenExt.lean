@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ProfDefs
+import Mathlib.Topology.Separation.Connected
 
 open Filter UpperTheory.V.AlgebraTools
 open scoped TensorProduct

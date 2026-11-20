@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.AbstractLocalReciprocity.ExistsOpenSubgroupMemFixedModule
 import GroundTheory.LocalFields.CompleteTrivial
 

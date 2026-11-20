@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.NormSqUnitNormalizationLe
-import Formalism.HermitianCurvature.BesselNonvanishingReduction
 
 namespace Formalism.FourierDecayAlt.P.CutBP.Jmu
 

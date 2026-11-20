@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsUniqueLiesUnder
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviAtLinearCombinationPotential
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitAtOfDivisorRelationStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogAdelicMetricDivisorRelationStatement

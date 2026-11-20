@@ -1,5 +1,9 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AutomorphicKernels.UnitarySchrodingerModel.LocalDefs
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.GroupTheory.SpecificGroups.KleinFour
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open PositivityTheory.PfSWUS.Loc
 

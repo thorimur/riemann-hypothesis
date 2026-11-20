@@ -1,5 +1,5 @@
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CosetVecEq
 import Formalism.LocalToGlobal.GlobalTheory.GL1.CompactFixesLattice.AdeleIntA
+import Formalism.SharpRestriction.GlobalSchurBounds.StandardLatticesGL3
 
 noncomputable section
 

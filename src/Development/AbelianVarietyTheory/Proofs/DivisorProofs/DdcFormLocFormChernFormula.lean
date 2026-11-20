@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsPosFrameQuotIn
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HermitianCurvatureForms
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SubquotientCurvatureStatement
+import Development.AbelianVarietyTheory.Definitions.Divisors.ExtFormAdjEqNegSecondForm
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 open Set Matrix Filter Topology
 open ReciprocityTheory.L2DbarEstimates (V)

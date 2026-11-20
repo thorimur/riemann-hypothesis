@@ -1,6 +1,7 @@
-import Mathlib
-import Formalism.SatakeDualWeyl.Statement
 import Formalism.LocalRingCardinality.DataLevel
+import Mathlib.NumberTheory.NumberField.AdeleRing
+import Mathlib.RingTheory.Etale.Field
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 

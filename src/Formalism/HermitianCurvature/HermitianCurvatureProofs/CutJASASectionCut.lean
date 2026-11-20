@@ -1,6 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAStarOp2
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeGTrChain
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAFFStableLoc
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeCut
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 open scoped ComplexConjugate ContDiff

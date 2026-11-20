@@ -1,5 +1,7 @@
 import ReciprocityTheory.SemistableReduction.SphereLogIntegrableStatement
 import ReciprocityTheory.SemistableReduction.TorusMeanA
+import Mathlib.Topology.Algebra.MvPolynomial
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

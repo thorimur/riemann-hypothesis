@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.ProjectiveLiftExistence
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LevelMultiplicityStableUnderActionStatement
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteGroupLiftsToParahoricLevelStatement
@@ -6,8 +5,6 @@ import Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasTypeOfMemMult
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ConvIdempotentAct
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.BlockDetSingleBlockSecondEqOneOfLe
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsCentralIdempotentOfGoodSeriesIdempotent
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CompletelySplitPrimeHostPlaceProperties
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 
 noncomputable section
 

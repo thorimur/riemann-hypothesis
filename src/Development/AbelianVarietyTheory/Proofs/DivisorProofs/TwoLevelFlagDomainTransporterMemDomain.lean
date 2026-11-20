@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsExtEmbedding
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LactMemDomOfIsom
 
 set_option autoImplicit false

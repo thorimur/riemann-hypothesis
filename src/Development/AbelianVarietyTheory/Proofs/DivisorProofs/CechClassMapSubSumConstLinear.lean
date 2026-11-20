@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CmpOfIsCocycle
 
 set_option autoImplicit false

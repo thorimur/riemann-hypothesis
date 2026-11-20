@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.StatementH
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ExistsUnitConjugateNormTwoPowerTwoAdic
 
 namespace GlobalTheory.ThLoc

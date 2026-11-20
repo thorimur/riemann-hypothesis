@@ -1,9 +1,8 @@
-import Mathlib
-import Formalism.LocalToGlobal.HermitianForms.FramesLemmas
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.ColDictValCPf
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.UnitTraceSumBounds.RankConditionsOfLayerTwo
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RieszEigenvectorSesquilinearFunctionSpace
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.TopLevExists
+import Mathlib.Topology.Algebra.MvPolynomial
 
 noncomputable section
 

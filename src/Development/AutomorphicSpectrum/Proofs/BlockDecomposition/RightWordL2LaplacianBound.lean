@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CompactSupportApplyClm
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FderivZeroApply
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.RealLowestKTypeCoeffSquareIntegrable
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.TwistedLevelValues
+import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 
 noncomputable section
 

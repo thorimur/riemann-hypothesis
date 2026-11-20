@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.ConstSmall
+import Mathlib.Analysis.Complex.UpperHalfPlane.Measure
+import Mathlib.NumberTheory.Modular
+import Mathlib.NumberTheory.ModularForms.Petersson
 
 noncomputable section
 

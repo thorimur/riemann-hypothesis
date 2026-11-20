@@ -1,7 +1,3 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.WittExactSequences.IsCompl
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PfFacts
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsRingHomPowPrimePow
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsPQ
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PqLift
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PerfectTensorProductStatement

@@ -1,4 +1,8 @@
 import ReciprocityTheory.L2DbarEstimates.LeviForms.BergmanExistsStatement
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.Complex
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.SimpleRing.Principal
 
 universe u
 

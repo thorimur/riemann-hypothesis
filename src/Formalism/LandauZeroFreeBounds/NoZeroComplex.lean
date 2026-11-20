@@ -10,7 +10,6 @@ import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.RealLargeTOf
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.RealSmallTOf
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.TwoRealOf
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.ZFRDirichletOf
-import Formalism.ZeroFreeRegion.FinalZFR
 
 namespace Formalism.ZeroFreeDirichlet
 

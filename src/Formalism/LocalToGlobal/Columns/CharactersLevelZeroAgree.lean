@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.Columns.HermOwed
+import Formalism.LocalToGlobal.Columns.HxMemMap
+import Formalism.LocalToGlobal.Columns.LocalLevelIsKOneEverywhere
 
 open NumberField IsDedekindDomain Module Matrix
 open scoped TensorProduct

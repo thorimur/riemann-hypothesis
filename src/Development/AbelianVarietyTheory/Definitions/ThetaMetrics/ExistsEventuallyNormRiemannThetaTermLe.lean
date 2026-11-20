@@ -1,5 +1,13 @@
-import Mathlib
 import ReciprocityTheory.ThetaQuasiPeriods.PeriodLattice
+import Mathlib.NumberTheory.ModularForms.JacobiTheta.TwoVariable
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Algebra.InfiniteSum.UniformOn
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Complex Matrix Filter Topology MeasureTheory
 open scoped Real

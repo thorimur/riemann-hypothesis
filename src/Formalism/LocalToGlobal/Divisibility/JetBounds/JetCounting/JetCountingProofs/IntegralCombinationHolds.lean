@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.Divisibility.JetBounds.JetCounting.PlaceSeriesJetsOneLetterOrbits
+import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.FinalFree
 
 open scoped BigOperators
 

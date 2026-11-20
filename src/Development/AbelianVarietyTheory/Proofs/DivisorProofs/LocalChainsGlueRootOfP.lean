@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CrdInjective
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoordinatesMatrixActionFreeModuleStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FactorThroughMonoLocalLiftsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.QuotientMatrixActionCoordinatesStatement

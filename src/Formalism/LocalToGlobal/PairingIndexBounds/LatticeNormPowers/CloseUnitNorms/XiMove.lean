@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.PairingIndexBounds.LatticeNormPowers.CloseUnitNorms.TestVectorMemSchwartzBruhat
+import Formalism.LocalToGlobal.GlobalTheory.GL3.PIopNorm
 
 noncomputable section
 open scoped BigOperators

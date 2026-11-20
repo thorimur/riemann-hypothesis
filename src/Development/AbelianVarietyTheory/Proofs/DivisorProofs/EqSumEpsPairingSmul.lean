@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.EqZeroOfForallPowDvd
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SandwichKernelRangeExact
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPowEqOfIntegers
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConvEqOneOfForallPairing
+import Development.AbelianVarietyTheory.Definitions.Divisors.GhostFrobenius
+import Mathlib.RingTheory.Valuation.Integral
 
 set_option autoImplicit false
 noncomputable section

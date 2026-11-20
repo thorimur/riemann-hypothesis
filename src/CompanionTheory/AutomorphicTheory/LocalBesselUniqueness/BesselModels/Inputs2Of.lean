@@ -1,5 +1,5 @@
-import CompanionTheory.AutomorphicTheory.LocalBesselUniqueness.BesselModels.AmplitudeOrbitalIntegral
-import CompanionTheory.AutomorphicTheory.LocalBesselUniqueness.BesselModels.DoubleCosetBesselBoundOfGapConstantLe
+import CompanionTheory.AutomorphicTheory.LocalBesselUniqueness.BesselModels.AtFormAdmOneOfSteps
+import CompanionTheory.AutomorphicTheory.LocalBesselUniqueness.BesselModels.Inputs
 
 namespace CompanionTheory.Lime.BM
 

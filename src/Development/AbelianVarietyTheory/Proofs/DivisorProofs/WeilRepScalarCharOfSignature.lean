@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocPt
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvFinMkPt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalVacuumEigenLatticeStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VacuumEigenAtAllPlacesStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzAdelicSliceSmoothStatement

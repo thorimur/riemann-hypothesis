@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.TwentyWordsLeB
-import Formalism.SharpRestriction.LevelLetterCocycles.EmbeddingTypes
+import Development.AutomorphicArithmetic.ResidueCharacters.TwistedPlaces
+import Formalism.SharpRestriction.LevelLetterCocycles.DecompositionData
 
 noncomputable section
 

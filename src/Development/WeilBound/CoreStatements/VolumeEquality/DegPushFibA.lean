@@ -1,5 +1,5 @@
-import Development.WeilBound.CoreStatements.VolumeEquality.DegPushVal
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PIntNumBaseChange
+import Development.WeilBound.CoreStatements.VolumeEquality.DegPushDefs
 
 noncomputable section
 

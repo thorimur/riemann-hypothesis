@@ -1,6 +1,5 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PotentialTheory.ProjectiveLineFubiniStudyFacts
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MixedIntegralBoundUnitPotentialsStatement
+import ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasureB
 
 open ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M
 open MeasureTheory

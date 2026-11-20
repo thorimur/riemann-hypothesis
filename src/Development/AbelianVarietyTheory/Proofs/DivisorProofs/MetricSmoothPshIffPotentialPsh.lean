@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsUniqueLiesUnder
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChernPotentialPositiveOnComponents
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsMetricOnLineGram
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MIntEqOfLeviEq

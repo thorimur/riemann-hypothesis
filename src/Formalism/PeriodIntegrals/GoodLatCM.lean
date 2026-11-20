@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.LatDefs
 import Formalism.PeriodIntegrals.ThGDefs
+import Mathlib.NumberTheory.NumberField.Discriminant.Defs
 
 open NumberField
 

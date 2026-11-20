@@ -1,14 +1,9 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.EntryMem
 import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TwoIrr
 import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.PtLift
-import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.PtScale
 import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.PtActInternal
 import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.PtExt
 import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TanScale
 import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.RigidDiag
-import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.WcompMulHomog
-import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.SInternal
-import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.EptInt
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal IsLocalRing UpperTheory.V UpperTheory.V.Base UpperTheory.V.Alg UpperTheory.V.HV UpperTheory.V.GradeZeroInterpolatingElement
 
 private theorem graded_subalgebra_internal {O R X : Type} [CommRing O] [CommRing R] [Algebra O R] [AddCommGroup X]

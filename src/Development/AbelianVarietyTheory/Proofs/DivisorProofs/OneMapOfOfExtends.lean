@@ -1,6 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PinsMerge
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsOmegaField
+import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.EqOfForallAlgClosed
+import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsEmbExt
+import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.IsIntegralCoeffCof
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VectorValuedLiftFieldChangeStatement
+import Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.ChartIndependenceUnconditional
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 200000

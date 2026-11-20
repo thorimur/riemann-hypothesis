@@ -1,5 +1,4 @@
 import Development.EtaleCohomology.KummerTheory.PlaceResGoodPf
-import Development.EtaleCohomology.KummerTheory.PlaceStepPf
 import Development.EtaleCohomology.KummerTheory.PlaceExPfZorn
 import Development.EtaleCohomology.KummerTheory.PlacePfVal
 import Development.EtaleCohomology.KummerTheory.AlgExtPf

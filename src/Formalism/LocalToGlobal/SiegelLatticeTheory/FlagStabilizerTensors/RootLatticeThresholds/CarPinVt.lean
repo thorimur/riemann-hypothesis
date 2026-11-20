@@ -1,7 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CarPinVtCore
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.RealObj
 import Formalism.HermitianCurvature.StatementJCT
+import Mathlib.Analysis.InnerProductSpace.Trace
 
 noncomputable section
 

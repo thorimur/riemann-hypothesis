@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FormsOfSemilinear
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.BlockBaseChange
 open Module NumberField Formalism.L2.DIV Formalism.DivisionValues
 open scoped Matrix
 set_option maxHeartbeats 1000000 in

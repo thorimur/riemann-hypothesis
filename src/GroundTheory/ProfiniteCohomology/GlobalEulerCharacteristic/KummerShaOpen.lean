@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.KummerSha
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.KummerSeq
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseTransportGS

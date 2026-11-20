@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.CoordTieCompEquiv
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

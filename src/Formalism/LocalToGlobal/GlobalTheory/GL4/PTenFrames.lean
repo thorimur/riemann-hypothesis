@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.GlobalTheory.GL4.PDetAll
 import Formalism.LocalToGlobal.GlobalTheory.GL4.PMuFrames
-import Formalism.LocalToGlobal.GlobalTheory.HLatOpsP
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix

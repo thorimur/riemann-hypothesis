@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.StatementM
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.FourierDecayAlt.P
 

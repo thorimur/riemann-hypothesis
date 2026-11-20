@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2Classical.Cuspidal
+import Mathlib.NumberTheory.ModularForms.CuspFormSubmodule
 
 open NumberField IsDedekindDomain Matrix MeasureTheory Set Filter Topology CongruenceSubgroup
 open UpperHalfPlane hiding I I_re I_im

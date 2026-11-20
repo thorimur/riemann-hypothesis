@@ -1,6 +1,6 @@
 import Formalism.JumpKernelCokernel.LemmaDJoint
-import Formalism.JumpKernelCokernel.JumpShiftProofs.ThickB
 import Formalism.JumpKernelCokernel.JumpShiftProofs.ExpRowD
+import Mathlib.Analysis.Complex.ExponentialBounds
 
 namespace Formalism.KernelCokernelLengths.RowDegreeJointLemmas
 

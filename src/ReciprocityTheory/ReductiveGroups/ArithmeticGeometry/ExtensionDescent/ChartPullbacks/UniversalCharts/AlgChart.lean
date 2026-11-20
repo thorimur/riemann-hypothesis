@@ -1,5 +1,8 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ChartPullbacks.UniversalCharts.SpanXLeKerAevalZero
 import Lemmata.FirstBlockLemmaK.Imports
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.RingTheory.Unramified.LocalStructure
+import Mathlib.Tactic.ReduceModChar
 
 set_option autoImplicit false
 

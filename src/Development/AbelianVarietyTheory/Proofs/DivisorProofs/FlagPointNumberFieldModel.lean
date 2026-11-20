@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StepLatZero
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AmpleOnAbelianBase
 open NumberField GlobalTheory.ShFam.Pad AlgebraicGeometry CategoryTheory
 
 set_option autoImplicit false

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.HodgeWedgeFields.H1CommutesBaseChange
+import Mathlib.AlgebraicGeometry.QuasiAffine
 
 set_option autoImplicit false
 

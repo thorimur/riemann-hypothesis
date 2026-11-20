@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.LinQRawRange
 import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.DensExact
 

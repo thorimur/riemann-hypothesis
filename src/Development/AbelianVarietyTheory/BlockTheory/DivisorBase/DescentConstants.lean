@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.PlaceRankTwoOne
-import Formalism.SharpRestriction.ElevenLe
-import Formalism.LocalRingCardinality.DataParamsT
 import Development.AbelianVarietyTheory.Definitions.Foundations.TableDegreeElevenProduct
 
 noncomputable section

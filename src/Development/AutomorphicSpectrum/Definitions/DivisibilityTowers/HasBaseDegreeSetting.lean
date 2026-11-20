@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.HeckeSectionsIsotropicCommutatorPairingPower
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FlagIndices
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GaussianIntegrableFiniteDimStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PolynomialTimesGaussianBoundedStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FourierInversionFiniteDimStatement

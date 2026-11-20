@@ -1,8 +1,9 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.ConvexNerveComplexes.NerveFaceClosed
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ConvexNerveComplexes.NerveSep
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ConvexNerveComplexes.NerveCut
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ConvexNerveComplexes.AcycUnion
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ConvexNerveComplexes.AcycCone
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Set UpperTheory.V.ConeExtensionAcyclic
 

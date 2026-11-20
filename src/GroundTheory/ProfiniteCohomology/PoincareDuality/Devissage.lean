@@ -1,11 +1,7 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.PoincareDuality.Torsion
-import GroundTheory.ProfiniteCohomology.PoincareDuality.TensorHomZmodDualIsoZmodMulPairing
 import GroundTheory.ProfiniteCohomology.PoincareDuality.Induced
 import GroundTheory.ProfiniteCohomology.PoincareDuality.CupPairingEvalPairingCohomologyMap
 import GroundTheory.ProfiniteCohomology.PoincareDuality.DeltaPairing
 import GroundTheory.ProfiniteCohomology.GaloisCohomology.Kummer
-import GroundTheory.ProfiniteCohomology.Characters
 import GroundTheory.ProfiniteCohomology.CupProducts.Graded
 set_option maxSynthPendingDepth 1
 

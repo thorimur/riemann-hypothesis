@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CommutativeAlgebra.LevDefs
 
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField

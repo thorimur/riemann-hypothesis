@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.SecOfP
+import Formalism.SharpRestriction.LevelLetterCocycles.HorTrExists
+import Formalism.SharpRestriction.LevelLetterCocycles.HorTrUnique
 
 noncomputable section
 

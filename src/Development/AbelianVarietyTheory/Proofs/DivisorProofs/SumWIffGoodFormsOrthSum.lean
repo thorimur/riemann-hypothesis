@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GoodIdempotentBadPlaces
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GoodReductionModelReading
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsFundamentalDomain
+import Mathlib.Data.Finsupp.Pointwise
 
 noncomputable section
 

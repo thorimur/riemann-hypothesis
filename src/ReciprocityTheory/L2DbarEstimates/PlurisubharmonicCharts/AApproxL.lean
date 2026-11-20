@@ -1,4 +1,5 @@
-import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.AApproxK
+import Mathlib.Topology.Sheaves.Presheaf
+import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.AApproxJ
 
 namespace ReciprocityTheory.L2DbarEstimates.Y
 

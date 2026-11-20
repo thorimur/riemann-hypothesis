@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexPointsBase
 import GroundTheory.HeightsAndTheta.Heights.ComplexMetrics.PProjPointContinuous
 import GroundTheory.HeightsAndTheta.Heights.ComplexMetrics.PFractionContinuous

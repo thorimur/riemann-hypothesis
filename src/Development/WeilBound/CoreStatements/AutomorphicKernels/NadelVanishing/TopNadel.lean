@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PublishedTheorems.NadelVanishingPairs.NadelVanishingLemmas.NadelVanishingPairsOfPrincipalisation
 import Development.WeilBound.CoreStatements.ResolutionCharZero.PrincipalisationClosed
 

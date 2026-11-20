@@ -1,9 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaloisOfRegularForms
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RankWeightComponentEq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalIsometry
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StabIffLoc
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DivGOfLocalIsometry
+import Formalism.LocalToGlobal.IndefiniteReal.ScalarOnPartsFull
 
 open Formalism.BasicNotions Formalism.BasicNotions.TH Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes Formalism.MainNotions.StandardLattice Formalism.MainNotions.S IsDedekindDomain NumberField Formalism.L2.Theta Formalism.L2.NTheta Formalism.IndefR.Mult Formalism.IndefR.Links GlobalTheory.SphPar
 open scoped TensorProduct

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.BesselHermitianTheta.AllTied
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.BlockOrderedSquareIntegrable
 
 open Formalism.BasicNotions Formalism.BasicNotions.TH Matrix MeasureTheory

@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.ConeBDefs
+import Mathlib.Analysis.Fourier.Inversion
+import Mathlib.Analysis.InnerProductSpace.EuclideanDist
+import Mathlib.RingTheory.SimpleRing.Principal
 open MeasureTheory FreeSingleHomotopyEquivDiscreteChains.UpperTheory.Dv.ConeB
 
 private theorem exists_rep {ι : Type} [Fintype ι] (l : (ι → ℂ) →ₗ[ℝ] ℝ) :

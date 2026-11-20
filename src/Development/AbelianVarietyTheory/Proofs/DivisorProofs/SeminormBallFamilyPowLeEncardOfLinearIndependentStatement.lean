@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeminormBallFamilyPowLeEncardOfLinearIndependent
-import Development.AbelianVarietyTheory.Definitions.Divisors.CharZeroFunctionField
 open Filter Topology
 open GlobalTheory GlobalTheory.VolBr
 set_option maxHeartbeats 1000000 in

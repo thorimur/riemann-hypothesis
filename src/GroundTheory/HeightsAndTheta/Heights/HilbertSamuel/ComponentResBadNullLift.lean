@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComponentResBadNull
 import GroundTheory.HeightsAndTheta.Heights.Intersections.UnitChartOperator
 import GroundTheory.HeightsAndTheta.Heights.Intersections.FourierIntegralBound

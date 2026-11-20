@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormPeriodSq
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteRealPointsCommute
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFinPt
 
 open NumberField MeasureTheory
 open scoped Classical

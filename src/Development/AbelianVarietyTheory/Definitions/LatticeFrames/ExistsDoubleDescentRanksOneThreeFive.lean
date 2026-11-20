@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.IsOneComb
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ExistsDblClosed
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsDoubleStep
@@ -6,8 +5,6 @@ import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsGLEm
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsEmbXMul
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.RootExchangeSupportAndFourierRelation
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.NonarchimedeanLocalFieldSecondCountableT2Space
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IsMulLeftInvariantVolGL
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsWeilDatumTwistHeckeCharacters
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IsCOPrXCgrp
 
 noncomputable section

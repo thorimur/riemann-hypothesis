@@ -1,4 +1,7 @@
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.MemConePtsIffChartIdeal
+import Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Basic
+import Mathlib.RingTheory.MvPolynomial.Ideal
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 namespace ReciprocityTheory.AnForm.R
 

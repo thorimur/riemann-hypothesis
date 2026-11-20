@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.PrismaticDieudonnePerfd
+import Development.AbelianVarietyTheory.Definitions.Divisors.XiMulNu
 
 open Ideal WittVector Polynomial
 

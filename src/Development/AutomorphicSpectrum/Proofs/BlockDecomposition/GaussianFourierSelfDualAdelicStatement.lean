@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GaussianFourierSelfDualAdelic
 open NumberField IsDedekindDomain MeasureTheory Matrix
 open scoped ENNReal NNReal

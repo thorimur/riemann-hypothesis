@@ -1,6 +1,5 @@
 import Formalism.SizeWindowBrackets.ErrorFormsEventualPowerBound
 import Formalism.SizeWindowBrackets.SlopesFromSizeAndCount
-import Formalism.SizeWindowBrackets.PowerBoundGivesRiemannHypothesis
 
 open Finset
 

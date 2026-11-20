@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.NonemptyRayDataOfNeZero
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.SummableLatticeExpNegPiMulNormSqDiv
+import Mathlib.Analysis.SpecialFunctions.Elliptic.Weierstrass
 
 open Complex Filter Asymptotics
 open scoped RealInnerProductSpace

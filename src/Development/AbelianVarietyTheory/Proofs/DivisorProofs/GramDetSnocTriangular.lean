@@ -1,5 +1,7 @@
-import Mathlib
 import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ConjSymm
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 open NumberField ReciprocityTheory.GeometryOfNumbersTheory
 open scoped Matrix
 

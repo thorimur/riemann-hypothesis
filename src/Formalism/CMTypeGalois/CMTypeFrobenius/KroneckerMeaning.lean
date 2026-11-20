@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.CMTypeGalois.StatementGroup
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.Q3
 

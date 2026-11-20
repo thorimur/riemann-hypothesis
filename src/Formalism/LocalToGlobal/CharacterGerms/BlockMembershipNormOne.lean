@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.CharacterGerms.ValBlocksChart
-import Formalism.LocalToGlobal.ProjectiveLattices.RowDeg
+import Formalism.LocalToGlobal.CharacterGerms.BlockMembershipSelfConjugate
+import Formalism.LocalToGlobal.CharacterGerms.RowTieVal
 
 noncomputable section
 

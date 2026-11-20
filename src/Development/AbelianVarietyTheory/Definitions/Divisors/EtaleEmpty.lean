@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FamilyLeCoords
 
 namespace GlobalTheory.OTY

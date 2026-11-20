@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LogFactorialIndices.StatementIdx
 
 noncomputable section

@@ -1,9 +1,4 @@
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HarmonicValueOfFiniteExtension
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ThValFinExtSplit
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDPf
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.SectionScalarValuation
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.FFVMap
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartJetTrC
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.GermExCut
 
 noncomputable section
 

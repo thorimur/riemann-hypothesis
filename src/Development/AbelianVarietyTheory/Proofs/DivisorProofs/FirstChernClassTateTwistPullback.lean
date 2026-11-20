@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClsDivSymmPair
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatrixIntegralityFromCompletePointsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatrixRowNormPosOfUnitStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TriangularMatrixChainPointsStatement

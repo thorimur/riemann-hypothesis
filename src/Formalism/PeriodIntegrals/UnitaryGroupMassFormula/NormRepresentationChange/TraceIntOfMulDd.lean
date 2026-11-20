@@ -1,7 +1,5 @@
-import Mathlib
-import Formalism.PeriodIntegrals.PairValDefs
-import Formalism.PeriodIntegrals.NormRepChange
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormRepresentationChange.Development
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

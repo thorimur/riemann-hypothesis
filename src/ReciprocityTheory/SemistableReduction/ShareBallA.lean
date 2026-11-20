@@ -1,5 +1,7 @@
 import ReciprocityTheory.SemistableReduction.ShareSt
-import ReciprocityTheory.SemistableReduction.Unipotent
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

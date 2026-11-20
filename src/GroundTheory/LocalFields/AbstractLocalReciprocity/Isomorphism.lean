@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.AbstractLocalReciprocity.IsoPGroup
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.TransferOfCompSubtype
 

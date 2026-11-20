@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.PeriodIntegrals.BesselMapUniq
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IsWtOnIffOfTorus
+import Formalism.PeriodIntegrals.IsLowUnitH
 
 open Matrix
 

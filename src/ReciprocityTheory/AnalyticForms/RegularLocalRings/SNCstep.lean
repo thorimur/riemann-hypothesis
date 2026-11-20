@@ -1,4 +1,5 @@
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ExistsAtlas
+import Mathlib.Topology.Separation.CompletelyRegular
 
 namespace ReciprocityTheory.AnForm.R
 

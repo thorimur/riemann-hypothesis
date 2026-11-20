@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellDef
-import Formalism.SharpRestriction.CuspSpanNormBounds.LatticeGluingRadicals
 
 noncomputable section
 

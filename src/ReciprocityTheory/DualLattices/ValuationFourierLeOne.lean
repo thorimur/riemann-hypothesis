@@ -1,4 +1,5 @@
 import ReciprocityTheory.DualLattices.ValuationDetEqOfSpanEq
+import Mathlib.Algebra.Order.Star.Real
 
 noncomputable section
 

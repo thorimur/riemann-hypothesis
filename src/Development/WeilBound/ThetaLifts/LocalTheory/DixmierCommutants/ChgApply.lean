@@ -1,5 +1,7 @@
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.VaceigenDual
-import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDict
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.KdMulRight
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDictSec
+import GroundTheory.LocalFields.PadicLogSeries
 
 set_option linter.unusedSectionVars false
 

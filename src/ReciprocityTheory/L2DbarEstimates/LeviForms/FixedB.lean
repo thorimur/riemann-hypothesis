@@ -1,4 +1,7 @@
 import ReciprocityTheory.L2DbarEstimates.LeviForms.FixedA
+import Mathlib.RingTheory.PiTensorProduct
+import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.ChartSymmEventuallyEq
+import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.MeasurableSetImageOfIsLocalHomeomorph
 
 namespace ReciprocityTheory.L2DbarEstimates.I
 

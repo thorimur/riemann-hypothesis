@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.ChartSurjCut
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.t_E2Cut

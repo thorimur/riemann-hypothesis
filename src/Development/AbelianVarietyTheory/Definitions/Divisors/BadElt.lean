@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.ArithmeticCylinders
-import Formalism.LocalToGlobal.Divisibility.GoodPartHermitianSpec
 
 noncomputable section
 

@@ -1,4 +1,5 @@
-import Development.EtaleCohomology.EtaleTrace.TwZeroPfSplit
+import Development.EtaleCohomology.EtaleTrace.TwZeroPf
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 open Polynomial

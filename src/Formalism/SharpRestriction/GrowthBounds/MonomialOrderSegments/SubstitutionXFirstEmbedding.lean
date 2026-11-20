@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.SecondEmbeddingTangentIndex
+import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.ExistsMonomialOrder
 
 noncomputable section
 

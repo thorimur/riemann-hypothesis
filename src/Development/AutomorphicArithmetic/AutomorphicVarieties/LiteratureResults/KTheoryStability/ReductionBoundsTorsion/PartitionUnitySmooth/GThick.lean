@@ -3,7 +3,6 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Hnf
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Detlow
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Hadam
-import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Rypos
 
 noncomputable section
 

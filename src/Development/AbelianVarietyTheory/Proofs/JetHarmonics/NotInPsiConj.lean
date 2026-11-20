@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.IsSelfOf
-import Development.AbelianVarietyTheory.Definitions.Jets.TwoPlaces
+import Development.AbelianVarietyTheory.Definitions.Jets.DepthNumbersThresholdEq
+import Std.Tactic.BVDecide.Normalize.BitVec
 
 set_option autoImplicit false
 

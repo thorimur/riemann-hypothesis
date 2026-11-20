@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.HermitianForms.IsLocBasis
 import Formalism.LocalToGlobal.KernelLattices.ThDistC
 
 noncomputable section

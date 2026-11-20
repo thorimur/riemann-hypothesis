@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.L2LocalComponents.LocalComponents
 import GroundTheory.AutomorphicForms.L2LocalComponents.NonEmpty
 

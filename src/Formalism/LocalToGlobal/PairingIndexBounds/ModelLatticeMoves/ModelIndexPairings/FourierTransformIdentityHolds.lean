@@ -1,4 +1,8 @@
 import Formalism.LocalToGlobal.PairingIndexBounds.ModelLatticeMoves.ModelMoves
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 open scoped BigOperators

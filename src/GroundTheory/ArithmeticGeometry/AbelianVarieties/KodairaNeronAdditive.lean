@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.KodairaNeronIstar
 set_option maxSynthPendingDepth 1
 

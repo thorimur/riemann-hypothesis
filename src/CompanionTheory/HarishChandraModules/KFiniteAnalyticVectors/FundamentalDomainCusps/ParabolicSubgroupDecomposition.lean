@@ -1,4 +1,5 @@
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.FundamentalDomainCusps.ShortIsot
+import Mathlib.Dynamics.Ergodic.Action.Regular
 
 open MeasureTheory Topology Filter Set
 open scoped ENNReal Pointwise

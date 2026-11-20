@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.NFRadRedR
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.RightTypeAction
 
 open Matrix
 

@@ -1,4 +1,3 @@
-import Formalism.FrobeniusOrbits.HostCorollaries
 import Formalism.LocalRingCardinality.DataHost
 import Formalism.LocalToGlobal.UnitaryNorms.IsUnitaryNormOf
 

@@ -1,7 +1,8 @@
-import Mathlib
 import Formalism.PieriBlockIdeals.LemmaWFromLattice
 import Formalism.PieriBlockIdeals.PieriColumnMinors.HeightDescentMinors
 import Formalism.PieriBlockIdeals.PieriColumnMinors.RegularCuspidalTrace
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.RingTheory.LocalProperties.Reduced
 
 noncomputable section
 

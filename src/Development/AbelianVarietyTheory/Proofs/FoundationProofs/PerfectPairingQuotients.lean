@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsHeisTrivial
+import Mathlib.Analysis.Fourier.FiniteAbelian.PontryaginDuality
 open Classical GlobalTheory.FinWeil
 open scoped BigOperators
 

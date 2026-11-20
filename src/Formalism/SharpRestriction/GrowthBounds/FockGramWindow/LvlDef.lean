@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.GrowthBounds.FockGramWindow.NeglogPowMul
 import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestPlusOf
 
 noncomputable section

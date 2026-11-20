@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsL2OnDiagonalOfIsL2Metric
 import Development.AbelianVarietyTheory.Definitions.Divisors.SecondChernDegreeFubiniStudyLine
+import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.CharChPartZero
 
 set_option autoImplicit false
 

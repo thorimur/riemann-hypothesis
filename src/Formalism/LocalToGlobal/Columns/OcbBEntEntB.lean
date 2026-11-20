@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.Columns.ChainOneB
+import Formalism.LocalToGlobal.Columns.FiniteSumNonzeroLargeDepth
 
 noncomputable section
 

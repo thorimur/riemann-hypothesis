@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.LetterShift
-import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FinalS
+import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementA
+import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.LogarithmEquivalence
 
 noncomputable section
 open scoped BigOperators

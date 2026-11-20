@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.FlatDegreeStOfResKGaga
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.GagaSections
 

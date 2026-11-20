@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.DividedPowerAlgebras.DpSplit
 
 set_option autoImplicit false

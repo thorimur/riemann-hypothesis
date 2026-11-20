@@ -1,7 +1,4 @@
-import Mathlib
-import Development.WeilBound.ThetaLifts.Reductions.SiegelCore
-import CompanionTheory.AutomorphicTheory.SiegelWeilFiniteness.Bridge
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.OfUnfolding
+import Development.AbelianVarietyTheory.Definitions.Foundations.OfInfProjInfMulOfFinProjFin
 
 open NumberField MeasureTheory Matrix Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes GlobalTheory.AdelicU GlobalTheory.SiegelSet PositivityTheory.ThKR
 open Formalism.UG (cT bc UJ)

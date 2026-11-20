@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.NotIsCompactUnivFv
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemClosureUnitary
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousLocAdele
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClosureDivMem
+import Development.AbelianVarietyTheory.Proofs.FoundationProofs.UnitaryTranspose
 
 noncomputable section
 

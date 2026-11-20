@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StVarietyTangentGraphDense
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StZeroSetOpenMass
-import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StFramePlaneGraph
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PFramePlaneGraph
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PFrameGraphGeneric
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PFrameJacobianGeneric
@@ -10,6 +8,8 @@ import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PConormalGenerat
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PFrameImplicitGraph
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PNullSmaller
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.OsgoodSeparate
+import Mathlib.Analysis.Calculus.FDeriv.Pi
+import Mathlib.Analysis.Calculus.InverseFunctionTheorem.ContDiff
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

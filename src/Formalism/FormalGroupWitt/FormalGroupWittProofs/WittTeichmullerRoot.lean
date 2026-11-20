@@ -1,4 +1,9 @@
 import Formalism.FormalGroupWitt.Statement
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.Teichmuller
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

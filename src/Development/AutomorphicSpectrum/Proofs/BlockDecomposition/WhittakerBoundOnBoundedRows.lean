@@ -1,8 +1,4 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.LocalWhittakerDuality.WhittakerFunctionalEquationAdditive
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GodementJacquetMinusOne
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PhdEqPhk
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WhittakerTemperedBoundDetOne
+import GroundTheory.LocalFields.LocalFourierHaar
 open MeasureTheory Matrix GroundTheory.LocalField GroundTheory.Automorphic Ad3 Ad3.K.GL2LocalData
 open scoped ValuativeRel
 

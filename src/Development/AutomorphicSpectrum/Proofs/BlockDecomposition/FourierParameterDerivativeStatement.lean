@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FourierParameterDerivative
-import Mathlib
 open MeasureTheory
 
 set_option maxHeartbeats 1000000 in

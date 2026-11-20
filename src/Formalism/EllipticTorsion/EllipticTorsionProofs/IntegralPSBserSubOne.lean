@@ -1,4 +1,11 @@
 import Formalism.EllipticTorsion.Statement
+import Mathlib.NumberTheory.Padics.MahlerBasis
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open PowerSeries
 

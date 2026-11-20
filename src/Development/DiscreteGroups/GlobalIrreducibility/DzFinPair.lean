@@ -1,4 +1,3 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.DzFpSum
 import Development.DiscreteGroups.GlobalIrreducibility.DzMatchCut
 

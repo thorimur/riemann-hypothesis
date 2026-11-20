@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.Columns.ChainTwMain
 import Formalism.LocalToGlobal.Columns.WithTopLevGTop
+import Formalism.LocalToGlobal.Columns.ChainTwL
 
 open NumberField IsDedekindDomain Module
 

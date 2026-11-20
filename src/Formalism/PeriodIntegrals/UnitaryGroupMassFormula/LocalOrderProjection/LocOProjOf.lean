@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.LocHerm
 import Formalism.PeriodIntegrals.AlgebraMapMemO
 

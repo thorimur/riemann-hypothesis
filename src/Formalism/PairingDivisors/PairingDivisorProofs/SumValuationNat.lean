@@ -1,8 +1,7 @@
-import Mathlib
 import Formalism.PairingDivisors.StatementA
-import Formalism.PairingDivisors.StatementX
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ValBasic
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ProdFormula
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Module NumberField IsDedekindDomain Finset
 open Formalism.DivisionValues (vw lw conjPl)

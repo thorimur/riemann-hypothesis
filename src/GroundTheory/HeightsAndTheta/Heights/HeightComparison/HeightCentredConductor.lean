@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitChart
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightSemilocalQuotCard
 set_option maxSynthPendingDepth 1

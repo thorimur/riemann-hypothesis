@@ -1,4 +1,7 @@
-import Formalism.PeriodIntegrals.IsLowUnitH
+import Formalism.PeriodIntegrals.UpqRep
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Matrix
 

@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.MatrixMeasurableSpace
 import Development.AbelianVarietyTheory.Definitions.Foundations.SimpleSum
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 open MeasureTheory ValuativeRel Matrix
 open scoped NNReal ENNReal

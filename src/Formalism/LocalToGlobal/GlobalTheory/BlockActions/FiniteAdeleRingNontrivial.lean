@@ -1,6 +1,7 @@
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.LatSOfMem
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsGlob
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.InclusionInjective
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

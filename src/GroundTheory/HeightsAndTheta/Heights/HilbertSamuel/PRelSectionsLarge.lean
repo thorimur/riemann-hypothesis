@@ -1,7 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRelSectionsLarge
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRelChartPoly
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRelOneStep
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

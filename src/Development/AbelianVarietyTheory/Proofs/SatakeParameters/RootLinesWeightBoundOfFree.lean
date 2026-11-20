@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsRegAlgTwistOfHalfIntegral
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.CoreAllOfCore
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormalCodimOneStalkDvr
 open NumberField IsDedekindDomain Neutral.B1 Formalism.L2.Host Formalism.ConjugateSelfDual ReciprocityTheory.Gal Formalism.BasicNotions Formalism.BasicNotions.Loc Formalism.MainNotions.N Polynomial

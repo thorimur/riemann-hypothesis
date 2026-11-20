@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.PairValDefs
 
 noncomputable section

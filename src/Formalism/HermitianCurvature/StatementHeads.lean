@@ -1,18 +1,5 @@
-import Formalism.HermitianCurvature.RealInputsClosedAdmissibleSettings
 import Formalism.HermitianCurvature.StatementTL
-import Formalism.HermitianCurvature.StatementTop
-import Formalism.HermitianCurvature.CompositeFormulaLevelZero
 import Formalism.HermitianCurvature.StatementJF
-import Formalism.HermitianCurvature.StatementJC
-import Formalism.HermitianCurvature.OperatorsCommuteTranslations
-import Formalism.HermitianCurvature.StatementQ
-import Formalism.HermitianCurvature.StatementD
-import Formalism.HermitianCurvature.StatementWd
-import Formalism.HermitianCurvature.StatementR
-import Formalism.HermitianCurvature.StatementFr
-import Formalism.FormalDegreeBessel.StatementG
-import Formalism.FormalDegreeBessel.StatementRP
-import Formalism.FormalDegreeBessel.StatementBF
 
 noncomputable section
 

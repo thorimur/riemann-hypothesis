@@ -1,4 +1,6 @@
 import ReciprocityTheory.SemistableReduction.ApproxBasisB
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace ReciprocityTheory.MultiplicativeHeights
 

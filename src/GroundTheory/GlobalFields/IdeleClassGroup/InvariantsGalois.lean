@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleClassGroup.Invariants
 import GroundTheory.LocalFields.CompleteTrivial
 

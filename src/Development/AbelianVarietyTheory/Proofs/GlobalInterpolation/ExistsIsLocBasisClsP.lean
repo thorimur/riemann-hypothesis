@@ -1,10 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.HilbertRowConditions.RowPin
-import Formalism.LocalToGlobal.KernelLattices.InterlaceAll
-import Formalism.SharpRestriction.GlobalSchurBounds.ProductFirstZerothParts
-import Formalism.SharpRestriction.GlobalSchurBounds.FiniteModelOfAdmissibleTransports
-import Formalism.LocalToGlobal.GlobalTheory.BlockActions.NfAllSmulReB
-import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ExistsOnOfPosDef
 import Formalism.LocalToGlobal.HermitianForms.TiedSym
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypLat
 import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocGen

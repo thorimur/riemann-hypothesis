@@ -1,5 +1,4 @@
 import Formalism.GaussJetBounds.GaussJetProofs.OneGauss
-import Formalism.GaussJetBounds.GaussJetProofs.CoefficientBoundMembership
 import Formalism.GaussJetBounds.GaussJetProofs.TheoremAMatrixEntries
 
 namespace Formalism.DworkPowerSeriesWeights

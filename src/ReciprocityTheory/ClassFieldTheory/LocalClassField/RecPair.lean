@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecPairDefs
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecPairA
 

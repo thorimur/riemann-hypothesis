@@ -1,6 +1,5 @@
 import Development.WeilBound.ThetaLifts.CartanFactorisation.ActsComp
 import Development.WeilBound.ThetaLifts.CartanFactorisation.RinfZero
-import Development.WeilBound.ThetaLifts.CartanFactorisation.CountableCompactOpen
 
 noncomputable section
 

@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.WeilConjectures.ContinCut
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace LateralTheory.EWeil.AbsContPf
 

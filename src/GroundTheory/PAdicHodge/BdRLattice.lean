@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.ThetaPlus
 set_option maxSynthPendingDepth 1
 

@@ -1,5 +1,4 @@
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.FundamentalDomainCusps.ShortIsot
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.KoszulLowersPower
 
 open Matrix NumberField Topology
 open scoped ComplexConjugate

@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.CompZeroOfOrth
+import Formalism.LocalToGlobal.IndefiniteReal.FixNLeMulRight
 
 noncomputable section
 

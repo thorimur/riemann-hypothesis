@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyDef
+import Formalism.LocalToGlobal.CharacterGerms.CoeffSubstEqSum
 
 namespace Formalism.L2.FormalSeriesBounds
 

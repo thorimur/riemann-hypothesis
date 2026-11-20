@@ -1,4 +1,7 @@
 import Formalism.LocalRingCardinality.SpanPowerMembership.NZTypeB
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZTypeA
+import Mathlib.RingTheory.Artinian.Instances
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

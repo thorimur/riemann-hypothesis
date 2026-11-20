@@ -1,9 +1,5 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SameFormAllLevels
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdempotentTransfer.ESMulESOfNeZero
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdempotentTransfer.CharacteristicPolynomialCompatibility
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdempotentTransfer.NormAtAddLe
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdempotentTransfer.RankIdentity
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

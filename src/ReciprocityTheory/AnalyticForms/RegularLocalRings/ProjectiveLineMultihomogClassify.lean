@@ -1,5 +1,6 @@
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.IsOpenAlt
-import ReciprocityTheory.CommutativeAlgebra.PolynomialHeights.HeightAddRingKrullDimQuotientMvPolynomialField
+import Mathlib.RingTheory.RegularLocalRing.Polynomial
+import Mathlib.Topology.Compactification.OnePoint.Basic
+import ReciprocityTheory.AnalyticForms.RegularLocalRings.JacChart
 
 namespace ReciprocityTheory.AnForm.R
 

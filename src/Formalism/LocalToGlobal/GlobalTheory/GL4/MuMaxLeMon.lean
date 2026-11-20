@@ -1,4 +1,6 @@
-import Formalism.LocalToGlobal.Columns.MultiFactorialEqTripleProd
+import Formalism.BranchSandwichDivisors.BranchIsometryProofs.OrthSum
+import Formalism.LocalToGlobal.Columns.CoefficientMapHeightBound
+import Formalism.LocalToGlobal.Columns.MaxSlopeOrthogonalNegLog
 
 open NumberField IsDedekindDomain Module MvPolynomial
 open scoped Matrix ComplexOrder

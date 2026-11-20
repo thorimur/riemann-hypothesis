@@ -1,4 +1,3 @@
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.GoodLat
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.LatRepBI
 
 noncomputable section

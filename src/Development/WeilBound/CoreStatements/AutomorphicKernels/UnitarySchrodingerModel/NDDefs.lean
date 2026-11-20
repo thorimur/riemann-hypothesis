@@ -1,6 +1,6 @@
 import Development.WeilBound.CoreStatements.AutomorphicKernels.UnitarySchrodingerModel.CoefDataExists
-import Formalism.UnipotentAdelicQuotients.SiegelWeilUnitaryConvergent
 import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.MollifiedIntegrability.ClsBoundAlt
+import Formalism.UnipotentAdelicQuotients.SWXSDefs
 
 noncomputable section
 

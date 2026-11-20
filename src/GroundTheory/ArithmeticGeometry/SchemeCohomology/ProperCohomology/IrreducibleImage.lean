@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.SchemeImage
+import Mathlib.AlgebraicGeometry.IdealSheaf.IrreducibleComponent
+import Mathlib.SetTheory.ZFC.PSet
+import Mathlib.Tactic.ENatToNat
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

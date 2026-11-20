@@ -1,4 +1,5 @@
-import Formalism.ThetaLogCoordinates.DualWeylCoordinates.StatementH
+import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DefsMod
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.InvariantSplit
-import GroundTheory.Brauer.BaseChangeRestriction
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

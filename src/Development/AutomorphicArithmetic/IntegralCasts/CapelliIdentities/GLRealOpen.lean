@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.GlR
 
 theorem UpperTheory.Reformulated.B.GLRealOpen.glR_open :

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.SiegelWeil₂.SiegelEisensteinContinuationOfDoublingMethod
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.ConstOneMemCuspFormsOfAnisotropic
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.DetGramSmul

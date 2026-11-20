@@ -1,13 +1,6 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalRingCardinality.SpanPowerMembership.FmZeroHLatEmpty
-import Formalism.LocalToGlobal.Columns.RhoEqOfSmulEq
-import Formalism.LocalToGlobal.Columns.GSetLemmas
-import Formalism.LocalToGlobal.Columns.PolyFn
-import Formalism.LocalToGlobal.Columns.CoefModB
 import Formalism.LocalToGlobal.Divisibility.Frames
-import Formalism.LocalToGlobal.Columns.FiniteSumNonzeroLargeDepth
 import Formalism.LocalToGlobal.KernelLattices.ThDistC
+import Formalism.LocalToGlobal.Columns.DecorationStabilizerTrivialUnipotent
 
 noncomputable section
 

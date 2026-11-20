@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.SiegelKlingenDeligneRibet
+import Formalism.SharpRestriction.GlobalSchurBounds.ShortIntervalPrimes
 
 set_option autoImplicit false
 

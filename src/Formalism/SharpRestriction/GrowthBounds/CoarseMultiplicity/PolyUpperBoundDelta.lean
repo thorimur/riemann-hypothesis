@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CoarseMultiplicityAtIdentity
 import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.TopDegreeLeTwoB
 import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseDegreeAlternative
+import Mathlib.Algebra.Order.Field.GeomSum
 
 noncomputable section
 

@@ -1,6 +1,7 @@
-import Mathlib
 import Formalism.MeanHeightDescent.MuMaxMinkowski
-import Formalism.HarderNarasimhan.ShiftInvariance
+import Formalism.HarderNarasimhan.HarderNarasimhanProofs.HtImage
+import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SizeMu
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
 
 open Module NumberField
 

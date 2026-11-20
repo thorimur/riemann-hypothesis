@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.ColumnData
 import Formalism.LocalToGlobal.GlobalTheory.GL3.PUnitBasis
 import Formalism.LocalToGlobal.KernelLattices.ColumnData.IsometryLinkageTrivialLevel
 

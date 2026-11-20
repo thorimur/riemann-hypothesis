@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.HasFiniteLengthOfIsIrreducible
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InductionFiniteLength
 import GroundTheory.AutomorphicForms.FiniteLength
 

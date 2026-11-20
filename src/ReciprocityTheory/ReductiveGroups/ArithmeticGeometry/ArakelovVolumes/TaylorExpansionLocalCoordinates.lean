@@ -1,5 +1,6 @@
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.IteratedFDerivEqZeroOfIsBigO
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.ZeroDimA
+import Mathlib.Analysis.Calculus.InverseFunctionTheorem.ContDiff
 
 namespace ReciprocityTheory.ChartRestriction.G.AR
 

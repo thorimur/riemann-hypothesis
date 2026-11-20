@@ -1,4 +1,5 @@
-import Development.WeilBound.CoreStatements.VolumeEquality.BaseUnifDefs
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.LieModel
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsHolPeriods
 
 noncomputable section
 

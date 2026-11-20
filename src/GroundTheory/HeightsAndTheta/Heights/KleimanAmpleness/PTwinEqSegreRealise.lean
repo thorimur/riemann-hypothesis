@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsTailRest
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsTailSide
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsSideRest
@@ -6,6 +5,9 @@ import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsTailFurther
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsTailExtra
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsFurtherExtra
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.GenericPtZeroNeZero
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.BlockVecSegreJoin
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.Fintype
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsTerAlt
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman.SectionsOverLocalization

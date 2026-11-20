@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.RecordEigen
+import Mathlib.NumberTheory.NumberField.Discriminant.Different
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.NineStatements

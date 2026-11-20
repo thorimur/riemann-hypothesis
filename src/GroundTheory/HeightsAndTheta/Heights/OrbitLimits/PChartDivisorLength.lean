@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StChartDivisorLength
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StChartDivisorComponents
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StChartSectionLength

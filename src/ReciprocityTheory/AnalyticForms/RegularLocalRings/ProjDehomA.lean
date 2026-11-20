@@ -1,4 +1,6 @@
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.SegreIdealIsHomogeneous
+import Mathlib.CategoryTheory.Monoidal.Mon
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 namespace ReciprocityTheory.AnForm.R
 

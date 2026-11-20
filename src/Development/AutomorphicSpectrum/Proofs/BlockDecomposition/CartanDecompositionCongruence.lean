@@ -1,10 +1,8 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.SquareIntegrableTempered.CentredSegments.IrreducibleUnif
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IrreducibleAdmissibleGL
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.StandardFunctorsFiniteLength
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.CartanExists
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFractionRingInteger
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteCosetsPrincipalCongruence
+import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Basic
 
 open Filter Topology MeasureTheory GlobalTheory.PRep GlobalTheory.SplitWeil GlobalTheory.SmGL GlobalTheory.LocGL GlobalTheory.JHMult ValuativeRel
 

@@ -1,6 +1,6 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.FundamentalDomainPointBound
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.TraceHermNondegenerate
+import Mathlib.GroupTheory.FiniteAbelian.Basic
+import Mathlib.Order.CompletePartialOrder
 
 open NumberField ReciprocityTheory.ChartRestriction.G.FD Module Submodule
 

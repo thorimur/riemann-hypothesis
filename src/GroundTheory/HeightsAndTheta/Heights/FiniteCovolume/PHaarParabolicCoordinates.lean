@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HaarSK
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsHaarParabolicCoordinates
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsLineStabHaar

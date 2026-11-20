@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.SecondBound
-import Development.AutomorphicArithmetic.AutomorphicVarieties.CMFieldExponentialBounds.AbelianFieldHasMuIffExistsPrimitiveRoot
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.GaloisCohomologyLength.ShaLenEqShaInv
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.Exc
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.Layerex
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.EquivOfRange
@@ -9,6 +5,7 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphism
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.Point2
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.Vvat
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LayeredIsomorphisms.Final
+import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.EqZeroOfNegEq
 
 open NumberField Formalism.GaloisCohomology UpperTheory.Top UpperTheory.V UpperTheory.V.LDataCardLeFinrank UpperTheory.V.Win
 

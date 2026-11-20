@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.RelativeIndexFlags.RelIndexEqIndexOfMul
+import Mathlib.Order.CompletePartialOrder
 
 namespace Formalism.L2.SG.Pf.RelativeIndexFlags.Filt
 

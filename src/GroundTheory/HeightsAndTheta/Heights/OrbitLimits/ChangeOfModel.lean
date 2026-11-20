@@ -1,13 +1,5 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.MixedFieldContraction.ContractMixedFieldStatement
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PChangeOfModel
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PIsomInvariance
-import GroundTheory.HeightsAndTheta.Heights.Intersections.ArithVarZero
-import GroundTheory.HeightsAndTheta.Heights.Intersections.IsMultiHomogRenameCoordPow
 import GroundTheory.HeightsAndTheta.Heights.Intersections.QuotientMapImageZInjective
-import GroundTheory.HeightsAndTheta.Heights.Intersections.IsHorizontalImageZIff
-import GroundTheory.HeightsAndTheta.Heights.Intersections.PtsIntegralLogNormRat
-import GroundTheory.HeightsAndTheta.Heights.Intersections.PConsequences
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ExistsUnique
 set_option maxSynthPendingDepth 1
 

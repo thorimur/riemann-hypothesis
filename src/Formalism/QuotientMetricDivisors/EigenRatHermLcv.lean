@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.RatHermLcvTwist
 
 open Module NumberField IsDedekindDomain

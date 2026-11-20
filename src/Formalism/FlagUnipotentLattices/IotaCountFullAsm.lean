@@ -1,4 +1,3 @@
-import Formalism.FlagUnipotentLattices.OmSumLong
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.LatticeDataCounting
 
 namespace Formalism.HermitianLatticeCounting.Final.S6

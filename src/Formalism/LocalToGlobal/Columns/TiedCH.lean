@@ -1,5 +1,7 @@
 import Formalism.LocalToGlobal.Columns.TiedRec
-import Formalism.LocalToGlobal.HermitianColumns.ColsHerm
+import Formalism.LocalToGlobal.HermitianColumns.CocycleZeroMemInvariants
+import Formalism.LocalToGlobal.HermitianColumns.CoordinateLatticeSelfDual
+import Formalism.LocalToGlobal.HermitianColumns.SplitGAlg
 
 noncomputable section
 

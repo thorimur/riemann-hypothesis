@@ -1,9 +1,5 @@
 import Formalism.SizeWindowBrackets.GrowthBracketBoundOfSizeWindows
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.GaloisMapComplexConjugation
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.LipschitzWeightAndMinimum
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.AdmissibleSchurLemma
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.CorollaryModelSideCondition
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.WeightedMeanLemmaNeedsDegree
 
 open Finset
 

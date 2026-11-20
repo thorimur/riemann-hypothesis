@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.HermitianLattices.StatementMass
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.LandherrAndLandherrSt
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsCMFieldOfStar
 

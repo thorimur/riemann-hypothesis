@@ -1,5 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ExistsInvariantNatLengthLattice
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Card
+import Mathlib.NumberTheory.LSeries.PrimesInAP
+import Mathlib.NumberTheory.Multiplicity
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.RingTheory.ZMod.UnitsCyclic
 
 namespace GlobalTheory
 

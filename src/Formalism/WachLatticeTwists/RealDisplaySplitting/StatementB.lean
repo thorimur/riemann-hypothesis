@@ -1,5 +1,5 @@
-import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapEverySecondPlace
 import Formalism.WachLatticeTwists.RamifiedBlockRings.LocalToDisplayFree
+import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapLift
 
 open Finset Classical
 

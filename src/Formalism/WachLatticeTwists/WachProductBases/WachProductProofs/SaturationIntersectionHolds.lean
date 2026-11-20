@@ -1,5 +1,4 @@
 import Formalism.WachLatticeTwists.WachProductBases.Statement
-import Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.AffineLineLocalAcyclicityOfStrictHenselianPoints
 
 noncomputable section
 

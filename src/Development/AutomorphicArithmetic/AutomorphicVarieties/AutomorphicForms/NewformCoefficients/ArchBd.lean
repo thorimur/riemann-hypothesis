@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformCoefficients.CuspCritAlt
+import Mathlib.NumberTheory.ModularForms.Bounds
 
 open UpperHalfPlane hiding I
 open CongruenceSubgroup

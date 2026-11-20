@@ -3,7 +3,7 @@ import Development.WeilBound.ThetaLifts.LocalTheory.StandardValuations.SmallFSin
 import Development.WeilBound.ThetaLifts.LocalTheory.UnramifiedDeterminedBySpherical
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.SplitCharacterFacts
 import Development.AutomorphicSpectrum.Proofs.MembershipProofs.ResCardAndUniformizer
-import Development.AbelianVarietyTheory.Definitions.Foundations.SecondCountableAndT2LocalField
+import Development.WeilBound.ThetaLifts.LocalTheory.UatClosure
 
 noncomputable section
 

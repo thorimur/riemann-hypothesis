@@ -1,9 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.GroupLattices.ServiceOfTiedSelection
 import Formalism.LocalToGlobal.GroupLattices.AdmissibleAtGeneratorPlaces
 import Formalism.SharpRestriction.GlobalSchurBounds.PlugDgt
-import Formalism.LocalToGlobal.TieTwRecOf
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.JoinSISel
+import Formalism.LocalToGlobal.ClassOfRecordOfChoice
 
 noncomputable section
 

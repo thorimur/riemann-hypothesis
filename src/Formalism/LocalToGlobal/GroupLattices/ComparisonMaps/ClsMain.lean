@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsOrb
+import Formalism.LocalToGlobal.GroupLattices.LevelGatherings.PtGComp
 
 noncomputable section
 

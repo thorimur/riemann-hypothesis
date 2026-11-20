@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsFlagModelHermSum
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EqOfIsometricTrivShift
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsSemiAbelianExponentialAlongDisc
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffAtGramOfImFormConst
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEquivOfExp

@@ -1,8 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.UnitaryNorms.IsUnitaryNormOf
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsOpenKerOfInfConn
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.HeckeCharFiniteOrderUnitIdele
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.InfDiagMulFinPartI
 
 noncomputable section
 

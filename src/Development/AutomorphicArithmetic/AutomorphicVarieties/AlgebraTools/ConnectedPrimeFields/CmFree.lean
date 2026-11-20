@@ -1,8 +1,6 @@
-import Mathlib
 import ReciprocityTheory.CommutativeAlgebra.ChainConnInDim
-import ReciprocityTheory.CommutativeAlgebra.SaturatedChains.IsSaturatedChain
 import ReciprocityTheory.CommutativeAlgebra.SaturatedChains.Integral
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.IsWeaklyRegularPairModOneLeft
+import Mathlib.RingTheory.Regular.Flat
 
 open IsLocalRing UpperTheory.V.AlgebraTools.Conn
 

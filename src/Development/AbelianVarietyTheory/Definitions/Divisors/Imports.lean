@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsNotRelZero
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.UnitaryConjugation
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsGridFr
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.BlkGLMem
 
 noncomputable section
 

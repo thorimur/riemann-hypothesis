@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.KeyFormula.KeyRootOfKeyFormula
-import Development.AbelianVarietyTheory.Statements.FundamentalDomains.KeyFormulaPowOfKeyFormula
 import Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ThetaKeyRuleValuationUnitOfFunctorialStatement
 import Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.FamUnit
 import Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.FamHomogOfHomog

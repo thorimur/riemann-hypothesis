@@ -1,8 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.ClassFormations.HighFormations
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.SignsCup
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.CupDecompositionGlobal
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits.SubsingletonCohomologyThreeInfiniteDecomposition
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

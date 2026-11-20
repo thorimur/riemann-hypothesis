@@ -1,4 +1,4 @@
-import Development.WeilBound.CoreStatements.PublishedTheorems.PotentialSemistability.DeRhamPotSemistableLit
+import Development.WeilBound.CoreStatements.HeckeCharacterDeRham.DeRhamHeckeResults.PotentiallySemistableDeRham.SemistableDeRhamStatement.Second
 
 noncomputable section
 

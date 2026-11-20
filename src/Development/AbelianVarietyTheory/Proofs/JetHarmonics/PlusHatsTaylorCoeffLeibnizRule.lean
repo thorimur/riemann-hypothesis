@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.SameFns
 
 namespace GlobalTheory.HatTaylorPlus

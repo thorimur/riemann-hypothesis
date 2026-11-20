@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.IntegralMonomial
+import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.SegDefs
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

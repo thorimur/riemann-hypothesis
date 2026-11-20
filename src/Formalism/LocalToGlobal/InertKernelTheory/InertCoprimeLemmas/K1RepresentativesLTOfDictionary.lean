@@ -1,10 +1,9 @@
 import Formalism.LocalToGlobal.InertKernelTheory.DefsRepLt
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.RepFrame
-import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.RepTwLat
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.RepAsm
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.RepScal
-import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.RepDataRec
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.RepTrace
+import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.RepComb
 
 noncomputable section
 

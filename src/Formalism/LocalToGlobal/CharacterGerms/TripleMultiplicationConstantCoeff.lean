@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.CharacterGerms.IndexRaiseFirst
+import Formalism.LocalToGlobal.CharacterGerms.ConstantZeroRestrictPoints
+import Formalism.LocalToGlobal.CharacterGerms.PderivDoubleMultiplicationJacobian
 
 set_option autoImplicit false
 

@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.WuBesselLoc
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QuotInv
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QuotSetU
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.Height
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.POrbitCurve
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.POrbitDegree

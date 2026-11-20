@@ -1,5 +1,5 @@
-import Formalism.WachLatticeTwists.LatticeDualFibres.FibreDualStable
-import Formalism.GaloisCohomology.LocalTateDualityK
+import Formalism.WachLatticeTwists.LatticeDualFibres.StatDualFibreLattice
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 namespace GlobalTheory.IntegralPowerMultiple
 

@@ -1,9 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MixglobA
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NotMemOfStanding
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PolynomialRouteSubmodule
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NegWLocalFunctionsThetaPureTensorStatement
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SquareStandingTripleThetaSecond
 
 noncomputable section
 

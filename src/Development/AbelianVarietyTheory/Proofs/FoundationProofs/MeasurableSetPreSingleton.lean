@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.GLVolumeIndex
+import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Card
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

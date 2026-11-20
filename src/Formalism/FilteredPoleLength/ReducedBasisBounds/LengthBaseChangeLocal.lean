@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.FilteredPoleLength.ReducedBasisBounds.ReductionQuotient
-import Formalism.IncomingBounds.IndexLastStep
+import Formalism.LogFactorialIndices.StatementIdx
 
 noncomputable section
 

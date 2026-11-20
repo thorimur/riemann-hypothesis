@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsStepThreeOnWGen
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsRestrictGenerated
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.RestrLenRestrictSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PNefRestrict
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTwistAlg
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PStepDataJProper
@@ -9,6 +7,9 @@ import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSubvarDrop
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PPrimeFiltrationRestrict
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGenerated
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PExtension
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PRestrictTwist
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PVeryAmpleNefPlusAmple
+import Mathlib.RingTheory.GradedAlgebra.Radical
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

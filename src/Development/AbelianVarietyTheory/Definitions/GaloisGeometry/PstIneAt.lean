@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.CharacterLevelCondition
-import Development.AbelianVarietyTheory.Statements.EllipticCurveLevels.X0OfStarCondition
 
 noncomputable section
 

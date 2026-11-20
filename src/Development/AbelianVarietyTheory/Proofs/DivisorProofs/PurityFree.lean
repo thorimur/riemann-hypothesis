@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.CommutativeAlgebra.CohenMacaulay.ModDepthGE
 
 open IsLocalRing

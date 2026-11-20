@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.SphericalIntegral
 import GroundTheory.AutomorphicForms.SatakeSymmetric
 import GroundTheory.LocalFields.LocalFourierHaar

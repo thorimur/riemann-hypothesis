@@ -1,6 +1,6 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.FderivIntegralApplyOfHolomorphicOfDominated
+import Mathlib.RingTheory.PicardGroup
 
 open scoped ContDiff Topology Interval
 open Filter Metric Set

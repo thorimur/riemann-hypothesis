@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsPFFibreSum
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsPFFibreBij
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsPFFibreMult
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.MixedFieldContraction.ContractMixedFieldStatement
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Inter

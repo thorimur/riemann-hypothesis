@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.InertKernelTheory.StatementKap
+import Formalism.LocalToGlobal.KernelLattices.KerStd
+import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.UniformGaussModelConditionEquivalent
 
 noncomputable section
 open scoped BigOperators

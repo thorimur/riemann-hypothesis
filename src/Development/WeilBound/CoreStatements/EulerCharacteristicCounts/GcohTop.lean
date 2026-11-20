@@ -1,4 +1,3 @@
-import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohCmp
 import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohField
 import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohMu
 import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohTate

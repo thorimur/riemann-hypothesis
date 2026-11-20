@@ -1,6 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGermLow
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GermPartsCompactSupport
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.MinLeTruncatedExponential
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGermParts
 
 namespace Formalism.FourierDecayAlt.P.CutBP
 

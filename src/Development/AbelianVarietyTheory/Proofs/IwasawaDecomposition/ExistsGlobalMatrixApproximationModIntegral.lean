@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.GrowthBounds.UnramifiedQuadraticSetting
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsGlobalLatticeLocalGiven
 
 noncomputable section

@@ -1,8 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.UnitaryAdmissible.Scalar
 import GroundTheory.AutomorphicForms.TensorProductTheorem.NonemptyAdelicDecomposition
-import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.GKStableCartan
-import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.GKStableLaplacian
 
 namespace GroundTheory.Automorphic
 

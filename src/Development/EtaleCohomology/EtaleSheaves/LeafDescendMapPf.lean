@@ -1,4 +1,7 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafDescendVCut
+import Mathlib.AlgebraicGeometry.QuasiAffine
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite LateralTheory.E.E4 LateralTheory.E.LeafDescendVCut

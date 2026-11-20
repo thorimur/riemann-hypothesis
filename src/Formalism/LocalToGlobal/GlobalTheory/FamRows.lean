@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.GlobalTheory.FamCol
-import Formalism.LocalToGlobal.IndefiniteForms.IndefSide
 import Formalism.LocalToGlobal.Divisibility.LiftLat
 
 open Module NumberField IsDedekindDomain Matrix

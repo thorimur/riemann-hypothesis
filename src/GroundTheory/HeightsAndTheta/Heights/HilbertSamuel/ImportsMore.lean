@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ImportsBisAlt
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsPowerBlock
 set_option maxSynthPendingDepth 1

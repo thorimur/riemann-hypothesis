@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.SamePartIffOfNeZero
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.FactorialLeTwoMulCardPermWithFixedPointStatement
+import Std.Tactic.BVDecide.Normalize.Prop
 open Polynomial Classical GlobalTheory.BadShare
 
 namespace GlobalTheory.StableSubset

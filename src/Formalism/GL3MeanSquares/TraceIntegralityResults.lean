@@ -4,7 +4,6 @@ import Formalism.GL3MeanSquares.HookFormulaTorsion.SeparatedSetPackingBound
 import Formalism.GL3MeanSquares.HookFormulaTorsion.BlockOperatorNormBound
 import Formalism.GL3MeanSquares.HookFormulaTorsion.HookRowProductEqFactorial
 import Formalism.GL3MeanSquares.HookFormulaTorsion.OrthogonalMinorBound
-import Formalism.GL3MeanSquares.HookFormulaTorsion.SumLogFactorialRowsBounds
 import Formalism.GL3MeanSquares.HookFormulaTorsion.SquareMomentArithmeticBound
 
 namespace Formalism.HermitianLattices.Final

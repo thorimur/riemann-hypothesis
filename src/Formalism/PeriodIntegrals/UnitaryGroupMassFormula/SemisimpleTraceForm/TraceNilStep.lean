@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.SSAscent
 
 namespace PI.SSAscent.UnitaryGroupMassFormula

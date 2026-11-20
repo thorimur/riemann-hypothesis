@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardBlockParabolicSubgroupGL
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RowBlockIndicatorFromLtIff
 open NumberField UniqueFactorizationMonoid GlobalTheory.StdLoc
 
 set_option maxHeartbeats 1000000 in

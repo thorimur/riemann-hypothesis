@@ -1,5 +1,4 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.SquareIntegrable.WhittakerModelGL2
-import GroundTheory.AutomorphicForms.MeasuresGL
 
 noncomputable section
 

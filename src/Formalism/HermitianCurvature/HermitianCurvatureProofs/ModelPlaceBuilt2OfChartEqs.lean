@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ModelPlaceBuilt2OfPublished
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEllRegW
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAPRSSnRep
 
 namespace Formalism.FourierDecayAlt.P.CutMP
 

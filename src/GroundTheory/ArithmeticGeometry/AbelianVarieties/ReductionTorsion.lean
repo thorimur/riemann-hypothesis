@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.FormalGroupReduction
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.FormalGroupTorsion
 

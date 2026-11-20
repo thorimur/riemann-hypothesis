@@ -1,7 +1,3 @@
-import Mathlib
-import Formalism.HermitianCurvature.StatementU
-import Formalism.HermitianCurvature.StatementQ
-import Formalism.HermitianCurvature.LetterProductDoubleDegreeCount
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelFormSesquilinearFiniteClass
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.CovectorMultiplierShift
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.EhInvEntry

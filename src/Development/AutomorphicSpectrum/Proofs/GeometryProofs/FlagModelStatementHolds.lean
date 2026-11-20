@@ -1,9 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Statements.GeometryStatements.FlagModelStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.FlagModelCommonRefinementStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LatticeFlagVectorBundleStatement
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LatticeSubQuotientSplitStatement
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.GenMapStalkMap
 
 noncomputable section
 

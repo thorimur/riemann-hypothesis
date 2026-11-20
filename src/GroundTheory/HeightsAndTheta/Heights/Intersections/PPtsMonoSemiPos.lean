@@ -1,7 +1,4 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterFib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterBridgeA
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.MdiscSt
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StPtsMonoSemiPos
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StSheetHessPSD
 set_option maxSynthPendingDepth 1

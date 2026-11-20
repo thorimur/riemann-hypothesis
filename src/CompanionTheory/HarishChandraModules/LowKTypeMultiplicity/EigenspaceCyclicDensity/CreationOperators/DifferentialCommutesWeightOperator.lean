@@ -1,4 +1,5 @@
 import CompanionTheory.HarishChandraModules.LowKTypeMultiplicity.EigenspaceCyclicDensity.CreationOperators.DifferentialBoundedSupport
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Finset
 

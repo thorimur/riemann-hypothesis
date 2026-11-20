@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.TruncatedSeriesCounting.StatementX
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.TruncatedSeriesCounting.X
 

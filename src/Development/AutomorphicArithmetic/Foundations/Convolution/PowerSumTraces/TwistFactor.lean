@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.TermEDefs
+import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.TensFactor
 
 noncomputable section
 

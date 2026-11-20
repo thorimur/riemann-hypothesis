@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SemiposAtOfPositive
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemConeOfMem
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormsOfInduces
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalFiniteDominantRefinementStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoverLiftThroughNormalStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoverDominatingPairStatement

@@ -1,8 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GermContinuity
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGInt
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGCongr
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGSlice
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEX_UwTop
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutLimE
 
 namespace Formalism.FourierDecayAlt.P.CutBP

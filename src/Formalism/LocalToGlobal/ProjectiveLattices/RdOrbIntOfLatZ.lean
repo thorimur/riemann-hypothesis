@@ -1,4 +1,6 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.IntegrableOnIntegrand
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 
 set_option autoImplicit false
 

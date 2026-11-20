@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.WeightCongruences.ProdNegOneZpow
 
 namespace UpperTheory.MUQ

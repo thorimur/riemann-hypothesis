@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.IsIrrKSubOfIsKTypeOf
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AnalyticIntertwiners.HarishChandraModulesIndefiniteUnitaryGroup
-import Development.WeilBound.HeckeVectors.SmoothVectors.SobolevApproximation.PCDense
 
 open Matrix
 

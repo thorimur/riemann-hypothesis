@@ -1,11 +1,9 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.DzKLink
 import Development.DiscreteGroups.GlobalIrreducibility.DzKName
 import Development.DiscreteGroups.GlobalIrreducibility.OrbitOfAgree
 import Development.DiscreteGroups.GlobalIrreducibility.DzKSchur
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.CentralIdempotentIrreducibleCharacterProps
-import Development.AbelianVarietyTheory.Proofs.CharacterTheory.GeneralLinearFunctionExtendZeroEndPropertiesStatement
 import Development.DiscreteGroups.GlobalIrreducibility.DzMatchCut
+import Development.DiscreteGroups.GlobalIrreducibility.MassEqZeroOfNotPrimary
 
 open Polynomial GlobalTheory.CuspGL GlobalTheory.GLq GlobalTheory.Published
 

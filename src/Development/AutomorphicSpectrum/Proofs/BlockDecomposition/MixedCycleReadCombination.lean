@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsSmoothHermCombLine
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HermRepTensorProduct
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HermRepDualInverse

@@ -1,8 +1,4 @@
 import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.IsDiscriminantTwelfthRootOfIdealLattice
-import Formalism.SharpRestriction.GlobalSchurBounds.GL3Theta
-import Formalism.SharpRestriction.GlobalSchurBounds.StandardLatticesGL3
-import Formalism.LocalRingCardinality.DataForms
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 
 open NumberField
 

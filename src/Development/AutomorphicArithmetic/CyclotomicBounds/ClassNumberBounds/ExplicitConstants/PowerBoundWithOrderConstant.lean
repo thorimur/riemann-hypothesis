@@ -1,5 +1,4 @@
 import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.ExplicitConstants.UniformIffAboveThreshold
-import Mathlib
 
 open Filter Set Real
 

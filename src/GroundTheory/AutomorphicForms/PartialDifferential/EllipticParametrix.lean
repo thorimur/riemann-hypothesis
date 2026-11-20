@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.PartialDifferential.EllipticSolutions
+import GroundTheory.AutomorphicForms.PartialDifferential.EllipticDiffOp
+import GroundTheory.AutomorphicForms.PartialDifferential.EllipticSmooth
 
 namespace GroundTheory.Automorphic.Sobolev
 

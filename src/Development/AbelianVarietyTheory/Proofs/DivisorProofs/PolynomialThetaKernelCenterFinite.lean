@@ -1,7 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToGAdMat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WordHolomorphicAndUniform
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolDataThetaLinear
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarizedDataTensorDecompositionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryToGAdInfPointsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothModuleFiniteRankStatement

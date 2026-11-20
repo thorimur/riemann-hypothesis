@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFOpOKMulG
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFTopDomEmpty
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaSesquilinearity
 
 namespace Formalism.FourierDecayAlt.P.CutBP
 

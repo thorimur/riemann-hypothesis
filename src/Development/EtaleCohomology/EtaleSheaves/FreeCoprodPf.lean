@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.CoprodPf
+import Mathlib.CategoryTheory.Sites.Adjunction
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC Opposite

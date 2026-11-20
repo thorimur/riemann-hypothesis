@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousFourierGau
+import Mathlib.Analysis.Complex.Conformal
+import Mathlib.Analysis.Complex.MeanValue
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

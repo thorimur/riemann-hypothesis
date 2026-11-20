@@ -1,5 +1,4 @@
 import Development.WeilBound.KatoCoprimality.CoprimePowers.CoprimePowerSubOne.CoprimePowSubOne
-import Formalism.LocalRingCardinality.AdicCompletionLocal.InstIsAdicCompleteOCSpanSingletonSetCast
 import Development.AbelianVarietyTheory.CrystallinePeriods.RingBasics
 
 theorem UpperTheory.Gal.Seam.sigC_eq :

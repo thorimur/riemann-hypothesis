@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.LangPolynomials.FixedIntegersIsUnitOfNotMemPrimeSpan
 import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.LangPolynomials.PConj
 import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.LangPolynomials.FrobEx
 

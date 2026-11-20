@@ -1,5 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.AdicExtensionMatrices.AdicContMap
-import Mathlib.RingTheory.AdicCompletion.RingHom
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SxLimPt
 
 open IsLocalRing Polynomial UpperTheory.V.Alg UpperTheory.V.GradeZeroInterpolatingElement UpperTheory.V.Ws

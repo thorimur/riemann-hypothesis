@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PNumberFieldBoxCount
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PLatticeImageZLattice
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PCovolumeRelIndex

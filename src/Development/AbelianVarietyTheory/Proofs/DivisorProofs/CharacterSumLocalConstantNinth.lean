@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CosetRefinement
-import Formalism.LocalToGlobal.Columns.BaseLemmas
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.PaddedLastEntry
 
 namespace GlobalTheory.ColNorms.StepRows
 

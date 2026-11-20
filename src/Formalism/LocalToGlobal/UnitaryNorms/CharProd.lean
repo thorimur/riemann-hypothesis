@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.UnitaryNorms.IsUnitaryNormOf
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HeckeProd
 
 noncomputable section

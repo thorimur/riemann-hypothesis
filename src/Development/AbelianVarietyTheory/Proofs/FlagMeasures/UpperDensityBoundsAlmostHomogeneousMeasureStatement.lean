@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.UpperDensityBoundsAlmostHomogeneousMeasure
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.UpperDens
 open MeasureTheory Filter Topology
 open scoped ENNReal NNReal
 set_option maxHeartbeats 1000000 in

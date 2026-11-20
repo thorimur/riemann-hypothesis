@@ -1,6 +1,10 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.IsFirstOrderDeformationOfRZero
 import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.LMemMax
 import Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.CommOfIntegral
+import Mathlib.Algebra.Module.Submodule.Union
+import Mathlib.Dynamics.Newton
+import Mathlib.LinearAlgebra.Matrix.IsDiag
+import Mathlib.RingTheory.Nilpotent.Exp
 open Formalism.ConjugateSelfDual ReciprocityTheory.Gal Module UpperTheory.V.Loc UpperTheory.V.Alg UpperTheory.V.GradeZeroInterpolatingElement UpperTheory.V.HV UpperTheory.V.Base IsLocalRing
 
 namespace UpperTheory.V.Loc.RankFourLocalLifting

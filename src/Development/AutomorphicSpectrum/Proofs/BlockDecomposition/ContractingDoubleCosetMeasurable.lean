@@ -1,7 +1,12 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.SquareIntegrableTempered.CasselmanCriterion.Zj
-import GroundTheory.AutomorphicForms.SupercuspidalCoefficients
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideSide
+import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsTemperedCoeff
+import GroundTheory.AutomorphicForms.GLnLocal
+import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Basic
+import Mathlib.RingTheory.Henselian
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open GlobalTheory.PRep GlobalTheory.SplitWeil GlobalTheory.SmGL GlobalTheory.LocGL GlobalTheory.JHMult
 

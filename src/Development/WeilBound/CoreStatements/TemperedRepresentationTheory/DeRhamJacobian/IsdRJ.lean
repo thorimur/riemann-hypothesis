@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.HeckeLAdicCharacterDeRham
+import Formalism.SharpRestriction.LevelLetterCocycles.DataN
 
 noncomputable section
 

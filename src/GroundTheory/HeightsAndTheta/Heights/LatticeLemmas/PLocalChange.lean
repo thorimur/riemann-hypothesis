@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.StatementsIndex
+import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.Statements
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.LatticeLemmas

@@ -1,13 +1,9 @@
-import Mathlib
-import Formalism.LocalToGlobal.NormalizedHeckeFactors.TypesDefs
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.CoeffZeroNeOfMonicIrr
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.TwDefs
-import Formalism.LocalToGlobal.NormalizedHeckeFactors.RingSpecSidedEmbeddingFixedField
-import Formalism.LocalToGlobal.UnitaryNorms.CharGal
-import Formalism.LocalRingCardinality.DataIdx
 import Formalism.SharpRestriction.LevelLetterCocycles.TwGood
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BlocksUnique
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.TwistBaseCoefficientRingResidueFieldFinite
+import Formalism.LocalToGlobal.NormalizedHeckeFactors.ChiDefs
 
 noncomputable section
 

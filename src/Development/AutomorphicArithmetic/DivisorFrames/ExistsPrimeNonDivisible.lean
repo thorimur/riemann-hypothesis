@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MemRadicalOfHolomorphicRatioTendsto
-import Formalism.LocalToGlobal.ProjectiveLattices.ReadAlg
 
 private theorem exists_least_of_total {ι : Type} (r : ι → ι → Prop) (htot : ∀ i j, r i j ∨ r j i)
     (htr : ∀ i j k, r i j → r j k → r i k) (i₀ : ι) (s : Finset ι) : ∃ i, ∀ j ∈ s, r i j := by

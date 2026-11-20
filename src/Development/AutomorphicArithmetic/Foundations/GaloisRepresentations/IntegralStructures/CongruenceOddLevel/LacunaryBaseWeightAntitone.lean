@@ -1,5 +1,6 @@
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.LimWPhi
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormLeOneOfIsIntegralInt
+import Development.AbelianVarietyTheory.Definitions.Divisors.OverPair
 
 noncomputable section
 

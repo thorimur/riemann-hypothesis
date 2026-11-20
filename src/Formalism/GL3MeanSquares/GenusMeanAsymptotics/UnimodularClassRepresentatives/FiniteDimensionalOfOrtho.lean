@@ -1,6 +1,9 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassSt
-import Formalism.HermitianLattices.HermitianLatticesProofs.MassBasic
 import Formalism.HermitianLattices.HermitianLatticesProofs.LocDual
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open NumberField Module
 

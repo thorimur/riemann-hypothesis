@@ -1,5 +1,5 @@
 import Development.AbelianVarietyTheory.Definitions.Divisors.RangeShape
-import Mathlib
+import Mathlib.RingTheory.Complex
 
 section
 

@@ -1,5 +1,5 @@
-import ReciprocityTheory.GroupCohomology.CupConnRightStatement
 import ReciprocityTheory.GroupCohomology.Section
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace ReciprocityTheory.Coh.InflationTransgression
 

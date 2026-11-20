@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.PlaceBelow
 
 set_option autoImplicit false

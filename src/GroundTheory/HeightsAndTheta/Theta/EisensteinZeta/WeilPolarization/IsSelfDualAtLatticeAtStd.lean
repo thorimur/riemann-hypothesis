@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HermitianExistence
-import GroundTheory.AutomorphicForms.HermitianOrthogonal
 set_option maxSynthPendingDepth 1
 
 noncomputable section

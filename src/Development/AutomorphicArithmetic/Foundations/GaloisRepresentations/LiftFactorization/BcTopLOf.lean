@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.LiftFactorization.RamLiftOf
+import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.LiftFactorization.PolFalseIff
 
 noncomputable section
 

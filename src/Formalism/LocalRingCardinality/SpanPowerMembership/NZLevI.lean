@@ -1,4 +1,6 @@
 import Formalism.LocalRingCardinality.SpanPowerMembership.NZLevH
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZLevE
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZLevG
 
 open MvPolynomial
 

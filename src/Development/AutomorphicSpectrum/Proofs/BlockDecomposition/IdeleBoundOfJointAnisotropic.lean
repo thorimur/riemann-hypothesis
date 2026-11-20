@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnipMinSubsetMinParOne
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CvecSurjective
-import GroundTheory.AutomorphicForms.AnisotropicUnitaryHeight
+import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.Objects
 
 set_option linter.unusedSectionVars false
 set_option maxSynthPendingDepth 1

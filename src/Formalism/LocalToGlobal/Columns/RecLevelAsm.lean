@@ -1,7 +1,4 @@
 import Formalism.LocalToGlobal.Columns.RecLevelCls
-import Formalism.LocalToGlobal.Columns.RecLevelTop
-import Formalism.LocalToGlobal.Columns.RecLevelDiv
-import Formalism.LocalToGlobal.Columns.RecLevelHost
 
 open NumberField IsDedekindDomain Matrix
 open scoped TensorProduct

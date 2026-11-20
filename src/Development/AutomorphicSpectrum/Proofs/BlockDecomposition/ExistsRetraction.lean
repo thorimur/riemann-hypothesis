@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.WittExactSequences.IsCompl
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OneTmulMemRangeIff
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CovOfAlgHom
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsPQ

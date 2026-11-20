@@ -1,5 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ValuationMultiplicationInvariance
+import Mathlib.NumberTheory.NumberField.CMField
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option autoImplicit false
 

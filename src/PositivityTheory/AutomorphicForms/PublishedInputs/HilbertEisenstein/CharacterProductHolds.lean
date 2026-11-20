@@ -1,4 +1,5 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.HcToIdele
+import GroundTheory.GlobalFields.TateThesis.RootNumberLocalFinite
 
 noncomputable section
 

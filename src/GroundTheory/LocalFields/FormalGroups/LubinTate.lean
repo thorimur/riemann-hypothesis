@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.LocalFields.FormalGroups.Basics
+import Mathlib.RingTheory.MvPowerSeries.Expand
 
 namespace GroundTheory.LocalField.FormalGroup
 

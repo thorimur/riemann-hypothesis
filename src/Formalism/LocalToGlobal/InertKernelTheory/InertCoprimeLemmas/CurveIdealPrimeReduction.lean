@@ -1,9 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.InertKernelTheory.StatementCc
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.HalfTorsionNotMemCmLattice
 import Formalism.LocalToGlobal.GlobalTheory.GL3.CubicFields.EpsteinZeta.Homothety
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.InertPrime
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuadraticInvariants.QuadPolyIrreducible
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuadraticDedekindZeta.GenBase
 
 noncomputable section

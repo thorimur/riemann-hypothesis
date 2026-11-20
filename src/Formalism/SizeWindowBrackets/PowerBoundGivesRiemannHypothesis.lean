@@ -1,5 +1,4 @@
 import Formalism.StatementOC
-import Mathlib.NumberTheory.LSeries.RiemannZeta
 
 namespace Formalism.LFunctionChainParameters.ConditionalMainTheorem
 

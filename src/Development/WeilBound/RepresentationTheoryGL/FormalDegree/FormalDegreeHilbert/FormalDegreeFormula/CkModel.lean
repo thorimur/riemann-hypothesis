@@ -1,6 +1,4 @@
 import Development.WeilBound.RepresentationTheoryGL.FormalDegree.FormalDegreeHilbert.FormalDegreeFormula.ModelFunctionsMultiply
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelTau
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Weight
 
 noncomputable section
 

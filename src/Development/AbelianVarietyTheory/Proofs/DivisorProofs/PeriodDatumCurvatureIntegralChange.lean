@@ -1,11 +1,9 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExtMapApply
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodMapMoebiusDenomUnitStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodVectorMoebiusTransformStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CurvatureReframedMetricEqStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExtMapCompStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExtMapOneStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegralSymplecticPreimageEqStatement
+import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.TranslationInv
 
 set_option autoImplicit false
 

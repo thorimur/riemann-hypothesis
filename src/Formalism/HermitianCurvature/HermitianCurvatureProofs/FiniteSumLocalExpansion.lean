@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FourTermExpansion
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CvRhoOfParts
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.JfCVUnderIntOfParts
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellOrbitSet
 

@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.SecondCountableQuotients.NContract
 
 open Matrix

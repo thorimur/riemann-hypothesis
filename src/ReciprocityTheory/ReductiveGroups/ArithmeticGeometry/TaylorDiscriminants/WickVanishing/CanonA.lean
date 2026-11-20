@@ -1,8 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.WickVanishing.LogInv
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.WickVanishing.LogPoinc
-import Mathlib.RingTheory.Unramified.Field
 import Mathlib.RingTheory.Unramified.Pi
-import Mathlib.RingTheory.Unramified.Finite
 import Mathlib.RingTheory.LocalProperties.Reduced
 
 noncomputable section

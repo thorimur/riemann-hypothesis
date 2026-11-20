@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DensityLemma.PGsWitt
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CompactGroupHaarExists
 
 open MeasureTheory Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.C6
 

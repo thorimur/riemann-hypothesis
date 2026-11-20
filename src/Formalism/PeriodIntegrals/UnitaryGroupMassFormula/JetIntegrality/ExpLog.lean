@@ -1,8 +1,6 @@
 import Formalism.PeriodIntegrals.JetsPhW
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralMv
-import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CapelliComplements.FirstLemmaG
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralPolynomialFirst
-import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CapelliComplements.FirstLemmaF
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralPolynomialThird
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralPolynomialFourth
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.UnitBall
@@ -12,6 +10,11 @@ import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.Integra
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerAlt
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntMvPderiv
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralPolynomialSecond
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

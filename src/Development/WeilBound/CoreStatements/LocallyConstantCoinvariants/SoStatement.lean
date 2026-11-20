@@ -1,4 +1,8 @@
 import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.CompFinLiftE
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HermitianSelfDualLatticeSpaceFormHermitianNondeg
+import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PureEqPureA
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.IndicatorMem
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.RightOnto
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentCost.LetterSize
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.DirectionsInParabolic
 
 open Matrix Filter Topology

@@ -1,6 +1,9 @@
 import Formalism.HermitianCurvature.TopEntryWaveEquation
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TopTwistDensOfWaveQQ
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HasFDerivAtFsvSelf
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.FsvMulFsvNeg
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.InsCombineMk
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.LiftMemMatrixAlgebra
 
 open Matrix MeasureTheory
 open scoped ComplexConjugate

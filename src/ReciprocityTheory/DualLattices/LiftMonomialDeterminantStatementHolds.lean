@@ -1,6 +1,5 @@
 import ReciprocityTheory.DualLattices.LiftMonomialDeterminantStatement
 import ReciprocityTheory.DualLattices.ProdEraseUpdate
-import ReciprocityTheory.DualLattices.IsLocalOfIntegers
 
 noncomputable section
 

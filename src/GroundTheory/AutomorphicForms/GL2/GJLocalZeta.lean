@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJLaurentIdeal
 import GroundTheory.AutomorphicForms.GL2.GJZetaCore
 set_option maxSynthPendingDepth 1

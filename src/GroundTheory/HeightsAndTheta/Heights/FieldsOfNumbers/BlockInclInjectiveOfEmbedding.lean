@@ -1,9 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.ContractBlocksSplitPrime
-import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameHilbFn
-import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameIntNum
-import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRelevantPrimeDimGe
-import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.ContractRelevant
+import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.Statements
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.FieldNumbers

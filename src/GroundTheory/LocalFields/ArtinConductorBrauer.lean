@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.LocalFields.ArtinConductorIrreducible
 import GroundTheory.LocalFields.ArtinConductorDiscriminant
 import GroundTheory.LocalFields.BrauerInduction
+import GroundTheory.LocalFields.BrauerInductionAssembly
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
+import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 
 namespace GlobalTheory.StandardLatticeSpan
 

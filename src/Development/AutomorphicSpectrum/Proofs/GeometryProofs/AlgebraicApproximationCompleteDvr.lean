@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.OneLtAbsNormReal
 import Development.WeilBound.CoreStatements.CommonZeroEvaluation.AlgebraicApproximationValued
 open Formalism.L2.Pj
 

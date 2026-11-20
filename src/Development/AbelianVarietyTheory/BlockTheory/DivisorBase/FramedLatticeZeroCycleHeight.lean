@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.SemistableReduction.SphereLogIntegrableStatement
 import Development.AbelianVarietyTheory.Definitions.Divisors.PointHeight
 
 set_option autoImplicit false

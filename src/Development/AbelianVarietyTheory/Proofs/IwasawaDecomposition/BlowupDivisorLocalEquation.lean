@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InRealConeSelf
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MemIdealOfFlatStalkPullbackStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.QuasiCompactQuasiSeparatedOverBaseStatement

@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeasurableToGLEntry
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFourierSuperposition
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 open MeasureTheory GlobalTheory.JSW
 open scoped FourierTransform ContDiff
 

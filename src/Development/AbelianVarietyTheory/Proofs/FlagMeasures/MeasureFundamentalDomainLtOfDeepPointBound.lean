@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.CuspFrameWeights.ConvolutionSmoothL2
 import Development.AbelianVarietyTheory.Statements.CuspFrameWeights.SameKindIsometric
 import Development.AbelianVarietyTheory.BlockTheory.SiegelWeilLocal.DeepKernelBound
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.DeepRegionExponents

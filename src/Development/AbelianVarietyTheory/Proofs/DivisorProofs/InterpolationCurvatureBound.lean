@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HermitianInterpolation
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeightBoundConst
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InterpolatedMetricCurvatureBoundStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogMetricGradientFormBoundStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CutWeightContDiffOnMemIcc

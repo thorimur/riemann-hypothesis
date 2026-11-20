@@ -1,14 +1,10 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.WeakStable
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.SatDict
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.UnlSph
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.UnrNorm
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.WeakStableAlt
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.NormRam
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.Unlinked
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.SmoEq
-import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.Places
-import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.NormCharSplit
+import PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PBasic
 
 noncomputable section
 

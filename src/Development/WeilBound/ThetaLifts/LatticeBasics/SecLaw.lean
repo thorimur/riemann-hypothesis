@@ -1,6 +1,6 @@
 import Development.WeilBound.ThetaLifts.LatticeBasics.Hypotheses2
-import Development.WeilBound.ThetaLifts.LatticeBasics.SliceSeminorm
 import GroundTheory.GlobalFields.TateThesis.AdeleScaling
+import GroundTheory.AutomorphicForms.ReductionMeasure
 
 noncomputable section
 

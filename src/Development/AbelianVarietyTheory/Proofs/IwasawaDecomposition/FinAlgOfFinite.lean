@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.ThDistC
+import Mathlib.Data.Finset.Functor
 
 noncomputable section
 

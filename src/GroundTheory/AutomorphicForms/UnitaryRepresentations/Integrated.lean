@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.UnitaryRepresentations.IsInvariantIffCommuteStarProjection
+import Mathlib.MeasureTheory.Function.L2Space
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.ContinuousMap.CompactlySupported
 
 namespace GroundTheory.Automorphic
 

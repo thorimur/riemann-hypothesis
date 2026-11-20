@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.DivisorCycles.CycleCount
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Tactic.Polynomial.Basic
 
 open Matrix PositivityTheory.AutomorphicGaloisHodgeTate.Div
 

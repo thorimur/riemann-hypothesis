@@ -1,7 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.IsCombAt
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.TowerOrigin
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.OverLaUnique
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

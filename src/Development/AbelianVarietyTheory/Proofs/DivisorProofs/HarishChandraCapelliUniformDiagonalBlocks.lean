@@ -1,9 +1,9 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.CentralNilGL
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BlkEquivInl
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CommutingMonicOperatorPolynomials
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolyMapOfSum
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteDimensionalSpanAdjoinStatement
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.QdetPolyMapMonic
+import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
 
 open NumberField MeasureTheory GlobalTheory.CuspRep
 

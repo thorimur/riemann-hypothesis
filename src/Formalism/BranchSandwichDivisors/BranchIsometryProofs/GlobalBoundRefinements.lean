@@ -2,12 +2,14 @@ import Formalism.BranchSandwichDivisors.DualLevelType
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.TheoremDivIneq
 import Formalism.BranchSandwichDivisors.BranchIsometryProofs.TransferMean
 import Formalism.BranchSandwichDivisors.BranchIsometryProofs.StepDiii
-import Formalism.BranchSandwichDivisors.BranchIsometryProofs.Transfer
-import Formalism.BranchSandwichDivisors.BranchIsometryProofs.MapScale
-import Formalism.BranchSandwichDivisors.BranchIsometryProofs.OrthSum
-import Formalism.BranchSandwichDivisors.BranchIsometryProofs.Numeric
-import Formalism.BranchSandwichDivisors.BranchIsometryProofs.Interlace
-import Formalism.BranchSandwichDivisors.BranchIsometryProofs.GoodDual
+import Mathlib.Data.Rat.Star
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 
 open Finset Module NumberField IsDedekindDomain
 

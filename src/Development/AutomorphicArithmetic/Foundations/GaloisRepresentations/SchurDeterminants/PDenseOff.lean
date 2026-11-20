@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SchurDeterminants.PairSplit
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Finset MvPolynomial UpperTheory.Gal.Schur
 

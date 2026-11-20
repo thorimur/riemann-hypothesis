@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.CharacterGerms.ValBlocksCChart
 import Formalism.LocalToGlobal.CharacterGerms.NormOneIntegral
 
 noncomputable section

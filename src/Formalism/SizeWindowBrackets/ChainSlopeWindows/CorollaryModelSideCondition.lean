@@ -1,6 +1,9 @@
 import Formalism.SizeWindowBrackets.SlopeExcessBoundExponentZero
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.WeightedMeanLemmaNeedsDegree
-import Formalism.RankGapBounds.RankGapProofs.WeightedMeanData
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Real Filter
 

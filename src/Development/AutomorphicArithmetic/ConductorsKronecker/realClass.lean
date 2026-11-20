@@ -1,6 +1,5 @@
-import Development.AutomorphicArithmetic.PrimitiveCosets.CoreAtH
-import Development.AutomorphicArithmetic.PrimitiveCosets.ToEBij
 import Development.AutomorphicArithmetic.MeanSquareBounds.realCond
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.Analytic
 
 open UpperTheory.Comparison₂ Deduction.CH Formalism Formalism.HC Formalism.D5 Formalism.LFunctionChainParameters.characterSumData Formalism.LFunctionChainParameters.ThickSetMeanBounds Formalism.LFunctionChainParameters.LHost NumberField Ideal
 

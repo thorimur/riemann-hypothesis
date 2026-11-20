@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.LocalFourierSchwartz
 
 noncomputable section

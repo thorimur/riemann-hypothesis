@@ -1,5 +1,4 @@
-import Mathlib
-import Development.EtaleCohomology.EtaleTrace.ChartGenOnPf
+import Development.EtaleCohomology.EtaleTrace.ChartGenOnPfCut
 
 section
 noncomputable section

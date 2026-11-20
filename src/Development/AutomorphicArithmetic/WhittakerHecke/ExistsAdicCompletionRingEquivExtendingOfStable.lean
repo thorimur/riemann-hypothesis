@@ -1,5 +1,5 @@
-import Development.AutomorphicArithmetic.Foundations.LocalLanglands.RecTTransport
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CompletionBaseChangePlaces
+import Mathlib.Topology.Separation.CompletelyRegular
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Polynomial GlobalTheory.WeilDeligne GlobalTheory.LocGL GlobalTheory.LocLanglands GlobalTheory.GLq
 
 private lemma intValuation_le_of_equiv {L : Type} [Field L] [NumberField L]

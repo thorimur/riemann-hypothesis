@@ -3,7 +3,6 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJALocOpAdjProof
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJALocDone
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAGroupAdjJComm
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAGroupAdj
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAFFStable
 
 namespace Formalism.FourierDecayAlt.P.CutMP.JA
 

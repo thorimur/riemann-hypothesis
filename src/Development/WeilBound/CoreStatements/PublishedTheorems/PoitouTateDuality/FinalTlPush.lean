@@ -1,6 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.ExistsUniformizerOrd
 import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.FinalPtfsHasse
+import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseDefs
+import ReciprocityTheory.GaloisValuations.Global
 
 noncomputable section
 

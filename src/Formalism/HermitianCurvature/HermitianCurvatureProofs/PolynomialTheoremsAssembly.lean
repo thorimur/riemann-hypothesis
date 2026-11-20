@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.LowerBlockNormalisedBoundFromComponents
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SecondPolynomialClauses
 
 open Finset

@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL4.LowerSlopeInequalityFamily
-import Formalism.GL3MeanSquares.HookFormulaTorsion.ColumnParametrizationOffDiagonal
+import Formalism.SharpRestriction.GlobalSchurBounds.SlopeMaxOpenOfHookTwoLeV
 
 open NumberField
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SatakeDualWeyl.Statement
 
 open Matrix Formalism.UG

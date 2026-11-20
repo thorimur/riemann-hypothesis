@@ -1,7 +1,8 @@
-import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDict
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.SplitStab
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.IsLatRepL
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.DictXOfK
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfActs
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDictAd
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDictMod
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDictSec
 
 set_option synthInstance.maxHeartbeats 200000
 

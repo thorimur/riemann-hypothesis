@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedTwoCoboundaries
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.LocGraded
 
 open IsLocalRing MvPowerSeries UpperTheory.V.Alg

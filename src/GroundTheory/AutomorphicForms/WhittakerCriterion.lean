@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HeckeAlgebra
 import GroundTheory.AutomorphicForms.SmoothRepContragredient
 import GroundTheory.AutomorphicForms.SmoothRepSchur
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

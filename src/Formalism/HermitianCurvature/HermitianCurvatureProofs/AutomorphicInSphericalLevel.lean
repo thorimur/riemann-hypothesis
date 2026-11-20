@@ -1,6 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FlagStabilizerFixesFrame
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsSmoothExt
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DensityLemma.PFibreBoundX
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.SupportPhiZeroSubset
 
 namespace Formalism.FourierDecayAlt.P.SmoothExtensionClosedSet
 

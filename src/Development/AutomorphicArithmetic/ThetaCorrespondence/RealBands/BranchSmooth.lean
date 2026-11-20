@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.BranchDefs
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.RealInputOfBranching
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryStabiliserEmbeddingNormLawsStatement
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ProjectionSmooth
 

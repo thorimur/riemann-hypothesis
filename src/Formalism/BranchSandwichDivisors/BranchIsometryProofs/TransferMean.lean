@@ -1,4 +1,7 @@
 import Formalism.BranchSandwichDivisors.StatementR
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
 
 open Finset
 

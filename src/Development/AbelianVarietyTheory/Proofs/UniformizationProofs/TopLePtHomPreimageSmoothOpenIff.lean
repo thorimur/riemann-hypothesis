@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.IsStandardSmoothOfRelativeDimensionAwayJacobian
+import Mathlib.AlgebraicGeometry.Morphisms.UniversallyInjective
+import Mathlib.AlgebraicGeometry.QuasiAffine
+import Mathlib.RingTheory.MvPolynomial.EulerIdentity
 
 open AlgebraicGeometry CategoryTheory Limits
 

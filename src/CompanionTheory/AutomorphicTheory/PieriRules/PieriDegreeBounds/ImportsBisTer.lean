@@ -1,3 +1,1 @@
-import Development.AbelianVarietyTheory.Definitions.Jets.TauZero
-import CompanionTheory.AutomorphicTheory.PieriRules.PieriDegreeBounds.Imports
-import Formalism.HermitianCurvature.StatementTBB
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd

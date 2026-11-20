@@ -1,7 +1,6 @@
 import Formalism.HermitianCurvature.LemmaDensOfSteps
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LduDecompositionExists
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.UnipotentCoordinatesMeasurePreserving
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CompactGroupHaarExists
 
 open Matrix
 

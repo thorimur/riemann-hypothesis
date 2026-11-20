@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsFibreHilbertFlat
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsFibreSectionsFlat
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ExtendTwist

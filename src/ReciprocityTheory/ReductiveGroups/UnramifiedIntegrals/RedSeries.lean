@@ -1,8 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedVeluFun
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedVeluAlg
 import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.EisensteinRecursion
-import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.IsogenyFormulaInstance
 
 noncomputable section
 open scoped BigOperators Classical

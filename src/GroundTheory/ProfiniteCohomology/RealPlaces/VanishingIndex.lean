@@ -1,8 +1,8 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.VanishingCriterion
 import GroundTheory.ProfiniteCohomology.Shapiro
-import GroundTheory.ProfiniteCohomology.CohomologicalDimension.SubsingletonCohomologyOfPrimaryOfFinite
 import GroundTheory.ProfiniteCohomology.CartierDual
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

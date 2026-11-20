@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AutomorphicKernels.BernsteinUnitaryProducts.BernsteinTheoremA.TheoremAFromLeviTranspose.TheoremAOfLeviTranspose
 
 noncomputable section

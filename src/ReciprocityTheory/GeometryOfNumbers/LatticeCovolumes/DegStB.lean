@@ -1,4 +1,5 @@
 import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.DegStA
+import Mathlib.RingTheory.TotallySplit
 
 namespace ReciprocityTheory.GeometryOfNumbersTheory
 

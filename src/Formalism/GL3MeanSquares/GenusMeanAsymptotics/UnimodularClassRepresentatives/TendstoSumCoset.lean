@@ -1,4 +1,5 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MemIdealLatticeIff
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 open NumberField Module Filter Topology
 open scoped Classical

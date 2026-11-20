@@ -1,5 +1,6 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.MaIntEmpty
+import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
+import Mathlib.Order.CompletePartialOrder
 
 namespace ReciprocityTheory.AnForm.A
 

@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CIndExp
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CIndFrFix
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ThExprUniqOfChartIndep2
 
 set_option autoImplicit false
 

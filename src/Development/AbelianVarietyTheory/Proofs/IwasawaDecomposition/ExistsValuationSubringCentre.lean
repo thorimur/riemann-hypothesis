@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocToFracAlgebraMap
+import Mathlib.RingTheory.Valuation.LocalSubring
 open AlgebraicGeometry CategoryTheory Limits
 
 namespace GlobalTheory.LocM.Lift

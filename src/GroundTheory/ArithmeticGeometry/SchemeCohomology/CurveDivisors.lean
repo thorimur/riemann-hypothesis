@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.CurvePlaces
 import GroundTheory.FunctionField.Divisor
 set_option maxSynthPendingDepth 1

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.HasBoundedPolesGlobalData
 
 set_option autoImplicit false

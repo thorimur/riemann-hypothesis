@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.GaloisLevelStructure.TiedHecke
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.DictRing
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StRegLelongMono
 set_option maxSynthPendingDepth 1
 

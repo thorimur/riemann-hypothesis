@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.MeasurePreservingProdRearrange
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.RightStabilizerMem
 
 namespace Formalism.FourierDecayAlt.P.StabilizerDisintegration.RE
 

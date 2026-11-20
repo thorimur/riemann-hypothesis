@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Regularisation.PRiemannExtensionSlices
 import Development.WeilBound.CoreStatements.PlurisubharmonicCones.ContDiffAtSmoothOnProj
 open Filter Topology Metric
 open scoped ContDiff

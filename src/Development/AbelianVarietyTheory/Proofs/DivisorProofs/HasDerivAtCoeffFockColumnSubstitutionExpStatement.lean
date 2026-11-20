@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasDerivAtCoeffFockColumnSubstitutionExp
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ColDerApply
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.hasDerivAt_coeff_fockColumnSubstitution_exp : ∀ {ι : Type} [Fintype ι] [DecidableEq ι] (d a : ℕ) (τ : ι) (S : Matrix (Fin a) (Fin a) ℂ) (R : GlobalTheory.MinorFrame.Pol ι d a)
     (m : GlobalTheory.MinorFrame.Var ι d a →₀ ℕ),

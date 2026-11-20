@@ -1,5 +1,11 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.OneLtAbsNormReal
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Rat.Star
+import Mathlib.FieldTheory.IsAlgClosed.Classification
+import Mathlib.LinearAlgebra.SymmetricAlgebra.Basis
+import Mathlib.LinearAlgebra.TensorAlgebra.Basis
+import Mathlib.RingTheory.Ideal.Quotient.Index
+import Mathlib.RingTheory.Localization.Cardinality
 open NumberField IsDedekindDomain Formalism.L2.Pj
 
 namespace GlobalTheory.ComplexEmbedding

@@ -1,5 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkDefs
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.EqOneOfStrictMono
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkInd
 
 open MvPolynomial Equiv UpperTheory.V.AlgebraTools.Hk

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.VAtVNeBot
 
 set_option synthInstance.maxHeartbeats 400000

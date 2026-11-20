@@ -1,6 +1,6 @@
-import Mathlib
-import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.FamilyPartFiveOfExplicitConstants
 import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.FamilySizeBound
+import Formalism.SharpRestriction.GlobalSchurBounds.TheoremThreeOfExplicitAndCompact
+import Formalism.SharpRestriction.ParamsHeightRankConstant
 
 noncomputable section
 

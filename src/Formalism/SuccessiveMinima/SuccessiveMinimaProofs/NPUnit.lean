@@ -1,5 +1,14 @@
 import Formalism.SuccessiveMinima.DefsNP
 import Formalism.SuccessiveMinima.SuccessiveMinimaProofs.NewtonSlope
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.PowerSeries.Inverse
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Algebra.InfiniteSum.Nonarchimedean
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 
 namespace Formalism.FN
 open Filter Topology

@@ -1,9 +1,9 @@
-import Mathlib
 import GroundTheory.GlobalFields.Adele.Compact
-import GroundTheory.GlobalFields.Adele.Discrete
-import GroundTheory.GlobalFields.Adele.Topology
 import GroundTheory.GlobalFields.TateThesis.TraceFourier
 import GroundTheory.GlobalFields.TateThesis.AdeleMeasurable
+import Mathlib.NumberTheory.NumberField.Discriminant.Basic
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 namespace GroundTheory.Global
 

@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSmoothAffineChartBoundaryZeroSet
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArcZeroZero
 open CategoryTheory AlgebraicGeometry TopologicalSpace Limits Filter Topology NumberField
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.L2.Pj
 open GlobalTheory.CechPic GlobalTheory.Vanishing GlobalTheory.CompHS

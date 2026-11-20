@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.TameInertiaTowers.StatementGroup
 import Formalism.TameInertiaTowers.CentralOrderTwo.TwoAdic
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace Formalism.TwoAdicCyclotomicDecomposition
 

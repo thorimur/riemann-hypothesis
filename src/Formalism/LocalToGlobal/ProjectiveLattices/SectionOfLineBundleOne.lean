@@ -1,7 +1,6 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.IsCombAt
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.HasArcDataIff
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.IsNsmul
 import Formalism.LocalToGlobal.ProjectiveLattices.VAtVNeBot
+import Mathlib.RingTheory.LaurentSeries
 
 noncomputable section
 

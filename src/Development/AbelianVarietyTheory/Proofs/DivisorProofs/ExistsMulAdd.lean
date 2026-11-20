@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRingRChain
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFrob
+import Mathlib.Analysis.CStarAlgebra.CStarMatrix
 
 set_option autoImplicit false
 

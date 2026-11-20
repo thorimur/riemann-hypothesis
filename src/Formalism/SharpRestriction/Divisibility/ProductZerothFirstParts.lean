@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalRingCardinality.DataParams₂
 import Formalism.SharpRestriction.ParamsHeightRankConstant
+import Mathlib.Combinatorics.Young.YoungDiagram
+import Mathlib.RingTheory.PowerSeries.Exp
 
 noncomputable section
 

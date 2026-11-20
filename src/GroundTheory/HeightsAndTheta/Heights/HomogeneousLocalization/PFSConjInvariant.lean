@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HomogeneousLocalization.Statements
+import GroundTheory.HeightsAndTheta.Heights.HomogeneousLocalization
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

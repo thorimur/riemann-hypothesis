@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataLevelD
 import Formalism.LocalToGlobal.HermitianColumns.InLocalDiscriminantKernel
 

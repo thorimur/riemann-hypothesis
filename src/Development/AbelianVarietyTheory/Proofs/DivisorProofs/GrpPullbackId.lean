@@ -1,8 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsUnifOfIsMumfordOf
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.SiegelStructurePullback
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZbLeftWhiskerRight
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsCharacter
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DescCocycle
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WedgeOrdVpBaseChangeOfNeBot
+import Development.AbelianVarietyTheory.Proofs.ModuliProofs.IsSquareUnique
 
 set_option autoImplicit false
 

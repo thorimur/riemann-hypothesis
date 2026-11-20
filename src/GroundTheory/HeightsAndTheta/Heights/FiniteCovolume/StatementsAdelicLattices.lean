@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsAdelicSplit
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume

@@ -1,6 +1,3 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshPoisson
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PoissonIntegralSmoothOffAxesStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PluriharmonicLogGrowthExtensionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviFormZeroExtensionStatement

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.HookBound
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StandardSlopeBound.NablaGram
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StandardSlopeBound.NablaOperatorBasis
 

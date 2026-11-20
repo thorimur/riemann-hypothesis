@@ -1,5 +1,6 @@
-import Mathlib
-import ReciprocityTheory.GaloisValuations.Global
+import Formalism.ConjugateSelfDual.Statement
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Polynomial
 open Pointwise

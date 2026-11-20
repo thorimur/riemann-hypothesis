@@ -1,8 +1,8 @@
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.OmStable
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.TwoMulFinrank
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsTotallyRealEvenNegPlacesLocalNorm
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsDiffGenerator
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.EigSubEqDifferentSmulEigQuot
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

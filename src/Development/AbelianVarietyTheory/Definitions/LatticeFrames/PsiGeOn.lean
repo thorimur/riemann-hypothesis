@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.PerIntOnAmb
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.HtPsiLeIffExists
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.FiniteDimensionalMram
 
 noncomputable section
 

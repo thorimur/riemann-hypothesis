@@ -1,4 +1,3 @@
-import Formalism.WachLatticeTwists.CoprimeLiftBounds.StatBridgeChiOne
 import ReciprocityTheory.ReductiveGroups.TraceFormulas.LatDefs
 
 open Formalism.NG

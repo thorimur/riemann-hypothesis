@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.Columns.ChainTwAux
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.KerHypAll
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ThDistC
 
 open NumberField IsDedekindDomain Module
 

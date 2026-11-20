@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.SgC
 import Development.AbelianVarietyTheory.Definitions.Foundations.MultipliableAndSgNeZero
+import Development.AbelianVarietyTheory.Definitions.Foundations.Imports
 
 noncomputable section
 

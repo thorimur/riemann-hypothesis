@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.RealInputsClosedAdmissibleSettings
 import Formalism.HermitianCurvature.FrameExists2
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
 
 namespace Formalism.FourierDecayAlt.TL
 

@@ -1,6 +1,4 @@
-import Formalism.HermitianCurvature.StatementPB
 import Formalism.HermitianCurvature.HeisenbergConjugationMeasurePreserving
-import Formalism.LatticeRigidity.HeightMinimum.SqrtAbsNormLeProd
 
 namespace Formalism.FourierDecayAlt.P.HilbertSchmidtNorm
 

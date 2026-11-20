@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.SharpRestriction.GlobalSchurBounds.StandardLattice
+import Formalism.LocalRingCardinality.DataSpaces
 
 noncomputable section
 

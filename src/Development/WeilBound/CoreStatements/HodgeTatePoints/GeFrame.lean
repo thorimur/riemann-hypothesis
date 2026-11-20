@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LeadMinor
 open Module NumberField GlobalTheory.CompanionTheory.Ar.HT TensorProduct
 

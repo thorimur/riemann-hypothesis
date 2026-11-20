@@ -1,6 +1,7 @@
-import Mathlib
 import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountSt
-import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.InhabSt
+import Mathlib.LinearAlgebra.LinearIndependent.BaseChange
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 set_option autoImplicit false
 

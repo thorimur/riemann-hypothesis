@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.GoodIdempotentFixesOfOnlySeriesOfLabelActs
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TPeriodInt
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.JointCondOfDefinite

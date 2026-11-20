@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassFiniteness.ClassFiniteOf
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 noncomputable section
 

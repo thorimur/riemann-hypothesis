@@ -1,8 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StLelongPolyLimit
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StVarIntGraph
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StLocalMultComap
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StLelongWeightLimit
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Topology.Algebra.MvPolynomial
+import Mathlib.Topology.UniformSpace.Uniformizable
 set_option maxSynthPendingDepth 1
 
 noncomputable section

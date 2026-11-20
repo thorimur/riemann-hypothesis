@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.ExtRobbaEigenGlue
 import GroundTheory.PAdicHodge.ExtRobbaLimit
 set_option maxSynthPendingDepth 1

@@ -1,5 +1,6 @@
 import Formalism.WachLatticeTwists.WachProductBases.NontrivialWachExample
 import Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.SaturationIntersectionHolds
+import Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.AffineLineLocalAcyclicityOfStrictHenselianPoints
 
 noncomputable section
 

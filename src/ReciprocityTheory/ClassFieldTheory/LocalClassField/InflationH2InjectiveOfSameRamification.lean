@@ -1,8 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.ExistsIntEKMulVbar
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.GalBasic
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.ExistsDvdQKPowSubOne
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.HSubsingletonOfUniquelyDivisible
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.UnitsCT
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.BrUnrA
 

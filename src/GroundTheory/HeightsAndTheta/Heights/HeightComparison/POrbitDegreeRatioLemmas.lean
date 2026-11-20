@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitDegreeRatio
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.POrbitDegree
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.POrbitCurve
 set_option maxSynthPendingDepth 1

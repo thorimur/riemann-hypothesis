@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementWd
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.KroneckerEmbedMulApply
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.QEFirstMulSecondEqSwap
 

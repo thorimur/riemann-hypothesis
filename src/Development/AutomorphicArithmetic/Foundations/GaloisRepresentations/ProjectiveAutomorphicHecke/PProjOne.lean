@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.MapWopWmap
+import Mathlib.Algebra.Module.Torsion.Prod
 
 open Module
 universe u v

@@ -1,14 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceBoundaryBound
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceFormMass
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCutOffBoundaryBound
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PMaDensLeibniz
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSliceIdeal
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSliceSectionMass
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFormIntSymm
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PConeChartGram
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSheetLogNormDens
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PartsAlg
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

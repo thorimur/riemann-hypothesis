@@ -1,6 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsFlagLineDegree
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSplitRelDeg
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Sub.Prod
+import Std.Tactic.BVDecide.Normalize.Prop
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.NumbersDVR

@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCliff
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.OneParameterDifferentiable
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GroupGeneratedByExp
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

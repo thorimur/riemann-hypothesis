@@ -1,11 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.ChartRank.HypRankGe
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.MRatSpanOfRatInv
-import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.LowestInvariantLeDelta
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ProdMemSpan
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LBidetLemmas
-import Formalism.SharpRestriction.GrowthBounds.UnramifiedQuadraticSetting
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CastGLSymmBc
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NatActRVtupR
 
 noncomputable section
 

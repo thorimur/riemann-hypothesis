@@ -1,4 +1,7 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.GramFlagFamilyOfPositive
+import Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.InertPrimesSquareNormOfGeneral
+import Formalism.SharpRestriction.CuspSpanNormBounds.GramProductBounds
+import Formalism.SharpRestriction.CuspSpanNormBounds.GramProductLeHeightBound
 
 noncomputable section
 

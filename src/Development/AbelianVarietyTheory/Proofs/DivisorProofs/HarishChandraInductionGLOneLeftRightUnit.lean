@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.OrthSubrepresentation
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

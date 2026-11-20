@@ -1,8 +1,4 @@
 import Development.AbelianVarietyTheory.Definitions.Divisors.RangeShape
-import Mathlib
-import Formalism.RealPlaceAnalysis.SmoothOnGVIff
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.KoszulLowersPower
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsMulCommutativeCentRealUJ
 
 section
 

@@ -2,6 +2,11 @@ import Formalism.HermitianCurvature.StatementB
 import Formalism.FormalDegreeBessel.FinalG
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.CartanInvolutionConjTransposeMul
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.ComplexifiedDerivativeCommutator
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
+import Mathlib.Analysis.SpecialFunctions.PolarCoord
+import Mathlib.MeasureTheory.Function.L2Space
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open Matrix MeasureTheory Filter Topology
 open scoped ComplexConjugate ENNReal

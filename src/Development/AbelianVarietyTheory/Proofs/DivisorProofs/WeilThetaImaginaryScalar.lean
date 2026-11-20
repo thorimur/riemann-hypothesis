@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToGAdMat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaDerivativeLineWStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialThetaKernelSmoothStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialDatumActionOfPairStatement
@@ -7,9 +5,7 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialDataCount
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedPairThetaVanishing
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralRealLineDerivative
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolDataThetaLinearStatement
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PureLApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLinearUpdate
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaKernelDecay
 
 open NumberField MeasureTheory Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes GlobalTheory.IndefiniteRowSideFullHecke.WeilTensorModels GlobalTheory.AdelicU GlobalTheory.SiegelSet GlobalTheory.UAut GlobalTheory.ThK.SquareIntegrability
 

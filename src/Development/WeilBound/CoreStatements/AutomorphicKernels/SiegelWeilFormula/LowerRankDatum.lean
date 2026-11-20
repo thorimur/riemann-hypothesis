@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.AuxiliaryPrimeFunction
+import Development.WeilBound.ThetaLifts.LatticeBasics.HypothesesS
 
 noncomputable section
 

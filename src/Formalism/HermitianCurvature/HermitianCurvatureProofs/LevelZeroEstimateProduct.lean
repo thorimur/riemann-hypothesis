@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.StatementC
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.JointInstanceTheoremA
 
 namespace Formalism.FourierDecayAlt.P
 

@@ -1,5 +1,4 @@
-import Formalism.GradedWeylDivisibility.StatementA
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.ProdFactorialSupportSubSingle
+import Formalism.RealPlaceAnalysis.FockPairGl
 
 open MvPolynomial
 

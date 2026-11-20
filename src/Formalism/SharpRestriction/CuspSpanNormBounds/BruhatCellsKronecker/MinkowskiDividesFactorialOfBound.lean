@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.OwnEvIntro
 import Formalism.SharpRestriction.CuspSpanNormBounds.LatticeGluingRadicals
 import Formalism.SharpRestriction.CuspSpanNormBounds.MassAndBranchingHypotheses
 import Formalism.SharpRestriction.CuspSpanNormBounds.AmplitudeAndVolumeBounds
@@ -7,6 +6,7 @@ import Formalism.SharpRestriction.CuspSpanNormBounds.LocalBesselAndTopKernel
 import Formalism.SharpRestriction.CuspSpanNormBounds.NonGenericAndKTwoTheorems
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.IdealsOfNormEqIndexSet
 import Formalism.SharpRestriction.GlobalSchurBounds.ThickPlacesCorollaryOfAnyTranslate
+import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.LatticeSumBounds
 
 noncomputable section
 

@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.InertJacobiLevels.ExtraMods
-import Formalism.LocalRingCardinality.SpanPowerMembership.TiesGen
 import Formalism.LocalRingCardinality.SpanPowerMembership.DivXExample
+import Formalism.LocalRingCardinality.SpanPowerMembership.NStageTrivialCharacterCoeffEq
+import Formalism.SharpRestriction.InertJacobiLevels.ExtraH
 
 noncomputable section
 

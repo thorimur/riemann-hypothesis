@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsCompactKH
 
 open MeasureTheory Matrix Filter Topology

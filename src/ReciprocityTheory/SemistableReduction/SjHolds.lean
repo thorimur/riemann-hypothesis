@@ -1,5 +1,12 @@
 import ReciprocityTheory.SemistableReduction.MeasurePreservingSphereMap
 import ReciprocityTheory.SemistableReduction.LogNormEvalZeroLeCircleAverage
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.MeasureTheory.Measure.RegularityCompacts
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Algebra.MvPolynomial
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

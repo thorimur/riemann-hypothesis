@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJfSDistEigen
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGradedRegFFM
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutRegFFName
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt NumberField Matrix
 open scoped ContDiff

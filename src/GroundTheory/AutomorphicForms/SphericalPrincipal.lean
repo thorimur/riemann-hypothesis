@@ -1,6 +1,8 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.SphericalCommutative
 import GroundTheory.AutomorphicForms.InductionParabolic
+import GroundTheory.AutomorphicForms.HeckeIrreducible
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 noncomputable section
 

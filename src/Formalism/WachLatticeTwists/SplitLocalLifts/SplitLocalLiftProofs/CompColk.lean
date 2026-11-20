@@ -1,7 +1,6 @@
 import Formalism.WachLatticeTwists.SplitLocalLifts.StatCompColk
 import Formalism.WachLatticeTwists.SplitLocalLifts.SplitLocalLiftProofs.NatCastPowSmul
 import Formalism.WachLatticeTwists.SplitLocalLifts.SplitLocalLiftProofs.LocLift
-import Formalism.WachLatticeTwists.LatticeDualFibres.PropLocContOfLattices
 
 open Finset Classical
 

@@ -1,6 +1,6 @@
-import Formalism.LocalRingCardinality.DataParams
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
 import Formalism.SharpRestriction.LevelLetterCocycles.BlochKatoPhases
+import Formalism.LocalRingCardinality.DataParams₂
 
 noncomputable section
 

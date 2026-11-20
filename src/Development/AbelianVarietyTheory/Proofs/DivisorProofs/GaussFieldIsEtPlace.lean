@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsEtPlace
 import Development.AbelianVarietyTheory.Definitions.Divisors.ToRepFam
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsEtLevZero
-import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.IsDivisionOfMOne
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDatumAOne
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 namespace GlobalTheory.UPel.HT.EtLev

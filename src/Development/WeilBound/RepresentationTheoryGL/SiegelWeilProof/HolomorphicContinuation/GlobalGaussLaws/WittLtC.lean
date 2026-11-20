@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.GlobalGaussLaws.WittLtB
+import Mathlib.RingTheory.Etale.Weakly
 
 open Matrix NumberField GlobalTheory.Inertia
 open scoped ComplexConjugate

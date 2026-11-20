@@ -1,5 +1,5 @@
-import Formalism.TorsionNormIteration.InvIntegralOfClass
 import Formalism.FormalGroupLog.LogDeterminesLaw
+import Mathlib.NumberTheory.Padics.RingHoms
 
 noncomputable section
 

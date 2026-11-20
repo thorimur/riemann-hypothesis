@@ -1,7 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.ArchimedeanWhittaker.Frechet
-import GroundTheory.AutomorphicForms.HarishChandraRegularity
 import GroundTheory.AutomorphicForms.RealGroupsKAK
+import GroundTheory.AutomorphicForms.HarishChandraRegularity.CartanBasis
 
 namespace GroundTheory.Automorphic.ArchWhittaker
 

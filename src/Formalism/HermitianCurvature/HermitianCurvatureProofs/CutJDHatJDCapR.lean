@@ -1,7 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatOpA
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeGTrChain
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeGQLFam
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeGVTr
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeGVsTr
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt

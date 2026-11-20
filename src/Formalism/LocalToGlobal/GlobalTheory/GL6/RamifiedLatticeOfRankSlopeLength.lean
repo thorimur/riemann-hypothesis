@@ -3,6 +3,8 @@ import Formalism.LocalToGlobal.GlobalTheory.GL6.CoordMapInjective
 import Formalism.LocalToGlobal.GlobalTheory.GL6.RamifiedLatticePropsOfModel
 import Formalism.LocalToGlobal.GlobalTheory.GL6.DiamondCommDistinctPlaces
 import Formalism.LocalToGlobal.GlobalTheory.GL6.AdmissibleOfSplitAndRoundTrips
+import Formalism.LocalToGlobal.GlobalTheory.GL6.EqOneOfCoprimeTorsionTwoPrimes
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 noncomputable section
 

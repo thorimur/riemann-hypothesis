@@ -1,5 +1,9 @@
 import Formalism.ZeroFreeRegion.SmallHeightLogDeriv
 import Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.NormLogDerivLeLamF
+import Mathlib.NumberTheory.Harmonic.ZetaAsymp
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Complex Filter Topology ArithmeticFunction LSeries
 open scoped LSeries.notation

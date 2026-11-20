@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.NormResidueSymbol.RationalLocal
 import GroundTheory.GlobalFields.NormResidueSymbol.RangeIdeleNormLeKerIdeleSymbol
 import GroundTheory.GlobalFields.IdeleGroups.Rational

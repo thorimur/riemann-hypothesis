@@ -1,5 +1,8 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.GoodXgFin
+import Formalism.LocalToGlobal.Divisibility.GoodPartHermitianSpec
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 open Formalism.L2.DIV
 
 namespace GlobalTheory.IdemExpand

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.HodgeTatePoints.PfibRing
 open TensorProduct
 set_option maxHeartbeats 1000000 in

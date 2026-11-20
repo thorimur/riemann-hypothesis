@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.JointBlockShapes.JointShape
 import ReciprocityTheory.ThetaSummability.RealCoinvariants.CoinvSubLeComap
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.PsiEDef
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SimpLemmas
 
 noncomputable section

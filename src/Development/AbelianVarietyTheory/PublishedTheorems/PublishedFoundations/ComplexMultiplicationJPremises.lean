@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsVariableChangeEqLatticeCurve
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsBasisEmbedding
+import Mathlib.RingTheory.Frobenius
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open NumberField
 open scoped nonZeroDivisors IntermediateField

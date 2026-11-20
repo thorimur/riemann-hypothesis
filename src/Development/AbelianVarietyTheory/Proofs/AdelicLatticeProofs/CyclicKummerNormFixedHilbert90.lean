@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AdelicHermitianForms.MemPowSub
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.KummerGalois
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.Hilbert90
+import Std.Tactic.BVDecide.Normalize.Prop
 open NumberField IsDedekindDomain Polynomial GlobalTheory.QNorm GlobalTheory.CNorm
 open scoped WithZero TensorProduct
 

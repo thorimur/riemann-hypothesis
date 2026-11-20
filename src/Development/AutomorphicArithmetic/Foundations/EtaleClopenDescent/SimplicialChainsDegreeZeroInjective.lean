@@ -1,4 +1,3 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.FiltrationLevelBase
 
 noncomputable section

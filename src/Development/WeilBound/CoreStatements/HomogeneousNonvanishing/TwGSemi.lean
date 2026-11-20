@@ -1,5 +1,9 @@
-import Mathlib
 import Formalism.HermitianLattices.HermitianLatticesProofs.UnimodUnramUnique
+import Mathlib.Dynamics.Newton
+import Mathlib.NumberTheory.Padics.RingHoms
+import Mathlib.RingTheory.AdicCompletion.AsTensorProduct
+import Mathlib.RingTheory.AdicCompletion.Noetherian
+import Mathlib.RingTheory.PicardGroup
 open NumberField TensorProduct
 
 namespace PositivityTheory.UnitarySelfGeneration

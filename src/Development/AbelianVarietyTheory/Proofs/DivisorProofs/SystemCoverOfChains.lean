@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsLocallyNoetherianBase
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NonemptyRChainOfIsUnit
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OmegaMapPolBCBijective

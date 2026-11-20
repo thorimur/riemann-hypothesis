@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.GlobalFields.NormResidueSymbol.FunctorialLocal
-import GroundTheory.GlobalFields.NormResidueSymbol.RangeIdeleNormLeKerIdeleSymbol
-import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms.CompletionsOverBasisRepr
 import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms.InfiniteAdeleRingMapInfiniteAdeleRingMap
 
 namespace GroundTheory.Global

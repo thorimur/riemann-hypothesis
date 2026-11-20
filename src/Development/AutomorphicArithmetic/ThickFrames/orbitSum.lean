@@ -1,4 +1,8 @@
 import Development.AutomorphicArithmetic.ThickFrames.MarkedLow
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Finset UpperTheory.BernoulliSumsFrobeniusOrbits Formalism.G0
 

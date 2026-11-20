@@ -1,5 +1,5 @@
-import Development.EtaleCohomology.EtaleSheaves.LeafClosedSH0Of
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.BijectiveRestrictPointsOfEtaleOfHenselian
+import Development.EtaleCohomology.EtaleSheaves.A9OfA0A1EigenbasisA6
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

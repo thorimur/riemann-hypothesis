@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.PolarisationModuleIndex
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDenominatorOfAdelicLatticeStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicLatticeOrderCoprimeIndexStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarizationModuleUnitDualStatement
@@ -8,6 +6,7 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexCoprimeOfTo
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarizationLatticeFgStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DiscriminantMulTraceDualIntegralStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCoprimeIntegerInIdealStatement
+import Batteries.Data.Nat.Gcd
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Formalism.BranchSandwichDivisors.DivFromPassageAndNorm
 import Formalism.BranchSandwichDivisors.BranchIsometryProofs.GlobalBoundRefinements
 
 namespace Formalism.BranchingDeterminantCap

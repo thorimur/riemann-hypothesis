@@ -1,6 +1,4 @@
-import Formalism.FormalGroupWitt.FormalGroupWittProofs.FunctionalEquationHomVector
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.EqSingleOfDegreeEqOne
-import Formalism.FormalGroupLog.FormalGroupLogProofs.ChainRule
 import Formalism.FormalGroupLog.FormalGroupLogProofs.ConstantCoeffSubstOfZero
 
 noncomputable section

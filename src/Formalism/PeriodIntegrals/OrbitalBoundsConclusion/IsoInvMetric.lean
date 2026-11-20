@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.IsoInvMetric
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InvariantMetricIsometry.IsoInvMetricOfHw
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InvariantMetricIsometry.PolyEqZeroOfCircle
 

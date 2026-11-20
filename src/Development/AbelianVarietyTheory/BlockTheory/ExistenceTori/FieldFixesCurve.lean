@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Statements.PrincipalLattices.FiniteDimensionalBase
 
 noncomputable section

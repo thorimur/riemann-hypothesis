@@ -1,8 +1,6 @@
-import Mathlib
-import Formalism.ConjugateSelfDual.Imports
 import Formalism.SatakeDualWeyl.Statement
-import ReciprocityTheory.Automorphisms.Unitary
 import ReciprocityTheory.Automorphisms.SplitCoeAlgebraMap
+import Formalism.ConjugateSelfDual.StatementRest
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PAntisymPerturbation
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PAntisymStability
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PAntisymDivisible

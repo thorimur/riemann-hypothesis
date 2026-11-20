@@ -1,5 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RightTypeAction0
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.JfSmoothBuiltOfLeaves
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LieBasisHolds
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CayleyAlgebraicHolds
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GroupVectorSpace

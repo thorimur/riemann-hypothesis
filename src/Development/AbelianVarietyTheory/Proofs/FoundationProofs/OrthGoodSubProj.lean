@@ -1,7 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.ThetaSeriesTies
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LiftWeightComplexPointEqTwist
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ClassPresBasic
+import Formalism.LocalToGlobal.Divisibility.LiftLatLemmas
 
 set_option autoImplicit false
 

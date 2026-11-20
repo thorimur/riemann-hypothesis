@@ -1,6 +1,9 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.CurveBase
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.WeilDivisorLocal
+import Mathlib.AlgebraicGeometry.QuasiAffine
+import Mathlib.RingTheory.DedekindDomain.PID
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open CategoryTheory AlgebraicGeometry Order Topology
 

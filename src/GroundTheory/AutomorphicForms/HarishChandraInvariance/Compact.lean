@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HarishChandraRegularity.CartanBasis
+import Mathlib.MeasureTheory.Measure.Haar.MulEquivHaarChar
 
 namespace GroundTheory.Automorphic
 

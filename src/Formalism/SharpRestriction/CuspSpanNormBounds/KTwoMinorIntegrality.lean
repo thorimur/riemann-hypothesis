@@ -1,5 +1,4 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.FrameFixingOrbitRelation
-import Formalism.SharpRestriction.CuspSpanNormBounds.KappaEndpoints
+import Formalism.SharpRestriction.CuspSpanNormBounds.LatticeIndexAndWeightTheory
 
 noncomputable section
 

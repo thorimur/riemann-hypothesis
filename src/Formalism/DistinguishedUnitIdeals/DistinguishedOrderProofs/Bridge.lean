@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.DistinguishedUnitIdeals.BridgeLevelOf
-import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.Graded
 import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.Partners
 import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.UnivPart
 

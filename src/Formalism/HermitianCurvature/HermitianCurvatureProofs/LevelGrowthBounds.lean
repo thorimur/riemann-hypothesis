@@ -1,5 +1,9 @@
 import Formalism.HermitianCurvature.LevelRecursionCondNeeded
-import Mathlib
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.FourierDecayAlt.P.LevelGrowthBounds
 

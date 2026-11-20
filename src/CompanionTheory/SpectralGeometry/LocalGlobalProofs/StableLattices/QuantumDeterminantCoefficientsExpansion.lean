@@ -1,5 +1,6 @@
-import Mathlib
-import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.Bdy
+import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import GroundTheory.IdeleRoots.ConstantFrames.GaugeExistence.QdetSub
 
 noncomputable section
 

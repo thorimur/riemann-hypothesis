@@ -1,6 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.StringRepresentations.AllCuspidalOpenBound
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.SegmentEigenvalueSumFormula
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.WeightRegularOfExt
 
 noncomputable section
 

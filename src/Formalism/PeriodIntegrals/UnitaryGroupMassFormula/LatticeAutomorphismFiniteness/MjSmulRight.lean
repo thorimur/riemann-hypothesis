@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataSpaces
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeAutomorphismFiniteness.MulVecMapInjective
 
 noncomputable section

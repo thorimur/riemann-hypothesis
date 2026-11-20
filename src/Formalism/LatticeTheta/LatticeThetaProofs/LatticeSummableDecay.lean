@@ -1,4 +1,5 @@
 import Formalism.LatticeTheta.LatticeSummableDecay
+import Mathlib.Algebra.Module.ZLattice.Summable
 
 open MeasureTheory Filter Asymptotics Topology
 

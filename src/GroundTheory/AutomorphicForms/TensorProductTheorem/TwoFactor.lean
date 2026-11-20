@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TensorProductTheorem.Existence
 import GroundTheory.AutomorphicForms.TensorProductTheorem.OuterTensor
 

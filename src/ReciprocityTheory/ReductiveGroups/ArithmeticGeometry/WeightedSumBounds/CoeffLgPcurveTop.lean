@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.LgCurvePcurve
 
 namespace ReciprocityTheory.ChartRestriction.G.Sh.PTb

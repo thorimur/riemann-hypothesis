@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.ExistsEventuallyNormRiemannThetaTermLe
+import Mathlib.Algebra.Module.ZLattice.Basic
+import Mathlib.AlgebraicTopology.FundamentalGroupoid.SimplyConnected
+import Mathlib.Analysis.Calculus.DifferentialForm.Basic
+import Mathlib.LinearAlgebra.SymplecticGroup
 
 open Matrix MeasureTheory
 open scoped Real ContDiff

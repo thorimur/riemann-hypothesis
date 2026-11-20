@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SubNatCompSubIncl
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SubmoduleFgOfLocallyLeFgStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FgLocalizationAwaySpanFinsetStatement
+import Mathlib.AlgebraicGeometry.Noetherian
 
 open AlgebraicGeometry CategoryTheory Limits Opposite GlobalTheory.QcSub
 

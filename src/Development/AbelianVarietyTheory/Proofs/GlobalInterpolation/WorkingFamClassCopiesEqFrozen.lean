@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.CountsIrreducibilityConstants
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WorkingClassesFrozen
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.DutySevenLibrary

@@ -1,4 +1,3 @@
-import Formalism.ThetaLogCoordinates.FockResolutionOnto.StatementB
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.MulEarlyLettersHolds
 import Formalism.ThetaLogCoordinates.FockResolutionOnto.FockMonomialProofs.InitPartZeroXMul
 

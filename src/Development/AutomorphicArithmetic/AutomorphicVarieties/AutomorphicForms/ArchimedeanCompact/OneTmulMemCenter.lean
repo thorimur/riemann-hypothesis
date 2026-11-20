@@ -2,6 +2,7 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.A
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.SiegelHeights.MultiCentre
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.WignerHighestWeights.SLApply
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.WignerHighestWeights.LieDecomp
+import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.SmoothKZ
 
 noncomputable section
 

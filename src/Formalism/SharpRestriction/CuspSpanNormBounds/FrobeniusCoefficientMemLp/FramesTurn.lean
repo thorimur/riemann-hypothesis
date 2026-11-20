@@ -1,5 +1,7 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.FramesMeas
 import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.FramesPt
+import Mathlib.CategoryTheory.Countable
+import Mathlib.RingTheory.Complex
 
 set_option linter.unusedVariables false
 

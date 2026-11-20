@@ -1,6 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.BergmanProjectiveVolume
-import ReciprocityTheory.AnalyticForms.PotentialTheory.Partition
+import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.BergmanObjects
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsEqOfNatCastMulMem
-import GroundTheory.GlobalFields.ComplexMultiplication.MainTheorem
+import GroundTheory.GlobalFields.ComplexMultiplication.AnalyticUniformization
 
 open NumberField
 open scoped nonZeroDivisors

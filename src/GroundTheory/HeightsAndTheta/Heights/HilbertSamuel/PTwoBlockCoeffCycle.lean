@@ -1,9 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsTwoBlockCoeffCycle
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsTwoBlockHorizDiv
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PTwoBlockTop
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PMetricTransportSmooth
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PRFormula
+import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsCoordArithOfFnField
+import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsTwoBlockFnField
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

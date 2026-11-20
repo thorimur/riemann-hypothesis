@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SubsingletonOfGiso
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PhiPreservesIsomorphism
 
 noncomputable section

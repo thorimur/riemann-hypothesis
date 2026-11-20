@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TautologicalInnerProductLift
-import Development.AbelianVarietyTheory.Definitions.Divisors.MemSmallSecTrivShift
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NontrivialIsomClassInt
 
 set_option autoImplicit false
 

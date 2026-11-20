@@ -1,12 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.ColInst
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ColInst
-import Formalism.LocalToGlobal.Columns.ChainInstY
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.KerEquivFr
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.KerEquivGen
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.KerEquivStmt
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ModulusDivPrimePowIntegralBad
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.MemGoodPrimesOfNoExceptional
 
 open NumberField IsDedekindDomain
 

@@ -1,11 +1,6 @@
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.DiffDefs
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.MemRam
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.InertD
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.inertQ
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.CondESpec
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.LogRdSum
-import Development.AutomorphicArithmetic.FrobeniusLocalisation.LayerBot
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.DvdDiscrOfInertia
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.CycBasic
 
 open UpperTheory.HF
 

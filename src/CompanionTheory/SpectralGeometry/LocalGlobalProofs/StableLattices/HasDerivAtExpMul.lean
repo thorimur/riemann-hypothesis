@@ -1,6 +1,6 @@
-import Mathlib
 import CompanionTheory.HarishChandraModules.LowKTypeMultiplicity.DiscreteSeriesCharacters.CapelliDeterminantBlockProduct
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
+import Mathlib.Analysis.Normed.Algebra.MatrixExponential
+import Mathlib.Tactic.ENatToNat
 
 open Matrix Finset
 

@@ -1,7 +1,6 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.MaIntEmpty
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.CovLog
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLogLogCut
+import Mathlib.Analysis.Analytic.Polynomial
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

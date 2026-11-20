@@ -1,5 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.KTypeIntDomStatement
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Unique
+import Mathlib.Analysis.Calculus.Deriv.Star
 
 noncomputable section
 

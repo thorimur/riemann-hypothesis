@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.AutomorphicFormSpaces
+import GroundTheory.AutomorphicForms.ReductionMeasure
+import Mathlib.Dynamics.Ergodic.Action.Regular
 
 open NumberField MeasureTheory Topology Set Filter IsDedekindDomain
 open scoped NumberField.AdeleRing

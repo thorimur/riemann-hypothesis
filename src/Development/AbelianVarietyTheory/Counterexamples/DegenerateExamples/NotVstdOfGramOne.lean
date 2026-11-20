@@ -1,9 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.OneMapT
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
-import Formalism.LocalRingCardinality.SpanPowerMembership.Spaces
-import Formalism.SharpRestriction.Divisibility.BoundaryLocalData
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionRationalPointsAndApproximation
+import Formalism.LocalToGlobal.IndefiniteReal.ThPinsR
 
 noncomputable section
 namespace GlobalTheory.StdFrameCounterexample

@@ -1,7 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IdempotentTraceSeparatingElement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RootsOfUnityAndPValuation
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MultiplicityDifferentEq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ColengthDvdOfNeZero
 open NumberField IsDedekindDomain UniqueFactorizationMonoid
 open scoped Classical nonZeroDivisors

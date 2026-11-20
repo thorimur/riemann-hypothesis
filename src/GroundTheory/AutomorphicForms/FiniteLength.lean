@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.FiniteLengthCuspidal
 import GroundTheory.AutomorphicForms.FiniteLengthLeviJacquet
 import GroundTheory.AutomorphicForms.FiniteLengthSeries
+import GroundTheory.AutomorphicForms.LeviStagesExact
 set_option maxSynthPendingDepth 1
 
 noncomputable section

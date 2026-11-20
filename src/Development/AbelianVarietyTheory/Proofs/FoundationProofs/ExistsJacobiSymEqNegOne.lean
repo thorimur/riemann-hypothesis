@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.GL3MeanSquares.PrimeCountAsymptoticInProgressions
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 open Finset
 

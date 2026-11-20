@@ -1,5 +1,9 @@
-import Mathlib
 import Formalism.CyclotomicNorms.StatementI
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.RingTheory.ZMod.UnitsCyclic
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace GlobalTheory
 

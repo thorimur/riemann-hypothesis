@@ -1,5 +1,5 @@
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.ShiftedGeneratorEqIteSmulAdd
-import Mathlib.LinearAlgebra.Matrix.Determinant.Basic
+import Mathlib.Tactic.ENatToNat
 
 open Finset
 

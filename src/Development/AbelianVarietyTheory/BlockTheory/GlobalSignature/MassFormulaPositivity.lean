@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GapAtLeast
-import Formalism.LocalRingCardinality.SpanPowerMembership.Spaces
 import Formalism.HermitianLattices.HermitianLatticesProofs.MassBasic
 
 noncomputable section

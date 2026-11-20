@@ -1,4 +1,8 @@
 import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.ValLamOfSubset
+import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.MembDefs
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.IsPolLatticePlane
+import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.PairingExtends
 
 noncomputable section
 

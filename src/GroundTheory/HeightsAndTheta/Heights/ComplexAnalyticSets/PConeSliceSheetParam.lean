@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StConeSliceSheetParam
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StDiscriminantSheetCover
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PNullSmaller
@@ -6,6 +5,7 @@ import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSliceDim
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSliceIdeal
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PMassFinite
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PConeScaling
+import Mathlib.RingTheory.Etale.Weakly
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.DescentOfPointsKilled
 open scoped NNReal
 set_option maxHeartbeats 1000000 in

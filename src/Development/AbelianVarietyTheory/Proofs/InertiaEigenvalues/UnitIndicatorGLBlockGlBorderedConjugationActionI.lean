@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormMulApplyLeOne
 
 open GlobalTheory.JR Matrix MeasureTheory Filter Topology

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.FrameCharts
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.ComplexResidueRing
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ReducedFiniteTypeIffTestRing
@@ -7,7 +6,7 @@ import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.FramedPointBaseC
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.FrameChangeCommBaseChange
 import Development.AbelianVarietyTheory.Definitions.ExistenceOfLattices.FrameRingGlRing
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.EqZeroOfForallLTensorEqZero
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ChartCoverFOfSectionBaseChangeStatement
+import Formalism.LocalToGlobal.ProjectiveLattices.RulInst
 
 set_option synthInstance.maxHeartbeats 200000
 

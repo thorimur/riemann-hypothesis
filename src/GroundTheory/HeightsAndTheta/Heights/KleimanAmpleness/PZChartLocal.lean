@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ZChartLocalSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ZChartSmulSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleAffineGen

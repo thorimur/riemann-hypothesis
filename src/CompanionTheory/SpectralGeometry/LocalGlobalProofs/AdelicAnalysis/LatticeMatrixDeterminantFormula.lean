@@ -1,5 +1,5 @@
-import Mathlib
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.SumRhoEqTrace
+import Mathlib.Algebra.Order.Star.Real
 
 noncomputable section
 

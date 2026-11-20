@@ -1,4 +1,9 @@
 import Formalism.FormalDegreeBessel.StatementWR
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open scoped ContDiff Topology
 open Filter

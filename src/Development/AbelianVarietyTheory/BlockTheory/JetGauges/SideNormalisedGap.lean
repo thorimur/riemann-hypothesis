@@ -1,11 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UpqRep
-import Formalism.PeriodIntegrals.IsLowUnitH
-import Formalism.FormalDegreeBessel.StatementG
-import Formalism.FormalDegreeBessel.StatementDS
 import Formalism.PeriodIntegrals.BesselPeriodGGP
-import Formalism.PeriodIntegrals.BesselMapUniq
-import Formalism.PeriodIntegrals.KFinSmooth
 import Formalism.HermitianCurvature.StatementB
 
 noncomputable section

@@ -1,7 +1,8 @@
-import Mathlib
 import Formalism.PeriodIntegrals.WwInjective
 import Formalism.PeriodIntegrals.WwCauchyBinet
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramInjectivity.GramVanish
+import Mathlib.Algebra.MvPolynomial.Funext
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

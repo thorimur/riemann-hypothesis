@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NonemptyTransferEquiv
-import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.GaussianBinomialFormula
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.GaussBinomMulProd
 import Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.CycOfPrime
 open NumberField

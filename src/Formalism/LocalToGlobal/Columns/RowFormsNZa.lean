@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.DecorationStabilizerTrivialUnipotent
 
 open NumberField IsDedekindDomain Module

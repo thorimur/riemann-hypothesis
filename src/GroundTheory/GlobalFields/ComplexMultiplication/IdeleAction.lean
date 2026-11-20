@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.ClassGroup
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.Tactic.Polynomial.Basic
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Global

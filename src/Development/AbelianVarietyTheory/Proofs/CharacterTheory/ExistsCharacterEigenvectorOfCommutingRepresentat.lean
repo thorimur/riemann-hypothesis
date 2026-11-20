@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CharacterTheory.Imports
+import Mathlib.RepresentationTheory.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace GlobalTheory
 

@@ -1,4 +1,11 @@
 import Development.EtaleCohomology.DivisorCycles.CycleCountPf
+import Mathlib.LinearAlgebra.Eigenspace.Charpoly
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.RootsOfUnity.AlgebraicallyClosed
+import Mathlib.Tactic.Polynomial.Basic
 
 open Matrix
 namespace LateralTheory.DivDb.CycSpec_qzkPf

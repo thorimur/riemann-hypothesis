@@ -1,4 +1,7 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalLatticeIsomorphism.EquivariantPartsOfFiniteType
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalLatticeIsomorphism.RpOfIsIntegral
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 open scoped BigOperators

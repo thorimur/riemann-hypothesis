@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LabelSigBijective
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartnerPointIntegralModel
 import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.FirstFormIffSecondForm
-import Formalism.LocalToGlobal.ProjectiveLattices.FrameCharts
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.FrMapComp
 import Development.AbelianVarietyTheory.Counterexamples.JetSurvey.NaturalOfChartIndep
 import Development.WeilBound.CoreStatements.AdicCompleteSpans.MinorC

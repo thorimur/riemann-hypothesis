@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsMulRightInvariantSemi
+import Mathlib.Topology.Algebra.Group.OpenMapping
+import Mathlib.Topology.Baire.LocallyCompactRegular
 
 open MeasureTheory GlobalTheory.Unf.SemiFd GlobalTheory.SemiMean
 open scoped Pointwise ENNReal

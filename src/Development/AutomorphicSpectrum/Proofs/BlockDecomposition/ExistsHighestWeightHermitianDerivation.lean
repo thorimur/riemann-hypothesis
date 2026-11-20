@@ -1,6 +1,3 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.RealDescent.RealLeviDescent.HighestVectorsRegularLine
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WtRInjective
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DifferentiableCoeffRowAct
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtMulVec
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LineInverse
@@ -10,6 +7,8 @@ import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GelfandInfinite
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SumMemOfStable
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteDimTranslationRepUnitaryModel
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HwIrred
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCliff
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CompactGroupIntegrability.InstCompactUG
 
 noncomputable section
 

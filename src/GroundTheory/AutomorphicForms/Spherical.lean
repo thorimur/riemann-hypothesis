@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.SphericalIntegral
 
 noncomputable section

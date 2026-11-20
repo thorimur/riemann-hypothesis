@@ -1,4 +1,6 @@
 import ReciprocityTheory.L2DbarEstimates.Localization.ChartA
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace ReciprocityTheory.L2DbarEstimates.F
 

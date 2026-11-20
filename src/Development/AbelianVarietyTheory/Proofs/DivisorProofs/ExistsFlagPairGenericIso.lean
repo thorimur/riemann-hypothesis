@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTriSelf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsoOfSubbundleSameRankStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSubbundleCompIsIso
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AppInjectiveOfFrames

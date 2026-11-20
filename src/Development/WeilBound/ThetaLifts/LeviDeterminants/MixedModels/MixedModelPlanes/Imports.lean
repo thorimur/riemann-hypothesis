@@ -1,1 +1,1 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd

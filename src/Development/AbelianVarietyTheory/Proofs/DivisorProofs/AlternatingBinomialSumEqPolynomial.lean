@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.LineSCShortExact
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AevalFibPowExplicit
 import ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.LogDetSt

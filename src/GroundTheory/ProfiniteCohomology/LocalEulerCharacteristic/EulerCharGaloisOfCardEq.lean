@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.MainSimple
-import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.MainCoind
-import GroundTheory.ProfiniteCohomology.LocalClassFormation.FiniteVanishing.Devissage
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

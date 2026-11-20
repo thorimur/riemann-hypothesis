@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.IntegralLocallyConstCochainModPow
-import Development.AbelianVarietyTheory.Definitions.Foundations.NotIsTrDataGaussianIntOne
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsEqOfSmulMkEqZero
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.PSqSmulKaehlerMemSpan
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.KaehlerDOfPowEq

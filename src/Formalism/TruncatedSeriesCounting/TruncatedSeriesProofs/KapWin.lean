@@ -1,5 +1,6 @@
 import Formalism.TruncatedSeriesCounting.PowMemSpanOfMemSpanLinearDistinguished
 import Formalism.WindowSums.PowerSeriesRelationList
+import Mathlib.Order.Interval.Finset.Box
 
 namespace Formalism.TruncatedSeriesCounting.TruncatedSeriesCountingBounds
 

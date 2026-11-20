@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.CechNaturality.CechFunctor
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.CechLeray
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open CategoryTheory Opposite TopologicalSpace GroundTheory.Arith.SchemeCoh
 

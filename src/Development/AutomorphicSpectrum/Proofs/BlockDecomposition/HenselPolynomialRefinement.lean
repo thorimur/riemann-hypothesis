@@ -1,7 +1,7 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.WittExactSequences.IsCompl
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsEvalEqProdOfNatDegreeEq
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulProdCongr
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open TensorProduct CrystallineSemistableComparison.D
 open scoped LaurentPolynomial

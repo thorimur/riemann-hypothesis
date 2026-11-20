@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.FrameInt
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemFin
 import Formalism.LocalToGlobal.IndefiniteReal.FockTheta.ConjPurelyImaginaryGenerator
 

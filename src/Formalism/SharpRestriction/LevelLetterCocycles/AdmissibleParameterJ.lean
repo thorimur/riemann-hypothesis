@@ -1,6 +1,4 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.PairedCharacterCondition
-import Formalism.SharpRestriction.LevelLetterCocycles.SumRepresentations
-import Formalism.SharpRestriction.LevelLetterCocycles.DecompositionData
 import Formalism.LocalRingCardinality.DataParams₂
 
 noncomputable section

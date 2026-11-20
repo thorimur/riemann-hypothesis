@@ -1,4 +1,7 @@
 import Formalism.HermitianCurvature.StatementJ
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Finset NumberField Formalism.FourierDecayAlt Formalism.FourierDecayAlt.J
 open scoped ComplexOrder ComplexConjugate nonZeroDivisors

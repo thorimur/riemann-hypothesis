@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OfE
+import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.BaseOneSide.PsiSide
+import GroundTheory.IdeleRoots.TorusPowers.HeckeTensor
 
 set_option maxSynthPendingDepth 1
 set_option synthInstance.maxSize 1000

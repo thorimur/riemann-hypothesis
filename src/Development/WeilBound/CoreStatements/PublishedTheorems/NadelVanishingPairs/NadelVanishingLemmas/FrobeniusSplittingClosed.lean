@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsFlatLift
 import Development.WeilBound.CoreStatements.PublishedTheorems.NadelVanishingPairs.NadelVanishingLemmas.AlternatingProductCocycle
+import Mathlib.LinearAlgebra.ExteriorAlgebra.Grading
 
 open GlobalTheory GlobalTheory.DI
 

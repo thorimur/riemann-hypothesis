@@ -1,4 +1,8 @@
 import Formalism.HermitianCurvature.LevelRecursionCondNeeded
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.FourierDecayAlt.P.TopDegreePolynomials
 

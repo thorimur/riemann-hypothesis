@@ -1,6 +1,5 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.LieGeometryGrowth.ThStmt
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.SumDer
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.QuadraticFormGradientFormula
+import Mathlib.Analysis.Calculus.ContDiff.FiniteDimension
 open UpperTheory.V.Lit.Geo
 open NumberField Matrix GlobalTheory.CuspRep
 open scoped ContDiff

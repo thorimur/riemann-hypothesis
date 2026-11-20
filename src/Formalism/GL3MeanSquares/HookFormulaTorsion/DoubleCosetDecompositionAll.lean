@@ -1,6 +1,7 @@
-import Mathlib
 import Formalism.GL3MeanSquares.AffineFibreCountComparison
 import Formalism.LogVandermondeBounds.LogVandermondeProofs.RamifiedLatticeOperatorIdentity
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.HermitianLattices.OneDimInversion
 

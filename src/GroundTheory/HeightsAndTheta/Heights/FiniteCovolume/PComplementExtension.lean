@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsComplementExtension
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

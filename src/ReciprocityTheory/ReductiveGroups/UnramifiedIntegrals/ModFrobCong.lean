@@ -1,13 +1,5 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModGDefs
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModGBasic
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModPrincNorm
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.IsIntegralOfRoot
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModLatTau
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModJTau
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModCMPoint
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModVanish
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModFrobSer
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModKronPt
 
 noncomputable section

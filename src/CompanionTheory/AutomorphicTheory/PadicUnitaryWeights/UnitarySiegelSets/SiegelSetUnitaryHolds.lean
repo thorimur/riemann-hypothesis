@@ -1,8 +1,5 @@
-import Mathlib
-import CompanionTheory.ThickeningEstimates.LieGroupReduction.SiegelPar
-import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.PlaneStrongApproxGeneratorImports
-import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.BlockTriangularMemMinimalParabolic
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.SiegelSetUnitary
+import CompanionTheory.ThickeningEstimates.LieGroupReduction.SiegelCore
 
 namespace CompanionTheory.Prw
 

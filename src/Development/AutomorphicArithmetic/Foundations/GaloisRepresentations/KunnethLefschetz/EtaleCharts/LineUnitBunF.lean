@@ -1,5 +1,4 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.KunnethLefschetz.EtaleCharts.PBData
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CompOfCechPt
 
 set_option backward.isDefEq.respectTransparency false
 

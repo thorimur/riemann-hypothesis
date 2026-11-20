@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SchurDeterminants.PairSplit
+import Mathlib.Tactic.ENatToNat
 
 open Finset MvPolynomial UpperTheory.Gal.Schur
 

@@ -1,4 +1,6 @@
 import Formalism.GL3MeanSquares.ConcavityEquidistribution
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.LinearAlgebra.Matrix.PosDef
 
 namespace Formalism.HermitianLattices.LatticeEstimates
 

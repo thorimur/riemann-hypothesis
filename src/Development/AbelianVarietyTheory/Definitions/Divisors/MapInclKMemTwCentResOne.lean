@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.CycFieldA
 import Development.AbelianVarietyTheory.Definitions.Divisors.TwOrbMEqTwOrbUOfNormal
 

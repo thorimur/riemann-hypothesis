@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.HermitianForms.TiedSym
-import Formalism.LocalToGlobal.HermitianForms.RankEqFirstLevel
 import Formalism.LocalToGlobal.HermitianColumns.SymAll
 
 noncomputable section

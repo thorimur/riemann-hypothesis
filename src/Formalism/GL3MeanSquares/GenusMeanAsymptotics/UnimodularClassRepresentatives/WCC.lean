@@ -1,4 +1,5 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.LaurentAdjoinEqOfImageEq
+import Mathlib.RingTheory.PiTensorProduct
 
 open NumberField Module
 

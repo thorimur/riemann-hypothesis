@@ -1,4 +1,7 @@
 import Formalism.PairingDivisors.StatementN
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.NumberTheory.Multiplicity
+import Mathlib.RingTheory.WittVector.IsPoly
 
 namespace GlobalTheory
 

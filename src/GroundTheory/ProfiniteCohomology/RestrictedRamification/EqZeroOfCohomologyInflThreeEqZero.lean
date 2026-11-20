@@ -1,8 +1,9 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.InflationRestriction
 import GroundTheory.ProfiniteCohomology.Factor
 import GroundTheory.ProfiniteCohomology.CupProducts.Cocycles
-import GroundTheory.ProfiniteCohomology.ClassFormations.IsIsoCohomologyMapAlongResSubgroupOfHom
+import GroundTheory.ProfiniteCohomology.ClassFormationDefs
+import Mathlib.CategoryTheory.EffectiveEpi.Comp
+import Mathlib.CategoryTheory.ExtremalEpi
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

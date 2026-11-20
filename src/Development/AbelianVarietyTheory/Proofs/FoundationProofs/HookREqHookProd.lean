@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.PlaceRankTwoOne
-import Formalism.LocalRingCardinality.CoeNeZeroOfNotMem
 import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.ThetaLift
 
 noncomputable section

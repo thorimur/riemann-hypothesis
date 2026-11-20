@@ -2,6 +2,7 @@ import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpTieGerm
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CIndBCNab
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdJet
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.WickVanishing.CalcExp
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpTieAlg
 
 set_option autoImplicit false
 

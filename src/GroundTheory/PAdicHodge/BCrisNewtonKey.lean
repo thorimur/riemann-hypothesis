@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.PAdicHodge.BCrisNewtonValue
+import GroundTheory.PAdicHodge.ACrisBdRGalois
+import GroundTheory.PAdicHodge.BCrisNewtonDom
+import GroundTheory.PAdicHodge.BCrisNewtonSlope
+import GroundTheory.PAdicHodge.BdRAlgCl
 set_option maxSynthPendingDepth 1
 
 noncomputable section

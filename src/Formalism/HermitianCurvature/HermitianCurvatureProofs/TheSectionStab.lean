@@ -1,7 +1,8 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TheSection
-import Formalism.HermitianCurvature.StatementNF
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TwoByOneBlock
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreCut
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 open Matrix
 

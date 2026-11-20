@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.IntegralHeckeForms
 import Formalism.LocalToGlobal.IndefiniteReal.Bridge
 
 noncomputable section

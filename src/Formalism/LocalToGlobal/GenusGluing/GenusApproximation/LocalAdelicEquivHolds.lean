@@ -2,7 +2,6 @@ import Formalism.LocalToGlobal.GenusGluing.GenusApproximation.GenusApproximation
 import Formalism.LocalToGlobal.GenusGluing.GenusApproximation.GenusApproximationProofs.IdempotentCalculationHolds
 import Formalism.LocalToGlobal.GenusGluing.GenusApproximation.GenusApproximationProofs.GlueSmulSame
 import Formalism.LocalToGlobal.GenusGluing.GenusApproximation.GenusApproximationProofs.AsmOfMemComplF
-import Formalism.LocalToGlobal.Columns.RecLevelHost
 
 noncomputable section
 

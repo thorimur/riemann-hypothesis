@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.ProductZerothFirstParts
 import Formalism.GaussJetBounds.Statement
 

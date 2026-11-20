@@ -1,4 +1,5 @@
-import Formalism.WachLatticeTwists.LatticeDualFibres.Statement
+import Formalism.CharacterColumnKernels.Statement
+import Mathlib.RepresentationTheory.Basic
 
 universe u
 

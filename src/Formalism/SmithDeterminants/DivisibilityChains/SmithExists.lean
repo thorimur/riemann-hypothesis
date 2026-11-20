@@ -1,4 +1,6 @@
-import Formalism.SmithDeterminants.DefsDVR
+import Formalism.SmithDeterminants.StatementDVR
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.A
 

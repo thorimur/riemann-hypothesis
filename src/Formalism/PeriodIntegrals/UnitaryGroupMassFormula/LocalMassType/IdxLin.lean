@@ -1,4 +1,3 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassType.Development
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanMulMem
 
 noncomputable section

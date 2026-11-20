@@ -1,7 +1,5 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshExt
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMoll
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshBasic
 import GroundTheory.HeightsAndTheta.Heights.Regularisation.Statements
 set_option maxSynthPendingDepth 1
 

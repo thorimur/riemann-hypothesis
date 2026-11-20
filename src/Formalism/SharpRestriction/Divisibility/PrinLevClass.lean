@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.ParConsts
 import Formalism.SharpRestriction.ParamsHeightRankConstant
 
 noncomputable section

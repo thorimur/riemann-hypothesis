@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExponentialLatticeEndomorphismLift
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.MapSmulOfIsHausdorff
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TateLatticeSpans
 open scoped TensorProduct NumberField
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.exponential_lattice_endomorphism_lift : ∀ (E : Type) [Field E] [NumberField E] (ℓ : ℕ) [Fact ℓ.Prime] (W : Type) [AddCommGroup W] [Module ℂ W]

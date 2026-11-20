@@ -1,9 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.SeriesRatSOf
-import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.TwistSeries
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsUniqueHcharOfFiniteOrder
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RationalFormsDetTwistMulRationalStatement
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaWeilTwist
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsRatConstMul
 
 set_option autoImplicit false
 noncomputable section

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsCurveFormNonvanishing
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.PCoordCurveDegree
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PBigIffGenDeg

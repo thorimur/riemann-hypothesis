@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.FockRBlock
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TensorOperator.OkSmulRight
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TensorOperator.FilterConcatWLength
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TensorOperator.MultidegSingle

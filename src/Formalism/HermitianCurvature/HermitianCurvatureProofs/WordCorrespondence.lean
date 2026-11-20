@@ -1,4 +1,9 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.StandardPairingDecay
+import Formalism.HermitianCurvature.HerGenC
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.HermMulVecMulVec
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.IntegrableOfDecay4
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBFVpic
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.SliceCompactSupportCoefficient
 
 open Matrix MeasureTheory Filter Topology
 

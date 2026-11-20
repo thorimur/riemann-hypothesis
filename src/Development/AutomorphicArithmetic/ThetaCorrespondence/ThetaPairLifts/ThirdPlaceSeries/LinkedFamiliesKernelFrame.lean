@@ -1,7 +1,5 @@
-import Formalism.LocalToGlobal.ClassSK
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.LinkedFamiliesFixedValues
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.RingSpecNormalisedCharacterEqAlt
+import Formalism.LocalToGlobal.KernelLattices.FirstKernelLawReading
 
 set_option synthInstance.maxHeartbeats 200000
 

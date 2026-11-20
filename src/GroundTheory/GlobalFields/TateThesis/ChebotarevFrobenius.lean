@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.SplittingFromInequality.Decomposition
 
 namespace GroundTheory.Global

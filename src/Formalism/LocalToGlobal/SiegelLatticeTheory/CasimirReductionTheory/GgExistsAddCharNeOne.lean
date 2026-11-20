@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.DiscreteSeriesWeylDimension
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCPX
 import Formalism.SharpRestriction.CuspSpanNormBounds.TheoremBConstants
@@ -6,20 +5,11 @@ import Formalism.SharpRestriction.CuspSpanNormBounds.LowestKTypeMultiplicity
 import Formalism.SharpRestriction.CuspSpanNormBounds.ExpansionFromLemmaB
 import Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.DegreeL2RangeHypothesis
 import Formalism.PeriodIntegrals.KFinSmooth
-import Formalism.HermitianCurvature.StatementB
-import Formalism.HermitianLattices.StatementMass
-import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
-import Formalism.PeriodIntegrals.UpqRep
 import Formalism.PeriodIntegrals.PhMeasCore
-import Formalism.RealPlaceAnalysis.StatementE
-import Formalism.FormalDegreeBessel.StatementDS
-import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
-import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GenusMassVolumes
 import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.SphericalFunctionIntegrableOfLocal
-import Formalism.SharpRestriction.CuspSpanNormBounds.CayleySignature
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLand
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GGMirabolicBase
-import Formalism.SharpRestriction.CuspSpanNormBounds.DiagonalEntryIdentity
+import Mathlib.NumberTheory.LegendreSymbol.Complex
 
 noncomputable section
 

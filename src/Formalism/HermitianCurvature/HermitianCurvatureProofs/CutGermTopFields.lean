@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGermTopVec
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelFormsJointContinuity
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LastBlockDecay
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.IntegralNormCvecSq
 
 namespace Formalism.FourierDecayAlt.P.CutBP.GT
 

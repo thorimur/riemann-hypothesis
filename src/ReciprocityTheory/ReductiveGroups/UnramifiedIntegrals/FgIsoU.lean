@@ -1,7 +1,9 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnIso
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgPhInt
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.NormNatCastClOfNotDvd
+import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.FinalA
+import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.LatModel
+import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ShortWIntModel
 
 noncomputable section
 

@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SuperconnectionIsometry
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConnFormSmul
 open GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe GlobalTheory.TorsionForm GlobalTheory.TorsionForm.Gauge
 open scoped ContDiff
 set_option maxHeartbeats 1000000 in

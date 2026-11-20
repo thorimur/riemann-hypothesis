@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LiftsInvOne
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RedGLEqOneOfLqPrinc
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsOfStarEq

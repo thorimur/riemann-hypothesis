@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.MapEvalPsPi
+import Mathlib.Data.Nat.Cast.SetInterval
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

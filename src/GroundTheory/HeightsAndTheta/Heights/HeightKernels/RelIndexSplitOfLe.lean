@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StdCoordMapInjective
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesQuotIndex
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.Kernels

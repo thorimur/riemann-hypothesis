@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.SemipositiveHeights.NumericalSegre
 
 namespace GlobalTheory.CompanionTheory.Segre

@@ -1,4 +1,6 @@
-import ReciprocityTheory.DualLattices.WtGtRowSubstXSub
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import ReciprocityTheory.DualLattices.FischerAdjointStatement
 
 noncomputable section
 

@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsL2OnDiagonalOfIsL2Metric
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.QuasiCompactUnitPair
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HolomorphicTranslationSectionSumStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodChartTranslationLiftStatement
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.IsHolToPrecomp

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.HasLevelOffOf
 import Development.AbelianVarietyTheory.Definitions.Divisors.GenOf
 

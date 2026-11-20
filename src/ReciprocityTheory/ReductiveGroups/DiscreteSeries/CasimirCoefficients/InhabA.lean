@@ -1,5 +1,8 @@
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.IsClosedKset
 import Lemmata.MovedPointExistence.ExistsMoved
+import Mathlib.Analysis.Matrix.Normed
+import Mathlib.RingTheory.SimpleRing.Principal
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.DefsRep
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

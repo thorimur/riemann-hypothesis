@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.PAdicHodge.FieldOfNormsTower
-import GroundTheory.LocalFields.DifferentGalois
-import GroundTheory.LocalFields.RamificationStructure
-import GroundTheory.PAdicHodge.FieldOfNormsUpper
+import GroundTheory.LocalFields.ExistsUnitFiltrationUnitsLeRangeNormUnits
+import GroundTheory.LocalFields.HerbrandFunction
 set_option maxSynthPendingDepth 1
 
 noncomputable section

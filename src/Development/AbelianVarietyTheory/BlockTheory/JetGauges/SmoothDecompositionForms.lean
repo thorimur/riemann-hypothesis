@@ -1,8 +1,8 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UpqRep
 import Formalism.PeriodIntegrals.IsLowUnitH
-import Formalism.PeriodIntegrals.BesselMapUniq
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HighestWeightUniqueness.HpkMulMulHpkApply
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix Finset
 open scoped InnerProductSpace

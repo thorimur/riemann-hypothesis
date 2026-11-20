@@ -1,7 +1,5 @@
 import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.ExistsLin
 import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CardResOK
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.CrystallineTowers.NiceBc
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.CrystallineTowers.LocTowerHolds
 
 theorem UpperTheory.Gal.Int.Geo.geoSide_of :
     UpperTheory.Gal.crystallineComparison.Br.FinAll → CrystallineSemistableComparison.SmoothModelCrystalline → UpperTheory.Ru.crystallineComparison.GeoSide := by

@@ -1,6 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LogMeanShares.LogMeanStatements.HSClaim
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HilbertSamuelDegreeRatioLowerBoundRearrangedStatement
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Tactic.ENatToNat
 
 namespace GlobalTheory.CovHSNum
 

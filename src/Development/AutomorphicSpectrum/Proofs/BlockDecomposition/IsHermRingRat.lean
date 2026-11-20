@@ -1,5 +1,4 @@
-import Mathlib
-import Development.WeilBound.ThetaLifts.Reductions.SiegelCore
+import Development.AbelianVarietyTheory.Definitions.Foundations.HermitianSpaceBaseLatticeEqFrameLattice
 
 set_option linter.unusedSectionVars false
 

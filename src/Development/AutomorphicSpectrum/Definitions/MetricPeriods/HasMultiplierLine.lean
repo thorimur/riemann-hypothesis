@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.HasMultiplier
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsArith
 

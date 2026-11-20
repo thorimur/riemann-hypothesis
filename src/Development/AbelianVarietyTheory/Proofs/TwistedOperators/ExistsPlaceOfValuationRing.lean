@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 
 open NumberField IsDedekindDomain Formalism.BasicNotions

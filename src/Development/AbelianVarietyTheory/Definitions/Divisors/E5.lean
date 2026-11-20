@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.DivisorSupportCondition
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsStrictlySemistableAlt
+import Development.AbelianVarietyTheory.Definitions.Divisors.PullHlComp
+import Mathlib.Topology.Instances.ZMod
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite

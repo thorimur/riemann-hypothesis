@@ -1,5 +1,9 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.IntegralNormLeDecay
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FormWaveMDiff
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.LimitOfModuleForms
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.NormLeIntegralFsv
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.StandardPairingOfHeads
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.XiBound
 
 open Matrix MeasureTheory Filter Topology
 open scoped ComplexConjugate

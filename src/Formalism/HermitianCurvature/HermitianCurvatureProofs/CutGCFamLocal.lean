@@ -1,9 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeVLem
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.NFRadRedA
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ActualAdjointnessFromHermitian
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.SumDualVectorEqZeta
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ChainRecursionFromSingleDescent
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

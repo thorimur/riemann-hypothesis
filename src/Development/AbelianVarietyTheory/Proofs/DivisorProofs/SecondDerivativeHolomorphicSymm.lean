@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarAddVectorScalar
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Topology.Sheaves.Presheaf
 open Matrix Set Filter Topology
 open GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe GlobalTheory.TorsionForm GlobalTheory.TorsionForm.Pullback
 open scoped ContDiff

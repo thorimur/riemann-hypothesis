@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.UnitLemmaGroup
+import Mathlib.LinearAlgebra.Charpoly.ToMatrix
+import Mathlib.Tactic.ENatToNat
 open Polynomial
 
 namespace GlobalTheory.UnitLemma

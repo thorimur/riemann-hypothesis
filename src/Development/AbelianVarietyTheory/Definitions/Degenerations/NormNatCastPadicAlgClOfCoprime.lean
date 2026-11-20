@@ -1,8 +1,12 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Degenerations.ArithBase
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.AbProj
 import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.TwistingSheafOneChartEqPreimageStandardChart
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.OrthogonalFreeOfPerfectAltZmod
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Order.PUnit
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Algebra.Ring.BooleanRing
+import Mathlib.NumberTheory.NumberField.Cyclotomic.Basic
 
 open CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj AlgebraicGeometry
 open scoped CategoryTheory.Obj

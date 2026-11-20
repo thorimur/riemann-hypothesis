@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.DualFockLinear.RestCloudBOfThree
-import Formalism.LocalToGlobal.GroupLattices.FockModels.TestSideFinal
+import Formalism.LocalToGlobal.GroupLattices.FockModels.TransposeWords.FockR
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.GaussianSchwartz
+import Mathlib.Analysis.Distribution.SchwartzSpace.Fourier
 open FourierTransform MeasureTheory Filter Topology
 
 noncomputable section

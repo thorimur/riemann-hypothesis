@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.StatementLE
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.FourierDecayAlt.P.LEx2.A3
 open Formalism.FourierDecayAlt.LE

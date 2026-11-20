@@ -1,4 +1,7 @@
 import Formalism.LocalToGlobal.GroupLattices.FockModels.FlatModels.Letter
+import Formalism.GradedWeylDivisibility.FinalD
+import Formalism.SharpRestriction.GrowthBounds.ObjSeg
+import Mathlib.Order.Interval.Finset.Box
 
 open MvPolynomial
 

@@ -1,5 +1,7 @@
 import ReciprocityTheory.DualLattices.EigPowEqOne
 import ReciprocityTheory.DualLattices.IsAdicCompleteOfBasis
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

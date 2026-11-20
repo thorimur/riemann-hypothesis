@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsorsTrivialIff
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsorsTrivial
 
 open scoped TensorProduct
 

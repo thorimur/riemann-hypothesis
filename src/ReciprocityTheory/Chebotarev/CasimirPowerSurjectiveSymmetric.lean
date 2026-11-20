@@ -1,4 +1,5 @@
 import ReciprocityTheory.Chebotarev.NZIdeal
+import Mathlib.NumberTheory.NumberField.DedekindZeta
 
 open NumberField Filter Topology
 

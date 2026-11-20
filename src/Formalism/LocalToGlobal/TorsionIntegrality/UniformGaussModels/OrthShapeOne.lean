@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.IsHypPair
-import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.IsotropicVanish
+import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementE
 
 noncomputable section
 open scoped BigOperators

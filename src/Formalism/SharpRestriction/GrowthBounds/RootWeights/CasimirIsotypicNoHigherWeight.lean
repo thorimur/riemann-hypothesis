@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicComponentLeLowerWeights
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.CrAevalStable
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.CrCCommApply
 
 noncomputable section
 

@@ -1,4 +1,5 @@
 import Development.DiscreteGroups.GlobalIrreducibility.KUSStable
+import Development.DiscreteGroups.GlobalIrreducibility.RankOneTopLeftZero
 
 noncomputable section
 

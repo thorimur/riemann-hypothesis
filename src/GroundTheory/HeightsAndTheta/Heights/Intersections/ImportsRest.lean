@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImageVarIdBotTwo
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreTail
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsChartRankAdjoin

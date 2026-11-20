@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.PrimPullTensorPull
 
 set_option autoImplicit false

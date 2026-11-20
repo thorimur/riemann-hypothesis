@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NilpotentExpInjectiveCommutingStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NilpotentExpLogSeriesStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NilpotentMatrixPowDimEqZeroStatement
+import Mathlib.Topology.Algebra.Algebra.Rat
 
 namespace GlobalTheory.UnipotentLog
 

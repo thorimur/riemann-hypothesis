@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.HermitianForms.IsLocBasis
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Afsplit
 

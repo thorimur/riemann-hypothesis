@@ -1,4 +1,7 @@
 import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
+import Formalism.LocalToGlobal.IndefiniteReal.BridgeTie
+import Formalism.LocalToGlobal.IndefiniteReal.CutTuples2
+import Formalism.LocalToGlobal.IndefiniteReal.DatumVec
 
 noncomputable section
 

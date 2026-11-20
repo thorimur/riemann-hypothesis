@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.SpanningFamilies.IMemSiegel
 import Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.FinsumQuotientOfLe
+import Mathlib.Tactic.Monotonicity.Lemmas
 open Matrix Complex GlobalTheory.SW
 open scoped ComplexConjugate Real
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.OrbitLabellings.RowDefs
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsCutIntoBoundedGroupsFinset
 

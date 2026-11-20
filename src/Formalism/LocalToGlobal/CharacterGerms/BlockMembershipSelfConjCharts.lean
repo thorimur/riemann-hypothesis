@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.CharacterGerms.GramMatrixMulRight
 import Formalism.LocalToGlobal.CharacterGerms.SelfConjugateRowData
+import Formalism.LocalToGlobal.CharacterGerms.ValBlocksCChart
 
 set_option autoImplicit false
 

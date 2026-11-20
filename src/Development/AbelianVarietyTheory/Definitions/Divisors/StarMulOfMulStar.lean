@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.MemShaKernelIffLocallyTrivial
 import Development.AbelianVarietyTheory.Definitions.Divisors.SubsingletonComplex
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CentralizerSimilitudeBaseChange

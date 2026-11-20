@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.ExtensionClauses
-import Formalism.SharpRestriction.LevelLetterCocycles.InvariantsGenerators
 
 noncomputable section
 

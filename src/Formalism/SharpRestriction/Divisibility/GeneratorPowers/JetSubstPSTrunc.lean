@@ -1,6 +1,6 @@
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ScaleGenIsGen
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBPrim
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermFunPf
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdLB
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBSer
 
 set_option autoImplicit false
 

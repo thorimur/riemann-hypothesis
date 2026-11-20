@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.DefiniteBound
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsCompactDualHaar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

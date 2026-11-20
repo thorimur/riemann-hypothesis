@@ -1,13 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.ValidForConstructedPointClassesEventuallyWorking
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.ColumnCompatibleSelection
-import Formalism.LocalToGlobal.IndefiniteReal.RealTB
 import Formalism.LocalToGlobal.IndefiniteReal.RealRecPins
-import Formalism.LocalToGlobal.IndefiniteReal.BaseLiftsPackageOfPrimitiveLinks
 import Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.NMjT
-import Formalism.LocalToGlobal.Divisibility.NumericScaleExponentEqExtended
 import Formalism.LocalToGlobal.Divisibility.PsiWeilOfAbsNorm
-import Formalism.SharpRestriction.GlobalTheoremInputs
+import Formalism.LocalToGlobal.IndefiniteReal.PrimitivePackageFullHecke
 
 noncomputable section
 

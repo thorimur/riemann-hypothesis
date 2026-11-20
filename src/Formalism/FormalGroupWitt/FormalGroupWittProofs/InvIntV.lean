@@ -1,5 +1,6 @@
 import Formalism.FormalGroupWitt.SubstInjectiveV
 import Formalism.FormalGroupLog.FormalGroupLogProofs.ChainRule
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

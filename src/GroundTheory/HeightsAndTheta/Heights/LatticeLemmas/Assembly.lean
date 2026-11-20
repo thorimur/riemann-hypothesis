@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PBaseChange
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PSublattice
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PLatticeOfLocalisations
@@ -19,7 +18,6 @@ import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PHeightOfCycle
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PSphereLawUnitary
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PSpherePhase
 import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PSphereProjectionLaw
-import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PPointwiseLelong
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FrameAbs
-import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DvdOfCoeffSubstXPowNeZero
+import Mathlib.RingTheory.PowerSeries.Inverse
+import Mathlib.RingTheory.PowerSeries.Substitution
 
 noncomputable section
 

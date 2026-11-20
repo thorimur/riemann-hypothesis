@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTildeVanishCone
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PTildeTailLoc
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

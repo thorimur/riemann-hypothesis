@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.FlatQuotientOfEquivCokerDualMapOfExactFibres
 open CategoryTheory CategoryTheory.Limits TensorProduct
 set_option maxHeartbeats 1000000 in

@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ScalRelRepFree
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BetaUniqueness.Lemmas
+import Formalism.SharpRestriction.CuspSpanNormBounds.IsPrimitiveSub
 
 noncomputable section
 

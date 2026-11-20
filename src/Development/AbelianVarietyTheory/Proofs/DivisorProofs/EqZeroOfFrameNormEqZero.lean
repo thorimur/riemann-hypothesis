@@ -1,6 +1,7 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.JoinCastSucc
-import ReciprocityTheory.SemistableReduction.TorusL2CauchyInequality
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LinSubstLinSubst
+import Development.AbelianVarietyTheory.Definitions.Divisors.PointHeight
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Algebra.Ring.IsFormallyReal
+import ReciprocityTheory.SemistableReduction.RestBlockSubstIsMultiHomogeneous
 
 set_option autoImplicit false
 

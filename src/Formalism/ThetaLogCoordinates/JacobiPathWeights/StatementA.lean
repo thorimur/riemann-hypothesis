@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.LiftWord
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.StatementB
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 noncomputable section
 

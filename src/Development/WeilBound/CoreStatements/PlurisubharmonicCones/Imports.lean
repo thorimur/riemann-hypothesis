@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptFieldExtension
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCompComparisonLeft
 

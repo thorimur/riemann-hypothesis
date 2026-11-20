@@ -1,4 +1,3 @@
-import Formalism.FlagUnipotentLattices.CuspidalityThreshold
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.OperatorHilbertSchmidtNorm
 
 namespace Formalism.HermitianLatticeCounting.Final.CuspThresholdCounts

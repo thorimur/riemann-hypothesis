@@ -1,5 +1,8 @@
 import Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.DecompOfNormalStatement
-import Formalism.LocalToGlobal.IndefiniteReal.EigenDecomposition
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Cases
+import Mathlib.Tactic.ENatToNat
 
 open scoped InnerProductSpace
 

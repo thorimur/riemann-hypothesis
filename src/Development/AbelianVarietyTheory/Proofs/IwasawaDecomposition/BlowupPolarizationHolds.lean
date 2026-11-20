@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BlowPolSt
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.NonemptySabMapOfCompatibleStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PhiDivisorPullbackStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.KeepsRegularCompatibleMapStatement

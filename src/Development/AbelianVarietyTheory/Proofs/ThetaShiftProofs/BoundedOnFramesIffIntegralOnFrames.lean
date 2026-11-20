@@ -1,10 +1,11 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.Rationality.FinCorePf
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.Rationality.BasisChangePf
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsIsUnitEvalOfMapResidueNeZero
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ResidueNormValuationSubringEqZeroIff
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosurePadicInt
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.SummableNormBoundedSeries
+import Mathlib.Analysis.Normed.Field.Instances
+import Mathlib.RingTheory.LaurentSeries
 
 namespace GlobalTheory.DiscEval
 

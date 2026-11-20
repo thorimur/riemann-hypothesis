@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.IsWeightedHomogeneousOfMemOrbitSpan
+import Mathlib.LinearAlgebra.Eigenspace.Basic
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Derivation.Lie
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open MvPolynomial Matrix
 

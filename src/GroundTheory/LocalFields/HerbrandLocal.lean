@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.LocalFields.HerbrandLocalBase
 import GroundTheory.LocalFields.CompleteTrivialLocal
+import GroundTheory.LocalFields.HilbertCyclic
 
 namespace GroundTheory.LocalField
 

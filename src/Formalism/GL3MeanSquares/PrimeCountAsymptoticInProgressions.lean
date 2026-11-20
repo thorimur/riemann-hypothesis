@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.GL3MeanSquares.SmoothedRemainderRealIntegralFormula
 
 open Finset Filter Topology ArithmeticFunction

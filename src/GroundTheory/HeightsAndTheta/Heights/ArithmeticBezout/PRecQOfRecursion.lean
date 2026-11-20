@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.MemConePointsSpanX0
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ImportsAlt
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.GaussNormEqCoeffGaussNorm
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.FiniteSupportLogCoeffGaussNorm
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.MemMinimalPrimesOfMemFundCycleSupport
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PObjectsDivCycleGeneric
@@ -9,6 +6,7 @@ import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PDivSuppHorizontalA
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.LowerBoundConditional
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.HeightMul
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.MahlerMul
+import Mathlib.Algebra.Ring.IsFormallyReal
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

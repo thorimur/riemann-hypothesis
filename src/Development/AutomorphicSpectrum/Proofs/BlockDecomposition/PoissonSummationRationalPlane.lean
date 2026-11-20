@@ -1,9 +1,4 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.GENSL
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SymplecticFourierGaussian
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GlobalRankinSelbergBasicFacts
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MeasurePreservingMixedSpaceReal
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AddCharConductorInv
 open NumberField IsDedekindDomain MeasureTheory GroundTheory.Global GroundTheory.LocalField GroundTheory.Automorphic Ad3 Ad3.K Ad3.K.QuadraticBaseChangeGL3 Ad3.K.QuadraticBaseChangeGL3.Th
 open GroundTheory.Automorphic.GodementSection (localChar restrictedTensor2 awayBox awayIntegral vecAt)
 open GroundTheory.Automorphic.GJMatrix (localFourierPi localMeasurePi)

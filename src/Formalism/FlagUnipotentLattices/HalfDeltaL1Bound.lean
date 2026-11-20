@@ -1,5 +1,3 @@
-import Formalism.FlagUnipotentLattices.HalfDifferenceL1Bound
-import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.CoefficientLeOperatorNorm
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.ExtensionInterSubspace
 
 namespace Formalism.HermitianLatticeCounting.Final.S7

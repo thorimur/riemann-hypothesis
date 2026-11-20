@@ -1,4 +1,6 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SquarefreePrimeFactor.MonicDegFnNatDegree
+import Mathlib.RingTheory.Artinian.Instances
+import Mathlib.RingTheory.PicardGroup
 
 open Polynomial
 

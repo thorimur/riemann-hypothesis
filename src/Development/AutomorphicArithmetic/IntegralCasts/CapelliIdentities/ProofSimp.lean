@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGenericNoetherNormalisation
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.NoetherNormalizationChart
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.PseudoDivision

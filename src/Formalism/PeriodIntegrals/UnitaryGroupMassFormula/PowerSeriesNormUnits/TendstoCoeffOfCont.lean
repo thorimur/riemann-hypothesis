@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.PhNormUnits
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.PowerSeriesNormUnits.Development
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.PowerSeriesNormUnits.ConstantCoeffFormalSMul
 

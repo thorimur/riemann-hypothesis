@@ -1,8 +1,6 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GelfandTsetlinLowering.LiftDefs
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LEhwLemmas
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LRowdivLemmas
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.FockQRowDivAdj
+import Formalism.GradedWeylDivisibility.StatementE
+import Formalism.PeriodIntegrals.HwIrred
 
 noncomputable section
 

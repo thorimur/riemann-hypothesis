@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataCD
 import Formalism.RealPlaceAnalysis.InstMeasurableSpaceUJ
 

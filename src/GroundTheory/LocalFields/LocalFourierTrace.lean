@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.Different
 import GroundTheory.LocalFields.LocalFourierExistence
 

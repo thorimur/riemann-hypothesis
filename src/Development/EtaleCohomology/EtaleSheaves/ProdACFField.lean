@@ -1,4 +1,7 @@
 import Development.EtaleCohomology.EtaleSheaves.BuildCut
+import Mathlib.Algebra.Group.Pi.Units
+import Mathlib.AlgebraicGeometry.Morphisms.SchemeTheoreticallyDominant
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC LateralTheory.E.t_E2Cut LateralTheory.E.CoverCut LateralTheory.E.BuildCut

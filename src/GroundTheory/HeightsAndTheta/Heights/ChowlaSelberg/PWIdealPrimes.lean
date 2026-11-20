@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.AnalyticClassNumber.QuadraticLegendre
 set_option maxSynthPendingDepth 1
 

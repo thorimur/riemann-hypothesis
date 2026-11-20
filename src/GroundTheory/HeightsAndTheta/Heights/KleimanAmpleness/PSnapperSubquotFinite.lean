@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.SnapperSubquotFiniteSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperQuotAdd
 set_option maxSynthPendingDepth 1
 

@@ -1,7 +1,15 @@
-import Mathlib
-import Formalism.PeriodIntegrals.PhNormUnits
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.PowerSeriesNormUnits.Development
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerBis
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.NumberTheory.Padics.RingHoms
+import Mathlib.RingTheory.PowerSeries.Exp
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 
 noncomputable section
 

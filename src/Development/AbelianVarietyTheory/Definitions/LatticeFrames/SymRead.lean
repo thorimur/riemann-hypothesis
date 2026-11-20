@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.IsStdFr
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.FrameTopAlt
 
 noncomputable section
 

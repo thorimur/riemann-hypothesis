@@ -1,4 +1,8 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussianEigenFrames.StatementE
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
 
 noncomputable section
 open NumberField

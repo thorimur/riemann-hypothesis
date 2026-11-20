@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.ZetaProductPairs
 
 noncomputable section

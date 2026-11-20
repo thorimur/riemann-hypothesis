@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.WeakStable
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ResidueCardEqAbsNormStatement
-import Development.AbelianVarietyTheory.Definitions.Divisors.EqOfHasValueAtInfinite
 
 namespace UpperTheory.ConvolutionTheory.Sph
 

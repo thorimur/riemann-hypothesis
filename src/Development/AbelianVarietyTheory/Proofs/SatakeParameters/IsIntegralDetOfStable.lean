@@ -1,6 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.LateralTheory
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.MulVSubRight
+import Mathlib.LinearAlgebra.PiTensorProduct.Generators
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 open NumberField Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.TaylorLogMetric Formalism.MainNotions.StandardLatticesGL3 Formalism.L2.Ker GlobalTheory.RatEqui
 
 namespace GlobalTheory.DetStab

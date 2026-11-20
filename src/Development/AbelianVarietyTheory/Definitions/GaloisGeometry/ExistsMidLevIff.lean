@@ -1,12 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.TopPin
 import Formalism.LocalToGlobal.KernelLattices.KerMtPin
-import Formalism.LocalToGlobal.Columns.RecLevel
 import Formalism.LocalToGlobal.UnitaryNorms.CharTied
-import Formalism.LocalToGlobal.HermitianColumns.HermCols
 import Formalism.SharpRestriction.GrowthBounds.ChartComparison.StepIn
-import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.ToLEInvApply
-import Formalism.LocalToGlobal.HermitianForms.TiedTwGen
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.NatCastMemOfPlace
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsFiniteAdeleBaseChangeEquiv
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.MemMoveLevUloc

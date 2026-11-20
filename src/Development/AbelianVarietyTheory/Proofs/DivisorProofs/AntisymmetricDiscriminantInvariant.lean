@@ -1,7 +1,7 @@
-import Mathlib
-import Formalism.DegreeFormula.PointDegree.PowSum
 import Formalism.DegreeFormula.PointDegree.PermExpInj
 import Development.AbelianVarietyTheory.Definitions.Foundations.CurveCl
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MvPolynomial Formalism.DegreeFormula GlobalTheory.FlagPoly
 

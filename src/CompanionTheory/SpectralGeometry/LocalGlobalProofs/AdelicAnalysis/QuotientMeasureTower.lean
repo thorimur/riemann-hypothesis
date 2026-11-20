@@ -1,6 +1,6 @@
-import Mathlib
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.FiniteCovolumeUnimodular
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.ClosedSubgroupQuotientMeasureStatement
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MeasureTheory Topology
 open scoped ENNReal NNReal Matrix

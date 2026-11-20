@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.Statement
+import Mathlib.RepresentationTheory.Basic
 
 open Module NumberField IsDedekindDomain
 

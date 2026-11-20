@@ -1,4 +1,6 @@
 import Formalism.PadicSubsetSums.StableGradedCounts.IRRIrredCountUpper
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Polynomial UniqueFactorizationMonoid
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ReductionHeight
 import GroundTheory.AutomorphicForms.Iwasawa
 import GroundTheory.AutomorphicForms.RealGroupsIwasawa

@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.CurriedCoboundaryEq
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField.Deg2

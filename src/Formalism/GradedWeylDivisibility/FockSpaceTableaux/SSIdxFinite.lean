@@ -1,4 +1,5 @@
 import Formalism.GradedWeylDivisibility.StatementD
+import Mathlib.Data.Finsupp.Interval
 
 open MvPolynomial
 

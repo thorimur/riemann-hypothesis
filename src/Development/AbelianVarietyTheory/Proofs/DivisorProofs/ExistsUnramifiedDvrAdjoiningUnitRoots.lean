@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramSub
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsUnramifiedExtTorsionPointsGoodReduction
+import Mathlib.RingTheory.RootsOfUnity.AlgebraicallyClosed
 open IsLocalRing Polynomial
 
 namespace GlobalTheory.KummerUnram

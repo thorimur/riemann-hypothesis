@@ -1,7 +1,4 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GL2Classical.ZFinite
 import GroundTheory.AutomorphicForms.GL2Classical.CuspConverse
-import GroundTheory.AutomorphicForms.GL2Classical.ModerateGrowth
 
 open NumberField Matrix CongruenceSubgroup ModularForm
 open UpperHalfPlane hiding I I_re I_im

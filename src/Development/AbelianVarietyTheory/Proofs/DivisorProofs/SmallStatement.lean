@@ -1,10 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.LiftFrameEmbeddingBase
 import Formalism.SharpRestriction.GlobalSchurBounds.MainSup
-import Formalism.PieriBlockIdeals.PieriColumnMinors.ParameterBounds
-import Formalism.LocalToGlobal.Divisibility.InertPartitionLePartF
-import Formalism.LocalToGlobal.Divisibility.RowLatLemmas
-import Formalism.LocalToGlobal.IndefiniteReal.PackageFromPrimitiveStatements
 import Development.AutomorphicArithmetic.PrimeDiscriminants.ExcSet
 
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.MainNotions Formalism.L2.DIV Formalism.L2.Pj GlobalTheory.BigTop GlobalTheory.BigOn GlobalTheory.ExpTie GlobalTheory.ExpFrame Formalism.CohomologicalDescent.DepthNonnegative Formalism.CohomologicalDescent.LogSmallConstantBounds Formalism.CohomologicalDescent.ShortWeightBounds Formalism.CohomologicalDescent.LD Formalism.RankGapBounds.FormsTensorLocalization

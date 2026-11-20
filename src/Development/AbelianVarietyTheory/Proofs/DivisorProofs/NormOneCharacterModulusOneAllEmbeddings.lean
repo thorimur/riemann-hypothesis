@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CosetRefinement
+import Formalism.SharpRestriction.GlobalSchurBounds.StandardLatticesGL3
+import Mathlib.NumberTheory.NumberField.ClassNumber
 open NumberField Formalism.BasicNotions Formalism.MainNotions Formalism.L2.Ker
 
 noncomputable section

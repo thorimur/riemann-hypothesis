@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsTheta
-import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsFramesOnUniformisedFibreThroughIso
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsActIffIsDiagEnd
 
 noncomputable section
 

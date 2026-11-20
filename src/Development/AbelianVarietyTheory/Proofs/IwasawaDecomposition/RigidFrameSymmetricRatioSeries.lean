@@ -1,10 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CubeRatio
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HorizontalFrameThetaRelation
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsNumOf
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.SecLinOfSecScal
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdJet
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.BCRing
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqB
 
 open CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj AlgebraicGeometry NumberField
 open scoped CategoryTheory.Obj

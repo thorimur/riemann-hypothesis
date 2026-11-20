@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.MetaplecticRepresentation
+import Mathlib.Analysis.SpecialFunctions.Gaussian.GaussianIntegral
+import Mathlib.Topology.ExtremallyDisconnected
+import Mathlib.Topology.Separation.Connected
 
 noncomputable section
 

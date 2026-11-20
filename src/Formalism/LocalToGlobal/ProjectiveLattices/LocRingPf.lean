@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.LiftInSt
-import Formalism.LocalToGlobal.ProjectiveLattices.LiftLoc
-import Formalism.LocalToGlobal.ProjectiveLattices.CurveOpen
+import Formalism.LocalToGlobal.ProjectiveLattices.IntAtExtExtAll
+import Formalism.LocalToGlobal.ProjectiveLattices.IsGenFrGenFr
 
 noncomputable section
 

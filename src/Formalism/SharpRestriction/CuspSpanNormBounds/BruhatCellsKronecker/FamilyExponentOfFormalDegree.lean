@@ -1,7 +1,5 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CfgTopFalseIff
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaBoundOnBoundary
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.VandermondeRatioHarmonic
-import Formalism.SharpRestriction.CuspSpanNormBounds.LocalBesselAndTopKernel
+import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.FamilyCriticalLevelLowerBound
 
 noncomputable section
 

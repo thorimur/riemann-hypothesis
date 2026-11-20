@@ -2,10 +2,7 @@ import Formalism.SharpRestriction.CuspSpanNormBounds.BesselShellMomentBounds
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSchur
 import Formalism.SharpRestriction.CuspSpanNormBounds.PlaceDegreeData
 import Formalism.FormalDegreeBessel.FinalBF
-import Formalism.FormalDegreeBessel.FinalDS
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.CompactHaarRightInvariantInst
-import Formalism.RealPlaceAnalysis.FinalF
-import Formalism.FlagUnipotentLattices.AlgebraicIdentityHigherDegree
 
 section PieceA0
 

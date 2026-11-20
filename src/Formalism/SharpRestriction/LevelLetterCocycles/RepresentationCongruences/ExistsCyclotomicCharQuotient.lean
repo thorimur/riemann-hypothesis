@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.GammaOnLevels
-import Formalism.SharpRestriction.LevelLetterCocycles.FrobeniusPowUniformizerFactorisation
 import Formalism.SharpRestriction.LevelLetterCocycles.BaseChangePreservesUnitaryOf
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.ContentStep
 

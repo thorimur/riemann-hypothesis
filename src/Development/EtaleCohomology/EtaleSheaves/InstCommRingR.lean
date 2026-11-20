@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.EtaleChapterDTwo
+import Mathlib.RingTheory.PowerSeries.Derivative
+import Mathlib.RingTheory.PowerSeries.Inverse
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

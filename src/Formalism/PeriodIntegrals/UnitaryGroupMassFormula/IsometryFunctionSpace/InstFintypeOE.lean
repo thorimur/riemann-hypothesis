@@ -1,6 +1,8 @@
-import Mathlib
 import Formalism.PeriodIntegrals.IsoFunV
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IsometryFunctionSpace.DetSubmatrixNoninj
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Matrix Finset MvPolynomial
 

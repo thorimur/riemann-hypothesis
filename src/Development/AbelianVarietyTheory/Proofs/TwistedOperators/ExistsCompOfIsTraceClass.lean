@@ -1,8 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.TraceKernelDecomposition
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.SetIntegralNormRmulLe
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IntegrableDescendOrbitSum
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.KernelLocallyFiniteContinuous
+import Mathlib.Analysis.Normed.Group.Tannery
+import Mathlib.CategoryTheory.Countable
 
 noncomputable section
 

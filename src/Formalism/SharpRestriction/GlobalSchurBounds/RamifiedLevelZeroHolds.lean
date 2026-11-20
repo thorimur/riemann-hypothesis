@@ -1,5 +1,3 @@
-import Formalism.SharpRestriction.GlobalSchurBounds.GlobalLinkOfBranchIdentitiesAndMultiplicity
-import Formalism.SharpRestriction.GlobalSchurBounds.LogXLowerFamilyOfTheorems
 import Formalism.LocalToGlobal.GlobalTheory.UnramifiedTrace.HeckeRamifiedZeroAll
 
 noncomputable section

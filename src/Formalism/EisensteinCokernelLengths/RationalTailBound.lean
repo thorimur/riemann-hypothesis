@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.GaussValuationBounds.Statement
 import Formalism.GaussValuationBounds.GaussUnit
-import Formalism.FrobeniusContraction.Statement
 
 noncomputable section
 

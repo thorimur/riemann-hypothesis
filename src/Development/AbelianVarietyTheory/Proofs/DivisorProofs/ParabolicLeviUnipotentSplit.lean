@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DiffsZeroOfLev
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLeviTorusElementCm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameDualGram
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsLevi

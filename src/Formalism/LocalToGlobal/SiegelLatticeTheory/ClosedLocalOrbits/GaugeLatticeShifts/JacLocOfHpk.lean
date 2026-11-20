@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.BigCellDiagIff
-import Formalism.HermitianCurvature.WeylElementCommutesLevelOne
-import Formalism.SharpRestriction.CuspSpanNormBounds.NormalizedLocalScale
+import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.LintegralMulRightOfMap
 
 noncomputable section
 

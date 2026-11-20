@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PublishedTheorems.SegmentRepresentations.SegmentRepresentationLit
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.JacquetMultiplicityPosOfSocle
 
 noncomputable section

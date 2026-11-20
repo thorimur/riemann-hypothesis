@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PieriBlockIdeals.PieriColumnMinors.RowGenDerivative
+import Formalism.GradedWeylDivisibility.StatementE
 
 open MvPolynomial Formalism.GradedWeylDivisibility TensorProduct
 

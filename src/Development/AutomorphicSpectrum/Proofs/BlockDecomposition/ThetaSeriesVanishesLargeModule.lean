@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ThPr
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PureAdelicFunctionFormula
 

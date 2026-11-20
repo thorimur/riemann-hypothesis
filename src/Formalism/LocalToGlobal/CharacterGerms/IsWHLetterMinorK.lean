@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTieMemCInv
 import Formalism.LocalToGlobal.CharacterGerms.NormOneRowDegrees
 
 noncomputable section

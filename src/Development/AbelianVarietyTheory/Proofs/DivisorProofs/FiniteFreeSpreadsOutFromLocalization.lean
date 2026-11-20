@@ -1,6 +1,5 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.UniformisationConclusion
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteSpreadsOutFromLocalizationAtPrimeStatement
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 open CategoryTheory Limits AlgebraicGeometry
 open scoped TensorProduct

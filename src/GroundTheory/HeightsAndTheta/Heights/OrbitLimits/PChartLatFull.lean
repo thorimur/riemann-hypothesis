@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsChartLatFull
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PZeroCocycleSection
 set_option maxSynthPendingDepth 1

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.LiftWord
 
 noncomputable section

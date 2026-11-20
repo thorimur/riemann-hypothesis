@@ -1,4 +1,5 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.MultivariableReproducingFormula
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

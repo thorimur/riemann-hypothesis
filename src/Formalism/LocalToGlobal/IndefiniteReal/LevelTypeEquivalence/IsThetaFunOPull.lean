@@ -1,7 +1,6 @@
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.FuncSt
 import Formalism.LocalToGlobal.IndefiniteReal.DatumLemmas
-import Formalism.LocalToGlobal.BesselHermitianTheta.LemmasWeil
-import Formalism.LocalToGlobal.IndefiniteReal.PHeisFC
+import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.GrowthNorm
+import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.TransportedFrame
 
 noncomputable section
 

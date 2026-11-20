@@ -1,4 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.FundamentalDomainExtension.PointAssembly.ZnNonneg
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.PicardGroup
 
 namespace PIW.FdPA
 

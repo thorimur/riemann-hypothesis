@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.ThShort
-import Formalism.LocalToGlobal.ProjectiveLattices.IsThRule
-import Formalism.LocalToGlobal.ProjectiveLattices.RowDeg
-import Formalism.LocalToGlobal.ProjectiveLattices.IsCombAt
+import Mathlib.RingTheory.DedekindDomain.FiniteAdeleRing
 
 set_option autoImplicit false
 

@@ -1,5 +1,6 @@
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.TranslatesSpanCanonical
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.QbBasisApply
+import Formalism.ThetaLogCoordinates.DualWeylCoordinates.FiltrationTheoremOfClauses
 
 noncomputable section
 

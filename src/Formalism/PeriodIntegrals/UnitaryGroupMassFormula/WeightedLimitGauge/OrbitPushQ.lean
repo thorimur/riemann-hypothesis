@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.PeriodIntegrals.RhsWLim
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.VolumeLieE
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.OrbitPushCut
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

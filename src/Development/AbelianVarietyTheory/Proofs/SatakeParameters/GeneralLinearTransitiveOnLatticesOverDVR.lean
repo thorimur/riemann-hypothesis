@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.FiniteResidueFieldPadicInt
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 open GlobalTheory.LatHecke
 

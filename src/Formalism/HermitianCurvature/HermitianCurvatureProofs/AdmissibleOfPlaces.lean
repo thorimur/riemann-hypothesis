@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BlockOfCauchySchwarz
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BlockEstimatesSumForm
 
 open Finset NumberField
 open scoped ComplexConjugate ComplexOrder

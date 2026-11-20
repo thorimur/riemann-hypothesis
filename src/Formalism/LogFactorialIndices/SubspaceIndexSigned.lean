@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LogFactorialIndices.StatementSize
 import Formalism.LogFactorialIndices.StatementIdx
 

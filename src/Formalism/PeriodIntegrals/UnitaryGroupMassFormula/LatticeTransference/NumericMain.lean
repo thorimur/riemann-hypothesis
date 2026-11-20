@@ -1,6 +1,9 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeTransference.DualTransport
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeTransference.GaussAbs
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Analysis.Real.Pi.Bounds
 
 open Module
 open scoped Real

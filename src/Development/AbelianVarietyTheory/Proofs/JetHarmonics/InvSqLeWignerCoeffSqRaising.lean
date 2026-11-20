@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Jets.Imports
 import Development.AbelianVarietyTheory.Definitions.Jets.FactorNonneg
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Finset
 

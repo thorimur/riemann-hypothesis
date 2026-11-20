@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HybridLargeSieve
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.EnormSqLeLintegralDisc
 open Complex DirichletCharacter ArithmeticFunction MeasureTheory Filter Topology

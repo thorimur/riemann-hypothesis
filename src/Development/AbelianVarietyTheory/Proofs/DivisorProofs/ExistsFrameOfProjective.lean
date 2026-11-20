@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsTorsionFreeOfForallExists
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 set_option autoImplicit false
 

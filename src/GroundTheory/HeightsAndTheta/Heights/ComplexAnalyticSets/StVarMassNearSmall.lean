@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StatementsCurrent
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.CutOffNear
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

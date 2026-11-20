@@ -1,5 +1,8 @@
-import Mathlib
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.FiniteFieldQuadraticFormPointCount
+import Mathlib.LinearAlgebra.QuadraticForm.IsometryEquiv
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.PicardGroup
+import Std.Tactic.BVDecide.Normalize.Prop
 open Matrix
 
 namespace GlobalTheory.CompanionTheory.SW.QuadricUnit

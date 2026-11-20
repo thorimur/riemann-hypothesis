@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.SurjectiveCharts
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

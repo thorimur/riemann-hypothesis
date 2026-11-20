@@ -1,8 +1,5 @@
-import Mathlib
 import GroundTheory.TateCohomology.InfRes
-import GroundTheory.ProfiniteCohomology.Colimit
 import GroundTheory.ProfiniteCohomology.GaloisCohomology.Brauer
-import GroundTheory.ProfiniteCohomology.GaloisCohomology.IsZeroGroupCohomologyQuotientToInvariantsGalAdd
 import GroundTheory.ProfiniteCohomology.GaloisCohomology.BrauerInflationDefs
 set_option maxSynthPendingDepth 1
 

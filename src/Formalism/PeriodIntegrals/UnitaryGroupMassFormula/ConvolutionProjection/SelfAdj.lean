@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.PhConvProj
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ConvolutionProjection.ConvProjOf
 
 noncomputable section

@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.KmapSubMemOfASet
-import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.NormProducts.LUnH
+import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.NormProducts.InvMod
 
 open GlobalTheory.KZ GlobalTheory.K4 UpperTheory.Kd.K4 Polynomial
 open scoped Matrix MatrixGroups

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WittVectorGaussNormUltrametricStatement
+import Mathlib.Tactic.ENatToNat
 
 namespace GlobalTheory
 

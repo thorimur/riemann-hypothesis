@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.CohomologicalPurity.LeafPrdAffPf
+import Mathlib.RingTheory.MvPolynomial.Ideal
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC CochainComplex.HomComplex

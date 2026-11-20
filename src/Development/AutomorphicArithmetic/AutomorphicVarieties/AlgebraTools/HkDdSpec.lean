@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkDefs
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ProdPrimesDvd
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MvPolynomial Equiv UpperTheory.V.AlgebraTools.Hk
 

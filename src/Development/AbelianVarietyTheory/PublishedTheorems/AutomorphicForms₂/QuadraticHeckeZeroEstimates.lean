@@ -1,6 +1,6 @@
-import Mathlib
-import Formalism.GL3MeanSquares.PrimeCountAsymptoticInProgressions
 import Development.AbelianVarietyTheory.Definitions.Foundations.RayPrimes
+import Formalism.GL3MeanSquares.SmoothedRemainderRealIntegralFormula
+import Mathlib.NumberTheory.NumberField.Discriminant.Defs
 
 noncomputable section
 

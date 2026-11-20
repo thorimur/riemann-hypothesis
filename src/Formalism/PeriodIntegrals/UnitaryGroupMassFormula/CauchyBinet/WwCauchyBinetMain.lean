@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.WwCauchyBinet
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IsometryDerivative.ExistsOePerm
 

@@ -1,8 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsArith
-import ReciprocityTheory.GeometryOfNumbers.SphericalMonomials.ChiPSt
-import ReciprocityTheory.GeometryOfNumbers.SphericalMonomials.SupStMonoNormSqPos
-import ReciprocityTheory.GeometryOfNumbers.SphericalMonomials.GaussSt
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.ABridgeSt
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.CSandwichStE
 set_option maxSynthPendingDepth 1

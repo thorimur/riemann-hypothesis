@@ -1,5 +1,3 @@
-import Mathlib
-import CompanionTheory.AutomorphicTheory.PadicCyclotomicFields.GcohTopEuler
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.UnramifiedOrthogonality
 
 namespace GlobalTheory

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.ThmSUniform
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FinalS
 

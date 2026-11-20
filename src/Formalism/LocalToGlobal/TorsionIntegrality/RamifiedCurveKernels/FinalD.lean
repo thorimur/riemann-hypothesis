@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.FinalC
 import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.PairedSquareJets.CurveJetsUnramifiedHolds
 
 namespace Formalism.L2.Th1.G

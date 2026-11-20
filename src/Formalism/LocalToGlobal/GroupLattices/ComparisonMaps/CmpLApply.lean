@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ColSpanMap
+import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ValRat
 
 noncomputable section
 

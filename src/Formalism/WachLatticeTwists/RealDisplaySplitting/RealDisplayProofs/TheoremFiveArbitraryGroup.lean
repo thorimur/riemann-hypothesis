@@ -1,6 +1,7 @@
 import Formalism.WachLatticeTwists.RealDisplaySplitting.SplittingTheoremArbitraryGroup
 import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.SplitF
 import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.IdempotentRankOneAtPoint
+import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.ChainWithExtensionOfSplit
 
 open Finset Classical
 

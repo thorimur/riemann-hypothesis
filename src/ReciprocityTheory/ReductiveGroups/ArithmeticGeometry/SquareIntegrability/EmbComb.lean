@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.NormProjectionSq
+import Mathlib.Algebra.AffineMonoid.Basic
 
 namespace ReciprocityTheory.ChartRestriction.G.I2
 open NumberField Complex

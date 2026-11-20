@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.IsometricPeriodsOfHypotheses
 
 open Module NumberField IsDedekindDomain

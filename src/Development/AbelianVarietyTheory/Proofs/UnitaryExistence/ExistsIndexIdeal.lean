@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.ThShort
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 set_option autoImplicit false
 noncomputable section

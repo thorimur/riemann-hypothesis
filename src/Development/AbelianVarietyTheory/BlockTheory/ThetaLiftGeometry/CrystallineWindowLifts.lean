@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataParams
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.Alternates
 

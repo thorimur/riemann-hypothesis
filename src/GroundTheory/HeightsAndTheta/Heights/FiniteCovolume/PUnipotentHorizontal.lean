@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StUnipotentHorizontal
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StRationalUnipotent
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StUnipRadicalOfRational

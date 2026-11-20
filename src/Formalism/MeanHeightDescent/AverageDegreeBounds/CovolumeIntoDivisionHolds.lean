@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.MeanHeightDescent.StatementA
+import Formalism.MeanHeightDescent.BadRowsNumeric
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Finset
 

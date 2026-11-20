@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FourierInversionFiniteDim
 universe u
 set_option maxHeartbeats 1000000 in

@@ -1,6 +1,8 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CotInd
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaFlatReg
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.RingTheory.RegularLocalRing.Polynomial
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open IsLocalRing UpperTheory.V.AlgebraTools
 

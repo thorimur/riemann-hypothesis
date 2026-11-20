@@ -1,4 +1,11 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.GaloisIrreducibility
+import Mathlib.Combinatorics.Derangements.Finite
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Finset
 

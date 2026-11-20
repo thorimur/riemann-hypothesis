@@ -1,4 +1,6 @@
 import Formalism.PadicSubsetSums.StableGradedCounts.IRRCentralIdempotent
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
 

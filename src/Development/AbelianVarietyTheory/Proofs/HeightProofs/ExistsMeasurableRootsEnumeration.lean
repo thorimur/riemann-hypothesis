@@ -1,8 +1,10 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.ValuationResidueLemmas
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.AlgebraMapOLInjective
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.NormOrderStatement
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.ExistsProdXSubCOfMonic
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Data.Fin.Tuple.Sort
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open NumberField ReciprocityTheory.ChartRestriction.G.T0
 open scoped TensorProduct

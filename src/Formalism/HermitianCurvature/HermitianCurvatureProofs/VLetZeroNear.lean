@@ -1,4 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.FirstDerivativeAtNormalSet
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.BaseIndexConstantInjective
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralIdentities
 
 open Matrix Finset MeasureTheory
 open scoped ComplexConjugate

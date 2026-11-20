@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsChartOf
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PolynomialMapHoldsStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PolarizationRayEventuallyStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ConeConditionsCoverModelsStatement

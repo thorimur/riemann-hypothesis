@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.SymplZ
 
 namespace PI.SymplZW

@@ -1,7 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.DivisionRowsRationalLattice
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ProjectionRows.DvProjRowsOfSteps
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.TruncatedLatticeHolds
 
 noncomputable section
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.BesselHermitianTheta.DefsReal
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.ExistsBlockOrd
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.TorusWeightVectorIffCartanWeightVector
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.FiniteDimKStableSubspaceKFiniteLie
 import ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.LogDetSt

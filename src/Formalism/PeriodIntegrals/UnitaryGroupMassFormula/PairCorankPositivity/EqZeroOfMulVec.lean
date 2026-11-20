@@ -1,5 +1,6 @@
-import Mathlib
-import Formalism.PeriodIntegrals.PairCorankPos
+import Formalism.SharpRestriction.CuspSpanNormBounds.BlockEnds
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

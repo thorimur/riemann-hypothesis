@@ -1,7 +1,8 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSheet
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StPtsSumMeasurable
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PtsSumMeasurableA
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Topology.Algebra.MvPolynomial
 set_option maxSynthPendingDepth 1
 
 noncomputable section

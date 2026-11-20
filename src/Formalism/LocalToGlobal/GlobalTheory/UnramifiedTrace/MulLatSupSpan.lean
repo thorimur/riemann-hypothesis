@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.GlobalTheory.UnramifiedTrace.TripMem
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnramifiedSameDiagonal.SameCommon
+import Formalism.LocalToGlobal.GlobalTheory.GL6.PDnDil
+import Formalism.LocalToGlobal.GlobalTheory.UnramifiedTrace.NatTr0Sum
 
 noncomputable section
 

@@ -3,6 +3,7 @@ import Development.WeilBound.ThetaLifts.LocalTheory.IsArchimedeanLocalEquivarian
 import Development.WeilBound.ThetaLifts.CartanFactorisation.TensOfEval
 import Development.WeilBound.ThetaLifts.LocalTheory.StandardValuations.ValIffNorm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsStdCharNegOneOfStandardTraceAdelicAddChar
+import Development.WeilBound.ThetaLifts.LocalTheory.StandardValuations.VacuumImageIntertwiner
 
 set_option linter.unusedSectionVars false
 

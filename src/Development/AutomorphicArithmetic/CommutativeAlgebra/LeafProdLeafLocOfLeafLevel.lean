@@ -1,5 +1,3 @@
-import Mathlib
-import Development.EtaleCohomology.EtaleSheaves.LeafChartRing
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ConnectivityOfDisjointOpenCover
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ConnectivityOfCechDisjointCover
 noncomputable section

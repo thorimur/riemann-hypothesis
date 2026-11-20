@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafCurveVCut
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.TensorProduct.Nontrivial
 
 noncomputable section
 open Polynomial IntermediateField

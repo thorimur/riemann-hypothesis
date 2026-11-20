@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDRInvDefs
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGLet
 
 open Matrix

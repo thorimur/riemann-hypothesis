@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.FunctionFieldPoint
+import Mathlib.RingTheory.DedekindDomain.PID
 
 namespace GroundTheory.Arith.Abelian
 

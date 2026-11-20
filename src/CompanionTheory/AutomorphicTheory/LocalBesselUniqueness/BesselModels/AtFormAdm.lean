@@ -1,5 +1,4 @@
 import CompanionTheory.AutomorphicTheory.LocalBesselUniqueness.BesselModels.AtFormAdmOneOfSteps
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.AdmissibleAtomicFormOneReduction
 
 open MeasureTheory Matrix
 open scoped InnerProductSpace ENNReal

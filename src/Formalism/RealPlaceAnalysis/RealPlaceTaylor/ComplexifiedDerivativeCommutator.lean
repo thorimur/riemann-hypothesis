@@ -1,4 +1,7 @@
 import Formalism.RealPlaceAnalysis.SmoothOnG
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
 
 open Matrix
 open scoped ContDiff

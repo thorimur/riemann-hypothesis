@@ -1,5 +1,7 @@
-import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.LatticeMapsOfFunctorComparison
-import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.Tensor
+import Formalism.GradedWeylDivisibility.StatementD
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

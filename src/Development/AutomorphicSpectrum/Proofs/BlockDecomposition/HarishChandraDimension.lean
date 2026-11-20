@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.FiniteTypeHarishChandra.SupportExistsAll
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraCharacterStatement
 
 open ReciprocityTheory.Ty.Fin

@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.CoeffOneAlongCvLg
+import Formalism.LocalToGlobal.CharacterGerms.MaximalOfValuationGeOne
 
 noncomputable section
 

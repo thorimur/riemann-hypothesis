@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GKModules.RightRegular
-import GroundTheory.AutomorphicForms.DixmierMalliavinBasic
 
 noncomputable section
 

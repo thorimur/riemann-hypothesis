@@ -1,9 +1,5 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.HasExtInstances
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ProjBaseChangeEmbed
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.RestrictTensor
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.PullbackCoherent
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.CohFinite
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.TwistingSheaf
+import Mathlib.AlgebraicGeometry.Morphisms.Separated
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.GaussianSeminormBounds.RealSeminormFiltration.CoreDefs
+import Mathlib.Data.Rat.Star
 
 noncomputable section
 

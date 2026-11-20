@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFockMap
 import Development.WeilBound.ThetaLifts.SchwartzMoments.SchwartzDqTendsto
 import Development.WeilBound.ThetaLifts.SchwartzMoments.NormIterComp

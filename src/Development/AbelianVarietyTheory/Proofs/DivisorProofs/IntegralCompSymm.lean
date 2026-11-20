@@ -1,9 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.KerToCoinvIffInvFactor
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LagCoIsotropic
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsLocallyConstantLinOm
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.PadicIsNonarchimedeanLocalField
 import GroundTheory.AutomorphicForms.MeasuresModulus
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

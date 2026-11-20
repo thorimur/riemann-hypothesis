@@ -1,11 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.DefPerEqGenPer
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.EqConjOfInFrame
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.SetIntegralFdMulRight
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelGridRationalLeftInvariant
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryEmbeddingContinuousMulRational
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.MovedVectorDefinitePairThetaFockVacuum
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PtYAndItYOfPair
 
 noncomputable section
 

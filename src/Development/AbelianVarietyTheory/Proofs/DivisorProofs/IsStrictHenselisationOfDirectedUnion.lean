@@ -1,5 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.CMModuli.ProjectiveSpaceOverSpec
+import Mathlib.Algebra.Category.Ring.FinitePresentation
+import Mathlib.CategoryTheory.Limits.Shapes.Countable
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 open IsLocalRing
 
 namespace GlobalTheory.StrictHensUnion

@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FsvMulFsvNeg
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open scoped ComplexConjugate ContDiff
 open Filter Topology

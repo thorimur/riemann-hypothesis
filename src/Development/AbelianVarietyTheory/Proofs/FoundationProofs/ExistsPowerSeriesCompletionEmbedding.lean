@@ -1,7 +1,13 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ImportsBis
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.Target
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.PowLeSpanPowSup
+import Mathlib.FieldTheory.PurelyInseparable.Exponent
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.PowerSeries.Trunc
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Polynomial.Basic
 open Polynomial
 
 namespace GlobalTheory.CurveCompletion

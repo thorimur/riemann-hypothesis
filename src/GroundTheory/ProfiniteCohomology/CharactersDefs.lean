@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.TorsionDualDefs
 set_option maxSynthPendingDepth 1
 

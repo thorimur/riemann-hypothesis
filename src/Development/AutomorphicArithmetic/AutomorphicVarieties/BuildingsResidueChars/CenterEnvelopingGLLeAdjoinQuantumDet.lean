@@ -1,6 +1,6 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.CuspidalFiniteness.HasUnivOfStep
 import Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.HarishChandraProjQuantumDetEqProd
 import Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.SymmetricSubalgebraLeAdjoinRangeProdCAddXComplex
+import GroundTheory.AutomorphicForms.HarishChandraCentre
 
 open GroundTheory.Automorphic.HarishChandra in
 private theorem qdet_mem_center (n : ℕ) (u : ℂ) :

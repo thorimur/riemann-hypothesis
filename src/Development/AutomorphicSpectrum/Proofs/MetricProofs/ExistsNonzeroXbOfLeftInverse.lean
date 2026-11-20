@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.ColFlags
 
 open AlgebraicGeometry CategoryTheory NumberField Matrix

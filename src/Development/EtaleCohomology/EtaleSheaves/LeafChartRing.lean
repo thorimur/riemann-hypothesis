@@ -1,4 +1,7 @@
 import Development.EtaleCohomology.EtaleSheaves.EtaleChapterESix
+import Mathlib.AlgebraicGeometry.AffineSpace
+import Mathlib.CategoryTheory.Limits.Types.Pushouts
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex GlobalTheory.EtC

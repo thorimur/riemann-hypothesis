@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.TCoefMInMMul
+import Mathlib.Analysis.SpecialFunctions.SmoothTransition
 
 noncomputable section
 

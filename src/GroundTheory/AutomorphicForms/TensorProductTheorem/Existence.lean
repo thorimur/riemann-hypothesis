@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TensorProductTheorem.Places
+import GroundTheory.AutomorphicForms.TensorProductTheorem.Irreducible
+import GroundTheory.AutomorphicForms.TensorProductTheorem.LocalComponent
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

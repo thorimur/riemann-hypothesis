@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.KillAdd
+import Mathlib.RingTheory.PiTensorProduct
 
 set_option autoImplicit false
 

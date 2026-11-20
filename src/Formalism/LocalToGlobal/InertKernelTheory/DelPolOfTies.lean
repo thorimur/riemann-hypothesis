@@ -2,6 +2,7 @@ import Formalism.LocalToGlobal.InertKernelTheory.KernelDifferenceOfFrame
 import Formalism.LocalToGlobal.InertKernelTheory.TieSerPin
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.FdOfCharts
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.LtCNeZero
+import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.InvarianceIffAdditiveMapsExist
 
 noncomputable section
 

@@ -1,7 +1,4 @@
-import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.RealLocalIntegrals.RealGammaLimits.UnipotentTateFunctionalEquation
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.RealLocalIntegrals.RealGammaLimits.FunctionalEquationGL2GL1Complex
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanTateIntegral
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RealTateLocalFactor
 
 open MeasureTheory Complex Ad3 Ad3.LR Ad3.LR.C

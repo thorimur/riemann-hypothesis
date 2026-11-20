@@ -1,9 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.HodgeSurjectivity.FormUniq
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.HodgeSurjectivity.NLeA
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.CechPairings.Imports
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.ChartGrConst
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DFormMem
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FormAlternating
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GradedFormAdd
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GradedFormFrame
@@ -11,6 +7,8 @@ import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GradedFormLocal
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GradedFormVanishOfFrame
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedVanishing
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PolynomialTransfer
+import Mathlib.Data.Fin.Tuple.Sort
+import Mathlib.LinearAlgebra.ExteriorPower.Basis
 set_option backward.isDefEq.respectTransparency false
 open CategoryTheory AlgebraicGeometry TensorProduct GlobalTheory.LogCris DividedPowers CrystallineSemistableComparison CrystallineSemistableComparison.Pb CrystallineSemistableComparison.Onto
 noncomputable section

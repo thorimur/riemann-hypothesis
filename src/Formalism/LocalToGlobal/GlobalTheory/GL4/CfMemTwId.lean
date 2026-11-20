@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.GlobalTheory.GL4.CoeffMemOfIntSpanAt
+import Formalism.LocalToGlobal.GlobalTheory.GL4.ThirdPropositionOfClass
 
 open Module NumberField IsDedekindDomain MvPolynomial
 open scoped Matrix

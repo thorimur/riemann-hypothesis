@@ -1,6 +1,5 @@
 import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.MemMinimalPrimesOfMemSupport
 import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.DifferentiableOnSheet
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PFsLogSmul
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.UnderEqGenericPoint
 
 set_option autoImplicit false

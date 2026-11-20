@@ -1,6 +1,6 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.EisensteinSeries.SiegelEisensteinHalfPlane.UnitTestFunctions.LiftUnit
 import GroundTheory.GlobalFields.TateThesis.EulerFactorsInfinite
+import GroundTheory.GlobalFields.TateThesis.FiniteOrderParams
 
 noncomputable section
 

@@ -1,8 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
 import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DHRealAdSmul
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArchAt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormArchLeSupInfiniteStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArchBoundUnitaryActionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArchBoundCoordinatesStatement

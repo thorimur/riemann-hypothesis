@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.FaithfulSMulAlgClosure
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemRingOver
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsNormalFiniteModelOfExtensionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatticesGlueToVectorBundleStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalModelSectionsCompatibleStatement

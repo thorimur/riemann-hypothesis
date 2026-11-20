@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafSHPtPf
+import Mathlib.AlgebraicGeometry.Sites.EtalePoint
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

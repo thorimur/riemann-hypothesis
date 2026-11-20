@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.HalfVolumeLeviRecursion
-import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.IsKMeas
 open Matrix MeasureTheory Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.B2 GlobalTheory.HCXi
 open scoped ENNReal ComplexOrder
 set_option maxHeartbeats 1000000 in

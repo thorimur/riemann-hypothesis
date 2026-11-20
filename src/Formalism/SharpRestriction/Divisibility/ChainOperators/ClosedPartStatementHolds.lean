@@ -1,5 +1,4 @@
 import Formalism.PeriodIntegrals.ExplicitFormulaCounts.DvConv
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.DvProjA
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.DvProjB
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.DvProjC
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.DvGLatProj

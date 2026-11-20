@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.JfSmoothBuiltOfCapJoints
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SinglePairFinsuppEqIff
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.ModelPlaceBuilt2OfChartEqs
 
 namespace Formalism.FourierDecayAlt.P.CutMP.SmoothTransferRegularity
 

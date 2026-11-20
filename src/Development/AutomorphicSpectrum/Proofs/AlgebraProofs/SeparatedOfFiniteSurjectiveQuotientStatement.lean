@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.SeparatedOfFiniteSurjectiveQuotient
 open CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory AlgebraicGeometry
 attribute [local instance] Over.cartesianMonoidalCategory

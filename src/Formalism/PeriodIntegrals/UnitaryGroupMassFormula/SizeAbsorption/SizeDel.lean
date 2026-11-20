@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeAbsorption.ExpPowEq
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeAbsorption.Development
 
 noncomputable section
 

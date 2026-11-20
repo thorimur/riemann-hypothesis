@@ -1,6 +1,6 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkDefs
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HkDdSpec
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.DeEqDet
+import Mathlib.Algebra.AffineMonoid.UniqueSums
 
 open MvPolynomial Equiv UpperTheory.V.AlgebraTools.Hk
 

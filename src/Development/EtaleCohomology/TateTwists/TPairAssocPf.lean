@@ -1,5 +1,3 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.DivisorSupportCondition
-import Development.AbelianVarietyTheory.Definitions.Divisors.SecClass
 import Development.EtaleCohomology.TateTwists.EtaleTwistedCupAssocOfTwistedPairingExistsAssoc
 import Development.EtaleCohomology.TateTwists.EtaleTensorPairTwistResolutionMul
 import Development.EtaleCohomology.TateTwists.EtaleTensorPairProductAssociative

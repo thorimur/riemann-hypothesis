@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 import Formalism.HermitianCurvature.StatementD
-import Formalism.HermitianCurvature.BesselNonvanishingReduction
-import Formalism.PeriodIntegrals.CapelliEig
 
 namespace GlobalTheory.ThA
 

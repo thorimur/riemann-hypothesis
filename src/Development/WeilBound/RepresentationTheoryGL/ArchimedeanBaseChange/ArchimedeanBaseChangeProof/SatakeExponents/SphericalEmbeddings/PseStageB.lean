@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.SphericalEmbeddings.PseStageA
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsGenericOfInjective
 
 noncomputable section
 

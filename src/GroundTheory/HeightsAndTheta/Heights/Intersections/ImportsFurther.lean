@@ -1,7 +1,6 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterBridgeA
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PullWMemFibre
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherRest
+import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherTer
 set_option maxSynthPendingDepth 1
 
 noncomputable section

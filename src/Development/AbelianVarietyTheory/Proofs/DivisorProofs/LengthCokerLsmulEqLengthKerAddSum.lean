@@ -1,5 +1,13 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthEqKerAddRange
+import Mathlib.Algebra.Module.LocalizedModule.Exact
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.KrullDimension.Field
+import Mathlib.RingTheory.KrullDimension.NonZeroDivisors
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace GlobalTheory.HerbrandLength
 

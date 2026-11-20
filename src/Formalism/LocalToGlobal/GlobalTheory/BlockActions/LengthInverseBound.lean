@@ -1,6 +1,9 @@
 import Formalism.SatakeDualWeyl.Statement
-import Mathlib
-import Formalism.GL3MeanSquares.HookFormulaTorsion.InvariantKernelTraceVanishes
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

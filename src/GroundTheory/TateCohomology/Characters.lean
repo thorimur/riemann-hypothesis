@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.TateCohomology.UniquelyDivisible
 set_option maxSynthPendingDepth 1
 

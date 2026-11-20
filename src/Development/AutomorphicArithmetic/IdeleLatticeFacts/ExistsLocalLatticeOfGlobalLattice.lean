@@ -1,8 +1,8 @@
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.SplitStab
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.AutEtaB
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.LatRepBI
-import GroundTheory.HeightsAndTheta.Heights.LatticeLemmas.PLocalLatticeIndex
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryIdeleCharTrivialCongruentOneModulo
+import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.AutDef
+import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.GoodLat
 
 open scoped TensorProduct Matrix Topology Kronecker ComplexOrder Classical
 open NumberField IsDedekindDomain Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes Matrix

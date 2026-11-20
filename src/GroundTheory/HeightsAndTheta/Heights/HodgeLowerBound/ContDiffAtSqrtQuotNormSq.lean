@@ -1,7 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsMuWeightChartSmooth
-import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PMuLineNormEq
-import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PMuFrameExists
+import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.IsFrameOverLine
+import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.IsVerticalCartier
 set_option maxSynthPendingDepth 1
 
 noncomputable section

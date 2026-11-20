@@ -1,4 +1,3 @@
-import Formalism.PeriodIntegrals.LocHerm
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalGluing.LocGlueOf
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.LocOProj
 

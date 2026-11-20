@@ -1,4 +1,3 @@
-import Formalism.PeriodIntegrals.HasseJidPow
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseJacobsonPowers.SfrMulMemJHfr
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HassePresH
 

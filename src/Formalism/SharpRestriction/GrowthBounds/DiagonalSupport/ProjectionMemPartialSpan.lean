@@ -1,4 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.MembDefs
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

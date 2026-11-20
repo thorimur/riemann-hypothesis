@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.Divisibility.CoefModLemmas
+import Formalism.LocalToGlobal.Divisibility.CoefMod
 
 open MvPolynomial NumberField IsDedekindDomain
 open scoped Matrix

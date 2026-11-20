@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.WfSubst
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExponentialIntegrality.InvNatMemWf
 

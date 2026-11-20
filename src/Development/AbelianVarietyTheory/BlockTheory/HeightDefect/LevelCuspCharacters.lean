@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.ExampleSatisfiesConditionsAtFive
 import Formalism.LocalRingCardinality.DataParams
+import Mathlib.RepresentationTheory.Irreducible
 
 open NumberField IsDedekindDomain Polynomial
 

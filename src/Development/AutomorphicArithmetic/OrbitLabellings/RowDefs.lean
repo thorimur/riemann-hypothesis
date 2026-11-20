@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.RestNonneg
 import Formalism.LocalToGlobal.CharacterGerms.BlockMembershipSelfConjugate
 

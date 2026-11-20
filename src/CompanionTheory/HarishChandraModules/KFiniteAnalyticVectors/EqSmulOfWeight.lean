@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.CapelliDeterminantAndBranching
+import Mathlib.LinearAlgebra.Eigenspace.Basic
 
 open Formalism.REAL Formalism.FourierDecayAlt.Qr
 

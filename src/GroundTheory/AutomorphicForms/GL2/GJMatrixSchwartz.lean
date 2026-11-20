@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJMatrixAdelic
 import GroundTheory.AutomorphicForms.GL2.GJMatrixCoord
-import GroundTheory.AutomorphicForms.GL2.GJMatrixLocal
 
 namespace GroundTheory.Automorphic.GJMatrix
 

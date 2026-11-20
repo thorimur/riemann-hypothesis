@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.TorsionGalois
+import GroundTheory.ArithmeticGeometry.AbelianVarieties.Torsion
+import Mathlib.NumberTheory.Padics.RingHoms
+import Mathlib.Order.CompletePartialOrder
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.Abelian

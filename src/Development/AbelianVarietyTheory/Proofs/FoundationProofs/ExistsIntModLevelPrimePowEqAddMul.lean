@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.Integral
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.PrimeMulBernoulliMem
 
 open Finset GlobalTheory.KummerEisensteinGalois GlobalTheory.EisCong

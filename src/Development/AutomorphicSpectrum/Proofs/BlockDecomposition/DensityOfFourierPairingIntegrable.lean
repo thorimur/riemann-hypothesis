@@ -1,5 +1,16 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SecondCountableHermC
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.Distribution.SchwartzSpace.Fourier
+import Mathlib.MeasureTheory.Measure.RegularityCompacts
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 open MeasureTheory Real Complex SchwartzMap FourierTransform
 open scoped ENNReal NNReal RealInnerProductSpace Topology ContDiff Manifold

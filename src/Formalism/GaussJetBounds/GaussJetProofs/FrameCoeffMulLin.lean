@@ -1,5 +1,8 @@
 import Formalism.GaussJetBounds.StatementC
 import Formalism.GaussJetBounds.GaussJetProofs.AsmRDotAddRight
+import Mathlib.Analysis.Normed.Ring.Ultra
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open scoped BigOperators

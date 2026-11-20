@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsOneTmulOfForallFixed
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.RestrictScalarsMapEqSpan
+import Mathlib.RingTheory.GradedAlgebra.Homogeneous.Maps
 
 open TensorProduct Module
 

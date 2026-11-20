@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SpanningFamilies.IntMIffInt
 
 open Matrix Complex GlobalTheory.SW GlobalTheory.Phase

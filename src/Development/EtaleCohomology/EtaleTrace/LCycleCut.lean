@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleTrace.LadicH0LocallyConstant
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC

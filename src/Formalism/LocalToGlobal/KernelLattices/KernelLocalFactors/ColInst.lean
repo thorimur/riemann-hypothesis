@@ -1,9 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.ColInst
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ThDistC
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.StdOK
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.PeriodLatticeFinitelyGenerated
-import Formalism.LocalToGlobal.Columns.CyclotomicIsCyclotomicExtension
+import Formalism.LocalToGlobal.Columns.CoefColLemmas
 
 open NumberField IsDedekindDomain MvPolynomial
 

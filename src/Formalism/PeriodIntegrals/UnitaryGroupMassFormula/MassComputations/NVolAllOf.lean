@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.StrongApproxN
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NLevelHolds
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.BridgeKHolds
 

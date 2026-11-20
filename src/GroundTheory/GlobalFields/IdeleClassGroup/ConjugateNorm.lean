@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.GaloisOnAdeles.Action
 
 namespace GroundTheory.Global

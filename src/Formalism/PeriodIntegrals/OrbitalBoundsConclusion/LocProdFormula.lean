@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.LocProdFormula
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ProdFormulaE
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalProductFormula.LocProdFormulaOf
 

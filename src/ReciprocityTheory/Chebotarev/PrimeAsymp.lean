@@ -1,6 +1,8 @@
 import ReciprocityTheory.Chebotarev.CasimirPowerSurjectiveSymmetric
 import ReciprocityTheory.Chebotarev.EulerSum
 import ReciprocityTheory.Chebotarev.EulerLim
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.ENatToNat
 
 open NumberField Filter Topology
 

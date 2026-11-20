@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CMDeterminantIdeals.DetIdeal
+import ReciprocityTheory.SemistableReduction.LatSemiSt
 
 noncomputable section
 

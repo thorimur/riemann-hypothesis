@@ -1,6 +1,8 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.InflationRestriction.CohomologyResMemCohomologyConjInvariants
-import GroundTheory.ProfiniteCohomology.Factor
+import GroundTheory.ProfiniteCohomology.DiscreteModules
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

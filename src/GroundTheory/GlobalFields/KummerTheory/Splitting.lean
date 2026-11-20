@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.GlobalFields.SemilocalAlgebras.Finite
 import GroundTheory.GlobalFields.SemilocalAlgebras.Galois
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

@@ -1,6 +1,8 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.SumRepresentations
 import Formalism.PadicSubsetSums.StableGradedCounts.CardLtAddCardGtAddCardEq
 import Formalism.PadicSubsetSums.StableGradedCounts.ContinuousCoeffCharpolyRev
+import Mathlib.RepresentationTheory.Maschke
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

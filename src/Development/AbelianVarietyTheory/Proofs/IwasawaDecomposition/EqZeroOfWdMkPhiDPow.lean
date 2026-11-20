@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.FiniteDimensionalWdSpace
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ResEqIff
-import Formalism.LocalRingCardinality.AdicCompletionLocal.LocTied
 
 noncomputable section
 

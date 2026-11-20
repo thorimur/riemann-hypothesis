@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.NilpotentDerivationRank
-import Mathlib
 open scoped TensorProduct
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.nilpotent_derivation_rank : ∀ (k : Type) [Field k] (p : ℕ) [Fact p.Prime] [CharP k p]

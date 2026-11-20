@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.UltraDefs
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Filter UpperTheory.V.AlgebraTools
 open scoped TensorProduct

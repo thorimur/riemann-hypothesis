@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExtMapApply
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.SiegelReframe
 
 set_option autoImplicit false
 

@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.IsLowPairZero
+import Formalism.LocalToGlobal.IndefiniteReal.LocalNewformFunction
+import Formalism.LocalToGlobal.IndefiniteReal.ScalarOnPartsFull
 
 noncomputable section
 

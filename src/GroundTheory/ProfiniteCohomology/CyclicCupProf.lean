@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CyclicCupGaloisDefs
 import GroundTheory.ProfiniteCohomology.CyclicCupInflation
 import GroundTheory.ProfiniteCohomology.CupProducts.ExistsCocycleMapFEqD

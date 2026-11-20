@@ -1,9 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomSectionsLoc
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsZLocDenominators
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsPullInjLoc
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PClearDenominators
-import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PVectorBundleRestrict
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PGenericSections
 set_option maxSynthPendingDepth 1
 

@@ -1,9 +1,5 @@
-import Formalism.LogFactorialIndices.SignedSubspaceIndex.SumInterlacedBoundFails
-import Mathlib
-import Formalism.LogFactorialIndices.SignedSubspaceIndex.LogProductFormula
 import Formalism.LogFactorialIndices.SignedSubspaceIndex.IdxBase
 import Formalism.LogFactorialIndices.SignedSubspaceIndex.IdxDet
-import Formalism.LogFactorialIndices.SignedSubspaceIndex.SubspaceLatticeIndex
 
 namespace Formalism.LatticeIndexTer
 

@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.HeckeLAdicCharacterDeRham
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.DeRhamJacobian.IsdRJ
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.EventuallyClosedOfDictClosed
-import Development.WeilBound.CoreStatements.CrystallinePeriodRings.LocTied6
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsUnitDetEmbMat
 
 noncomputable section

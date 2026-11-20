@@ -1,7 +1,10 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TraceStrongLimit
 import GroundTheory.AutomorphicForms.FinePartition
 import GroundTheory.AutomorphicForms.HilbertSchmidtKernel
+import Mathlib.CategoryTheory.Countable
+import Mathlib.MeasureTheory.Function.ContinuousMapDense
+import Mathlib.Topology.Compactness.Paracompact
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 namespace GroundTheory.Automorphic
 

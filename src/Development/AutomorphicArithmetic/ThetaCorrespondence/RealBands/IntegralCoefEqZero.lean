@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.DecaysZero
 import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.Abstract
 import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.ConvCoef
 import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.ContinuousAverage

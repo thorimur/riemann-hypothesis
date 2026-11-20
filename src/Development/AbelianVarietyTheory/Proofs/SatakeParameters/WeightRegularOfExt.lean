@@ -1,8 +1,6 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.DataN
-import Formalism.LocalRingCardinality.DataRows
 import Development.AbelianVarietyTheory.BlockTheory.ThetaLiftGeometry.NoLocalInvariants
 import Development.AbelianVarietyTheory.BlockTheory.ThetaLiftGeometry.TemperedRepresentations
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 noncomputable section
 

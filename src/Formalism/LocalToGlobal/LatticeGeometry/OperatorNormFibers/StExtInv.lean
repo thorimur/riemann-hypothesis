@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.HLatOpsP
+import Formalism.LocalToGlobal.GlobalTheory.HLatOps
 
 open Module NumberField TensorProduct
 

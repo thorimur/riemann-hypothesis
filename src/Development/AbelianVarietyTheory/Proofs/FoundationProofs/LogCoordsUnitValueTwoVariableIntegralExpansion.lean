@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.ApplyEqOfMemAdjoin
-import Development.AbelianVarietyTheory.Definitions.Foundations.IsTopWTopWOfExists
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsBasisOnZetaPowMulQPow
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIsDlog
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDlogCoef
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.TowerLevelEmbeddingInjectiveRangeAdjoinRootsStatement
@@ -10,6 +6,7 @@ import Development.AbelianVarietyTheory.Proofs.FoundationProofs.EvalSeriesAndDer
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.EvalSeriesCongIffCoeffAndIsUnitStatement
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.EvOfFintype
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsAlgZpOfPow
+import Development.AbelianVarietyTheory.Proofs.FoundationProofs.DerivativeCyclotomicMul
 open scoped MatrixGroups
 open GlobalTheory.KZ GlobalTheory.Glue GlobalTheory.K5 GlobalTheory.KummerEisensteinGalois
 

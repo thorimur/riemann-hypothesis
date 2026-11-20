@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PositionUpdateSums
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.GramProductIdentities
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.TransferMatrixFactorization
 
 namespace Formalism.FourierDecayAlt.P.FreeActionExpansion
 

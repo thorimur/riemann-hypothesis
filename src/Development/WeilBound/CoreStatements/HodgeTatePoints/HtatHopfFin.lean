@@ -1,13 +1,7 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.TranslateMemIndOrder
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ExistsUnitFormLocalizationEtaleNbhd
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.Models
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.DualOrder
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.HasValues
-import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatHopfEx
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatHens
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.BtExistsBc
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatBcPull
+import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatHopf
 
 namespace PositivityTheory.HtPt.Htat
 

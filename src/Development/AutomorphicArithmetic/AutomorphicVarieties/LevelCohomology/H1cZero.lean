@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.LevelCohomology.HcDefs
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LevelCohomology.HcUnrOf
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LevelCohomology.HcGalIdx
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Module UpperTheory.V UpperTheory.V.X

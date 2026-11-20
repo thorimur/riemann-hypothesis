@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsStabilizerLevi
+import GroundTheory.AutomorphicForms.QuadraticConj
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

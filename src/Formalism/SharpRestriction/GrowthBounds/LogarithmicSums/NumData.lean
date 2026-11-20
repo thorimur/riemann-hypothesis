@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.LogarithmicSums.Conclusion1OfGainBoundAll
+import Formalism.SharpRestriction.ElevenLe
+import Formalism.SharpRestriction.GrowthBounds.IsResidueClassZero
 
 noncomputable section
 

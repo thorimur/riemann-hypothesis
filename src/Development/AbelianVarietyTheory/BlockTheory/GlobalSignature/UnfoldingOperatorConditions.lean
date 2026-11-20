@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.FiniteSumNonzeroLargeDepth
+import Mathlib.Analysis.Fourier.FiniteAbelian.PontryaginDuality
 
 open NumberField IsDedekindDomain
 

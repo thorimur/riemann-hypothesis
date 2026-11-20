@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.DefsObj
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.JGenLinLie
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.CapHCMem
 

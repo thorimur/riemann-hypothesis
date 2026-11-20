@@ -1,6 +1,10 @@
 import Formalism.HermitianCurvature.LevelRecursionCondNeeded
 import Formalism.LatticeRigidity.HeightMinimum.ChebyshevLeadingCoeffHolds
-import Mathlib
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Analysis.SpecialFunctions.Trigonometric.Chebyshev.RootsExtrema
+import Mathlib.Data.Int.Star
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials
 

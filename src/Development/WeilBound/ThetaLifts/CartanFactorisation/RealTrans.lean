@@ -1,6 +1,7 @@
 import Development.WeilBound.ThetaLifts.CartanFactorisation.CommuteConj
 import Development.WeilBound.ThetaLifts.CartanFactorisation.Factor
 import Development.WeilBound.ThetaLifts.CartanFactorisation.PolCountDef
+import Development.WeilBound.ThetaLifts.CartanFactorisation.CountableCompactOpen
 
 noncomputable section
 

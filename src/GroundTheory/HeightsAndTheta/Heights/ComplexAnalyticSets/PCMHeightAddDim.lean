@@ -1,8 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCMHeightAddDim
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCMRegularElement
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.CMDepthAssoc
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.HeightCoheightQuotient
+import Mathlib.RingTheory.KrullDimension.Regular
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

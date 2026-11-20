@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.IdeleMeasure
 
 open NumberField IsDedekindDomain Topology Filter MeasureTheory TopologicalSpace

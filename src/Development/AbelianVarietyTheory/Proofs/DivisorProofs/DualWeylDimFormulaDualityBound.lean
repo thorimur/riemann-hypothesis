@@ -1,9 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsAdelicOne
-import Formalism.LocalToGlobal.CMDeterminantIdeals.StatementG
-import Formalism.PolynomialDimension.WeylDim
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.PbSmithLam
 import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.WeylDimShift
+import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsUnitaryMulTriangular
 
 open NumberField IsDedekindDomain Module Formalism.BasicNotions Formalism.L2.Pj GlobalTheory.DualWeyl GlobalTheory.AllWt GlobalTheory.FlatLine GlobalTheory.DefPt MvPolynomial
 open scoped Matrix

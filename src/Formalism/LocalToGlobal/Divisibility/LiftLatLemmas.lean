@@ -1,13 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.LiftLat
 import Formalism.LocalToGlobal.Divisibility.RowLatLemmas
-import Formalism.LocalToGlobal.Divisibility.ProjLemmas
-import Formalism.LocalToGlobal.Divisibility.FramesLemmas
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ConjugateWeightLatticeOfGeneral
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.CommutingTwist
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ClassSumDualGeOfFamily
-import Formalism.HermitianLattices.HermitianLatticesProofs.IndexBasic
-import Formalism.HermitianLattices.HermitianLatticesProofs.DualLattice
 import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.RamBasic
 
 open Module NumberField IsDedekindDomain Polynomial

@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.EulerCharDefs
-import GroundTheory.ProfiniteCohomology.ContinuousCochains.LongExactSequence
 import GroundTheory.ProfiniteCohomology.Shapiro
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

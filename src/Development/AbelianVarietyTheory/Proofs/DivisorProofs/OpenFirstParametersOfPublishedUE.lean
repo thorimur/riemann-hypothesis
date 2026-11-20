@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.BhattScholzeCrystallineLattices
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.BoundAtTwoThreeFamily
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.GeometricWeakTiesOfStrong
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.CenUsedOfCenReal
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.RhoMemOfMkEq
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SumRangeEqRoots
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MainTheoremPublishedInputsThirdStatement
@@ -18,6 +13,7 @@ import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.EntryHPAAtPar
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NonemptyExtensionEntriesStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GeometricZeroConditionAllStatement
 import Development.AbelianVarietyTheory.Definitions.Divisors.HypothesisBundleConversions
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.MultW
 
 open Formalism.BasicNotions Formalism.MainNotions GlobalTheory.EX GlobalTheory.EX.OB GlobalTheory.Mem GlobalTheory.Mem.Top GlobalTheory.Mem.Top.Bl GlobalTheory.Fc
 

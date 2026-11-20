@@ -1,5 +1,6 @@
-import Formalism.LocalToGlobal.LatticeGeometry.GeoTiedN
 import Formalism.LocalToGlobal.LatticeGeometry.GeometryDefinitions.ClsSum
+import Formalism.LocalToGlobal.LatticeGeometry.GeoTied
+import Formalism.LocalToGlobal.LatticeGeometry.Inhabited
 
 noncomputable section
 

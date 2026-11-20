@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.EqSemiMeasOfCovolOne
 
 open MeasureTheory Function GlobalTheory.MixPer GlobalTheory.SemiHaar

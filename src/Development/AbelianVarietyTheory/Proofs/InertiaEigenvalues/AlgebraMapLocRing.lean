@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.DeltaInvariantLattices
 import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.LocalRingStructure
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LetterSandwichOfFrobMatrices
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NBasisLoc

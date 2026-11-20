@@ -1,9 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StMixedTwistShift
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StRestrLenEuler
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StSubsetDiffConst
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.TwistAlg
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapper
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperSection
 set_option maxSynthPendingDepth 1
 

@@ -1,4 +1,4 @@
-import Formalism.AdmissibleDesigns.TrivialBoundTargetOfDict
+import Formalism.AdmissibleDesigns.TrCMemZ1D
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

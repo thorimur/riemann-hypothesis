@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HarishChandraCentre.Projection
 import GroundTheory.AutomorphicForms.HarishChandraCentre.Capelli
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace GroundTheory.Automorphic.HarishChandra
 

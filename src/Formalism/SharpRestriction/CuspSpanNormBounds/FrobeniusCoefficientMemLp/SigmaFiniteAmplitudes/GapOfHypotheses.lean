@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.AmpOrbOfAmpDD
 import Formalism.SharpRestriction.CuspSpanNormBounds.NearParameterGap
 import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.FamilyFormalDegreeLowerBound
+import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 
 noncomputable section
 

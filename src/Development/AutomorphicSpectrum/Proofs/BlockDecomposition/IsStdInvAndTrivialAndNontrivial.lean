@@ -1,5 +1,3 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.RationalPrimesBelowPlaces
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SphericalFirst
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AddCharConductorInv
 

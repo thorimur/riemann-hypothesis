@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.GlobalTheory.GL4.PClsTieIdx
 import Formalism.LocalToGlobal.GlobalTheory.GL4.PClsTieInt
-import Formalism.LocalToGlobal.GlobalTheory.GL4.PClsTieSep
 
 noncomputable section
 

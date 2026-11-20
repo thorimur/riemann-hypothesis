@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.InertKernelTheory.TieSerPin
-import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.SecondKernelNonzeroUnit
 
 noncomputable section
 

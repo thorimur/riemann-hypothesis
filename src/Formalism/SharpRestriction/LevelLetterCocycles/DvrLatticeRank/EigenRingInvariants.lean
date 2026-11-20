@@ -1,6 +1,10 @@
-import Mathlib
 import Formalism.PadicSubsetSums.StableGradedCounts.ConcreteDictionaryHolds
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.EigenUniformiser
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PowerSeries.WeierstrassPreparation
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace DualFramesAlt.eigenRingInvariants
 

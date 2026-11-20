@@ -1,6 +1,7 @@
-import Mathlib
 import Formalism.GL3MeanSquares.InvariantSeriesBidegreeOneOne
 import Formalism.LogVandermondeBounds.LogVandermondeProofs.TaylorLogMetric
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.HermitianLattices.IntegralLatticeDensity
 

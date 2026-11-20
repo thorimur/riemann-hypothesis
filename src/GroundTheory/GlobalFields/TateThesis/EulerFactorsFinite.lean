@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.GlobalZetaFinite
-import GroundTheory.GlobalFields.TateThesis.HeckeLFunction
-import GroundTheory.GlobalFields.TateThesis.SchwartzBruhatFinite
+import Mathlib.Data.Int.Star
 
 open NumberField IsDedekindDomain IsDedekindDomain.HeightOneSpectrum Topology Filter
   MeasureTheory WithZero

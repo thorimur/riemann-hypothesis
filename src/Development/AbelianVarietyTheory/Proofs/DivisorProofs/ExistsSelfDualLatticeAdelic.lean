@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.SatakeDualWeyl.Statement
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 open scoped Matrix
 
 namespace GlobalTheory.MaxEvenLat

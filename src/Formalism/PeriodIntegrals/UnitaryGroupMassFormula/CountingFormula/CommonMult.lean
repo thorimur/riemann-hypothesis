@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.EichESymmApply
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.LocalTheoryWindows
 

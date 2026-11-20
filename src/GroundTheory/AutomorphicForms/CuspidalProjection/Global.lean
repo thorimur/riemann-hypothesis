@@ -1,9 +1,7 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness
-import GroundTheory.AutomorphicForms.CuspidalProjection.Unfold
-import GroundTheory.AutomorphicForms.SupercuspidalCoefficients
 import GroundTheory.AutomorphicForms.CuspidalProjection.ContinuousFiniteAdeleSingleAdd
-import GroundTheory.AutomorphicForms.RealIwasawaIntegration
+import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspCompact
+import GroundTheory.AutomorphicForms.CuspidalDiscreteness.TorusDifference
+import GroundTheory.AutomorphicForms.MeasuresModulus
 
 open MeasureTheory Set Filter Topology Function
 open NumberField IsDedekindDomain

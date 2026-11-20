@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.StatementFormalValuationAllFields
 
 noncomputable section

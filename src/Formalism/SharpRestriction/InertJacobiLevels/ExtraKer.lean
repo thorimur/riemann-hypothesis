@@ -1,5 +1,4 @@
 import Formalism.LocalRingCardinality.DataKerP
-import Formalism.LocalRingCardinality.DataLatDefs
 import Formalism.LocalRingCardinality.SpanPowerMembership.ClassRecordRowDimensionZero
 
 noncomputable section

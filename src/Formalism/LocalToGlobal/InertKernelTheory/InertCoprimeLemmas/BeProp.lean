@@ -1,6 +1,8 @@
 import Formalism.LocalToGlobal.InertKernelTheory.StatementBe
 import Formalism.SharpRestriction.AdmissibleParameterJoins.GandSv
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.UnitTraceSumBounds.StmtEndIntWHolds
+import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.ExistsCoprimePowEqOne
+import Formalism.SharpRestriction.AdmissibleParameterJoins.GandSt
 
 noncomputable section
 

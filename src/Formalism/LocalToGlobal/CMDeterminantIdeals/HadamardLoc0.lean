@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.CMDeterminantIdeals.StatementB
-import Formalism.LocalToGlobal.CMDeterminantIdeals.CoeffMemOfLoc
+import Formalism.LocalToGlobal.CMDeterminantIdeals.StatementC
 
 noncomputable section
 

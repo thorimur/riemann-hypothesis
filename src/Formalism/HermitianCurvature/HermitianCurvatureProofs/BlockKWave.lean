@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.RatioBound
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutIntervalLong
 
 namespace Formalism.FourierDecayAlt.P.PBL
 

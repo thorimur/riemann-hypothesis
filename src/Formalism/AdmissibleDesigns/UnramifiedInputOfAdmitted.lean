@@ -2,6 +2,7 @@ import Formalism.AdmissibleDesigns.RowDROfWpIso
 import Formalism.AdmissibleDesigns.RhoContOf
 import Formalism.AdmissibleDesigns.RowTopOf
 import Formalism.AdmissibleDesigns.LocRepTriv
+import Formalism.AdmissibleDesigns.BKaClause
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core] [hH0Fin : Fact Formalism.MainNotions.N.K.H0.FinCore]
 

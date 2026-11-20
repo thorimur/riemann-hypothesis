@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ExponentGrids.ScaledCoordinatesValuationLemma
 
 open NumberField IsDedekindDomain

@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FlagScalarRelevance.DualExists
+import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.IdCell
 
 noncomputable section
 

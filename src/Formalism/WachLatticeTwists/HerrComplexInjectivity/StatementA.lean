@@ -1,4 +1,5 @@
-import Formalism.WachLatticeTwists.HerrComplexInjectivity.Statement
+import Formalism.WachLatticeTwists.LagrangeExtensionCocycles.StatementTop
+import Formalism.WachLatticeTwists.WachProductBases.StatementTop
 
 noncomputable section
 

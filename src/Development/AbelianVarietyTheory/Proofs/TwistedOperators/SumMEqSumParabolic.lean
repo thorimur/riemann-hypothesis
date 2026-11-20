@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.InverseChamberMap
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.EpsOfCZero
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.EpsilonSumLeviZeroStatement
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.EpsilonAlternatingSumZeroStatement
 

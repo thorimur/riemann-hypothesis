@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.FibGlue
+import Mathlib.Topology.Separation.CompletelyRegular
 
 noncomputable section
 

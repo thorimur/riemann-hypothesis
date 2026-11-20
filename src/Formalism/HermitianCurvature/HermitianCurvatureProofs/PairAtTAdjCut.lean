@@ -1,5 +1,8 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsFderivChiBound
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.NormalFormOrderZeroOfParts
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CsliceContinuous
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.IsCompactZetaLe
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.TendstoIntUv
 
 open Matrix MeasureTheory Filter Topology
 open scoped ComplexConjugate InnerProductSpace ContDiff

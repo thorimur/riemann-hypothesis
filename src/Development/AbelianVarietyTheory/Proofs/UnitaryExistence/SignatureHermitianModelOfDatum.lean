@@ -1,7 +1,10 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsHolPeriods
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.Signature
 import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.MemIffConjugateNotMem
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Polynomial.Basic
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.TwoWeightEqOneAddRoot
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField Matrix
 open scoped nonZeroDivisors TensorProduct ComplexConjugate ComplexOrder MatrixOrder

@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.AlgebraicTheory.StatementKer
-import Formalism.GaussJetBounds.Statement
+import Formalism.LocalToGlobal.AlgebraicTheory.StatementD
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

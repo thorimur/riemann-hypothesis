@@ -1,11 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.GlobalProofs.IsCovolOne
-import GroundTheory.HeightsAndTheta.Theta.AdelicFourier
-import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.TraceGramDetNeZero
-import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.ExistsEqAdelicCharMul
-import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.CoordinateHomeomorphRankOneTuples
-import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.InfiniteComponentCoordinatesAction
-import Development.AutomorphicSpectrum.Proofs.GlobalProofs.TupOfCv
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.ExistsSelfDualForm
 
 noncomputable section

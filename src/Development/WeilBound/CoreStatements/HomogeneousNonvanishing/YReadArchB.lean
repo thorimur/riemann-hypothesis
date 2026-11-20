@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LabelSigBijective
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.LeadMinorSmulOne
 open NumberField IsDedekindDomain MeasureTheory Filter Topology

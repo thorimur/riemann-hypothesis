@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsProjFrameGenPtRel
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PProjFrameFibrePt
 set_option maxSynthPendingDepth 1

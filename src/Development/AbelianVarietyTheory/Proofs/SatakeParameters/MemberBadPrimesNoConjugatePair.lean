@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ExistsIntegralMulOrderElement
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsOfStarEq
 

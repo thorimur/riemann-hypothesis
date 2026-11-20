@@ -1,5 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.LCBijPf
 import Development.EtaleCohomology.EtaleSheaves.LSecGluePf
+import Development.AbelianVarietyTheory.Definitions.Divisors.SecClass
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.t_E1Cut LateralTheory.E.LocallyConstantH0

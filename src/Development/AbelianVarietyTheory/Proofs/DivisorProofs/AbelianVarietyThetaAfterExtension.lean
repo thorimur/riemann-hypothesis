@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneCompOfIsGrpPullback
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AlgClosedPrincipallyPolarizedHasThetaStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaDescentFiniteExtension
 

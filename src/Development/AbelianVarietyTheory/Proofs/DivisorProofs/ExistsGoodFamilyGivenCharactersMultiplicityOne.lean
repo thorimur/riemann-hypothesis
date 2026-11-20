@@ -1,7 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.CxPass
-import Formalism.LocalToGlobal.Divisibility.GoodPartHermitianSpec
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsGoodSet
+import Formalism.LocalToGlobal.IndefiniteReal.IndefiniteEpsilonOperator
+import Formalism.LocalToGlobal.IndefiniteReal.TransferStatement
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

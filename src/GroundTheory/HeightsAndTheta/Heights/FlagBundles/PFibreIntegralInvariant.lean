@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FlagBundles.Statements
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.MeasureTheory.Measure.RegularityCompacts
+import Mathlib.RingTheory.MvPolynomial.EulerIdentity
+import Mathlib.Topology.UniformSpace.Uniformizable
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.FlagBundles

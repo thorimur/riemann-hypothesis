@@ -1,7 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.FunctionalLowerBoundOfConditionsNumeric
-import Formalism.LocalToGlobal.IndefiniteForms.IndefExample
-import Development.AbelianVarietyTheory.Counterexamples.RotationExamples.FreeLiftMetric
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DualMatrixMetricMeans
 
 open Module NumberField IsDedekindDomain

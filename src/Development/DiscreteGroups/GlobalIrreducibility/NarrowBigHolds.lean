@@ -1,7 +1,5 @@
-import Development.DiscreteGroups.GlobalIrreducibility.DzMatchCut
 import Development.DiscreteGroups.GlobalIrreducibility.DzLCusp
 import Development.DiscreteGroups.GlobalIrreducibility.DzLDepth
-import Development.DiscreteGroups.GlobalIrreducibility.DzLTame
 import Development.DiscreteGroups.GlobalIrreducibility.EqTraceSmulOfFinrankOne
 import Development.DiscreteGroups.GlobalIrreducibility.DzPinFinal
 import Development.DiscreteGroups.GlobalIrreducibility.DzDigMain
@@ -13,7 +11,6 @@ import Development.DiscreteGroups.GlobalIrreducibility.PhiTilde
 import Development.DiscreteGroups.GlobalIrreducibility.LTw
 import Development.DiscreteGroups.GlobalIrreducibility.DzTameRec
 import Development.DiscreteGroups.GlobalIrreducibility.LConvGen
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ChevalleyUnitsStatement
 import Development.DiscreteGroups.GlobalIrreducibility.DzFeMain
 import Development.DiscreteGroups.GlobalIrreducibility.DzFeIter
 import Development.DiscreteGroups.GlobalIrreducibility.DzGalEps

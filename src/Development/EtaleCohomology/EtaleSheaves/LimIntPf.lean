@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.BuildCut
+import Mathlib.AlgebraicGeometry.AffineTransitionLimit
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry LateralTheory.E.CoverCut

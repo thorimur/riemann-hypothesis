@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.CoreAt
 import Formalism.LocalToGlobal.ProjectiveLattices.CuspFormsFiniteDimensionalOf
+import Formalism.LocalToGlobal.ProjectiveLattices.FamilyUniformisationBasePointOrthogonal
 
 noncomputable section
 

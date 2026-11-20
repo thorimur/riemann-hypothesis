@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementU
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PsiNegBetaL
 
 namespace Formalism.FourierDecayAlt.P.GermFibreKernels

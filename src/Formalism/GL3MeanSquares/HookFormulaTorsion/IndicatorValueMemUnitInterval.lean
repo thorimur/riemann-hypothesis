@@ -1,5 +1,12 @@
-import Mathlib
 import Formalism.GL3MeanSquares.UnitaryConjugateDiagonalMoments
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.NumberTheory.Harmonic.Bounds
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.HermitianLattices.FormalDegreeBoundsAlt
 

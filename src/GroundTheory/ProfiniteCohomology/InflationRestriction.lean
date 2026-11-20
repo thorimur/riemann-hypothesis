@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.InflationRestriction.Higher
 import GroundTheory.ProfiniteCohomology.InflationRestriction.FiveTerm
 set_option maxSynthPendingDepth 1

@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBSer
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBFr
 
 set_option autoImplicit false
 

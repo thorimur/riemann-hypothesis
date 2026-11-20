@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HolomorphicParameterIntegral
-import Mathlib
 open MeasureTheory
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.holomorphic_parameter_integral : ∀ {α β : Type} [MeasurableSpace α] [MeasurableSpace β] (μK : Measure α) [IsFiniteMeasure μK] (μ : Measure β) [SFinite μ]

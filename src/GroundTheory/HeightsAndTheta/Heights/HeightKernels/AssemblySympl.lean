@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PSymplTop
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PSymplOmegaMem
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PSymplCons

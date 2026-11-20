@@ -1,6 +1,5 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.HeckeKer
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsNormEqNegOne
+import Mathlib.Algebra.Algebra.Field
 
 open NumberField ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open scoped nonZeroDivisors

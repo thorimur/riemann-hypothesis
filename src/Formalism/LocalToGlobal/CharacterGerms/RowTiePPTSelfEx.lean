@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePPTSelf
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePPTEx
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePLimSelf
 

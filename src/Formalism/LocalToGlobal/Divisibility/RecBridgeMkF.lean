@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.Divisibility.RecBridge
 import Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.ShiftOfColTie
 import Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.RBNum
 import Formalism.LocalToGlobal.Divisibility.RecBridgeNum

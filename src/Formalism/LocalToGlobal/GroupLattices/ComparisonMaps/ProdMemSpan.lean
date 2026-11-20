@@ -1,7 +1,6 @@
 import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.MRatSpanOf
 import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.DeterminantTwistRowActionMem
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LClosedeqLemmas
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LDlatLemmas
 
 open MvPolynomial
 

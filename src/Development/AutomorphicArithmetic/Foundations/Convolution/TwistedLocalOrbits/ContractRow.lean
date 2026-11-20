@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.TwistedLocalOrbits.HoweSpace
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 open ValuativeRel Matrix UpperTheory.ConvolutionTheory.Loc
 

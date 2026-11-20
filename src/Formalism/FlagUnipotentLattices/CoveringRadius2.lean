@@ -1,4 +1,6 @@
 import Formalism.FlagUnipotentLattices.HalfDifferenceL1Bound
+import Formalism.LatticeRigidity.StatementD
+import Mathlib.NumberTheory.NumberField.DedekindZeta
 
 open Finset MeasureTheory NumberField Matrix
 open scoped ComplexOrder

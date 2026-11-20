@@ -1,5 +1,7 @@
-import Mathlib
-import Formalism.SatakeDualWeyl.KpqSubgroupCompact
+import Formalism.SatakeDualWeyl.Statement
+import Mathlib.LinearAlgebra.Matrix.Permutation
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open IsDedekindDomain NumberField
 open scoped Matrix

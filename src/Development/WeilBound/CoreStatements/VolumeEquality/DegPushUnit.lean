@@ -1,8 +1,8 @@
 import Development.WeilBound.CoreStatements.VolumeEquality.DegPushDefs
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PDivCycleMul
-import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.Cartier
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericProjClosureDivisor
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.Assembly
+import Mathlib.RingTheory.Valuation.LocalSubring
 
 noncomputable section
 

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.IsExcisionNbhdAway
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.CoordsAt
 
 set_option backward.isDefEq.respectTransparency false
 

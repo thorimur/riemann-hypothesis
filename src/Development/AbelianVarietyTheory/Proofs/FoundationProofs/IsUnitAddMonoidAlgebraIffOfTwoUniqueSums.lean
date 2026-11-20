@@ -1,7 +1,7 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SemiabelianSchemes.PrecompleteBases.Torus2GammaBijective
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.TupleDifferentialTupleDifferential
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.TensorCoeffOfMemTorusWeightSpace
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SemiabelianSchemes.PrecompleteBases.PsaRos
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open TensorProduct Coalgebra AddMonoidAlgebra
 

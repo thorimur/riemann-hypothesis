@@ -1,4 +1,5 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.EndomorphismSlices.TwTrSum
+import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.RealDescent.PowerBoundFastDecay
+import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.FrameA
 
 noncomputable section
 

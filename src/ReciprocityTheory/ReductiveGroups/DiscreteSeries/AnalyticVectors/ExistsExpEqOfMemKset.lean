@@ -1,4 +1,8 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.DefsRep
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Commute
+import Mathlib.Analysis.CStarAlgebra.Matrix
+import Mathlib.Analysis.SpecialFunctions.ContinuousFunctionalCalculus.ExpLog.Basic
+import Mathlib.LinearAlgebra.Eigenspace.Minpoly
 
 noncomputable section
 

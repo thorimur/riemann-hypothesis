@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.PairingIndexBounds.SplitPairEquations.Outright
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PStdOK
 
 namespace Formalism.L2.PairingIndexBounds.Eq.SqG
 

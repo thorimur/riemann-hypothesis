@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.WeierstrassPAddOfNeOfDerivNeZero
+import Mathlib.RingTheory.PiTensorProduct
 
 open Filter PeriodPair Polynomial
 open scoped Topology

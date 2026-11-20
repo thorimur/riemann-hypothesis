@@ -1,13 +1,10 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.RealLocalIntegrals.RealGammaLimits.UnipotentTateFunctionalEquation
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.RealLocalIntegrals.RealGammaLimits.FunctionalEquationGL2GL1Complex
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GauIntegrable
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NormLeNormCatRight
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegrableCatPhase
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OfMulBlk
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AeEqIntegralGau
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProfileIntegrable
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DualFWeightLe
+import Mathlib.MeasureTheory.Order.Group.Lattice
 
 noncomputable section
 open MeasureTheory Complex Ad3 Ad3.LR Ad3.LR.C

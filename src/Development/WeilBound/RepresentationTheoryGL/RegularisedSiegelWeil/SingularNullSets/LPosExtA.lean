@@ -1,6 +1,5 @@
 import Mathlib.Topology.ContinuousMap.StoneWeierstrass
-import Mathlib.MeasureTheory.Integral.RieszMarkovKakutani.Real
-import Mathlib.Topology.Metrizable.Urysohn
+import Mathlib.MeasureTheory.Integral.Bochner.Basic
 
 noncomputable section
 

@@ -1,10 +1,7 @@
-import Formalism.LocalToGlobal.InertKernelTheory.AdmissibleAllLevels
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.BeProp
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.BeWInertOfSigma
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.PadicNormTwoHundredSixteenEqOneOfFiveLe
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.HurwitzSubstituteTwoSeries
-import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.LocalLevelIsKOneAtT
-import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.AdmissibleThirdOfSecondEleventh
 
 namespace Formalism.L2.KerInert
 

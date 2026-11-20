@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataSpaces
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.FlagPairDefinitePartLattice
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.CmStarOfIsCMUnram
 

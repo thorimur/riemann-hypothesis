@@ -1,7 +1,6 @@
-import ReciprocityTheory.L2DbarEstimates.JacobianInterpolationStatement
-import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.Imports
 import ReciprocityTheory.L2DbarEstimates.SymmetricSections.HoloSectionStatement
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.IteratedFDerivEqZeroOfIsBigO
+import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.ChartSymmEventuallyEq
 
 universe u
 

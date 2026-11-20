@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.CharacterGerms.ValuationEqPairOfBiadditiveCross
+import Formalism.LocalToGlobal.CharacterGerms.RowTieValU
+import Formalism.LocalToGlobal.CharacterGerms.TripleSubstSecondCoordinate
 
 noncomputable section
 

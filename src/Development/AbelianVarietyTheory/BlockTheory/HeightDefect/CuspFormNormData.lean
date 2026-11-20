@@ -1,8 +1,4 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalRingCardinality.DataArith
 import Formalism.LocalRingCardinality.SpanPowerMembership.Places
-import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.ThetaWeightHeightConstants
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.TotallyPositiveExponents
 
 noncomputable section

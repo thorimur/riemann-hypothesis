@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamModelDR
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RootLetterInjective
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AwayAgree
 open NumberField MvPolynomial
 open Formalism.BasicNotions Formalism.DegreeFormula GlobalTheory.FlagPoly GlobalTheory.Mean4O GlobalTheory.ShFam GlobalTheory.ShFam.Pad
 

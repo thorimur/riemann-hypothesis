@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetOmegaEqConstMulDet
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsHolFormConst
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EqZeroOfFderivEqZero
 open CategoryTheory AlgebraicGeometry NumberField ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.Semi GlobalTheory.RealMult
 attribute [local instance] Over.cartesianMonoidalCategory
 set_option maxHeartbeats 1000000 in

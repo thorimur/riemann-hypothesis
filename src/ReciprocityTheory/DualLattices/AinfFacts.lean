@@ -1,5 +1,6 @@
-import ReciprocityTheory.DualLattices.Imports
-import ReciprocityTheory.DualLattices.ATowerInh
+import ReciprocityTheory.DualLattices.DvdOfCoeffZero
+import ReciprocityTheory.DualLattices.ExistsPrimitiveRoot
+import ReciprocityTheory.DualLattices.ValUntiltESubOne
 
 noncomputable section
 

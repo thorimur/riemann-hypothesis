@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarAddVectorScalar
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.D10D01PullbackHolomorphicStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.D01CompHolomorphicMapStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalLiftPullbackStatement

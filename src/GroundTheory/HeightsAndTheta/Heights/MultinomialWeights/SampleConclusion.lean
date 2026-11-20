@@ -1,13 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PKaPSplit
 import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PKaPInert
 import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PKaPBound
-import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PRestPWellDefined
 import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PRestPBound
 import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PRestSummable
 import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.TauSumRearrangement
-import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PShOfPower
-import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTotOfPower
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PDegPolyEvalX
 import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PCFlPos
 import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PShTotIndependent

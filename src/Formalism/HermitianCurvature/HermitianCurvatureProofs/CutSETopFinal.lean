@@ -1,7 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSETopR
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSERDSOpRGrpFinal
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSERDSOpX
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSERDSRhR
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSERDSRhvR
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SpectralCompositionZero
 

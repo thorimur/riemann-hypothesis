@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.IsStepDataDimZero
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsLastTail
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.IsFieldChartRingOverPnPtZero

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.RelSerreSections
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.AcyclicLeray
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.QcqsPushforward

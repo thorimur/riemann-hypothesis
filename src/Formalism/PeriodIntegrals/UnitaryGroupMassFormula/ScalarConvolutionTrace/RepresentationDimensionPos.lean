@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ScalarConvolutionTrace.CardUNeZero
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
 
 noncomputable section
 

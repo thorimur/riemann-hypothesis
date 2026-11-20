@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RankOfMulEqOne
+import Mathlib.RingTheory.Etale.Weakly
 
 set_option autoImplicit false
 

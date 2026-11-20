@@ -1,9 +1,9 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnLat
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgTorInt
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnTwo
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.KapUnit
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.NormNatCastClOfNotDvd
+import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgGauss
+import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgIsoU
+import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgMulN
 
 noncomputable section
 

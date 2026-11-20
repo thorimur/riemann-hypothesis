@@ -1,7 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.GlobalZetaFinite
 import GroundTheory.GlobalFields.TateThesis.GlobalZetaInfinite
-import GroundTheory.GlobalFields.TateThesis.HeckeChar
+import GroundTheory.GlobalFields.TateThesis.SchwartzBruhat
 
 open NumberField IsDedekindDomain Topology Filter MeasureTheory NumberField.mixedEmbedding Metric
 open scoped NumberField.AdeleRing ENNReal NNReal SchwartzMap nonZeroDivisors Classical

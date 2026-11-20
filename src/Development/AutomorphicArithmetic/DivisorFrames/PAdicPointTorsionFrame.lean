@@ -1,5 +1,3 @@
-import Development.AutomorphicArithmetic.LocalEmbeddings.RootFrame
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HodgeTateKernel
 import Development.AutomorphicArithmetic.DivisorFrames.AlgebraicPAdicPointLifts
 import Development.AutomorphicArithmetic.DivisorFrames.LevelReductionTorsionCharacter
 import Development.AutomorphicArithmetic.DivisorFrames.WeilPairingLabelsTorsionPoints

@@ -1,4 +1,3 @@
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.FrameReading.JoinType
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RealReadLeviStatement
 
 namespace PositivityTheory.Rg.BcB.F.Tail.Levb

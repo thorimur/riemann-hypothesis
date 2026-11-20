@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSE2
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.TheoremPCompactOfSquareDensity
 
 open MeasureTheory Filter Topology
 open scoped Matrix ComplexConjugate

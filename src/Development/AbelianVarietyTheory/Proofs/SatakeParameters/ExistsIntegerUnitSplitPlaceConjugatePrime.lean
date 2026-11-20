@@ -1,6 +1,8 @@
-import Mathlib
 import ReciprocityTheory.Automorphisms.Unitary
 import ReciprocityTheory.Automorphisms.PlaceA
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.Henselian
 
 open NumberField IsDedekindDomain Polynomial
 

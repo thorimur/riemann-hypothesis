@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTranscendenceBasisAlgebraicStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PrimitiveElementFiniteAlgebraicStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MonicPolynomialPrimitiveOverBasisStatement

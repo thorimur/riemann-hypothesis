@@ -1,5 +1,7 @@
 import Formalism.HermitianCurvature.ThetaExistenceInductiveFromPieces
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.KernelNonzeroModulusDeterminantEq
+import Mathlib.Analysis.Fourier.FiniteAbelian.PontryaginDuality
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

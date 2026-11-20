@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.TateTwists.EtaleMayerVietorisChainsShortExact
+import Mathlib.CategoryTheory.Limits.FunctorCategory.Shapes.Pullbacks
+import Mathlib.CategoryTheory.Limits.Types.Pushouts
 
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex GlobalTheory.EtC
 

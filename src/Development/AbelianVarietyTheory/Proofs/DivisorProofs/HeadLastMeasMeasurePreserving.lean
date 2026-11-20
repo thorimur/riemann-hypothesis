@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeadLApply
-import Development.AbelianVarietyTheory.Definitions.Divisors.LineSCShortExact
 open Set MeasureTheory
 open ReciprocityTheory.L2DbarEstimates (V)
 open GlobalTheory.CxForm GlobalTheory.LocFub

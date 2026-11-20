@@ -1,6 +1,7 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.LevelA
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.Development
 import Lemmata.IntegerMulIntegral.IntMulIntegral
+import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Levelaf
+import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

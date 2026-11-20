@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.LocalFields.SeparableClosure
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.Normed.Ring.Ultra
 set_option maxSynthPendingDepth 1
 
 noncomputable section

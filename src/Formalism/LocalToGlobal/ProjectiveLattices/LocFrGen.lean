@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.GenFrPfS
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.BCRing
+import Formalism.LocalToGlobal.ProjectiveLattices.ThetaFramePf
 
 set_option synthInstance.maxHeartbeats 400000
 

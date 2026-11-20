@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.JInvariant
+import Mathlib.AlgebraicGeometry.EllipticCurve.IsomOfJ
+import Mathlib.Analysis.Complex.OpenMapping
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Complex UpperHalfPlane ModularForm EisensteinSeries MatrixGroups Filter Topology Set
 open scoped PeriodPair Real Modular

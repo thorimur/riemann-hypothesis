@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemAutSub
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoC
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetNeZeroOfIsHypPl
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalUnipotentCoordinateSurjective
 open scoped TensorProduct NNReal Matrix

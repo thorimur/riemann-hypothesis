@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.NormalisingFactor
-import Development.AbelianVarietyTheory.Definitions.Degenerations.SepticCharacterInjective
 open ReciprocityTheory.ChartRestriction.G.Geo.Tor GlobalTheory.Ex
 open scoped BigOperators
 set_option maxHeartbeats 1000000 in

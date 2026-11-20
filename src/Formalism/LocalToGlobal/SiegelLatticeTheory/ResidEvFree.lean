@@ -1,8 +1,8 @@
-import Formalism.SharpRestriction.SmoothDesignExistence.ClosedLinkSOfClosedPeriodAndFiltration
 import Formalism.SharpRestriction.CuspSpanNormBounds.StandingHypothesesHoldFamily
-import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.CMFieldLemmas
-import Formalism.SharpRestriction.AdmissibleParameterJoins.SfromGLu
 import Formalism.LocalToGlobal.GlobalTheory.GL2.ModEqOfNormOneMod
+import Formalism.SharpRestriction.AdmissibleParameterJoins.SfromGLt
+import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.RamificationTwoAndConjugationAtQAndD
+import Formalism.SharpRestriction.SmoothDesignExistence.DGamSmooth
 
 open Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.Pk
 

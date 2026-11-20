@@ -2,6 +2,7 @@ import Formalism.SharpRestriction.LevelLetterCocycles.LevelMembershipPackage
 import Formalism.SharpRestriction.LevelLetterCocycles.CoboundaryMemInvariantCocycles
 import Formalism.SharpRestriction.LevelLetterCocycles.ExistsLinearLiftOfFree
 import Formalism.SharpRestriction.LevelLetterCocycles.FiltrationQuotientFiniteDimensional
+import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.ExistsInIInPNPowSmulSubMap
 
 noncomputable section
 

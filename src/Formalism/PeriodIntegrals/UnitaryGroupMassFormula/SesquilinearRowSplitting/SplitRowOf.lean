@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.SplitRow
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SesquilinearRowSplitting.CoreStep
 

@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilTensorModels
-import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsUniqueIdeleOfLinearEquivQuotientLocal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ValuationLeOneOfIntegralTraceStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitDenominatorIntegralStatement
 

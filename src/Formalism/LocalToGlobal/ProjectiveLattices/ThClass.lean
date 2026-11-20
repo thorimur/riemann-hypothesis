@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.ThShort
-import Formalism.LocalToGlobal.ProjectiveLattices.PetersonNormSubspace
 import Formalism.LocalToGlobal.ProjectiveLattices.L2DefiniteCuspForms
 
 set_option autoImplicit false

@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.CapelliDeterminantAndBranching
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
 
 open Matrix Finset
 

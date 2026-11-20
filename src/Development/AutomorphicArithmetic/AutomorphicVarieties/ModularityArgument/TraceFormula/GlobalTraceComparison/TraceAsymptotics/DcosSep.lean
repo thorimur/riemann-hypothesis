@@ -1,6 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.GlobalTraceComparison.TraceAsymptotics.FinprodSplitAlt
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.VLtOneOfOrdLEqOne
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactSupportDcos
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DiagTMemIwGL
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.DoubleCosetSeparation
 

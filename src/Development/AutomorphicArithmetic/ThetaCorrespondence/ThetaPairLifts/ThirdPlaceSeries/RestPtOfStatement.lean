@@ -1,6 +1,3 @@
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmG5SetupStatement
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.BoundAtTwoThreeFamilyFon
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.RestPtOf
 
 set_option synthInstance.maxHeartbeats 200000

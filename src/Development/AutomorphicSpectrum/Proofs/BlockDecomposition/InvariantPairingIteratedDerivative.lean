@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousMulVec
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PairIterPhiMir
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DerivativeTwistedIso
 

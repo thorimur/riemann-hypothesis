@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RatVInjective
-import GroundTheory.AutomorphicForms.AnisotropicUnitaryHeight
 import GroundTheory.AutomorphicForms.ReductionMahler
+import GroundTheory.AutomorphicForms.AnisotropicUnitaryRes
 
 noncomputable section
 open NumberField MeasureTheory Matrix Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes GlobalTheory.AdelicU GlobalTheory.SiegelSet PositivityTheory.ThKR GlobalTheory.CompanionTheory.RedCov

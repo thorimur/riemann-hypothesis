@@ -1,12 +1,5 @@
-import Formalism.LocalToGlobal.Columns.ToHLatLemmas
-import Formalism.LocalToGlobal.Columns.RowFormsGood
-import Formalism.LocalToGlobal.Divisibility.ClassSumBridge
 import Formalism.LocalToGlobal.Divisibility.ProjLemmas
-import Formalism.QuotientMetricDivisors.ReductionLemmaZero
-import Formalism.QuotientMetricDivisors.FinalW
-import Formalism.LocalToGlobal.Divisibility.FramesLemmas
-import Formalism.LocalToGlobal.GlobalTheory.HLatOpsP
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.SlopeStep
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 open Module NumberField IsDedekindDomain Formalism.BasicNotions Formalism.DivisionValues Formalism.L2.DIV Formalism.L2.Col
 open scoped Matrix ComplexOrder
 

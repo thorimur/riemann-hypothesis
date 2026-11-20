@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.OneLtAbsNormReal
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.AbProj
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.OneArc
 
 noncomputable section
 

@@ -1,6 +1,6 @@
 import Formalism.PeriodIntegrals.AmpRoot
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupJacobian.SUpPowEqZero
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupJacobian.BlkLt
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.NegOnePowMulSelf
 
 open MeasureTheory Matrix
 open scoped ENNReal

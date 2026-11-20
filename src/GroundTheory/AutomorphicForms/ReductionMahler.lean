@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ReductionSiegel
 import GroundTheory.AutomorphicForms.QuotientMeasure
 

@@ -1,5 +1,9 @@
-import Mathlib
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.UniLatA
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
 
 open Matrix Filter Topology
 

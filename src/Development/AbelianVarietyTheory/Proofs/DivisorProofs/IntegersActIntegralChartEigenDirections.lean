@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ResidueEqZeroIffV
 import Development.AbelianVarietyTheory.Counterexamples.LevelGroupExamples.FlatGenInjective
 import Development.AbelianVarietyTheory.Counterexamples.JetSurvey.BilLActRight

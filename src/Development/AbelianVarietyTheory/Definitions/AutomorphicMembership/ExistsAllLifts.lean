@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ResCharThetaJetPlaceDegOne
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RowsRestWordColumnUnitBaseTuple
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ConstMapInjective
+import Mathlib.NumberTheory.LSeries.PrimesInAP
 
 noncomputable section
 

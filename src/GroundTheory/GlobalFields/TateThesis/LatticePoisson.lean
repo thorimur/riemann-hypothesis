@@ -1,5 +1,10 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.LatticePoissonBasic
+import Mathlib.Algebra.Module.ZLattice.Covolume
+import Mathlib.Analysis.Distribution.SchwartzSpace.Fourier
+import Mathlib.Analysis.Fourier.AddCircleMulti
+import Mathlib.Dynamics.Ergodic.Action.Regular
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace GroundTheory.Global
 

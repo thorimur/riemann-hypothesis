@@ -1,6 +1,7 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.HcParamGapGeIndex
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelTau
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelTwist
+import Mathlib.Data.Int.Star
 
 noncomputable section
 

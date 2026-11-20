@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ResolutionMetricObjects
 set_option maxSynthPendingDepth 1
 

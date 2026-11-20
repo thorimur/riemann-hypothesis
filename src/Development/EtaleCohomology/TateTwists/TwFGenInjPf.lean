@@ -1,4 +1,7 @@
 import Development.EtaleCohomology.TateTwists.GenConnPf
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Polynomial.Basic
 
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC
 

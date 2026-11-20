@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.TorusExt
 
 open NumberField ReciprocityTheory.GeometryOfNumbersTheory GlobalTheory.LieHt

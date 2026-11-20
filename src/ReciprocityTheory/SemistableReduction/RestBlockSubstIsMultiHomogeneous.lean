@@ -1,4 +1,13 @@
-import ReciprocityTheory.SemistableReduction.AevalIsWeightedHomogeneous
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.MeasureTheory.Measure.RegularityCompacts
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Algebra.MvPolynomial
+import Mathlib.Topology.UniformSpace.Uniformizable
+import ReciprocityTheory.SemistableReduction.SphereLogIntegrableStatement
 
 noncomputable section
 

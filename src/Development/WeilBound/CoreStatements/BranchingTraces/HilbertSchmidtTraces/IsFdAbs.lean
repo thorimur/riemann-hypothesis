@@ -1,5 +1,6 @@
 import Development.WeilBound.CoreStatements.BranchingTraces.HilbertSchmidtTraces.Unfold
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSchur
+import Development.AutomorphicSpectrum.Definitions.MetricPeriods.IsNormEmbId
 
 open MeasureTheory Matrix Formalism.MainNotions.S Formalism.REAL Formalism.QuantumDeterminants Formalism.L2.Theta GlobalTheory.SmVec GlobalTheory.CompanionTheory.UnitaryFramesMetricPeriods
 open scoped InnerProductSpace

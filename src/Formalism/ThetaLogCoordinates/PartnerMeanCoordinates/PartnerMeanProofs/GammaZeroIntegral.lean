@@ -1,4 +1,6 @@
 import Formalism.ThetaLogCoordinates.PartnerMeanCoordinates.TheoremMXB
+import Formalism.PolynomialDimension.MultinomialDepth.TieOps
+import Formalism.ThetaLogCoordinates.PartnerMeanCoordinates.TheoremMCB
 
 namespace Formalism.InvariantFactorPaths.MC
 

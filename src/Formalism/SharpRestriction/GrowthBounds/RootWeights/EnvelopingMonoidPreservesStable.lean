@@ -1,4 +1,8 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectorFixedMem
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

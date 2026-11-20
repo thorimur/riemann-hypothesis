@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SizeAtNonneg
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.AdmissibleOfPlaces
 
 open Finset NumberField
 open scoped ComplexConjugate ComplexOrder

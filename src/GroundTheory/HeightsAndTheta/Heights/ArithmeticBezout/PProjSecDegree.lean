@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsProjSecDegree
 set_option maxSynthPendingDepth 1
 

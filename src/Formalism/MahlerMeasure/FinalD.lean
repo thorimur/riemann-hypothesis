@@ -3,8 +3,6 @@ import Formalism.MahlerMeasure.MahlerMeasureProofs.MahlerK
 import Formalism.MahlerMeasure.MahlerMeasureProofs.SmithZp
 import Formalism.MahlerMeasure.MahlerMeasureProofs.LieMat
 import Formalism.MahlerMeasure.MahlerMeasureProofs.LieRoots
-import Formalism.MahlerMeasure.MahlerMeasureProofs.DeterminantBlockLeadingTerm
-import Formalism.MahlerMeasure.MahlerMeasureProofs.SmithBall
 
 namespace Formalism.GM.Top
 open Formalism.GM

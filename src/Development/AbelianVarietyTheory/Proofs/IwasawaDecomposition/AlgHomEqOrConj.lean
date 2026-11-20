@@ -1,6 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.GaloisLevelStructure.DefsAut
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsIntegerUnitSplitPlaceConjugatePrime
+import Mathlib.RingTheory.PicardGroup
+import ReciprocityTheory.Automorphisms.SplitCoeAlgebraMap
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField IsDedekindDomain ReciprocityTheory.Aut Formalism.AUTREP Formalism.L2
 

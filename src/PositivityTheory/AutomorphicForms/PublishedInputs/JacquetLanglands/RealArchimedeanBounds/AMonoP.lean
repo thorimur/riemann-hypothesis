@@ -1,5 +1,4 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.RealArchimedeanBounds.ATrans
-import Mathlib.NumberTheory.NumberField.ProductFormula
 
 noncomputable section
 

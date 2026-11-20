@@ -1,6 +1,4 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SquareIntegrableSegments.Development
-import Development.WeilBound.CoreStatements.PublishedTheorems.LanglandsClassification.Bridge
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.BernsteinZelevinskyGL.TopAdm
 
 noncomputable section

@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.SobolevGaussianKernels.StatementLF
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.NumberTheory.RamificationInertia.Basic
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
 
 namespace Formalism.SL.P
 

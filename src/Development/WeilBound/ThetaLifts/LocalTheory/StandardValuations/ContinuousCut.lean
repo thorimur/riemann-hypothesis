@@ -1,6 +1,6 @@
 import Development.WeilBound.CoreStatements.LocalThetaKernels.EvlLoc
 import Development.AbelianVarietyTheory.Definitions.Divisors.RankEqCardIffExistsFrameMatrixFirstColumnBlock
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.PairwiseDisjointCell
+import Mathlib.MeasureTheory.Integral.Pi
 
 set_option linter.unusedSectionVars false
 

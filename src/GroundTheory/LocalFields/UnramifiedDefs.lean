@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.LocalFields.Interface
 import GroundTheory.LocalFields.Integers
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

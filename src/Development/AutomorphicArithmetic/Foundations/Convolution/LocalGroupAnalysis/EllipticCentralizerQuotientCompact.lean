@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.SelmerRankBounds.EllipticityFromProductFormula
+import GroundTheory.GlobalFields.TateThesis.AdelicChar
 open PositivityTheory.Rg.Tf.Geo
 open NumberField IsDedekindDomain Matrix Polynomial
 open GroundTheory.Automorphic GroundTheory.Automorphic.Reduction GroundTheory.Global GroundTheory.Global.IdeleGroup

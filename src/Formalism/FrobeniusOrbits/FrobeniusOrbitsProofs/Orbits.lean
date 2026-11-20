@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.FrobeniusOrbits.HostOrbitsPlaces
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.CoprimeTwoPow
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Galois
 
 open Polynomial

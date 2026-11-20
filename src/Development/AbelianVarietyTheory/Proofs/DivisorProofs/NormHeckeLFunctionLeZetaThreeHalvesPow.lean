@@ -1,6 +1,10 @@
-import Mathlib
-import Formalism.PairingDivisors.StatementA
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsFinSetSplitPlacesCoprimeConductor
+import Development.AbelianVarietyTheory.Definitions.Divisors.EntireEqOfHalfPlane
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.NumberTheory.EulerProduct.DirichletLSeries
+import Mathlib.NumberTheory.RamificationInertia.Basic
+import Mathlib.RingTheory.Ideal.Int
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
+import Mathlib.RingTheory.TotallySplit
 open NumberField IsDedekindDomain GlobalTheory.CMVal
 
 noncomputable section

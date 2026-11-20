@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StatementsCurrent
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StStokesOffDiscriminant
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCutOffLimit
 set_option maxSynthPendingDepth 1

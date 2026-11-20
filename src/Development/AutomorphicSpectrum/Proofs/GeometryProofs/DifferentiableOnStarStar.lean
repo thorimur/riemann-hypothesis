@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.BdryChart
-import Development.AutomorphicSpectrum.Definitions.MetricPeriods.ClopenCondOnto
+import GroundTheory.HeightsAndTheta.Heights.Regularisation.Statements
+import Mathlib.Analysis.Calculus.FDeriv.Star
 
 noncomputable section
 

@@ -1,4 +1,6 @@
 import Formalism.GaloisIrreducibility.NoSolvableOf
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 namespace Formalism.GaloisIrreducibility
 

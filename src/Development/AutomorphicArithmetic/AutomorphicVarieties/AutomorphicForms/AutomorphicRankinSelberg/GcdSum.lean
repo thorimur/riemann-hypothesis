@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.AutomorphicRankinSelberg.StripInt
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open UpperTheory.V.Af.Rs in
 private lemma gcdSum_inj :

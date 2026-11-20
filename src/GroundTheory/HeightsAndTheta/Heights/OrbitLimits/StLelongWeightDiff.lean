@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StLelongWeightLimit
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongRegularise
 set_option maxSynthPendingDepth 1
 
 noncomputable section

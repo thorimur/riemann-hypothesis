@@ -1,4 +1,3 @@
-import Formalism.RealPlaceAnalysis.StatementA
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CasimirCommutation
 
 open scoped TensorProduct

@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.PAdicHodge.FundamentalSeqLog
-import GroundTheory.PAdicHodge.GalSmulAlgebraMapPadicPlus
+import GroundTheory.PAdicHodge.BCrisPlusInvariants
+import GroundTheory.PAdicHodge.FontaineLemma
 set_option maxSynthPendingDepth 1
 
 noncomputable section

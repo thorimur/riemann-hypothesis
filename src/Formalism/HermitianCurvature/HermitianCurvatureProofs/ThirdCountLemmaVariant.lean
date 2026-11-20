@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.LetterProductDoubleDegreeCount
+import Mathlib.Data.Int.Star
 
 open Formalism.FourierDecayAlt
 

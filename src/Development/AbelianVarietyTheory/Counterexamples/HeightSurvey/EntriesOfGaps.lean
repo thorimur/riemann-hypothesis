@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.AbelianOpenPart.OEOsInjective
 import Development.AbelianVarietyTheory.Counterexamples.JetSurvey.ThetaMemLattice
 
 set_option autoImplicit false

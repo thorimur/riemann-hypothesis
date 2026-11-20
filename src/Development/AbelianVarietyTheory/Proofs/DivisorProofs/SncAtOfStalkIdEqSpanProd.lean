@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.FinalTheorems
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.WMultA
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ExistsMulMemOfAlgebraMapLocRingEqZero
 

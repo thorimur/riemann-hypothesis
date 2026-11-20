@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.FirstFrameStepImplication
 import Formalism.SharpRestriction.LevelLetterCocycles.ModelKStep
 import Formalism.SharpRestriction.LevelLetterCocycles.DdRFull
 

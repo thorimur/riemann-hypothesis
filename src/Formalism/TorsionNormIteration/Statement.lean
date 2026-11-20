@@ -1,5 +1,5 @@
-import Formalism.FormalGroupLog.Statement
 import Formalism.TorsionNormIteration.InvIntegralOfClass
+import Mathlib.RingTheory.PowerSeries.Derivative
 
 noncomputable section
 

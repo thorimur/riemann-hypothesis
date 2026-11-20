@@ -1,4 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.RestSplit
+import Formalism.ThetaLogCoordinates.JacobiPathWeights.JacobiMinorProofs.GoodWOfWeight
+import Formalism.ThetaLogCoordinates.JacobiPathWeights.JacobiMinorProofs.ValuationProductsComponents
+import Formalism.ThetaLogCoordinates.JacobiPathWeights.PathBasisTheorem
 
 noncomputable section
 

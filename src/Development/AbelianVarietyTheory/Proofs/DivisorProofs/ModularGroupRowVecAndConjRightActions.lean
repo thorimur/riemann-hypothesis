@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ZetaActRefl
 
 open scoped UpperHalfPlane MatrixGroups Matrix ModularForm ComplexConjugate

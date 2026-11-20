@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.NormsFree
-import Formalism.LocalToGlobal.ProjectiveLattices.CompOrd
+import Formalism.LocalToGlobal.ProjectiveLattices.UnFree
 
 noncomputable section
 

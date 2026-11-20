@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsMuMeasureLimit
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsMuRegMass
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsMuRegTruncLimit

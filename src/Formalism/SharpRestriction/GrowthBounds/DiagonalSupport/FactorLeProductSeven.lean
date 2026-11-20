@@ -1,6 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.PickVal
-import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.DigAbs
-import Formalism.SharpRestriction.GrowthBounds.ProjectionOfIsotypicDecomposition
+import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.PickLem
+import Formalism.SharpRestriction.GrowthBounds.GLWeightTheory
 
 noncomputable section
 

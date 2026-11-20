@@ -1,7 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudIsoDef
-import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.Tensor
-import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.TensorKP
-import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.FunctorComparisonOfSingleWeight
+import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudDefs
 
 noncomputable section
 

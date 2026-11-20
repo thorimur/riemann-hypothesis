@@ -1,7 +1,5 @@
-import Mathlib
-import GroundTheory.LocalFields.BrauerInductionCharacters
-import GroundTheory.LocalFields.BrauerInductionInduced
 import GroundTheory.LocalFields.BrauerInductionClifford
+import Mathlib.GroupTheory.Nilpotent
 
 noncomputable section
 

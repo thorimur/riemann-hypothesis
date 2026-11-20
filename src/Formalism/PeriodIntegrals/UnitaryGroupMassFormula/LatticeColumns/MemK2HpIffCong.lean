@@ -1,5 +1,4 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeColumns.PrincipalCongruenceLeLevel
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeColumns.Transfer
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ImASubKpp
 
 noncomputable section

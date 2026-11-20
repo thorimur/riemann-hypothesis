@@ -1,8 +1,5 @@
-import Formalism.LocalToGlobal.GlobalTheory.HLatOpsP
-import Formalism.HarderNarasimhan.FinalCor
-import Formalism.QuotientMetricDivisors.ReductionLemmaZero
-import Formalism.QuotientMetricDivisors.FinalW
-import Formalism.LocalToGlobal.Divisibility.FramesLemmas
+import Formalism.LocalToGlobal.GlobalTheory.HLatOps
+import Formalism.SizeWindowBrackets.ChainSlopeWindows.ExistsNsmulMem
 open Module NumberField IsDedekindDomain Formalism.BasicNotions Formalism.DivisionValues
 open scoped Matrix ComplexOrder
 

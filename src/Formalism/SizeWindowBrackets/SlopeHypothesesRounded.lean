@@ -1,7 +1,6 @@
 import Formalism.SizeWindowBrackets.ClaimGaFree
 import Formalism.SizeWindowBrackets.QuotientSlopeBoundsWith
 import Formalism.SizeWindowBrackets.FrameTraceRatioFinEquiv
-import Formalism.SizeWindowBrackets.SlopesHypothesisFinitePlaces
 
 open Module NumberField Matrix
 open Formalism.CorankShareLayerCake.FR Formalism.HN

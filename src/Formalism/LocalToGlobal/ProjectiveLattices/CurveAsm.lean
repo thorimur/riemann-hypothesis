@@ -1,5 +1,7 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.CurveOpen
 import Formalism.LocalToGlobal.ProjectiveLattices.LocalUnitReduction.IsUnitMkOfForallPrime
+import Formalism.LocalToGlobal.ProjectiveLattices.CurveComp
+import Formalism.LocalToGlobal.ProjectiveLattices.CurveFr
+import Formalism.LocalToGlobal.ProjectiveLattices.CurveInstSt
 
 noncomputable section
 

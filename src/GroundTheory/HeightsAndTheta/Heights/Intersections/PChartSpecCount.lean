@@ -1,7 +1,14 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StChartPrimElt
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StLocAwaySpec
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StChartSpecCount
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 set_option maxSynthPendingDepth 1
 
 noncomputable section

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.LineSCShortExact
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RankTwoGradedDeterminantIsometric
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FirstChernTensorAddStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FirstChernIsometricEqStatement

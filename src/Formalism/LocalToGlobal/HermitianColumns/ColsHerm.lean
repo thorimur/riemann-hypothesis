@@ -1,9 +1,6 @@
 import Formalism.LocalToGlobal.HermitianColumns.CompletionIntegersIff
-import Formalism.LocalToGlobal.HermitianColumns.Lev0Tied
 import Formalism.LocalToGlobal.HermitianColumns.ClsNonempty
 import Formalism.LocalToGlobal.HermitianColumns.ZeroPointScaledByCharacter
-import Formalism.LocalToGlobal.HermitianColumns.StepLevelQ
-import Formalism.LocalToGlobal.HermitianColumns.CoordinateLatticeSelfDual
 
 noncomputable section
 

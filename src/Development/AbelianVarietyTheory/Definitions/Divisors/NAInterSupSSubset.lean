@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsRapidInf
 import GroundTheory.AutomorphicForms.MultiplicityOne.Equivariance
-import GroundTheory.GlobalFields.TateThesis.AdelicCharLocal
 
 noncomputable section
 

@@ -1,8 +1,4 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterRedB
 import ReciprocityTheory.AnalyticForms.PotentialTheory.PushAFinsumInter
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.LintegralImageEqLintegralNormSqDetMul
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsProjRegular
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsProjRegularFibre
 set_option maxSynthPendingDepth 1
 

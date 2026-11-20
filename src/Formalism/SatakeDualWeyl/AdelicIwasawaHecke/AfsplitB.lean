@@ -1,4 +1,6 @@
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.AfsplitA
+import Formalism.SatakeDualWeyl.StatementC
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 open Matrix TensorProduct NumberField IsDedekindDomain

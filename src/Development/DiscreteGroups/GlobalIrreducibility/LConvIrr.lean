@@ -1,4 +1,5 @@
 import Development.DiscreteGroups.GlobalIrreducibility.LConvIrrAvg
+import Development.DiscreteGroups.GlobalIrreducibility.LConvIrrComm
 
 noncomputable section
 

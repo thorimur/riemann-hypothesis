@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.PAdicHodge.WAFracAnn
-import GroundTheory.PAdicHodge.ToUntiltFieldEqZeroIff
 import GroundTheory.PAdicHodge.ExtRobbaRoot
 set_option maxSynthPendingDepth 1
 

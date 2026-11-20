@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetSNeZero
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsBilinearFischerPairingMatrixEntryPolynomia
 open MvPolynomial Formalism.BasicNotions.TH GlobalTheory.CharPair
 
 namespace GlobalTheory.CharPair.SDown

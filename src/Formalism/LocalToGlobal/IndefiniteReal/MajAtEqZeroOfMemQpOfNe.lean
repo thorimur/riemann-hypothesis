@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.EquivFunOM
 import Formalism.LocalToGlobal.IndefiniteReal.PrimitiveStatementsWithPassage
+import Formalism.LocalToGlobal.Divisibility.InertPartitionLePartF
 
 open Module NumberField IsDedekindDomain Polynomial
 open scoped Matrix ComplexOrder InnerProductSpace

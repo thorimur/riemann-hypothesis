@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.TateTwists.TtTensExPfLoc
+import Development.EtaleCohomology.TateTwists.TtTensExPf
 
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC
 open scoped DirectSum TensorProduct

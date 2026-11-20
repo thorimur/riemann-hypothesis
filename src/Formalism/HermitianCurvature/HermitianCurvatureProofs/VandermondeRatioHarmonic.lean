@@ -1,4 +1,12 @@
 import Formalism.HermitianCurvature.StatementSz
+import Mathlib.Analysis.Real.Pi.Bounds
+import Mathlib.NumberTheory.Harmonic.Bounds
+import Mathlib.NumberTheory.ZetaValues
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.FourierDecayAlt.P.Sz3
 

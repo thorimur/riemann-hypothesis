@@ -1,10 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.InertKernelTheory.DefsBeCob
-import Formalism.LocalToGlobal.TorsionIntegrality.CMGoodModels.Statement
-import Formalism.LocalToGlobal.TorsionIntegrality.WeierstrassTwoTorsion.FlowTwoTorsionWp
 import Formalism.LocalToGlobal.TorsionIntegrality.WeierstrassTwoTorsion.ChordEquation
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.FinalC
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KurComplete
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.MemClosureRootsOfUnity
 
 noncomputable section

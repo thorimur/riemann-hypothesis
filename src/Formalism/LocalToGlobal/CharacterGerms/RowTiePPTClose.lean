@@ -1,7 +1,6 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePPTFinal
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePPTSelfEx
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePOActSelf
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePHStab
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePHStabSelf
 
 namespace Formalism.L2.FormalSeriesBounds

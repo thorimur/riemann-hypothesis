@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.LatticeGeometry.DegFlLApply
+import Formalism.LocalRingCardinality.DataDIV
 
 noncomputable section
 

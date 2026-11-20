@@ -1,7 +1,8 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundOfCompact
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.AdmissibleOfIwasawa
 import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.UniformCoefficientBounds.CoefGen
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJmuFacts
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNormDegGCut
 
 open Matrix MeasureTheory Set
 open scoped InnerProductSpace

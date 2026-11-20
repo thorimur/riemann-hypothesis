@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.IsCombAt
 import Formalism.LocalToGlobal.ProjectiveLattices.RowDeg
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ThetaVV
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.TranslationFrames
 
 set_option autoImplicit false

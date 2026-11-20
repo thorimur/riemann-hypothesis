@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.WhittakerFunctional
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.PPtsIntegralPoints
 set_option maxSynthPendingDepth 1

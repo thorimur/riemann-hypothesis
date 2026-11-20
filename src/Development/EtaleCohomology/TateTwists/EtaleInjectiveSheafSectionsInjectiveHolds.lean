@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.TateTwists.EtaleKInjectiveExtensionAlongQuasiIsoFromSingle
+import Mathlib.CategoryTheory.Adjunction.Evaluation
 
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC
 

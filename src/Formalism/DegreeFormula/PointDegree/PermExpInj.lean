@@ -1,4 +1,7 @@
 import Formalism.DegreeFormula.FlagDegFormula
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open MvPolynomial
 

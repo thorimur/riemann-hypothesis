@@ -1,4 +1,7 @@
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.PhiCMinC
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option autoImplicit false
 

@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.SzCt
+import Formalism.LocalRingCardinality.DataDIVDefs
 
 noncomputable section
 

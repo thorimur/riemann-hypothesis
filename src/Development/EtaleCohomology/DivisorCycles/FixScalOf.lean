@@ -1,5 +1,10 @@
 import Development.EtaleCohomology.DivisorCycles.CycleCountPf
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalEig
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.TotallySplit
 
 open Matrix PositivityTheory.AutomorphicGaloisHodgeTate.Div Polynomial
 namespace LateralTheory.DivDb.ScalarFixedPointsUnderAeval

@@ -1,12 +1,7 @@
-import Mathlib
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.GlintPrincRelIndexNeZero
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.SplitUnitaryGroupIso
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Transport
-import Formalism.LocalToGlobal.GroupLattices.TrivialTransfer.ProGTransfer
-import Formalism.LocalToGlobal.GroupLattices.TrivialTransfer.OneAddPowOfSq
 import Formalism.LocalToGlobal.GroupLattices.TrivialTransfer.SmallOrderPrimeLogSumBound
-import Formalism.LocalToGlobal.GroupLattices.LevelGatherings.GramDetIsUnit
 import Formalism.LocalToGlobal.GlobalTheory.GL5.Statement
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 
 noncomputable section
 

@@ -1,7 +1,9 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.TieRecog
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.WickVanishing.GGConn
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLA
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.FourierCoefficientDomain
+import Formalism.LocalToGlobal.ProjectiveLattices.RatRgOfSecRat
+import Formalism.LocalToGlobal.ProjectiveLattices.ZeroWeightAlgebraicPart
+import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
 
 noncomputable section
 

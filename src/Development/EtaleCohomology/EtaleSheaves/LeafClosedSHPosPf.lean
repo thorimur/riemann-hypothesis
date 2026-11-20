@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafVanBPf
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite Polynomial IsLocalRing GlobalTheory.EtC LateralTheory.E.E4

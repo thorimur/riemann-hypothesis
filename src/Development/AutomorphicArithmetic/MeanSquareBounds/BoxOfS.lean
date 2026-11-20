@@ -1,7 +1,5 @@
-import Development.AutomorphicArithmetic.MeanSquareBounds.PrimeSetTwoBounds
-import Development.AutomorphicArithmetic.MeanSquareBounds.TailKExp
 import Development.AutomorphicArithmetic.MeanSquareBounds.kappaC
-import Formalism.GL3MeanSquares.ZeroFreeRegionGl2PrimeChoiceResults
+import Formalism.GL3MeanSquares.HookFormulaTorsion.WeightedVonMangoldtSumIdentity
 
 open Finset Formalism.HermitianLattices.ZeroFreeRegionGL2 Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds
 

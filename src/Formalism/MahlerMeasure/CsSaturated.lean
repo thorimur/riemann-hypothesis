@@ -1,5 +1,4 @@
 import Formalism.MahlerMeasure.HasOrder
-import Formalism.MahlerMeasure.QuotientUpperBoundsOfPowerBounds
 
 namespace Formalism.GM.M
 

@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.FinitePrimesUnder
-import Formalism.PairingDivisors.StatementH
-import Formalism.PairingDivisors.PairingDivisorProofs.Height
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ReductionLemmaFirst
 
 open NumberField Polynomial IsDedekindDomain
 open Formalism.DivisionValues (vw lw)

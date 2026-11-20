@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiltrationRelIndexEqResidueCardPow
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DiagPairs
 open GlobalTheory.PRep GlobalTheory.SmGL Matrix ValuativeRel GlobalTheory.CompanionTheory.IwJac
 open scoped Classical
 set_option maxHeartbeats 1000000 in

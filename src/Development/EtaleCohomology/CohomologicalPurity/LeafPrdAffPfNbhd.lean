@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.CohomologicalPurity.LeafPrdAffPfQuot
+import Development.EtaleCohomology.CohomologicalPurity.InrFold
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

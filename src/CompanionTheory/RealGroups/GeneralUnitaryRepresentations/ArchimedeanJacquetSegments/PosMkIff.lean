@@ -1,4 +1,5 @@
 import CompanionTheory.RealGroups.GeneralUnitaryRepresentations.ArchimedeanJacquetSegments.Complementary
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
 
 noncomputable section
 

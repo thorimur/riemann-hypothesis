@@ -1,4 +1,4 @@
-import Development.WeilBound.ThetaLifts.Reductions.MetaDef
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IteratedLineDerivMemWeylAlg
 
 noncomputable section
 

@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvDifferentLatticeProductHermitianIsSelfDual
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLsB
 
 open NumberField
 

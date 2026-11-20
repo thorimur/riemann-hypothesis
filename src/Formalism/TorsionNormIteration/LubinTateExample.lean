@@ -6,9 +6,7 @@ import Formalism.TorsionNormIteration.InverseIntegralClasses.NormSigmaLeOne
 import Formalism.TorsionNormIteration.InverseIntegralClasses.MapSubtypeInjective
 import Formalism.TorsionNormIteration.InverseIntegralClasses.CoeffSubstAddCMulXPow
 import Formalism.TorsionNormIteration.InverseIntegralClasses.IsHomOfSubstEqSmul
-import Formalism.TorsionNormIteration.InverseIntegralClasses.TorsionNormIterProof
 import Formalism.TorsionNormIteration.InverseIntegralClasses.NormNatCastOfNotDvd
-import Formalism.TorsionNormIteration.InverseIntegralClasses.LTLemma
 
 namespace Formalism.LT
 

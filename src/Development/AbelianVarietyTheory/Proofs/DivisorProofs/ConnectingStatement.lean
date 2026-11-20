@@ -1,10 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InducesPl
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsGrpPullbackTangentCombination
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ToOverSurjective
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTateWeil
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitOfPowEqOne
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MemLatHTIffNormTanEvLe
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsEquivOfIsGrpPullback
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.UniqueIntegralLiftNormPInverse
 
 set_option autoImplicit false
 

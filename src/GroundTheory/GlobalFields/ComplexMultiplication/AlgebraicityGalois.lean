@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityClass
 
 open NumberField Module WeierstrassCurve IntermediateField

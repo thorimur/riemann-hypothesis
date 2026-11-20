@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.ManyEdges
 import Formalism.SharpRestriction.GrowthBounds.WittFrameLocaliserOrders
+import Formalism.SharpRestriction.GrowthBounds.TableLineDegreeFive
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.PadicExp
 
 namespace GroundTheory.LocalField

@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataHost
 import Development.AutomorphicArithmetic.PrimeDiscriminants.SmallRam
+import Mathlib.RingTheory.TotallySplit
 
 open NumberField IsDedekindDomain Ideal
 

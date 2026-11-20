@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QuotMeasUniq
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.LintegralMulRightOfMem
 

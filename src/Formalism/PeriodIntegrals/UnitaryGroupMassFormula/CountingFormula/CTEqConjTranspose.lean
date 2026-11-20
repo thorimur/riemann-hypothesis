@@ -1,6 +1,7 @@
-import Mathlib
 import Formalism.SatakeDualWeyl.Statement
 import Lemmata.MiscLemmasI.Imports
+import Mathlib.LinearAlgebra.Matrix.DotProduct
+import Mathlib.RingTheory.PicardGroup
 
 open Matrix
 open scoped ComplexOrder

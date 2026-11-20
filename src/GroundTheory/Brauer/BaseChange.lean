@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.Brauer.IsBrauerEquivalentIffNonemptyAlgEquiv
 import GroundTheory.Brauer.BaseChangeCSA
 set_option maxSynthPendingDepth 1

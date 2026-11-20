@@ -1,4 +1,7 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.ReductionBoundsTorsion.MomentEntryBounds.UnitaryConeEstimates.OmG
+import Mathlib.Analysis.CStarAlgebra.Matrix
+import Mathlib.Topology.Algebra.Group.Matrix
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

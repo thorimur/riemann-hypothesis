@@ -1,9 +1,5 @@
-import Formalism.LocalRingCardinality.DataForced
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.LpLower
 import Formalism.LocalToGlobal.Columns.CoefficientsModP
-import Formalism.LocalRingCardinality.MinkMEqMinkowskiNumber
-import Formalism.LocalRingCardinality.CoeNeZeroOfNotMem
 
 noncomputable section
 

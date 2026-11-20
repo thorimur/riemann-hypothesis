@@ -1,7 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.OnePlaceKF
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellDecomposition
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SettingConstruction
+import Formalism.FormalDegreeBessel.FinalBF
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellHermitian
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.UnipotentHeisenbergDecomposition
+import Formalism.SharpRestriction.CuspSpanNormBounds.NormalizedLocalScale
 
 open MeasureTheory Matrix
 open scoped InnerProductSpace ENNReal

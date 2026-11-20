@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ResV
+import Development.AbelianVarietyTheory.Definitions.Divisors.HasDefect
 
 set_option autoImplicit false
 

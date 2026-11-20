@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.RamDefs
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.QuadLiftUnr
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.NormRam
+import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsWeight
 
 open NumberField IsDedekindDomain GlobalTheory.CuspRep Formalism.L2.Host Formalism.ConjugateSelfDual UpperTheory.V.Published UpperTheory.CBC
 

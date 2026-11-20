@@ -2,11 +2,12 @@ import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TheoremIOfTwoLett
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TwoLetterLatticeGaussInverse
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ContractionOfPairingLemmas
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.SubCoeffP
-import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ImportsAlt
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.SubYDPsiMonomial
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TopLinePOf
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DetYNeZero
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DetFactsP
+import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.BlockSubstitutionBlockEmb
+import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.InitialMinorLiftFirstEntry
 
 namespace Formalism.MainNotions.flipOneThree.Pf
 

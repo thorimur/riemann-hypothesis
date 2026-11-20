@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StImageDimLe
 import ReciprocityTheory.CommutativeAlgebra.PolynomialHeights.HeightAddRingKrullDimQuotientMvPolynomialField
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

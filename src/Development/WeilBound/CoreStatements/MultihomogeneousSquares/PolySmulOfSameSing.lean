@@ -5,7 +5,8 @@ import Development.AutomorphicSpectrum.Proofs.GeometryProofs.CmpPairOfInputs
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.ImageCptReflOfGenPt
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CmpHodgeTied
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.AgreementPositiveStatement
-import Development.AbelianVarietyTheory.Proofs.ModuliProofs.ThetaUniformisationComplexAbelianVarietiesStatement
+import Development.AutomorphicSpectrum.Proofs.GeometryProofs.MapDomainRelationLiftCommutingSquare
+import Development.AutomorphicSpectrum.Proofs.GeometryProofs.SabMapId
 
 noncomputable section
 

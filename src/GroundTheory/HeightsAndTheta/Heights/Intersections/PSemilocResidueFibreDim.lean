@@ -1,9 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StSemilocResidueFibreDim
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsFibreDivSupp
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreTail
 import GroundTheory.HeightsAndTheta.Heights.Intersections.IsMultiProjPrimeImageZ
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.MixedFieldContraction.ContractMixedFieldStatement
 set_option maxSynthPendingDepth 1
 
 noncomputable section

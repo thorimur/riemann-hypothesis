@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.StatementsEnd
+import Mathlib.Algebra.Order.Star.Real
+import Std.Tactic.BVDecide.Normalize.BitVec
 set_option maxSynthPendingDepth 1
 
 noncomputable section

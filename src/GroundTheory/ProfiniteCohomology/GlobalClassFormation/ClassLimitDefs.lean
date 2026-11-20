@@ -1,7 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits.Sequence
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits.NormalFixingSubgroupGaloisClosure
-import GroundTheory.ProfiniteCohomology.GaloisModules.Discrete
+import GroundTheory.ProfiniteCohomology.GaloisModules.CoeGalRootsOfUnityHomApply
+import Mathlib.Combinatorics.Quiver.ReflQuiver
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

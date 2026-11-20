@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.LocalFields.Interface
 import GroundTheory.LocalFields.ExamplesLaurent
 import GroundTheory.LocalFields.SeparableClosure
 import GroundTheory.LocalFields.FormalGroups.LubinTateGroup

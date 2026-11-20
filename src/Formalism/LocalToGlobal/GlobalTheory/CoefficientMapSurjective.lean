@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.GlobalTheory.ColValOfTiedSOfRest
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.UnitTraceSumBounds.RankConditionsOfLayerTwo
 import Formalism.LocalToGlobal.Columns.TiedValRat
 import Formalism.LocalToGlobal.GlobalTheory.GL4.PColStd

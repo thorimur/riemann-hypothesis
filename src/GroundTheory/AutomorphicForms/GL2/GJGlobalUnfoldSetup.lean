@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJGlobalDefs
 import GroundTheory.AutomorphicForms.GL2.GJGlobalUnfoldCount
 import GroundTheory.AutomorphicForms.GL2.GJGlobalUnfoldRank
-import GroundTheory.AutomorphicForms.AutomorphicFormSpaces
 import GroundTheory.AutomorphicForms.CuspidalDiscreteness.ExistsLintegralConstantTermL2SqLe
 
 open MeasureTheory Set Function NumberField

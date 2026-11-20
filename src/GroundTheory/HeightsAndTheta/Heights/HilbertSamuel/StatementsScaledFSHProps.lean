@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsScaledFSTopPos
 set_option maxSynthPendingDepth 1
 

@@ -1,6 +1,6 @@
-import Formalism.LocalToGlobal.GroupLattices.JointServices
 import Formalism.LocalToGlobal.Divisibility.Inputs
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.LocalizationStructureHolds
+import Formalism.LocalRingCardinality.DataDIVDefs
+import Formalism.SizeWindowBrackets.ChainSlopeWindows.ExistsNsmulMem
 
 open Module NumberField IsDedekindDomain
 open Formalism.BasicNotions Formalism.BasicNotions.DV Formalism.L2.DIV Formalism.L2.Indef Formalism.HermitianLatticesTheory

@@ -1,8 +1,10 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.AdjoinInverseIsLocalizationAwayStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalizationKaehlerPrimeIdealStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.KaehlerBasisTowerStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.KaehlerFinrankFractionFieldStatement
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.RingHom.Smooth
+import Mathlib.RingTheory.Smooth.StandardSmoothOfFree
 
 namespace GlobalTheory.CompanionTheory.Ar.LocalStep
 

@@ -10,9 +10,9 @@ import Formalism.GL3MeanSquares.HookFormulaTorsion.ShortIntervalImpliesProgressi
 import Formalism.GL3MeanSquares.HookFormulaTorsion.CharacterEstimateOfHypothesis
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.LipschitzWeightAndMinimum
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.PrimeCongruenceConditions
-import Formalism.ZetaNonvanishing.GzLipschitz
 import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.EqOfLeOfAbsNormEq
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.FrameFacts
+import Mathlib.NumberTheory.LSeries.PrimesInAP
 
 noncomputable section
 

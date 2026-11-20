@@ -1,9 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigAEigenIntegralStabilizerStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigAEigenIntegralHaarStatement
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnipotentFundamentalDomainStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLeviCharacterModulusStatement
 
 open scoped TensorProduct NNReal Matrix

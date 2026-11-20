@@ -1,5 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafOneLocPf
-import Mathlib.AlgebraicGeometry.PullbackCarrier
+import Mathlib.RingTheory.Etale.StandardEtale
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite Polynomial GlobalTheory.EtC

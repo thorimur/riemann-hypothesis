@@ -1,8 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.SelfDualLatticeIndex
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.SelfDualLatticeLevel
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LocalLevelRelIndexAtLevelPrimeSelfDual
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OverLatticeIffSelfDualOverBase
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.MemLocLatOverLat
 
 namespace GlobalTheory.LevelIndex

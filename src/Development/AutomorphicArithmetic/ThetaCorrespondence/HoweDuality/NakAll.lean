@@ -1,10 +1,9 @@
-import Mathlib
-import Development.AutomorphicArithmetic.ThetaCorrespondence.HoweDuality.FactorApply
 import Development.AutomorphicArithmetic.ThetaCorrespondence.HoweDuality.RadFin
 import Development.AutomorphicArithmetic.ThetaCorrespondence.HoweDuality.Nak
 import Development.AutomorphicArithmetic.ThetaCorrespondence.HoweDuality.SlotBasic
 import Development.AutomorphicArithmetic.ThetaCorrespondence.HoweDuality.PartStable
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.TensorEqTopOrLeKerFiniteLengthModulesStatement
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
 open scoped TensorProduct
 open UpperTheory.Lit.HoweDuality
 

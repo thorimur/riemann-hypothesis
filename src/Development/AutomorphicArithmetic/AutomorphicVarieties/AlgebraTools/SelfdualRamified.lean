@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.AlmostSelfdual
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.SmithZeroOne
+import Mathlib.RingTheory.PicardGroup
 
 open Polynomial Matrix IsLocalRing TensorProduct
 

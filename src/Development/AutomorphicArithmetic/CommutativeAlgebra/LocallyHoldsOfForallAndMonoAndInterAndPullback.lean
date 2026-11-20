@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.LocallyExactCech
+import Mathlib.Condensed.Discrete.Characterization
 
 open CategoryTheory Limits AlgebraicGeometry Opposite UpperTheory.Et
 

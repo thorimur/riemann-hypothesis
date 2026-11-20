@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalSmoothPotentialGlue
 open scoped ContDiff Topology
 open Filter

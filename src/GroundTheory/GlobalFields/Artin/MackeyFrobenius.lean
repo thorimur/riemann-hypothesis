@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.Mackey
 set_option maxSynthPendingDepth 1
 

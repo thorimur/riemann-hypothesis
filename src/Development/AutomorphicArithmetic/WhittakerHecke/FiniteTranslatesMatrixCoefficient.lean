@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ShiftMap
 
 theorem UpperTheory.finite_translates_matrix_coefficient :

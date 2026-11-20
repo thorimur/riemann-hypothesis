@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.LambdaIndexTwo
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.StmtNumEOf
 
 noncomputable section
 

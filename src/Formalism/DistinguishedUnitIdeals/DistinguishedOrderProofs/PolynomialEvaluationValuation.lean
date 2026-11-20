@@ -1,10 +1,8 @@
-import Mathlib
 import Formalism.DistinguishedUnitIdeals.PhiFreeOfBasis
-import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.GoodOf
-import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.Graded
 import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.ThmEPrim
-import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.Descent
-import Formalism.WindowSums.PowerSeriesRelationList
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace Formalism.ExponentWindows.E
 

@@ -1,5 +1,7 @@
-import Mathlib
-import Formalism.DistinguishedUnitIdeals.CoprimeProd
+import Formalism.DistinguishedUnitIdeals.Statement
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

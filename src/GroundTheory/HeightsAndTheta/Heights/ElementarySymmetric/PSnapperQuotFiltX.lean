@@ -1,10 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.HomogeneousComponentMulForm
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PStepTwoFilt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PPrimeFiltrationExists
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PExtension
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PStepTwoPiece
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PIdealTwistFamily
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.SnapperQuotFiltSt
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

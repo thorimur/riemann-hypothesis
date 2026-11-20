@@ -1,4 +1,3 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.TCoefMInMMul
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PscoTCore
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TDualProd
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BarMSingle
@@ -9,7 +8,7 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LambdaMonomialCoeff
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DMuEqExtDerivation
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MuCoeffPartialDerivMuEqSuccMul
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefMPencil
-import Mathlib
+import Mathlib.RingTheory.PiTensorProduct
 
 section
 

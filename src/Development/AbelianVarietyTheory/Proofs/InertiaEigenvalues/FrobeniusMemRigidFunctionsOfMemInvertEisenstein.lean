@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ExistsAlgebraMapEqRoot
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NormPowLeNormFactorial
+import Mathlib.RingTheory.PowerSeries.WellKnown
 open PowerSeries GlobalTheory.BK Filter Topology
 
 namespace GlobalTheory.BK

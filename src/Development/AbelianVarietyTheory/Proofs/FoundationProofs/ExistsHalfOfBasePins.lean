@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.OneMapT
 import Formalism.LocalToGlobal.ProjectiveLattices.LevelPb
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GSplit

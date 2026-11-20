@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIntMatrixTransposeMulEqSmulOne
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

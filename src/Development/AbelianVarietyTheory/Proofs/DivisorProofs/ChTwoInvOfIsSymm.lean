@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExtFormAdjEqNegSecondForm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DdcExtensionTraceChernForms
 
 open Matrix Filter Topology GlobalTheory.HermFrame

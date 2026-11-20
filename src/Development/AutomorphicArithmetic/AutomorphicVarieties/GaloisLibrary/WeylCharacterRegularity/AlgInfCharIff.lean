@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HasCohomology
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ProjectionCompact
 

@@ -1,5 +1,6 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.DetRowsZero
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CvRhoOfParts
+import Formalism.HermitianCurvature.StatementB
+import Mathlib.Order.CompletePartialOrder
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Matrix Finset
 open scoped ContDiff

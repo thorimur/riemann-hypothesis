@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.RealPlaces.CupSequence
 import GroundTheory.ProfiniteCohomology.PoincarePairs.Devissage
+import GroundTheory.ProfiniteCohomology.RealPlaces.ConeMap
+import GroundTheory.ProfiniteCohomology.RealPlaces.HomologyMapProdFstProdLeftHomology
 set_option maxSynthPendingDepth 1
 
 noncomputable section

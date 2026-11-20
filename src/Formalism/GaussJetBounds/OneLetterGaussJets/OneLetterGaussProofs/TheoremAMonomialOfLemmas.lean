@@ -1,6 +1,9 @@
 import Formalism.GaussJetBounds.OneLetterGaussJets.StatementA
 import Formalism.GaussJetBounds.OneLetterGaussJets.StatementJ
-import Formalism.GaussJetBounds.GaussJetProofs.TheoremAOneMonomialLogLoss
+import Formalism.GaussJetBounds.GaussJetProofs.FrameCoeffMulLin
+import Formalism.GaussJetBounds.GaussJetProofs.LemmaRA
+import Formalism.GaussJetBounds.GaussJetProofs.ThmAJet
+import Formalism.IncomingBounds.WeightIdentities
 
 noncomputable section
 open scoped BigOperators

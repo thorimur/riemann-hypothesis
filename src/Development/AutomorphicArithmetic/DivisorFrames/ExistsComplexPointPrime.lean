@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MemRadicalOfHolomorphicRatioTendsto
 import Formalism.LocalToGlobal.ProjectiveLattices.ReadAlg
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 open Formalism.L2.Pj in
 theorem UpperTheory.exists_complex_point_prime :

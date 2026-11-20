@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.RevPosRevPos
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsVolumeTransportOfLatticeIsometry
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.TraceInverseGramConjSmulEq
 
 noncomputable section

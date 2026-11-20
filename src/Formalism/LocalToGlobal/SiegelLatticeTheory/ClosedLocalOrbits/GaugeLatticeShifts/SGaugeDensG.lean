@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SGaugeDensB
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open MeasureTheory Filter Topology Set Function
 open scoped ENNReal

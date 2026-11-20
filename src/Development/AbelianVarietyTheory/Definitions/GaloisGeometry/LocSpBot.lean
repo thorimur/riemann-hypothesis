@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ValRat
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.IsOrthCo
 

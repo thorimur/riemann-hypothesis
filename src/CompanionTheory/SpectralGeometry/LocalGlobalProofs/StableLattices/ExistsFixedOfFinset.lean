@@ -1,5 +1,4 @@
-import Mathlib
-import CompanionTheory.RealGroups.UnitaryAdmissibility.ArchimedeanUnitaryDual.StDefinite
+import Development.AbelianVarietyTheory.Definitions.Foundations.ToContinuousLinearMapMemHomIn
 
 noncomputable section
 

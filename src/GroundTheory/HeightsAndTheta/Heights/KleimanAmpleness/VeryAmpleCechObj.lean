@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.VeryAmpleCechSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.StatementsSerrePoly
 set_option maxSynthPendingDepth 1
 

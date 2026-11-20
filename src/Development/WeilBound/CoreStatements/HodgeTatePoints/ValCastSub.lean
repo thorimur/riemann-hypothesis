@@ -1,7 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ValLeOfMem
 import Development.WeilBound.CoreStatements.HodgeTatePoints.ExistsDualOf
-import Development.WeilBound.CoreStatements.HodgeTatePoints.CompMemAddFun
 import ReciprocityTheory.DualLattices.HasLenLeOfSurj
 
 open NumberField ReciprocityTheory.PGsh.L2 ReciprocityTheory.PGsh.Up GlobalTheory.CompanionTheory.Ar GlobalTheory.CompanionTheory.Ar.GR GlobalTheory.CompanionTheory.Ar.Num.FamEx

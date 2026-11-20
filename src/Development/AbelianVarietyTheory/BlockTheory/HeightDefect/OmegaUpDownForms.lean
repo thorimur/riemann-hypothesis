@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.WeilIdempotents
+import Formalism.LocalToGlobal.BesselHermitianTheta.MinfDensity
 
 noncomputable section
 

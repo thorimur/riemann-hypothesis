@@ -1,4 +1,7 @@
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.QaRowStrictMono
+import Formalism.GradedWeylDivisibility.StatementD
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

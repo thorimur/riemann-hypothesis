@@ -1,7 +1,7 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerOrbitVolume.SdUniq
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerOrbitVolume.DensInfAll
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.GradedPowerSeriesLemmas
+import Mathlib.Analysis.Distribution.SchwartzSpace.Fourier
 
 noncomputable section
 

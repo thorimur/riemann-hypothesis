@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataArith
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open Module NumberField ComplexOrder
 

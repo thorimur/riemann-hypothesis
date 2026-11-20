@@ -1,6 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDRStepBRules
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RadialRaisingTopOfParts
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HasDerivAtNormPow
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.QminorZero
 
 open Matrix
 

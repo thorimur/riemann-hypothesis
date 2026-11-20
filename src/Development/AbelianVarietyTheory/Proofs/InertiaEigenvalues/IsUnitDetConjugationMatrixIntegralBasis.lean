@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.OverExtAlgebraMap
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsLocalRingOfIdem
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.UnitLemmaGroup
+import Mathlib.Tactic.ENatToNat
 open GlobalTheory.UnitLemma GlobalTheory.UnitLemma.Unr Polynomial
 
 namespace GlobalTheory.UnitLemma.Unr

@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.GrowthExclusionSumEq
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.NcIotaInj
 
 noncomputable section
 

@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.CharacterGerms.IteratePderivTripleMultiplication
-import Formalism.LocalToGlobal.CharacterGerms.CoeffLMulCvFrob
 
 set_option autoImplicit false
 

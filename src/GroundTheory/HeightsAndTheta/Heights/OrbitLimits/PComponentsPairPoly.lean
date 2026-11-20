@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.Assembly
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFibreBound
 set_option maxSynthPendingDepth 1
 
 noncomputable section

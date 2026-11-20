@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.CyclotomicLocalNorms.NormLeOneIffIsIntegral
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.ExistsDvdQKPowSubOne
+import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
 
 noncomputable section
 

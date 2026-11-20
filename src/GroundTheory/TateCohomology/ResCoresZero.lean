@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.TateCohomology.CoresRes
 import GroundTheory.TateCohomology.TateZeroClass
 set_option maxSynthPendingDepth 1

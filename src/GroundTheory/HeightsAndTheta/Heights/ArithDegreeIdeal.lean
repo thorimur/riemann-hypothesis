@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithDegreeExact
+import GroundTheory.HeightsAndTheta.Heights.HermitianSum
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

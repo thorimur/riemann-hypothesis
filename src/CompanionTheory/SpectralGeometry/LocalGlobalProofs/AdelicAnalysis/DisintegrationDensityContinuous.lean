@@ -1,6 +1,6 @@
-import Mathlib
-import Formalism.UnipotentAdelicQuotients.SWXSDefs
 import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GenusMassVolumes
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open MeasureTheory Topology Matrix
 open scoped ENNReal NNReal

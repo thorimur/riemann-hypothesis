@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsChartEnergy
+import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsChartMass
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

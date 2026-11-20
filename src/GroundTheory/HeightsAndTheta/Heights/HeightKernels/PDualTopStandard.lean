@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.ScaledExample
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualStdBaseChange
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsGrassLinesProj

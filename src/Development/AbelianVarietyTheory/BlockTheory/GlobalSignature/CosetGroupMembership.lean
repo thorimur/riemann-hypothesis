@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.HermitianColumns.InLocalDiscriminantKernel
-import Formalism.LocalRingCardinality.DataLevelD
+import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.ConjugateFieldNorm
 
 noncomputable section

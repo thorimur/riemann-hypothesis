@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsPerturbMonomial
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenDegAmple
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSmallGenTwist

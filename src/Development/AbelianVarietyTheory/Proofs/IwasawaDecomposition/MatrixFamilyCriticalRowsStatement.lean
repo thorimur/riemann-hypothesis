@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MatrixFamilyCriticalRows
-import Mathlib
 open Matrix
 
 set_option maxHeartbeats 1000000 in

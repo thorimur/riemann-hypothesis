@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ETExSt
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.EtValLink
-import Formalism.LocalToGlobal.ProjectiveLattices.Adm3OfExtension
+import Formalism.LocalToGlobal.ProjectiveLattices.HasDataCondition
 
 set_option autoImplicit false
 

@@ -1,7 +1,5 @@
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.FiniteMinimalPrimes
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.ChPrime
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.JacChart
-import Mathlib
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 noncomputable section
 

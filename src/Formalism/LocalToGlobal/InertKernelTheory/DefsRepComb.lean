@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.InertKernelTheory.DefsRep
 import Formalism.LocalToGlobal.InertKernelTheory.DefsInt
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.KerTh
 import Formalism.LocalToGlobal.KernelLattices.FirstKernelLawReading

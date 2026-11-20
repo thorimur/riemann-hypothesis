@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.TwoSplitIdem
 import Formalism.LocalRingCardinality.SpanPowerMembership.Adelic
+import Formalism.SharpRestriction.GlobalSchurBounds.StandardLattice
 
 noncomputable section
 

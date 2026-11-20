@@ -1,4 +1,5 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardSumNormFibres
+import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Card
 
 open NumberField Module
 

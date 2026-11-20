@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.ColumnsProofs.HFSLin
+import Formalism.LocalToGlobal.Columns.HeckeSp
 
 open Module NumberField IsDedekindDomain Polynomial
 

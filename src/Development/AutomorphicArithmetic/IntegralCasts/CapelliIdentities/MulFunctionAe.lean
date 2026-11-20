@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MultiplicationFunction
 
 theorem UpperTheory.Reformulated.B.MulFunctionAe.mulFn_ae.{u_1} :

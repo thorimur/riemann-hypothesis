@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRingRChain
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DivisibilityLatticeDescendsIntegralExt
+import Mathlib.Data.Matrix.ColumnRowPartitioned
 
 set_option autoImplicit false
 

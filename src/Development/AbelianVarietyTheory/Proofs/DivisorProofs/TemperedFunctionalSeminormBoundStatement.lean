@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TemperedFunctionalSeminormBound
-import Mathlib
 open MeasureTheory
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.tempered_functional_seminorm_bound : ∀ {D : Type} [NormedAddCommGroup D] [NormedSpace ℝ D] (T : SchwartzMap D ℂ →L[ℂ] ℂ),

@@ -1,8 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.ComplexUniformizationSigOne
-import Development.AutomorphicArithmetic.RealSpanData.RealData
-import Development.AutomorphicArithmetic.RealSpanData.JSpan
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HermitianCongrOfPositiveIndexEq
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.CategoryTheory.Monoidal.Cartesian.Over
 
 set_option autoImplicit false
 

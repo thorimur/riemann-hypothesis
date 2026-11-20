@@ -1,5 +1,7 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.CharTableIsUnit
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
+import ReciprocityTheory.DualLattices.TensorSpan
 
 noncomputable section
 

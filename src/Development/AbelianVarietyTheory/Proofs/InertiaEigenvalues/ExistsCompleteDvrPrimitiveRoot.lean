@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsAbsoluteValueOfIsDiscreteValuationRing
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.NumberTheory.NumberField.Cyclotomic.Basic
 
 open NumberField IsDedekindDomain IsDedekindDomain.HeightOneSpectrum IsLocalRing
 

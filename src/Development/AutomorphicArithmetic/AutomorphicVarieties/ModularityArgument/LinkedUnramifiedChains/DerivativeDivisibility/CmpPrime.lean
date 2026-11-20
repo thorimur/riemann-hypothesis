@@ -1,4 +1,7 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.LinkedUnramifiedChains.CmpPrime
+import Mathlib.RingTheory.Artinian.Instances
+import Mathlib.RingTheory.LocalProperties.Reduced
+import Mathlib.Tactic.Polynomial.Basic
 
 open Polynomial
 

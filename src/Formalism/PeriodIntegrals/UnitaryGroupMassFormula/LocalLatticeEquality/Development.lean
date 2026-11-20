@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.LocLatEq
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.CoordRatioDeg
+import Mathlib.RingTheory.Henselian
 set_option maxSynthPendingDepth 1
 
 noncomputable section

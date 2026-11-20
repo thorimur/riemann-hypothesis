@@ -1,4 +1,5 @@
 import Formalism.SatakeDualWeyl.Statement
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

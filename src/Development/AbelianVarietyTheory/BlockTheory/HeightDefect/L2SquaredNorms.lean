@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.SectionOfLineBundleOne
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsLieBasis
+import Mathlib.Algebra.Order.Star.Real
 
 noncomputable section
 

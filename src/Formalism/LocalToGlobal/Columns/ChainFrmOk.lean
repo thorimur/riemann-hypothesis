@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.Columns.TargetChF
 import Formalism.LocalToGlobal.Columns.DGamAut
 
 open NumberField IsDedekindDomain Module Matrix

@@ -2,7 +2,6 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosureOrbits.FinClosure
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.FormsIrr
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.ClsBasic
-import GroundTheory.AutomorphicForms.UnitaryAdmissible
 
 open MeasureTheory NumberField Set Filter Topology
 open GroundTheory.Automorphic GroundTheory.Automorphic.Reduction GroundTheory.Automorphic.RightCosetSpace

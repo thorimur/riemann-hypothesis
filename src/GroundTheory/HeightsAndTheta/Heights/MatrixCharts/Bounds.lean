@@ -1,7 +1,11 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.Statements
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.DetIneq
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.BoundsY
+import Mathlib.Analysis.Real.Pi.Bounds
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.MCBounds

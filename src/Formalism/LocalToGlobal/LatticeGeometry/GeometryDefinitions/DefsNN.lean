@@ -1,7 +1,5 @@
 import Formalism.LocalToGlobal.LatticeGeometry.GeometryDefinitions.ClsSum
 import Formalism.GradedWeylDivisibility.FinalD
-import Formalism.RealPlaceAnalysis.FockPairGl
-import Formalism.LocalRingCardinality.DataCoeff
 
 noncomputable section
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataParams₂
 import Formalism.SharpRestriction.Divisibility.WeightThresholdDefs
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsLimDeg
 

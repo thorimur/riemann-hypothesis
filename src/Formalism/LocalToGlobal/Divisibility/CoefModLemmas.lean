@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.Divisibility.CoefMod
+import Formalism.GradedWeylDivisibility.FinalB
 
 open MvPolynomial NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

@@ -1,6 +1,6 @@
-import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.CharpolyRevMap
 import Formalism.CharacterColumnKernels.IdempotentNormalForms.IdemNormalForm
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AbsolutelyIrreducibleSpan
+import Formalism.WachLatticeTwists.RamifiedBlockRings.RightIdealImageOfSurjective
 
 open Finset Classical
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMEulerProducts.StepRegroup
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 open NumberField
 

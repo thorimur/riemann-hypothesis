@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.FrameInvPoly
 import Formalism.SharpRestriction.LevelLetterCocycles.LocalizationQuotientSeparatedDvd
 
 noncomputable section

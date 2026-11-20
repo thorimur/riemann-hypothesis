@@ -1,8 +1,6 @@
-import Mathlib
-import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.IsChart
-import Development.AutomorphicArithmetic.CommutativeAlgebra.SpecializationTensorRingHomProperties
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsSpecializationOfEvalNeZero
 import Development.AutomorphicArithmetic.CommutativeAlgebra.TensorDedekindLocalUniformizer
+import GroundTheory.FunctionField.PlaceBridge
 
 open GroundTheory.FunctionField UpperTheory.Et.Sel
 open scoped TensorProduct

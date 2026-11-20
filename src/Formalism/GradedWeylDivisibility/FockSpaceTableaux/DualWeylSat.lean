@@ -1,4 +1,6 @@
 import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LSatLemmas
+import Mathlib.Algebra.AffineMonoid.UniqueSums
+import Mathlib.Tactic.ENatToNat
 
 open MvPolynomial
 

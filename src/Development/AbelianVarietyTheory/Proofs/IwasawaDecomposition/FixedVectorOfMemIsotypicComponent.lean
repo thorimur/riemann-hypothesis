@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.GaloisLevelStructure.DefsAut
 open Formalism.L2 Formalism.AUTREP ReciprocityTheory.Aut NumberField
 

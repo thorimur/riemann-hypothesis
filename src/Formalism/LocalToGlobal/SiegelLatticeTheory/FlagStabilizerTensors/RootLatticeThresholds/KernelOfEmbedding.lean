@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.ParametersTermRelations
+import Mathlib.Analysis.InnerProductSpace.Trace
 
 noncomputable section
 

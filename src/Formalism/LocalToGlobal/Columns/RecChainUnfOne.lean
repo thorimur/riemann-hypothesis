@@ -1,8 +1,5 @@
 import Formalism.LocalToGlobal.Columns.Record
-import Formalism.LocalToGlobal.KernelLattices.ColInst
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ColInst
-import Formalism.LocalToGlobal.KernelLattices.FirstKernelLawReading
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.PeriodLatticeFinitelyGenerated
 
 open NumberField IsDedekindDomain Module Matrix MvPolynomial
 

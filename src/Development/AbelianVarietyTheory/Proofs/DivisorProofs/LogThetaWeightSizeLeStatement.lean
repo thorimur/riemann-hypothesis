@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogThetaWeightSizeLe
 open Real
 set_option maxHeartbeats 1000000 in

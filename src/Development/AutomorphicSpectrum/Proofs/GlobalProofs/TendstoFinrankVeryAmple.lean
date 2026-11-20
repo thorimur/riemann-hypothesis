@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsAlgClosedBaseChange
-import Development.AutomorphicSpectrum.PublishedTheorems.Geometry₂.NefRR
 import Development.AutomorphicSpectrum.PublishedTheorems.Geometry₂.ProjLineLimit
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChartLatticeLeSpanNorm
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChartLatticeSpanTwistShift
@@ -9,17 +6,13 @@ import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteDimension
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCoordNeZero
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.KleimanGenericPointSectionInput
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.KleimanInputNefAmpleSectionCount
-import Development.WeilBound.CoreStatements.HodgeTatePoints.KTwins
-import Development.WeilBound.CoreStatements.HodgeTatePoints.SiuaKodOf
 import Development.WeilBound.CoreStatements.HodgeTatePoints.SiubOf
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.AssemblyBase
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PVeryAmpleEmbedSections
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.AssemblyBase
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PShiftSectionBound
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PShiftQuotientBound
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PHyperplaneQuotientBound
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PDiagonalSectionDifference
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSectionLatticeFinite
+import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PLiftBirationalNef
+import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PNefPlusAmpleDegree
 
 set_option autoImplicit false
 

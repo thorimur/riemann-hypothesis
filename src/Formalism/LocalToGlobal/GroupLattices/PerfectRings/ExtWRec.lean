@@ -1,4 +1,3 @@
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 import Formalism.LocalToGlobal.GroupLattices.PerfectRings.ExtWEx
 
 noncomputable section

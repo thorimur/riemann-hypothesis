@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.LocalClauseOfFrobeniusHyps
-import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.ExistsXPowMul
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.SmulSDivMem
-import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.RkMulVBFilCris
 
 noncomputable section
 

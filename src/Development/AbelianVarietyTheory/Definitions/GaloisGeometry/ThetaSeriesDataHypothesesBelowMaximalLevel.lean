@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.InertKernelTheory.StatementAdmAt
-import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.ClsChartedLabAt
-import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.FrobeniusSqIterateTeichmuller
 
 noncomputable section
 

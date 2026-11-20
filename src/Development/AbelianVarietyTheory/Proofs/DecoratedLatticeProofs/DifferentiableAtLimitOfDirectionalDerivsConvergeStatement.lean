@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DifferentiableAtLimitOfDirectionalDerivsConverge
-import Mathlib
 open scoped ContDiff Topology
 
 set_option maxHeartbeats 1000000 in

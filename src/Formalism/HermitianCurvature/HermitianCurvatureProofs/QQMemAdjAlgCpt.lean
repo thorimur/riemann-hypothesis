@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CsliceContinuous
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.InvMemOfKappa
 
 open Matrix MeasureTheory
 open scoped ComplexConjugate InnerProductSpace ContDiff

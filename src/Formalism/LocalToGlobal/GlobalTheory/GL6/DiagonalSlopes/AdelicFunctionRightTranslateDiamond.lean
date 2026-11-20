@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL6.Statement
-import Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.CharacterFiniteLevelZeroOfForms
+import Formalism.LocalToGlobal.GroupLattices.DownNaturalLevelZero
+import Formalism.SharpRestriction.GlobalSchurBounds.ProductFirstZerothParts
 
 noncomputable section
 

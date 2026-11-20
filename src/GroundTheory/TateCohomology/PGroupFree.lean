@@ -1,7 +1,10 @@
-import Mathlib
-import GroundTheory.TateCohomology.InducedNorm
-import GroundTheory.TateCohomology.TateAddEquivAbelianizationTateClass
 import GroundTheory.TateCohomology.PGroupFixed
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.RepresentationTheory.Coinduced
+import Mathlib.RepresentationTheory.Homological.GroupHomology.LowDegree
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.GroupCoh

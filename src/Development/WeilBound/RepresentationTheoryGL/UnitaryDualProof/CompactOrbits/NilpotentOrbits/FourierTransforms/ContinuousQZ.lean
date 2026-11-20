@@ -1,5 +1,6 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.BaseP
 import GroundTheory.AutomorphicForms.WhittakerDistribution
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

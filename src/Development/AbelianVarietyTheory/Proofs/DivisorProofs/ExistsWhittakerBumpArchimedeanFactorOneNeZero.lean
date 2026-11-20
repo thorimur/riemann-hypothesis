@@ -1,4 +1,6 @@
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SuperDiagEqSdM
+import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
+import Mathlib.CategoryTheory.Countable
 open NumberField IsDedekindDomain GlobalTheory.CuspRep Matrix MeasureTheory GlobalTheory.WhitBump
 open scoped ContDiff
 

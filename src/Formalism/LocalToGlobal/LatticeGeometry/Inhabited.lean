@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.LatticeGeometry.ShimuraSheafOfIndefiniteSubspace
 import Formalism.LocalToGlobal.LatticeGeometry.InhabLoc
 import Formalism.LocalToGlobal.LatticeGeometry.LevPrPrime
 import Formalism.LocalToGlobal.LatticeGeometry.ViewsB

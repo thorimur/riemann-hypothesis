@@ -1,9 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzContinuousAtOfPointwiseOfBounded
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FourierModulatedSchwartzBoundsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFourierSuperpositionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IteratedFDerivWeightedIntegralStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPairingIntegralCommuteStatement
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
 
 open MeasureTheory Filter Topology
 

@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSH2
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.PointStep
 
 open MeasureTheory
 open scoped ComplexConjugate ContDiff

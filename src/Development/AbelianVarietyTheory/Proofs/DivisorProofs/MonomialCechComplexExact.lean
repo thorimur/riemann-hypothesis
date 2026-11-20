@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.DlogRatioVolumeFormNeZero
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsFlatLift
 
 open GlobalTheory.PD GlobalTheory.CechDR KaehlerDifferential
 

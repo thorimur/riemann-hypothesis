@@ -1,11 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ScalesBy
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRealIdeleFlow
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsContinuousSplitTorusSection
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplitTorusElementUnique
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplitTorusElementMul
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplitTorusInLeviParabolic
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IdelicFrameTorusElementMatrixEqStatement
 
 open scoped TensorProduct NNReal ENNReal Matrix
 open NumberField MeasureTheory Filter Topology Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes GlobalTheory.AdelicU GlobalTheory.SiegelSet GlobalTheory.ResLine GlobalTheory.ResidueEisenstein

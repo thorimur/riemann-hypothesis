@@ -1,7 +1,7 @@
-import Mathlib
 import Formalism.PeriodIntegrals.ZerosWindowIn
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LGrowthDefs
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LGrowthFE
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

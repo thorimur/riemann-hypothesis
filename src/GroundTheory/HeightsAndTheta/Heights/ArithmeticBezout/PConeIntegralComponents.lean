@@ -1,11 +1,9 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeComponents
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeMeetNull
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConePtsIntegral
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PComplexFibreCycle
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeLogBound
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PGenericFibreDim
-import GroundTheory.HeightsAndTheta.Heights.ChowForms.Statements
+import Mathlib.Topology.MetricSpace.HausdorffDimension
 set_option maxSynthPendingDepth 1
 
 noncomputable section

@@ -1,8 +1,7 @@
 import Formalism.HermitianCurvature.CompositeFormulaLevelZero
-import Mathlib.Analysis.Fourier.FourierTransform
 import Mathlib.Analysis.Fourier.Inversion
-import Mathlib.MeasureTheory.Measure.Haar.NormedSpace
-import Mathlib.MeasureTheory.Measure.Haar.InnerProductSpace
+import Mathlib.Analysis.Real.Pi.Bounds
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open MeasureTheory Real
 open scoped FourierTransform RealInnerProductSpace ComplexConjugate

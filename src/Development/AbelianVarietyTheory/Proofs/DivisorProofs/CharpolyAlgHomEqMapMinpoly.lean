@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.Brauer.TensorSimple
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 open scoped TensorProduct
 
 namespace GlobalTheory.CsaCharpoly

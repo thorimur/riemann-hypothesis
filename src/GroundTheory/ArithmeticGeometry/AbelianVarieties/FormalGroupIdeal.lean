@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.FormalGroupInverse
+import GroundTheory.LocalFields.FormalGroups.Basics
+import Mathlib.RingTheory.AdicCompletion.Topology
 
 namespace GroundTheory.Arith.Abelian
 

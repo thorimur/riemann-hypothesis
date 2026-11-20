@@ -1,5 +1,7 @@
 import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.RecAct
 import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.FramesTr
+import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.LatticeComparisonCompatible
+import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ValUniqOf
 
 noncomputable section
 

@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.FunctionField.PlaceBasic
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.NumberTheory.RamificationInertia.Valuation
 
 namespace GroundTheory.FunctionField
 

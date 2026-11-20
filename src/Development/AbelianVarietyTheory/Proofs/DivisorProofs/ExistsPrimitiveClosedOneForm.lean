@@ -1,7 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsOpenGraph
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtaleSpaceCoveringMapStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtaleLiftGlobalPrimitiveStatement
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.MeasureTheory.Integral.CurveIntegral.Poincare
 
 namespace GlobalTheory.PrimLift
 

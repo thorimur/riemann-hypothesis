@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.SquareIntegrableInnerProduct
+import Mathlib.MeasureTheory.Function.LpSpace.DomAct.Continuous
 
 noncomputable section
 

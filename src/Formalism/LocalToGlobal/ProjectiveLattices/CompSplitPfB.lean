@@ -1,7 +1,7 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.IsGenFrGenFr
 import Formalism.LocalToGlobal.ProjectiveLattices.PetersonNormSubspace
 import Formalism.LocalToGlobal.ProjectiveLattices.CompFin
 import Formalism.LocalToGlobal.ProjectiveLattices.CompSplitPfA
+import Mathlib.SetTheory.ZFC.PSet
 
 noncomputable section
 

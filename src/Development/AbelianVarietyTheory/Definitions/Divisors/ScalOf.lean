@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsDeltaDelAtOwnAt
+import Development.AbelianVarietyTheory.Definitions.Divisors.RealisedChainTorusEq
 
 set_option autoImplicit false
 

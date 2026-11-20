@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.FiniteMinimalPrimes
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.ChPrime
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsSncModel
 
 noncomputable section
 

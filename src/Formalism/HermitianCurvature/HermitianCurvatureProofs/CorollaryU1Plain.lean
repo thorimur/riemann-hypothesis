@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementU
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.UsCompose
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.CutoffPlainAndSmoothed
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.UsCost

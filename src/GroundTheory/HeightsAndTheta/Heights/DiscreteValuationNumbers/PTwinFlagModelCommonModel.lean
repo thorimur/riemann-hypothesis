@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.ImportsBisExtra
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.ImportsTerSide
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.ImportsTerTail

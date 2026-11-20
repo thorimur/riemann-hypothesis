@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.Adele.BaseChange
 import GroundTheory.GlobalFields.IdeleGroups.InfiniteProjInfiniteEmbeddingOfNe
 

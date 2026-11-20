@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.ThPinsR
 import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.RationalFormValues
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.TensorMapDescent

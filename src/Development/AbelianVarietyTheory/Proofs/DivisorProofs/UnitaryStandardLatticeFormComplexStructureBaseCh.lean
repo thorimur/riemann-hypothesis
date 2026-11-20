@@ -1,5 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BasisApply
+import Mathlib.LinearAlgebra.BilinearForm.TensorProduct
+import Mathlib.LinearAlgebra.Matrix.PosDef
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 open NumberField
 open scoped TensorProduct
 

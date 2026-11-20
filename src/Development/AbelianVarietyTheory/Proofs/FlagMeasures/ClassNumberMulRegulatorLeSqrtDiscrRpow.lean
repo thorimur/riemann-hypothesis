@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.HermitianLattices.StatementMass
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.RegulatorLeSumSmallIdealsInClassStatement
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SumAbsNormRpowNegLeDedekindZetaBoundStatement
 open MeasureTheory NumberField Finset

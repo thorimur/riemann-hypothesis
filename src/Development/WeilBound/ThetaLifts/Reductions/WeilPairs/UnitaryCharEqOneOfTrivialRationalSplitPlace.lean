@@ -1,7 +1,6 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.ExistsSplitAt
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.WeilPairData.ImportsAlt
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.WeilPairData.DoubledTargetWeilTransportRestrictFirstFactorImp
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilTensorModels
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicSplit
 
 set_option linter.unusedSectionVars false
 

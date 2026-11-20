@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.SqLMat
+import Formalism.LocalToGlobal.KernelLattices.ColumnData.ColumnDataEquations.GMConjTranspose
 
 noncomputable section
 open NumberField Formalism.BasicNotions Classical Matrix

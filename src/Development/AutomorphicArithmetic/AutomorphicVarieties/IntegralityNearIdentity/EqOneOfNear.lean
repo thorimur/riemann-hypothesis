@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsExtraAlt
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.EqOneOfNear
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsExtraBis

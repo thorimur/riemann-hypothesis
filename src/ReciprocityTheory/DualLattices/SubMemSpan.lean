@@ -1,5 +1,6 @@
 import ReciprocityTheory.DualLattices.LinPairStatement
 import ReciprocityTheory.DualLattices.IsPairingValueAddRight
+import ReciprocityTheory.DualLattices.IsFibreSq
 
 noncomputable section
 

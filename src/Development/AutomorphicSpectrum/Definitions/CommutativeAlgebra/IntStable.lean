@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Statements
 
 namespace GlobalTheory.CompanionTheory.Ar.HS

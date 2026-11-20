@@ -1,5 +1,8 @@
 import ReciprocityTheory.L2DbarEstimates.LeviForms.BergmanExistsStatement
 import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.TsupportDbSubset
+import Mathlib.RingTheory.PiTensorProduct
+import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.ChartSymmEventuallyEq
+import ReciprocityTheory.L2DbarEstimates.JacobianInterpolationStatement
 
 universe u
 

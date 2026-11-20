@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.LiftFrameEmbeddingBase
+import Development.AbelianVarietyTheory.Definitions.Divisors.HasBlockOfOccurs
 
 set_option autoImplicit false
 

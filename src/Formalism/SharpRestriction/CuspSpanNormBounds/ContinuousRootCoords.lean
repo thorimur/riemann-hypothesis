@@ -1,4 +1,8 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.SpanMemOfImage
+import Formalism.SharpRestriction.CuspSpanNormBounds.StarVecMulDM
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.CategoryTheory.Countable
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open MeasureTheory Matrix Finset
 

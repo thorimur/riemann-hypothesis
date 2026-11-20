@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.EllipticTorsion.Statement
 
 open PowerSeries

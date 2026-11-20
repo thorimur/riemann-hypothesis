@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CutsSecOfIsLat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatticeUniquenessOfCovering
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentSectionsFormFrame

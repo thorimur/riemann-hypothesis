@@ -5,6 +5,7 @@ import Formalism.LocalToGlobal.InertKernelTheory.DefsFrONB
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.UnitSubstOfLoc
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.TestVectorMemSchwartzBruhat
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.AlgTrans
+import Formalism.LocalToGlobal.InertKernelTheory.OneCopyTh1S
 
 noncomputable section
 open scoped BigOperators Matrix

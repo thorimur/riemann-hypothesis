@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.StrongApproxE
+import Formalism.SharpRestriction.CuspSpanNormBounds.PsiEDef
 
 noncomputable section
 

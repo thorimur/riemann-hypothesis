@@ -1,9 +1,6 @@
-import Mathlib
 import GroundTheory.TateCohomology.TateCup
-import GroundTheory.TateCohomology.CupTateShift
 import GroundTheory.TateCohomology.CupTateNatural
 import GroundTheory.TateCohomology.CupFunctorial
-import GroundTheory.TateCohomology.Annihilation
 set_option maxSynthPendingDepth 1
 
 noncomputable section

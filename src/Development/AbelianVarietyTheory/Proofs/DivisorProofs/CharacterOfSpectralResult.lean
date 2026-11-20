@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsWeilChar
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegralPointExtensionSplit
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTorsionSectionPullback

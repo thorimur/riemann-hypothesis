@@ -1,6 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ModelFPfF
-import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.NinLamPf
-import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DvdCondition
+import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ModelFPfB
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PublishedTheorems.JacquetShalikaBound.FormQuasiInvariantMirabolic
+import GroundTheory.AutomorphicForms.MacdonaldWhittakerHecke
 
 noncomputable section
 

@@ -2,6 +2,7 @@ import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfRec
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfAB
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfBA
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfBeta
+import Formalism.SharpRestriction.LevelLetterCocycles.ClassMapStep
 
 noncomputable section
 

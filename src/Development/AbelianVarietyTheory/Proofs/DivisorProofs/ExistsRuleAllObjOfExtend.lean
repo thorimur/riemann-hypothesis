@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HilbertKodairaSpencer
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitObj
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRuleAllObjOfThreeTwo
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EqOfEqOnRapoportUnitSix
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLevObjRuleEqOfExtend

@@ -1,5 +1,13 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FubiniStudyChern
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.Complex.Circle
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.Analysis.InnerProductSpace.Laplacian
+import Mathlib.MeasureTheory.Constructions.HaarToSphere
+import Mathlib.RepresentationTheory.Basic
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.FlagBundles

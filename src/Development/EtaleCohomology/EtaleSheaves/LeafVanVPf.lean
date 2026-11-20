@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafVanStalk
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC CochainComplex CochainComplex.HomComplex

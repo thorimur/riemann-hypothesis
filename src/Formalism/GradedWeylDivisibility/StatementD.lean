@@ -1,4 +1,5 @@
-import Formalism.GradedWeylDivisibility.FinalC
+import Formalism.GradedWeylDivisibility.StatementC
+import Mathlib.Tactic.Polynomial.Basic
 
 open MvPolynomial
 

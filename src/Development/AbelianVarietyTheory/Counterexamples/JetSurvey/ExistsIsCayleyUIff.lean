@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UpqRep
 import Formalism.FormalDegreeBessel.FormalDegreeRatio.GBasic
+import Mathlib.Analysis.Matrix.Spectrum
 
 open Matrix Finset PI.UpqRep
 

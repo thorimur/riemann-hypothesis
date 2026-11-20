@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HsRealSmulRight
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.MeasurableOfContinuousOnZero
+import Mathlib.Analysis.Calculus.FDeriv.Pi
 
 open MeasureTheory Filter Topology
 open scoped ComplexConjugate ContDiff

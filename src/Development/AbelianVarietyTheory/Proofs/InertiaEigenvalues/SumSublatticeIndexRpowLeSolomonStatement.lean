@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SumSublatticeIndexRpowLeSolomon
 open MeasureTheory Filter Topology
 open scoped InnerProductSpace BigOperators

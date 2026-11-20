@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.StandardDeltaIntegralCoeffs
 import Formalism.LocalToGlobal.Columns.BrpColLatOneSpan
-import Formalism.LocalToGlobal.Columns.CoefficientsModP.LatticeBasisExistsHolds
 
 open NumberField IsDedekindDomain Module
 open scoped Matrix

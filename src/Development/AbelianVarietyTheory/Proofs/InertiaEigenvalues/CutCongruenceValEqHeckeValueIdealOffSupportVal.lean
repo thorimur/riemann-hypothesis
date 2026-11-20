@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.StepJumpDirect
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.GlobalCore
+import Formalism.SharpRestriction.LevelLetterCocycles.CongruenceSingleEndomorphism
 
 noncomputable section
 

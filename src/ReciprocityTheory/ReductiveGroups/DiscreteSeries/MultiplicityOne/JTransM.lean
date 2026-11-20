@@ -1,5 +1,7 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.MultiplicityOne.JTransMA
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.MultiplicityOne.JTransMB
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.MultiplicityOne.StDiagExists
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.MultiplicityOne.UnitaryGroupStructuralFacts
 
 noncomputable section
 

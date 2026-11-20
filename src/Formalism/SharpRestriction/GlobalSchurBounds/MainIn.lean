@@ -1,7 +1,5 @@
-import Formalism.SharpRestriction.ParamsHeightRankConstant
-import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.FiltrationBoundaryCriterion
 import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.FiltrationCocycleLiftCriterion
-import Formalism.SharpRestriction.GlobalSchurBounds.Chosen
+import Formalism.SharpRestriction.ParConsts
 
 noncomputable section
 

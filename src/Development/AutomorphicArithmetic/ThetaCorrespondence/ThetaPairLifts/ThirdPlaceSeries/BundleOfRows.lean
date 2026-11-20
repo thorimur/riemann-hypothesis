@@ -1,7 +1,5 @@
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BundleOfRows
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.LeafInfinitePlaceBound
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.Realised
+import Formalism.LocalToGlobal.IndefiniteReal.PrimitivePackageFullHecke
 
 set_option synthInstance.maxHeartbeats 200000
 

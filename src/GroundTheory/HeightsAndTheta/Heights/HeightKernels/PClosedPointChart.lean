@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PCurveCharts
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsClosedPointUnitSection
 set_option maxSynthPendingDepth 1

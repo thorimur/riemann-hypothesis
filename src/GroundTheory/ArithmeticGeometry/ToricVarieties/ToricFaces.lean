@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.ToricVarieties.IsFaceOfIffExistsEqExposedFace
 import GroundTheory.ArithmeticGeometry.ToricVarieties.Lattice
 

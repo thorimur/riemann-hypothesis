@@ -1,5 +1,5 @@
 import Development.EtaleCohomology.EtaleTrace.LCycleCut
-import Development.EtaleCohomology.TateTwists.MayerVietorisExactSequence
+import Mathlib.CategoryTheory.Limits.Types.Pushouts
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC

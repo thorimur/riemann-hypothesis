@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.EisensteinSeries.SiegelEisensteinHalfPlane.SiegelOneDescent.Descend2
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CorrESymmCoe
 

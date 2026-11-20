@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.HeckeInertComm
-import Formalism.LocalToGlobal.Columns.CoefficientsModP.LatticeBasisExistsHolds
+import Formalism.LocalToGlobal.Columns.StdLatUnimodular
 
 noncomputable section
 

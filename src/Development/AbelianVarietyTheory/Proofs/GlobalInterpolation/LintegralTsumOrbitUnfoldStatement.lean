@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LintegralTsumOrbitUnfold
-import Mathlib
 open MeasureTheory Topology
 open scoped ENNReal
 set_option maxHeartbeats 1000000 in

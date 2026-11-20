@@ -1,4 +1,7 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.LocStep
+import Mathlib.NumberTheory.LocalField.Basic
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace PositivityTheory.RgUd.T.AdjPf
 

@@ -1,7 +1,5 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.Torsion
 import GroundTheory.ProfiniteCohomology.GaloisModules.Discrete
-import GroundTheory.ProfiniteCohomology.GaloisModules.FixedField
+import Mathlib.AlgebraicGeometry.EllipticCurve.Affine.Point
 
 namespace GroundTheory.Arith.Abelian
 

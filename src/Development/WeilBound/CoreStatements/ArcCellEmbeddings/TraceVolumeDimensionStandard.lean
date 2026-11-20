@@ -1,4 +1,10 @@
 import Development.WeilBound.CoreStatements.ArcCellEmbeddings.Imports
+import Development.AutomorphicSpectrum.Definitions.MetricPeriods.ZeroMemLieBall
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
 open MeasureTheory Filter Topology Matrix Metric Set GlobalTheory.SUVol GlobalTheory.CompanionTheory.Ar.abelian₂
 open scoped ENNReal NNReal Pointwise
 

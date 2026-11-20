@@ -1,8 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.LocalTrivialization.LocTrivOfRetraction
 import Development.AbelianVarietyTheory.BlockTheory.CMModuli.TorusQuotientTorsionLift
-import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.FlatQuotientIsoOfSameKernel
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FirstCohomology.DimSplitPf
 
 set_option autoImplicit false
 

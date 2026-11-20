@@ -1,8 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.SplitEig
-import Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.UILaws
 import GroundTheory.AutomorphicForms.CompactAbelianCharacters
-import GroundTheory.GlobalFields.IdeleGroups.GaloisOnAdeles.Action
-import GroundTheory.GlobalFields.TateThesis.IdeleMeasureQuotient
 import CompanionTheory.AutomorphicTheory.UnitriangularMeasure.AdeleCoordinateMeasure.EllipticTorusNorm
 import Development.AutomorphicArithmetic.AdelicQuotients.CentralSectionBaseChange
 

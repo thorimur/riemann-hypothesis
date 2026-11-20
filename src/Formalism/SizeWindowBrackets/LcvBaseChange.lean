@@ -1,5 +1,6 @@
-import Mathlib
-import Formalism.HarderNarasimhan.StatementMod
+import Formalism.HarderNarasimhan.StatementPl
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.FractionalIdeal.Norm
 
 open Module NumberField
 

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.ClassFormationDefs
+import Mathlib.Tactic.ENatToNat
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

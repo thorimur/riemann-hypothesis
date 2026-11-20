@@ -1,5 +1,6 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementG
-import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.EisensteinS2LimitFormula
+import Formalism.LocalToGlobal.TorsionIntegrality.CMGoodModels.CM4
+import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.TranslateProduct
+import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementE
 
 noncomputable section
 open scoped BigOperators

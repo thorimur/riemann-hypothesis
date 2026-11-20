@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.MaIntEmpty
 set_option maxSynthPendingDepth 1
 

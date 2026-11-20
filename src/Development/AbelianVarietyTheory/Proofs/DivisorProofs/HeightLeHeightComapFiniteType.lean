@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.CommutativeAlgebra.SaturatedChains.AlgStep
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option autoImplicit false
 

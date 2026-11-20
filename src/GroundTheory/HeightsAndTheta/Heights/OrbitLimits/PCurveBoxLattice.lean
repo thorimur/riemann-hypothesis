@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsCurveBoxLattice
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsCurveFieldNumber
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsCurveEmbedOrbit

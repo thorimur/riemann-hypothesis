@@ -1,5 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.CloudCount
 import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.LemmaSMat
+import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.CloudBoundOfPropAndWeylDimension
+import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.FactorizationBoundMonoLattices
 
 noncomputable section
 

@@ -1,8 +1,9 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.KCoinvOfDict
-import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.SoCoinvariantsOfBernstein
-import Development.WeilBound.ThetaLifts.LocalTheory.DixmierCommutants.RamifiedMultiplicityOneOfBernstein
-import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.SplitTop
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.ContinuousFinId
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.ExistsExtZ
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfSplit
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfSurj
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.SoStatement
+import GroundTheory.LocalFields.PadicLogSeries
 
 noncomputable section
 

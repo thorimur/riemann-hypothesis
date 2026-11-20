@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.Annihilator
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.PullbackUnit
 set_option maxSynthPendingDepth 1

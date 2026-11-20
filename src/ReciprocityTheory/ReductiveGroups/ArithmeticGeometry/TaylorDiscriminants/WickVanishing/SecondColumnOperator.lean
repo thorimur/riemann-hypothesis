@@ -1,4 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.WickVanishing.SecondColumnDegree
+import Mathlib.RingTheory.Nilpotent.Exp
+import Mathlib.Topology.Sheaves.Presheaf
 
 set_option autoImplicit false
 

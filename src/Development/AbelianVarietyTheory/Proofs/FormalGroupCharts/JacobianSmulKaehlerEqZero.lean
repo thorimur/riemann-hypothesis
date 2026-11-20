@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.PredMulSumPadicValNatFactorialAddCardLe
+import Mathlib.RingTheory.MvPowerSeries.Derivative
 
 namespace GlobalTheory.FiniteQuotOmega
 

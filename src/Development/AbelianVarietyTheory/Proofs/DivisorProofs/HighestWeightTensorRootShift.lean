@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrActApply
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.HighestWeightTensor
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GlBlockFiniteDimModuleStructure
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFockMap
 
 open Formalism.BasicNotions.TH Formalism.MainNotions.SchurIrreducible GlobalTheory.FockAlg GlobalTheory.SteepMult
 

@@ -1,5 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.GCauchyStatement
+import Mathlib.Analysis.Calculus.ContDiff.WithLp
+import Mathlib.RingTheory.PiTensorProduct
 
 namespace GlobalTheory
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.InvSerSub
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WittLogarithm.WfLogOf
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WittLogarithm.FormalLogarithmHolds
 

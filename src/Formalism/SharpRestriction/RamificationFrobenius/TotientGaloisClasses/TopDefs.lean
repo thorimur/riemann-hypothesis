@@ -1,6 +1,6 @@
 import Formalism.SharpRestriction.FamCore
 import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.FiltrationCocycleLiftCriterion
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.Landau
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ExplicitFormulaErrorOfHostConditions
 
 noncomputable section
 

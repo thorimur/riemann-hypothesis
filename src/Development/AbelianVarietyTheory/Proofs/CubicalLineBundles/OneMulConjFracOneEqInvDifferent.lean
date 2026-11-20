@@ -1,9 +1,9 @@
-import Mathlib
 import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.InhabSt
 import ReciprocityTheory.SemistableReduction.SemiDegCA
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.Rationality.QCoreGlobPf
 import Development.AbelianVarietyTheory.Proofs.HermitianTraceForms.TraceFormDualOneTraceFormDual
 import Development.AbelianVarietyTheory.Statements.PrincipalLattices.LogHermFormOfUnitDiscriminant
+import Mathlib.NumberTheory.NumberField.Discriminant.Different
 
 noncomputable section
 

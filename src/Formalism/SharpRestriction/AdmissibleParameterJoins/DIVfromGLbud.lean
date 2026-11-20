@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLl
 import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLo
+import Formalism.SharpRestriction.Divisibility.WeightDegreeSizes
 
 noncomputable section
 

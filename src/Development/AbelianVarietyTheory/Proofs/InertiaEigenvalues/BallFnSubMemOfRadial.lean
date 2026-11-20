@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsEqSumBallFn
 open ValuativeRel OnePoint GlobalTheory.LocGL.ProjLine
 

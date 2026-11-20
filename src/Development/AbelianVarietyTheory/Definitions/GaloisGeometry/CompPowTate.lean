@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.AssocSetApplyOfPointwise
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsRankOneIdem
 

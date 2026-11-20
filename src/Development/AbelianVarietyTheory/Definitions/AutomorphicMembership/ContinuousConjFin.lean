@@ -1,12 +1,9 @@
-import Mathlib
-import Development.AutomorphicArithmetic.IntegralCasts.Imports
-import Formalism.LocalToGlobal.UnitaryNorms.IsUnitaryNormOf
 import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
-import Development.AbelianVarietyTheory.Definitions.Foundations.SmoothPartStable
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.TwConj
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousOfValuedEq
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsOpenKerFinIdele
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.DifferentiableAtChart
+import Development.AutomorphicArithmetic.IntegralCasts.IsOpenStabOfMemNhds
 
 noncomputable section
 

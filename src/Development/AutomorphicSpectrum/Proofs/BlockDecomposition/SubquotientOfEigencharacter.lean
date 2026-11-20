@@ -1,7 +1,9 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.SubOfNonNil
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SmoothQuot
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsBisLast
+import Development.AbelianVarietyTheory.Definitions.Foundations.SmoothPartStable
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RepresentationTheory.Irreducible
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

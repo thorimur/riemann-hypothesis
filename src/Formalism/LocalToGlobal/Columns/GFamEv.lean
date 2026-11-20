@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.Record
 import Formalism.LocalToGlobal.Columns.FiniteDimensionalForms
 

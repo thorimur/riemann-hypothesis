@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ExistsTeichmullerRepModPrime
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.MuMEvalPowEqZero
 

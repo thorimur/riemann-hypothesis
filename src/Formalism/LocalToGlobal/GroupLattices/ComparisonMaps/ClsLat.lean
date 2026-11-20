@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.DataG
+import Formalism.SharpRestriction.GrowthBounds.UnramifiedQuadraticSetting
 
 noncomputable section
 

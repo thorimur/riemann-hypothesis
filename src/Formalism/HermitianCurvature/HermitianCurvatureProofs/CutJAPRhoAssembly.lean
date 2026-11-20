@@ -1,7 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAPRhoCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJABddKapNrmW
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJASSnGeomAtGq
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutTypeNormMeasMain
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.cut_TypeNormMeas_TC
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.Q Filter Topology

@@ -1,7 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.FiniteTypeHarishChandra.SupportExistsAll
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CardParabolicSubgroupStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraDimensionStatement
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 open ReciprocityTheory.Ty.Fin
 

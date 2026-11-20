@@ -1,4 +1,4 @@
-import Development.AbelianVarietyTheory.Definitions.Foundations.T2SpaceAdeleRing
+import Development.AbelianVarietyTheory.Definitions.Foundations.HermitianSpaceBaseLatticeEqFrameLattice
 open scoped TensorProduct
 
 namespace GlobalTheory.LocalLatticeIntegral

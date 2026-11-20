@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HeckeAlgebraLevel
+import Mathlib.RepresentationTheory.Irreducible
 
 noncomputable section
 

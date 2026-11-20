@@ -1,6 +1,6 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.DerivativeIdeal.DerivativeIdeal
 import Development.ResolutionOfSingularities.EmbeddedResolution.DerivativeIdeal.IdealOrder
+import Mathlib.Tactic.Polynomial.Basic
 namespace FunctorialResolution.EmbeddedResolution
 
 open IsLocalRing

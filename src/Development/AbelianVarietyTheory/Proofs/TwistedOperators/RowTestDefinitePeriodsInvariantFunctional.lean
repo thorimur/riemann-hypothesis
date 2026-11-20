@@ -1,14 +1,11 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.DefPerEqGenPer
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.EqZeroOfFockSSelf
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.CastRealAll
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairwiseFlatMapBand
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.OmLiftOfMultilinearTprod
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LeftCast
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.GenPerMultilinear
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.GenPerMove
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.AdaptedFrameOrthonormal
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.InvContCast
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PeriodsOnLineOfInvLine
 
 noncomputable section
 

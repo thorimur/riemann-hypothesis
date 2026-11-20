@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.EtaInfGen
+import Formalism.LocalToGlobal.UnitaryNorms.IsUnitaryNormOf
 
 noncomputable section
 

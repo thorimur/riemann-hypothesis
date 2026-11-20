@@ -1,5 +1,5 @@
-import Formalism.PieriBlockIdeals.StatementLW
-import Formalism.PieriBlockIdeals.WEChain
+import Formalism.PieriBlockIdeals.Statement
+import Mathlib.RingTheory.PowerSeries.Basic
 
 noncomputable section
 

@@ -1,16 +1,15 @@
-import Mathlib
-import Formalism.GelfandTransference.HadamardGelfand.Hadamard
 import Formalism.FlagUnipotentLattices.SignaturePreservingEntryNorms
-import Formalism.HermitianLattices.HermitianLatticesProofs.DualBasic
 import Formalism.HermitianLattices.HermitianLatticesProofs.DualLattice
 import Formalism.HermitianLattices.HermitianLatticesProofs.DualOrthSum
 import Formalism.HermitianLattices.HermitianLatticesProofs.IndexBasic
-import Formalism.HermitianLattices.HermitianLatticesProofs.LocBasic
 import Formalism.SharpRestriction.CuspSpanNormBounds.GlobalAssemblyOfStatements
 import Formalism.SharpRestriction.CuspSpanNormBounds.GluingLemmasAndTheorems
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.SignatureConjugationInvariant
 import Formalism.SharpRestriction.CuspSpanNormBounds.JExistsNatSmulMemL
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MExistsNatSmulMem
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.GroupTheory.FiniteAbelian.Basic
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

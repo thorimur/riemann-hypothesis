@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.PadicLogSeries
 
 namespace GroundTheory.LocalField

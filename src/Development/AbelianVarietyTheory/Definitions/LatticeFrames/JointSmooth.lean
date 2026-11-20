@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.IsQuasiFam
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ChainParSucc
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.UnfoldingConstantsPos
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.IsThetaFam
 
 set_option genSizeOfSpec false
 set_option genInjectivity false

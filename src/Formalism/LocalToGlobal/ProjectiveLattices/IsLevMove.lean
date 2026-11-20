@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.IsCombAt
-import Formalism.LocalToGlobal.ProjectiveLattices.RhoWApply
 
 noncomputable section
 

@@ -1,6 +1,8 @@
-import Formalism.FlagUnipotentLattices.MemOfOrthogonalAnisotropic
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.ExistsHasLeadingCoeffOfMemSpanBelow
 import Formalism.HyperbolicPlaceProducts.SecondLevelArithmeticNorm
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.RingTheory.PiTensorProduct
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Formalism.HermitianLatticeCounting.S6
 open scoped BigOperators

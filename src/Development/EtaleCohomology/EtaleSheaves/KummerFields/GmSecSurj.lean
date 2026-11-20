@@ -1,5 +1,4 @@
 import Development.EtaleCohomology.EtaleSheaves.KummerSequence.KummerH0Surjection
-import Mathlib.AlgebraicGeometry.Sites.Proetale
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.E4 LateralTheory.E.H2CurveOrder.LeafKumSeqPf LateralTheory.E.H2CurveOrder.KummerH0Surjection

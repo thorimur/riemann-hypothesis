@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.LinearIdentityHeadDifference
+import Formalism.SharpRestriction.LevelLetterCocycles.HorTrExists
+import Formalism.SharpRestriction.LevelLetterCocycles.LemmasUnramifiedOfRingCondition
 
 noncomputable section
 

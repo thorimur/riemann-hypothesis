@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.LocalGroupAnalysis.QuotStage
+import Mathlib.Tactic.ENatToNat
 
 open MeasureTheory
 open scoped ENNReal

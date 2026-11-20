@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.DevissageNatural
 set_option maxSynthPendingDepth 1
 

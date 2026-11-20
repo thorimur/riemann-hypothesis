@@ -2,6 +2,7 @@ import Formalism.SharpRestriction.LevelLetterCocycles.ExpRules
 import Formalism.SharpRestriction.LevelLetterCocycles.CoordHomMapTrace
 import Formalism.SharpRestriction.LevelLetterCocycles.SaturationUnramifiedOfRingCondition
 import Formalism.SharpRestriction.LevelLetterCocycles.FrobeniusPowUniformizerFactorisation
+import Mathlib.Order.Interval.Finset.Box
 
 noncomputable section
 

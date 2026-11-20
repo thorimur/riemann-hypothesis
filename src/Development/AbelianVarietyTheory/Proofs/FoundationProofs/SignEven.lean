@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.JacquetSubsetSums.JacquetSubsetSum
-import Formalism.JacquetSubsetSums.SeparationTR
 
 namespace GlobalTheory
 

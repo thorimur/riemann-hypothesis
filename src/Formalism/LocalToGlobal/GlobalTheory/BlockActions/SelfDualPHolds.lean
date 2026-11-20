@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.BrStmt
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.FiniteAdeleRingNontrivial
-import Formalism.LocalToGlobal.GlobalTheory.EqGlobOfHat
 import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocGen
 import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocGlob
 import Formalism.LocalToGlobal.GroupLattices.LevelCharts.FiniteClassSetOfFiniteIndex

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.AltCoeffRho
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.KappaFormulaHookSchurStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HookTranslationInvariantStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HookQuotientCoefficientBoundStatement

@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.TendstoUniformlyOnDoublingLogOfContraction
+import Mathlib.LinearAlgebra.FreeModule.ModN
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Filter Topology Set
 

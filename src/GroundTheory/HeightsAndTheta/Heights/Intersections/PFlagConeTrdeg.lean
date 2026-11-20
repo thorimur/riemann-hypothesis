@@ -1,8 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StFlagConeTrdeg
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StTrdegAdjoinFrac
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StFlagMinorsBaseChange
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StFlagMinorsTrdeg
+import GroundTheory.HeightsAndTheta.Heights.Intersections.FlagBundleSt
 set_option maxSynthPendingDepth 1
 
 noncomputable section

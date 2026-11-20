@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.WtFieldPfA
+import Formalism.LocalToGlobal.ProjectiveLattices.CoreProofs
 
 noncomputable section
 

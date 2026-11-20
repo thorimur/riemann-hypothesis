@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTieUpFBrR
+import Mathlib.RingTheory.AdicCompletion.RingHom
 
 set_option autoImplicit false
 

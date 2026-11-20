@@ -1,5 +1,3 @@
-import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.ComplexMinusRealLineMeasureCoordinates
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsMoreBis
 
 noncomputable section

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.RationalAdjoints.RatZOfTests
 import Formalism.LocalToGlobal.IndefiniteReal.RationalAdjoints.CoordRat
 

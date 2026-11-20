@@ -1,10 +1,7 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.ModularCurves.WeierstrassChartIso
 import GroundTheory.ArithmeticGeometry.ModularCurves.WeierstrassCechAlgebra
 import GroundTheory.ArithmeticGeometry.ModularCurves.CechTwoOpens
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.RiemannRoch
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.CechNaturality.NaturalLeray
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.HasExtInstances
 
 open CategoryTheory AlgebraicGeometry Opposite TopologicalSpace GroundTheory.Arith.SchemeCoh
 

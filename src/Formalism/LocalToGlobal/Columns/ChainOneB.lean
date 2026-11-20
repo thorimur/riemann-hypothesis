@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.Columns.ChainOne
 import Formalism.LocalToGlobal.Columns.ChainInstS
+import Formalism.LocalToGlobal.Columns.SmulMemTrpSet
 
 open NumberField IsDedekindDomain Module
 

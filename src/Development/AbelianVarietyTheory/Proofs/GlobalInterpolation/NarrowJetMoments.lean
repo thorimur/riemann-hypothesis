@@ -1,7 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.FiniteSumNonzeroLargeDepth
-import Formalism.LocalToGlobal.KernelLattices.ThDistC
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.ConjReal
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.JetSumTable
 import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.StandardKernelAtTorus
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemDivsOfMem

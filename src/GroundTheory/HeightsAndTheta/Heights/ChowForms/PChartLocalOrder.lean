@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.ImportsBis
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.StatementsChartIncOrd
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.StatementsDehomogOrd

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsNormalFiniteModelOfExtension
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CutsSecOfIsLat
 open CategoryTheory Limits AlgebraicGeometry IsLocalRing NumberField

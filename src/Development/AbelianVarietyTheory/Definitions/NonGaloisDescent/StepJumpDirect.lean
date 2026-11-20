@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.CongruenceSingleEndomorphism
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.GlobalCore
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.CentralIdemCoeff
 
 noncomputable section
 

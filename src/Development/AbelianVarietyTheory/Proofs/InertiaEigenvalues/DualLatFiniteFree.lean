@@ -1,5 +1,9 @@
-import Mathlib
 import Formalism.WachLatticeTwists.LatticeDualFibres.StatDualFibreLattice
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 open Formalism.RepresentationBoundsCohomology.LOC
 
 namespace GlobalTheory

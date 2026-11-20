@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.PeriodIntegrals.WedgeDetNz
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 private theorem exists_dual_family_of_linearIndependent_orbital_bounds_conclusion (K V : Type) [Field K] [AddCommGroup V] [Module K V]
     (ρ : ℕ) (z : Fin ρ → V) (hz : LinearIndependent K z) :

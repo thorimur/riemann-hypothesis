@@ -1,6 +1,10 @@
 import Formalism.MahlerMeasure.HasOrder
-import Formalism.MahlerMeasure.FinalM
-import Formalism.MahlerMeasure.MahlerMeasureProofs.FreezeInto
+import Formalism.MahlerMeasure.MahlerMeasureProofs.LevelAct
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.GM.GammaExpansion
 

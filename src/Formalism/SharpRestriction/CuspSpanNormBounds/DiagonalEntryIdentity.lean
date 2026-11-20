@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.WeightedMirrorLevelOperator
+import Mathlib.Analysis.Fourier.AddCircle
 
 noncomputable section
 

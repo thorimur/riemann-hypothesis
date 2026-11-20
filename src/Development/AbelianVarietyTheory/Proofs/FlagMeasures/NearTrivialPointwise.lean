@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LamXEquivariant
-import Formalism.HarderNarasimhan.ShiftInvariance
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsGlob
 
 open NumberField Matrix

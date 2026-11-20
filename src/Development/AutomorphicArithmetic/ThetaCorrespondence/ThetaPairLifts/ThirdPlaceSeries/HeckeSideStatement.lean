@@ -1,8 +1,4 @@
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SphericalVectorFixedLocalStatement
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.HeckeSide
-import Development.AutomorphicArithmetic.Foundations.LocalLanglands.IsRecTOfIsRec
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsRecTLocRecT
 
 set_option synthInstance.maxHeartbeats 200000
 

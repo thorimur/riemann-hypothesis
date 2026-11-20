@@ -1,11 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.HasQIff
-import Development.AbelianVarietyTheory.Definitions.Divisors.ZetaActRefl
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModQPrin
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModJTau
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TransportOfSeparating
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.QAllQConjOfDvd
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModularGroupRowVecAndConjRightActions
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VactVmul
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.QConjTorsion
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VmulNeZero

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.SplitDoublingNBlock
 
 open GlobalTheory.FinGL Formalism.L2.DIV Module

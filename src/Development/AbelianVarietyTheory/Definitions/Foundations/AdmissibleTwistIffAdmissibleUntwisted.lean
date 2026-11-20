@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.ChiK
-import Development.AbelianVarietyTheory.Statements.CuspidalUnitaryTwists.ZetaUr
+import Development.AbelianVarietyTheory.Definitions.Foundations.FinalTheorems
+import Development.AbelianVarietyTheory.Definitions.Foundations.Letter
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.SmulMemConjHalf
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.ExistsCompactOfFinite
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.FourierUniquenessOfOpenSubgroup

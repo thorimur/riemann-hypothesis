@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.ThDistC
 
 open Formalism.L2.Ker MvPolynomial

@@ -1,5 +1,7 @@
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.EFinSmulEqOfFinPart
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.NormIterFderivApplyLe
+import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.SobPhase
+import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.SobSympl
+import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.ThetaSquareIntegrable
 
 noncomputable section
 

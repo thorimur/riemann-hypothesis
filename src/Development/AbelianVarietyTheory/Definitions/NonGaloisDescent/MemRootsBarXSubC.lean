@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.LabelDatum
+import Mathlib.RepresentationTheory.FinGroupCharZero
 
 noncomputable section
 namespace GlobalTheory.GLq.Model

@@ -2,6 +2,7 @@ import Development.WeilBound.CoreStatements.PublishedTheorems.JacquetShalikaBoun
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.NormSatakeLeOfUnitarySphericalGL
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SymmetricFunctionAbsoluteValues
 import GroundTheory.IdeleRoots.TorusPowers.SatakeBoundAdic
+import GroundTheory.IdeleRoots.TorusPowers.SatakeBoundReps
 
 noncomputable section
 

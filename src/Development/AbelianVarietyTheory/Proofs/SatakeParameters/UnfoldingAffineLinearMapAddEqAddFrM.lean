@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.ThetaLiftGeometry.UnfoldedLatticeData
 
 noncomputable section

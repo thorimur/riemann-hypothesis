@@ -1,5 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.CovolumeCount
+import Mathlib.Algebra.Module.ZLattice.Basic
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace GroundTheory.Heights₂.Theta
 

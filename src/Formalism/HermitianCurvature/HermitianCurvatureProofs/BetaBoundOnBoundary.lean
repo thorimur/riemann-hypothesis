@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementSz
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CriticalThresholdLowerBound
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaFactorisation
 

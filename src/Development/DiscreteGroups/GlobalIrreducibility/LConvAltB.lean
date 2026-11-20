@@ -1,4 +1,5 @@
 import Development.DiscreteGroups.GlobalIrreducibility.LConvAltA
+import Development.DiscreteGroups.GlobalIrreducibility.LConvCut
 
 noncomputable section
 

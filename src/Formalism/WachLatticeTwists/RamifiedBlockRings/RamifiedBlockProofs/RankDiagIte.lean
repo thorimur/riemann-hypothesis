@@ -2,6 +2,7 @@ import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.CMemPo
 import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.Normal
 import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.BurnsideMat
 import Formalism.CharacterColumnKernels.IdempotentNormalForms.SpacedProductLowerBound
+import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.CharpolyRevMap
 
 open Finset Classical
 

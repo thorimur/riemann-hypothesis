@@ -1,7 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.CoefficientMapHeightBound
 import Formalism.LocalToGlobal.Columns.FactorialSumLePowMulProd
-import Formalism.LocalToGlobal.Columns.CoefColLemmas
+import Formalism.LocalToGlobal.Columns.MaxSlopeOrthogonalNegLog
 
 open NumberField IsDedekindDomain Module MvPolynomial
 open scoped Matrix ComplexOrder

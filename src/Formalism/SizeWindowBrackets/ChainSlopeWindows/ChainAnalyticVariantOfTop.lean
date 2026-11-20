@@ -1,6 +1,5 @@
 import Formalism.SizeWindowBrackets.SlopesFromSizeAndCount
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.ChainLatticeSizesModelEventually
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.PBrDiv
 
 open Module NumberField Matrix IsDedekindDomain
 open Formalism.HN

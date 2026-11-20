@@ -1,4 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.FourierCubeVolume
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Dynamics.Ergodic.Action.Regular
 
 namespace ReciprocityTheory.ChartRestriction.G.FD.FourierCubeIntegral
 

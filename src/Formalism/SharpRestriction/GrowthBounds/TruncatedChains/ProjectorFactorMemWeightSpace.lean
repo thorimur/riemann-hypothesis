@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.TruncatedChains.ProjectorCoeffSuccIndex
 import Formalism.SharpRestriction.GrowthBounds.TruncatedChains.CommPow
+import Formalism.SharpRestriction.GrowthBounds.TruncatedChains.PfTrunc
 
 noncomputable section
 

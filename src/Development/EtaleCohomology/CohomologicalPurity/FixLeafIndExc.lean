@@ -4,8 +4,6 @@ import Development.EtaleCohomology.CohomologicalPurity.OffContLocKnxPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafHsContPfFive
 import Development.EtaleCohomology.CohomologicalPurity.LeafNbhdExcPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafExcIdentPf
-import Development.EtaleCohomology.CohomologicalPurity.LeafExcDegPf
-import Development.EtaleCohomology.CohomologicalPurity.LeafExcSheafCut
 import Development.EtaleCohomology.CohomologicalPurity.LeafFreeCokInjPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafSurjGeoPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafInjGeoPf
@@ -17,6 +15,7 @@ import Development.EtaleCohomology.CohomologicalPurity.LeafExactPf
 import Development.EtaleCohomology.CohomologicalPurity.FreePMapMk
 import Development.EtaleCohomology.CohomologicalPurity.LeafImgHomPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafImgPf
+import Development.EtaleCohomology.CohomologicalPurity.EtalePurityContinuityOffClosedOfLocalAndChase
 
 namespace LateralTheory.Fix.LeafIndExc
 open LateralTheory.CohomologicalPurity

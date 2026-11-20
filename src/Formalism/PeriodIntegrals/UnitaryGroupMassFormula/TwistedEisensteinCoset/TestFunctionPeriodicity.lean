@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TwistedEisensteinCoset.JacobianTransformationLaw
+import Mathlib.RingTheory.PiTensorProduct
 
 open NumberField IsDedekindDomain Module
 

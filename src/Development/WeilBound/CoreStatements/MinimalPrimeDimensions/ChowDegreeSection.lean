@@ -1,5 +1,9 @@
 import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.DimClosureAddOneLe
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ChartResidueDegreeAlgClosedClosed
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PChowDegreeSection
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PFundCycleBaseChange
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PMinimalPrimeComap
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PSectionOrderAlgClosed
 
 set_option autoImplicit false
 set_option linter.style.haveILetI false

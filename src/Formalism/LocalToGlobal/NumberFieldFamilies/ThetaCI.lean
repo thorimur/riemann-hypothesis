@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.NumberFieldFamilies.ThetaCW
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
+import Formalism.LocalToGlobal.BesselHermitianTheta.LemmasSign
 
 noncomputable section
 

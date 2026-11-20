@@ -1,8 +1,7 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.SumSgnLProdCol
 import Formalism.PeriodIntegrals.ContractionsCovariantIff
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.QuantumDetHighestWeightHolds
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.ShiftedGeneratorEqIteSmulAdd
 import Formalism.FormalDegreeBessel.FinalIO
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
 
 open Matrix Finset
 

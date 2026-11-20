@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.CharacterBoxes.TwistForm
+import Development.AutomorphicArithmetic.CharacterBoxes.ExistsPageN
 
 open Formalism.HC Formalism.FrobeniusOrbits UpperTheory.Top
 

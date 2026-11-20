@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.StChartVelLiftCharts
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PChartVelLift
 set_option maxSynthPendingDepth 1

@@ -1,7 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.CutPassage3S
-import Formalism.LocalToGlobal.GlobalTheory.PassageAtBaseSymmetricLevels
-import Formalism.LocalToGlobal.IndefiniteReal.LevelAmbTransfer
+import Formalism.LocalToGlobal.IndefiniteReal.CxPass
+import Formalism.LocalToGlobal.IndefiniteReal.PrimitiveStatementsWithPassage
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder InnerProductSpace

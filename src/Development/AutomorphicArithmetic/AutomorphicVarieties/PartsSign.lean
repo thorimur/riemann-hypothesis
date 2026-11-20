@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LengthEqAddEigen
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 noncomputable section
 

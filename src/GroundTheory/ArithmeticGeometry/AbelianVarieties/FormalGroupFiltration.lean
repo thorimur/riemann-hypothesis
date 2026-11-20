@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.FormalGroupIdeal
+import GroundTheory.ArithmeticGeometry.AbelianVarieties.FormalGroupInverse
+import Mathlib.Algebra.Order.Ring.Star
 
 namespace GroundTheory.Arith.Abelian
 

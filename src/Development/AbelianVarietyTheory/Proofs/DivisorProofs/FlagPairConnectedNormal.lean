@@ -1,9 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.GlobalHeightBoundIffAtGoodPrimes
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.Adj
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalModelTrivializingBlowup
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdjacentPullPull
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericIsomorphismPullbackCompStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericIsoFlagPairSubbundleCompatStatement
 

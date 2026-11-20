@@ -1,8 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SlopeTestRemainingChoices
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ComponentMean
-import Formalism.SharpRestriction.Divisibility.LatticeTransfer
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumLogDivSubOneLeThreeMulLogAddOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NewPrimesSetDescription
 import Development.AutomorphicArithmetic.PrimeDiscriminants.BadCount
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TestClassSelfIntersectionStatement

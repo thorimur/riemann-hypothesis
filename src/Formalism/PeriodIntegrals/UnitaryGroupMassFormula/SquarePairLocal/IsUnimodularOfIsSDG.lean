@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SqPair
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SquarePairLocal.SqPairLocalOfSteps
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.UnimodGenus
 

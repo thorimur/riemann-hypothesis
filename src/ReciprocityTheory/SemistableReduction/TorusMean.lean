@@ -1,5 +1,6 @@
-import ReciprocityTheory.SemistableReduction.SphereLogIntegrableStatement
 import ReciprocityTheory.SemistableReduction.TorusMeanD
+import Mathlib.MeasureTheory.Measure.RegularityCompacts
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

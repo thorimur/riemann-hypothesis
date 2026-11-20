@@ -1,5 +1,6 @@
 import Development.AbelianVarietyTheory.Definitions.Divisors.EqZeroOfForallPowDvd
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OrderProdSubProd
+import Mathlib.Order.CompletePartialOrder
 
 set_option autoImplicit false
 

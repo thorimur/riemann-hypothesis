@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms.BaseChange
 
 namespace GroundTheory.Global

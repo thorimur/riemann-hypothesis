@@ -1,7 +1,7 @@
-import Mathlib
 import Formalism.PeriodIntegrals.ProdUnitInert
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertUnitProduct.NatCastNormLeOne
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertUnitProduct.ExistsRatCoords
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 noncomputable section
 

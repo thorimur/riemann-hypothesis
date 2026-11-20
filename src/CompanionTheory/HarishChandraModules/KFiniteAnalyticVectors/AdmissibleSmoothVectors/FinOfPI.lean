@@ -1,5 +1,6 @@
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.MapStdPoly
 import CompanionTheory.AutomorphicTheory.SchurLimitBounds.SchurOrthogonality.URepSchur
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open scoped InnerProductSpace
 

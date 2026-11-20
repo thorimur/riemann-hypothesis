@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsIvDOfDefinite
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.NormalisedBlowupCone
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.AlgebraicGeometry.IdealSheaf.Functorial
+import Mathlib.Combinatorics.Quiver.ReflQuiver
 open AlgebraicGeometry CategoryTheory Limits NumberField IsLocalRing TopologicalSpace
 
 namespace GlobalTheory

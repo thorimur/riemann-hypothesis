@@ -1,6 +1,10 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.SubMemOfCompat
 import ReciprocityTheory.DualLattices.ExistsPrimitiveRoot
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.Normed.Field.Instances
+import Mathlib.NumberTheory.Padics.Complex
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Algebra.Nonarchimedean.Completion
 
 open Ideal
 

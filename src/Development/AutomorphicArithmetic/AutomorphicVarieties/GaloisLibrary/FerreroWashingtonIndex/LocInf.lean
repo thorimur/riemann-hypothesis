@@ -1,6 +1,6 @@
-import GroundTheory.GlobalFields.HasseNorm
-import GroundTheory.GlobalFields.IdeleGroups.LocalNormGroups
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.FerreroWashingtonIndex.CycRepApply
+import GroundTheory.GlobalFields.IdeleGroups.LocalNorms
+import GroundTheory.GlobalFields.InfiniteNormIndex.LocalSymbol
+import Mathlib.NumberTheory.NumberField.CMField
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Formalism.GaloisCohomology UpperTheory.V UpperTheory.V.Base UpperTheory.V.Kum UpperTheory.V.Stick UpperTheory.V.FW
 open scoped nonZeroDivisors

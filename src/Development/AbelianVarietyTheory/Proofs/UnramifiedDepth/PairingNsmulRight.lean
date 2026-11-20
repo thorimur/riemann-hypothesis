@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.EvenTwoEvaluationSign
 import ReciprocityTheory.DualLattices.IsPairingValueAddRight
 

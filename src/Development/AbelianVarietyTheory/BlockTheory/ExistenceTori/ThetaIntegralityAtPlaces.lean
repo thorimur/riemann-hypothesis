@@ -1,7 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.ThShort
 import Formalism.LocalToGlobal.ProjectiveLattices.VAtVNeBot
 import Formalism.LocalToGlobal.ProjectiveLattices.ThGerm
+import Mathlib.NumberTheory.NumberField.Discriminant.Defs
 
 set_option autoImplicit false
 

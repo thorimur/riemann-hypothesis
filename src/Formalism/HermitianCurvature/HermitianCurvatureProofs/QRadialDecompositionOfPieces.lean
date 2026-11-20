@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementQ
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.RadialDecompositionOfParts
 
 theorem Formalism.FourierDecayAlt.P.q_radial_decomposition_of_pieces : Formalism.FourierDecayAlt.Q.RadialDecompositionOfParts :=

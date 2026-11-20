@@ -1,4 +1,5 @@
 import ReciprocityTheory.DualLattices.ThetaQSurj
+import ReciprocityTheory.DualLattices.HasLenLeOfSurj
 
 noncomputable section
 

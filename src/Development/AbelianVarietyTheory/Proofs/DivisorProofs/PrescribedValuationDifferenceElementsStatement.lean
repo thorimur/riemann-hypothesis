@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PrescribedValuationDifferenceElements
-import Mathlib
 
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.prescribed_valuation_difference_elements : ∀ (A : Type) [CommRing A] [IsDedekindDomain A] [Finite (ClassGroup A)] (S : Finset (Ideal A))

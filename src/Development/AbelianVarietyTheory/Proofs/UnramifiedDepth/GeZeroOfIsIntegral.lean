@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.HostTraceIdentity
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.SaturationChartsHolds
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IntegralChartDirectionsAreEigenvectors

@@ -2,6 +2,7 @@ import Formalism.LocalToGlobal.InertKernelTheory.ThetaSeriesDataHypothesesBelowM
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.SecondKernelCoupled
 import Formalism.LocalToGlobal.PairingIndexBounds.RowActionCoefficients.LatticeShapeMiddleHolds
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.FirstKernelSmallOfFrameTwist
+import Formalism.LocalToGlobal.InertKernelTheory.AdmissibleAllLevels
 
 noncomputable section
 

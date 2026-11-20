@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.AdelicFunctionRightTranslateDiamond
+import Formalism.LocalToGlobal.HermitianForms.IsLocBasis
 
 noncomputable section
 

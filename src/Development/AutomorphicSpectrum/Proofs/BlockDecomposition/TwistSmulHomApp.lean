@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UniformVanishing
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowSubSuccLe
 
 set_option autoImplicit false
 

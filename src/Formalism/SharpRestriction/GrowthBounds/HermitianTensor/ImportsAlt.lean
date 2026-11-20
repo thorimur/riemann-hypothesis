@@ -1,2 +1,1 @@
-import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DerivativeRepresentation
-import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.InitialMinorLiftFirstEntry
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd

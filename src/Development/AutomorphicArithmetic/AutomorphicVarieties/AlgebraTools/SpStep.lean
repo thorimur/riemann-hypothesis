@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.TopNilDefs
 
 open Filter UpperTheory.V.AlgebraTools

@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.PhiCSt
+import Formalism.SharpRestriction.Divisibility.ModuliIntegralCharts
 
 set_option autoImplicit false
 

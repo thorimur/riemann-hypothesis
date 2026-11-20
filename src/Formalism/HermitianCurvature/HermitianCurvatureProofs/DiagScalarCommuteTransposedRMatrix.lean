@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.StatementWd
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PositionInsertionDiagonalCompat
 import Formalism.YangianSpanCharacter.YangianRelationFirst
 

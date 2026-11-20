@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSmallSectionMixed
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.BirationalYPt
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PShiftNefBig
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PPerturbSemipos
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PBirationalModelExists
 import GroundTheory.HeightsAndTheta.Heights.Intersections.NotIsHorizontalOfDimOne
 import GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PConeTrdeg

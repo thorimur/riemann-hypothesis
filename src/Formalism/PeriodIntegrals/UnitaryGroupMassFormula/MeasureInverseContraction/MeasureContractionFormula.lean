@@ -1,9 +1,5 @@
-import Mathlib
-import Formalism.PeriodIntegrals.NMeasInv
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureInverseContraction.ConjSubMulVec
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureInverseContraction.Development
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.HJMulVecGen
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.ContinuousUMatApply
 
 noncomputable section
 

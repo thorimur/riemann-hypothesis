@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.AdelicGLn
 import GroundTheory.AutomorphicForms.Satake
 import GroundTheory.AutomorphicForms.TensorProductTheorem.Existence

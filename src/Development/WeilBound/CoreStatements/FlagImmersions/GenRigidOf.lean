@@ -1,11 +1,10 @@
 import Development.WeilBound.CoreStatements.FlagImmersions.MemFlagOfRel
 import Development.WeilBound.CoreStatements.FlagImmersions.OfForall
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLatticeVectorBundle
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LieModelPullbackCorrespondence
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsLieModel
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.GramMatrixTwoFrames
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.InteriorPointLatticeDataStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.CuspCorrespondenceBoundStatement
+import Development.WeilBound.CoreStatements.FlagImmersions.Transport
 
 noncomputable section
 

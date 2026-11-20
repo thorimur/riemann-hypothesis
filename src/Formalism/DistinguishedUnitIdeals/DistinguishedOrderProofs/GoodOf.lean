@@ -1,7 +1,12 @@
-import Mathlib
 import Formalism.DistinguishedUnitIdeals.FrobeniusDiffBijective
 import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.RhoMapFunctorial
 import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.GroundTheory
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

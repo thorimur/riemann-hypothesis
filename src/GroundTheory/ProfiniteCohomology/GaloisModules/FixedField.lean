@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GaloisModules.CoeGalRootsOfUnityHomApply
+import Mathlib.RepresentationTheory.Invariants
 
 namespace GroundTheory.ProfCoh
 

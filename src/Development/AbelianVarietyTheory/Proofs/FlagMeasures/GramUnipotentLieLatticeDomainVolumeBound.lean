@@ -1,7 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.OfRoots
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.GramUnipotentStabilizerBruhatCellConjRoot
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.TranslatedLatticeAtInfinityFullCovolumeDual
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open NumberField Module Matrix Formalism.MainNotions.S GlobalTheory.LoopV MeasureTheory
 open scoped ENNReal Classical

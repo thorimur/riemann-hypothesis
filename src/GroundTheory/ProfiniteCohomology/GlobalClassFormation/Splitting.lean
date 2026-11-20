@@ -1,9 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.ResLocal
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalResConj
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalResKill
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalInvariants
-import GroundTheory.GlobalFields.Adele.BaseChange.FiniteMap
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

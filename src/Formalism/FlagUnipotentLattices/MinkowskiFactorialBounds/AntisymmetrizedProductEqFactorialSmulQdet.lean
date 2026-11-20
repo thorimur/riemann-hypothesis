@@ -1,6 +1,7 @@
-import Formalism.FlagUnipotentLattices.QDetNegTranspose
-import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.LanglandsParameterEquivariant
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.ShiftedGeneratorEqIteSmulAdd
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
 
 open Formalism.HermitianLatticeCounting.S8 Formalism.REAL TensorProduct Finset
 

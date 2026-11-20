@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CommOfBezout
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CommutingIntegralMatrixTopnilStatement
+import Mathlib.Data.Int.Star
 open GlobalTheory.UnitDiscAlg
 
 namespace GlobalTheory.UnitDiscAlg.Red

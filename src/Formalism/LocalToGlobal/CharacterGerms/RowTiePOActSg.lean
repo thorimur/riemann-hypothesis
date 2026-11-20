@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePOActLog
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePGerm
 
 noncomputable section
 

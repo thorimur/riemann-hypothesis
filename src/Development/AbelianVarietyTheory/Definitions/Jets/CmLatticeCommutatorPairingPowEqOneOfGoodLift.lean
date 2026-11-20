@@ -1,5 +1,16 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsVariableChangeEqLatticeCurve
+import Mathlib.Analysis.Normed.Field.Instances
+import Mathlib.Data.Rat.Star
+import Mathlib.FieldTheory.IsAlgClosed.Classification
+import Mathlib.NumberTheory.Padics.Complex
+import Mathlib.NumberTheory.Padics.MahlerBasis
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.PowerSeries.Binomial
+import Mathlib.RingTheory.PowerSeries.Log
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 
 noncomputable section
 open PowerSeries

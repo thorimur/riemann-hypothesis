@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.SumIoPrAlt
 import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 

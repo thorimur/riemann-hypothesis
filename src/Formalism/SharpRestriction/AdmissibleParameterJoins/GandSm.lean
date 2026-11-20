@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.WeilJacquetShalikaLaw
+import Formalism.LocalRingCardinality.DataDIVDefs
 
 noncomputable section
 

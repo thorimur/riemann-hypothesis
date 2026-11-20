@@ -1,4 +1,5 @@
-import ReciprocityTheory.AnalyticForms.PotentialTheory.StokesA
+import ReciprocityTheory.AnalyticForms.AnalyticCharts.Partition
+import ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialOfFun
 
 namespace ReciprocityTheory.AnForm.M
 

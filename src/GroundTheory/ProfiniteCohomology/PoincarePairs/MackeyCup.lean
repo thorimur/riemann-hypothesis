@@ -1,7 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.PoincarePairs.ConeProduct
 import GroundTheory.ProfiniteCohomology.PoincarePairs.ConjHomotopyFunCupCochainZeroRight
-import GroundTheory.ProfiniteCohomology.PoincarePairs.Natural
+import GroundTheory.ProfiniteCohomology.PoincarePairs.IsDiscreteRepResHomCoindRes
 set_option maxSynthPendingDepth 1
 
 noncomputable section

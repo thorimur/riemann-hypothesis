@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormIteratedFDerivTruncExpICompLe
+import Mathlib.Analysis.Distribution.SchwartzSpace.Basic
 open scoped Matrix Nat
 
 namespace GlobalTheory.GaussComplexForm

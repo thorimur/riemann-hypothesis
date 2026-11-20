@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemisimpleTraceForm.TraceNilStep
 import Lemmata.IdempotentTraceVanishing.TraceAevalEqZero
 
 namespace PI.SSAscent.UnitaryGroupMassFormula

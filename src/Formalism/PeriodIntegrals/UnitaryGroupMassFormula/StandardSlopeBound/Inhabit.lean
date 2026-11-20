@@ -1,4 +1,6 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StandardSlopeBound.NablaOperatorBasis
+import Formalism.LocalToGlobal.Columns.CoefficientsModP.WeTransposeWordTransposeWord
+import Formalism.PeriodIntegrals.HookBound
+import Mathlib.Algebra.AffineMonoid.Basic
 
 noncomputable section
 

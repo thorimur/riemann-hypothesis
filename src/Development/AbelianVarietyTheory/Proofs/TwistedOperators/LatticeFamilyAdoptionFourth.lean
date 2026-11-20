@@ -1,10 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.RealTB
-import Formalism.LocalToGlobal.IndefiniteReal.RealPins
-import Formalism.LocalToGlobal.IndefiniteReal.RealRec
 import Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.NMjT
-import Formalism.LocalRingCardinality.DataNChTie
-import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.ClassSumPinT
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionFirstStatement
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionSecondStatement
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionThirdStatement

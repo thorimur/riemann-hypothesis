@@ -1,5 +1,4 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.SupNormFromNet
+import Formalism.LocalToGlobal.ProjectiveLattices.L2DefiniteCuspForms
 
 noncomputable section
 

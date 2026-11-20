@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsDimEqOne
-import Development.AbelianVarietyTheory.Definitions.Degenerations.NotFrobGUnitRat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrobOverPtOver
 
 set_option autoImplicit false

@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.WeightChange
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZLevD
 
 noncomputable section
 

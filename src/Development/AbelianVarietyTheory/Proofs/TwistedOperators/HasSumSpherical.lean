@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasLenOfLatLen
+import Formalism.SatakeDualWeyl.KpqSubgroupCompact
 
 noncomputable section
 

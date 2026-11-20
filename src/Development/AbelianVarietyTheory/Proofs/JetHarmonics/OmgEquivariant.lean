@@ -1,10 +1,4 @@
-import Mathlib
-import Formalism.HermitianCurvature.StatementD
-import Formalism.HermitianCurvature.StatementQ
-import Formalism.HermitianCurvature.BigCellVanishingOfCommute
-import Formalism.HermitianCurvature.StatementU
 import Development.AbelianVarietyTheory.Definitions.Jets.WigMap
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.MulVecBvecApply
 
 open Matrix Formalism.QuantumDeterminants Formalism.FourierDecayAlt.Q
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PoincareLelongRegularised
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PPtsRegLimit
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PPtsAbsIntegrable

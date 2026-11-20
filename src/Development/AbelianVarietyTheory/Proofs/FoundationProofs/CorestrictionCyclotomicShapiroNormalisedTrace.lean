@@ -1,9 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.ApplyEqOfMemAdjoin
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsTopWTopWOfExists
-import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsOfEmbedding
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.FiniteIndexStabilizer
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUniqueNormalizedCyclotomicTrace
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.SubOneMulSumEq
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.PowPrimeStep
 

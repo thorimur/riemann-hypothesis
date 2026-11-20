@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMtTieCoord
-import Formalism.LocalToGlobal.Divisibility.RowSideTie
 
 noncomputable section
 

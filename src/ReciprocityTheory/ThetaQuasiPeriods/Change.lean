@@ -1,4 +1,7 @@
-import ReciprocityTheory.ThetaQuasiPeriods.Transl
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Polynomial.Basic
+import ReciprocityTheory.ThetaQuasiPeriods.ThetaQuasiPeriodStatement
 
 noncomputable section
 

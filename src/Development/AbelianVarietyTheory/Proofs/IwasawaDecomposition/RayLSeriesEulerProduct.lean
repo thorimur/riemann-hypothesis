@@ -1,5 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.NonemptyRayDataOfNeZero
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.Normed.Group.Tannery
+import Mathlib.Analysis.SpecialFunctions.Log.Summable
+import Mathlib.NumberTheory.EulerProduct.ExpLog
+import Mathlib.NumberTheory.NumberField.DedekindZeta
+import Mathlib.Topology.UniformSpace.Uniformizable
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField IsDedekindDomain GlobalTheory.Mem Complex Filter Topology
 open scoped ComplexOrder

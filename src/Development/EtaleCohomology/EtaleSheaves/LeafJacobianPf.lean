@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafChartRingPf
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 open MvPolynomial TensorProduct

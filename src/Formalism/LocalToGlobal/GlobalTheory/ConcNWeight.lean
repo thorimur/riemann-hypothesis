@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.GlobalTheory.IrreducibleOfCountSizes
 import Formalism.PadicSubsetSums.StableGradedCounts.PropertyWOfEstimates
-import Formalism.PadicSubsetSums.StableGradedCounts.LocalEstimateIVOfTypeSetWeight
+import Formalism.SharpRestriction.LevelLetterCocycles.PlaceLabelTeichmuller
 
 open Finset Polynomial
 

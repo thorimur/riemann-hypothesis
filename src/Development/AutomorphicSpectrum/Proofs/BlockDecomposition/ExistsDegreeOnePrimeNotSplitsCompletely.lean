@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.DegreeOneDensity
 open NumberField IsDedekindDomain GroundTheory.Global
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.CxCutEP
 
 open Module NumberField IsDedekindDomain Polynomial

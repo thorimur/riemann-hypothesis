@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitChartAt
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapPairDetCovec
 
 set_option autoImplicit false
 

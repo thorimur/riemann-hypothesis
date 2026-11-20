@@ -1,6 +1,6 @@
-import Formalism.LocalToGlobal.Columns.ReductionExistsInLatticeStabilizerHolds
 import Formalism.LocalToGlobal.Columns.BlockTriangularMulVecMemPartialFlag
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnfoldingEquivalence.CompSymmComp
+import Formalism.LocalToGlobal.Columns.FirstUnfoldingEqZeroOfNotIntegral
 
 open NumberField IsDedekindDomain Module
 

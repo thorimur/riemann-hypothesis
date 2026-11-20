@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsLv
+import Development.AbelianVarietyTheory.Proofs.FoundationProofs.TensorIdeleNormalizedAbsIdeleHalfAtInfinity
+import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsModerateFormAdd
 
 noncomputable section
 

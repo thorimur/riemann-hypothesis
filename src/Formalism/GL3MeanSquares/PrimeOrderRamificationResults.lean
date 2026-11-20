@@ -1,6 +1,5 @@
 import Formalism.GL3MeanSquares.HookFormulaTorsion.ConditionIffDualEqFunctional
 import Formalism.GL3MeanSquares.HookFormulaTorsion.FourierCommutesHeckeScalar
-import Formalism.GL3MeanSquares.HookFormulaTorsion.LengthQuotientBoundGeneral
 import Formalism.GL3MeanSquares.HookFormulaTorsion.LemmaCTwistRamified
 
 namespace Formalism.HermitianLattices.Final

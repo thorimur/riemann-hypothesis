@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.ConeDefs
 import GroundTheory.ProfiniteCohomology.CompactSupportCohomology.CupLeibniz
 import GroundTheory.ProfiniteCohomology.CoinducedModules.Acyclic

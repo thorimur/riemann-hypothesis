@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Theta.Weil.PartialFourierSchwartz
 import GroundTheory.HeightsAndTheta.Theta.Weil.PartialFourierCoordinates
 

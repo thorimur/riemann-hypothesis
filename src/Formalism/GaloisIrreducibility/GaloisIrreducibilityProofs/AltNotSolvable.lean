@@ -1,4 +1,5 @@
 import Formalism.GaloisIrreducibility.Statement
+import Mathlib.GroupTheory.SpecificGroups.ZGroup
 
 namespace Formalism.GaloisIrreducibility
 

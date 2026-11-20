@@ -1,6 +1,9 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.SecBaseChangeAnySt
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.IsRegularOfSupportDimQuotientAddLengthLe
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.CategoryTheory.Monoidal.Mon
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.Regular.ProjectiveDimension
 
 open CategoryTheory CategoryTheory.Limits CategoryTheory.Abelian IsLocalRing
 

@@ -1,5 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SeparatingAlgebras.StGlob
-import Development.AbelianVarietyTheory.Definitions.Divisors.GenTyL
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsIntegralOpW
 
 noncomputable section
 

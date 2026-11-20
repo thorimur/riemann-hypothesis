@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.LocalFields.UnramifiedDefs
 import GroundTheory.LocalFields.ExistsUnitFiltrationUnitsLeRangeNormUnits
-import GroundTheory.LocalFields.FilteredSurj
 import GroundTheory.GlobalFields.KummerTheory.LocalIndex
 
 noncomputable section

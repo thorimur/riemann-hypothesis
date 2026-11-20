@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CubeRatio
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.EqOfPderivOfBlinKill
 
 open GlobalTheory.RayHoriz.CubeNorm

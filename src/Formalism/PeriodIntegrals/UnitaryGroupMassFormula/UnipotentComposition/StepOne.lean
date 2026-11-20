@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.StatementU
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BetaSesquilinearity
 
 open Matrix MvPolynomial
 open scoped ComplexConjugate

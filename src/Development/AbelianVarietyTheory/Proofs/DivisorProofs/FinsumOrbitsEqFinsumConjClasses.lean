@@ -1,7 +1,6 @@
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StabEqStabilizer
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StabilizerEqCentralizer
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeightedOrbitSumEqPairOrbitSumStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinsumConjClassesCentralizerOrbitsEqPairOrbitsStatement
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 open GlobalTheory.LKCount GlobalTheory.OrbitUnfold
 

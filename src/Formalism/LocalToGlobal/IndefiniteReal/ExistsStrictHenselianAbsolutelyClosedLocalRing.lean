@@ -1,6 +1,11 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.AllPartsTransfer
 import Lemmata.RankOneOrbitForms.RankOneForm
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Module NumberField
 

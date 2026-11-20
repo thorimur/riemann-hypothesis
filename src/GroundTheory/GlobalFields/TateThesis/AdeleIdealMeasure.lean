@@ -1,8 +1,6 @@
-import Mathlib
-import GroundTheory.GlobalFields.TateThesis.AdeleMeasure
-import GroundTheory.GlobalFields.TateThesis.FiniteAdeleScaling
 import GroundTheory.GlobalFields.TateThesis.AdeleScaling
-import GroundTheory.GlobalFields.LocalFieldAtPlace
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace GroundTheory.Global
 

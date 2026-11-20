@@ -1,9 +1,9 @@
-import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.VerticalStrips.UnramifiedEulerProductIntegral
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalUnramifiedCharacterEquivariance
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalUnramifiedDiagonalAction
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalUnramifiedGaugeEstimate
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SumRangeEsymmLMulSchur
+import Mathlib.Order.Interval.Finset.Box
 
 open GroundTheory.LocalField GroundTheory.Automorphic GroundTheory.Automorphic.Spherical GroundTheory.Automorphic.Iwasawa GroundTheory.Automorphic.GLnLocal
 open scoped ValuativeRel ComplexConjugate

@@ -1,8 +1,5 @@
 import Formalism.LocalToGlobal.InertKernelTheory.DefsRepFrame
-import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.IntBasis
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.FrLocB
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PHfTrace
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PLinkThU
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.BaseEx
 
 noncomputable section

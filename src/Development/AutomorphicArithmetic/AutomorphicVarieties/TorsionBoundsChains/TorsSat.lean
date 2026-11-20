@@ -1,5 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.FaceDSingle
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.TorsSatMult
+import Mathlib.Tactic.ENatToNat
 
 open CategoryTheory UpperTheory.V.KH
 

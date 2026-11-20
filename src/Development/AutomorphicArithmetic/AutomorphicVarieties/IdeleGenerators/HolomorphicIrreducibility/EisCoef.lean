@@ -1,6 +1,7 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.ConstSmall
 import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.HolomorphicIrreducibility.TsumNormEisensteinTranslate
 import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.HolomorphicIrreducibility.Lipschitz
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 open Complex UpperHalfPlane UpperTheory.V.Af
 

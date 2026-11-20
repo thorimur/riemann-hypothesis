@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.DefsTw
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.TwUnitary
 
 open MeasureTheory NumberField IsDedekindDomain

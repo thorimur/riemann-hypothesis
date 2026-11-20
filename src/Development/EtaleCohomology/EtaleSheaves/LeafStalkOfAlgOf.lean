@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafSpreadSmooth1Of
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite LateralTheory.E.E4 LateralTheory.E.LeafDescendVCut TensorProduct

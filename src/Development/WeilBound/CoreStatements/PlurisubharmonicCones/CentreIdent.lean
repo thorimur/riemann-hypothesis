@@ -1,7 +1,7 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PlurisubharmonicCones.PhiTransport
 import Development.WeilBound.CoreStatements.PlurisubharmonicCones.TorusExpEqOne
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.IsDerivAt0CompLinMap
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ExistsUniqueLeftBasisCoordsAdicCompletion
+import Development.AutomorphicSpectrum.Proofs.GeometryProofs.PrincipalNearBoundary
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField TensorProduct Filter Topology Matrix
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.Semi GlobalTheory.CompanionTheory.Ar
 

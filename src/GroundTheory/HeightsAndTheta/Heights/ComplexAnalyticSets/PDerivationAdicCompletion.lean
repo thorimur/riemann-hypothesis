@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StDerivationAdicCompletion
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.DerivationMemPowOfMemPowSucc
 set_option maxSynthPendingDepth 1

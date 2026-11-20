@@ -1,7 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.TopFirstOfParts
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FubiniRightIntegral
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ActualAlgebraFacts
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelsOfBuiltSetting
 
 open MeasureTheory Matrix
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2Classical.Complexify
 import GroundTheory.AutomorphicForms.GL2Classical
 

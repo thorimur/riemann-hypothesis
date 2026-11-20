@@ -1,8 +1,8 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.LdExOfLeaves
 import Development.WeilBound.ThetaLifts.LatticeBasics.StdExOf
 import Development.WeilBound.ThetaLifts.LatticeBasics.FrameConj
 import Development.WeilBound.ThetaLifts.LatticeBasics.HgtInt
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalUnitExistence.UnitHermitianSpace
+import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.Em0Injective
 
 noncomputable section
 

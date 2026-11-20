@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.AlternatingFormStandardHermitian
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ThCLeftStab
 open NumberField IsDedekindDomain Formalism.L2.Ker
 

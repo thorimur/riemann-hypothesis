@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SendsToAlgMulAlg
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelSquareIntegrableOfTransport
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.RadialTransformSquareIntegrable
 
 open MeasureTheory
 open scoped Matrix

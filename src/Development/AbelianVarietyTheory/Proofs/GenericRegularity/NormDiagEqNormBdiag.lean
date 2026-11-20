@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.FrameEx
 import Development.AbelianVarietyTheory.Proofs.GenericRegularity.NormWcharEqNormBchar
 

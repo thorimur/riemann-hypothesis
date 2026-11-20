@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HilbertSchmidt
+import Mathlib.MeasureTheory.Function.L2Space
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
 
 namespace GroundTheory.Automorphic.L2Kernel
 

@@ -1,5 +1,4 @@
 import Development.WeilBound.CoreStatements.VolumeEquality.BaseUnifDefs
-import Development.AutomorphicSpectrum.Statements.TowerExistence.GoodTowerExistsX
 
 noncomputable section
 

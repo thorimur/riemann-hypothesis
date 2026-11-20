@@ -2,7 +2,6 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.cut_GCore_GenTransf
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagonalTransferAction
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SettingConstruction
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.NFRadRedLocSec
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.NFRadRedA
 
 open Matrix Finset
 open scoped ComplexOrder InnerProductSpace

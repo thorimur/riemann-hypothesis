@@ -1,4 +1,5 @@
 import Development.WeilBound.ThetaLifts.LocalTheory.ArchimedeanBumps.IntegrableConjPowGaussian
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

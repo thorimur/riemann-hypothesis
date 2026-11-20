@@ -1,6 +1,8 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.EigenRatHermLcv
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ConjugateWeightLatticeOfGeneral
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.LinearAlgebra.Eigenspace.Pi
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

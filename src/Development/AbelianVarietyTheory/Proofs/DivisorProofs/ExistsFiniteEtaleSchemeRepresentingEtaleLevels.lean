@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsEtLevOver
-import Development.AbelianVarietyTheory.Proofs.ModuliProofs.RangeSubsetOfGeom
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InfinitesimalPointTrivial
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteFlatTorsionSubgroup
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsionSubgroupUniversal

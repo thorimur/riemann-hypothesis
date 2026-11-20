@@ -1,8 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.RecBridge
-import Formalism.SharpRestriction.Divisibility.PrimeDegreeVariant
-import Formalism.SharpRestriction.ElevenLe
-import Formalism.SharpRestriction.Divisibility.SlopeExcess.FamilyStatementOfScaledLemmas
 import Formalism.SharpRestriction.Divisibility.HookProducts.NormAtEqSqrtMajAt
 import Formalism.SharpRestriction.Divisibility.HookProducts.LambdaZeroLeFourB
 

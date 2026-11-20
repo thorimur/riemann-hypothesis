@@ -1,5 +1,9 @@
-import Mathlib
 import Formalism.PeriodIntegrals.LocGlobIncl
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField IsDedekindDomain
 

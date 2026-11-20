@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.NfAllBrTenLe
-import Formalism.LocalToGlobal.Columns.CoefficientsModP.FkPderivBlockEmbNe
 
 noncomputable section
 

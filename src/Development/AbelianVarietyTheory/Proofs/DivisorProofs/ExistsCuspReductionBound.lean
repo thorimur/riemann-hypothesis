@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.DivisorSupportCondition
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChainsBasic
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC
 

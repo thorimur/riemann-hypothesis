@@ -2,7 +2,7 @@ import Formalism.LocalToGlobal.Divisibility.DivisibilityRemainder.NoColumnCase.L
 import Formalism.LocalToGlobal.Divisibility.DivisibilityRemainder.LinkedMeasures.SlopeId
 import Formalism.LocalToGlobal.Divisibility.DivisibilityRemainder.ValueBounds.SlopeMaxB
 import Formalism.LocalToGlobal.Divisibility.DivisibilityRemainder.AdmissibleClasses.LinkGCl
-import Formalism.LocalToGlobal.TieTwRecOf
+import Formalism.LocalToGlobal.IndefiniteRealisationChoice
 
 noncomputable section
 

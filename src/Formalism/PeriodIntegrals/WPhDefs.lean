@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.ThGDefs
+import Formalism.PeriodIntegrals.HeisDefs
 
 namespace PI
 

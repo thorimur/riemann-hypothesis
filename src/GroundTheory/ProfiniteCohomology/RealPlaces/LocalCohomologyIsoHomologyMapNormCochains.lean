@@ -1,6 +1,8 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.ConeDefs
 import GroundTheory.ProfiniteCohomology.CompactSupportCohomology.Pairing
+import GroundTheory.ProfiniteCohomology.CompactSupportCohomology
+import Mathlib.CategoryTheory.EffectiveEpi.Comp
+import Mathlib.CategoryTheory.ExtremalEpi
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

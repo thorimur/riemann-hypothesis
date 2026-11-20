@@ -1,4 +1,4 @@
-import Development.WeilBound.ThetaLifts.Reductions.MetaplecticDerivatives.MpFOne
+import Development.WeilBound.ThetaLifts.Reductions.MetaplecticDerivatives.ContinuousPair
 
 noncomputable section
 

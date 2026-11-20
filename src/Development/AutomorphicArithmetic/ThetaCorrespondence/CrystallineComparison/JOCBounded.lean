@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.ThetaCorrespondence.CrystallineComparison.LeafDefs
+import Development.AutomorphicArithmetic.ThetaCorrespondence.CrystallineComparison.IotaBounded
 
 noncomputable section
 

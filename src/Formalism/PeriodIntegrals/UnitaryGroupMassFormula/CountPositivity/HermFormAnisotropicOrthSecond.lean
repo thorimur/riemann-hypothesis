@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.BlockEnds
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountPositivity.CardLeOfNegFamily
 
 noncomputable section
 

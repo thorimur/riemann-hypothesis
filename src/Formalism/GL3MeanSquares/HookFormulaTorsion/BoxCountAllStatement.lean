@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.GL3MeanSquares.BoxCountAll
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.CountOut
 

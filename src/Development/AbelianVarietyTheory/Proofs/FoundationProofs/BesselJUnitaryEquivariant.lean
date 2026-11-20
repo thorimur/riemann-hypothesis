@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.FormalDegreeBessel.StatementBF
 
 open Matrix MeasureTheory Formalism.QuantumDeterminants

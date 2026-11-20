@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.AdmissibleOfCrystalline
-import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.HkOfPush
-import Development.WeilBound.CoreStatements.CrystallinePeriodRings.LocTied6
+import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.VecZero
+import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.GenericScale
+import Development.WeilBound.CoreStatements.CrystallinePeriodRings.InstCommRingBcris
 
 noncomputable section
 

@@ -1,8 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.ImportsBis
 import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.ImportsAlt
 import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.Imports
-import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.ImportsTer
+import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.Statements
+import Mathlib.Algebra.Ring.IsFormallyReal
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.EffectiveHS

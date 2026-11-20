@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.HarderNarasimhan.StatementPl
+import Mathlib.Tactic.Polynomial.Basic
 
 open Module NumberField
 

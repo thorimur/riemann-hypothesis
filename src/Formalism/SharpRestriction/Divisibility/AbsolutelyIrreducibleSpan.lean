@@ -1,18 +1,6 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalRingCardinality.DataParams₂
-import Formalism.LocalRingCardinality.DataParams
-import Formalism.LocalRingCardinality.DataDIV
-import Formalism.LocalRingCardinality.DataDIVDefs
-import Formalism.LocalRingCardinality.DataTheta
-import Formalism.LocalRingCardinality.PrincipalHermitianLattice
-import Formalism.LocalRingCardinality.DataKap
-import Formalism.LocalRingCardinality.DataAmbForm
-import Formalism.HarderNarasimhan.StatementPl
-import Formalism.HermitianLattices.StatementMaj
 import Formalism.SharpRestriction.Divisibility.SchurIrreducible
-import Formalism.SharpRestriction.ParConsts
 import Formalism.SharpRestriction.ParamsHeightRankConstant
+import Mathlib.NumberTheory.PrimesCongruentOne
 
 noncomputable section
 

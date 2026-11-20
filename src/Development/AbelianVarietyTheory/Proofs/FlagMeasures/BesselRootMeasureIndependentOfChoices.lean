@@ -1,7 +1,10 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.NormalizedLocalScale
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.RootMeasureTransportDoubleCoset
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.MatrixOfBesselTwoSidedAction
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.CategoryTheory.Countable
+import Mathlib.Data.Matrix.ColumnRowPartitioned
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Topology.Separation.CompletelyRegular
 
 noncomputable section
 

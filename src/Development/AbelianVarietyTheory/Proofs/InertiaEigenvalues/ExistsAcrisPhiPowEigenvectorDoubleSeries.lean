@@ -1,8 +1,5 @@
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ImportsAlt
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Acris0TorsionFree
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsEigenvectorHasSumAdicCompleteFrobeniusStatement
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsFrobeniusSeriesAcrisUntiltStatement
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsCrisP
 
 open Formalism.Per GlobalTheory.PSer
 open scoped Formalism.Per

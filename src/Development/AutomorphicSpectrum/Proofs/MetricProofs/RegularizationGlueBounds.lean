@@ -1,8 +1,7 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.LeviForms.RegGlue
-import ReciprocityTheory.AnalyticForms.LeviForms.RegChartC
 import ReciprocityTheory.AnalyticForms.LeviForms.TailCut
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.LoglogQuotNonneg
+import Mathlib.Analysis.SpecialFunctions.Log.Monotone
 open MeasureTheory Metric Filter Topology ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M ReciprocityTheory.AnForm.P ReciprocityTheory.AnForm.M.FinHolAtlas
 open scoped ContDiff
 

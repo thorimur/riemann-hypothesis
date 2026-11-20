@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.IsOrthCo
 import Formalism.LocalToGlobal.Columns.RecLevel
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.AlgebraMapApply

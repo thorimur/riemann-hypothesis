@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.PrimeDegreeVariant
 
 open Formalism.BasicNotions Formalism.MainNotions

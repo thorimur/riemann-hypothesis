@@ -2,6 +2,7 @@ import Development.WeilBound.ThetaLifts.SphericalLattices.FunDefs
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.HypothesesAtTriple
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.LinearAct
 import Development.WeilBound.CoreStatements.LocalThetaKernels.Locpair
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicLocalCompactness.T2SpaceTensorProductFiniteExtension
 
 noncomputable section
 

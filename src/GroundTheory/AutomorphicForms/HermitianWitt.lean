@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HermitianOrthogonal
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

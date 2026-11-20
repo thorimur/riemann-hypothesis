@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StSemilocResidueFibreDim
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StSemilocResidueAdjoin
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PChartRankAdjoin
+import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsSemilocResidueDeg
 set_option maxSynthPendingDepth 1
 
 noncomputable section

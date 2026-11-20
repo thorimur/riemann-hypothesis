@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModelGramPosSemidef
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBoundaryPotentialSnc
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DivisorPotentialIsSNCBoundary
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ModelDdcForms
 
 set_option autoImplicit false
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PnPosOfGeneratesAt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetWeightIsCInfOfPotentialStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetWeightIsConjOfConjNormsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ReadFnCInfAtOfSmoothStatement
@@ -7,6 +5,7 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MongeAmpereIntegral
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HalfMetWeightEqPotentialHoloStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsPotentialTransportHomeomorphStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviAtLinearCombinationPotentialStatement
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HalfWeightLocPot
 
 open CategoryTheory AlgebraicGeometry NumberField ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M
 open Formalism.BasicNotions GlobalTheory GlobalTheory.Cartier GlobalTheory.ProjVar GlobalTheory.TrueGeo GlobalTheory.ArInt GlobalTheory.Mean4 GlobalTheory.Mean4O GlobalTheory.CxPts

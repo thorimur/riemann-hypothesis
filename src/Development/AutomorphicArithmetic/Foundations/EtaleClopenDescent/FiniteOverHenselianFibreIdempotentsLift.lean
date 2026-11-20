@@ -1,5 +1,6 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.FibreIdem
+import Development.EtaleCohomology.EtaleSheaves.LZProperCut
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry LateralTheory.E.t_E2Cut LateralTheory.E.StandardEtaleChartsIdempotentGluing LateralTheory.E.StdChartsProof

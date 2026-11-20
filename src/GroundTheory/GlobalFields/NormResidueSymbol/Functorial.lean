@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.NormResidueSymbol.FunctorialFinite
 import GroundTheory.GlobalFields.NormResidueSymbol.FunctorialInfinite
 

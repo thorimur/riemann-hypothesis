@@ -1,5 +1,4 @@
 import Development.WeilBound.CoreStatements.LocalThetaKernels.LocpairAlg
-import Development.AutomorphicSpectrum.Proofs.MembershipProofs.WeilRepresentationSplittingsDiffer
 
 noncomputable section
 

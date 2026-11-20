@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.ComplexUniformizationSigOne
 import Development.AutomorphicArithmetic.RealSpanData.RealData
 
 set_option autoImplicit false

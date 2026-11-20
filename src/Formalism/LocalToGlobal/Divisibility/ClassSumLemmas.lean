@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.Divisibility.ClassSum
+import Mathlib.RingTheory.WittVector.IsPoly
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

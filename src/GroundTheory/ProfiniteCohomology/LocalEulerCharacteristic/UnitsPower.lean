@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.UnitsPowers
 import GroundTheory.LocalFields.NormalLattice
 set_option maxSynthPendingDepth 1

@@ -1,5 +1,7 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.SymmetricPowerSymbols.WkTopEq
 import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.NormProducts.LUnH
+import Development.AbelianVarietyTheory.Definitions.Foundations.IsZetaTW
+import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.NormProducts.InvMod
 
 noncomputable section
 

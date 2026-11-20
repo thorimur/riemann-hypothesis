@@ -1,6 +1,5 @@
 import Formalism.GaussJetBounds.OneLetterGaussJets.StatementJ
 import Formalism.GaussJetBounds.OneLetterGaussJets.StatementF
-import Formalism.GaussJetBounds.GaussJetProofs.FrameA
 import Formalism.GaussJetBounds.GaussJetProofs.Generic
 
 noncomputable section

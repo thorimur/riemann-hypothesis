@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.Columns.Adelic
 import Formalism.LocalToGlobal.Columns.Inputs
 
 open NumberField IsDedekindDomain Matrix

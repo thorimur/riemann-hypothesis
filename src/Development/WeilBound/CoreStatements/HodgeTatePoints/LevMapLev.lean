@@ -1,4 +1,3 @@
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.IsPolLatticePlane
 import Development.WeilBound.CoreStatements.HodgeTatePoints.Twpdiv
 
 noncomputable section

@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.SchurIrreducible
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsFockIPOfFockData
+import Mathlib.Analysis.InnerProductSpace.SingularValues
 
 noncomputable section
 

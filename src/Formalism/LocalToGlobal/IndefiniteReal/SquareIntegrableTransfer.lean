@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.IndefiniteReal.EvalTieOf
 import Formalism.LocalToGlobal.IndefiniteReal.EvalTieTOne
 import Formalism.LocalToGlobal.IndefiniteReal.MeasurableMulGA
 

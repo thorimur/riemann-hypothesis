@@ -1,9 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.KappaOffDiagonal
-import Formalism.SharpRestriction.CuspSpanNormBounds.LatticeGluingRadicals
-import Formalism.FlagUnipotentLattices.MemOfOrthogonalAnisotropic
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.AdaptSelf
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.GoodLoc
+import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsFundOne
 
 noncomputable section
 open scoped Classical ENNReal Pointwise

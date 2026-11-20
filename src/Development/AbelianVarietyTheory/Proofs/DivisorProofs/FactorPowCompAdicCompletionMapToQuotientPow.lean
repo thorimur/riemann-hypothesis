@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.QuasiCompact
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

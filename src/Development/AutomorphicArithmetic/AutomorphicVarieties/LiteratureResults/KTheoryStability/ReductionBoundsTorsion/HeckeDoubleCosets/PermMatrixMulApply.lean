@@ -1,4 +1,8 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.ReductionBoundsTorsion.HeckeDoubleCosets.PHeckeFormal
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.LinearAlgebra.Matrix.Permutation
+import Mathlib.NumberTheory.NumberField.Ideal.Basic
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

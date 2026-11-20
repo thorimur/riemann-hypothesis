@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.MinpolyIrreducibleNatDegreeOfRankOne
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToVInjective
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveEigenvectorOfSimilitudeUnique
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicHaarMeasureScaling
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharacter

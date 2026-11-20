@@ -1,4 +1,7 @@
-import ReciprocityTheory.SemistableReduction.ShareBallA
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import ReciprocityTheory.SemistableReduction.ShareSt
 
 noncomputable section
 

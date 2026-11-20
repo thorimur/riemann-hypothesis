@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BaseChangeNakayamaApproximation
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRingRChain
 open GlobalTheory.RingChain
 open scoped TensorProduct Pointwise ChangeOfRings
 set_option maxHeartbeats 1000000 in

@@ -1,7 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.LevelLetterCocycles.BlochKatoPhases
-import Formalism.SharpRestriction.LevelLetterCocycles.ArithmeticCylinders
 import Formalism.SharpRestriction.LevelLetterCocycles.ExistsIdealDenominator
 import Formalism.SharpRestriction.LevelLetterCocycles.IntegralHeckeForms
 

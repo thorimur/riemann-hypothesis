@@ -1,8 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BlowPolSt
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InjectiveOfFlat
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GlueSt
-import Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSabDescentOfFieldExtension
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GenericPointOfFlatLocalStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PolarizationOfRefinedFanStatement
 

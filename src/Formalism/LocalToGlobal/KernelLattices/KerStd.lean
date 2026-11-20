@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.AlgebraicTheory.StatementEig
-import Formalism.LocalToGlobal.AlgebraicTheory.StatementNorm
+import Formalism.LocalToGlobal.AlgebraicTheory.StatementKer
 
 noncomputable section
 open scoped BigOperators

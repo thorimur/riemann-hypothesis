@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.IsPullWedge
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCompCompareFlag
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.GenericPointFieldIso

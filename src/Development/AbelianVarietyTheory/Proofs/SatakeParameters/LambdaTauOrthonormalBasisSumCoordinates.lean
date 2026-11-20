@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsRingHomRhoK
+import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.StdBases
+import Formalism.LocalToGlobal.InertKernelTheory.DefsRepFrame
 
 noncomputable section
 

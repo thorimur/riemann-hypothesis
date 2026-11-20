@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.ClassFunctionSumIntegral
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.PlacesToAdeles
 

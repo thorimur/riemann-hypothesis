@@ -1,4 +1,9 @@
 import Formalism.HermitianCurvature.StatementG
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Matrix
 open Formalism.FourierDecayAlt.G

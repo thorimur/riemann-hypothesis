@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsReducedCut
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.OrdModEqLengthQuotSup
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PDivCycleMul

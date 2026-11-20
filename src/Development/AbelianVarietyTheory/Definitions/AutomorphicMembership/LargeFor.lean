@@ -1,10 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.PeriodComparisonProvisional
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.GeometrySectionsEqRiemannRoch
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LocStOfLoc
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.GeoTiedPGraft
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.VarietyWithModels
-import Formalism.LocalToGlobal.LatticeGeometry.GeoTiedP
 
 noncomputable section
 

@@ -3,6 +3,7 @@ import Development.WeilBound.ThetaLifts.LocalTheory.UnramifiedCohomology.MemLatW
 import Development.WeilBound.ThetaLifts.TowerModels.LeviAd
 import Development.WeilBound.CoreStatements.LocalThetaKernels.Locrep
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.Vaceigen
+import Development.WeilBound.CoreStatements.LocalThetaKernels.IwasMain
 
 noncomputable section
 

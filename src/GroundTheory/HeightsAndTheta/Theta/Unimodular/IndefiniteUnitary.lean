@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Theta.Cartan
 
 namespace GroundTheory.Heights₂.Theta

@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.PoitouTate.PoitouTateInfinite.Descent
 import GroundTheory.ProfiniteCohomology.PoitouTate.PoitouTateInfinite.Levels
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChangeMackey
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.Brauer
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.HighDecomp
 set_option maxSynthPendingDepth 1

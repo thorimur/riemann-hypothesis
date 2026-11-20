@@ -1,7 +1,8 @@
-import Mathlib
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.EntryMulSubOne
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.CartanExists
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BallSubgroup
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

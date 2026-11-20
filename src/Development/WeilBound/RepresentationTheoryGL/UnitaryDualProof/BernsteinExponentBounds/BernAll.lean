@@ -4,7 +4,6 @@ import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TraceDistri
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.HermitianForms.UnitaryLattices.DerivPos
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.BernOf
 import Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.ComplementarySeries.HighestDerivativeProducts.HighestDerivProd
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.BernsteinUnitaryProductIrreducible
 
 namespace PositivityTheory.RgUd.All
 

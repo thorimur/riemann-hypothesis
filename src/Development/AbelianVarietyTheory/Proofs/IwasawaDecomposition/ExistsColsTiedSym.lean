@@ -1,8 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RedivisionStructureEq
 import Formalism.LocalToGlobal.GroupLattices.Joint0
-import Formalism.LocalToGlobal.NumberFieldFamilies.OwnStruct
-import Formalism.LocalToGlobal.IndefiniteReal.HeckeNonvanishing.Imports
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FormsRe
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HermRe
 

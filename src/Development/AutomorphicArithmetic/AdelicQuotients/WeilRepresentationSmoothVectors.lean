@@ -1,9 +1,8 @@
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.SchurStep
-import Development.WeilBound.ThetaLifts.FrameEstimates.CuspRapid
-import Development.WeilBound.ThetaLifts.EigenvalueEndgame.UnipotentGroups.TendstoIndMul
-import Development.WeilBound.ThetaLifts.LatticeBasics.PolFin
-import Development.WeilBound.ThetaLifts.CartanFactorisation.ArchimedeanEvaluationVector
-import Development.WeilBound.ThetaLifts.LatticeBasics.PairsL
+import Development.WeilBound.ThetaLifts.FrameEstimates.CoefBd
+import Development.WeilBound.ThetaLifts.FrameEstimates.CoefEq
+import Development.WeilBound.ThetaLifts.FrameEstimates.CoefReal
+import Development.WeilBound.ThetaLifts.FrameEstimates.FourierInj
+import Development.WeilBound.ThetaLifts.FrameEstimates.SchrAddPt
 
 open scoped TensorProduct NNReal Matrix
 open NumberField IsDedekindDomain MeasureTheory Filter Topology Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes

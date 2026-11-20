@@ -1,8 +1,11 @@
-import Formalism.HermitianCurvature.MemParahoricTimesPrincipalCongruenceIff
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PointwiseStabiliserParametrisationBijective
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ReductionSurjective
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MemIntegralGlOfMiddleBlock
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LduDecompositionExists
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace Formalism.FourierDecayAlt.P.FrameLevelIndices
 

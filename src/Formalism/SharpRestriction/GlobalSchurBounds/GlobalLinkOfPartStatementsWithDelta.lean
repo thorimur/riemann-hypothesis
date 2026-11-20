@@ -1,4 +1,3 @@
-import Formalism.SharpRestriction.GlobalSchurBounds.LossesSmallShares
 import Formalism.LocalToGlobal.GlobalTheory.LossRequirementsOfSmallShares
 
 noncomputable section

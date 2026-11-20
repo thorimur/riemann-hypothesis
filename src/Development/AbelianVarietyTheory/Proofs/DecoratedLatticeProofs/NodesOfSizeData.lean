@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.StandingHypothesesHoldFamily
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ToGlob0
+import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SecondLabelsNonempty
 open Formalism.BasicNotions Formalism.MainNotions GlobalTheory.Diag.PG
 
 noncomputable section

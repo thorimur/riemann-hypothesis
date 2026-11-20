@@ -1,6 +1,13 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NormPowLeNormFactorial
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.DerivationMemPow
+import Mathlib.Algebra.DualNumber
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.RingTheory.AdicCompletion.Algebra
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Topology.Algebra.InfiniteSum.Nonarchimedean
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

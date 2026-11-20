@@ -1,10 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RowDict
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RowLevelMatch
 import Formalism.SharpRestriction.LevelLetterCocycles.ArithmeticCylinders
-import Formalism.LocalToGlobal.GaloisLevelStructure.DefsFinTyp
-import Formalism.LocalToGlobal.GaloisLevelStructure.DefsAutLoc
-import Formalism.LocalToGlobal.IndefiniteReal.TensCastR
+import Formalism.LocalToGlobal.IndefiniteReal.PrincipalLevelFrame
 
 noncomputable section
 

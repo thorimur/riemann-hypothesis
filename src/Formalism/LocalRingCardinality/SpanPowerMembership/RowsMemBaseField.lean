@@ -1,5 +1,5 @@
-import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowAsm
 import Formalism.LocalRingCardinality.SpanPowerMembership.EACentral
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowZ
 
 noncomputable section
 

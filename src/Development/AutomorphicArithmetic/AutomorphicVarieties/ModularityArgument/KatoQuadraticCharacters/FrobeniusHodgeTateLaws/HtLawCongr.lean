@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.FrobeniusHodgeTateLaws.ThickFrames
+import Development.AbelianVarietyTheory.Definitions.Foundations.HTPresNuOfPolys
 
 noncomputable section
 

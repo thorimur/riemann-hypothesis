@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HypOneZeroZero
-import Development.AbelianVarietyTheory.Definitions.Foundations.NonemptyAlgHomOfNotIsField
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.DoublingNormDetSplitPlaceLatticeIntersection
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsNormEqInv
+import Formalism.UnipotentAdelicQuotients.SWXSDefs
+import Mathlib.Topology.MetricSpace.Ultra.Pi
 
 noncomputable section
 

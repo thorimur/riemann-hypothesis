@@ -5,7 +5,6 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatJDCapAAll
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatNodes
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatLagrange
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MirrorResidueSplittingHolds
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatPolyOK
 
 open Formalism.FourierDecayAlt
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.PowBddInt
 
 namespace PI.PowBddIntWork

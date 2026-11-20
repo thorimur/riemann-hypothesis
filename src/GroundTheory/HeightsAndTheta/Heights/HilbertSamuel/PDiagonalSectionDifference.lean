@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDiagonalSectionDifference
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSectionsDimZero
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSerreGraded
@@ -7,6 +6,7 @@ import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PEventualPolynomial
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PShiftDegreePolynomial
 import GroundTheory.HeightsAndTheta.Heights.Intersections.AvoidRing
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.GradedSpanProducts
+import Mathlib.Data.Rat.Star
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

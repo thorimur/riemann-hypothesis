@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.IsNormalisedOfIsDiscrete
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCompactLatticeGL
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.EqOneOfInfOfVal
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.EquivOfISupRange
 
 noncomputable section
 

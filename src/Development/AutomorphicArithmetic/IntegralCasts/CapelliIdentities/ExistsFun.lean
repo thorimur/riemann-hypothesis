@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.FixedSubgroup
 import Development.AbelianVarietyTheory.Definitions.Foundations.SmoothPartStable
 

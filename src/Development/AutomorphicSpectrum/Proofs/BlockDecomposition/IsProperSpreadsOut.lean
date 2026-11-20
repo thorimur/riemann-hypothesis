@@ -1,6 +1,9 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.CubeTheorem.SchemeModels
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsFiniteAffineCover
+import Mathlib.AlgebraicGeometry.QuasiAffine
+import Mathlib.AlgebraicGeometry.ValuativeCriterion
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 set_option autoImplicit false
 

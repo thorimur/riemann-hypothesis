@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ContinuousMinorRatioLift
 set_option maxSynthPendingDepth 1
 

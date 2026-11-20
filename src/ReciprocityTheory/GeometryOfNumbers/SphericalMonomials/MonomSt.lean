@@ -1,4 +1,7 @@
 import ReciprocityTheory.GeometryOfNumbers.SphericalMonomials.MonomStA
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import ReciprocityTheory.GeometryOfNumbers.SphericalMonomials.GaussSt
 
 namespace ReciprocityTheory.GeometryOfNumbersTheory
 

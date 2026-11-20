@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.IndicatorFunctionIdentity
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairOperatorStatement
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IndicatorIdentity
 
 open ValuativeRel Matrix IsLocalRing

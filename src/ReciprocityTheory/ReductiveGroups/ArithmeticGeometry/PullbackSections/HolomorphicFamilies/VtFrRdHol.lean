@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.HolJetC
+import Mathlib.RingTheory.PicardGroup
 
 set_option autoImplicit false
 

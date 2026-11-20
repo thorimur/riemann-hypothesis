@@ -1,6 +1,4 @@
-import Formalism.SharpRestriction.GlobalSchurBounds.LinkMin
 import Formalism.SharpRestriction.GlobalSchurBounds.IntegralityOfRationalityLocal
-import Formalism.LocalToGlobal.GlobalTheory.GL6.RamifiedLatticeOfRankSlopeLength
 import Formalism.LocalToGlobal.GlobalTheory.GL6.SecondBranchInclLengthOfLengths
 
 noncomputable section

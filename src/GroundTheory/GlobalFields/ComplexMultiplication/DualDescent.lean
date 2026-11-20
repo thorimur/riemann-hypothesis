@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.DualDescentBase
 import GroundTheory.GlobalFields.ComplexMultiplication.BaseChangeDescent
 

@@ -1,5 +1,9 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.NoSmallSubgroups
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace GroundTheory.Global
 

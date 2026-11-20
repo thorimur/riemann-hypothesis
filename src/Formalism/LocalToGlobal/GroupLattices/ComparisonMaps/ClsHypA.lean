@@ -1,4 +1,4 @@
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Bridge
+import Formalism.SatakeDualWeyl.Statement
 
 noncomputable section
 

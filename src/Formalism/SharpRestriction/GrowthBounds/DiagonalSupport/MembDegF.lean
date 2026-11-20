@@ -1,4 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.HomCompRename
+import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.MembAlgF
+import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.PosTLSurj
+import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.Proposition5OfThreeParts
 
 noncomputable section
 

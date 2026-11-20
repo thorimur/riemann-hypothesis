@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.NumberFieldFamilies.ThetaCS
-import Formalism.LocalToGlobal.NumberFieldFamilies.ThetaCT
 
 noncomputable section
 

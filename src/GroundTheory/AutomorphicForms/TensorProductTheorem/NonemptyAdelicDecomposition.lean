@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TensorProductTheorem.GKMain
 import GroundTheory.AutomorphicForms.TensorProductTheorem.GeneralLinearIntegers
 import GroundTheory.AutomorphicForms.AutomorphicFormSpaces

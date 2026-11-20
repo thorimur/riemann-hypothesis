@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.QuotientMetricDivisors.Statement
 import Formalism.QuotientMetricDivisors.RatHermLcvTwist
 import Formalism.QuotientMetricDivisors.ClassSumDualLe
 import Formalism.LocalRingCardinality.DataArith

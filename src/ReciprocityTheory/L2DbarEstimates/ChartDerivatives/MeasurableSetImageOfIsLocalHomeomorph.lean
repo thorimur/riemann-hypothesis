@@ -1,4 +1,7 @@
-import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.ChartSymmEventuallyEq
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import ReciprocityTheory.L2DbarEstimates.IsLocalHomeomorph
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace ReciprocityTheory.L2DbarEstimates
 

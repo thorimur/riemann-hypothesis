@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsAlgHomOfIsBaseChange
 open GlobalTheory GlobalTheory.TopForm
 open scoped TensorProduct

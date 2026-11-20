@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.SameFormAllLevels
 import Formalism.LocalRingCardinality.DataArith
 

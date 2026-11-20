@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CommutativeAlgebra.RationalSplittingExists
 import Development.AutomorphicArithmetic.CommutativeAlgebra.BaseExtensionHolds
 import Development.AutomorphicArithmetic.CommutativeAlgebra.PowerProjectorExists

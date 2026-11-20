@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.LaTIsPrime
+import Mathlib.Algebra.AffineMonoid.Basic
 
 namespace ReciprocityTheory.ChartRestriction.G.T0
 

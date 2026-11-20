@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleTrace.GenOutGluePf
+import Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry MvPolynomial

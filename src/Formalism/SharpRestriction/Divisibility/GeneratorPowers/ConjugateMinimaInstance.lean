@@ -1,6 +1,4 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.PhiCSpan
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.PhiCMinima
-import Formalism.SharpRestriction.Divisibility.WeightFamilies
 import Formalism.SharpRestriction.Divisibility.WeightAlgebra
 
 set_option autoImplicit false

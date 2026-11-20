@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.HasRigidCoords
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TrdegResidueFieldOfIsOpenImmersion
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.RegularSmooth
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.RegDom

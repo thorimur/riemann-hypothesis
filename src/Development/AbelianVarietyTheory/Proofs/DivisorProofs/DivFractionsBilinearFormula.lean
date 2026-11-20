@@ -1,5 +1,12 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HPolyAddTwo
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.RingTheory.Complex
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 set_option autoImplicit false
 

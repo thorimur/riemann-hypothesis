@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.FractionFieldToGenericStalkAlgebraMapEq
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 open ValuativeRel Formalism.MainNotions.S.Loc

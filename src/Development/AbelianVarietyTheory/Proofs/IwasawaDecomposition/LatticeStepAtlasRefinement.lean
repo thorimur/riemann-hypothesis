@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CompGvec
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeStepHoldsPullbackStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CarrierMatrixTransferStatement
 

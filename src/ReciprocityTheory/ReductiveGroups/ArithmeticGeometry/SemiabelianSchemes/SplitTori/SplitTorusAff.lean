@@ -1,12 +1,9 @@
-import Mathlib.AlgebraicGeometry.Group.Abelian
 import Mathlib.AlgebraicGeometry.Group.Affine
-import Mathlib.AlgebraicGeometry.AffineSpace
-import Mathlib.AlgebraicGeometry.Morphisms.Smooth
-import Mathlib.AlgebraicGeometry.Morphisms.Separated
-import Mathlib.AlgebraicGeometry.Morphisms.Flat
-import Mathlib.AlgebraicGeometry.Geometrically.Connected
 import Mathlib.RingTheory.HopfAlgebra.MonoidAlgebra
-import Mathlib.CategoryTheory.Monoidal.Cartesian.Grp
+import Mathlib.CategoryTheory.Limits.Constructions.Over.Basic
+import Mathlib.Combinatorics.Matroid.Init
+import Mathlib.Data.NNReal.Defs
+import Mathlib.Data.Nat.Totient
 
 universe u
 

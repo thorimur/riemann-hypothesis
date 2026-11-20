@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.CircleEqOneOfRePos
+import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.ExistsSplitIdem
 
 noncomputable section
 

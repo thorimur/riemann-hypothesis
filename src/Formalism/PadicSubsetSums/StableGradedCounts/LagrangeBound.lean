@@ -1,5 +1,5 @@
-import Formalism.PadicSubsetSums.CentralIdempotents.WindowSums
 import Formalism.PadicSubsetSums.StableGradedCounts.PadicDigits
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.IrreducibleCountingLemmas.WindowSums
 

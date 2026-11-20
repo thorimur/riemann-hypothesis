@@ -1,4 +1,3 @@
-import Formalism.SubspaceCounting.StatementB
 import Formalism.SubspaceCounting.SubspaceCountingProofs.QVandermonde
 import Formalism.SubspaceCounting.SubspaceCountingProofs.SubspaceCount
 

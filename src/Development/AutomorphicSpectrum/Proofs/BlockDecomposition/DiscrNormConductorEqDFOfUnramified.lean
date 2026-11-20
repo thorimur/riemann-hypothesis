@@ -1,9 +1,5 @@
-import Mathlib
-import GroundTheory.GlobalFields.AnalyticClassNumber.HeckeContinued
-import GroundTheory.GlobalFields.TateThesis.RootNumberLocalFinite
-import GroundTheory.GlobalFields.IdeleGroups.ClassGroup
-import GroundTheory.GlobalFields.TateThesis.HeckeCharRayClass
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.PartialZetaFunctionalEquation
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.OmegaFactorization
+import GroundTheory.GlobalFields.TateThesis.HeckeTheoremScaling
 open NumberField GroundTheory.Global GroundTheory.Global.IdeleGroup
 open scoped nonZeroDivisors
 

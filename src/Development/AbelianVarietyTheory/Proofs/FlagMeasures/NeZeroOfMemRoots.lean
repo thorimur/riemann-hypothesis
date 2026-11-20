@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.DetCharacterMemPrincipalCongruenceFixedVectors
 open Polynomial GlobalTheory.GLq GlobalTheory.GLp GlobalTheory.SerSys
 

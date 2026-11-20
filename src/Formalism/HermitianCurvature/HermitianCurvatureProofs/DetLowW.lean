@@ -1,7 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutHB2
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PbWords
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.RdVZeroOfVanish
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutHBSupp
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutHBPts
 
 open Matrix MeasureTheory
 

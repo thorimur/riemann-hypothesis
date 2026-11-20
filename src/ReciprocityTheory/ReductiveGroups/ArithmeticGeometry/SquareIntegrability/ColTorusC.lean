@@ -1,5 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.SecondProjectionOrthogonalComplement
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.PropASt
+import Mathlib.Dynamics.Ergodic.Action.Regular
 
 namespace ReciprocityTheory.ChartRestriction.G.I2
 

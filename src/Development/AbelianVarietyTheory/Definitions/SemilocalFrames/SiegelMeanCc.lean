@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.GaugeUnfold
 import Formalism.SharpRestriction.GlobalSchurBounds.StandardLattice
 

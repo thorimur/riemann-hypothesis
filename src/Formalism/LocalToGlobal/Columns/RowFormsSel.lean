@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.RowForms
-import Formalism.LocalToGlobal.Columns.LevGCount
 import Formalism.LocalToGlobal.Columns.BaseLemmas
 import Formalism.LocalToGlobal.Divisibility.DivisibilityProofs.TuplesP
 

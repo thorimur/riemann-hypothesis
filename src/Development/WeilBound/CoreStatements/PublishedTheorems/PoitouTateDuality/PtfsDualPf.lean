@@ -1,6 +1,7 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.PtfsDefs
-import GroundTheory.ProfiniteCohomology.PoitouTate.PoitouTateNineTermGs
+import GroundTheory.ProfiniteCohomology.CartierDual
+import GroundTheory.ProfiniteCohomology.PoincareDuality.NsmulEqZeroOfNonemptyAddEquiv
+import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseDefs
+import ReciprocityTheory.Hypotheses.GalCoh
 
 noncomputable section
 

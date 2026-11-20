@@ -1,7 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJInducedCoeff
-import GroundTheory.AutomorphicForms.GL2.ExistsEqPowMulOfValuationLe
 import GroundTheory.AutomorphicForms.GL2.GJInducedZeta
+import GroundTheory.AutomorphicForms.SupercuspidalCoefficients
 set_option maxSynthPendingDepth 1
 
 noncomputable section

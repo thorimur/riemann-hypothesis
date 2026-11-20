@@ -1,6 +1,8 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.BiadditiveInSingleVariables
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.LegendreBoundsFactorialMultiIndexCapelli
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
 open Formalism.L2.FormalSeriesBounds Formalism.IncomingBounds
 
 namespace GlobalTheory.LegendreFacts

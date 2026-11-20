@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.SmoothRep
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

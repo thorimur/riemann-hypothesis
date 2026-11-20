@@ -1,6 +1,3 @@
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsSignatureDataSpanStatement
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.HeckeOpen
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SigDataExists
 
 set_option synthInstance.maxHeartbeats 200000

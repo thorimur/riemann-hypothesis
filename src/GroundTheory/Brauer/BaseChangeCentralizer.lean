@@ -1,9 +1,6 @@
-import Mathlib
-import GroundTheory.Brauer.CrossedProductIso
-import GroundTheory.Brauer.CrossedProductTensor
-import GroundTheory.Brauer.BaseChange
-import GroundTheory.Brauer.DoubleCentralizer
 import GroundTheory.Brauer.Splitting
+import GroundTheory.Brauer.CrossedProductMaps
+import GroundTheory.Brauer.MulDistribMulActionQuotientFixedPoints
 set_option maxSynthPendingDepth 1
 
 noncomputable section

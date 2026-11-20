@@ -1,4 +1,3 @@
-import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.GaloisTheoremWithGenerator
 import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.TheoremFiveArbitraryGroup
 import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.GaloisThirdWithGenerator
 

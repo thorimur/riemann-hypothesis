@@ -1,7 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.AevalValuation.MemSupportedOf
 import Formalism.SharpRestriction.GrowthBounds.AevalValuation.ValGen
 import Formalism.SharpRestriction.GrowthBounds.MonomialSupport.PhMonomialMul
-import Formalism.SharpRestriction.GrowthBounds.MonomialSupport.GeZSum
 import Formalism.SharpRestriction.GrowthBounds.PlaneCoefficients
 
 namespace Formalism.MainNotions.TraceSpectra

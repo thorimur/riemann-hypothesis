@@ -1,5 +1,6 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.GramProductLeHeightBound
 import Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.RowsCnt
+import Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenericAdmissibleAllConstants
+import Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.PartnerThetaInclusion
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.LiftCurveSt
+import Formalism.LocalToGlobal.ProjectiveLattices.NormalizedValuationMul
 
 noncomputable section
 

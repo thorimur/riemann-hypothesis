@@ -2,6 +2,7 @@ import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.NormProduc
 import Development.AbelianVarietyTheory.Definitions.Foundations.ActWBOfInvariant
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.LocalPowerUnitsTowerClosurePropertiesStatement
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ModularFunctionTowerUnitGroupStableSlashGaloisStatement
+import Development.AutomorphicArithmetic.Foundations.IwahoriReduction.NormProducts.InvMod
 open GlobalTheory.KZ GlobalTheory.K4 UpperTheory.Kd.K4 Polynomial
 open scoped Matrix MatrixGroups TensorProduct
 

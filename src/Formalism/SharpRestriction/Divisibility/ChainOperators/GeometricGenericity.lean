@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.ThetaNormsAndLinks
-import Formalism.LocalRingCardinality.DataParams
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.UCardChoose
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GeoProdPow
 

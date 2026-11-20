@@ -1,4 +1,4 @@
-import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.GlobalEulerFormulaInf
+import GroundTheory.GlobalFields.IdeleClassGroup.InvariantsGalois
 
 open NumberField GroundTheory.Global
 

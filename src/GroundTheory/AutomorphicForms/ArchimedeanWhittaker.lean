@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ArchimedeanWhittaker.Uniqueness
 
 namespace GroundTheory.Automorphic.ArchWhittaker

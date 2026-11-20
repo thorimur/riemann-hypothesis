@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.ThetaCorrespondence.RealBands.IsBand
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Compactness.Paracompact
 
 open MeasureTheory Filter UpperTheory.Lit.Cusp
 open scoped Topology

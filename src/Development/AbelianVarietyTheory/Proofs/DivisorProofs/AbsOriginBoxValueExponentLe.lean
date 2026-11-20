@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeasurableSetSetOfLe
+import Mathlib.Data.Int.Star
 
 open MeasureTheory ValuativeRel Matrix
 

@@ -1,4 +1,3 @@
-import Formalism.LocalRingCardinality.DataTheta
 import Formalism.SharpRestriction.GlobalSchurBounds.StandardLattice
 
 noncomputable section

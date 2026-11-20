@@ -1,7 +1,7 @@
-import ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.Branch
 import ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.BlockCombStatement
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.PsiExistsStatement
 import Formalism.LocalRingCardinality.DataCoeff
+import ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.AntitoneOfMemInterl
 
 noncomputable section
 

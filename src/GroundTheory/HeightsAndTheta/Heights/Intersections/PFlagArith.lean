@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.FlagBundleSt
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StFlagMultiHomog
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StFlagConeTrdeg

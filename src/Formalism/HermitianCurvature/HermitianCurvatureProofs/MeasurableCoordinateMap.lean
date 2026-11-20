@@ -1,6 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MeasurePreservingProdRearrange
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MeasMUpper
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbJConvCpt
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.PolynomialProperness.ZhatNormLinearBound
 
 namespace Formalism.FourierDecayAlt.P.StabilizerDisintegration.OG
 

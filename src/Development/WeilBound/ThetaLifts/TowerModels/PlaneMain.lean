@@ -3,6 +3,7 @@ import Development.WeilBound.ThetaLifts.TowerModels.PlaneIso
 import Development.WeilBound.ThetaLifts.TowerModels.PlaneBas
 import Development.WeilBound.ThetaLifts.TowerModels.PlaneComp
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsIntegerAddConjEqOneOfFormallyUnramified
+import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
 
 noncomputable section
 

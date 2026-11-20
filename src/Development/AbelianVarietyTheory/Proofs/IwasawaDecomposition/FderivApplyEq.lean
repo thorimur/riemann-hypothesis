@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.BetaLowerAndSmul
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
 
 open Formalism.DegreeFormula GlobalTheory.HodgeDomain
 open scoped ContDiff

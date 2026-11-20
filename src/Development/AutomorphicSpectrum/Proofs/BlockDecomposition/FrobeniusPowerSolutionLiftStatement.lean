@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FrobeniusPowerSolutionLift
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.WittExactSequences.IsCompl
 open TensorProduct CrystallineSemistableComparison.D
 open scoped LaurentPolynomial
 set_option maxHeartbeats 1000000 in

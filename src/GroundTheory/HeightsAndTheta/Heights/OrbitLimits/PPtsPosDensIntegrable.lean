@@ -1,8 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PtsPosDensMeasurable
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StPtsSemiPosMassFinite
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PPtsAbsIntegrable
-import GroundTheory.HeightsAndTheta.Heights.Intersections.PTorusInvLevi
+import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StPtsPosDensIntegrable
 set_option maxSynthPendingDepth 1
 
 noncomputable section

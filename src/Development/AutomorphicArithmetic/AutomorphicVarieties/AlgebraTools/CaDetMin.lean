@@ -1,10 +1,7 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CotInd
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.DetLocus
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaDetKerLe
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaDetKerPrime
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaDetKerIndep
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaDetField
+import Mathlib.RingTheory.Valuation.LocalSubring
 
 open IsLocalRing UpperTheory.V.AlgebraTools
 

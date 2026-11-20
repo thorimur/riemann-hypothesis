@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsIdempotentElemIdemSf
+import Development.AbelianVarietyTheory.Definitions.Divisors.IsRapidInf
 
 noncomputable section
 

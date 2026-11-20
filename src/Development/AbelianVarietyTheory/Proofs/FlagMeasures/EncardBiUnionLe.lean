@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.RowMinor
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

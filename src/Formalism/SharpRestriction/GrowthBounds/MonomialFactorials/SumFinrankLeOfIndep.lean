@@ -1,7 +1,9 @@
 import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestSumSpan
-import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestDimBCProved
-import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.BlockValuationOverZpHolds
 import Formalism.MahlerMeasure.MahlerMeasureProofs.SSDirect
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.BlockValuationZpOfLatticeInclusion
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.LiMap
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.MemIntPolIff
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.PadicIntegersEmbeddingMapPrime
 
 noncomputable section
 

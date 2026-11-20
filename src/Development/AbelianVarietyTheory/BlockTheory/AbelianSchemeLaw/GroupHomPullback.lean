@@ -1,5 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SemiabelianSchemes.CubicalStructures.CubeSymmetricSwapFirst
+import Mathlib.CategoryTheory.Monoidal.Cartesian.Grp
+import Mathlib.Tactic.ENatToNat
 
 set_option backward.isDefEq.respectTransparency false
 

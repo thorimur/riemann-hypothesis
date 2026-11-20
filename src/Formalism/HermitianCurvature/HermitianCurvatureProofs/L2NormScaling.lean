@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.UhMeasurableSet
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.SmoothAdd
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CapelliEigenvalues.Smooth
 
 open MeasureTheory Matrix
 open scoped InnerProductSpace ENNReal ComplexConjugate

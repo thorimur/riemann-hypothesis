@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HeisenbergConjugationMeasurePreserving
+import Formalism.HermitianCurvature.StatementJC
 
 namespace Formalism.FourierDecayAlt.P.FormNormSumIdentities
 

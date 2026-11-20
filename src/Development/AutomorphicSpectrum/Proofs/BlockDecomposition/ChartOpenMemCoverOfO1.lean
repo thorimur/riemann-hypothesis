@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.ConeSectionRestriction.ConeSite
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenImmersionChart
 set_option backward.isDefEq.respectTransparency false

@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.ProjLemmas
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AbsIrrCharRealiseOfPrimitiveRootCard
 open Formalism.L2.DIV
 

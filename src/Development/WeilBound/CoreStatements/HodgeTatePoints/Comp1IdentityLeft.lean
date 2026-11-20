@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.HodgeTatePoints.GermCompOneAssocOfConstantCoeffZero
+import Mathlib.Data.Int.Star
 
 noncomputable section
 

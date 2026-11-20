@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.HeckeSp
-import Formalism.LocalToGlobal.Columns.AbelianHostFieldConditions
 open NumberField IsDedekindDomain Formalism.HermitianLatticesTheory Formalism.L2.Col
 
 namespace GlobalTheory

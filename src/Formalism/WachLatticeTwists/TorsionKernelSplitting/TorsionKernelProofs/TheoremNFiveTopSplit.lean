@@ -1,8 +1,7 @@
 import Formalism.WachLatticeTwists.TorsionKernelSplitting.Statement
-import Formalism.WachLatticeTwists.CoprimeLiftBounds.CoprimeLiftProofs.TheoremNFiveTopHolds
 import Formalism.WachLatticeTwists.TorsionLengthCounts.RowCol
 import Formalism.WachLatticeTwists.TorsionLengthCounts.SubmoduleLengthBoundStatement
-import Formalism.WachLatticeTwists.TorsionLengthCounts.CardFilterAddLeOfNone
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Finset Classical
 

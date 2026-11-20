@@ -1,5 +1,3 @@
-import Formalism.FormalDegreeBessel.FormalDegreeRatio.IOLeft
-import Formalism.FormalDegreeBessel.FormalDegreeRatio.IOCentral
 import Formalism.FormalDegreeBessel.FormalDegreeRatio.CapelliHighestWeightConjugated
 
 namespace Formalism.QuantumDeterminants

@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions.InstMulActionTup
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.Shapiro
 
 open CategoryTheory in
 theorem UpperTheory.adelic_rep_bounded_over_of_sum_bound_coind_retract :

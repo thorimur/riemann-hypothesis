@@ -1,6 +1,4 @@
-import Formalism.CharacterColumnKernels.StatBlockChiOneTriv
 import Formalism.CharacterColumnKernels.IdempotentNormalForms.LengthEqKerAddRange
-import Formalism.CharacterColumnKernels.IdempotentNormalForms.LengthKerSmulLe
 
 open Finset
 

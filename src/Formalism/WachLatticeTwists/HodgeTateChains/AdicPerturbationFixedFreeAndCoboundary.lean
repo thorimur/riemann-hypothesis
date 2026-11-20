@@ -1,4 +1,5 @@
-import Formalism.WachLatticeTwists.HodgeTateChains.XiAdicFiltrationData
+import Formalism.CharacterColumnKernels.Statement
+import Formalism.WachLatticeTwists.HodgeTateChains.InvariantsCohomologyData
 
 noncomputable section
 

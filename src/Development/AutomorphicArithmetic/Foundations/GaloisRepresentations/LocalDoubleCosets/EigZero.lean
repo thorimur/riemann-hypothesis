@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.LocalDoubleCosets.TracePow
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonEigenvectorExistence
+import Mathlib.LinearAlgebra.Eigenspace.Pi
 
 noncomputable section
 

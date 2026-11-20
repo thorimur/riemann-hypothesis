@@ -1,5 +1,4 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.TwistFactor
-import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.SplitStable
 
 noncomputable section
 

@@ -1,5 +1,6 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.ShapiroDefs
+import GroundTheory.ProfiniteCohomology.CohomologyFunctoriality
+import Mathlib.GroupTheory.DoubleCoset
+import Mathlib.Tactic.Polynomial.Basic
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

@@ -1,4 +1,4 @@
-import Development.DiscreteGroups.GlobalIrreducibility.TopLeftElemInv
+import Development.DiscreteGroups.GlobalIrreducibility.EntriesOfMemUnipRad
 
 noncomputable section
 

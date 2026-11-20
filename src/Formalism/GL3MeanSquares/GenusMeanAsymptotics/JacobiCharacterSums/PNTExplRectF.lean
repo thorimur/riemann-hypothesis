@@ -1,5 +1,7 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.PNTExplLF
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.PNTExplRect
+import Formalism.LandauZeroFreeBounds.LogDerivRegionChiOf
+import Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.RectDoublePole
 
 open Complex Classical
 

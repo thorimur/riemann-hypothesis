@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.CommutativeAlgebra.PolynomialHeights.HeightAddRingKrullDimQuotientMvPolynomialField
+import Mathlib.RingTheory.PiTensorProduct
 
 namespace GlobalTheory.TorsionZero
 

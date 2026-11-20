@@ -1,7 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HeckePairTop
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.IwBernDom
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.IwSimpleQuad
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.IwDomMul
 open ValuativeRel Matrix GlobalTheory.SmGL GlobalTheory.SplitWeil UpperTheory.V.Hi UpperTheory.V.AlgebraTools
 
 private theorem group_identity_commuting {G : Type*} [Group G] (s a u v : G) (h : s⁻¹ * (a * u) * (s⁻¹ * (a * u)) = a * (a * u * v))

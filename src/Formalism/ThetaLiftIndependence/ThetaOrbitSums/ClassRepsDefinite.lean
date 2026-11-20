@@ -1,4 +1,3 @@
-import Formalism.ThetaLiftIndependence.Statement
 import Formalism.HermitianLattices.FinalNeighbourConstruct
 import Formalism.ThetaLiftIndependence.ThetaOrbitSums.LatLiftIndep
 

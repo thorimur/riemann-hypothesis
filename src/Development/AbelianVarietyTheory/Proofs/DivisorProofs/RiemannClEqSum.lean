@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DTermOrigin
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.DefiningCoordinates
 
 noncomputable section
 

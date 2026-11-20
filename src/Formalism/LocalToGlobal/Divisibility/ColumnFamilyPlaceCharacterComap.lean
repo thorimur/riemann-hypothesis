@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.HeckeCSDICommTrRep
 
 open Module NumberField IsDedekindDomain Polynomial

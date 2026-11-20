@@ -1,4 +1,3 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.NeighbourhoodKilling
 
 open CategoryTheory Limits

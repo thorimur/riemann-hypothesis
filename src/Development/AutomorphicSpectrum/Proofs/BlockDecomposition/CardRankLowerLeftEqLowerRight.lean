@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.JpUnif
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LowerLeftBlock
 
 open Matrix GlobalTheory.CompanionTheory.Jp
 

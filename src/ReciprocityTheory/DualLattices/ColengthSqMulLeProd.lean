@@ -1,4 +1,5 @@
-import ReciprocityTheory.DualLattices.DiscriminantColengthStatementHolds
+import ReciprocityTheory.DualLattices.ColengthSqMulLe
+import ReciprocityTheory.DualLattices.ValuationPairwiseDifferenceProductPowLeColengthS
 
 noncomputable section
 

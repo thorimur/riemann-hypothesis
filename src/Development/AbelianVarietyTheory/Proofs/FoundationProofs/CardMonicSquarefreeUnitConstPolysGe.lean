@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.SamePartIffOfNeZero
+import Mathlib.Tactic.Polynomial.Basic
 
 open Polynomial Classical GlobalTheory.BadShare
 

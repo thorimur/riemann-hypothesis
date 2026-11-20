@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.SqMap
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.LinEig
 

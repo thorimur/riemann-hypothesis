@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.TateTwists.EtaleComplexPairingFlipExists
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex

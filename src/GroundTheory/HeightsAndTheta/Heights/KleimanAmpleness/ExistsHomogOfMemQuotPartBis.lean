@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CellResMemLocPart
 set_option maxSynthPendingDepth 1
 

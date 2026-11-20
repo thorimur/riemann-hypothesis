@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.LogCharpoly
+import Mathlib.NumberTheory.NumberField.Ideal.Basic
+import Mathlib.RepresentationTheory.Character
+import Mathlib.RingTheory.Frobenius
 
 noncomputable section
 

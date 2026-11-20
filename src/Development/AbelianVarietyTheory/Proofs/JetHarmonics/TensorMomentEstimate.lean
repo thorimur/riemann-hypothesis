@@ -1,12 +1,9 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Jets.SideFam
-import Development.AbelianVarietyTheory.Definitions.Jets.SumIoPr
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.DiscreteSeriesUnitarySmoothBasicStatement
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.FrepDiscreteSeriesSumStatement
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.TensorRawOfFrepStatement
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsKTypeNonzeroBesselStatement
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.BesselFunctionalSideGrowthStatement
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.BesselSumDecompositionStatement
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
 
 open BranchingSupport Formalism.FourierDecayAlt Formalism.FourierDecayAlt.ThreeDimData Matrix MeasureTheory Finset
 open scoped InnerProductSpace ENNReal

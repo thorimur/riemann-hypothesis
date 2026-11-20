@@ -1,8 +1,6 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.FormalFunctions
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.FinitenessStep
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperFiniteness
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.FormalAlgebraisation.GEClosedProj
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.FormalIdeal
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.Support
+import Mathlib.AlgebraicGeometry.Morphisms.Proper
 
 set_option autoImplicit false
 

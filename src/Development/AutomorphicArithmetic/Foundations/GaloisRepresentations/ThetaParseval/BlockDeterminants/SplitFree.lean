@@ -1,9 +1,10 @@
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.SchurStep
 import Development.WeilBound.ThetaLifts.LeviDeterminants.ActsEx
 import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDict
 import Development.AutomorphicArithmetic.LocalEmbeddings.OppLagr
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SingleLocalAdele
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MultiplicationPackage
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalMomentMatrixTransform
+import Development.WeilBound.ThetaLifts.LatticeBasics.HodgeTateFromSandwich
 
 noncomputable section
 

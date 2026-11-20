@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.MaIntEmpty
+import Mathlib.Order.CompletePartialOrder
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.FourB

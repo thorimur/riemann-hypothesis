@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AlgebraicMorseExistsSectionAmpleSubGeneratedStatement
 
 open CategoryTheory Limits AlgebraicGeometry TopologicalSpace Filter Asymptotics

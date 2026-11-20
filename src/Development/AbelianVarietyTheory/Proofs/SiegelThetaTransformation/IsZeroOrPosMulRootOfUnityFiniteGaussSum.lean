@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SpanningFamilies.IntMIffInt
+import Mathlib.Analysis.Complex.Circle
+import Mathlib.NumberTheory.SumFourSquares
+import Mathlib.RingTheory.SimpleRing.Principal
 open Matrix Complex GlobalTheory.SW GlobalTheory.Phase
 open scoped ComplexConjugate Real
 

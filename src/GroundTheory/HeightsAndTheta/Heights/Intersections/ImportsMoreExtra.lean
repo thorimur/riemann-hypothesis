@@ -1,6 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsTerLast
-import GroundTheory.HeightsAndTheta.Heights.Intersections.LeOfHeightMapEqZero
+import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsArith
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Inter

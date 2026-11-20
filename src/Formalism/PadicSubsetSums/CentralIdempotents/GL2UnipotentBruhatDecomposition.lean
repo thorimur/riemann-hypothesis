@@ -1,4 +1,10 @@
-import Formalism.PadicSubsetSums.CentralIdempotents.ArchimedeanComponents
+import Formalism.PadicSubsetSums.CentralIdempotents.WindowSums
+import Mathlib.LinearAlgebra.Eigenspace.Basic
+import Mathlib.NumberTheory.Padics.MahlerBasis
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PowerSeries.Binomial
+import Mathlib.RingTheory.PowerSeries.Derivative
+import Mathlib.RingTheory.WittVector.Frobenius
 
 noncomputable section
 

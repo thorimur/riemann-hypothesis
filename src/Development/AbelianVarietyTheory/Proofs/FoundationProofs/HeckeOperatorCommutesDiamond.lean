@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.PetEqRelIndexMulPetProd
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsMulOfDetZero
 open UpperHalfPlane ModularForm CongruenceSubgroup MeasureTheory

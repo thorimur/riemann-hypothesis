@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.FiniteLengthSubquotient
-import GroundTheory.AutomorphicForms.GeometricLemma
+import GroundTheory.LocalFields.PadicLogSeries
 set_option maxSynthPendingDepth 1
 
 noncomputable section

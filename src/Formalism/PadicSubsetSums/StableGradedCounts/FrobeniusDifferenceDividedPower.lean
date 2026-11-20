@@ -1,5 +1,5 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.ArchimedeanComponents
-import Formalism.PadicSubsetSums.StableGradedCounts.ARCReuse
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace Formalism.IrreducibleCountingLemmas.WindowSums
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GroupGeneratedByExp
 
 noncomputable section

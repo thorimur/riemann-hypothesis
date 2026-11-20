@@ -1,5 +1,10 @@
 import Development.WeilBound.ThetaLifts.LocalTheory.ArchimedeanBumps.ExistsDensity
 import GroundTheory.GlobalFields.TateThesis.GaussianComplexFourier
+import Mathlib.Analysis.Real.Pi.Bounds
+import Mathlib.RingTheory.Complex
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Separation.CompletelyRegular
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

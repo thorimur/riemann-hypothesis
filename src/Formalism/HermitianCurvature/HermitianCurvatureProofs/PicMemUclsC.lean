@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MemLevelZeroOfMemGroup
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.PictureMemLevelZeroClass
 
 namespace Formalism.FourierDecayAlt.P.PBF
 

@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SubquotientSemisimpleRestriction
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.IsUnitarisableOfCharIff
 open GlobalTheory.PRep GlobalTheory.SmGL
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.subquotient_semisimple_restriction : ∀ (L H : Type) [Group L] [Group H] (s : H →* L) (X : Type) [AddCommGroup X]

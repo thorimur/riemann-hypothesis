@@ -1,8 +1,8 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.EmbeddingTypeJumps
-import Formalism.FrobeniusOrbits.HostCorollaries
-import Formalism.PadicSubsetSums.StableGradedCounts.ARCReuse
 import Formalism.PadicSubsetSums.StableGradedCounts.FrobeniusDifferenceDividedPower
-import Development.AutomorphicArithmetic.CyclotomicBounds.ImageMemOfGens
+import Development.AutomorphicArithmetic.PrimeDiscriminants.InertGen
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 
 noncomputable section
 

@@ -1,5 +1,3 @@
-import Formalism.QuotientMetricDivisors.ReductionLemmaZero
-import Formalism.QuotientMetricDivisors.FinalW
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.GlobalBoundRefinements
 
 open NumberField

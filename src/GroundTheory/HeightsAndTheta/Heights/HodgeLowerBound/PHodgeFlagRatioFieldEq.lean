@@ -1,9 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsHodgeFlagRatioFieldEq
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsRatioFieldSpan
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsHodgeFlagSpan
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsPivotMinorFlag
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.ObjectsTied
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PRatioFieldSpan
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PHodgeFlagSpan
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PPivotMinorFlag

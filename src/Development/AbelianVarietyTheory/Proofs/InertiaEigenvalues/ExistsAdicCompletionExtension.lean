@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.DvdSubOfDvdSubX
+import Mathlib.RingTheory.AdicCompletion.Algebra
 
 open PowerSeries GlobalTheory.NB.LT
 

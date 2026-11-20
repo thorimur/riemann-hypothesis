@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussianEigenFrames.StatementH
+import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.StatementS
+import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.StatementP
 
 noncomputable section
 open scoped BigOperators

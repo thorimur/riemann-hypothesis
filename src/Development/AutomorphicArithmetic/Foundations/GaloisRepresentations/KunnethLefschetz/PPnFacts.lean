@@ -3,7 +3,6 @@ import Development.EtaleCohomology.EtaleTrace.LProperPf
 import Development.EtaleCohomology.EtaleTrace.PNIntegralPf
 import Development.EtaleCohomology.EtaleTrace.LSmoothPf
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveSpaceChart
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjSpace
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC LateralTheory.EtaleTrace UpperTheory.Gal.KunnethLefschetz

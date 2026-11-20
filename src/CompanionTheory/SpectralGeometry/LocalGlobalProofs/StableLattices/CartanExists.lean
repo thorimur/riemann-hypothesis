@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.Cartan
 
 namespace GlobalTheory.CompanionTheory.Dblock.CartanDVR

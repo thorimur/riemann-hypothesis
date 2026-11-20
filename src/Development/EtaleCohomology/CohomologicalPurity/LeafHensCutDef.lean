@@ -1,6 +1,5 @@
 import Mathlib.RingTheory.Henselian
 import Mathlib.RingTheory.RingHom.Etale
-import Mathlib.Algebra.Category.Ring.FilteredColimits
 
 noncomputable section
 open CategoryTheory Limits Polynomial

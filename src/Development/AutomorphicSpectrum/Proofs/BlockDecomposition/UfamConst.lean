@@ -1,6 +1,4 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.ExponentialNegativity.L2DecayOfCountEscape
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspFormsDiff
 
 noncomputable section
 

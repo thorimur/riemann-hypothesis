@@ -1,6 +1,7 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.InfinitesimalCharacterLimits.TwistStripLimits.BlockTypes
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TraceEopEqOfHasInfCharGL
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CentralEigenExponential
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LieCentralElementTrace
 
 open NumberField GlobalTheory.CuspRep GlobalTheory.CuspRep.CuspidalL2GL GlobalTheory.UnitaryBC MeasureTheory PositivityTheory.S2.Clozel
 

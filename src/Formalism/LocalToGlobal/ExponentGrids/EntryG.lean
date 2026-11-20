@@ -1,7 +1,6 @@
 import Formalism.LocalToGlobal.Divisibility.NumbersLink
 import Formalism.LocalToGlobal.AlgebraicTheory.StatementKer
 import Formalism.LocalToGlobal.AlgebraicTheory.AlgebraicTheoryProofs.ColumnBoundOfPaths
-import Formalism.LocalToGlobal.ExponentGrids.IntegerShiftClosedExponent
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

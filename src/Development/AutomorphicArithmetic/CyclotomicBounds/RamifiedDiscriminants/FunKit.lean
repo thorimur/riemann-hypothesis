@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.HostCls
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ExistsPrimeOfDifferentLe
 

@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.RealGroups.GeneralUnitaryRepresentations.ArchimedeanJacquetSegments.SegmentSubquotients.SegmentRepresentation
 
 namespace GlobalTheory

@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.AutomorphicRankinSelberg.StripInt
+import Mathlib.NumberTheory.DirichletCharacter.Bounds
 
 open UpperHalfPlane hiding I
 open scoped MatrixGroups

@@ -1,7 +1,6 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.Statements
 import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.SymbolExtensionProperty
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.HolLineBundleToAltTransition
+import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.Objects
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.EffectiveHS

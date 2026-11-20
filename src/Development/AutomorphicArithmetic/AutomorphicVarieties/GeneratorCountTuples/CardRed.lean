@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.LengthEqLengthInvariantsOfTorsionLevels
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.CardKill
 
 open scoped TensorProduct

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IsogenyEtaleTranslation.EtCancel
 import Development.AbelianVarietyTheory.Definitions.Divisors.NontrivialOfArtinQE
 

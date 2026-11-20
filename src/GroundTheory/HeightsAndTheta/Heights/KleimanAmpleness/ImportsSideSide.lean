@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.SegreLiftVal
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.NefGenericDVRSt
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.SegreJoin
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman.SectionsOverLocalization

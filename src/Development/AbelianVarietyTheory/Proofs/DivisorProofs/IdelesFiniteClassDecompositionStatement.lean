@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IdelesFiniteClassDecomposition
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.Tuples
 open NumberField IsDedekindDomain Formalism.L2.DIV Formalism.UG
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.ideles_finite_class_decomposition : ∀ (L : Type) [Field L] [NumberField L],

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.FirstInequality.HerbrandClass
 import GroundTheory.GlobalFields.FirstInequalityStatement
 

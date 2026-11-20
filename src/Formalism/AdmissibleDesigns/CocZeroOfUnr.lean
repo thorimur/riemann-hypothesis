@@ -1,5 +1,6 @@
 import Formalism.AdmissibleDesigns.BlockTwistedCyclotomic
 import ReciprocityTheory.GaloisValuations.ArithOfA
+import Formalism.AdmissibleDesigns.HigherColumnInvariantsBound
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.EqOneOfPh
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsLat
 import Formalism.LocalToGlobal.HermitianForms.RankEqFirstLevel
+import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NatActRVtupR
 
 noncomputable section
 

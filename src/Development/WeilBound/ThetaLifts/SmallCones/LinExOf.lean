@@ -1,5 +1,9 @@
 import Development.WeilBound.ThetaLifts.SmallCones.SoDefs
-import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDict
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.LmOfLinBar
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfActs
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDictAd
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDictMod
+import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.PfDictSec
 
 noncomputable section
 

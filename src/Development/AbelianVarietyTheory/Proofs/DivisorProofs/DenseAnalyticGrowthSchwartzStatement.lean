@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DenseAnalyticGrowthSchwartz
-import Mathlib
 open SchwartzMap
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.dense_analytic_growth_schwartz : (∀ (W : Type) [NormedAddCommGroup W] [NormedSpace ℝ W] [FiniteDimensional ℝ W],

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NotMemLpOfGrowth
 
 set_option maxHeartbeats 1000000 in

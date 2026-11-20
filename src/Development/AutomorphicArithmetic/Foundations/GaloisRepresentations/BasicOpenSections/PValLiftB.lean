@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.ResClosed
+import Mathlib.RingTheory.Valuation.LocalSubring
 
 open CategoryTheory Limits AlgebraicGeometry
 open UpperTheory.Gal.TranscendenceTraces (gp pt)

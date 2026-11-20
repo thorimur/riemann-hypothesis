@@ -1,6 +1,6 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.FiniteTypeHarishChandra.SupportExistsAll
 import GroundTheory.AutomorphicForms.FiniteBruhat
+import Mathlib.Data.Fin.Tuple.Sort
 
 open ReciprocityTheory.Ty.Fin Formalism.IrreducibleCountingLemmas.TYPES GroundTheory.Automorphic
 

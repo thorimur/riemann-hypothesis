@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.IsChainFirst
 
 namespace GlobalTheory.CompanionTheory.Ar.Top.FlDeg

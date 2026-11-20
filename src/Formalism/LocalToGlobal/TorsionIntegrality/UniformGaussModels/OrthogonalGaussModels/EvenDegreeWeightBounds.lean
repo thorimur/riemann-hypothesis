@@ -2,8 +2,9 @@ import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.OneLetterGa
 import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.OneLetterGaussEveryOrth7
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.SingleLetterBiextensionRelation
 import Formalism.LocalToGlobal.TorsionIntegrality.CMGoodModels.CmAll
-import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.SecondCoeffConsistency
 import Formalism.GaussJetBounds.OneLetterGaussJets.GainDominatesOddLevelSum
+import Formalism.GaussJetBounds.OneLetterGaussJets.TheoremATwoFormsOfEntry
+import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.OrthShapeOne
 
 namespace Formalism.L2.Th1.Top
 

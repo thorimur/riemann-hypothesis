@@ -1,4 +1,3 @@
-import Formalism.PeriodIntegrals.SzCt
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeCount.SzCtOf
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeCount.FirstCoordinateLeThreeScale
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeCount.SizeFacts

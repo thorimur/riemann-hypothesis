@@ -1,4 +1,6 @@
-import ReciprocityTheory.SemistableReduction.SemiDegN
+import ReciprocityTheory.SemistableReduction.SemiDegM
+import ReciprocityTheory.SemistableReduction.SemiDegR
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.TraceForm
+import Mathlib.NumberTheory.LocalField.Basic
 
 noncomputable section
 

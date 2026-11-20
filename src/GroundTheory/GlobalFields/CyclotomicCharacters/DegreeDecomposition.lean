@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.CyclotomicCharacters.Degree
 import GroundTheory.GlobalFields.CyclotomicCharacters.ClosedSubgroups
+import Mathlib.RingTheory.Invariant.Profinite
 
 open NumberField IntermediateField Filter Topology
 open scoped GroundTheory.LocalField.Abstract Pointwise

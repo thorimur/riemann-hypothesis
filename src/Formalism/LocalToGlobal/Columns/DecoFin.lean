@@ -1,8 +1,8 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.StdLatUnimodular
 import Formalism.LocalToGlobal.Columns.BaseLemmas
 import Formalism.HermitianLattices.FinalNeighbourConstruct
 import Formalism.SatakeDualWeyl.KpqSubgroupCompact
+import Formalism.HermitianLattices.HermitianLatticesProofs.NeighbourConstruct
 
 open NumberField IsDedekindDomain Module
 

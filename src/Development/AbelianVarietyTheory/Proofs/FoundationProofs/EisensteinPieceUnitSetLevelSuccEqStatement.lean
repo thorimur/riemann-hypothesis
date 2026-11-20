@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.EisensteinPieceUnitSetLevelSuccEq
-import Development.AbelianVarietyTheory.Definitions.Foundations.PieceEqPieceT
 open GlobalTheory.KummerEisensteinGalois
 open scoped Classical
 set_option maxHeartbeats 1000000 in

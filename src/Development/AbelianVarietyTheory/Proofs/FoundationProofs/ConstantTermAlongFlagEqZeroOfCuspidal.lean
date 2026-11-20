@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.MemL2OfBoundedContinuousInvariant
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.MemExtSubSpanDepth
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.MeasurePreservingConj
 

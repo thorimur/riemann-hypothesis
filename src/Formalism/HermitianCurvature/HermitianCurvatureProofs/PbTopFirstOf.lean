@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.GaugeNormPower
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MatrixUnitZeroZeroEqInsert
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBTAsm
 
 namespace Formalism.FourierDecayAlt.P
 

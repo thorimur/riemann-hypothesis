@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.SignatureAndNodeGaps
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ChainParIffStepGap
 
 noncomputable section

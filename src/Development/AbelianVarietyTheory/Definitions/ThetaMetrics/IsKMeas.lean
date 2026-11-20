@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.HermitianCurvature.WeylElementCommutesLevelOne
+import Formalism.HermitianCurvature.StatementB
 
 open Matrix MeasureTheory
 open scoped ENNReal

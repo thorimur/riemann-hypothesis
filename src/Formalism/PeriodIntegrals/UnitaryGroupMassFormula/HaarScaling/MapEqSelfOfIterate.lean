@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.CdHaarScale
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

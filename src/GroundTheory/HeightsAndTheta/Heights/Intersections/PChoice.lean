@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsArith
+import Mathlib.Algebra.Order.Sub.Prod
 set_option maxSynthPendingDepth 1
 
 noncomputable section

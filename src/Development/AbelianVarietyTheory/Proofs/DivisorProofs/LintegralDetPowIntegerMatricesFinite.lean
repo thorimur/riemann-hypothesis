@@ -1,8 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndicatorIntMMemSB
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LintegralAbsPowIntegersFiniteStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LintegralAffineAbsPowBoundStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LintegralMatrixFirstRowColumnStatement
+import Formalism.DoubleCosetMeasures.StatementZ
 open MeasureTheory ValuativeRel Matrix GlobalTheory.SplitWeil GlobalTheory.SplitFlip GlobalTheory.KSplit Classical
 open scoped ENNReal
 

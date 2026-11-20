@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.InertJacobiLevels.ExtraNch
+import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 
 noncomputable section
 

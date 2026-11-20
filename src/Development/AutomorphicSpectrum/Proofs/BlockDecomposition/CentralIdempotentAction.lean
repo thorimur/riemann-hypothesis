@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.FiniteTypeHarishChandra.SupportExistsAll
 import Formalism.PadicSubsetSums.StableGradedCounts.IRRCentralIdempotent
 

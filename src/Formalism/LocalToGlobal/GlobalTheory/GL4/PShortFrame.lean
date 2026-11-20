@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.GlobalTheory.GL4.PLemTMain
 import Formalism.LocalToGlobal.GlobalTheory.GL4.PShortSpan
+import Formalism.LocalToGlobal.GlobalTheory.GL4.CTEqConjTranspose
 
 noncomputable section
 

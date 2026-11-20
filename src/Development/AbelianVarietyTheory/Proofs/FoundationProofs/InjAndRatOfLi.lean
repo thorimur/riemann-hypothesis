@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.Bridge
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ClassPresBasic
 
 set_option autoImplicit false

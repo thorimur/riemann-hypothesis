@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.UnFree
+import Mathlib.NumberTheory.NumberField.InfiniteAdeleRing
+import Mathlib.RingTheory.DedekindDomain.FiniteAdeleRing
 
 noncomputable section
 

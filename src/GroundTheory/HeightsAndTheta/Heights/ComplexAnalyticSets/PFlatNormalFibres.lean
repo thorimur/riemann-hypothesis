@@ -1,6 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StFlatNormalFibres
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSerreConditions
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSerreCriterion
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSerreRFlatAscent
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSerreSFlatAscent

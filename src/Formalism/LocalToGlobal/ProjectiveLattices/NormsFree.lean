@@ -1,6 +1,7 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.CuspFree
-import Formalism.LocalToGlobal.ProjectiveLattices.RulInst
 import Formalism.LocalToGlobal.ProjectiveLattices.PtFree
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 noncomputable section
 

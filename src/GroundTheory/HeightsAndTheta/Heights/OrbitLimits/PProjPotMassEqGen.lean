@@ -1,9 +1,5 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.PotentialTheory.Stokes
-import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffAtOfIsPotential
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterRedF
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PProjRegular
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsProjPotMassEq
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterRedA
 set_option maxSynthPendingDepth 1
 
 noncomputable section

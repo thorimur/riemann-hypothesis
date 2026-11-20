@@ -1,7 +1,8 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.IntAllFree
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.IntegralFrameAcquisition
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosure
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.Ideal.Quotient.Index
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 400000

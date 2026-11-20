@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.LocPoly
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RealCusp
+import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms
 
 noncomputable section
 

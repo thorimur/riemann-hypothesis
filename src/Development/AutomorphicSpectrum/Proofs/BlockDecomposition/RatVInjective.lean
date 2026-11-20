@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.Reductions.SiegelPar
 import GroundTheory.AutomorphicForms.ReductionHeight
 

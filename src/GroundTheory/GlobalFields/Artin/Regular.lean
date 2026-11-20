@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.Induction
 import GroundTheory.GlobalFields.Artin.SeriesEuler
 set_option maxSynthPendingDepth 1

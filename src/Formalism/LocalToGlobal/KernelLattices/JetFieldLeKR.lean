@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.ThDistC
 import Formalism.LocalToGlobal.KernelLattices.FirstKernelLawReading
 
 open NumberField IsDedekindDomain

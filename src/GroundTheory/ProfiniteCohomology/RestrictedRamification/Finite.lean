@@ -1,9 +1,7 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.FiniteRoots
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.FiniteOpen
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChange
-import GroundTheory.ProfiniteCohomology.LocalClassFormation.FiniteVanishing.Devissage
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.FiniteCohomologyOfTrivialOfCyclic
+import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChangeModules
 set_option maxSynthPendingDepth 1
 
 noncomputable section

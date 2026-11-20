@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsApprox
+import Formalism.LocalToGlobal.IndefiniteReal.DatumVec
+import Formalism.SharpRestriction.GlobalSchurBounds.StandardLatticesGL3
 
 open NumberField IsDedekindDomain
 open scoped Classical Pointwise

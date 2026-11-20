@@ -2,10 +2,7 @@ import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedVolumeStatements.CoefWe
 import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.UnitaryHaarProducts.WFromLoc
 import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.UnitaryHaarProducts.WFLStepsLocHNProps
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.NUnimodLoc
-import Formalism.PeriodIntegrals.NUnimodLoc
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QuotProdK
-import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.UnitaryHaarProducts.BesselLevi
-import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.UnitaryHaarProducts.BesselFrame
 
 open Formalism.BasicNotions Formalism.MainNotions.S Formalism.L2.SG.SplitPrimeNormLemmas
 

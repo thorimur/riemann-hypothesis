@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.HeckeCSDICommTrRep
-import Formalism.LocalToGlobal.Columns.HeckeInertComm
+import Formalism.LocalToGlobal.Columns.HeckeInert
 
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.HermitianLatticesTheory Formalism.DivisionValues Formalism.L2 Formalism.L2.DIV Formalism.L2.Indef
 

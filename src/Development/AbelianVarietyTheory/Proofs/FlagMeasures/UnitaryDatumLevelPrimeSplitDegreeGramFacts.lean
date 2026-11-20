@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SelfDualAt
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.NcardPrimesOverOfStabilizer
-import Formalism.LocalToGlobal.HermitianForms.TiedStep
 import Formalism.LocalRingCardinality.IntCastDvdOfDvdIntegers
 import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocBases
 

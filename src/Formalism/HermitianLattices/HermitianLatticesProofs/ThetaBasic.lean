@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.HermitianLattices.StatementTheta
+import Mathlib.Tactic.Polynomial.Basic
 
 open Formalism.K
 

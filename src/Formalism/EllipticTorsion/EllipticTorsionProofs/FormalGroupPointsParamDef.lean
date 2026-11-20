@@ -1,5 +1,9 @@
 import Formalism.EllipticTorsion.FormalGroupPointsParametrisation
 import Formalism.EllipticTorsion.EllipticTorsionProofs.WSeries
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Normed.Ring.Ultra
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open PowerSeries
 

@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.VolSemiDirect
+import Formalism.LocalToGlobal.SiegelLatticeTheory.FundamentalEquivalence.LevelIntersectParabolic
 
 noncomputable section
 

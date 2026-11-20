@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsRootOne
-import Development.AbelianVarietyTheory.Definitions.Foundations.EigenOfTwoStep
+import Mathlib.Analysis.Complex.Convex
+import Mathlib.Analysis.Meromorphic.NormalForm
+import Mathlib.Tactic.Polynomial.Basic
 open GlobalTheory.KZ GlobalTheory.KZ.H3 Matrix
 open scoped MatrixGroups TensorProduct
 

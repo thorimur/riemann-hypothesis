@@ -1,9 +1,8 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 import Formalism.LocalRingCardinality.SpanPowerMembership.LocAtB
 import Formalism.SharpRestriction.CuspSpanNormBounds.FlagEEqHyperbolic
 import Formalism.LocalToGlobal.SiegelLatticeTheory.PtEquivApply
 import Formalism.LocalRingCardinality.DataLevelD
+import Std.Tactic.BVDecide.Normalize.BitVec
 
 noncomputable section
 

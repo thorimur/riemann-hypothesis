@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSmoothVecLowKSub
 import Development.AbelianVarietyTheory.Counterexamples.RotationExamples.SobolevContinuityLowGeneration
 

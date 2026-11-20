@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.GlobalTheory.GL6.PKerAtP
-import Formalism.LocalToGlobal.GroupLattices.DownNaturalLevelZero
+import Formalism.LocalToGlobal.GlobalTheory.GL4.PFrames
+import Formalism.LocalToGlobal.GlobalTheory.GL6.PRLocW
 
 noncomputable section
 

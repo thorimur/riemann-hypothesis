@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaloisOfRegularForms
+import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.SphericalA
 
 noncomputable section
 

@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.PoincarePairs.Devissage
-import GroundTheory.ProfiniteCohomology.EulerChar
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.Dimension
 set_option maxSynthPendingDepth 1
 

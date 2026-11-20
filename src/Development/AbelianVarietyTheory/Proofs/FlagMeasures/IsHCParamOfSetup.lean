@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ExistsPeriodMapDet
 import Formalism.FormalDegreeBessel.FinalG
 

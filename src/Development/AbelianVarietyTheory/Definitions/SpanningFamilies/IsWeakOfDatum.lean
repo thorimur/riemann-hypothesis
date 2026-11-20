@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.DatumVec
 import Formalism.LocalToGlobal.ProjectiveLattices.PartitionExtendByZeroAntitone
 import Development.AbelianVarietyTheory.Definitions.SpanningFamilies.Fischer

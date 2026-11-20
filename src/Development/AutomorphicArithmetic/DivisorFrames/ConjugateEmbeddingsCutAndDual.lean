@@ -1,6 +1,4 @@
-import Development.AutomorphicArithmetic.LocalEmbeddings.RootFrame
 import Development.AutomorphicArithmetic.DivisorFrames.LatticeDataIntegralSpecialisation
-import Development.AutomorphicArithmetic.DivisorFrames.LatticeDataGivesCutAndDual
 import Development.AutomorphicArithmetic.DivisorFrames.LatticeDataValuationOfDifference
 open CategoryTheory AlgebraicGeometry NumberField IsDedekindDomain ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open Formalism.BasicNotions Formalism.L2.Pj GlobalTheory GlobalTheory.Cartier GlobalTheory.ProjVar GlobalTheory.TrueGeo GlobalTheory.Mean4O GlobalTheory.ShFam GlobalTheory.ShFam.Pad GlobalTheory.TrivFlag GlobalTheory.LineNorm

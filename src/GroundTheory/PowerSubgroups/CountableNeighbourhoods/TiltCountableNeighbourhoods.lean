@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.PerfectoidField
 
 namespace GroundTheory.Variant₂.N1

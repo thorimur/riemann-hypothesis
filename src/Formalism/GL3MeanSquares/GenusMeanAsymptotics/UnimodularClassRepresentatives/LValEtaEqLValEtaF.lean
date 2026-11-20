@@ -1,4 +1,5 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.EulerFacMulConjInvSplit
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 open NumberField Module
 

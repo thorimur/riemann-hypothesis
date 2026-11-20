@@ -1,9 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpecPropertyOfTorsionBijective
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpOverFstComp
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentPhiSqZeroNaturality
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentPhiNaturalityModule
 set_option autoImplicit false
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry MonoidalCategory CartesianMonoidalCategory MonObj NumberField WithConv

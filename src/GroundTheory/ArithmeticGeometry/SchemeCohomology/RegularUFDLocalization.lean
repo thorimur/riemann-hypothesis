@@ -1,5 +1,9 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.RegularUFDSerre
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.KrullDimension.Regular
+import Mathlib.RingTheory.LocalProperties.ProjectiveDimension
+import Mathlib.RingTheory.Regular.Free
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

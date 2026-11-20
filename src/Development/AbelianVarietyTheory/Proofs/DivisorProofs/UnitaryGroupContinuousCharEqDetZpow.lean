@@ -1,5 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.CircleHomEqZpow
+import Mathlib.Analysis.Normed.Module.Connected
+import Mathlib.LinearAlgebra.Matrix.Permutation
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Separation.Connected
 open Matrix
 
 namespace GlobalTheory.UnitaryChar

@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CapAdInv
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.JfCVUnderIntOfParts
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.SandwichRhoAction
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SmoothWordsAll
 
 theorem Formalism.FourierDecayAlt.P.capelli_det_ad_invariant : Formalism.FourierDecayAlt.P.JFxB.CapAdInv := by

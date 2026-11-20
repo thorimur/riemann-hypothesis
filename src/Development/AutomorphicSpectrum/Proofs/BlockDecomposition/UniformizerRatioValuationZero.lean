@@ -1,8 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.PoitouTateNormalised
-import GroundTheory.LocalFields.MainTheorem
 import GroundTheory.GlobalFields.LocalFieldAtPlace
-import GroundTheory.LocalFields.LocalFourierHaar
+import GroundTheory.LocalFields.UnitsBasic
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ValuativeRel
 

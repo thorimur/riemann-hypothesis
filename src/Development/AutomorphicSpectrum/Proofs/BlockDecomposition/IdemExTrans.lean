@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.RegularisedSiegelWeil.SingularNullSets.WeakApproximationFinitePlace
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EqZeroOfComps
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvFinSSOneNot
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsMemHROfGram

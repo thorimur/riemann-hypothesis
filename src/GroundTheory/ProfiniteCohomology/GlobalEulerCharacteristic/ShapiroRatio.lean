@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.CardCohomologyZeroMackeyRepOfNeTop
+import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.ShapiroReal
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

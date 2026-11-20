@@ -1,5 +1,5 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DeRham
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.DifferentiableAtOm
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HasCohomology
 
 noncomputable section
 

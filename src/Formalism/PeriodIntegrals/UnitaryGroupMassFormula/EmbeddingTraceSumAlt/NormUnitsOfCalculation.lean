@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.PeriodIntegrals.ScPsiExists
+import Mathlib.Analysis.SpecialFunctions.Complex.Circle
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 

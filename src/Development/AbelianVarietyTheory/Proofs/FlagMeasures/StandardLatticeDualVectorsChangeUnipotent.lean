@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.IsTermOver
 import Formalism.SharpRestriction.CuspSpanNormBounds.KappaEndpoints
 open ValuativeRel Formalism.MainNotions.S Formalism.MainNotions.S.Loc
 

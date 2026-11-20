@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.Transference
+import Mathlib.Analysis.InnerProductSpace.Dual
 
 open Module Submodule
 

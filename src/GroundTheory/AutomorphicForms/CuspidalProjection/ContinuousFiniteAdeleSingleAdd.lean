@@ -1,8 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness
 import GroundTheory.AutomorphicForms.CuspidalProjection.Unfold
 import GroundTheory.GlobalFields.TateThesis.AdelicCharLocal
-import GroundTheory.GlobalFields.LocalFieldAtPlace
+import GroundTheory.AutomorphicForms.CuspidalDiscreteness.ExistsLintegralConstantTermL2SqLe
 
 open MeasureTheory Set Function Filter Topology
 open NumberField IsDedekindDomain

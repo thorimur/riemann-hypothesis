@@ -1,4 +1,4 @@
-import Formalism.AdmissibleDesigns.NonemptyPl
+import Formalism.SharpRestriction.LevelLetterCocycles.DecompositionData
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

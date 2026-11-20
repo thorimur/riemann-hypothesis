@@ -1,8 +1,6 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.Complement2Normaliser
 import Formalism.TranslateCocycles.Statement
 import Formalism.TranslateCocycles.StatementHC
-import Formalism.TranslateCocycles.StatementNet
 
 open Module NumberField IsDedekindDomain Finset
 open Formalism.DivisionValues (vw conjPl lw PlOver IsConjAt)

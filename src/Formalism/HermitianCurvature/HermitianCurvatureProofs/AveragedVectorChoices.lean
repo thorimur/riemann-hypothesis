@@ -1,6 +1,9 @@
 import Formalism.HermitianCurvature.ThetaExistenceInductiveFromPieces
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.KernelNonzeroModulusDeterminantEq
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FirstKernelPropertiesOfHypotheses
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Order.CompletePartialOrder
 
 set_option maxHeartbeats 400000
 

@@ -1,5 +1,14 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.EffectiveHilbertSamuel.StatementsLocUnifAnalytic
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.CStarAlgebra.ContinuousMap
+import Mathlib.Analysis.Calculus.FDeriv.Pi
+import Mathlib.Analysis.Complex.LocallyUniformLimit
+import Mathlib.MeasureTheory.Integral.TorusIntegral
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Compactness.CompactlyGeneratedSpace
+import Mathlib.Topology.ContinuousMap.Units
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.EffectiveHS

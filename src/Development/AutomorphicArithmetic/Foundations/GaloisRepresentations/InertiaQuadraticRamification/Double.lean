@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.InertiaQuadraticRamification.ThreeApartOf
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsAbelianOverSubfield
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormalCoreLeFixingSubgroupNormalClosure
-import ReciprocityTheory.GaloisValuations.Global
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MemRealOfSq
 
 noncomputable section

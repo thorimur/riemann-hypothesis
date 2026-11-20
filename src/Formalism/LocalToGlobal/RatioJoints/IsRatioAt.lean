@@ -1,5 +1,6 @@
-import Formalism.LocalToGlobal.ThetaChr
 import Formalism.LocalToGlobal.JointCharacters.LocEMulLocE
+import Formalism.LocalToGlobal.HermitianColumns.InLocalDiscriminantKernel
+import Formalism.LocalToGlobal.HermitianForms.PsiZeroNontrivialCharacter
 
 noncomputable section
 

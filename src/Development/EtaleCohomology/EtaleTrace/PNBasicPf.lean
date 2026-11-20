@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleTrace.LCoverCut
+import Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry MvPolynomial

@@ -1,4 +1,6 @@
 import Formalism.JumpKernelCokernel.Statement
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.KernelCokernelLengths
 

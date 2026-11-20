@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FubiniStudyIntegral
 import GroundTheory.HeightsAndTheta.Heights.FubiniStudyChern
 set_option maxSynthPendingDepth 1

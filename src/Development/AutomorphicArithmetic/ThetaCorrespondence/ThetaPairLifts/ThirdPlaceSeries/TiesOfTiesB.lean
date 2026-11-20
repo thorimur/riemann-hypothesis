@@ -1,6 +1,5 @@
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.TiesOfTiesB
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.Realised
+import Development.AbelianVarietyTheory.Proofs.HeightProofs.PathCoreConditionsOfParametersFreeConditionsStatement
 
 set_option synthInstance.maxHeartbeats 200000
 

@@ -1,5 +1,8 @@
-import Formalism.CharacterColumnKernels.Statement
 import Formalism.CharacterColumnKernels.StatementX
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Finset
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.EisensteinSeries.SiegelEisensteinContinuation.ConvGrOf
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionLawHolds
 
 noncomputable section
 

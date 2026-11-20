@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Statements
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.StatementsSpecFirst
 set_option maxSynthPendingDepth 1

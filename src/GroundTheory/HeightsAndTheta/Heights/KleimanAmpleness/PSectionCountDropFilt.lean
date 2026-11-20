@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.SectionCountDropFiltSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.SectionCountDropFiltKernelSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.SectionCountDropFiltStepSt
@@ -7,6 +6,8 @@ import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PPrimeFiltrationExi
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSubvarDrop
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.QuotGraded
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.TwistAlg
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.PiTensorProduct
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

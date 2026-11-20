@@ -1,8 +1,5 @@
-import Formalism.LocalToGlobal.GlobalTheory.BlockActions.TilEqLevel
-import Formalism.LocalToGlobal.GlobalTheory.BlockActions.DefNOfFact
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ExistsOnOfPosDef
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.RationalPointsLeHolds
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.AfsplitB
+import Formalism.LocalToGlobal.GlobalTheory.BlockActions.ArchimedeanSignatureMatchingOfTrivialBranchingSymm
 
 noncomputable section
 

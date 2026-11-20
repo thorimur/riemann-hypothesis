@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsRefAlongSheet
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
+import Mathlib.Analysis.SpecialFunctions.Complex.Analytic
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.LowerBoundFree

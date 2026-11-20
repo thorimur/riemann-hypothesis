@@ -1,4 +1,6 @@
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.HformSmulRightB
+import Formalism.LocalToGlobal.HermitianForms.TiedBrUnit
+import Formalism.LocalToGlobal.HermitianForms.TiedSym
 
 noncomputable section
 

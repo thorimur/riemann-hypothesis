@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.ReductionMahler
+import GroundTheory.AutomorphicForms.ReductionSiegel
 
 open NumberField IsDedekindDomain Topology Filter Set Matrix
 open scoped NumberField.AdeleRing RestrictedProduct

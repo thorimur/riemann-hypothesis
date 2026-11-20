@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsUniqueHcharOfFiniteOrder
 import Development.AbelianVarietyTheory.Definitions.Foundations.AbsCharNotUnitary
+import Mathlib.NumberTheory.Padics.HeightOneSpectrum
 
 noncomputable section
 

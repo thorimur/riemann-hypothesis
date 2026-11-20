@@ -1,4 +1,7 @@
 import Formalism.WachLatticeTwists.Statement
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 

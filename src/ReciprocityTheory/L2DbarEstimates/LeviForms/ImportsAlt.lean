@@ -1,6 +1,5 @@
 import ReciprocityTheory.L2DbarEstimates.LeviForms.TwBound
 import ReciprocityTheory.L2DbarEstimates.LeviForms.Bergman
-import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.ChartSymmEventuallyEq
 
 universe u
 

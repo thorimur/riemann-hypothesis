@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.PairLift
 import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.SegmentStatementHolds
+import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.Transported
 
 noncomputable section
 

@@ -1,9 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.PhiTopAgree
 import Development.AbelianVarietyTheory.BlockTheory.SiegelEisenstein.LocalOrderMatrix
-import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ResiduesOfCompletionAtPrimeWithUniformizer
-import Formalism.LocalToGlobal.Columns.ChainOneOk
-import Formalism.LocalToGlobal.Columns.RowFormsLemmas
+import Formalism.LocalToGlobal.Columns.AdelicLemmas
 
 open NumberField IsDedekindDomain MeasureTheory ValuativeRel Matrix
 open Formalism.BasicNotions Formalism.HermitianLatticesTheory Formalism.L2.DIV Formalism.L2.Col

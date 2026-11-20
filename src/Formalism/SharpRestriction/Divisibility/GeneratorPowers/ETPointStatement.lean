@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.PhiCSt
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ValuationMultiplicationInvariance
+import Formalism.SharpRestriction.Divisibility.ModuliIntegralCharts
 
 set_option autoImplicit false
 

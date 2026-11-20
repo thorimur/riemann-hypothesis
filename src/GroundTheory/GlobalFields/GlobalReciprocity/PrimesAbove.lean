@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.GlobalFields.GlobalReciprocity.NormSquare
 import GroundTheory.GlobalFields.CyclotomicCharacters.DegreeDecomposition
+import GroundTheory.GlobalFields.IdeleClassGroup.InvariantsGalois
+import Mathlib.RingTheory.Ideal.NatInt
 
 namespace GroundTheory.Global
 

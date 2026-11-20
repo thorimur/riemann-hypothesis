@@ -1,5 +1,4 @@
 import ReciprocityTheory.SemistableReduction.TorsionNonvanishStatement
-import ReciprocityTheory.SemistableReduction.SemiDegCB
 import Lemmata.MiscLemmasR.Imports
 
 noncomputable section

@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SelmerTransport.RestrictionMemInvariantH1
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

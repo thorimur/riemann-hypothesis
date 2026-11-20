@@ -1,4 +1,5 @@
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CapS
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OneMemGoodCT
 
 noncomputable section
 

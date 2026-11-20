@@ -1,10 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalLimits.IsScalarTowerFiniteSubfieldAlgebraicClosure
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleCohomology.Unramified
-import GroundTheory.ProfiniteCohomology.GaloisCohomology.BrauerInflation
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolUnramified
-import GroundTheory.ProfiniteCohomology.FilteredHomology
-import GroundTheory.ProfiniteCohomology.CupProducts
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

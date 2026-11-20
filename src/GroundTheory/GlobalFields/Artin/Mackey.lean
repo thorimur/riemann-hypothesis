@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.BrauerInductionInduced
 import GroundTheory.TateCohomology.DoubleCosetSum
 set_option maxSynthPendingDepth 1

@@ -1,4 +1,6 @@
-import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.CoupledSumOfEntries
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.HeckeValueEstimateOfRecordValue
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.IntegralSpanCoordinates
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.LatAtZeroUpd
 
 noncomputable section
 

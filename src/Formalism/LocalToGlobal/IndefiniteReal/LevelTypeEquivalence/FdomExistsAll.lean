@@ -1,4 +1,3 @@
-import Mathlib
 import Lemmata.MiscLemmasB.Imports
 
 open MeasureTheory Topology

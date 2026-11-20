@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.GL3MeanSquares.LegendreCoefficient
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.IntegralSubstVector
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.SolveV

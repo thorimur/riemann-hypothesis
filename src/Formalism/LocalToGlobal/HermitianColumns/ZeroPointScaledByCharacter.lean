@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.HermitianColumns.ClsNonempty
 import Formalism.LocalToGlobal.HermitianColumns.Lev0Tied
+import Formalism.LocalToGlobal.HermitianColumns.CoordinateLatticeSelfDual
 
 noncomputable section
 

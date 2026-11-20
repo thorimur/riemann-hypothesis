@@ -1,6 +1,7 @@
-import Mathlib
-import ReciprocityTheory.SemistableReduction.ComapInclusionIsLocalHom
 import ReciprocityTheory.SemistableReduction.ExistsTorusPointOneLeNormSum
+import Mathlib.Topology.Algebra.InfiniteSum.Nonarchimedean
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 
 namespace ReciprocityTheory.MultiplicativeHeights
 

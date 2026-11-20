@@ -1,5 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSEJSRadLocCut
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.JfBetaAdjCOfLemmaBNorm
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CompactSupportFiniteClass
 
 open Matrix MeasureTheory Filter Topology
 open scoped ContDiff

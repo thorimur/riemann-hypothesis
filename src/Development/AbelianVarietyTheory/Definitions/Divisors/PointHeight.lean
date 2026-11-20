@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.SemistableReduction.SphereLogIntegrableStatement
 
 set_option autoImplicit false

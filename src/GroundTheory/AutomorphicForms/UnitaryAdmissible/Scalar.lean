@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TensorProductTheorem.GKTensor
-import GroundTheory.AutomorphicForms.GKModules.Casimir
 import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.GKStableLaplacian
 
 namespace GroundTheory.Automorphic

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.NormLtOne
 
 theorem UpperTheory.Reformulated.B.MonicNormLtOne.mc_norm_lt :

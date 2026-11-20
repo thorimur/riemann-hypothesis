@@ -1,4 +1,3 @@
-import Mathlib
 import Development.EtaleCohomology.CohomologicalPurity.LeafWEqvLPf
 import Development.EtaleCohomology.CohomologicalPurity.LeafWCechRec
 

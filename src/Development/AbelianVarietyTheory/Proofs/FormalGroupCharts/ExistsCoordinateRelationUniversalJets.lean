@@ -1,9 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.TwoChartAtlas.AdditionLawSecondIdentity
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpChartJet
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqB
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqLoc
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermFunPf
+import Development.AbelianVarietyTheory.Definitions.Jets.JetsOnCopiesCompatibleFrames
 
 set_option autoImplicit false
 noncomputable section

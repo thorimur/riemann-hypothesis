@@ -1,7 +1,8 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.RootInCore
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankIInfKerSemilinear
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.KeepsCuspLatticeNorm
+import Development.AbelianVarietyTheory.Definitions.Foundations.CanonicalExponents
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegralCuspFormsFullLattice
+import Development.AbelianVarietyTheory.Proofs.FoundationProofs.KeepsCuspOfIsUnifAt
 
 set_option synthInstance.maxHeartbeats 400000
 

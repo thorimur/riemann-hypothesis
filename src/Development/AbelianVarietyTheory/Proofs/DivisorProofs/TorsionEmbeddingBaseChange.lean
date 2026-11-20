@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GlPiEquivSymmContinuous
+import Std.Tactic.BVDecide.Normalize.Prop
 open Matrix
 open scoped Classical
 

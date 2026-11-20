@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.EtaleSheaves.SheafIsomorphism.LeafShIsoOf
+import Development.EtaleCohomology.EtaleSheaves.SheafIsomorphism.LeafSheafIsoOf
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.InterlaceDifferenceShiftInvariant
 import Formalism.LocalToGlobal.LatticeGeometry.GeometryDefinitions.TensorFockHolds
 

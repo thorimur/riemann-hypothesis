@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AtPtsImp
+import Formalism.PieriBlockIdeals.LatticeInclusionRealSettingAlt
 
 set_option autoImplicit false
 

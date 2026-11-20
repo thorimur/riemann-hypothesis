@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.LocalDensities.Statements
 import GroundTheory.HeightsAndTheta.Heights.LocalDensities.HypImp
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
+import Mathlib.Order.CompletePartialOrder
 set_option maxSynthPendingDepth 1
 
 noncomputable section

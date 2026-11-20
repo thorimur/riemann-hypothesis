@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussTop
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussPoissonDual
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussSqrt

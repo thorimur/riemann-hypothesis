@@ -1,6 +1,6 @@
-import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.VerticalStrips.UnramifiedEulerProductIntegral
 import GroundTheory.GlobalFields.AnalyticClassNumber.DirichletHeckeCorrespondence
+import GroundTheory.GlobalFields.AnalyticClassNumber.DirichletHecke
 
 open NumberField IsDedekindDomain GroundTheory.Global GroundTheory.LocalField Ad3 Ad3.R
 open GroundTheory.Global.RationalSymbol (prime unitAt)

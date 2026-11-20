@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.RealGroupsIwasawa
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CarrierEnergyPfLoc
 

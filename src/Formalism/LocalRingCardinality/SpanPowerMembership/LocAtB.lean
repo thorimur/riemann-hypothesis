@@ -3,6 +3,8 @@ import Formalism.SharpRestriction.LevelLetterCocycles.DataN
 import Formalism.LocalRingCardinality.SpanPowerMembership.LocAtA
 import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleLayerExistsGenerators
 import Formalism.LocalRingCardinality.SpanPowerMembership.Places
+import Mathlib.Algebra.Polynomial.SpecificDegree
+import Mathlib.NumberTheory.Padics.Hensel
 
 noncomputable section
 

@@ -1,5 +1,4 @@
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.IsNormEmbId
-import Development.WeilBound.CoreStatements.BranchingTraces.HilbertSchmidtTraces.HsTrace
 
 noncomputable section
 

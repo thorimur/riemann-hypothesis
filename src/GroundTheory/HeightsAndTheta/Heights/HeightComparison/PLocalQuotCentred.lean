@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightLocalQuotCentred
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightCentredRingNormal
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightLocalNormalIndex

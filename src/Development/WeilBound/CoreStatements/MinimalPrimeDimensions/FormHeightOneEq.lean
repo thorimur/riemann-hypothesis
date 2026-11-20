@@ -1,11 +1,7 @@
 import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.GenIdeal
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.TotalDegreeLinSubstLe
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.FormHeightGen
-import Development.WeilBound.CoreStatements.NefModelVolumes.ChowFormOfIntegralVersion
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.SphereMeanEqMahler
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BlockSphereMeanEqOfFrameNormEq
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsImageHeightUnique
-import ReciprocityTheory.SemistableReduction.SJCoreD
 
 set_option autoImplicit false
 

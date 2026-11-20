@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutBP
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGerm
 
 namespace Formalism.FourierDecayAlt.P.CutBP

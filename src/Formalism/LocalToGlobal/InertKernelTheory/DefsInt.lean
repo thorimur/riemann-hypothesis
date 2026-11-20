@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.InertKernelTheory.StatementInt
+import Formalism.LocalToGlobal.KernelLattices.LateralTheory
 
 noncomputable section
 

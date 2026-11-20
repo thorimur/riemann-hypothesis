@@ -1,4 +1,12 @@
 import Formalism.HermitianCurvature.StatementG
+import Mathlib.Analysis.Distribution.SchwartzSpace.Fourier
+import Mathlib.RingTheory.Complex
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Formalism.FourierDecayAlt.G Matrix MeasureTheory
 open scoped FourierTransform RealInnerProductSpace

@@ -1,6 +1,9 @@
 import Formalism.PieriBlockIdeals.Statement
-import Formalism.PieriBlockIdeals.StatementLD
 import Formalism.PieriBlockIdeals.BranchingBoundLastGradedOneRow
+import Mathlib.Algebra.Homology.ShortComplex.ShortExact
+import Mathlib.CategoryTheory.Linear.LinearFunctor
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 

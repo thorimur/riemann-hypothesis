@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.ParamsHeightRankConstant
 import Formalism.LocalRingCardinality.DataMink
 

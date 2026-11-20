@@ -1,8 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.LiftLatLemmas
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.PolarisedDualSystem
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.BaseSetLabels
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CompletelySplitPrimeHostPlaceProperties
 
 noncomputable section
 

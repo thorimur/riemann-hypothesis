@@ -1,5 +1,6 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.ModulusBounds.DetEqOfSurj
-import GroundTheory.AutomorphicForms.GLnLocal
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.MeasureTheory.Measure.Haar.DistribChar
 
 noncomputable section
 

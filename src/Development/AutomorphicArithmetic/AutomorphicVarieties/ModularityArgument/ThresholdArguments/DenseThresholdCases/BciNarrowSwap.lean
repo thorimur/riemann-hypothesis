@@ -1,5 +1,5 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.DiscreteSeriesCoefficientsCuspidal
-import Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.NarrowSwap
+import Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.NarrowAsc
+import Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.NarrowSpeh
 
 set_option maxHeartbeats 800000
 set_option synthInstance.maxHeartbeats 200000

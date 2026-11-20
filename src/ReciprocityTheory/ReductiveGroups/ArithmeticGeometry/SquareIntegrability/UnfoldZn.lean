@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.CubeIcoMeas
+import Mathlib.Analysis.SpecialFunctions.Gaussian.FourierTransform
 
 namespace ReciprocityTheory.ChartRestriction.G.I2
 

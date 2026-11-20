@@ -1,9 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsMaxThOne
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemFinPt
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTranspAlt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedDataLocalIdentityInfStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedRepLocalFactorFirstStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedRepLocalFactorSecond

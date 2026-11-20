@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitLogarithmSpanning
-import Mathlib
 open NumberField
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.unit_logarithm_spanning : ∀ (K : Type) [CommRing K] [IsDomain K] [CharZero K] [Module.Finite ℤ K] (c : (K →+* ℂ) → ℝ),

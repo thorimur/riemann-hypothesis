@@ -1,6 +1,7 @@
 import Formalism.AdmissibleDesigns.URepApply
 import Formalism.AdmissibleDesigns.TrivialBoundGeneral
 import Formalism.AdmissibleDesigns.CycMatchRec
+import Formalism.AdmissibleDesigns.H1MapMemLcH1
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

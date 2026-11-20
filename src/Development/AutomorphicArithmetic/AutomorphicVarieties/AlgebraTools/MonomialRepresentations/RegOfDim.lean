@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RegularLocalRegularSequence.RingKrullDimQuotientSpanSingletonAddOne
+import Mathlib.RingTheory.KrullDimension.NonZeroDivisors
 
 open Polynomial Matrix
 

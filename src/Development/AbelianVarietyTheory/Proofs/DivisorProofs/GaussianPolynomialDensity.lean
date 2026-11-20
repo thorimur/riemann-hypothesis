@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzTendstoOfPointwiseUniformBoundsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzTaylorSeriesConvergesStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzTaylorPartialSumDerivBoundStatement

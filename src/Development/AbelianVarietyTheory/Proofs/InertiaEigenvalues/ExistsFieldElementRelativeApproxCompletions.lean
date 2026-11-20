@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.FiniteIdeleExistsLocalApprox
+import Mathlib.Tactic.Polynomial.Basic
 
 open NumberField IsDedekindDomain
 

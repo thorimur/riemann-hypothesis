@@ -1,4 +1,5 @@
 import Formalism.FormalDegreeBessel.StatementWR
+import Mathlib.Tactic.ENatToNat
 
 open scoped ContDiff
 

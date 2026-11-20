@@ -1,7 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.HeckeInertComm
 import Formalism.LocalToGlobal.Columns.CoefficientsModP.LatticeBasisExistsHolds
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PatchAtSelf
+import Formalism.LocalToGlobal.Columns.DecoFin
 open NumberField IsDedekindDomain Formalism.HermitianLatticesTheory Formalism.L2.Col GlobalTheory.InertExchange
 open Classical
 

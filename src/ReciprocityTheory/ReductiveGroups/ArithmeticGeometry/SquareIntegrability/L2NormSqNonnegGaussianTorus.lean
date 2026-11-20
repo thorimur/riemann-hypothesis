@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.HfEqInner
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.GaussianTailBound
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
 
 namespace ReciprocityTheory.ChartRestriction.G.I2
 

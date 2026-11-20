@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.InertJacobiLevels.AsmIface
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.FrameFacts
 import Development.AutomorphicArithmetic.WeightCongruences.ProdNegOneZpow

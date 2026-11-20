@@ -1,9 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.CovolXOfCovol
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 import Formalism.LocalToGlobal.IndefiniteReal.PrimitivePackageFullHecke
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CovolumePerRankLeNegSlopeScaledStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftFormsFramesMajorantNormEqPeterssonStatement
+import Formalism.PadicSubsetSums.StableGradedCounts.ZBrauerNesbittAlg
 
 set_option synthInstance.maxHeartbeats 400000
 

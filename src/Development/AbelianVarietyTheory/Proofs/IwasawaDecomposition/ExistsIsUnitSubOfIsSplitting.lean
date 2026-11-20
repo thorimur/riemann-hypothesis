@@ -1,7 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsTangentEquiv
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsSecOfActionStatement
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.EigenDecompositionVectorBundle
 
 set_option autoImplicit false
 

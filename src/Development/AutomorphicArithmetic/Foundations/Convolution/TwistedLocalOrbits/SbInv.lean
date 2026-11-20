@@ -1,4 +1,10 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.TwistedLocalOrbits.HoweSpace
+import Development.AbelianVarietyTheory.Definitions.Foundations.MatrixMeasurableSpace
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Algebra.ClopenNhdofOne
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open GlobalTheory.SplitWeil
 

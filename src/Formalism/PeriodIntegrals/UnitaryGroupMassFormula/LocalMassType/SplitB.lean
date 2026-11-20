@@ -1,4 +1,6 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassType.SplitA
+import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SplitIntLoc
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalMassType.SatSplit
 
 noncomputable section
 

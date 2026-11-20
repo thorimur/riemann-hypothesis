@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ConjugateHermitianSmooth
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.DualGramInterpGram
 open AlgebraicGeometry CategoryTheory Matrix ReciprocityTheory.ChartRestriction.G.Geo.Tor GlobalTheory GlobalTheory.CxPts GlobalTheory.GradedNorm
 open scoped ComplexOrder
 set_option maxHeartbeats 1000000 in

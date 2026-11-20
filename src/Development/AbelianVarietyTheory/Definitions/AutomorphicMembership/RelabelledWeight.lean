@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RedivisionStructureEq
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.GoodPartEq
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.See
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RealIoX
 
 noncomputable section
 

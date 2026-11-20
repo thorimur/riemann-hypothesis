@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.PowerSeriesOneAddConstMulXMulInv
+import Mathlib.LinearAlgebra.Eigenspace.Basic
+import Mathlib.RingTheory.PiTensorProduct
 noncomputable section
 namespace GlobalTheory.PhiGam.Model
 open scoped LaurentSeries PowerSeries

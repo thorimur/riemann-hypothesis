@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsOpenImmersionChart
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TangentSectionsFormFrameStatement
 open CategoryTheory Limits AlgebraicGeometry NumberField
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor

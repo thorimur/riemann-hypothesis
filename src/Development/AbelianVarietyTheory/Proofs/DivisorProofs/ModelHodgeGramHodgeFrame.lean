@@ -1,8 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HodgeFrameGram
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModelHodgeGram
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModelHodgeGramPosDefQuotientStatement
-import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
 open Matrix
 open scoped ComplexOrder
 open GlobalTheory.HodgeLocGeo

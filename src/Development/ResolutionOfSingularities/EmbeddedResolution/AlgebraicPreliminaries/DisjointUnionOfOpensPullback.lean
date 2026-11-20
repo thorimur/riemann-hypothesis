@@ -1,5 +1,5 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.AlgebraicPreliminaries.DisjointUnionOfOpens
+import Mathlib.AlgebraicGeometry.Modules.Sheaf
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry
 
 namespace FunctorialResolution.EmbeddedResolution

@@ -1,6 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePPTAvg
 import Formalism.LocalToGlobal.CharacterGerms.CoeffSubstEqSum
-import Formalism.LocalToGlobal.CharacterGerms.RowTieCartFB
 
 noncomputable section
 

@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanLStable
-import Formalism.LocalRingCardinality.SpanPowerMembership.NDLocE
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SplitOfClosure
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CutCocFinsetCommon
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsStableComplActK
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FinrankSpanVecSLe

@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.InertKernelTheory.DefsBeW
+import Formalism.SharpRestriction.GlobalSchurBounds.GL3Theta
 
 namespace Formalism.L2.KerInert
 

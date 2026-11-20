@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExponentialTriangular.SortedSpec
+import Mathlib.Analysis.Matrix.Spectrum
 
 open Matrix Finset
 

@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.GlobalUnitaryForms.FibAbs
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 theorem UpperTheory.orbitalFiber_support_finite :
     UpperTheory.V.Z.Sym.Glob.Fib.SuppFin := by

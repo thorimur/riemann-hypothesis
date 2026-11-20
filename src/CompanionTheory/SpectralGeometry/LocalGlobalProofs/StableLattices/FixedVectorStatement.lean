@@ -1,5 +1,5 @@
-import Mathlib
 import CompanionTheory.RealGroups.UnitaryAdmissibility.ArchimedeanUnitaryDual.InhabitedFinite
+import Mathlib.Tactic.ENatToNat
 
 open CompanionTheory.Rg.Fl
 

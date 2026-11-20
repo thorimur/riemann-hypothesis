@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CongruenceGainBound.OneOfConstantCoeff
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CongruenceGainBound.Struct
 
 noncomputable section
 

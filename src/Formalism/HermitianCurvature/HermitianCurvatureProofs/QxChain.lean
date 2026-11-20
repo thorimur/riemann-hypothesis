@@ -1,7 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ChainRecursionFromSingleDescent
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LemmaDDeterminantIdentity
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorPreservesFusionForms
-import Formalism.FormalDegreeBessel.FormalDegreeRatio.WRWeyl
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.SumDualVectorEqZeta
 
 noncomputable section
 

@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.TraceOfDiag
+import Mathlib.NumberTheory.NumberField.Units.Basic
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Module NumberField Matrix
 

@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.MemParahoricTimesPrincipalCongruenceIff
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PointwiseStabiliserParametrisationBijective
 
 set_option linter.unusedVariables false

@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.AffineGLForms.GenSpace
+import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsSpanFormsNeBot
 
 noncomputable section
 open NumberField GlobalTheory.CuspRep MeasureTheory PositivityTheory.Affgl

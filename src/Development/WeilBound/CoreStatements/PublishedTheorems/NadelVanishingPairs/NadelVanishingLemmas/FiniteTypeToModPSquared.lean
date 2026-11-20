@@ -1,6 +1,6 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PublishedTheorems.NadelVanishingPairs.NadelVanishingLemmas.NumberFieldToModPSquared
 import Development.WeilBound.CoreStatements.PublishedTheorems.NadelVanishingPairs.NadelVanishingLemmas.FiniteTypeToNumberField
+import Std.Tactic.BVDecide.Normalize.Prop
 open scoped TensorProduct Polynomial
 
 namespace GlobalTheory

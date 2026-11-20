@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsLeadPlaneJac
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsLeadBlockGaussTail
+import Mathlib.MeasureTheory.Order.Group.Lattice
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

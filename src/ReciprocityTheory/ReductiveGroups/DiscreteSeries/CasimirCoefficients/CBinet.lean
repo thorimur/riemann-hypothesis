@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.IsClosedKset
-import Lemmata.GeneralBFact.Imports
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

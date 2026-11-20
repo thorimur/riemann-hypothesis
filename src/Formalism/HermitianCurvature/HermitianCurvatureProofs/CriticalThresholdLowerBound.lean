@@ -1,5 +1,3 @@
-import Formalism.HermitianCurvature.StatementSz
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.MassRatioFormula
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CorollaryAOfPropositionA
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SumInvSqLeSub
 

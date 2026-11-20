@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilTensorModels
-import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.TrivialOfDensityOne
 import GroundTheory.GlobalFields.TateThesis.DegreeOneDensity
 open NumberField IsDedekindDomain
 

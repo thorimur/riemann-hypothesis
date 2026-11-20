@@ -1,8 +1,5 @@
-import Formalism.SharpRestriction.GlobalTheoremInputs
 import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.GaloisMapComplexConjugation
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.JointDModelAppliesUnitLattice
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.SubThreeMulLogTwoLe
 import Formalism.SharpRestriction.AdmissibleParameterJoins.SumLogPrimeFactorsLe
 
 noncomputable section

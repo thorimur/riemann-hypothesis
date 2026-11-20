@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AppendVMemFamAtlasTarget
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DdcEqOfLocalEq
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SecondCountableTopologySphere
 
 set_option autoImplicit false
 

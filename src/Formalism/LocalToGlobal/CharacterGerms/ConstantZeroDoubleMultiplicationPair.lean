@@ -1,5 +1,7 @@
 import Formalism.LocalToGlobal.CharacterGerms.RankMaximalOfNondegenerateOfUnitSeriesIntegral
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePGerm
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Data.Rat.Star
 
 set_option autoImplicit false
 

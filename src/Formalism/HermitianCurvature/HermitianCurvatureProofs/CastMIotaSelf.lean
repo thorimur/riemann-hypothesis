@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BasePointMemDomain
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PbRadHeadOf
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FrameTransport
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LiftMemMatrixAlgebra
 

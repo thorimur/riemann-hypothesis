@@ -1,5 +1,9 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.HilbertSchmidt
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.InnerProductSpace.StarOrder
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace GroundTheory.Automorphic
 

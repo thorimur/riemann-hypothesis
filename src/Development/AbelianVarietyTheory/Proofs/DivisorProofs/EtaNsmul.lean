@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeckeRel
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CompEqOneOfTransl
 
 noncomputable section
 

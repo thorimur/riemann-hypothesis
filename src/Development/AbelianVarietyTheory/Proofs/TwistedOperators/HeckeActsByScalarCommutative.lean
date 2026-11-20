@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.NotIsSplitOfIsInertAt
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.HeckeVecMemFixed
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
 
 noncomputable section
 

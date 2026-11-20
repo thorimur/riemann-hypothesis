@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.IndefiniteReal.PrincipalLevelFrame
+import Formalism.LocalToGlobal.GaloisLevelStructure.DefsFinTyp
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

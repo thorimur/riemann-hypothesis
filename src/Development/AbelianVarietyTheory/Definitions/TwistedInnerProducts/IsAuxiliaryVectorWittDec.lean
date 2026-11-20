@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.TowerEx
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.IsSumFrame
 

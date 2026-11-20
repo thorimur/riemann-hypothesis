@@ -1,4 +1,3 @@
-import Development.AbelianVarietyTheory.PublishedTheorems.PublishedFoundations.FiniteIntertwining
 import Formalism.LocalRingCardinality.DataTheta
 
 noncomputable section

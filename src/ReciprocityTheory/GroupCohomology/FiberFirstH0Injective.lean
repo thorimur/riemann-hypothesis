@@ -1,6 +1,4 @@
-import ReciprocityTheory.GroupCohomology.CupConnRightStatement
-import ReciprocityTheory.GroupCohomology.DEqZeroOfMemB
-import ReciprocityTheory.GroupCohomology.ConnNatHolds
+import ReciprocityTheory.GroupCohomology.IsTowerLim
 
 namespace ReciprocityTheory.Coh
 open Cx Function

@@ -1,6 +1,7 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.JacChart
-import ReciprocityTheory.AnalyticForms.AnalyticCharts.ExistsAnalyticGraphChartMvPolynomial
+import Mathlib.Algebra.DualNumber
+import Mathlib.Analysis.Analytic.Polynomial
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 namespace ReciprocityTheory.AnForm.R
 

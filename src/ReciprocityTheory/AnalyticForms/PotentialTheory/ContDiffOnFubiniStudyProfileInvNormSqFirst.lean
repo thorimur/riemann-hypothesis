@@ -1,4 +1,8 @@
 import ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialOfFun
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.InnerProductSpace.Calculus
+import Mathlib.Topology.Compactification.OnePoint.Basic
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 namespace ReciprocityTheory.AnForm.M
 

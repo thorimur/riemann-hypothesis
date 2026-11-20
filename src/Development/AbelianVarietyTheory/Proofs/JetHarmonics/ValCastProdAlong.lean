@@ -1,9 +1,7 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GCorCut
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrRatio
-import Formalism.LocalToGlobal.ProjectiveLattices.ThProps
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ValCongr
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.FrameNStHolds
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 set_option autoImplicit false
 noncomputable section

@@ -1,7 +1,7 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.GlobalUnitaryForms.HodgeTateFromSandwich
-import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.TraceFormulaEigenvalues.FormsFin
 import GroundTheory.LocalFields.NormCorrespondence
 import GroundTheory.GlobalFields.LocalFieldAtPlace
+import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.GlobalUnitaryForms.SymbolEx
+import Mathlib.Algebra.QuadraticAlgebra.NormDeterminant
 
 open UpperTheory.V.Z.Sym.Loc
 

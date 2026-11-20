@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LFunctionEqTsumOfOneLt
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.NumberTheory.Harmonic.Bounds
+import Mathlib.Topology.Sheaves.Presheaf
 open Complex DirichletCharacter ArithmeticFunction MeasureTheory
 
 namespace GlobalTheory.DirichletDeriv

@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.TameInvariantLevelAction
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.LevelLiftConditions
+import Formalism.LocalToGlobal.Divisibility.DefGroup
 
 set_option autoImplicit false
 

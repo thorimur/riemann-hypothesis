@@ -1,5 +1,6 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.RegDom
+import Mathlib.RingTheory.OrderOfVanishing.Basic
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace ReciprocityTheory.AnForm.R
 

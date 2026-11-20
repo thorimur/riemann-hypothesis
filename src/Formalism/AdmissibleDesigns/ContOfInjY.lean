@@ -1,5 +1,4 @@
-import Formalism.AdmissibleDesigns.YtTarget
-import Formalism.AdmissibleDesigns.TensSubsingleton
+import Formalism.AdmissibleDesigns.FiniteClassesContinuousLattice
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

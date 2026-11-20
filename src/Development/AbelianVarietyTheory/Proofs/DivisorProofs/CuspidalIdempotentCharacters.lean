@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GenericMultiplicityOne
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.CuspidalInducedCharacter
 

@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.ConeBDefs
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Topology.Separation.CompletelyRegular
+import Std.Tactic.BVDecide.Normalize.Prop
 open MeasureTheory FreeSingleHomotopyEquivDiscreteChains.UpperTheory.Dv.ConeB
 
 private theorem norm_pr_le {ι : Type} [Fintype ι] {n : ℕ} (v η : Fin n × ι → ℂ) :

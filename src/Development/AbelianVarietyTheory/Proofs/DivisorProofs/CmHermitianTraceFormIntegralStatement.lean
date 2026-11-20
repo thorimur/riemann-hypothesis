@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CmHermitianTraceFormIntegral
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsHolFormConst
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.PolarisationModuleIndex
 open NumberField GlobalTheory.CMVal GlobalTheory.RealMult
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.cm_hermitian_trace_form_integral : ∀ (E : Type) [Field E] [NumberField E] [IsCMField E] (L : Submodule (OF E) E) (𝔠 : FracId (maximalRealSubfield E))

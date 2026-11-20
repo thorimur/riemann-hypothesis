@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StatementsFlZArithVar
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StatementsFlZIdealEqCoord
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PFlagArithVar

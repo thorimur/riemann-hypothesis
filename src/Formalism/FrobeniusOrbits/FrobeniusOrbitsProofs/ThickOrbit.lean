@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.FrobeniusOrbits.HostThickExists
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 
 open Classical
 

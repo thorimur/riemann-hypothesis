@@ -1,6 +1,6 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.SchwartzMoments.EqZeroOfMoments
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.MetaplecticRepresentation
+import Mathlib.Topology.Algebra.Module.FiniteDimensionBilinear
 
 noncomputable section
 

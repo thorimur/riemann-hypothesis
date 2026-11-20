@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.HermitianLattices.ThetaLEuclid
-import Formalism.AlphaUniqueness.Statement
+import Formalism.HermitianLattices.GenusCovolBound
+import Formalism.HermitianLattices.StatementTheta
 
 open Module Formalism.K
 

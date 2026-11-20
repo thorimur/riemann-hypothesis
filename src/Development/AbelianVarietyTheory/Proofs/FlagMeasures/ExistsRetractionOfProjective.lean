@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.RowMinor
+import Formalism.SharpRestriction.CuspSpanNormBounds.IsPrimitiveSub
 
 namespace GlobalTheory.ProjectiveRetraction
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.KoszulExactness.Ii
+import Mathlib.RingTheory.Regular.RegularSequence
 
 noncomputable section
 

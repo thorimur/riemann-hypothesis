@@ -1,6 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.RestSplit
 import Formalism.SharpRestriction.GrowthBounds.ProjectionOfIsotypicDecomposition
-import Formalism.SharpRestriction.GrowthBounds.PolBridge
 
 noncomputable section
 

@@ -1,8 +1,8 @@
 import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLl
 import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLm
 import Formalism.SharpRestriction.GlobalSchurBounds.WachTwistLocalTheory
-import Formalism.SharpRestriction.GlobalSchurBounds.JointsF
 import Formalism.LocalRingCardinality.IntCastDvdOfDvdIntegers
+import Formalism.SharpRestriction.GlobalSchurBounds.Joints
 
 noncomputable section
 

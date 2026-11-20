@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.SlackBoundJoint
+import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.TwiceValuationFactorialProduct
 
 noncomputable section
 

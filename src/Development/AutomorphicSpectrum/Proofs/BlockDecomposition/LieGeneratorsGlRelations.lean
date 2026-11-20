@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.JBConjTranspose
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MapMemKfin
 
 noncomputable section
 

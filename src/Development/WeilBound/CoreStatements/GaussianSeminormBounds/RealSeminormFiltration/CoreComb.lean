@@ -1,5 +1,6 @@
 import Development.WeilBound.CoreStatements.GaussianSeminormBounds.RealSeminormFiltration.CoreShape
 import Development.WeilBound.CoreStatements.GaussianSeminormBounds.RealSeminormFiltration.CoreCasW
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

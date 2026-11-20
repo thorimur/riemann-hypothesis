@@ -1,6 +1,8 @@
 import Formalism.WachLatticeTwists.RealClassMaps.Statement
-import Formalism.WachLatticeTwists.ShapeRowIsomorphisms.Imports
-import Formalism.WachLatticeTwists.CupProductVanishing.Imports
+import Formalism.WachLatticeTwists.CupProductVanishing.CupProductProofs.Clause4GK
+import Formalism.WachLatticeTwists.ShapeRowIsomorphisms.ShapeRowProofs.BkInRow
+import Formalism.WachLatticeTwists.ShapeRowIsomorphisms.ShapeRowProofs.Clause5Row
+import Formalism.WachLatticeTwists.ShapeRowIsomorphisms.ShapeRowProofs.LocallyConstantH1Eq
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

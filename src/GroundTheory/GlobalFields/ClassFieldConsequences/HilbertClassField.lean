@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ClassFieldConsequences.TrivialModulus
 
 namespace GroundTheory.Global

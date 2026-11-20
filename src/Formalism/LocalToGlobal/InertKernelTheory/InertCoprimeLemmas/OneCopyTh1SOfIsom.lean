@@ -3,7 +3,6 @@ import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.MMScale
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.MMModelS
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.MMReadS
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.MMCoord
-import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.PowerSeriesEmbedding
 
 namespace Formalism.L2.KerInert
 

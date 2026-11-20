@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.Brauer.BaseChange
 import GroundTheory.Brauer.DoubleCentralizer
 import GroundTheory.Brauer.Degree
+import Mathlib.FieldTheory.JacobsonNoether
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Brauer

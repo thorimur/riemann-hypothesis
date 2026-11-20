@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.FiniteIdempotentMulEq
+import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.LatAnn
 
 noncomputable section
 

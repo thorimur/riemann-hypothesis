@@ -1,7 +1,8 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2Classical.HeckeCosets
-import GroundTheory.AutomorphicForms.GL2Classical.Automorphic
 import GroundTheory.AutomorphicForms.HeckeAlgebraLevel
+import GroundTheory.AutomorphicForms.GL2Classical.CuspConverse
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 open NumberField IsDedekindDomain Matrix MeasureTheory CongruenceSubgroup
 open UpperHalfPlane hiding I I_re I_im

@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.Divisibility.RecBridge
 import Formalism.LocalRingCardinality.CoeNeZeroOfNotMem
 
 noncomputable section

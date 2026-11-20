@@ -1,9 +1,8 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.NormAlmostAll
-import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.GalBase
-import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.ConjSep
-import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.NmPoly
 import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.RepNmSucc
 import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.ExistsNotMem
+import Mathlib.RingTheory.Polynomial.Resultant.Basic
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

@@ -1,4 +1,5 @@
 import ReciprocityTheory.Hypotheses.GalCohDefs
+import Mathlib.Topology.Instances.ZMod
 
 noncomputable section
 

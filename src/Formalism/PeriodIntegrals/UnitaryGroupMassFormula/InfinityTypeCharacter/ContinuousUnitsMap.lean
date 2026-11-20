@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.PeriodIntegrals.InfTypeChar
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InfinityTypeCharacter.ExtensionEmbeddingAlgebraMap
+import ReciprocityTheory.NeutralLocalFields.Reciprocity
 
 noncomputable section
 

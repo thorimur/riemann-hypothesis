@@ -1,6 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.Frames
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.Rerealize
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder MatrixOrder

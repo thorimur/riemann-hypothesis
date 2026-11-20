@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.IsSemiChar
+import Mathlib.LinearAlgebra.Matrix.Hermitian
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

@@ -1,5 +1,4 @@
 import Formalism.ThetaLiftIndependence.Statement
-import Formalism.HermitianLattices.HermitianLatticesProofs.IsomAct
 
 noncomputable section
 

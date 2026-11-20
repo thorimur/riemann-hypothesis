@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTieSelf
-import Formalism.LocalToGlobal.CharacterGerms.RowTieAxes
+import Formalism.LocalToGlobal.CharacterGerms.RowTiePHStab
 
 noncomputable section
 

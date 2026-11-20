@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.KappaOffDiagonal
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.TermAttrConst
 

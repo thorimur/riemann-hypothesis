@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.PrismaticDieudonnePerfdIff
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DUnitMemRangeOfMemKerIdeal
+import Development.AbelianVarietyTheory.Definitions.Divisors.ToBaseChangePtsBijective
 
 noncomputable section
 

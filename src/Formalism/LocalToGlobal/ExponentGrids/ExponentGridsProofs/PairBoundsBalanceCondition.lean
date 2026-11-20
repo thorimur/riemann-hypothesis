@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.ExponentGrids.IntegerShiftClosedExponent
 import Formalism.LocalToGlobal.ExponentGrids.ExponentGridsProofs.ArithmeticBoundCyclicTwo
-import Formalism.LocalToGlobal.Divisibility.NumbersLemmas
 
 open Module NumberField IsDedekindDomain Finset
 open Formalism.DivisionValues (vw conjPl PlOver)

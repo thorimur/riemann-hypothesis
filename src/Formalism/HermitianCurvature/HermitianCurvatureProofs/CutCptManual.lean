@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutCptDefs
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGermLowGram
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.ModuleFormPosCompactSupport
 
 namespace Formalism.FourierDecayAlt.P.TBBx5
 

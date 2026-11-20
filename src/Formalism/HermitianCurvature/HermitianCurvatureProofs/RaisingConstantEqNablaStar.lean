@@ -1,8 +1,9 @@
-import Formalism.HermitianCurvature.StatementM
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MultiplicationOpHom
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelNablaStarRelations
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.InterlaceSignTwo
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.EulerZetaGammaInvIdentity
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Formalism.FourierDecayAlt.M Formalism.FourierDecayAlt Matrix Finset Polynomial
 

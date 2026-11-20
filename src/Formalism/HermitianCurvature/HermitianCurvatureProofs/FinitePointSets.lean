@@ -1,4 +1,9 @@
 import Formalism.HermitianCurvature.StatementTB
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.Data.Finset.Functor
+import Mathlib.Data.Set.Finite.List
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.FourierDecayAlt.P.FinitePointSets
 

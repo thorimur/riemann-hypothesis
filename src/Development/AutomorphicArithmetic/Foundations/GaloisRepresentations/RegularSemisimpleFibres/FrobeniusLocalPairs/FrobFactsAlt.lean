@@ -1,6 +1,6 @@
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.FrobeniusLocalPairs.LiftFactorization
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.PowerMatchingTraces.MatchCut
 import Development.AbelianVarietyTheory.Definitions.Divisors.IntersectionFamilySymmetric
+import Development.AutomorphicArithmetic.Foundations.Convolution.GeneralizedMeasures.LocHeckeInert
+import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.SummandFactor
 
 noncomputable section
 

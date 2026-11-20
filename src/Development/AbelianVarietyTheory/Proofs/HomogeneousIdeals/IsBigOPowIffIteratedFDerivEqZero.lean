@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.MemUnitaryGroupIffIsIsometry
-import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.IsAddFundamentalDomainLatticeDomain
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.EqExpFderiv
 
 open Filter Topology Asymptotics Complex

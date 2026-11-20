@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ProjectiveModulesGlueCover
 
 set_option maxHeartbeats 1000000 in

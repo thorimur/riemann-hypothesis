@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.JSmul
-import Formalism.LocalRingCardinality.AdicCompletionLocal.LocTied
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AevalApplyComm
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.Saturated
 
 noncomputable section
 namespace GlobalTheory.BaseLatticeE

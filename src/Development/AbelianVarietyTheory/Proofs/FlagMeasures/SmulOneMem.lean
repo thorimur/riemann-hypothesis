@@ -1,6 +1,6 @@
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ExistsIsHaarMeasureSUJ
-import GroundTheory.GlobalFields.TateThesis.ArchCharsUnitary
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSchur
+import GroundTheory.GlobalFields.TateThesis.ArchCharsUnits
 open MeasureTheory Matrix Finset Formalism.MainNotions.S Formalism.REAL Formalism.QuantumDeterminants GlobalTheory.Dec GlobalTheory.DSId GlobalTheory.DSSU
 open scoped InnerProductSpace
 

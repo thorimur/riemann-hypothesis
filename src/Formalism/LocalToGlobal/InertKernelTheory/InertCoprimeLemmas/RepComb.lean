@@ -1,8 +1,7 @@
 import Formalism.LocalToGlobal.InertKernelTheory.DefsRepComb
 import Formalism.LocalToGlobal.InertKernelTheory.InertCoprimeLemmas.IntEasy
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.PeriodLatticeFinitelyGenerated
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ExistsIntegralMulOrderElement
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.StdOK
+import Formalism.LocalToGlobal.InertKernelTheory.DefsRep
 
 noncomputable section
 

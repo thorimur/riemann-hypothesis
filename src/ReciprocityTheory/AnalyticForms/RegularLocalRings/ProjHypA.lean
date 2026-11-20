@@ -1,5 +1,4 @@
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.ProjDehom
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.LogResStC
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.FinTypeQE
 
 namespace ReciprocityTheory.AnForm.R

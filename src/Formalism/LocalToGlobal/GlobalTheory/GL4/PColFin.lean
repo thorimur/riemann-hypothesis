@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.GlobalTheory.GL4.PColLoc
 
 open Module NumberField IsDedekindDomain MvPolynomial

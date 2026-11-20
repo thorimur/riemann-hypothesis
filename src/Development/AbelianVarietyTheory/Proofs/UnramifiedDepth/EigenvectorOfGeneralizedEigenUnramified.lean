@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.GeNatCast
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Tactic.Polynomial.Basic
 
 open scoped BigOperators TensorProduct
 open Formalism.L2.FormalSeriesBounds

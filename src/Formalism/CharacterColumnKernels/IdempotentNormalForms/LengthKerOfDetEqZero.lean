@@ -1,6 +1,10 @@
 import Formalism.CharacterColumnKernels.Statement
 import Lemmata.SecondBlockLemmaA.Imports
 import Lemmata.AddValuationProducts.AddValProd
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.TotallySplit
 
 open Module IsDiscreteValuationRing Matrix
 

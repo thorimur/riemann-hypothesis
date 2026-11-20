@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InfinitelyManyPrimesInRayClass
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.NonemptyRayDataOfNeZero
 open NumberField IsDedekindDomain GlobalTheory.Mem Complex
 open scoped ComplexOrder
 set_option maxHeartbeats 1000000 in

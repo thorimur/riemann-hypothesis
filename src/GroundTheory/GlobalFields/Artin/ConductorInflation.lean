@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.Conductor
 import GroundTheory.GlobalFields.Artin.InflationTower
-import GroundTheory.LocalFields.LowerIndexQuotient
-import GroundTheory.LocalFields.IntermediateField
+import Mathlib.Data.ENat.BigOperators
 
 noncomputable section
 

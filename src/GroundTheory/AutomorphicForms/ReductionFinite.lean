@@ -1,10 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ReductionHeight
 import GroundTheory.AutomorphicForms.ReductionIdele
-import GroundTheory.GlobalFields.Adele.Discrete
-import GroundTheory.GlobalFields.Adele.Compact
-import GroundTheory.GlobalFields.IdeleGroups.Restricted
-import GroundTheory.GlobalFields.IdeleGroups.UnitBound
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 
 open NumberField IsDedekindDomain Topology Filter Set Matrix
 open scoped NumberField.AdeleRing RestrictedProduct

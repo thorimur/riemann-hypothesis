@@ -1,5 +1,8 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.CyclicRecursionStatement
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.AffineMonoid.UniqueSums
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

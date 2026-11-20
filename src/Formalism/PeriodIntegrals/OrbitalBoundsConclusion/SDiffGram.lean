@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SDiffGram
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramDifferenceRenaming.SDiffGramMain
 
 namespace PI.Final.SDiffGram

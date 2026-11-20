@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussianEigenFrames.StatementA
 import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.FinalA
+import Std.Tactic.BVDecide.Normalize.Bool
 
 noncomputable section
 open scoped BigOperators

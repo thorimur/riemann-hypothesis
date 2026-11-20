@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.FiniteTypeHarishChandra.SupportExistsAll
 
 open ReciprocityTheory.Ty.Fin

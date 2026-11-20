@@ -1,7 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsLocRingIntClosure
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StLocRingChartLoc
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StIntClosureLocFinite
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 noncomputable section

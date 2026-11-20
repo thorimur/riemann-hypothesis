@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.RingDataOfIdempotents
-import Formalism.WachLatticeTwists.RealDisplaySplitting.GaloisTheoremThirdForms
+import Formalism.SharpRestriction.LevelLetterCocycles.DecompositionData
+import ReciprocityTheory.ReductiveGroups.TraceFormulas.LatDefs
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

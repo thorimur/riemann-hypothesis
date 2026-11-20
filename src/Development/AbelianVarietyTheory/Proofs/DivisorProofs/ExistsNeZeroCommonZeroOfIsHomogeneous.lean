@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeHeightSpanRangeXMvPolynomial
+import Mathlib.RingTheory.Nullstellensatz
 open IsLocalRing
 
 namespace GlobalTheory

@@ -2,6 +2,7 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.RealVec
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Realsurj
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Grampd
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

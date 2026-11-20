@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsPtsMonoSemipos
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PIntegralAgainstPositive
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterFib
 set_option maxSynthPendingDepth 1
 
 noncomputable section

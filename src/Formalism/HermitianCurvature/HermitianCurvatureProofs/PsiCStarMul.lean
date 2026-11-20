@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.MeasurePreservingProdPermThree
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BlkUUMapMuPRn
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.SigmaFiniteOfHaar
 
 open Matrix MeasureTheory Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.U
 open scoped ComplexConjugate

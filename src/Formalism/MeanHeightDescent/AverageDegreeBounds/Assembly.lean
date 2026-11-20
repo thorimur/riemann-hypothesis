@@ -1,5 +1,9 @@
-import Mathlib
 import Formalism.MeanHeightDescent.AverageDegreeBounds.CovolumeIntoDivisionHolds
+import Formalism.MeanHeightDescent.MuMaxMinkowski
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open Finset Module NumberField
 

@@ -1,6 +1,7 @@
-import Development.AutomorphicArithmetic.ThickFrames.MarkedLow
-import Formalism.SharpRestriction.GrowthBounds.UnramifiedQuadraticSetting
 import Development.AutomorphicArithmetic.ThickFrames.MarkedLowBounds
+import Mathlib.Algebra.Order.Field.GeomSum
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Finset UpperTheory.BernoulliSumsFrobeniusOrbits Formalism.G0
 

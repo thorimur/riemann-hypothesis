@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsContOnOfLocal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdeleJoinZero
+import Mathlib.RingTheory.PiTensorProduct
 
 open IsDedekindDomain NumberField
 open scoped Classical

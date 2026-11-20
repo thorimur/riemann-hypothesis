@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IntegralFundamentalDomainEqSumDoubleCosetUnfold
-import Mathlib
 open MeasureTheory
 open scoped InnerProductSpace
 set_option maxHeartbeats 1000000 in

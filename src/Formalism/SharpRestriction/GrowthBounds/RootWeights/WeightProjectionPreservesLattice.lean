@@ -1,4 +1,7 @@
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsClearDenominators
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.MemWeightSpaceIffDiagonalEigen
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.OperatorsKillInvariantProjection
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.LocalProperties.Reduced
 
 noncomputable section
 

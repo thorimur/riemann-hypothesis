@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SpanningFamilies.IMemSiegel
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.GroupTheory.IndexNSmul
+import Mathlib.RingTheory.SimpleRing.Principal
+import Std.Tactic.BVDecide.Normalize.Prop
 open Matrix Complex GlobalTheory.SW
 open scoped ComplexConjugate Real
 

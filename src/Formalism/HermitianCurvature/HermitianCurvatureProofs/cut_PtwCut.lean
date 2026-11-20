@@ -1,6 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutLimEvT
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutLemB
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEnCVLocal
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutERCV
 
 namespace Formalism.FourierDecayAlt.P.CutBP

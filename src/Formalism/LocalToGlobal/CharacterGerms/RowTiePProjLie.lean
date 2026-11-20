@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePProjFBTop
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePSplitDef
+import Formalism.LocalToGlobal.CharacterGerms.RowTiePLSmallMain
 
 noncomputable section
 

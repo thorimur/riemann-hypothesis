@@ -1,10 +1,8 @@
-import Mathlib
-import Formalism.SatakeDualWeyl.DualWeylRepApply
-import Formalism.HarderNarasimhan.StatementPl
 import Formalism.LocalRingCardinality.DataArith
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.LatticeHasBasisAtEveryFinitePlace
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ActPMemLocPNabStdOfIsBasisAt
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.IntegralConjInnerMulInnerOfIsEmptyEquiv
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
 
 open MvPolynomial NumberField IsDedekindDomain MeasureTheory
 open Formalism.GradedWeylDivisibility (dualWeyl rowAct initMinor lpMinor hw shapeDeg colW initW nuNext ssIdx)

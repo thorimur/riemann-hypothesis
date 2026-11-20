@@ -1,4 +1,8 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.ArakelovInstances.DiagonalCurvatureCoefficient
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.SpecialFunctions.Complex.Analytic
+import ReciprocityTheory.AnalyticForms.LeviForms.HomDens
+import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
 
 set_option autoImplicit false
 

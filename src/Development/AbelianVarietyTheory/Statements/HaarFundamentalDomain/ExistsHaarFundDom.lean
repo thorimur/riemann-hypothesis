@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.HaarFundamentalDomain.KernelSt
 import Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsCtxBase
 import Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ThetaFunctionFundamentalDomainInnerProductBasic
 import Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.IsWeakOneOfRankZero

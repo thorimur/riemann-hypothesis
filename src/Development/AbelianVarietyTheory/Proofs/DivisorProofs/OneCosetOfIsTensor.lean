@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.FlatTensorVacuum
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsKOOfDet
 
 open MeasureTheory ValuativeRel Matrix

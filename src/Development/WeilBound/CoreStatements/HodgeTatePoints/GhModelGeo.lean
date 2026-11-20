@@ -1,7 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.IsExcisionNbhdAway
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsLieModel
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatLie
+import Mathlib.RingTheory.TensorProduct.IsBaseChangeFree
 
 set_option backward.isDefEq.respectTransparency false
 

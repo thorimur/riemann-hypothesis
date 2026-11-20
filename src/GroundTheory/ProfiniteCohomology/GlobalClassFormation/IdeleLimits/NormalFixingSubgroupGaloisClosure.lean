@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits.Invariants
 import GroundTheory.GlobalFields.IdeleClassGroup.InvariantsGalois
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleCohomology
+import GroundTheory.ProfiniteCohomology.CohomologyFunctoriality
+import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleCohomology.ExistsSIdelesCohomologyEqZero
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

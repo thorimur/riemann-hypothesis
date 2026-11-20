@@ -1,8 +1,9 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteForms.IndefSide
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ConjugateWeightLatticeOfGeneral
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.KappaNormalise
 import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.RamBasic
+import Formalism.QuotientMetricDivisors.PassageScaleFree
+import Mathlib.NumberTheory.NumberField.CMField
+import Std.Tactic.BVDecide.Normalize.BitVec
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder InnerProductSpace

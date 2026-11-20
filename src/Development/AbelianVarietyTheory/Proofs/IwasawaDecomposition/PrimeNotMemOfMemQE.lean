@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExtUHInjective
+import Formalism.LocalToGlobal.Columns.RowForms
 
 noncomputable section
 

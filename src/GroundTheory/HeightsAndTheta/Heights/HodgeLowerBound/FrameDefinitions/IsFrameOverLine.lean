@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.Metric
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.CoordinateIdeals.Example
+import Mathlib.LinearAlgebra.ExteriorPower.Basic
 set_option maxSynthPendingDepth 1
 
 noncomputable section

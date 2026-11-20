@@ -1,7 +1,7 @@
-import Formalism.HarderNarasimhan.StatementPl
-import Formalism.LatticeSlopes.ExistsSaturatedSlopeEqMuMax
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.DegSupermodZ
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.DiscreteSpanOfLinIndep
+import Mathlib.NumberTheory.NumberField.Discriminant.Basic
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open Module NumberField Matrix
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsCompOfOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SubOrthProjPerpMem
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ActEqTranslateLiftV

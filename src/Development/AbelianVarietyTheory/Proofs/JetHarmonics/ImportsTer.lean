@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Jets.JetsOnCopiesCompatibleFrames
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.UnifUniqSt
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.TwistBCPf
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsThetaFrame
 import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.PsiWeightZeroProduct
 import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.ValFinProdGen

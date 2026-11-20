@@ -1,11 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ZetaOn
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaKernelReal
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilRepIntertwinesAction
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsCompactOpenCompactAtInfinity
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpanFiniteDimensional
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzMemL2
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeasurableThetaSumOfSchrodinger
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFinPartNeZero
 
 noncomputable section
 

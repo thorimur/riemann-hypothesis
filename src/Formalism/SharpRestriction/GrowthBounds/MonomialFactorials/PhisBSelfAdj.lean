@@ -1,6 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.BePhiAddLeft
 import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.BlockValuationZpOfLatticeInclusion
-import Formalism.MahlerMeasure.MahlerMeasureProofs.GamDeg
 
 noncomputable section
 

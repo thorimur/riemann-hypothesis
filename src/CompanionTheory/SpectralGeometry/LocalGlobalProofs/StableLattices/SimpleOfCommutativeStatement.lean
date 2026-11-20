@@ -1,6 +1,7 @@
-import Mathlib
 import CompanionTheory.RealGroups.UnitaryAdmissibility.ArchimedeanUnitaryDual.InhabitedFinite
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BurnsideSurjOfIrred
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 
 noncomputable section
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SimultaneousEigenbasisIntegral
-import Mathlib
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.simultaneous_eigenbasis_integral : ∀ (R : Subring ℂ) [IsPrincipalIdealRing R] {g : ℕ} {V : Type} [AddCommGroup V] [Module R V]
     (b : Module.Basis (Fin g) R V) (ψ : V →ₗ[R] (Fin g → ℂ)), (LinearIndependent ℂ fun k ↦ ψ (b k)) →

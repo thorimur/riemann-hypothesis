@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsLastExtra
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsLastRest
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OneMemSecOverZero
@@ -6,6 +5,7 @@ import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ExistsSumEqOneOfMul
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.AssemblyBase
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGraphClosed
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ChartRingOverOneBlockEqAlt
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.Fintype
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman.SectionsOverLocalization

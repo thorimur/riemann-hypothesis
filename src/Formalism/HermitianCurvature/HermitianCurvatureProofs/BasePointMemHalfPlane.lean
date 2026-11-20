@@ -1,4 +1,7 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FderivDecomp
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.HasFDerivAtPrim
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.ENatToNat
 
 open Set Filter Topology Complex
 

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.FormalGroupLaw
+import Mathlib.RingTheory.PowerSeries.NoZeroDivisors
 
 namespace GroundTheory.Arith.Abelian
 

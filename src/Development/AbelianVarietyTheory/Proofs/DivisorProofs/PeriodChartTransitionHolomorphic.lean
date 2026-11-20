@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsL2OnDiagonalOfIsL2Metric
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousAndExistsConjChart
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatCubicalStatement
+import Mathlib.Topology.Separation.Lemmas
 
 set_option autoImplicit false
 

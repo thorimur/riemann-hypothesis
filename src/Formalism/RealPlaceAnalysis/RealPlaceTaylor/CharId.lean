@@ -1,5 +1,7 @@
 import Formalism.RealPlaceAnalysis.StatementC
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.GeneratorPowUpperVanishHolds
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Finset Polynomial
 

@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.StNbarLeviChartReg
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PNbarLeviChartReg
 import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PRefChartDisc
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PProjHoloLocal
@@ -7,7 +5,6 @@ import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PProjSmoothAlong
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PHermExtend
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PHoloInjDerivInj
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PChartVelLift
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PInjectiveHolomorphicInverse
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.LocalOrbitChart
 
 set_option maxSynthPendingDepth 1

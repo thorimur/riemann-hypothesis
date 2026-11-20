@@ -1,5 +1,9 @@
-import Mathlib
-import ReciprocityTheory.GaloisValuations.Global
+import Formalism.ConjugateSelfDual.Statement
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 open NumberField IsDedekindDomain Polynomial
 
 namespace GlobalTheory

@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.AdelicUnitaryGroups
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Theta

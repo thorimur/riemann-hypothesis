@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.HeadPictureEmptyWord
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.LiftVectorZeroBlock
 
 open Matrix MeasureTheory
 open scoped ComplexConjugate

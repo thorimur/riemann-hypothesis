@@ -1,4 +1,8 @@
 import Formalism.GaloisIrreducibility.Statement
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.GaloisIrreducibility
 

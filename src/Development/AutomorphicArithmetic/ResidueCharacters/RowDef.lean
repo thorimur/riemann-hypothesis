@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.BoundAtTwoAndThreeForFamily
 import Formalism.SharpRestriction.LevelLetterCocycles.SmallTwists.RowSmall
 

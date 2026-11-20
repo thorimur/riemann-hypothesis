@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.TensFactor
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.TwTrace
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.JointEx
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.TwistPerm
@@ -9,9 +7,6 @@ import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvo
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.IntPow
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.FinSplit
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.SplitLoc
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.ArchBasic
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.GlueBasic
-import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.TwistUnitary
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.TwistYA
 
 noncomputable section

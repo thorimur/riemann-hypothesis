@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CentralEig2
 import GroundTheory.GlobalFields.Adele.Compact
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocEqOneOfMemGam

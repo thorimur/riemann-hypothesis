@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.PushWithIsTranspose
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ReductionUniformizerPoint
 

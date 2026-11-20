@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.MetricPeriods.IsNormEmbId
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NormSqIntegralSmulLe
 
 noncomputable section

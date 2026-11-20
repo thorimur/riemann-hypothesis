@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.QuotientKernel
-import GroundTheory.AutomorphicForms.DiscreteSpectrumAbstract
 
 open MeasureTheory
 

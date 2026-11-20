@@ -1,4 +1,3 @@
-import Development.WeilBound.CoreStatements.PublishedTheorems.JacquetShalikaRigidity.ColumnConjugationMeasure
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LintegralVecSmul
 
 namespace PositivityTheory.AdelicQuotientData

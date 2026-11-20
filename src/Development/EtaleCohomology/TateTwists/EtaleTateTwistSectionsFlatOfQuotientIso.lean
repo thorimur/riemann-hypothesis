@@ -1,6 +1,6 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.DivisorSupportCondition
-import Development.AbelianVarietyTheory.Definitions.Divisors.SecClass
 import Development.EtaleCohomology.TateTwists.EtaleTateTwistSheafFlat
+import Mathlib.Data.Finsupp.Pointwise
+import Mathlib.Tactic.Polynomial.Basic
 
 open Polynomial
 

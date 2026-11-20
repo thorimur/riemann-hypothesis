@@ -1,5 +1,10 @@
-import Mathlib
 import Formalism.DoubleCosetMeasures.StatementV
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.NumberTheory.LocalField.Basic
+import Mathlib.RepresentationTheory.Basic
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

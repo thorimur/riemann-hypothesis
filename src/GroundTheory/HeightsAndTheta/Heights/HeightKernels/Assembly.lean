@@ -1,12 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.Imports
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.RestAssembly
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.AssemblyAnalytic
 import GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.Assembly
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PCoordConeArithVar
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGrassArithVar
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRootArithVar
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualArithVar
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PFsLineSmooth
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PFsLineLevi
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PFsLineSemipositive
@@ -23,9 +19,6 @@ import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PMultiHomogMemCoord
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRootHeightNE
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRootDense
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGrassHeightBound
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLatticeBasisExists
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualEmbBijective
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLineSemipositive
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLineConj
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PPointDegCPos
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualCurvePoint

@@ -1,7 +1,5 @@
 import Formalism.LocalToGlobal.GlobalTheory.AnalyticConclusionOfProp25
 import Formalism.GL3MeanSquares.HookFormulaTorsion.BoxCountAllStatement
-import Mathlib
-import Formalism.GL3MeanSquares.HookFormulaTorsion.MeanSquareOfPrimeNumberTheorem
 import Formalism.GL3MeanSquares.HookFormulaTorsion.MeanSquareWeakOfPrimeNumberTheorem
 
 noncomputable section

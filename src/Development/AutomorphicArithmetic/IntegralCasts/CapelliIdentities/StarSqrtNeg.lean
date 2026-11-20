@@ -1,8 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.ColumnData
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
-import Formalism.LocalRingCardinality.Params
-import Formalism.LocalRingCardinality.DataHost
 
 attribute [local instance] Formalism.BasicNotions.Host.cmStar
 

@@ -1,5 +1,7 @@
 import Formalism.AdmissibleDesigns.FiniteClassesContinuousLattice
 import Formalism.AdmissibleDesigns.SelfGood
+import Formalism.SharpRestriction.LevelLetterCocycles.LargeLevelLemmas
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

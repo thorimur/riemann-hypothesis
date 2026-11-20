@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemElt
+import Formalism.LocalToGlobal.HeckeThetaElements.IsHeckeElt
 
 noncomputable section
 

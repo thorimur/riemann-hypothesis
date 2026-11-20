@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeCB
 
 namespace ReciprocityTheory.AnForm.R

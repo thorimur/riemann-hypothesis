@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsRootSelectionUnitaryRankOne
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwFin
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedFinitenessGl1UnramifiedStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedFinitenessSeparableNormStatement
 open Matrix NumberField GlobalTheory.LKTrip GlobalTheory.LKRes GlobalTheory.LKMid GlobalTheory.LKCount

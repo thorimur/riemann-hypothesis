@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.SchurIrreducible
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ContinuousExptPY
+import Mathlib.Analysis.Normed.Algebra.MatrixExponential
 
 noncomputable section
 namespace GlobalTheory.PolarU

@@ -1,7 +1,7 @@
 import Formalism.GaussJetBounds.OneLetterGaussJets.StatementG
 import Formalism.GaussJetBounds.GaussJetProofs.OneGauss
 import Formalism.GaussJetBounds.GaussJetProofs.WeightsAddOverOrbitFamily
-import Formalism.GaussJetBounds.GaussJetProofs.OrbMul
+import Formalism.GaussJetBounds.GaussJetProofs.WeightsAddOverOrbitsLogLoss
 
 noncomputable section
 open scoped BigOperators

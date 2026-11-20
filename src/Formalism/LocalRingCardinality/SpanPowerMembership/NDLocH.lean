@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.DataN
 import Formalism.LocalRingCardinality.SpanPowerMembership.NDLocG
+import Formalism.LocalRingCardinality.SpanPowerMembership.NDLocD
 
 noncomputable section
 

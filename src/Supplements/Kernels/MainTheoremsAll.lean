@@ -1,2 +1,1 @@
-import Supplements.Kernels.MainTheoremsCritical
-import Development.AutomorphicArithmetic.AutomorphicVarieties.SmallClassNumbers.CorGKOf
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd

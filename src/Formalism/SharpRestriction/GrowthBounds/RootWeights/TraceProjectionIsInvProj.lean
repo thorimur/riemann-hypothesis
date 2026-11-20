@@ -1,4 +1,7 @@
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.DeltaIntegralEnvelopingStable
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsHighestCoordinateFunctional
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsIntegralWeightProjections
+import Mathlib.Algebra.Lie.OfAssociative
+import Mathlib.LinearAlgebra.Eigenspace.Minpoly
 
 noncomputable section
 

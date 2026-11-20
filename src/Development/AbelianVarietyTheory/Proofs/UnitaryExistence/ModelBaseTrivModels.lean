@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.OpenRowsFree
 import Development.AbelianVarietyTheory.BlockTheory.ExistenceTori.ModelFamilies
 

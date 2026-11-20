@@ -1,5 +1,7 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.IsInfUnitary
 import Formalism.RealPlaceAnalysis.StatementKT
+import Mathlib.LinearAlgebra.Eigenspace.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

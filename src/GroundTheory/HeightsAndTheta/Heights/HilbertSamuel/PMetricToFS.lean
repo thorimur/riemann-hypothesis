@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsMetricToFS
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsPullFSExtension
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDefectMetricChange

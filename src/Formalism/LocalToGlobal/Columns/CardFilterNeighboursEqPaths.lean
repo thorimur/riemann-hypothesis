@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.Columns.WmpNatCardQuotEqPowFinrank
+import Formalism.LocalToGlobal.Columns.HeckeSp
 
 noncomputable section
 

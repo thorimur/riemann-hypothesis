@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.SubgroupCharExtensionOneApply
 import Formalism.LocalToGlobal.IndefiniteReal.ScalarOnPartsFull
-import Formalism.LocalRingCardinality.DataParams
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.LevelCuspCharacters
 
 noncomputable section

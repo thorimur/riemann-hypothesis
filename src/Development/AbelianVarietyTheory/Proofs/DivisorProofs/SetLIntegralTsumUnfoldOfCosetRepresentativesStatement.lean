@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetLIntegralTsumUnfoldOfCosetRepresentatives
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.LocallyCompactSpaceAxis
 open MeasureTheory Filter Topology GlobalTheory.ResLine
 open scoped ENNReal
 set_option maxHeartbeats 1000000 in

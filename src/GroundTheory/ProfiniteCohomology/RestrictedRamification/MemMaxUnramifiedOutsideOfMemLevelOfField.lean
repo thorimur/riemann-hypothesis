@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BrauerOrd
+import GroundTheory.GlobalFields.IdeleClassGroup.IdeleClassMapIdeleClassMap
+import GroundTheory.ProfiniteCohomology.RestrictedRamification.MaxUnramifiedOutside
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

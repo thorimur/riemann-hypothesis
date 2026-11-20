@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.FixedCoefficientFieldInComplex
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.ContainsRayFieldOfRay
 open NumberField IsDedekindDomain GlobalTheory.Mem

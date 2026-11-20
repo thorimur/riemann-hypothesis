@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ReadingsExistRow
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousCoeffBlockAct
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPsiOfOverK
-import Formalism.LocalToGlobal.Columns.CoefficientsModP.FkMapInitMinor
 
 open MvPolynomial Formalism.BasicNotions Formalism.L2.DIV
 open scoped Matrix ComplexOrder

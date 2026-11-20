@@ -1,4 +1,7 @@
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralPolyLinearMapClosed
+import Formalism.SharpRestriction.GrowthBounds.ObjPol
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

@@ -1,7 +1,5 @@
 import Formalism.FlagUnipotentLattices.CuspidalityThreshold
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.CoefficientLeOperatorNorm
-import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.ExtensionInterSubspace
-import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.NearFarVolumeBounds
 
 open Formalism.HermitianLatticeCounting.S7 Finset MeasureTheory NumberField
 open scoped ComplexOrder

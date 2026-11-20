@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.H0TwistOverClosedField
+import Mathlib.GroupTheory.FiniteAbelian.Basic
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 namespace LateralTheory.E.E4
 

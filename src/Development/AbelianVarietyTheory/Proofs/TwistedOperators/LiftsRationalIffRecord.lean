@@ -1,9 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.RationalAdjoints.RatZOfTests
-import Formalism.LocalToGlobal.IndefiniteReal.RationalAdjoints.CoordRat
-import Formalism.LocalToGlobal.IndefiniteReal.RationalAdjoints.RatThOfLiftTest
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AlgebraicFormsBasisInjective
 import Formalism.LocalToGlobal.IndefiniteReal.ZeroPartEigenvalueConvention
+import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.GoodLiftPhase
 
 noncomputable section
 

@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.EigenvalueSeparation.AlmostEverywhereEigen.OneStepOf
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
 open PositivityTheory.Rg.BcB.E1 PositivityTheory.Rg.BcB.E2
 namespace PositivityTheory.Rg.BcB.E2.P
 

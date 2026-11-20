@@ -1,5 +1,5 @@
 import Formalism.PieriBlockIdeals.StatementLP
-import Formalism.PieriBlockIdeals.PieriColumnMinors.BinaryFormsExample
+import Formalism.PieriBlockIdeals.PieriColumnMinors.Symmetrization
 
 namespace Formalism.CohomologicalDescent.LP
 

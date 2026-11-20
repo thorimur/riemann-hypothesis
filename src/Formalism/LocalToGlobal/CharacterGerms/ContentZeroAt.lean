@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.Interface
+import Formalism.LocalToGlobal.CharacterGerms.BiadditiveInSingleVariables
 
 noncomputable section
 open scoped BigOperators

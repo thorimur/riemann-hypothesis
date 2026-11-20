@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.Convolution.LocalGroupAnalysis.QuotStage
 
 noncomputable section

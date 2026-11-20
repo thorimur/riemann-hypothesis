@@ -1,4 +1,8 @@
 import Development.EtaleCohomology.DivisorCycles.OpenCoset
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.Nullstellensatz
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Tactic.ENatToNat
 
 namespace LateralTheory.DivDb.SpecPtPf
 

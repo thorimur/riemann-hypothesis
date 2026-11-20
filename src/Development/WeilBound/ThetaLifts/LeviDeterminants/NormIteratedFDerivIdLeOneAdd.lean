@@ -1,6 +1,7 @@
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilTensorModels
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.FiniteAdeleTopology
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ExistsBoundPolyMulExpAlt
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
 
 noncomputable section
 

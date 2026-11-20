@@ -1,4 +1,6 @@
 import ReciprocityTheory.ThetaSummability.TailSumEstimates.ConeChange
+import Mathlib.MeasureTheory.Integral.Pi
+import Mathlib.Topology.Separation.CompletelyRegular
 
 namespace ReciprocityTheory.ThetaSummability.Est
 

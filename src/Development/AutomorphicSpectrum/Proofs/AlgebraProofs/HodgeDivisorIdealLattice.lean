@@ -1,10 +1,5 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LieLatticeData
-import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.LocallyFreeTestPointMembership
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.MemOfTestIdeal
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.PowSpanLocFreeBaseChange
-import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.LatticeGoodBaseChange
-import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.KernelGraphBaseChangeHolds
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.LatticeSecondGoodness
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HodgeAnnihilatorLatticeHolds
 open GlobalTheory.CompanionTheory.Ar.Num

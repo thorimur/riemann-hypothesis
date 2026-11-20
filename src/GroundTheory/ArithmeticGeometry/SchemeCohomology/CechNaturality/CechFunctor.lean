@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.CechNaturality.Linear
 set_option maxSynthPendingDepth 1
 

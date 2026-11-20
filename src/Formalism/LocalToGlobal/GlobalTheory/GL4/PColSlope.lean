@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.GlobalTheory.GL4.PColInf
+import Formalism.LocalToGlobal.GlobalTheory.GL4.PDetAll
+import Formalism.SharpRestriction.GlobalSchurBounds.SlopeMaxOpenOfHookTwoLeV
 
 open Module NumberField IsDedekindDomain MvPolynomial
 open scoped Matrix

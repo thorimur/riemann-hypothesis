@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.LatticeGeometry.DegFlLApply
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.HPInvEqForm
 

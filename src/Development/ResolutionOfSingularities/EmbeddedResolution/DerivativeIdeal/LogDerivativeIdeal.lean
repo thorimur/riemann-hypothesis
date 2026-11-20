@@ -1,4 +1,3 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.DerivativeIdeal.DerivativeIdeal
 
 namespace FunctorialResolution.EmbeddedResolution

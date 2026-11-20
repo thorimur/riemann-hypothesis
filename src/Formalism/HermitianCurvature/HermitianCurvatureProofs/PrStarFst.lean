@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.RealInputsClosedAdmissibleSettings
+import Formalism.HermitianCurvature.StatementQ
 
 namespace Formalism.FourierDecayAlt.P.PBF
 

@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.PAdicHodge.UntiltFrobeniusEquivSymmEpsilonNeOne
+import GroundTheory.PAdicHodge.BdRGalois
+import GroundTheory.PAdicHodge.BdRLattice
+import GroundTheory.PAdicHodge.TateCpTwist
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
 set_option maxSynthPendingDepth 1
 
 noncomputable section

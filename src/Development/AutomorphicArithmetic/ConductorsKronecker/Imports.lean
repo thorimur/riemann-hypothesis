@@ -1,5 +1,5 @@
 import Development.AutomorphicArithmetic.PrimitiveCosets.RecH
-import Development.AutomorphicArithmetic.PrimitiveCosets.ToEBij
+import Formalism.SizeWindowBrackets.ChainSlopeWindows.GaloisMapComplexConjugation
 
 open UpperTheory.Comparison₂ Formalism Formalism.HC Formalism.D5 Formalism.LFunctionChainParameters.characterSumData Formalism.LFunctionChainParameters.LHost NumberField Ideal
 

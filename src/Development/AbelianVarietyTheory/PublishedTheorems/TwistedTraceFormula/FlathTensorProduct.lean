@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.ExistsFactorisationCuspidal
+import Development.AbelianVarietyTheory.Definitions.Foundations.ForallEventuallyFinLocIff
 
 noncomputable section
 

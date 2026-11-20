@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataDIV
 import Formalism.LocalRingCardinality.DataParams₂
-import Formalism.SharpRestriction.GrowthBounds.IsResidueClassZero
 
 noncomputable section
 

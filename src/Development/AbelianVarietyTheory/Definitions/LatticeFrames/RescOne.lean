@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.XiEqXiOffMul
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.CosInj
 
 noncomputable section
 open Formalism.BasicNotions GlobalTheory.SeeSaw GlobalTheory.QPl

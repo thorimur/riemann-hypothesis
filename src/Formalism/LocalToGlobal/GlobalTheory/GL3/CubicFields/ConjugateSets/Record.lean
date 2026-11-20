@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.GlobalTheory.GL3.CubicFields.PeriodRelations.LeadingConstantNeZero
-import Formalism.LocalToGlobal.GlobalTheory.GL3.CubicFields.PeriodRelations.Bridge
 import Formalism.LocalToGlobal.GlobalTheory.GL3.CubicFields.ComplexMultiplication.UniqInvOfLat
-import Formalism.LocalToGlobal.GlobalTheory.GL3.CubicFields.ConjugateSets.ConjKQ
 
 noncomputable section
 open scoped BigOperators Classical UpperHalfPlane

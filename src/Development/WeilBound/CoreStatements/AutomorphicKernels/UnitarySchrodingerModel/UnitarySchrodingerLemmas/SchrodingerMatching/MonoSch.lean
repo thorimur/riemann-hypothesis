@@ -1,4 +1,3 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.UnitarySchrodingerModel.UnitarySchrodingerLemmas.SchrodingerMatching.PsiPlaces
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WhittakerAdditivity
 
 noncomputable section

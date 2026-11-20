@@ -1,4 +1,6 @@
 import ReciprocityTheory.AnalyticForms.LeviForms.ProjectiveLineSecondChartSymmOfNe
+import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshRegMax
+import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
 
 namespace ReciprocityTheory.AnForm.P
 

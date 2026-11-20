@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.ThetaCorrespondence.HoweDuality.FactorApply
+import Std.Tactic.BVDecide.Normalize.Prop
 open scoped TensorProduct
 open UpperTheory.Lit.HoweDuality
 

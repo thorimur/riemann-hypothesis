@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.JetCones.SymCapRev
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
-import Formalism.RealPlaceAnalysis.FinalF
 import Development.AutomorphicSpectrum.Proofs.JetProofs.EvFirst
 
 open GlobalTheory.CompanionTheory.AlgRepEndIrreducible PI.UpqRep Matrix

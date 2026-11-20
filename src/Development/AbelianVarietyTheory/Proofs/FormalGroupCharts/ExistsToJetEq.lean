@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.TwoChartAtlas.TwoChartSt
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.ChartChg
+import Mathlib.RingTheory.MvPowerSeries.Equiv
 
 noncomputable section
 open MvPowerSeries ReciprocityTheory.ChartRestriction.G.Chart

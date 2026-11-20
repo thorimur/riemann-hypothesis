@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.DvdSubOfDvdSubX
+import Mathlib.RingTheory.AdicCompletion.Topology
+import Mathlib.RingTheory.MvPowerSeries.LinearTopology
+import Mathlib.RingTheory.PowerSeries.Evaluation
 
 noncomputable section
 

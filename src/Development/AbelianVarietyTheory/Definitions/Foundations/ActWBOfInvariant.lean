@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.CycMOfNot
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsScalarTowerMdlOm
-import Development.AbelianVarietyTheory.Definitions.Foundations.LiftSLMapMulInvMem
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.SlMulToRingEquiv
 
 noncomputable section

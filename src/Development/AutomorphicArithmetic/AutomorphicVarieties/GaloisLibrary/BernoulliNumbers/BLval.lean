@@ -1,7 +1,8 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.BernoulliNumbers.MapGenBChar
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.BernoulliNumbers.Hurzero
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.BernoulliNumbers.Sumicc
+import Mathlib.Algebra.Algebra.Field
+import Mathlib.NumberTheory.LSeries.HurwitzZetaValues
 
 open Finset UpperTheory.V.Bern
 

@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.Uniformization
-import GroundTheory.GlobalFields.ComplexMultiplication.UniformizationEisenstein
+import Mathlib.NumberTheory.ModularForms.LevelOne.GradedRing
 
 open Complex UpperHalfPlane ModularForm EisensteinSeries MatrixGroups Filter Topology
 open scoped PeriodPair Real

@@ -1,12 +1,10 @@
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.CIndVerbB
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpChartOf
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpActOf
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpTiePf
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqChart
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqPf
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.EvalSinglePointId
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.KillAddVal
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.PsiCover
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.HarmInvPf
 
 set_option autoImplicit false

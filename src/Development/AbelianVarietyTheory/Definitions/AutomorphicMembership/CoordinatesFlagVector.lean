@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.GqPtOfNeZeroIff
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.SameRedEquivalence
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.DetFromBlocksSingle
+import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SymmetricFlagBasisVectorsApplyCentre
 
 noncomputable section
 

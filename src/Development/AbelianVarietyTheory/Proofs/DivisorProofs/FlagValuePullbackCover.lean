@@ -1,13 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsGradedRankOne
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsX
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VanishingOnRegularFlagged
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VanishingEverywhereOfRegularAlteration
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagVarietyArithDimension
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PullbackCoverGenericPoint
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsometricGrLBPullFlag
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagPullbackPieceIsoFactor
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagBundleUniqueUpToIso
 
 set_option autoImplicit false
 

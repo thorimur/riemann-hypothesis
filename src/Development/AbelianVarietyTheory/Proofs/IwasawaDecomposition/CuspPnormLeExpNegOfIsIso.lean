@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsPosLowerBoundNearMax
 
 open NumberField Complex Filter ReciprocityTheory.ChartRestriction.G.FD

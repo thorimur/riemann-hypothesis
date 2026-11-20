@@ -1,9 +1,6 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.DeterminantCokernelCount.JetMomTA
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PThIndep
-import Development.AbelianVarietyTheory.BlockTheory.JetGauges.ParabolicPointMembership
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsTraceNorm
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsMeasureOfBoundedMoments
+import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.IsDiscriminantTwelfthRootOfIdealLattice
+import Mathlib.Topology.Compactness.CompactlyGeneratedSpace
 open NumberField Formalism.BasicNotions Formalism.MainNotions.TaylorLogMetric Formalism.L2.Ker GlobalTheory.IndefiniteRowSideFullHecke.ParabolicPointMembership
 
 namespace GlobalTheory.MonomialDense

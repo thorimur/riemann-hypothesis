@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.BCrisEigenFixed
 import GroundTheory.PAdicHodge.BCrisEigenChar
 import GroundTheory.PAdicHodge.BCrisEigenMaps

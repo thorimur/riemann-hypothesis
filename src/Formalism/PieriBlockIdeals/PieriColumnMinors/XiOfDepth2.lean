@@ -1,8 +1,6 @@
 import Formalism.PieriBlockIdeals.PieriColumnMinors.LrbPiSingleCast
 import Formalism.PieriBlockIdeals.PieriColumnMinors.LrcFockZeroRight
-import Formalism.PieriBlockIdeals.PieriColumnMinors.FsDivMem
-import Formalism.PieriBlockIdeals.PieriColumnMinors.LowerTriangularIntegral
-import Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightMemWZero
+import Formalism.PieriBlockIdeals.StatementLR
 
 open MvPolynomial
 

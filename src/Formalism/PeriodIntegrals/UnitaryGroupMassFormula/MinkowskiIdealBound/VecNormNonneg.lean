@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.UnipotentAdelicQuotients.SiegelSetsSL2Adelic
+import Mathlib.Algebra.AffineMonoid.Basic
 
 open NumberField IsDedekindDomain
 

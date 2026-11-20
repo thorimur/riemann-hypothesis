@@ -2,6 +2,7 @@ import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.ArvOSobPfKer
 import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.ArvOSobPfChart
 import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.ArvOSobPfKFin
 import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.ArvOSobPfAvg
+import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.ArvOSobPfHaar
 
 namespace CompanionTheory.D.gk.HC
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LatticeSlopes.Statement
+import Mathlib.Order.CompletePartialOrder
 
 open Module Submodule
 

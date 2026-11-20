@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.TwoChartAtlas.AdditionLawSecondIdentity
 import Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.AxisPderivComp
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.SumSupportRename
 

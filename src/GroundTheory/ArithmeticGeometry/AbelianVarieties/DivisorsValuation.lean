@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisorsOrd
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.FunctionFieldPoint
 
 namespace GroundTheory.Arith.Abelian
 

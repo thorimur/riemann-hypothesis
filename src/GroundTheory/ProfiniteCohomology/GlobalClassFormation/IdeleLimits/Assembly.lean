@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits.LevelsColimit
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits.LevelsTrans
+import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleCohomology
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

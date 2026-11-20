@@ -1,4 +1,8 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HermitianPerturbedVectorOrthogonal
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.RightDerivativeRulePsi
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.TotallySplit
 
 open Matrix Finset
 

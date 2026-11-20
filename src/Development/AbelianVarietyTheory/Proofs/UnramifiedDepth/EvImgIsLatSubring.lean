@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.EvLatStatement
 
 noncomputable section

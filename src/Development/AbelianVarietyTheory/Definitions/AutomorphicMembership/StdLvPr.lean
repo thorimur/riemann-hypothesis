@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LatAtLattice
 import Formalism.LocalToGlobal.HermitianForms.TiedTwSym
 import Formalism.LocalToGlobal.KernelLattices.FirstKernelLawReading

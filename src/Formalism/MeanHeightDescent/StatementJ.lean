@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.QuotientMetricDivisors.StatementK
-import Formalism.MeanHeightDescent.StatementA
+import Formalism.LogFactorialIndices.StatementSize
 
 open Finset
 

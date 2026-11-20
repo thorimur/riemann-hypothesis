@@ -1,4 +1,9 @@
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.DividedPowerMonomialExpansion
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralPolyLinearMapClosed
+import Mathlib.Data.Finsupp.Interval
+import Mathlib.RingTheory.LocalProperties.Reduced
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 

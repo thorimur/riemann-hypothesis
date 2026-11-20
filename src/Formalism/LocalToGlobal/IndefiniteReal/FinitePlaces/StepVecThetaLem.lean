@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.PlaceS
-import Formalism.LocalToGlobal.IndefiniteReal.DatumVec
 
 noncomputable section
 

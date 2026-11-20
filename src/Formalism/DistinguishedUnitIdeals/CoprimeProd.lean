@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.DistinguishedUnitIdeals.Statement
 
 noncomputable section

@@ -1,5 +1,5 @@
-import Mathlib
-import Formalism.HarderNarasimhan.FinalCor
+import Formalism.HarderNarasimhan.Statement
+import Formalism.LatticeSlopes.ExistsSaturatedSlopeEqMuMax
 
 noncomputable section
 

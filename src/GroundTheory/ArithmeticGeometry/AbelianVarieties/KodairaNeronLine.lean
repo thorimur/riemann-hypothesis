@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.KodairaNeron
+import GroundTheory.ArithmeticGeometry.AbelianVarieties.FormalGroupReduction
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.Abelian

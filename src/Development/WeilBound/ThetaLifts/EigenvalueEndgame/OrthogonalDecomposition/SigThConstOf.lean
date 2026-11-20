@@ -1,7 +1,7 @@
 import Development.WeilBound.ThetaLifts.EigenvalueEndgame.OrthogonalDecomposition.HodgeTateFromSandwich
 import Development.WeilBound.ThetaLifts.FrameEstimates.ThickFrames
 import Development.WeilBound.ThetaLifts.LatticeBasics.SchToPol
-import Development.WeilBound.CoreStatements.LocallyConstantCoinvariants.ExistsFull
+import Development.WeilBound.ThetaLifts.EigenvalueEndgame.OrthogonalDecomposition.SigThConst
 
 noncomputable section
 

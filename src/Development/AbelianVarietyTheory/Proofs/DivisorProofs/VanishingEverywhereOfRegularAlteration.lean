@@ -1,13 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RegFlagged
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithmeticCurveSubbundleCover
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFlagBundleProjVectorBundle
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsArithVarOfInt
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagBundleBaseChangeArithVariety
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharZeroResidueFieldGenericPoint
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SwapIdentityFromRegularBase
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFlagBundlePullFlag
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NontrivialIsomClassInt
 
 set_option autoImplicit false
 

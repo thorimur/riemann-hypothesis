@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.ThetaCorrespondence.CrystallineComparison.ZD
+import Development.WeilBound.CoreStatements.CrystallinePeriodRings.LocTied6
+import Formalism.LocalRingCardinality.AdicCompletionLocal.LocTied
 
 noncomputable section
 

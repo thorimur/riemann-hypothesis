@@ -1,5 +1,4 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.GlobalTraceComparison.CuspidalContribution.LevShrink
-import Development.AutomorphicArithmetic.AutomorphicVarieties.ConjugateRepresentations.CuspidalSupport.CuspSupportOf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumSatEqOfIsCT
 
 open NumberField IsDedekindDomain Matrix Filter Topology

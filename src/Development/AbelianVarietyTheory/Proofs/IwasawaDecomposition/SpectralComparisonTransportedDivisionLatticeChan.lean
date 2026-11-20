@@ -1,11 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RelabelledWeight
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsReOfDiv
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FinXSpectralRedivisionFullChoices
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MultREqReL
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MvEvHolds
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MvRowJ
-import Formalism.LocalToGlobal.IndefiniteReal.HeckeNonvanishing.Imports
 
 noncomputable section
 

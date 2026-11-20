@@ -1,8 +1,5 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataExtra
-import Formalism.LocalRingCardinality.DataRRMetric
-import Formalism.LocalToGlobal.LatticeGeometry.DegFlLApply
-import Formalism.LocalToGlobal.LatticeGeometry.CmTypeMeetsConjugatePair
+import Formalism.LocalRingCardinality.DataDIV
+import Mathlib.FieldTheory.IsAlgClosed.Classification
 
 set_option autoImplicit false
 

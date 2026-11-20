@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ReesSheafBase
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.PullbackBaseChange
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ReesRing
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

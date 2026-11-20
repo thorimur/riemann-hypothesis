@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.DictPlan
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 namespace PIW.AdelClassFin

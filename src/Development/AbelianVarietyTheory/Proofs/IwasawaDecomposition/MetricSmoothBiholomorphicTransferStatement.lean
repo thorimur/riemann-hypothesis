@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MetricSmoothBiholomorphicTransfer
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HolSprayApply
 open Filter Topology Matrix
 open scoped ContDiff
 set_option maxHeartbeats 1000000 in

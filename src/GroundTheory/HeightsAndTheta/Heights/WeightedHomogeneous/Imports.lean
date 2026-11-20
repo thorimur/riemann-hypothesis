@@ -1,8 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.Statements
 import GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.StatementsFibreCompDimZ
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.GeoNum
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.MultihomogeneousIdeals.CycDim
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.BarCompSubsetClosure
+import Development.AbelianVarietyTheory.Definitions.Foundations.TableDegreeElevenProduct
 
 set_option autoImplicit false
 

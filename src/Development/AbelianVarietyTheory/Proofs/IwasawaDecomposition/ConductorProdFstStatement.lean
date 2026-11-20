@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ConductorProdFst
 open IsLocalRing
 set_option maxHeartbeats 1000000 in

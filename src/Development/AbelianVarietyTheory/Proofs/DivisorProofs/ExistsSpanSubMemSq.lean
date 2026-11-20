@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.FinrankOfIsStandardSmoothOfRelativeDimension
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace GlobalTheory.PowerIdealSurjectivity
 

@@ -1,10 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsTopWTopWOfExists
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.EdgeCupProps
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.KummerGeneratorOfChar
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUnitMulPowOfKummerVanishesOnInertiaCurve
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.EdgeEqZeroOfInert
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.KummerExponentOfGaloisElementIsKummerCharacter
+import Mathlib.Order.CompletePartialOrder
 
 open GlobalTheory.K4 GlobalTheory.KEdge GlobalTheory.NeedB Polynomial
 

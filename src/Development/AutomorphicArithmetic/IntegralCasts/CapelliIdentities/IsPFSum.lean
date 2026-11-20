@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsPF
 
 theorem UpperTheory.Reformulated.B.IsPFSum.isPF_sum :

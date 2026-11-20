@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AmpleOnAbelianBase
 import Formalism.LocalToGlobal.LatticeGeometry.GeoTiedP
 

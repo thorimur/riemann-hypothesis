@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.GenIdeal
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.ValFUnitNeZero
 

@@ -1,5 +1,4 @@
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.MultiplicityOne.TranslateIntegrable
-import ReciprocityTheory.ReductiveGroups.DiscreteSeries.MultiplicityOne.JRepro
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.MultiplicityOne.StDefs
 
 noncomputable section
 

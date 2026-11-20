@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsModGrowthExpLeNormInfPow
+import Formalism.LocalToGlobal.ProjectiveLattices.PartitionExtendByZeroAntitone
 
 noncomputable section
 

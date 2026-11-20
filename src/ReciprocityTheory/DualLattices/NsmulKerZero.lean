@@ -1,4 +1,4 @@
-import ReciprocityTheory.DualLattices.IsHeightUnique
+import ReciprocityTheory.DualLattices.NsetExpInjectiveSurjective
 
 noncomputable section
 

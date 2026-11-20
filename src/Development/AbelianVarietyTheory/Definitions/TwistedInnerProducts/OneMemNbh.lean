@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Counterexamples.JetSurvey.MatrixExponentialEntries
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.ProjExists
 

@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.SplittingProjection
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OverLatticeIffSelfDualOverBase
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.MemLocLatOverLat
 
 namespace GlobalTheory.OverObj

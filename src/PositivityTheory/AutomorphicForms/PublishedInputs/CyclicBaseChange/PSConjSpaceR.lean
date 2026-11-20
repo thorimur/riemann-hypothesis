@@ -1,6 +1,8 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.SConjSpaceC
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ContinuousMapGL
 import GroundTheory.GlobalFields.TateThesis.AdeleMeasure
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MkMemAdmissibleAtIffCocycle
+import GroundTheory.GlobalFields.Adele.Topology
 
 noncomputable section
 

@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PKleimanNefF
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PModelGenericPoint
-import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.IsFieldSubalgebraSelf
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsTailRest
 set_option maxSynthPendingDepth 1
 

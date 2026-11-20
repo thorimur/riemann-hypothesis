@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.HasMultiplier
 import Development.WeilBound.CoreStatements.RationalSupMetrics.AevalEqZeroOfMem
 

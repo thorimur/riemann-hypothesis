@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.RespectsAddUniversal
 import GroundTheory.GlobalFields.ComplexMultiplication.DifferentialConstantField
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisorsTranslate
 
 namespace GroundTheory.Global
 

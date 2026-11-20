@@ -1,10 +1,7 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.SplitStable
 import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.PowIndep
 import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.CharIndep
 import Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.IrreducibleAdmissibleGL
-import GroundTheory.GlobalFields.LocalFieldAtPlace
-import GroundTheory.AutomorphicForms.MeasuresGL
 
 open MeasureTheory NumberField IsDedekindDomain Filter
 open GroundTheory.Automorphic GlobalTheory.IndefiniteRowSideFullHecke.IwahoriDoubleCosets GlobalTheory.PRep GlobalTheory.CuspRep GlobalTheory.SmGL UpperTheory.ConvolutionTheory UpperTheory.ConvolutionTheory.C

@@ -1,8 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.HermitianSpaceBaseLatticeEqFrameLattice
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.MemStabLocStdLatticeIffHtFinEqOne
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotIsFieldAdicCompletionTensorOfSplit
-import ReciprocityTheory.Automorphisms.SplitCoeAlgebraMap
+import Mathlib.NumberTheory.RamificationInertia.Basic
+import Mathlib.RingTheory.TotallySplit
+import ReciprocityTheory.Automorphisms.PlaceA
 
 noncomputable section
 

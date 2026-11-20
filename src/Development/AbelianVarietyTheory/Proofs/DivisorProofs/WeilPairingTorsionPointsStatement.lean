@@ -1,9 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilPairingTorsionPoints
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HermitianCurvatureForms
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CovariantSecondFundamentalForm
-import Development.AbelianVarietyTheory.Definitions.Divisors.DiagValExtTraceNonneg
 open Matrix Complex ComplexConjugate Filter Topology
 open scoped ComplexOrder ContDiff
 open GlobalTheory.HermFrame GlobalTheory.IndefiniteRowSideFullHecke.HermitianCurvatureForms

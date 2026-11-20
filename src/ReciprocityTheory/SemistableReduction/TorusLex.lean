@@ -1,4 +1,3 @@
-import ReciprocityTheory.SemistableReduction.SphereLogIntegrableStatement
 import ReciprocityTheory.SemistableReduction.TorusLexA
 import ReciprocityTheory.SemistableReduction.TorusLexC
 

@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.IsLieDataCircle
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Sheaves.Presheaf
 
 open GlobalTheory.SmoothForms NumberField Matrix
 open scoped ContDiff Topology

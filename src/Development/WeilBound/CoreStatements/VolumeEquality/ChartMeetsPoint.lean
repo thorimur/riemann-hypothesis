@@ -1,4 +1,4 @@
-import Development.WeilBound.CoreStatements.VolumeEquality.ChartMeetsForm
+import Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalRingPointsExistsUnique
 
 noncomputable section
 

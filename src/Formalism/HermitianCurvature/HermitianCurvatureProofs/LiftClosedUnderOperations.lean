@@ -1,8 +1,4 @@
-import Formalism.HermitianCurvature.StatementTL
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CompactSupportFacts
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BaseCutoffIsTruncation
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ComposeDifferentialOperators
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PBFVpic
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SumPairAtStarMul
 
 namespace Formalism.FourierDecayAlt.P.TLB

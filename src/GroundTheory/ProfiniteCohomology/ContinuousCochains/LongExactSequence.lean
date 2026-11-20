@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.ContinuousCochains.Functoriality
+import Mathlib.Algebra.Homology.HomologicalComplexAbelian
+import Mathlib.Algebra.Homology.HomologySequenceLemmas
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

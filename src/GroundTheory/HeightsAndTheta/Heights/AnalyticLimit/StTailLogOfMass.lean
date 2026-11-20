@@ -1,10 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Objects
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.UIObjects
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.EnergySum
-import ReciprocityTheory.AnalyticForms.PotentialTheory.ProjectiveLinePartitionContinuousCoe
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PLCurveA
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StTailShift
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.AnalyticLimit

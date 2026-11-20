@@ -1,8 +1,6 @@
 import Formalism.LocalToGlobal.GlobalTheory.GL2.Statement
 import Formalism.SharpRestriction.GlobalSchurBounds.FirstClaimLemmaTwoFourOfLemmaTwoThree
 import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleLayerExistsGenerators
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Principal
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.SplitK
 import Formalism.UnipotentAdelicQuotients.ClassNumberQuad
 
 noncomputable section

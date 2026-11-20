@@ -1,4 +1,8 @@
 import Formalism.JumpKernelCokernel.Statement
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.KernelCokernelLengths.ThicknessFirstBoundLogLemmas
 

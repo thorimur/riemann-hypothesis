@@ -1,8 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.TuplesLemmas
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Afsplit
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsGlob
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsSpan
+import Mathlib.NumberTheory.NumberField.ClassNumber
 
 noncomputable section
 

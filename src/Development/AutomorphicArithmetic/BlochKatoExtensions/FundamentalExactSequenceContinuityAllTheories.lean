@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.ChainLength
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SimpLemmas
 

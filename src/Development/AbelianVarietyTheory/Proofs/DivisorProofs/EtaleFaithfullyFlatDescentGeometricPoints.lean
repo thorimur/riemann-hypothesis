@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.IsReducedAlgebraOfSmoothOfIsNoetherianRing
+import Mathlib.RingTheory.TensorProduct.IncludeLeftSubRight
 
 set_option autoImplicit false
 

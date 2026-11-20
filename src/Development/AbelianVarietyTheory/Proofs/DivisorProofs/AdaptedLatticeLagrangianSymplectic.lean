@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasLatticesComplete
+import Mathlib.LinearAlgebra.BilinearForm.Orthogonal
 
 set_option autoImplicit false
 

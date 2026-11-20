@@ -1,5 +1,7 @@
 import Formalism.ZeroFreeRegion.SmallHeightLogDeriv
 import Formalism.ZetaNonvanishing.MellinSgen
+import Mathlib.Analysis.MellinInversion
+import Mathlib.Topology.Sheaves.Presheaf
 
 open Complex MeasureTheory Set Filter Topology ArithmeticFunction
 open scoped LSeries.notation

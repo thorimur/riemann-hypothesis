@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.GrowthBounds.WeilJacquetShalikaLaw
 import Formalism.LocalRingCardinality.Lemmas
 

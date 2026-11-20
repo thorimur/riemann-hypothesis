@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HermitianInterpolation
+import Development.AbelianVarietyTheory.Definitions.Divisors.LeTwoMulOfForallScale
+import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.EventuallyDifferentiableAtOfContDiffAtTwo
 
 open GlobalTheory.HermFrame
 

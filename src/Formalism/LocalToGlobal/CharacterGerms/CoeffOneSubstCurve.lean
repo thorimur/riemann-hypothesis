@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.CharacterGerms.FirstVanishingAt
 import Formalism.LocalToGlobal.CharacterGerms.CoeffLMulCvFrob
 
 set_option autoImplicit false

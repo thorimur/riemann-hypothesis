@@ -1,5 +1,6 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.HodgeWedgeFields.H1CommutesBaseChange
+import Mathlib.AlgebraicTopology.SimplexCategory.Basic
+import Std.Tactic.BVDecide.Normalize.BitVec
 
 set_option autoImplicit false
 

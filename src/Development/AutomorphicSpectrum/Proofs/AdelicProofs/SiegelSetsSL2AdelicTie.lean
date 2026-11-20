@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.UnipotentAdelicQuotients.SiegelSetsSL2Adelic
 import GroundTheory.IdeleRoots.ClassicalIdeles.ExistsPosBoundsOfIsCompact
 
 namespace GlobalTheory.CompanionTheory.Classical

@@ -1,8 +1,9 @@
-import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TieAll
-import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.GTiedFOfIsRecCEv
 import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.CompanionOfBaseTied
 import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TieTrC
-import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TiePsiC
+import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CmpCMemMIff
+import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.ChiMemSubfield
+import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TieEvR
+import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TiePsi
 
 noncomputable section
 

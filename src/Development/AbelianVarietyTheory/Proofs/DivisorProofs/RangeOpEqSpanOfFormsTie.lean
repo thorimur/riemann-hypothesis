@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.RowSideTie
-import Formalism.LocalRingCardinality.DataBu
-import Formalism.QuotientMetricDivisors.FinalW
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.MainNotions Formalism.DivisionValues Formalism.L2.DIV Formalism.L2.Indef
 
 namespace GlobalTheory

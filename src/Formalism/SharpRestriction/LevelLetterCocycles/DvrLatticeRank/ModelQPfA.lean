@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.ExpansionFormAll
+import Formalism.SharpRestriction.LevelLetterCocycles.ModelKStep
 
 noncomputable section
 

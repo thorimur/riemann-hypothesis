@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsProjDegreeChow
-import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsProjSecDegree
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsProjSecDomain
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsProjChowNonzero
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsSecDegreeLe

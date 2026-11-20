@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChartA
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StChartConeComponent
 set_option maxSynthPendingDepth 1
 

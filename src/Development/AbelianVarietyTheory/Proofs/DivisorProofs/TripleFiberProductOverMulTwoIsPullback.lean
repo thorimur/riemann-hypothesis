@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulIncl
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GrpPullbackId
 
 set_option autoImplicit false
 noncomputable section

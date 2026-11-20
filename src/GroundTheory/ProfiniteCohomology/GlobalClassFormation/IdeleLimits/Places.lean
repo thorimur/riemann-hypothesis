@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits.Components
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits.Assembly
 set_option maxSynthPendingDepth 1

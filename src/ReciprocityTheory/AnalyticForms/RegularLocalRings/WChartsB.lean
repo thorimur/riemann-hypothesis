@@ -1,4 +1,7 @@
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.WChartsA
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import ReciprocityTheory.AnalyticForms.RegularLocalRings.LogResStC
 
 namespace ReciprocityTheory.AnForm.R
 

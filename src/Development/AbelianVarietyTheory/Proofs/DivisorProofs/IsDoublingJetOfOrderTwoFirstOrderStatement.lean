@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsDoublingJetOfOrderTwoFirstOrder
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DerivCompM
 
 open GlobalTheory.Nef
 

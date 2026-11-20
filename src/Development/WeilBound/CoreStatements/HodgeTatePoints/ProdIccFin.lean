@@ -1,11 +1,9 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.CotangentSurjective
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsTight
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.StepOrderRes
 import Development.WeilBound.CoreStatements.HodgeTatePoints.RcProj
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HasLenOfEquiv
 import ReciprocityTheory.DualLattices.EigenLengthProductStatementHolds
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.TeichmullerCharacterOrderGenerates
+import ReciprocityTheory.DualLattices.ExistsSmulMemOfMemSpan
+import ReciprocityTheory.DualLattices.MemOfSumSingleEqZero
 
 noncomputable section
 

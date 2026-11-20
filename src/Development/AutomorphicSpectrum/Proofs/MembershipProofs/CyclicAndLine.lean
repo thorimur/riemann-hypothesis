@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.MembershipCriteria.GoodChar
 import Development.AutomorphicSpectrum.Proofs.MembershipProofs.RationalFiniteIdeleFactorization
 import Development.AutomorphicSpectrum.Proofs.MembershipProofs.Irreducible
 import Development.AutomorphicSpectrum.Proofs.MembershipProofs.ExistsStdStatement

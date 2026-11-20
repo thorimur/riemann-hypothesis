@@ -1,5 +1,6 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SDarb
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.BilinearFormExamples.EQSymmApply
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetNeOfSig
+import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.BilinearFormExamples.TraceIntMul
 
 noncomputable section
 open scoped TensorProduct NNReal Matrix Classical

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.XcNotMemOfIsRelevant
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsTerFurther
 import GroundTheory.HeightsAndTheta.Heights.Intersections.TwoMemFunFieldSpecZ

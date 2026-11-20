@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafOneSpecPf
+import Mathlib.RingTheory.Etale.StandardEtale
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite Polynomial GlobalTheory.EtC

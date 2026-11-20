@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.PhiCMinSt
+import Mathlib.Analysis.Matrix.PosDef
 
 set_option autoImplicit false
 

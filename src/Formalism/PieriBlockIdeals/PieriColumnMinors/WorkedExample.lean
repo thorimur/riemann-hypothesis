@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PieriBlockIdeals.MultiplicityZeroThickEmbedding
 import Formalism.PieriBlockIdeals.PieriColumnMinors.HeckeLFunctionIdealEulerProduct
 import Formalism.PieriBlockIdeals.PieriColumnMinors.ParameterBounds

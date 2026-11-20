@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsPowSmulMemRangeOfSurjectiveBaseChange
+import Mathlib.RingTheory.TotallySplit
 
 open Module
 open TensorProduct

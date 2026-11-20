@@ -1,6 +1,3 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.LeviOf
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinsumOutOfLe
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousBlkOneVal
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ComapUNAndMapSM
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HintEqOfLe

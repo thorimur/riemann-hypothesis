@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalDivisorChartGeneric
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModelDivisorChartGeneric
+import Mathlib.RingTheory.Ideal.HasGoingUp
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePHaDefs
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePDescSpanSt
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 set_option autoImplicit false
 

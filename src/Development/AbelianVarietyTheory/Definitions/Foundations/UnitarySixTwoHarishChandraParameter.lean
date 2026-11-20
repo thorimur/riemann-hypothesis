@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.StrictInterlaceIffDescEnum
 
 open Formalism.BasicNotions Formalism.BasicNotions.TH Formalism.L2.Theta Finset

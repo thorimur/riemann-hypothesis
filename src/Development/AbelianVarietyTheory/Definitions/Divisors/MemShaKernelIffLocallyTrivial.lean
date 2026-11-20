@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Definitions.Divisors.NormSub
+import Mathlib.NumberTheory.Padics.PadicNumbers
 
 noncomputable section
 

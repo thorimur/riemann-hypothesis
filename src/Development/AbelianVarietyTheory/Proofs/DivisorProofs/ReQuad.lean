@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.SiegelReframe
 
 open Matrix GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe

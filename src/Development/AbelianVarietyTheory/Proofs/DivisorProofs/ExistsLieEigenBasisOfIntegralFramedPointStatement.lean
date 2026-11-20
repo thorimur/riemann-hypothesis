@@ -1,12 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLieEigenBasisOfIntegralFramedPoint
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ReadsZero
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.BoundaryExtensionIndependentOfModel
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.FlatSectionAndDegree
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.DeterminantSectionRule
-import Development.AbelianVarietyTheory.Counterexamples.ModuliSurvey.PremisesOfProper
-import Formalism.LocalToGlobal.ProjectiveLattices.VAtVNeBot
 open NumberField IsDedekindDomain Formalism.L2.Pj ReciprocityTheory.ChartRestriction.G.Geo.Tor GlobalTheory.AllWt GlobalTheory.BdryUnit
 open AlgebraicGeometry CategoryTheory Limits
 set_option maxHeartbeats 1000000 in

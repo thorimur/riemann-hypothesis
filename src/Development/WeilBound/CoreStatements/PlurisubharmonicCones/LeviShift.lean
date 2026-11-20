@@ -1,7 +1,4 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.LeviForms.TailBound
 import ReciprocityTheory.AnalyticForms.LeviForms.MixedIntegralInclusionExclusion
-import ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasure
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.TailBoundStatementHoldsStatement
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.IsCompactRWSublevel
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.IsomorphicLinesPotentialDifference

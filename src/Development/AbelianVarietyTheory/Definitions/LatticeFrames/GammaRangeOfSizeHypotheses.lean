@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.DiagAtScale
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.RowsPtAt
 
 noncomputable section
 open scoped Classical

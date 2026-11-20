@@ -1,8 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.ColPins
 import Formalism.LocalToGlobal.NumberFieldFamilies.EvRowSurjective
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsAbsIrrCharCompIff
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.EvaluationDatumOkBaseTuple
+import Formalism.LocalToGlobal.Divisibility.RecBridgeTied
 
 noncomputable section
 

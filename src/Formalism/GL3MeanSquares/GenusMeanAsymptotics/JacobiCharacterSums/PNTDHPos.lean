@@ -1,5 +1,5 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.PNTDHSt
-import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.Positivity
+import Mathlib.RingTheory.PiTensorProduct
 
 open Finset Complex Classical
 

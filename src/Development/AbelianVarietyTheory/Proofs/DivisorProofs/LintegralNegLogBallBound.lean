@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.L2DbarEstimates.IsLocalHomeomorph
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogSingularityBallIntegralBound
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.IntegrableMonomialMulConjComplexGaussian

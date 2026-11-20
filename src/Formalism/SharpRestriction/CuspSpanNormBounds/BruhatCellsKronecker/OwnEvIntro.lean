@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.LeSCSCl
-import Formalism.SharpRestriction.CuspSpanNormBounds.CntPartners
 
 noncomputable section
 

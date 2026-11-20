@@ -1,4 +1,9 @@
 import Formalism.CharacterColumnKernels.StatGlobalModule
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
 
 namespace Formalism.NG
 open Module

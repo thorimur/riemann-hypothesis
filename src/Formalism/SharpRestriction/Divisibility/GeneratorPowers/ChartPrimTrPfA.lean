@@ -1,8 +1,5 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartPrimTrSt
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartFrameTrA
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBPrim
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.SabPull
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsMonHomOfMul
+import Formalism.LocalToGlobal.ProjectiveLattices.ChartDirectionsIntegral
 
 set_option autoImplicit false
 

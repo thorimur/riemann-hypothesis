@@ -1,4 +1,5 @@
 import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountStB
+import ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.EllipsoidSt
 
 namespace ReciprocityTheory.GeometryOfNumbersTheory
 

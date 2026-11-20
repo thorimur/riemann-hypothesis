@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.HarderNarasimhan.ShiftInvariance
-import Development.AbelianVarietyTheory.BlockTheory.SiegelWeilLocal.SaturatedDuality
 import Development.AbelianVarietyTheory.BlockTheory.SiegelWeilLocal.SaturatedPerpDuality
 
 open NumberField

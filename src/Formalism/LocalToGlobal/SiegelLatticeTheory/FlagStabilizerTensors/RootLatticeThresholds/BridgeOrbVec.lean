@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.BridgeNC
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.DataInst
 
 noncomputable section
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsCompactUnitaryPointsAtPlaceFstMemCompact
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatBuild
 
 open GlobalTheory.CompanionTheory.Ar.HT NumberField TensorProduct

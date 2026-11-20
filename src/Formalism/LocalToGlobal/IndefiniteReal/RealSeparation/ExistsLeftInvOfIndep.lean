@@ -1,7 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.WeilFolding
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.SobSympl
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.EFinSmulEqOfFinPart
-import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.GinfCSecondCountable
+import Formalism.LocalToGlobal.BesselHermitianTheta.TiedBessel
 
 noncomputable section
 

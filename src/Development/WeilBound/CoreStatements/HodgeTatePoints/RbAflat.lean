@@ -1,9 +1,4 @@
-import Mathlib
-import ReciprocityTheory.DualLattices.CotangentSurjective
 import ReciprocityTheory.DualLattices.EigenLengthProductStatementHolds
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsTight
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.StepOrderRes
-import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ComapFgOfValuationRing
 import Development.WeilBound.CoreStatements.HodgeTatePoints.RbProj
 import Development.WeilBound.CoreStatements.HodgeTatePoints.RbTriang
 

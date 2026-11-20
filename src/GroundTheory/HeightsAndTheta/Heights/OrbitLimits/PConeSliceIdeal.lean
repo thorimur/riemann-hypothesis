@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StConeSliceIdeal
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChartHomogenise
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartZeroSet

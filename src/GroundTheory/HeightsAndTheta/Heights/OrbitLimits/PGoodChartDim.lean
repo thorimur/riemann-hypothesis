@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StGoodChartDim
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StConeVanishingHomog
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StConeSliceIdeal
@@ -7,7 +6,6 @@ import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PSegreChartDim
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartZeroSet
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChartHomogenise
 import GroundTheory.HeightsAndTheta.Heights.ChowForms.PChartDehomog
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.KleimanNefness.AlgDim
 set_option maxSynthPendingDepth 1
 
 noncomputable section

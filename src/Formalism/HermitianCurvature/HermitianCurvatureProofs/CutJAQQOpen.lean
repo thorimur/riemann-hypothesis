@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAQQ
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAAsm
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAFFStable
 

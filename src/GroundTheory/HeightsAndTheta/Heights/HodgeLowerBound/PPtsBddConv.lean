@@ -1,10 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.StatementsPtsBddConv
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StPtsAbsIntegrable
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PtsSumMeasurableA
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PtsSumMeasurableWeightA
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSheet
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterFib
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterRedF
 set_option maxSynthPendingDepth 1
 
 noncomputable section

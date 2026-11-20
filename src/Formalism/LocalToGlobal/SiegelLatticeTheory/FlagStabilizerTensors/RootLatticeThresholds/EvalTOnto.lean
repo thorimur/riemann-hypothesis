@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.EvalTRph
-import Formalism.LocalToGlobal.IndefiniteReal.SquareIntegrableTransfer
+import Formalism.LocalToGlobal.IndefiniteReal.AutomorphicEvaluation
 
 noncomputable section
 

@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.InverseChamberMap
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsRootInvolutionParabolicStatement
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ProjectionEraseRootFormulaStatement
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramRootDeterminantEraseStatement
+import Mathlib.Topology.Sheaves.Presheaf
 
 open GlobalTheory.Chamber Finset
 open scoped InnerProductSpace ContDiff Classical

@@ -1,7 +1,11 @@
-import Mathlib
-import GroundTheory.PAdicHodge.PerfectoidField
-import GroundTheory.PAdicHodge.TiltValuation
 import GroundTheory.PAdicHodge.TiltField
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.Valuation.Integral
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 noncomputable section

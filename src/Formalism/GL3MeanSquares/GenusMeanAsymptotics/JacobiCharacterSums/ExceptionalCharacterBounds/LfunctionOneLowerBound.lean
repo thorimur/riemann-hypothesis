@@ -1,6 +1,6 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.ExceptionalCharacterBounds.EffAbel
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.ExceptionalCharacterBounds.EffSmooth
-import Formalism.LFunctionBounds.LFunctionBoundsProofs.LPartialSum
+import Mathlib.RingTheory.PiTensorProduct
 
 open Formalism.ZeroFreeDirichlet
 

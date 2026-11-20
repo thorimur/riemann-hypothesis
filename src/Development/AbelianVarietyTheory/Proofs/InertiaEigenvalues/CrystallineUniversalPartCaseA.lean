@@ -1,7 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.FiltrationSaturationKiller
-import Formalism.GaloisCohomology.LocalTateDualityK
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.RationalDualityOfAllCoefficients
 import Formalism.SharpRestriction.LevelLetterCocycles.UniversalGeneralStatementHolds
 open Formalism Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.N
 

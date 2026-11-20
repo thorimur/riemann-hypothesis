@@ -1,8 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.DimFormC
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.PairBdNonneg
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.MomAllP
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ConstC
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.RowsMeanC
 
 noncomputable section

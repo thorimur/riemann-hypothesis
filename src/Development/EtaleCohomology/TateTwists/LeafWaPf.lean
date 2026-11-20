@@ -1,4 +1,8 @@
 import Development.EtaleCohomology.TateTwists.EtalePrismAlexanderWhitneyHomotopyOfRelations
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Data.Finsupp.Pointwise
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open CategoryTheory GlobalTheory.EtC
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.SupercuspidalCoefficients
 set_option maxSynthPendingDepth 1
 

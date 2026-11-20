@@ -1,5 +1,5 @@
 import Formalism.ThetaLogCoordinates.TraceIsometryWeights.StatementC
-import Formalism.MahlerMeasure.StatementTM
+import Formalism.MahlerMeasure.QuotientUpperBoundsOfPowerBounds
 
 namespace Formalism.InvariantFactorPaths.PW
 

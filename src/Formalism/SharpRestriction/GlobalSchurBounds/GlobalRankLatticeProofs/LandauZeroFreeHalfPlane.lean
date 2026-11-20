@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.ZetaNonvanishing.ZetaLandau
 
 noncomputable section

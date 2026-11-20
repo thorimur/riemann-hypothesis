@@ -1,8 +1,9 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.WeierstrassTwoTorsion.StatementN
 import Formalism.LocalToGlobal.TorsionIntegrality.WeierstrassTwoTorsion.StatementO
 import Formalism.LocalToGlobal.TorsionIntegrality.WeierstrassTwoTorsion.StatementJ
 import Formalism.LocalToGlobal.TorsionIntegrality.WeierstrassTwoTorsion.StatementK
 import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.JetExpShape
+import Formalism.LocalToGlobal.TorsionIntegrality.WeierstrassTwoTorsion.StatementC
+import Formalism.LocalToGlobal.TorsionIntegrality.WeierstrassTwoTorsion.StatementG
 
 open PowerSeries
 

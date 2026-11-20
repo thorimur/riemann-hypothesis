@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SymSum
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DcoShape
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DcoVol
 

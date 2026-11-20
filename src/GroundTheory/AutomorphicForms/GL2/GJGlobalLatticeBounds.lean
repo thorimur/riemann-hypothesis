@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJGlobalLattice
+import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspFormsDecay
 
 open MeasureTheory NumberField Topology Filter Set
 open scoped NumberField.AdeleRing Classical nonZeroDivisors

@@ -2,6 +2,7 @@ import Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionDe
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.CommutatorTripleProductLeibniz
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.CasimirPowerScaledInsertDividedPower
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.WeightDifferenceLeEllOfRep
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantDenominatorLinftyBound
 
 noncomputable section
 

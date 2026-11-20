@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Antisymmetric.StatementsNefRelabel
 set_option maxSynthPendingDepth 1
 

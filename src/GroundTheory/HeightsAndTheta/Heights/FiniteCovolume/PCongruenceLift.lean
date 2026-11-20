@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsStabilizerLevi
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PComplementLattice
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PComplementExtension

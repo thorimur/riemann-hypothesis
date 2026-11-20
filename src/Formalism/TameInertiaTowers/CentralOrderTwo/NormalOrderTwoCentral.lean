@@ -1,6 +1,9 @@
-import Mathlib
-import Formalism.TameInertiaTowers.StatementGroup
 import Formalism.TameInertiaTowers.CentralOrderTwo.TwoAdic
+import Mathlib.GroupTheory.Nilpotent
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace Formalism.TwoAdicCyclotomicDecomposition
 

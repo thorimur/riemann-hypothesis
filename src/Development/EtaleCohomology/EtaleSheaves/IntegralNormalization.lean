@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.ChowCut
+import Mathlib.AlgebraicGeometry.Normalization
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry LateralTheory.E.t_E2Cut

@@ -1,5 +1,4 @@
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalToGlobal.GaloisLevelStructure.DefsGal
 
 noncomputable section
 

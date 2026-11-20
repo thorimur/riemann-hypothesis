@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.BesselHermitianTheta.AllTied
-import Formalism.SharpRestriction.CuspSpanNormBounds.CayleySignature
 
 noncomputable section
 

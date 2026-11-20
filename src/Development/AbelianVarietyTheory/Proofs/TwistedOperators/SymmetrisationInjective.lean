@@ -1,7 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.SchurIrreducible
-import Formalism.LocalToGlobal.BesselHermitianTheta.DefsReal
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymbolCongr
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.DegreeSingleAdd
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ProdXEqMonomial
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.UgMemSpanListProd

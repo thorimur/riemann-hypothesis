@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.DepthCond
-import Formalism.LocalRingCardinality.HostCls
 
 open Module NumberField IsDedekindDomain
 

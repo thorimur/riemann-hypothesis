@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.NeutralLocalFields.Duality
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField

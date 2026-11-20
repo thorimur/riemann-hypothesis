@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJA
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJASSnRepCore
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSLMat
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSLSliceSS
@@ -6,9 +5,6 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSLSliceD
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadT
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTKLine
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TheSectionStab
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.NFRadRedS
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellInversePair
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.AdjointLeibnizExpansion
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 open scoped ContDiff

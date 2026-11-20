@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteForms.IndefSide
 import Formalism.LocalToGlobal.Divisibility.RowLat
 import Formalism.LocalToGlobal.Divisibility.DefGroup
 import Formalism.BranchSandwichDivisors.StatementL

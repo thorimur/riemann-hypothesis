@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.CommutativeAlgebra.PolynomialHeights.HeightAddRingKrullDimQuotientMvPolynomialField
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeCB
 set_option maxSynthPendingDepth 1
 

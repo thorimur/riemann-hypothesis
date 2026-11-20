@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.OmHeightslockG
 import Development.WeilBound.CoreStatements.PluriharmonicCharts.ExistsPeriodMatrix
 import Development.AbelianVarietyTheory.Proofs.ToricGeometry.ExistsContraction
 

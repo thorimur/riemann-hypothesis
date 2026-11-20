@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.HalfOneAddSqrtNegIsIntegral
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.EmbeddingTypes
 

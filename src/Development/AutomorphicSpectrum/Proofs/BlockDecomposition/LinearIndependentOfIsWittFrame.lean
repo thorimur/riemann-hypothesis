@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.Reductions.SiegelCore
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.CocompactOfMemIffAdelic
 

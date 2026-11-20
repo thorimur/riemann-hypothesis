@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.ReductionGauss
 
 namespace GroundTheory.Global

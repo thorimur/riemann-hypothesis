@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.LocalFourierExistence
 import Development.WeilBound.CoreStatements.AutomorphicKernels.BernsteinUnitaryProducts.IrreducibleAdmissibleReps.Assembly
 

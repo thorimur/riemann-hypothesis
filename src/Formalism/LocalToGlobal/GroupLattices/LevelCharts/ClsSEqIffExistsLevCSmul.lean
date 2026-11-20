@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.GroupLattices.LevelCharts.ClsSEqIffExistsGMapPrPSRatAS
+import Formalism.LocalToGlobal.GroupLattices.LevelCharts.ToFSSymmStab
 
 noncomputable section
 

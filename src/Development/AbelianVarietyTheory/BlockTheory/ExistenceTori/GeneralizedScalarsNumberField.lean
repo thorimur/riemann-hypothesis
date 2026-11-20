@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.CoreProofs
+import Formalism.LocalToGlobal.ProjectiveLattices.VAtVNeBot
 
 noncomputable section
 

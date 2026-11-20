@@ -1,4 +1,9 @@
 import ReciprocityTheory.SemistableReduction.RestBlockSubstIsMultiHomogeneous
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Rat.Star
+import Mathlib.NumberTheory.Harmonic.Bounds
+import Mathlib.Tactic.Monotonicity.Lemmas
+import ReciprocityTheory.SemistableReduction.AevalIsWeightedHomogeneous
 
 noncomputable section
 

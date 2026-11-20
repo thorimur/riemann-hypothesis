@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.HermitianCurvature.StatementQ
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsHarishChandraParamOfTypeOfUnitaryW
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.SupExistsOfInterlaced
+import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IsBesselMapSmBesselCharIff
 open Formalism.FourierDecayAlt Formalism.QuantumDeterminants
 
 namespace GlobalTheory

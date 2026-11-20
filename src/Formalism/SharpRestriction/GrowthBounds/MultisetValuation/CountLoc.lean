@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.HeckeValueEstimateOfRecordValue
+import Formalism.SharpRestriction.GrowthBounds.UnramifiedQuadraticSetting
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

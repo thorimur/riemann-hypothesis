@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsSplitGaussChars
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.GapCondExample
 
 open GlobalTheory.CompanionTheory.Ar.Crv
 

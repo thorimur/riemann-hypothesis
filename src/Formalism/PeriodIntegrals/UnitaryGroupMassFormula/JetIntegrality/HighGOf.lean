@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.JetIntegrality.PolarizationDifferenceFormulaHolds
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

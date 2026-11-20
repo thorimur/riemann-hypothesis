@@ -1,5 +1,7 @@
-import Mathlib
 import Development.ResolutionOfSingularities.Foundations.Schemes.IdealSheafData
+import Mathlib.AlgebraicGeometry.Morphisms.Flat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 universe u
 

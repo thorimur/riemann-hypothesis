@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.KudlaSiegelWeil
-import Formalism.LocalToGlobal.BesselHermitianTheta.DefsReal
 
 noncomputable section
 

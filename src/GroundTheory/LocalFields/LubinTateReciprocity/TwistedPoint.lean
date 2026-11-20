@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.LocalFields.LubinTateReciprocity.RootEval
 import GroundTheory.LocalFields.FormalGroups.OverUnramified
 import GroundTheory.LocalFields.LubinTateTorsion
+import Mathlib.RingTheory.AdicCompletion.Noetherian
 
 noncomputable section
 

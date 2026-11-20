@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.StmtFields
+import Mathlib.Algebra.Polynomial.SpecificDegree
+import Mathlib.Data.Rat.Star
+import Mathlib.NumberTheory.LSeries.PrimesInAP
+import Mathlib.NumberTheory.PrimesCongruentOne
 
 open NumberField Formalism.HC UpperTheory.Top UpperTheory.V
 

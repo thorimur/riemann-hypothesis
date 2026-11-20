@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.FilteredSurj
 
 namespace GroundTheory.LocalField

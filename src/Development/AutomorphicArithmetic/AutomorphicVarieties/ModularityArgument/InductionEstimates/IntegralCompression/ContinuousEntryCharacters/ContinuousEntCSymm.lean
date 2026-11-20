@@ -1,5 +1,4 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IntegralCompression.LAbove
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.ArchBasic
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.PositionOf
 
 open MeasureTheory NumberField Filter Topology Matrix

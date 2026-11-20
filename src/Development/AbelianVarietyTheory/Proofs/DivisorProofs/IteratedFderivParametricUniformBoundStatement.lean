@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IteratedFderivParametricUniformBound
-import Mathlib
 open Set
 open scoped ContDiff
 set_option maxHeartbeats 1000000 in

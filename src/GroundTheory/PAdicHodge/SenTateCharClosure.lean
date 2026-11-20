@@ -1,9 +1,8 @@
-import Mathlib
 import GroundTheory.PAdicHodge.SenTateCharUnits
 import GroundTheory.PAdicHodge.NormalizedTraceClosure
 import GroundTheory.PAdicHodge.NormalizedTrace
 import GroundTheory.PAdicHodge.AxLemma
-import GroundTheory.PAdicHodge.TateCpTwist
+import Mathlib.FieldTheory.Galois.Profinite
 set_option maxSynthPendingDepth 1
 
 noncomputable section

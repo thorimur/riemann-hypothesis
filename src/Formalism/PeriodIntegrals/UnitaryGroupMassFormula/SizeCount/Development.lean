@@ -1,4 +1,6 @@
-import Formalism.PeriodIntegrals.SzCt
+import Formalism.LocalRingCardinality.DataErr
+import Formalism.LocalRingCardinality.DataParams
+import Formalism.SharpRestriction.ElevenLe
 
 noncomputable section
 

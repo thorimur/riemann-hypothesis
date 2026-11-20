@@ -1,7 +1,7 @@
 import Formalism.LocalToGlobal.Columns.RecLevel
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsGlobApprox
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsScale
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Levelaf
+import Formalism.LocalToGlobal.Columns.AdelicLemmas
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 
 open NumberField IsDedekindDomain Matrix
 open scoped TensorProduct Valued RestrictedProduct Topology

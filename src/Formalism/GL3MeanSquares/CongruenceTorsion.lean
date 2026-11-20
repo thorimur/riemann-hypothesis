@@ -1,5 +1,5 @@
-import Mathlib
-import Formalism.GL3MeanSquares.OrbitPointsDistinct
+import Formalism.FrobeniusOrbits.HostDiffSupport
+import Formalism.SatakeDualWeyl.StatementC
 
 open NumberField IntermediateField Ideal IsDedekindDomain
 open scoped Pointwise TensorProduct

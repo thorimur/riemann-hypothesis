@@ -1,4 +1,3 @@
-import ReciprocityTheory.GroupCohomology.ContinuousContractNth
 import ReciprocityTheory.GroupCohomology.HomogExistsStatement
 
 namespace ReciprocityTheory.Coh.CCA

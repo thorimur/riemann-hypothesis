@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDAsm
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJDHatBdd
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BoundedOperatorsSquareIntegrable
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TransferSquareIntegrableHolds

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.AdditiveInvariants
 set_option maxSynthPendingDepth 1
 

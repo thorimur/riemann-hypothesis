@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataAmbForm
 
 noncomputable section

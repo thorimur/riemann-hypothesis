@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.ColumnData
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.CardTrivialFirstComponent
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.FrameFacts
 import Development.AutomorphicArithmetic.WeightCongruences.IsRootOfIntegral
 
 noncomputable section

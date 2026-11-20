@@ -1,6 +1,3 @@
-import Development.WeilBound.CoreStatements.PublishedTheorems.GlobalEulerCharacteristic.Reduce
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseFixed
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.BrauerLocalVal
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.StabilizersDefs
 import GroundTheory.ProfiniteCohomology.PoitouTate.PoitouTateInfinite.LevelModulesDefs
 

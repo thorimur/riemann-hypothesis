@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.GermComp1ZeroPointLeft
 import Development.WeilBound.CoreStatements.HodgeTatePoints.CbAlpha
 
 noncomputable section

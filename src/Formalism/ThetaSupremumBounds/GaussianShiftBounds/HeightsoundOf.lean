@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.ThetaSupremumBounds.StatementA
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Finset MeasureTheory
 open scoped ComplexConjugate Real

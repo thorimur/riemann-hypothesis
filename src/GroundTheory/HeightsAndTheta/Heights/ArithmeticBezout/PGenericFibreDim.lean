@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsGenericFibreDim
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.IntToRat
 set_option maxSynthPendingDepth 1

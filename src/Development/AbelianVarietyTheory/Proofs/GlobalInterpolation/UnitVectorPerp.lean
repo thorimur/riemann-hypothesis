@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.SelfDualLatticeComplements
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.UnitVectorPerpAllIff
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HasComplementOfBasis
 

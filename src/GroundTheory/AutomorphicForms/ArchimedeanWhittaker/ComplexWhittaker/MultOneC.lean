@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.ArchimedeanWhittaker.ComplexWhittaker.IsClosedDivisorComponent
+import GroundTheory.AutomorphicForms.RealGroupsKAK
 
 namespace GroundTheory.Automorphic.ArchWhittakerC
 

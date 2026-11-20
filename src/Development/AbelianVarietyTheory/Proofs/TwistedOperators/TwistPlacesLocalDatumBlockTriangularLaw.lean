@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.TameOnOne
+import Formalism.LocalToGlobal.IndefiniteReal.DatumVec
 
 noncomputable section
 

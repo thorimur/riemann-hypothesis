@@ -1,7 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsProjRankTransfer
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsProjPotMassPos
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsProjPotDensVanish
+import Mathlib.AlgebraicTopology.FundamentalGroupoid.SimplyConnected
+import Mathlib.Analysis.Convex.Contractible
+import Mathlib.Geometry.Manifold.ChartedSpace
 set_option maxSynthPendingDepth 1
 
 noncomputable section

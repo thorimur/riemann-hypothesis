@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsorsTrivial
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OriginIdeal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClosureFiniteEtale
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.Tactic.Polynomial.Basic
 open IsLocalRing Polynomial
 open scoped TensorProduct
 

@@ -1,4 +1,5 @@
-import CompanionTheory.ThickeningEstimates.LieGroupReduction.HasDerivAtSchwartzToL2
+import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IteratedLineDerivMemWeylAlg
+import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.MetaplecticRepresentation
 
 noncomputable section
 

@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsLatBasisZero
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SpanPeriodLatticeComplexSemiAbelianEqTopStatement
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Analysis.Convex.Contractible
+import Mathlib.Topology.Homotopy.Lifting
 
 set_option autoImplicit false
 

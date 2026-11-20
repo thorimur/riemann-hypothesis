@@ -1,6 +1,7 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.CoreProofs
 import Formalism.LocalToGlobal.ProjectiveLattices.IntAll
 import Formalism.LocalToGlobal.ProjectiveLattices.ExistsOfValILeOne
+import Formalism.LocalToGlobal.ProjectiveLattices.NonnegIffOfLiesTotal
 
 noncomputable section
 

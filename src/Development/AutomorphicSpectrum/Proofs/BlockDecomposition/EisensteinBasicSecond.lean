@@ -1,7 +1,5 @@
-import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.VerticalStrips.UnramifiedEulerProductIntegral
 import GroundTheory.GlobalFields.TateThesis.RootNumberLocalPlace
-import GroundTheory.GlobalFields.TateThesis.NonvanishingPrimes
 
 open NumberField IsDedekindDomain GroundTheory.Global GroundTheory.LocalField Ad3
 open GroundTheory.Automorphic.GodementSection (localChar coe_localChar partialLFunction)

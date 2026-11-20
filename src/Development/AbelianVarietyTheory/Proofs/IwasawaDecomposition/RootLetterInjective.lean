@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AdmissibleRepresentationFactorisation
 import Formalism.SharpRestriction.CuspSpanNormBounds.LocalModelPeriodLattices
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsSlopeBoundsFramesStatement

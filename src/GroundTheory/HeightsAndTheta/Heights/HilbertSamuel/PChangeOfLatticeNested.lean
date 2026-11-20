@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsTwoBlockChainSum
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsTwoBlockTop
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PChangeOfLattice

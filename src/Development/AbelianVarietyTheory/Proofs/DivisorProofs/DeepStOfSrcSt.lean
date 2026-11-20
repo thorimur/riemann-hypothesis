@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SemiposAtOfPositive
 import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeanGeTransferDictionaryStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDatumFieldContainmentStatement

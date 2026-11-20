@@ -1,6 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.Statements
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.StatementsBounds
+import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.Bounds
+import Mathlib.Analysis.Complex.OperatorNorm
+import Mathlib.Analysis.Normed.Operator.Prod
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

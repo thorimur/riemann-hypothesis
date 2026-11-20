@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.NumberFieldTowers.XTwApplyApply
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.QzInj
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.KummerTheory.ZmodToQZ
 import Development.AutomorphicArithmetic.AutomorphicVarieties.NumberFieldTowers.QzSep
 import Development.AutomorphicArithmetic.AutomorphicVarieties.NumberFieldTowers.DualKer
 

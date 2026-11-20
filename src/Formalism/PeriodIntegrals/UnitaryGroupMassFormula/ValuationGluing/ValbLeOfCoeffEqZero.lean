@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.PeriodIntegrals.ArtSch
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.LocalProperties.Reduced
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace PI.ArtSch.Glue
 

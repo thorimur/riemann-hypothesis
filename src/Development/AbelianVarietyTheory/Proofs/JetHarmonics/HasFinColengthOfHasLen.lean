@@ -1,11 +1,10 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.StChartF
-import ReciprocityTheory.DualLattices.ProdDvdOfIso
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.LieMatrixCoordinates
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.NotIsUnitNatCastOfIsLocalHom
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.DiscriminantGramUnit
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.OpExistsEqAdd
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IdempotentEmbeddingsCard
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.Valuation.Integral
+import ReciprocityTheory.DualLattices.IsLocalOfIntegers
 
 set_option autoImplicit false
 

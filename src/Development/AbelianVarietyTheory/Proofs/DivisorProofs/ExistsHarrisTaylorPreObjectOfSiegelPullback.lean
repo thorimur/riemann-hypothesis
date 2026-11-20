@@ -1,10 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RosatiFor
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.SabComp
 import Development.AbelianVarietyTheory.Definitions.Divisors.EtaLin
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PushSecOfLeft
-import Development.AbelianVarietyTheory.Proofs.ModuliProofs.PolPull
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.SiegelPullbackTransfer.ExistsGenTransfer
 
 noncomputable section
 

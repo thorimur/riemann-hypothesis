@@ -1,7 +1,6 @@
 import Formalism.GaussJetBounds.StatementX
 import Formalism.GaussJetBounds.OneLetterGauss
 import Formalism.GaussJetBounds.GaussJetProofs.SlopeBoundSaturation
-import Formalism.GaussJetBounds.GaussJetProofs.OrbMul
 
 namespace Formalism.DworkPowerSeriesWeights
 

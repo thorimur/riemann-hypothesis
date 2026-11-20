@@ -1,4 +1,3 @@
-import Formalism.FlagUnipotentLattices.PairingOrthogonalComplement
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.SuperdiagonalAdditionInvariance
 
 namespace Formalism.HermitianLatticeCounting.Final.S4

@@ -1,6 +1,6 @@
 import Formalism.RealPlaceAnalysis.SmoothOnGVIff
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.CartanInvolutionConjTransposeMul
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.ComplexifiedDerivativeCommutator
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
 
 open Matrix Filter Topology
 open scoped ContDiff

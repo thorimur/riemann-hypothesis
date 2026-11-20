@@ -1,6 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.ExistsUniformizerOrd
 import Development.WeilBound.CoreStatements.EulerCharacteristicCounts.GcohCmpA
+import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.FinalGenDefs
+import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseDefs
 
 noncomputable section
 

@@ -1,6 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.RecDefs
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.QZDefs
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.Brauer
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField

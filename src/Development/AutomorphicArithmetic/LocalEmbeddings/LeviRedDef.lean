@@ -1,8 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.LanglandsSquareIntegrable
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusElementActsOnFrameColumns
-import GroundTheory.GlobalFields.Adele.IntegersLattice
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsAdaptedBasisWittFrame
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvIInfScaleMul
+import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsConstAlongSingleton
 
 noncomputable section
 

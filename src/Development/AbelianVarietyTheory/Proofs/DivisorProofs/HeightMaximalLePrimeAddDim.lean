@@ -1,7 +1,5 @@
-import Mathlib
-import ReciprocityTheory.CommutativeAlgebra.PolynomialHeights.PolyCM
-import ReciprocityTheory.CommutativeAlgebra.CohenMacaulay.Bridge
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.IntToRatA
+import Mathlib.Algebra.AffineMonoid.Basic
 
 namespace GlobalTheory.FinTypeIntCatenary
 

@@ -1,4 +1,6 @@
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsDCReps
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.Polynomial.Basic
 open GlobalTheory.HeckeFamilyMatrices Polynomial UpperHalfPlane
 open scoped MatrixGroups ModularForm
 open scoped Manifold

@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.HeisDefs
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 namespace PI
 

@@ -1,6 +1,5 @@
 import Formalism.SharpRestriction.InertJacobiLevels.GaugeExists
 import Formalism.SharpRestriction.InertJacobiLevels.ExtraGatC
-import Formalism.SharpRestriction.InertJacobiLevels.ExtraH
 import Formalism.LocalRingCardinality.SpanPowerMembership.WithSeenTauOf
 
 noncomputable section

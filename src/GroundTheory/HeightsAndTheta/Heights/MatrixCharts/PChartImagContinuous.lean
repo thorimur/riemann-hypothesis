@@ -1,7 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.Statements
 import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.StatementsPsh
-import GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PshMean
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

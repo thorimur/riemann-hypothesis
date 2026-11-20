@@ -1,5 +1,5 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.LConvCut
+import Mathlib.Data.Int.Star
 
 open Module
 

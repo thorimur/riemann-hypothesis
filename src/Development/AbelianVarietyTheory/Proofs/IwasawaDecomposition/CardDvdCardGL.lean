@@ -1,11 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.TrueColumnChoicesHeckeCharReferenceEqOne
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SplitsCOfModEqOne
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CompletelySplitPrimeHostPlaceProperties
 import Formalism.LocalToGlobal.Columns.DecorationStabilizerTrivialUnipotent
-import Formalism.LocalToGlobal.Columns.LevGCount
 import Formalism.HermitianLattices.FinalMass
-import Formalism.HermitianLattices.HermitianLatticesProofs.AutFinite
 
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.FrobeniusOrbits Neutral.B1 ReciprocityTheory.Neutral.Bridge.HCFR Formalism.L2.Host GlobalTheory.Mem GlobalTheory.Mem.Chr GlobalTheory.Mem.Col2
 open Formalism.MainNotions Formalism.L2.Col

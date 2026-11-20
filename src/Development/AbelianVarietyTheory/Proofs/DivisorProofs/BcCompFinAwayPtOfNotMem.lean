@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvFinAwayIdemOfNotMem
+import Development.AbelianVarietyTheory.Definitions.Foundations.EventuallyNormFinLeOne
 open scoped Matrix NNReal TensorProduct
 open MeasureTheory NumberField IsDedekindDomain Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes Formalism.UG GlobalTheory.AdelicU GlobalTheory.Doubling GlobalTheory.WeilM GlobalTheory.LocIntw
 open GlobalTheory GlobalTheory.LFun GlobalTheory.ThK GlobalTheory.IndefiniteRowSideFullHecke.WeilTensorModels GlobalTheory.SWLit GlobalTheory.SWWeil GlobalTheory.SWInt GlobalTheory.LocSW

@@ -1,10 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.UpperBounds.SumNormSqWPos
 import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.IntegrandAemeasurable
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.OntoStatementPfB
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.OmFConnPf
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustGPf
-import ReciprocityTheory.L2DbarEstimates.LeviForms.LogNormSq
+import Mathlib.Data.Int.Star
 
 open NumberField ReciprocityTheory.ChartRestriction.G.FD ReciprocityTheory.ChartRestriction.G.AR ReciprocityTheory.ChartRestriction.G.AR.Inst ReciprocityTheory.ChartRestriction.G.AR.Up ReciprocityTheory.L2DbarEstimates MeasureTheory Topology
 open scoped ContDiff ENNReal Matrix

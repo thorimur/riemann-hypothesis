@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SecondCountableTopologySphere
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DdcExtensionTraceChernForms
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SubquotientCurvatureStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DdcEqOfLocalEq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DdcOfValuesEq

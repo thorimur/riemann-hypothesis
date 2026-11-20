@@ -1,7 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StLelongWeightLimit
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StLelongWeightDiff
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCutOffDominated
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimit
+import Mathlib.Geometry.Manifold.PartitionOfUnity
+import Mathlib.Topology.UniformSpace.Uniformizable
 set_option maxSynthPendingDepth 1
 
 noncomputable section

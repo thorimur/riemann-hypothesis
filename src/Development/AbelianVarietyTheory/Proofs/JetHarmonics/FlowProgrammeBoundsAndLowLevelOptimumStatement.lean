@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.FlowProgrammeBoundsAndLowLevelOptimum
-import Formalism.LocalToGlobal.CharacterGerms.ValuationChoiceHypothesis
 open Formalism.L2.FormalSeriesBounds Formalism.IncomingBounds Formalism.UnitaryBoundIntegral
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.flow_programme_bounds_and_low_level_optimum : ∀ (l d : ℕ) [NeZero d] (D : ZMod d → ℝ), 2 ≤ l → (∀ a, 0 ≤ D a) →

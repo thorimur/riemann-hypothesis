@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.ThickFrames.MarkedLow
 import Development.AutomorphicArithmetic.ThickFrames.expectationSpec
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ChoiceOfTops
 

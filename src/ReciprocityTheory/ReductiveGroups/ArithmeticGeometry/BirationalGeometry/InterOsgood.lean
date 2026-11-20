@@ -1,4 +1,5 @@
 import ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood
+import Mathlib.Order.CompletePartialOrder
 
 namespace ReciprocityTheory.ChartRestriction.G.Geo
 

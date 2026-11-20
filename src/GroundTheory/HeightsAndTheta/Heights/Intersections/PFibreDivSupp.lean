@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.MultihomogeneousIdeals.CycDim
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsFibreDivSupp
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsFibreIncomp

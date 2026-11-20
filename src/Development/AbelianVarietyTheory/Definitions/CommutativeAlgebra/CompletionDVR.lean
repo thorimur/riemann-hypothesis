@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.RangeAlgebraMapEqIInfDiscreteValuationSubring
+import Mathlib.NumberTheory.Padics.PadicIntegers
 
 namespace ReciprocityTheory.CA.Pt
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.MacdonaldHecke
 
 noncomputable section

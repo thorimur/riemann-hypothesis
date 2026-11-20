@@ -1,5 +1,7 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.MulIterateRootEqZero
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

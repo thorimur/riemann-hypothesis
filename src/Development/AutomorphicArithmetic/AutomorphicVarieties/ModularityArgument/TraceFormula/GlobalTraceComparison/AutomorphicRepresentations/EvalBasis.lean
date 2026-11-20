@@ -1,4 +1,4 @@
-import Development.DiscreteGroups.PiInvariants.CompactSupportTwists.CutTailC
+import Development.DiscreteGroups.PiInvariants.CompactSupportTwists.UncutHalf
 
 noncomputable section
 

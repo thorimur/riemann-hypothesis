@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.DvdCoeffsOfMemSpanDistinguished
-import Mathlib.RingTheory.PowerSeries.Substitution
 import Mathlib.Analysis.SpecialFunctions.Log.Base
+import Mathlib.Data.Nat.Choose.Multinomial
+import Mathlib.NumberTheory.Padics.PadicVal.Basic
 
 namespace Formalism.MainNotions.N.FrobeniusPowerSeries
 

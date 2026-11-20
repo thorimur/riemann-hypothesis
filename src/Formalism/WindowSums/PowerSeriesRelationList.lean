@@ -1,12 +1,9 @@
-import Formalism.WindowSums.AnnihilatorPolynomials.DistinctTerms
 import Formalism.WindowSums.AnnihilatorPolynomials.LeOfPowMemIdealOfDistinctTerms
-import Formalism.WindowSums.AnnihilatorPolynomials.FirstCoefficientBoundHolds
 import Formalism.WindowSums.AnnihilatorPolynomials.EvalOneSmulDecomposition
 import Formalism.WindowSums.AnnihilatorPolynomials.ZpowVal
 import Formalism.WindowSums.AnnihilatorPolynomials.ValProd
 import Formalism.WindowSums.AnnihilatorPolynomials.WindowSum
 import Formalism.WindowSums.AnnihilatorPolynomials.Lagrange
-import Formalism.WindowSums.StatementRelay
 
 namespace Formalism.WindowSums
 

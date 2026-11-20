@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.CuspidalDiscreteness.SiegelFinite
 
 open Set Filter Topology

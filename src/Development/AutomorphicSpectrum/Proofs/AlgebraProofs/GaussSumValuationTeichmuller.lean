@@ -1,6 +1,9 @@
-import Mathlib
 import ReciprocityTheory.DualLattices.SumInvMulTrace
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CardLe
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.RootsOfUnity.AlgebraicallyClosed
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 
 open scoped Matrix TensorProduct
 open Matrix

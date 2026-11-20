@@ -1,11 +1,10 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StChartMassCompact
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PChartMassCompact
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PLelongRegularise
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCutOffDominated
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.SliceCut
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StatementsGreenReg
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeLogBound
+import Mathlib.Geometry.Manifold.PartitionOfUnity
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

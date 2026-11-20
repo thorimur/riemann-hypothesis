@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataTheta
 
 open Formalism.BasicNotions.TH MvPolynomial

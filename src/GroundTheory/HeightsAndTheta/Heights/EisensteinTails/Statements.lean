@@ -1,7 +1,11 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithDegree
 import GroundTheory.HeightsAndTheta.Heights.HermitianSum
-import GroundTheory.HeightsAndTheta.Theta.EisensteinZeta.MirabolicInduction.CfunOmStatements
+import Mathlib.Algebra.QuadraticAlgebra.Basic
+import Mathlib.Analysis.SpecialFunctions.Gamma.Digamma
+import Mathlib.Data.Rat.Star
+import Mathlib.NumberTheory.LSeries.DirichletContinuation
+import Mathlib.NumberTheory.ModularForms.DedekindEta
+import Mathlib.NumberTheory.NumberField.DedekindZeta
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.LeavesOrthogonalSum

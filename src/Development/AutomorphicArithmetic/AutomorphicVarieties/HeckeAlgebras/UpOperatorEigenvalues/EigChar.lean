@@ -2,6 +2,9 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.Heck
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HidaCompleteRings.HeckeRestr
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HidaCompleteRings.HeckeModel
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.NormLtOne
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Topology.Algebra.Valued.LocallyCompact
 open IsLocalRing UpperTheory.V.Hi Matrix
 
 namespace UpperTheory.V.Hi.Up

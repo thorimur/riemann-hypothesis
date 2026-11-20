@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsReductionComplex
 set_option maxSynthPendingDepth 1
 

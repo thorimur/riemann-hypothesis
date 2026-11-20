@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.DetSqEqOneOfPreservesBilin
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume

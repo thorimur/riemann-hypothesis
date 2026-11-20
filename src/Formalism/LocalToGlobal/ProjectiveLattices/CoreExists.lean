@@ -1,9 +1,5 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.CuspidalL2Subspace
-import Formalism.LocalToGlobal.ProjectiveLattices.CuspFDOf
-import Formalism.LocalToGlobal.ProjectiveLattices.CuspMulOf
-import Formalism.LocalToGlobal.ProjectiveLattices.NormLaws
 import Formalism.LocalToGlobal.ProjectiveLattices.CoreProofs
-import Formalism.LocalToGlobal.ProjectiveLattices.VolProofs
 import Formalism.LocalToGlobal.ProjectiveLattices.ExistsParameterConditions
 import Formalism.LocalToGlobal.ProjectiveLattices.DatProofs
 

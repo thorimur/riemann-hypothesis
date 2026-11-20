@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.BrJoint
 
 namespace GlobalTheory.LvT.BuiltChain

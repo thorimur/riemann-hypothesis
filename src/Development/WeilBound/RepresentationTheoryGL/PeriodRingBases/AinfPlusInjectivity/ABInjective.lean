@@ -1,6 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.PeriodRingBases.PeriodRingUnits.DieudonneManinBasisModification
 import Development.WeilBound.CoreStatements.CrystallinePeriodRings.AinfMapSurjective
-import Development.WeilBound.CoreStatements.CrystallinePeriodRings.InvRestrictScalarsMem
 
 set_option backward.isDefEq.respectTransparency false
 

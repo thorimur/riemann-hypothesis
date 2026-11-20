@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.MacdonaldSpherical
 import GroundTheory.AutomorphicForms.MacdonaldNormalization
 

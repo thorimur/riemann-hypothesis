@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.IsLieDataCircle
+import Mathlib.Analysis.Calculus.InverseFunctionTheorem.ContDiff
+import Mathlib.Tactic.ENatToNat
 
 open GlobalTheory.SmoothForms NumberField Matrix
 open scoped ContDiff Topology

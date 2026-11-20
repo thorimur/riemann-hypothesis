@@ -1,5 +1,6 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.CompTie
 import Formalism.LocalToGlobal.ProjectiveLattices.ValSetAlgSubset
+import Formalism.LocalToGlobal.ProjectiveLattices.CompHt
+import Formalism.LocalToGlobal.ProjectiveLattices.RegularityR2Quotient
 
 noncomputable section
 

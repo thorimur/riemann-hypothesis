@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleClassGroup.IdeleClassEquivIdeleClassMapOfComm
 import GroundTheory.GlobalFields.IdeleClassGroup.ConjugateNorm
+import GroundTheory.GlobalFields.CyclotomicCharacters.Character
 
 namespace GroundTheory.Global
 

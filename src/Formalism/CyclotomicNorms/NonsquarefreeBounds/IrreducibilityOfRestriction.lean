@@ -1,6 +1,10 @@
-import Formalism.CyclotomicNorms.StatementT
 import Formalism.GaloisIrreducibility.NoSolvableTransitive
 import Lemmata.GeneralBFactSecondBis.Imports
+import Mathlib.LinearAlgebra.Eigenspace.Charpoly
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 
 open Polynomial
 

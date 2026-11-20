@@ -1,9 +1,8 @@
 import Development.WeilBound.ThetaLifts.LocalTheory.ConeShifts.ExistsPowIdem
-import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.Vaceigen
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.Inertof
 import Development.WeilBound.CoreStatements.LocalThetaKernels.IwasAd
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.IdeleCharacterEqOneIntegralUnitsUnramifiedAdelic
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Tjcosets
+import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.VaceigenDual
 
 noncomputable section
 

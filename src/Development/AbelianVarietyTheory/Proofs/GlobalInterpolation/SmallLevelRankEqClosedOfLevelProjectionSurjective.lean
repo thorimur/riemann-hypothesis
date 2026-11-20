@@ -1,8 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.RankZeroOfLevelThree
 import Formalism.LocalToGlobal.BaseRankEqOfRealisation
 import Formalism.LocalToGlobal.TieTwRecOf
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.JoinSISel
 
 noncomputable section
 

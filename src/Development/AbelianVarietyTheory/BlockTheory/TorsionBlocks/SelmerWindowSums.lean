@@ -1,9 +1,7 @@
-import Mathlib
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
-import Formalism.WeaklyAdmissibleFiltrations.StatementTor
-import Formalism.GaloisCohomology.LocalTateDualityK
 import Formalism.SharpRestriction.LevelLetterCocycles.LocCoh
+import Mathlib.FieldTheory.Relrank
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

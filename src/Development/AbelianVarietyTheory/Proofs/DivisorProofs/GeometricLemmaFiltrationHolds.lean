@@ -1,4 +1,3 @@
-import Mathlib
 import CompanionTheory.AutomorphicTheory.TemperedLocalSpectra.LocalGeometry.Imports
 
 namespace GlobalTheory

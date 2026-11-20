@@ -1,7 +1,4 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.GeneralizedMeasures.HeckeFinAlt
 import Development.AutomorphicArithmetic.Foundations.Convolution.GeneralizedMeasures.StepFin
-import Development.AutomorphicArithmetic.Foundations.Convolution.GeneralizedMeasures.UiwMul
-import Development.AutomorphicArithmetic.Foundations.Convolution.ConvolutionKernels.KernelTransforms.HopBasic
 import Development.AutomorphicArithmetic.Foundations.Convolution.ConvolutionKernels.KernelTransforms.UiwPow
 
 open MeasureTheory NumberField IsDedekindDomain MvPolynomial Filter

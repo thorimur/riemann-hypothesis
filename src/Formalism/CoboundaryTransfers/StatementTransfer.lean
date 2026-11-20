@@ -1,4 +1,5 @@
-import Formalism.CoboundaryTransfers.StatementBridge
+import Formalism.CoboundaryTransfers.Statement
+import Formalism.LagrangeIdealLifts.Statement
 
 noncomputable section
 

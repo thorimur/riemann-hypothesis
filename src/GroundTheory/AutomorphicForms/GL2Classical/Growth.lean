@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2Classical.IsWeightLevelAdelicLift
+import Mathlib.NumberTheory.ModularForms.Bounds
 
 open NumberField Matrix CongruenceSubgroup UpperHalfPlane ModularForm Filter Topology
 open scoped MatrixGroups ModularForm

@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormRepresentationLift.NormRepStepOfTrace
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.DiscrB
 
 noncomputable section
 

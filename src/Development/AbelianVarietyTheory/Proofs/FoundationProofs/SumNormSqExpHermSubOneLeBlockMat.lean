@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.StarMulOfMemKc
+import Formalism.LocalRingCardinality.DataTheta
+import Mathlib.Analysis.Normed.Algebra.MatrixExponential
 
 noncomputable section
 namespace GlobalTheory.CartanLip

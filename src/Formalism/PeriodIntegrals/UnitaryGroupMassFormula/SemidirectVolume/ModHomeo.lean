@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.HeisenbergCoordinatesMul
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ModTop
 

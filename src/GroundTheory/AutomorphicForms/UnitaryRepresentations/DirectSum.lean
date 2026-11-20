@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.UnitaryRepresentations.IsInvariantIffCommuteStarProjection
+import Mathlib.Analysis.InnerProductSpace.l2Space
 
 namespace GroundTheory.Automorphic
 

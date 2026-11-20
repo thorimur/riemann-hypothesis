@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ImageProdLoc
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.IntegrableInvCube
 
 namespace Formalism.FourierDecayAlt.P.PBC
 

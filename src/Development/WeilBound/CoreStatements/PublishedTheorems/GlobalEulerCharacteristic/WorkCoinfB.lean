@@ -1,5 +1,4 @@
 import Development.WeilBound.CoreStatements.PublishedTheorems.GlobalEulerCharacteristic.WorkKilledC
-import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.ShapiroCoind
 
 open NumberField IsDedekindDomain CategoryTheory GroundTheory.ProfCoh GroundTheory.Global
 

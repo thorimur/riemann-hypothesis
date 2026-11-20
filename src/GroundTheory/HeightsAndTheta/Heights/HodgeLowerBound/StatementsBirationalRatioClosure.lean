@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.GenericMinors
+import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsGrassHeight
 set_option maxSynthPendingDepth 1
 
 noncomputable section

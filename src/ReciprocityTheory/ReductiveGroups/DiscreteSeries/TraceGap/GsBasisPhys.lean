@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.FockWeights
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.LowFock
 
 noncomputable section
 

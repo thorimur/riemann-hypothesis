@@ -1,6 +1,10 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.GenericUnipotentCharacter
-import Formalism.GL3MeanSquares.HookFormulaTorsion.DimensionMassJointBound
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar
+import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Card
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

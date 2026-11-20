@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.StalkLoc
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeTateWeilUnique
 

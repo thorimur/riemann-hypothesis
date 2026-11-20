@@ -1,4 +1,3 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SmallSA
 import Development.AutomorphicArithmetic.LocalEmbeddings.OppLagr
 
 noncomputable section

@@ -3,6 +3,7 @@ import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.Logarithm
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.NotInKernelOfMultiplierTorsion
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.LatticePointInKernelSubgroup
 import Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementL
+import Mathlib.NumberTheory.Padics.Hensel
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

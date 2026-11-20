@@ -1,10 +1,9 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.MemberDIV
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ChKerCCongr
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.IsLinked
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.TwArgs
-import Formalism.LocalToGlobal.IndefiniteReal.NonzeroIndexPlaceIndepConstants
-import BuildAid.D3
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ThetaChr
+import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DivRows3GIff
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsSelfDualLatticeNormOneIdealRankOne
+import Formalism.LocalToGlobal.IndefiniteReal.HeckeNonvanishing.Imports
 
 noncomputable section
 

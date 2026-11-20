@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.IndefiniteReal.SEEofApply
+import Formalism.LocalToGlobal.IndefiniteReal.AutomorphicEvaluation
 
 noncomputable section
 

@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.TwGood
+import Formalism.LocalRingCardinality.DataNChoice
 
 noncomputable section
 

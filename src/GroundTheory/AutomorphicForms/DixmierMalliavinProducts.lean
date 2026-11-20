@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.DixmierMalliavinBasic
 import GroundTheory.AutomorphicForms.GKModules.SmoothVectors
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 namespace GroundTheory.Automorphic
 

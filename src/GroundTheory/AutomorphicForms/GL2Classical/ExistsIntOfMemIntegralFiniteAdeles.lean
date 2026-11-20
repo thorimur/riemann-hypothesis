@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.StrongApproximationSLDoubleCoset
 import GroundTheory.GlobalFields.IdeleGroups.Rational
-import GroundTheory.GlobalFields.Adele.Discrete
 
 open NumberField IsDedekindDomain Topology Filter Set Matrix
 open GroundTheory.Global GroundTheory.Global.IdeleGroup

@@ -1,6 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.LocalRepresentationL2
-import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.ExCusp
-import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.FormsIrr
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.OrthOrIso
 import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.IsoIff
 

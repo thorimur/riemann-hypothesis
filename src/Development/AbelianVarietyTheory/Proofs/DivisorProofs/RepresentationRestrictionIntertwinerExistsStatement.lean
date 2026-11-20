@@ -1,9 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RepresentationRestrictionIntertwinerExists
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasLocType
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GlCastRfl
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictionSubmoduleFunctionalInjectiveStatement
 open scoped TensorProduct
 open GlobalTheory.SmGL GlobalTheory.PRep GlobalTheory.IndLineGL GlobalTheory.LocTypeGood
 set_option maxHeartbeats 1000000 in

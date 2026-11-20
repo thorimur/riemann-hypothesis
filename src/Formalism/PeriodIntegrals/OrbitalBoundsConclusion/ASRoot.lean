@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ArtSch
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArtinSchreierRoots.ExistsRootOC
 
 theorem rootModP_holds : PI.ArtSch.RootModP := by

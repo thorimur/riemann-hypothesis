@@ -1,5 +1,4 @@
 import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.SliceTensors.PPrAdm
-import GroundTheory.PAdicHodge.NormalizedTrace
 
 noncomputable section
 

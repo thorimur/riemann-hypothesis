@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataLevel
 import Formalism.LocalRingCardinality.DataLevelD
 import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GapAtLeast
 

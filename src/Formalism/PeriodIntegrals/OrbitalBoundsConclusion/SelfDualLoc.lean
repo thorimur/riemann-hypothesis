@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SelfDualLoc
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SelfDualLocalBasis.SelfDualLocOfLocBasis
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SelfDualLocalBasis.LocBasis
 

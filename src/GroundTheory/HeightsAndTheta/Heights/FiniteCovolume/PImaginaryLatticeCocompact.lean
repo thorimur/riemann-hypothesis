@@ -1,5 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StImaginaryLatticeCocompact
+import GroundTheory.AutomorphicForms.HermitianOrthogonal
+import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.Objects
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.NumberTheory.NumberField.CanonicalEmbedding.Basic
+import Mathlib.RingTheory.PiTensorProduct
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

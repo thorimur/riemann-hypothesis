@@ -1,5 +1,3 @@
-import Mathlib
-import Development.DiscreteGroups.GlobalIrreducibility.DzMatchCut
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RecTransportFieldIso
 
 noncomputable section

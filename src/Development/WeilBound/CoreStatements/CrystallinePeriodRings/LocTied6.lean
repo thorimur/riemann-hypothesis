@@ -1,6 +1,5 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
 import Development.WeilBound.CoreStatements.CrystallinePeriodRings.InstCommRingBcris
-import Formalism.LocalRingCardinality.AdicCompletionLocal.LocTied
 
 noncomputable section
 

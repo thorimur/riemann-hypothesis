@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatLocalResidueTensorInjective
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsEtPlace
 open NumberField GlobalTheory.UPel.HT GlobalTheory.UPel.HT.EtLev
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.level_quotient_module_surjection : ∀ (p : ℕ) [Fact p.Prime] (D : GlobalTheory.UPel.HT.Datum p) (w0 : Ideal (𝓞 D.F)) (r : ℕ), w0.IsMaximal →

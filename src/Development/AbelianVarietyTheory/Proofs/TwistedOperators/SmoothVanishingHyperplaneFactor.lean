@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.InverseChamberMap
+import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
 
 noncomputable section
 

@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.CurveOpen
+import Formalism.LocalToGlobal.ProjectiveLattices.CurveComp
+import Formalism.LocalToGlobal.ProjectiveLattices.RecPJThAllNeBot
 
 noncomputable section
 

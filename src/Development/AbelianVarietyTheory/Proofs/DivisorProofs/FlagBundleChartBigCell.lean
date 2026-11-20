@@ -1,8 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BaseLApply
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdjacentPullPull
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.GeometricallyConnectedOfIsIsoRestrict
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagBundleChartLift
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CellChart
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagBundleAffinePolynomialCoordsStatement
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsCellFrameOfSpans
 
 set_option autoImplicit false
 

@@ -1,5 +1,9 @@
-import Mathlib
 import Formalism.DegreeFormula.FlagDegFormula
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 open MvPolynomial Formalism.DegreeFormula Filter Topology
 

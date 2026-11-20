@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.LiftLat
 import Formalism.LocalRingCardinality.PrincipalHermitianLattice
 import Formalism.LocalRingCardinality.DataIdx

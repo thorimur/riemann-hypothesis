@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NonemptyLinearEquivOfCharpolyEq
+import Mathlib.LinearAlgebra.Charpoly.ToMatrix
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

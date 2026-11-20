@@ -1,4 +1,4 @@
-import Development.WeilBound.ThetaLifts.SphericalLattices.LocCommSt
+import Development.WeilBound.ThetaLifts.SphericalLattices.LocModSt
 
 noncomputable section
 

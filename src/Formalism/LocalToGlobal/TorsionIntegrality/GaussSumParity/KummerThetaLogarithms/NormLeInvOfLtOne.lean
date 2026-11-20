@@ -1,6 +1,6 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.BiextensionHypothesesOfLevelOne
 import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementC
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FinalS
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 
 noncomputable section
 open scoped BigOperators

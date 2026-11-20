@@ -1,8 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.EigenSplitStrings
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsParamDefinite
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.IsSphericalDoubleCosetLabelIffDecreasingStatement
-import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SplitPlaceIdempotentVacuumHyperspecialDictionaryStatement
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ParamsEx
 
 noncomputable section
 

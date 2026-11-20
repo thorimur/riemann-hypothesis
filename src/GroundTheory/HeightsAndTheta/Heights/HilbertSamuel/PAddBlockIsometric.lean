@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsAddBlockIsometric
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PSectionPointValue
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsSemilocRing

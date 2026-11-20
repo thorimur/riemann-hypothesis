@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AwayAgree
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CurveV
 

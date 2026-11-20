@@ -1,5 +1,4 @@
 import Formalism.PeriodIntegrals.UpqRep
-import Formalism.PeriodIntegrals.HCFdeg
 
 noncomputable section
 

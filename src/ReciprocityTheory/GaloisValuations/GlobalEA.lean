@@ -1,5 +1,5 @@
-import ReciprocityTheory.GaloisValuations.Global
 import ReciprocityTheory.Hypotheses.Descent
+import Mathlib.FieldTheory.Galois.Profinite
 
 noncomputable section
 

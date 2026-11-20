@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.FirstKernelLawReading
 import Formalism.LocalToGlobal.Divisibility.NumbersLemmas
-import Development.AbelianVarietyTheory.Definitions.Divisors.FactorBounds
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ColHeightSharpWith
 
 noncomputable section

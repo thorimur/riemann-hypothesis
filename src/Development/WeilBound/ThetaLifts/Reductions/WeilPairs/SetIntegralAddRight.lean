@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.SplitPlaceSiegelLawDiagonalLagrangianCharacterIm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LagrIntRhoInv
 open scoped TensorProduct Matrix Pointwise

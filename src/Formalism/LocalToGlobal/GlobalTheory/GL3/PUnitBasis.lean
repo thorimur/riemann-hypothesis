@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.LocalToGlobal.GlobalTheory.GL3.PFourSq
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Rat.Star
 
 noncomputable section
 open scoped BigOperators

@@ -1,4 +1,5 @@
 import Formalism.FrobeniusContraction.Statement
+import Mathlib.RingTheory.WittVector.IsPoly
 
 noncomputable section
 

@@ -1,4 +1,8 @@
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AnalyticIntertwiners.NilpotentOfPowerTraces
+import Mathlib.Analysis.Calculus.InverseFunctionTheorem.ContDiff
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.NcBound
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Taylor
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.PositionPrependMemNoncompactPositionSubmodule
 
 open Matrix Topology Filter
 open scoped InnerProductSpace NNReal ENNReal

@@ -4,11 +4,8 @@ import Development.EtaleCohomology.EtaleTrace.PtCoverPf
 import Development.EtaleCohomology.EtaleTrace.TwZeroPfSplit
 import Development.EtaleCohomology.EtaleTrace.PrimSplitPf
 import Development.EtaleCohomology.EtaleTrace.CocEqPf
-import Development.EtaleCohomology.EtaleTrace.EtaleTateTwistSectionConstantOnPointsOfConnected
 import Development.EtaleCohomology.EtaleTrace.PtCovPf
 import Development.EtaleCohomology.EtaleTrace.TateTwistSectionConstantOnPointsOfTwLocPtCov
-import Development.EtaleCohomology.TateTwists.TwLocPfR
-import Development.EtaleCohomology.TateTwists.TwSecLocPfZarR
 import Development.EtaleCohomology.TateTwists.AlgPowPfR
 import Development.EtaleCohomology.TateTwists.TwTorsPfR
 

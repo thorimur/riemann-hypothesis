@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.HostFacts
 
 open NumberField IsDedekindDomain Ideal

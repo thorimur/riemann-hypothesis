@@ -1,5 +1,7 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.CechPairings.CechAugRow
+import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.CechPairings.InstAddCommGroup
+import Mathlib.CategoryTheory.Monoidal.Mon
+import Mathlib.CategoryTheory.SingleObj
+import Mathlib.Tactic.ReduceModChar
 
 set_option autoImplicit false
 set_option backward.isDefEq.respectTransparency false

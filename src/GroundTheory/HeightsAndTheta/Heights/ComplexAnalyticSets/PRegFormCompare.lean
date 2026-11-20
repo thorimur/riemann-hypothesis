@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StRegFormCompare
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PTubeFormCompare
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSheetFormCompare
 set_option maxSynthPendingDepth 1
 

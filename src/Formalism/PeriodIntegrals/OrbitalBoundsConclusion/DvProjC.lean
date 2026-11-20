@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.DivisionRowsRationalLattice
-import Formalism.PeriodIntegrals.IdxCalc
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.PowerSpans.SpanPowSmul
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.DvIdxCalc
 

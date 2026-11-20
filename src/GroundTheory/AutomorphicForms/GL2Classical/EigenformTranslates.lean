@@ -1,10 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2Classical.TranslateSpanLeCuspForms
 import GroundTheory.AutomorphicForms.GL2Classical.Automorphic
-import GroundTheory.AutomorphicForms.GL2Classical.EigenQExpansion
-import GroundTheory.AutomorphicForms.GL2Classical.CuspFormsFiniteDim
-import GroundTheory.AutomorphicForms.GL2Classical.UnitaryEigenSpan
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspFormsDecay
+import GroundTheory.AutomorphicForms.NormDetDiagUnitsPosRealToUnits
+import GroundTheory.AutomorphicForms.ReductionSplitting
 
 open NumberField Matrix CongruenceSubgroup ModularForm Complex Filter
 open UpperHalfPlane hiding I I_re I_im

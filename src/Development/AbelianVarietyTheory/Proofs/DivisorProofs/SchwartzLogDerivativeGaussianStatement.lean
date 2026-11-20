@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzLogDerivativeGaussian
-import Mathlib
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.schwartz_log_derivative_gaussian : ∀ {V : Type} [NormedAddCommGroup V] [NormedSpace ℝ V] [FiniteDimensional ℝ V] (f : SchwartzMap V ℂ), f ≠ 0 →
     ∀ (P : V → V →ₗ[ℝ] ℂ), (∀ x α, fderiv ℝ (⇑f) x α = P α x * f x) →

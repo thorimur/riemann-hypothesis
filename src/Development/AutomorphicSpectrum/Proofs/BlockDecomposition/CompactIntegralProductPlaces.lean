@@ -1,11 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OrthogonalHaarMeasure
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EisensteinBasicThird
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GlobalRankinSelbergBasicFacts
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NewformLiftLevel
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MaxCompactTransposeInvWeyl
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SigmaFinitePlaneMeasure
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EisensteinEulerProduct
+import Std.Tactic.BVDecide.Normalize.Bool
 open NumberField IsDedekindDomain MeasureTheory Matrix Filter Topology
 open GroundTheory.Global GroundTheory.LocalField GroundTheory.Automorphic GroundTheory.Automorphic.AutomorphicForm
 open GroundTheory.Automorphic.GodementSection (localChar)

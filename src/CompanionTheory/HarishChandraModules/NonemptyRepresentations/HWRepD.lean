@@ -1,4 +1,5 @@
 import CompanionTheory.HarishChandraModules.NonemptyRepresentations.NonemptyOfAntitone
+import Mathlib.Tactic.ENatToNat
 
 open Matrix
 

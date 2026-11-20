@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.DataLatDefs
 
 namespace GlobalTheory.EX.Glue

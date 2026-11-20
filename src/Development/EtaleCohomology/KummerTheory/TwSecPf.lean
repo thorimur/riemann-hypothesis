@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.KummerTheory.TwSecPfGamma
+import Development.EtaleCohomology.KummerTheory.InjSlice
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

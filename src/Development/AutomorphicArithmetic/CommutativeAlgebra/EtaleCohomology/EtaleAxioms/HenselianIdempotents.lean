@@ -1,15 +1,8 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CommutativeAlgebra.LiftIdempotentFactorizationHolds
 import Development.EtaleCohomology.EtaleSheaves.FiniteChartSurjPf
-import Development.EtaleCohomology.EtaleSheaves.HensIdemCut
-import Development.EtaleCohomology.EtaleSheaves.LChartPf
-import Development.EtaleCohomology.EtaleSheaves.LEtaleLiftPf
-import Development.EtaleCohomology.EtaleSheaves.LFactorPf
-import Development.EtaleCohomology.EtaleSheaves.LIdemLiftPf
 import Development.EtaleCohomology.EtaleSheaves.LIdemPf
 import Development.EtaleCohomology.EtaleSheaves.LJacPf
 import Development.EtaleCohomology.EtaleSheaves.LMonicPf
-import Development.EtaleCohomology.EtaleSheaves.SurjectiveCharts.EtaleSurjectiveChartOfFiniteChartSurj
 
 namespace UpperTheory.Et.HenselianIdempotents
 

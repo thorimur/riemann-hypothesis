@@ -1,7 +1,3 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovGeometry.MoriwakiSt
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsArith
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsArithKleiman
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PtsIntegralCurveConst
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PCurvePointsFinite
 

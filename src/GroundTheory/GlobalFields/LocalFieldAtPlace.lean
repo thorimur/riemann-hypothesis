@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.LocalAtPlace
+import Mathlib.NumberTheory.LocalField.Basic
 
 open IsDedekindDomain IsDedekindDomain.HeightOneSpectrum NumberField WithZero
 

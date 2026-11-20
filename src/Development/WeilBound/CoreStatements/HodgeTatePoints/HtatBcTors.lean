@@ -1,7 +1,5 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SemiabelianSchemes.AbelianSchemeQuotients.IsAbelianScheme
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ExistsUnitFormLocalizationEtaleNbhd
 import Development.WeilBound.CoreStatements.HodgeTatePoints.HtatHt
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

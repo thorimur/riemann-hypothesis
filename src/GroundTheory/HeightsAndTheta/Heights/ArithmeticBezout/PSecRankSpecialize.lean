@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsSecRankSpecialize
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecAlgFieldChange
 set_option maxSynthPendingDepth 1

@@ -1,11 +1,7 @@
-import Mathlib
-import GroundTheory.LocalFields.Interface
-import GroundTheory.LocalFields.FiniteExtension
-import GroundTheory.LocalFields.Uniqueness
 import GroundTheory.LocalFields.Integers
 import GroundTheory.LocalFields.UnitsBasic
-import GroundTheory.LocalFields.IntermediateField
 import GroundTheory.LocalFields.SeparableClosure
+import Mathlib.Data.Rat.Star
 
 noncomputable section
 

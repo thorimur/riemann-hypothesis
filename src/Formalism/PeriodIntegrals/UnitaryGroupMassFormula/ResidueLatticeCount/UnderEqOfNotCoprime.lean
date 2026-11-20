@@ -1,5 +1,13 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.FactorizationMultisetProd
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.NumberTheory.RamificationInertia.Basic
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.Ideal.Int
+import Mathlib.RingTheory.Ideal.Quotient.HasFiniteQuotients
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
 
 namespace PI.Residue
 

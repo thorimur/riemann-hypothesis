@@ -1,7 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.HasDefect
-import Development.AbelianVarietyTheory.Definitions.Divisors.HasRigidChart
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ToroidalCompactificationBis
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocDerKDesc
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocDerKMono
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ImportsLastTer

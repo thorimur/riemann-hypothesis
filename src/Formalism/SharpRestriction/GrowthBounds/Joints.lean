@@ -1,20 +1,7 @@
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.GrowthBounds.CovariantDegrees
-import Formalism.SharpRestriction.GrowthBounds.StatementOfDegreeAndBound
-import Formalism.SharpRestriction.GrowthBounds.ValuationLowestDegreeRename
-import Formalism.SharpRestriction.GrowthBounds.FlipOneThree
-import Formalism.SharpRestriction.GrowthBounds.TableLineDegreeFive
-import Formalism.SharpRestriction.GrowthBounds.SourceCleaning
-import Formalism.SharpRestriction.GrowthBounds.ColumnSystems
-import Formalism.SharpRestriction.GrowthBounds.Lemma5aAt
-import Formalism.SharpRestriction.GrowthBounds.SmallOrderPrimes
-import Formalism.SharpRestriction.GrowthBounds.ConclusionA2
-import Formalism.SharpRestriction.GrowthBounds.ProjectionLemmaBaseLevel
-import Formalism.SharpRestriction.GrowthBounds.DefsInst
-import Formalism.SharpRestriction.GrowthBounds.FormalGroupSystem
 import Formalism.SharpRestriction.GrowthBounds.TopChoiceBounds
 import Formalism.SharpRestriction.GrowthBounds.ProjectionOfIsotypicDecomposition
 import Formalism.LocalRingCardinality.ColumnWeightSpreadOffTop
+import Mathlib.Algebra.NoZeroSMulDivisors.Pi
 
 noncomputable section
 

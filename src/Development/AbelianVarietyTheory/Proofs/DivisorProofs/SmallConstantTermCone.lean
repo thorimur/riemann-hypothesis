@@ -1,12 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EisAtMinusRho
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EisensteinAtMinusRhoStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenIntegralStabilizerStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenIntegralHaarStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenIntegralMeasureStatement
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplitExistenceStatement
 
 noncomputable section
 

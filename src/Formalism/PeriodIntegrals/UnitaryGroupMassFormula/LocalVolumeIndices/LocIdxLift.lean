@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalVolumeIndices.CompPiVLocGSame
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.BridgeFinK
+import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.MassDataInst
 
 noncomputable section
 

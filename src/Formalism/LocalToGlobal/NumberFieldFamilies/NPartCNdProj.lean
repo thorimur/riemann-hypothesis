@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.NumberFieldFamilies.NPartCNdTie
+import Formalism.LocalToGlobal.NumberFieldFamilies.NPartCNd
 
 noncomputable section
 

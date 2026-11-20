@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.AdelicGLn
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.BlochKatoSelmerVanishes
 

@@ -1,6 +1,6 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.MomBf
 import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.MomTwMeas
 import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.QuotUniq
+import Formalism.SharpRestriction.CuspSpanNormBounds.LowestKTypeMultiplicity
 
 open Matrix MeasureTheory
 open scoped ENNReal

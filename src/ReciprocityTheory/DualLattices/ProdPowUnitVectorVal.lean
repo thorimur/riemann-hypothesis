@@ -1,4 +1,5 @@
 import ReciprocityTheory.DualLattices.LiftMonomialDeterminantStatementHolds
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

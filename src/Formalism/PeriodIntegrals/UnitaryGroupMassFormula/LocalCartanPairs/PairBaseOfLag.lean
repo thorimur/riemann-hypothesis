@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianLattices.HermitianLatticesProofs.UnimodUnramUnique
 
 noncomputable section

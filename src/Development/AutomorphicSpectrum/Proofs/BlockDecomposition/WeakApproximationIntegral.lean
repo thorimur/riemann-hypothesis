@@ -1,9 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PlaneSupports.PlaneSupp
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HermitianPlaneStrongApprox
-import GroundTheory.GlobalFields.Adele.Compact
-import GroundTheory.AutomorphicForms.StrongApproximationSLDense
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ExistsSupported
+import GroundTheory.GlobalFields.TateThesis.AdelicCharDual
 
 noncomputable section
 

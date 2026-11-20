@@ -1,5 +1,4 @@
-import Formalism.HermitianCurvature.StatementTop
-import Formalism.HermitianCurvature.LevelRecursionCondNeeded
+import Formalism.HermitianCurvature.StatementJC
 
 namespace Formalism.FourierDecayAlt.KB
 

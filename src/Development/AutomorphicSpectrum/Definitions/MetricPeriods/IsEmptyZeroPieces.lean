@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.SimilitudeFactorFormGroupBoundedOfTestSupport
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.AffineChartParamCoverProjectiveLine
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.GramSignatureTwoOneEntryZeroZero

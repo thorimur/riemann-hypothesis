@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.TwNormLat
+import Mathlib.Tactic.Polynomial.Basic
 
 open NumberField IsDedekindDomain
 

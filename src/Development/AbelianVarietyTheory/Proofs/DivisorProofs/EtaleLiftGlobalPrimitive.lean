@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsOpenGraph
+import Mathlib.Topology.Homotopy.Lifting
 open GlobalTheory.PrimLift
 
 namespace GlobalTheory

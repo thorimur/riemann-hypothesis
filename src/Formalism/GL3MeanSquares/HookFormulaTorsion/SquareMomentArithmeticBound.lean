@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.GL3MeanSquares.ConcavityEquidistribution
 import Formalism.GL3MeanSquares.HookFormulaTorsion.SumLogFactorialRowsBounds
+import Mathlib.RingTheory.PiTensorProduct
 
 namespace Formalism.HermitianLattices.TraceIntegrality
 

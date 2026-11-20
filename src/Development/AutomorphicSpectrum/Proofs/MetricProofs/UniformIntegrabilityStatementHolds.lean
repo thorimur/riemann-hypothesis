@@ -1,12 +1,8 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.LeviForms.IsRegFamilyInhabitStatement
-import ReciprocityTheory.AnalyticForms.LeviForms.TailCut
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.OfListTailLog
-import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassZero
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.TailBoundStatementHolds
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.ConvergenceStatementHoldsStatement
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.MixedMeasureConvergenceSncStatement
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.WeakConvergenceOffZeroSetStatement
+import Mathlib.Topology.Separation.Connected
 open MeasureTheory Metric Filter Topology ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M ReciprocityTheory.AnForm.P ReciprocityTheory.AnForm.M.FinHolAtlas
 open scoped ContDiff
 

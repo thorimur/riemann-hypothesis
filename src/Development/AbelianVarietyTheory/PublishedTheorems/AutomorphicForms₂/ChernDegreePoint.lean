@@ -1,8 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ArBirational
-import Development.AbelianVarietyTheory.Definitions.Divisors.MemSmallSecTrivShift
 import Development.AbelianVarietyTheory.Definitions.Divisors.GenericPointAsIdeal
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.UnderEqGenericPoint
+import Mathlib.AlgebraicGeometry.Morphisms.FlatMono
 
 noncomputable section
 

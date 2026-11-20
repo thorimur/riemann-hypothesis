@@ -6,11 +6,8 @@ import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.RectShiftChi
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.LogDerivRegionChiOf
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.SmoothChiOf
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.PsiChiBoundOf
-import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.LDerivNearOne
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.ExcBoundOf
 import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.SiegelWalfiszOf
-import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.SiegelWalfiszAPOf
-import Formalism.ZeroFreeRegion.LogDerivRegion
 
 namespace Formalism.ZeroFreeDirichlet
 

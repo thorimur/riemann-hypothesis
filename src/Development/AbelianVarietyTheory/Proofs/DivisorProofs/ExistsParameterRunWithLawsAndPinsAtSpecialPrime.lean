@@ -1,9 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.SingleIndexPlacesAreTwisted
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.OnWithOfIsEmpty
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitNeOne
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.ExistsFullOfXiRec
-import Development.AbelianVarietyTheory.Proofs.HeightProofs.ExistsShortSeriesTwistCharOfTwistingIdeleChar
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.ExistsTopOfCore
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsTwistHeckeCharacter
 

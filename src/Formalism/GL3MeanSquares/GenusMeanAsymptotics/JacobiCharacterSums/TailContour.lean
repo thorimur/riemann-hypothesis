@@ -1,9 +1,8 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TailBox
-import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TailKernel
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TailContourA
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TailContourB
-import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.LRight
 import Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.NormIntegralComplLe
+import Mathlib.Analysis.Real.Pi.Bounds
 
 open Complex MeasureTheory
 

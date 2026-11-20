@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.TorsionDualDefs
+import Mathlib.Analysis.Fourier.FiniteAbelian.PontryaginDuality
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Sheaves.Presheaf
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

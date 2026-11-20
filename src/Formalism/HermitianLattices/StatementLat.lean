@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.FockGram.StatementHerm
+import Mathlib.Algebra.Module.Lattice
 
 open Module
 

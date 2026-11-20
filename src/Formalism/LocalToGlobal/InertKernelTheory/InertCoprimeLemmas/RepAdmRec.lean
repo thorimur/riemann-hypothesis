@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.InertKernelTheory.AdmRecOfTies
-import Formalism.LocalToGlobal.GlobalTheory.BaseLatticeSelfDual
+import Formalism.LocalToGlobal.GlobalTheory.ExistsUnitaryOneDetEq
+import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.PtStep0
 
 noncomputable section
 

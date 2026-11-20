@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicHensel.PadicUnitNorm
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OnlyStableSubspaces
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsClopenKGLInvEntries

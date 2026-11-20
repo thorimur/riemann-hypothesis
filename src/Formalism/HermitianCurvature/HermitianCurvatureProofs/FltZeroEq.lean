@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.HermSumRight
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJfSSymExp
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.HermZeroOfTrace
 
 open Matrix Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

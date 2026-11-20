@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarEqZeroOfHolomorphic
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WedgeContrSelfApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarSquaredEqZeroStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.D10ProductRuleSymmetricStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MixedDbarPartialCommutationStatement

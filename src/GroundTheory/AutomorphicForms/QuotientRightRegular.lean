@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.QuotientMeasure
+import Mathlib.MeasureTheory.Function.ContinuousMapDense
+import Mathlib.MeasureTheory.Function.L2Space
+import Mathlib.Tactic.ENatToNat
 
 open MeasureTheory Topology Filter Set
 open scoped ENNReal

@@ -1,6 +1,6 @@
-import Mathlib
-import Development.DiscreteGroups.GlobalIrreducibility.SuppConst
-import Development.DiscreteGroups.GlobalIrreducibility.DzRedMat
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.IsCharLab
+import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsContinuousPadic
+import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.NotIsGenericDetRepTwo
 
 noncomputable section
 

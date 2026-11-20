@@ -1,5 +1,6 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.DiscreteModules.IsDiscreteRepIffForallExistsOpenNormalSubgroup
+import GroundTheory.ProfiniteCohomology.DiscreteModules
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RepresentationTheory.Continuous.TopRep
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

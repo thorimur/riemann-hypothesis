@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.GlobalFields.CompletionAtPlace.Galois
-import GroundTheory.GlobalFields.SemilocalAlgebras.Galois
-import GroundTheory.GlobalFields.IdeleGroups.LocalNormGroups
 import GroundTheory.GlobalFields.IdeleGroups.LocalNormsEverywhere
 import GroundTheory.LocalFields.LocalReciprocityUniversal
 

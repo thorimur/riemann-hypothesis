@@ -1,10 +1,8 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.ClassSumDualLe
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.RatHerm
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.IdxChange
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.LocBasis
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ReductionLemmaFirst
-import Lemmata.HermitianVanishing.KeyZero
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

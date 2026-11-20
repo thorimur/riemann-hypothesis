@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.TensorProductTheorem.Operators
+import Mathlib.RepresentationTheory.Irreducible
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

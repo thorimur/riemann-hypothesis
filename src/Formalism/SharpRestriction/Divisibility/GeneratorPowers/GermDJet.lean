@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.ThGerm
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermFunPf
 
 set_option autoImplicit false

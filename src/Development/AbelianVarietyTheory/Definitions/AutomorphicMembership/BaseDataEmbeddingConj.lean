@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.SpreadLe
 import Formalism.LocalToGlobal.Columns.AbelianHostFieldConditions
 

@@ -1,7 +1,7 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.LinksChar
 import Formalism.SharpRestriction.LevelLetterCocycles.TwGood
 import Development.AbelianVarietyTheory.Definitions.Foundations.StrictInterlaceIffDescEnum
+import Formalism.LocalToGlobal.IndefiniteReal.LinksDefs
+import Mathlib.NumberTheory.PrimesCongruentOne
 
 noncomputable section
 

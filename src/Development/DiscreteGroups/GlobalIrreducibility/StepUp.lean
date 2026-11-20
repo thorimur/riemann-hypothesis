@@ -1,5 +1,5 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.ValUniformizerPowLt
+import Development.DiscreteGroups.GlobalIrreducibility.DzRedSupp
 
 noncomputable section
 

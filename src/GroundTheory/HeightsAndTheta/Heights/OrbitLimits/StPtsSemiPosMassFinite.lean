@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StPtsPosPartProjIndep
 import GroundTheory.HeightsAndTheta.Heights.Intersections.NoCommonComponentCoordinatesPlane
-import GroundTheory.HeightsAndTheta.Heights.Intersections.PSemiPosTwist
 set_option maxSynthPendingDepth 1
 
 noncomputable section

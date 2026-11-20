@@ -1,9 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsProdUnif
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationProductOfUniformisedGroupsStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CubeClsPullHom
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GAdjSndOfIsProdUnif
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EqOneOfTorusHomOfZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LinHomLiftOneId
 
 noncomputable section

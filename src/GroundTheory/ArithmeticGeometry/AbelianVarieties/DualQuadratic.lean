@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.DualWeil
+import Mathlib.LinearAlgebra.QuadraticForm.Basic
 
 namespace GroundTheory.Arith.Abelian
 

@@ -1,4 +1,3 @@
-import ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialPullbackStatement
 import ReciprocityTheory.AnalyticForms.PotentialTheory.LocDens
 
 namespace ReciprocityTheory.AnForm.M

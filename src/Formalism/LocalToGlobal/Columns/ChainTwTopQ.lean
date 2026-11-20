@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.Columns.KOneCharacterTrivialNearOne
-import Formalism.LocalToGlobal.Columns.ChainInstY
 import Formalism.LocalToGlobal.Columns.ChainTwPsi
 
 open NumberField IsDedekindDomain Module

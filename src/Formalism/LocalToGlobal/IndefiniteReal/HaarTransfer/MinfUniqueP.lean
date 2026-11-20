@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.IndefiniteReal.HaarTransfer.MinfUnique
 import Formalism.LocalRingCardinality.SpanPowerMembership.HaarDensityNeZero
 
 namespace Formalism.IndefR.Leaf.Proofs

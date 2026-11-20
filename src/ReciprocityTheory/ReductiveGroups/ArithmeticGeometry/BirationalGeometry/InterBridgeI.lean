@@ -1,4 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterBridgeH
+import ReciprocityTheory.AnalyticForms.PotentialTheory.Partition
 
 noncomputable section
 

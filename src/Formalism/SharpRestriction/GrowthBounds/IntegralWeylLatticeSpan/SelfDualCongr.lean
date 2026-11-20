@@ -3,6 +3,8 @@ import Formalism.SharpRestriction.GrowthBounds.IntegralWeylLatticeSpan.RestGramW
 import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLcInt
 import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocGlob
 import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TiePtOneRec
+import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocBases
+import Formalism.LocalToGlobal.GroupLattices.LevelCharts.SelfDualPI
 
 noncomputable section
 

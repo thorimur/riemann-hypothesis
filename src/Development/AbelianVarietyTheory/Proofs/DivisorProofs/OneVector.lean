@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.TranslationInv
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PullFullL
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeatKernelFundamentalDomainPullStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeatKernelTraceIntegrableStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StrPullOperatorEqStatement

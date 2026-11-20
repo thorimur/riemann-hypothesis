@@ -1,8 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.OrbitLabellings.ColDefs
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementE
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.SingleLetterBiextensionRelation
-import Formalism.GaussJetBounds.GaussJetProofs.Transfer
+import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.BiextensionRelation
 
 open UpperTheory.G2 Classical
 open Formalism.L2.Th1.CM (MaximalUnramifiedExtension)

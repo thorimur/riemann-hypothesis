@@ -1,8 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.DefsForms
 import GroundTheory.ProfiniteCohomology.GlobalEulerCharacteristic.RealHerbrand
-import GroundTheory.ProfiniteCohomology.EulerChar
-import GroundTheory.ProfiniteCohomology.CupProducts.Projection
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

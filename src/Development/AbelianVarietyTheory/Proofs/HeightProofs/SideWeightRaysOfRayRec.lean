@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.HeightFunctions.OntoAlong
 import Formalism.LocalToGlobal.NumberFieldFamilies.RamifiedPrimesTrivialTuple
-import Formalism.LocalToGlobal.UnitaryNorms.CharUniq
 
 noncomputable section
 

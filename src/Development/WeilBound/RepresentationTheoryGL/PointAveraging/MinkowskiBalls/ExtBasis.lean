@@ -1,4 +1,7 @@
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.GermIntegrals.StepSt
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 
 open ValuativeRel Matrix GlobalTheory.SplitWeil PositivityTheory.Tls2.Ming3
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.AbstractLocalReciprocity.Multiplicative
 
 namespace GroundTheory.LocalField.Abstract

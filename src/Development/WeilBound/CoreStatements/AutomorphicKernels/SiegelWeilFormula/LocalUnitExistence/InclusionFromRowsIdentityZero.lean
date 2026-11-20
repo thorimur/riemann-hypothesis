@@ -1,4 +1,4 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.LdExOfLeaves
+import Development.WeilBound.ThetaLifts.LatticeBasics.HypothesesE
 
 noncomputable section
 

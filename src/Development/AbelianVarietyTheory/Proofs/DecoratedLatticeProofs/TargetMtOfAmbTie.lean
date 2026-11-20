@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.HilbertRowConditions.CenterIdempotentAction
-import Formalism.LocalToGlobal.Divisibility.ProjLemmas
-import Formalism.LocalToGlobal.GlobalTheory.HLatOpsP
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.SlopeStep
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.FiniteDimensionalMram
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsIsConjAtOfEmbedding

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HaarMeasureIwasawaQuotient
-import Mathlib
 
 open MeasureTheory Topology
 open scoped NNReal ENNReal

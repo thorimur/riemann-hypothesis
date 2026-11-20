@@ -1,6 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.LamProdMonomial
 import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.RestCountOf
-import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.FiniteRestrictSupport
+import Mathlib.Order.Interval.Finset.Box
 
 noncomputable section
 

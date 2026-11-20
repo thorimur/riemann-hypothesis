@@ -1,4 +1,4 @@
-import Formalism.WachLatticeTwists.DenseTopActions.DenseTopActionProofs.OneAddPowSubOne
+import Formalism.WachLatticeTwists.DenseTopActions.Statement
 
 noncomputable section
 

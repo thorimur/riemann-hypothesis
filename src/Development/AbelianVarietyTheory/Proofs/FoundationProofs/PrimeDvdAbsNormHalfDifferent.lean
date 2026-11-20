@@ -1,11 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CyclotomicBounds.RamifiedDiscriminants.HalfNorm
 import Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.TwistCoverDesign
 import Formalism.LocalToGlobal.IndefiniteReal.OneMapT
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.DiscrB
-import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.DiscriminantRealSubfield
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.ModelLatIn
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IdealPeriodLatticeOfCurveDatum
 
 noncomputable section
 

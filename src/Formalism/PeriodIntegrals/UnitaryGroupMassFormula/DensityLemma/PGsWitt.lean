@@ -2,9 +2,7 @@ import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DensityLemma.GfEqOfZhat
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DensityLemma.PFlWitt
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FibreOrbits.FibreOrbitOf
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FixedFrameProperty
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.MajorantEstimate
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FixedPointsGramVector
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.HermitianFormFlagVector
 
 open MeasureTheory Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.C6
 

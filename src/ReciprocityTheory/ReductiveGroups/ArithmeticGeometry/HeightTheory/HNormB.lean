@@ -1,7 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.ValNorm
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.ValUFD
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.HNormA
-import ReciprocityTheory.SemistableReduction.AlgAll
 
 namespace ReciprocityTheory.ChartRestriction.G.T0
 

@@ -1,7 +1,4 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.KillWinFromCut
-import Formalism.SharpRestriction.LevelLetterCocycles.PsCoprimeOf
-import Formalism.SharpRestriction.LevelLetterCocycles.SaturationUnramifiedOfRingCondition
-import Formalism.SharpRestriction.LevelLetterCocycles.SaturationPullbackOfRingCondition
 
 namespace Formalism.MainNotions.UnusedSlot80.RatAlg
 

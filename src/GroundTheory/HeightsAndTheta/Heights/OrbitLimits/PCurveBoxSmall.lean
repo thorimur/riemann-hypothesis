@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsCurveBoxSmall
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.CurveOrbitEmbedding
 set_option maxSynthPendingDepth 1

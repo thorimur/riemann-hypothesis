@@ -1,7 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GL2.GJFEBlockKernel
-import GroundTheory.AutomorphicForms.SmoothRepContragredient
 import GroundTheory.AutomorphicForms.CompactModCentre
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
 
 noncomputable section
 

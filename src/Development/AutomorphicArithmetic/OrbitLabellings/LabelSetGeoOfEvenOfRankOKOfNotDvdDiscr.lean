@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.OrbitLabellings.RowDefs
-import Formalism.LocalToGlobal.CharacterGerms.RowTieMemCFin
 import Formalism.LocalToGlobal.CharacterGerms.RowTieFlagS
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.BiextensionNondegenerateModMaximalIdealIntegralCStatement
 import Development.AutomorphicArithmetic.OrbitLabellings.LabelSetGeoOfLabelSetArith

@@ -1,5 +1,3 @@
-import Mathlib
-import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PartsPiola
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StMaDensChain
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PMaDensLeibniz
 set_option maxSynthPendingDepth 1

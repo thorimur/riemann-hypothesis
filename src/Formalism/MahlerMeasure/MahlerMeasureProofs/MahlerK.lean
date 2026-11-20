@@ -1,5 +1,8 @@
 import Formalism.MahlerMeasure.StatementD
 import Formalism.MahlerMeasure.MahlerMeasureProofs.Mahler
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace Formalism.GM
 

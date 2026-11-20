@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.LocCoh
+import Mathlib.RepresentationTheory.Invariants
 open Formalism Formalism.WeaklyAdmissibleFiltrations Formalism.MainNotions.N Module
 
 namespace GlobalTheory

@@ -1,7 +1,6 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.ElementDenominator
 import Formalism.PadicSubsetSums.StableGradedCounts.ARCReuse
-import Formalism.PadicSubsetSums.StableGradedCounts.DividedPowerCoeffValuation
-import Formalism.PadicSubsetSums.StableGradedCounts.FrobeniusDifferenceDividedPower
+import Mathlib.RingTheory.OrderOfVanishing.Basic
 
 noncomputable section
 

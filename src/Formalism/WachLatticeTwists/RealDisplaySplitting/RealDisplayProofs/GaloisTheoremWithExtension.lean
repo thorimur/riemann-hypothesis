@@ -1,5 +1,7 @@
 import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.RealDisplayAllWAOf
 import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.IdempotentRankOneAtPoint
+import Formalism.WachLatticeTwists.RamifiedBlockRings.RamifiedBlockProofs.ChainWithExtensionOfSplit
+import Formalism.WachLatticeTwists.RealDisplaySplitting.RealDisplayProofs.SurjectionOfRankOneIdempotent
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

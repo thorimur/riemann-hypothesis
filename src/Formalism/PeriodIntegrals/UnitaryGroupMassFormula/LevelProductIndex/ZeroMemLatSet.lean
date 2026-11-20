@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SatakeDualWeyl.StatementC
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelProductIndex.Development
 
 open Matrix NumberField IsDedekindDomain

@@ -1,6 +1,6 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.MapEqOfProdEq
-import Formalism.SharpRestriction.LevelLetterCocycles.SecondPropositionEveryLocalisation
-import Formalism.SharpRestriction.LevelLetterCocycles.IdempotentChoiceDepthZero
+import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
+import Formalism.WachLatticeTwists.RamifiedBlockRings.RightIdealImageOfSurjective
 
 noncomputable section
 

@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.GlobalFields.LocalFieldAtPlace
 import GroundTheory.GlobalFields.KummerTheory.LocalIndex
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.RingTheory.RootsOfUnity.EnoughRootsOfUnity
 
 namespace GroundTheory.Global
 

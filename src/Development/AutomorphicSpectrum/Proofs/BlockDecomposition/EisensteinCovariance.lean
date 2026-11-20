@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.BlockMatrixMul
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WeilRepresentationCovarianceLevi
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TraceInnerMul
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HalfTrAddSwap

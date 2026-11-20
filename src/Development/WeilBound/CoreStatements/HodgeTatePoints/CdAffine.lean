@@ -1,6 +1,5 @@
 import Development.WeilBound.CoreStatements.HodgeTatePoints.CdChart
 import Development.WeilBound.CoreStatements.HodgeTatePoints.CdFrame
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdAd
 
 noncomputable section
 namespace PositivityTheory.HtPt.Cd

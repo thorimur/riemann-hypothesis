@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.LatticePoisson
+import Mathlib.Tactic.ENatToNat
 
 open Module
 open scoped RealInnerProductSpace FourierTransform SchwartzMap

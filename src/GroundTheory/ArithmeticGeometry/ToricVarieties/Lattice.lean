@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.ToricVarieties.ExistsDualNegOfNotMemHullFinset
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.LinearAlgebra.Dual.BaseChange
+import Mathlib.Tactic.Polynomial.Basic
 
 namespace GroundTheory.Arith.Toric
 

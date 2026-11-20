@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSEJSliceCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutSH2
 
 open MeasureTheory Filter Topology

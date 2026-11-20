@@ -1,8 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.DivisorFrames.FlagCarriesEigenframe
-import Development.AutomorphicArithmetic.LocalEmbeddings.ConsAgree
 import Development.AutomorphicArithmetic.LocalEmbeddings.ConsMatch
-import Development.AbelianVarietyTheory.PublishedTheorems.SemiabelianTori.GeometricallyConnectedSplitTorusAff
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalSystemModelMap
 open AlgebraicGeometry CategoryTheory Limits NumberField IsLocalRing
 open ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.L2.Pj GlobalTheory.LocM GlobalTheory.Toroidal GlobalTheory.ShFam GlobalTheory.ShFam.Pad

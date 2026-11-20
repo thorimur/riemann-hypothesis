@@ -1,9 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SecondChernDensity
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagBundleAffinePolynomialCoords
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CellChart
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsCellFrameOfSpans
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtalePolynomialSubstitution
 
 open CategoryTheory AlgebraicGeometry TopologicalSpace Filter Topology MeasureTheory Matrix NumberField
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor

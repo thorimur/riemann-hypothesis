@@ -1,6 +1,6 @@
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ImportsAlt
-import GroundTheory.PAdicHodge.TiltValuation
 import Development.AbelianVarietyTheory.CrystallinePeriods.RingBasics
+import GroundTheory.PAdicHodge.PerfectoidField
 open Formalism.Per GlobalTheory.PSer
 open scoped Formalism.Per
 

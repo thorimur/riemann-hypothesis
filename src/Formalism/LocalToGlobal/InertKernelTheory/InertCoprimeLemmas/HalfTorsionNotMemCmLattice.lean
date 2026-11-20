@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.InertKernelTheory.StatementCurve
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.BaseEx
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuadraticDedekindZeta.LocOdd

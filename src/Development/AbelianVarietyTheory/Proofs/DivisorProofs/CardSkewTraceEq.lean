@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GoodRing
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewTangentReductionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryLieAlgebraFiniteCardStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GoodFormResidueFieldDataStatement

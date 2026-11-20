@@ -1,6 +1,7 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.SExpDefs
-import GroundTheory.GlobalFields.TateThesis.EulerFactorsFourierInfinite
-import GroundTheory.GlobalFields.IdeleGroups.ClassGroup
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MkMemAdmissibleAtIffCocycle
+import Formalism.SharpRestriction.GrowthBounds.MonomialOrderSegments.BrData
+import GroundTheory.GlobalFields.TateThesis.EulerFactorsInfinite
 
 noncomputable section
 

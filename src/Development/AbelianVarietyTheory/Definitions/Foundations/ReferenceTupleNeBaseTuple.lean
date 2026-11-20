@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataTheta
 import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 import Development.AbelianVarietyTheory.Definitions.Foundations.TrueColumnChoicesHeckeCharReferenceEqOne
 

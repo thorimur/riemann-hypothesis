@@ -1,9 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.PullHlComp
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsContinuousForgetForget
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullPreservesFiniteLimits
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.FiniteMaximalSpectrumOfFiniteOfIsLocalRing
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.PullHXApply
+import Mathlib.AlgebraicGeometry.Sites.EtalePoint
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite IsLocalRing

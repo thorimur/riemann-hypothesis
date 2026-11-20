@@ -1,8 +1,6 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.GramFormula
 import Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.UnitaryInverseIdentity
 import Formalism.GL3MeanSquares.HookFormulaTorsion.SquareEqDiagOfQuadraticEven
-import Mathlib
-import Formalism.GL3MeanSquares.HookFormulaTorsion.CharacterExistsAllEmbeddings
 
 noncomputable section
 open scoped BigOperators

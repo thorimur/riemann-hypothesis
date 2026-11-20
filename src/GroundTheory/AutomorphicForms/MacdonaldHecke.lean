@@ -1,9 +1,6 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.MacdonaldAlternant
-import GroundTheory.AutomorphicForms.SatakeNormalized
 import GroundTheory.AutomorphicForms.WhittakerGroups
 import GroundTheory.AutomorphicForms.AffineBruhat
-import GroundTheory.AutomorphicForms.MeasuresGL
 
 noncomputable section
 

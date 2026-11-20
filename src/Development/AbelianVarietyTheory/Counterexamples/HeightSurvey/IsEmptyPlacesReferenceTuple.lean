@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.BesselHermitianTheta.TiedMY
 import Formalism.LocalToGlobal.BesselHermitianTheta.TiedWeilUnr
 

@@ -1,8 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFCoreNS
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFTopForm
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFTopDom
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutLimENF
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutDec
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFHatProdKBStmt
 
 namespace Formalism.FourierDecayAlt.P.CutBP
 

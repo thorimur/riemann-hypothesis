@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.WeylProd
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace PI.WeylProdWork
 

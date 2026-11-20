@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.SchurIrreducible
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
 
 noncomputable section
 namespace GlobalTheory.PolarU

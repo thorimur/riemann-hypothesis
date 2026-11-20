@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.QcohLocal
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.InvertibleDual
+import Mathlib.CategoryTheory.Sites.LocalSite
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

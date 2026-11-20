@@ -1,6 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ArchimedeanSchwartz.HodgeTateFromSandwich
 import GroundTheory.AutomorphicForms.GL2.GJStandardLDual
-import GroundTheory.GlobalFields.TateThesis.RootNumberLocalPlace
 
 attribute [-instance] Formalism.DoubleCosetMeasures.instMeasGL
 open scoped Classical

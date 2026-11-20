@@ -1,9 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GPowPf
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.BoxRosati
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.PowOActOfGlobalFns
 import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.PsiInOfComponent
-import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.GlobalFnsHolds
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.PowerSeriesDvrAdmissibleXIdeal
 
 set_option autoImplicit false

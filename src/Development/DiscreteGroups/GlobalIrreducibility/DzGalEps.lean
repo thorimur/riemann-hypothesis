@@ -1,4 +1,3 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.OneRatio
 import Development.DiscreteGroups.GlobalIrreducibility.DzGalSplit
 import Development.DiscreteGroups.GlobalIrreducibility.DzGalKappa

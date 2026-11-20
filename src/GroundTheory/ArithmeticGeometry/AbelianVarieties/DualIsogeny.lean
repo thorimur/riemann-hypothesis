@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisorsTranslate
 
 namespace GroundTheory.Arith.Abelian

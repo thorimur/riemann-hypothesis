@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms.InfiniteAdeleRingMapInfiniteAdeleRingMap
 import GroundTheory.GlobalFields.SecondInequality.Statement
+import Mathlib.RingTheory.PicardGroup
 
 namespace GroundTheory.Global
 

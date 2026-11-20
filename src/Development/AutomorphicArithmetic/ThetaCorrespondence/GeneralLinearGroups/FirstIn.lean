@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.ThetaCorrespondence.GeneralLinearGroups.CasselmanSuffTemp
 
 noncomputable section

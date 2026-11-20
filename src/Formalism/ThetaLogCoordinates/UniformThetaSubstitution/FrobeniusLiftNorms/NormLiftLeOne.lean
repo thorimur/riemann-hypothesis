@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FirstDeriv
+import Mathlib.RingTheory.WittVector.IsPoly
 
 noncomputable section
 

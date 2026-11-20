@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.GroupLattices.LevelGatherings.CompletionIntegersIff
 import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.LevGapLoc
+import Formalism.LocalToGlobal.HermitianColumns.InLocalDiscriminantKernel
 
 noncomputable section
 

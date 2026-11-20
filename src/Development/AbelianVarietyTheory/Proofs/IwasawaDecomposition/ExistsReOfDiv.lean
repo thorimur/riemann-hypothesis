@@ -1,8 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsSameFOfDiv
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SIsoReD
-import Formalism.LocalToGlobal.BesselHermitianTheta.MinfDensity
-import Formalism.LocalToGlobal.IndefiniteReal.HeckeNonvanishing.Imports
 
 noncomputable section
 

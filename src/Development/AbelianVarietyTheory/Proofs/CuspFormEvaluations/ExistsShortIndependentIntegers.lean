@@ -1,6 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.Transference
 import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.FinrankMulDiscrRpowLeSumSqOfMemTraceDual
+import Mathlib.Analysis.InnerProductSpace.Dual
 
 open NumberField Module Submodule
 open scoped nonZeroDivisors

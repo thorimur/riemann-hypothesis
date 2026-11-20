@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CupProducts.Functoriality
+import GroundTheory.ProfiniteCohomology.CohomologyFunctoriality.Naturality
 set_option maxSynthPendingDepth 1
 
 noncomputable section

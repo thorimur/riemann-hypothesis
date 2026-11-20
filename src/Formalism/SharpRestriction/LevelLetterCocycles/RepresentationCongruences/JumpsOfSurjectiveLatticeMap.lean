@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.RepresentationCongruences.ExistsGaloisExtendingAlgHom
+import Formalism.SharpRestriction.LevelLetterCocycles.BaseChangePreservesUnitaryOf
 
 noncomputable section
 

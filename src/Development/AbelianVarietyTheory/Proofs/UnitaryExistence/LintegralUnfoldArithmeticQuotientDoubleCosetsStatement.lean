@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.LintegralUnfoldArithmeticQuotientDoubleCosets
-import Mathlib
 open MeasureTheory Topology Matrix
 open scoped ENNReal
 set_option maxHeartbeats 1000000 in

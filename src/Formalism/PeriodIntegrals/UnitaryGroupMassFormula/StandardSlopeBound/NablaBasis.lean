@@ -1,5 +1,4 @@
 import Formalism.PeriodIntegrals.HookBound
-import Formalism.LocalToGlobal.Columns.CoefficientsModP.WeTransposeWordTransposeWord
 
 noncomputable section
 

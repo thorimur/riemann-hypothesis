@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.RealisedOfCoordArc
-import Formalism.SharpRestriction.LevelLetterCocycles.CrystallineMapLemmas
+import Formalism.SharpRestriction.LevelLetterCocycles.WachCoordinates
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.UnitaryHaarProducts.LocalWeightCharts.WavePacketL1L2
+import Formalism.SharpRestriction.CuspSpanNormBounds.CayleySignature
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

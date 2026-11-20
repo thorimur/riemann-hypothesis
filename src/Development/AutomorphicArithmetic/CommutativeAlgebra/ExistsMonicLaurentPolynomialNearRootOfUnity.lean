@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.GoodRoot
+import Mathlib.RingTheory.IntegralClosure.Algebra.Ideal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 noncomputable section
 open IsLocalRing UpperTheory.Et
 

@@ -1,8 +1,7 @@
-import Mathlib
 import GroundTheory.PAdicHodge.LocalBridge
-import GroundTheory.PAdicHodge.ACrisGalois
 import GroundTheory.LocalFields.Unramified
 import GroundTheory.LocalFields.PrincipalUnitsRank
+import GroundTheory.PAdicHodge.FactorizationFactorialLe
 set_option maxSynthPendingDepth 1
 
 noncomputable section

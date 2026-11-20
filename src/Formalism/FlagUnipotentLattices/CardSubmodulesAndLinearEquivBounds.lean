@@ -1,6 +1,8 @@
-import Mathlib
 import Formalism.HyperbolicPlaceProducts.Statement
 import Formalism.HyperbolicPlaceProducts.DetIndexProductHyperbolicInequality
+import Mathlib.NumberTheory.NumberField.ClassNumber
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Separation.CompletelyRegular
 
 open Module Matrix
 open scoped BigOperators ComplexConjugate

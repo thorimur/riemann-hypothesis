@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.GenusGluing.GenusApproximation.Statement
+import Formalism.LocalToGlobal.Columns.Adelic
+import Formalism.LocalToGlobal.GenusGluing.GenusApproximation.ComplF
 
 noncomputable section
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeromorphicIdentityContinuation
-import Mathlib
 open MeasureTheory Filter Topology
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.meromorphic_identity_continuation : ∀ (f₁ f₂ : ℂ → ℂ) (c : ℝ),

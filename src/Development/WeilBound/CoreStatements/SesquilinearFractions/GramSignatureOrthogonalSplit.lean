@@ -1,5 +1,9 @@
 import Development.WeilBound.CoreStatements.SesquilinearFractions.QReInr
 import Development.WeilBound.CoreStatements.SesquilinearFractions.ImIMulDivSq
+import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.SesqSesquilinearSkewHermitianStatement
+import Development.WeilBound.CoreStatements.SesquilinearFractions.EqZeroOfCoef
+import Development.WeilBound.CoreStatements.SesquilinearFractions.ExistsNsmulMemSpanFullFamily
+import Development.WeilBound.CoreStatements.SesquilinearFractions.PerDiscrete
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
 open Matrix GlobalTheory GlobalTheory.CompanionTheory.Ar GlobalTheory.CompanionTheory.Ar.Fl

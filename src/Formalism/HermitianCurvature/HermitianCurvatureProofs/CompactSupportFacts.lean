@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.StatementTL
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelFormSesquilinearFiniteClass
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ThetaCompactSupport
 
 namespace Formalism.FourierDecayAlt.P
 

@@ -1,7 +1,5 @@
 import Formalism.PeriodIntegrals.HookBound
-import Formalism.GradedWeylDivisibility.DualWeylDominanceOf
-import Formalism.GradedWeylDivisibility.FinalB
-import Formalism.PieriBlockIdeals.PieriColumnMinors.HeightDescentMinors
+import Formalism.PieriBlockIdeals.CapelliCentralEnveloping
 
 noncomputable section
 

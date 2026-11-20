@@ -1,10 +1,10 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LatAtLattice
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.MemPrinCongOfSm
 import Formalism.LocalToGlobal.Columns.RecLevelLoc
-import Formalism.LocalToGlobal.GroupLattices.LevelCharts.SplitStab
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SplitIntLoc
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MemIdSOfResSEqZero
+import Formalism.LocalToGlobal.GroupLattices.LevelCharts.JoinForms
+import Formalism.LocalToGlobal.HermitianForms.DefsGH
+import Formalism.LocalToGlobal.HermitianForms.DefsSym
 
 noncomputable section
 

@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IsometryDeterminant.SpanSingletonAlgebraMap
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IsometryDeterminant.LocalPi
+import Mathlib.Data.ENat.BigOperators
 
 noncomputable section
 

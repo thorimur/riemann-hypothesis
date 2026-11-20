@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.FiniteIndexOfGammaLe
 import GroundTheory.GlobalFields.ComplexMultiplication.JInvariantHomothety
 
 open UpperHalfPlane Filter GlobalTheory.OddFrame

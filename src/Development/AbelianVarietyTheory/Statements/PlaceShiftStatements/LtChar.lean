@@ -1,6 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.LtSeries
-import Development.AbelianVarietyTheory.Statements.WeilDeligneCrystalline.ColmezLT
+import Formalism.LocalRingCardinality.AdicCompletionLocal.LocTied
 
 noncomputable section
 

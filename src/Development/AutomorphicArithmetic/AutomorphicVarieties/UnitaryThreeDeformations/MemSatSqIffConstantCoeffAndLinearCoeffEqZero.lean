@@ -1,5 +1,7 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.AbsDefs
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.KerPow
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.TotallySplit
 open IsLocalRing MvPowerSeries UpperTheory.V.Alg UpperTheory.V.UnitaryThreeInertia.Abs
 
 private lemma order_of_mem_sq {O σ : Type} [CommRing O] (I : Ideal (MvPowerSeries σ O))

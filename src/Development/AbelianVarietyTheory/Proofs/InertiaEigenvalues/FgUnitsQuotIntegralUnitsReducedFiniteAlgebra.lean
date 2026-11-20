@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.UnitLemmaGroup
+import Mathlib.Algebra.Group.Pi.Units
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

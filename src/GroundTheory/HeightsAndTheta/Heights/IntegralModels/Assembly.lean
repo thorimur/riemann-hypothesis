@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PBlowUpChart
-import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PBundlesAgree
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PChartBundlesAgree
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PChartGlue
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PClearDenominators
@@ -10,7 +8,6 @@ import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PGenericGermInjective
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PGenericSections
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PGlueBundles
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PGlueModulesStar
-import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PHeightOneIntersection
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PHeightOneSections
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PInvOpenInside
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PInvOpenInsideRat
@@ -21,8 +18,6 @@ import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PMertensUpper
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PPrimeOpensCover
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PPullbackFaithful
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PRatLocalAffine
-import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSectionNef
-import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadBundle
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadBundleNbhd
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadHom
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadHomInj
@@ -32,7 +27,6 @@ import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadLocal
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSumCp
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PTorsionFreeQuotientLength
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PVectorBundleLocal
-import GroundTheory.HeightsAndTheta.Heights.IntegralModels.PVectorBundleRestrict
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.ComapEqMaximalIdeal
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.GenericImageEqGermImage
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.IsVectorBundleIffModel

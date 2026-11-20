@@ -1,6 +1,5 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.HodgeSurjectivity.CosieveRes
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.CechPairings.Imports
+import Mathlib.Tactic.ENatToNat
 
 set_option autoImplicit false
 set_option backward.isDefEq.respectTransparency false

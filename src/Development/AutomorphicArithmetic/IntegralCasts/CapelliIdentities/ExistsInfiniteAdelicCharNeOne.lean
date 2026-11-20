@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.AdelicCharLocal
 
 theorem UpperTheory.Reformulated.B.Rd3.exists_infiniteAdelicChar_ne_one :

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MemOfCoeff
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.EigenMem
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ProdMulMem

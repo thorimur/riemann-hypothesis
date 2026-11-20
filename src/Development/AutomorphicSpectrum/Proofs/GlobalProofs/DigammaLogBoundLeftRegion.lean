@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.DigammaLogBoundRightHalfPlaneStatement
+import Mathlib.Analysis.Real.Pi.Bounds
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace GlobalTheory.CompanionTheory.DigammaLeft
 

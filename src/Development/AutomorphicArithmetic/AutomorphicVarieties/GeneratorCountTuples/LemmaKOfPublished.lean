@@ -1,7 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.Reduction
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.TorsMain
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DepthZeroSupport
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PoitouTateDualityOfNormalised
 
 open Formalism.GaloisCohomology
 

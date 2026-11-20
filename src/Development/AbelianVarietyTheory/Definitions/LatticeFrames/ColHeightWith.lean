@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.TopPlaceLogTheta
-import Formalism.LocalToGlobal.Columns.ToHLat
-import Formalism.HarderNarasimhan.QuotRealize
 
 noncomputable section
 

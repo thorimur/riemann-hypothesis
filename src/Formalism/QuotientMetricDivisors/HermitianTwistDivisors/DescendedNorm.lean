@@ -1,7 +1,7 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.HeightBoundExactNorms
-import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ReductionThirdStepMean
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SlopeIneqMean
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.TotallySplit
 
 open Module NumberField
 open scoped Matrix ComplexOrder InnerProductSpace

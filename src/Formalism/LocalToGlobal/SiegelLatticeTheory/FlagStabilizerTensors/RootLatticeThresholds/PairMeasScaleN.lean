@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.SpanMemOfImage
-import Formalism.SharpRestriction.CuspSpanNormBounds.FrobeniusCoefficientMemLp.FramesTurn
 
 noncomputable section
 

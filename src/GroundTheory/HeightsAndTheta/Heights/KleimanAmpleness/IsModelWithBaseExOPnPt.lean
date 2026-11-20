@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.BaseComap
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.NefGenericDVRSt
 set_option maxSynthPendingDepth 1

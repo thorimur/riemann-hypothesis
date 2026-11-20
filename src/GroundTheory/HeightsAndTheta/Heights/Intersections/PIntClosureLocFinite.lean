@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StIntClosureLocFinite
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StRelAlgClosureFinite
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.Assembly

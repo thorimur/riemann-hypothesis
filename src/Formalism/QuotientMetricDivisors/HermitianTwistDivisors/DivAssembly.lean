@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.QuotientMetricDivisors.ProdFormula
 import Formalism.QuotientMetricDivisors.StatementJ
 
 open Finset

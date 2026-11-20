@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.ThDistC
-import Formalism.LocalToGlobal.Divisibility.CoefMod
 import Formalism.LogFactorialIndices.StatementSize
 
 noncomputable section

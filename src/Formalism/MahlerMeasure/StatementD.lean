@@ -1,4 +1,5 @@
-import Formalism.MahlerMeasure.StatementB
+import Formalism.MahlerMeasure.Statement
+import Mathlib.NumberTheory.Padics.PadicIntegers
 
 namespace Formalism.GM
 

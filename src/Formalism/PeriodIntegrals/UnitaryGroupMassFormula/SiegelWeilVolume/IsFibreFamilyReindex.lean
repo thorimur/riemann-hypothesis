@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SiegelWeilVolume.FibMeas0Holds
 
 noncomputable section

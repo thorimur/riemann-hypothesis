@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SmithMat
 
 noncomputable section

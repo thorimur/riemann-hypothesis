@@ -1,6 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.BijOfIso
 import Development.EtaleCohomology.EtaleSheaves.TruncKerPf
-import Development.EtaleCohomology.EtaleSheaves.LocalDescent.DescLocOf
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC LateralTheory.E.t_E3Cut LateralTheory.E.StalkCut LateralTheory.E.DescLocPf

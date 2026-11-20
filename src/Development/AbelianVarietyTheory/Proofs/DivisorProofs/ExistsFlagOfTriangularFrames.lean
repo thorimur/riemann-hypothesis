@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTriSelf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.QuotientBundleFrameExists
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniREqUni
 
 set_option autoImplicit false
 

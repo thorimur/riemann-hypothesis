@@ -1,7 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsSemilocIntegral
-import GroundTheory.HeightsAndTheta.Heights.Intersections.StValCentreZ
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StCentreOverW
+import Mathlib.RingTheory.Valuation.LocalSubring
 set_option maxSynthPendingDepth 1
 
 noncomputable section

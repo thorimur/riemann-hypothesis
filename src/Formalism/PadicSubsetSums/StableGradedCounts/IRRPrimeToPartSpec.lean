@@ -1,4 +1,7 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.GaloisIrreducibility
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
 

@@ -2,6 +2,9 @@ import Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.Cons
 import Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.CycloSimple
 import Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.CycloDist
 import Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PiSeries
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Data.Rat.Star
 
 noncomputable section
 

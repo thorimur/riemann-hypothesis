@@ -1,8 +1,8 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.IsChainFirst
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGrassFibreDegree
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PConsequences
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.PHFlProdLinear
+import GroundTheory.HeightsAndTheta.Heights.HeightComparison.GeoNum
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterNamed
 set_option maxSynthPendingDepth 1
 
 noncomputable section

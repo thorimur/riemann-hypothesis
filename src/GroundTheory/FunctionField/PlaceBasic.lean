@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.FunctionField.PlaceDefs
+import Mathlib.RingTheory.Valuation.LocalSubring
 
 namespace GroundTheory.FunctionField
 

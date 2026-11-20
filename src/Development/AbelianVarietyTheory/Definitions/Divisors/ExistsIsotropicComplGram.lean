@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilRangeOfSteps
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.GramOfIsWittBasis
 

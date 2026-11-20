@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsBasisIsoFree
 set_option maxSynthPendingDepth 1
 

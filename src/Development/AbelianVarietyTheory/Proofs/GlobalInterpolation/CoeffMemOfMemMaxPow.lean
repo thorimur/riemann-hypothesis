@@ -1,15 +1,8 @@
-import Mathlib
 import Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LiftInvariantsFinrankEq
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.CoeffXMulPart
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.MonomialOneMem
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.MaximalIdealLeFiltOne
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FiltLePow
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NoethLocalHausdorff
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.Imports
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ImportsAlt
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.EqXMulShiftAdd
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.MemPowOfCoeffMem
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ImportsBis
+import Mathlib.RingTheory.MvPowerSeries.Equiv
 
 noncomputable section
 

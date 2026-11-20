@@ -1,4 +1,6 @@
-import Formalism.LocalToGlobal.CharacterGerms.IndependenceBoundRaw
+import Formalism.LocalToGlobal.CharacterGerms.Interface
+import Mathlib.RingTheory.MvPowerSeries.Derivative
+import Mathlib.RingTheory.PowerSeries.Basic
 
 noncomputable section
 

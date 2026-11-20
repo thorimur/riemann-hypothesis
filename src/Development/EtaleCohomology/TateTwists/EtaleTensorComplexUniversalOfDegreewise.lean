@@ -1,5 +1,4 @@
 import Development.EtaleCohomology.TateTwists.EtaleTensorPairingDegreewiseUniversalOfSheafific
-import Development.EtaleCohomology.TateTwists.EtaleTensorUniversalPropertyOfDegreewise
 
 namespace LateralTheory.Fin.EtaleTensorPairUniversalProperty
 theorem etale_tensor_complex_degreewise_universal : LateralTheory.EtaleFoundations.EtaleTensorDegreewiseMapExists := by

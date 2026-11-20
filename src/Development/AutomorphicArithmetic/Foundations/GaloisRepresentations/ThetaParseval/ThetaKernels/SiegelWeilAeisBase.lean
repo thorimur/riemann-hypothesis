@@ -1,6 +1,6 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.AdelicEisensteinSeries.GodementSumW
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.SplitStab
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.IsLatRepL
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EisensteinSeriesConvergent
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeightContinuousPos
 
 set_option synthInstance.maxHeartbeats 200000
 

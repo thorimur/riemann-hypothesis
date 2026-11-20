@@ -1,5 +1,4 @@
 import Development.WeilBound.CoreStatements.VolumeEquality.DegPushAsm
-import Development.WeilBound.CoreStatements.VolumeEquality.DegPushDim
 import Development.WeilBound.CoreStatements.VolumeEquality.DegPushPullB
 import Development.WeilBound.CoreStatements.VolumeEquality.DegPushUnit
 import Development.WeilBound.CoreStatements.VolumeEquality.DegPushNumEq

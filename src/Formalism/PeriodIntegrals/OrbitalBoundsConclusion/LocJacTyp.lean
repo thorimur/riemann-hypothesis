@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.LocJacTyp
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalJacobianType.LocJacTypClosed
 
 theorem locJacTyp {F E : Type} [Field F] [NumberField F] [Field E] [NumberField E] [Algebra F E]

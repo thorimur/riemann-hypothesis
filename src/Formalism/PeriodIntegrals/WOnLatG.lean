@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.WPhDefs
+import Formalism.PeriodIntegrals.ThGDefs
 
 namespace PI
 

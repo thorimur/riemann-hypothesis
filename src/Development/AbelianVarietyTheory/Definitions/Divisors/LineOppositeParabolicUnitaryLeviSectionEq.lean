@@ -1,9 +1,10 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.MatrixMeasurableSpace
-import Development.AbelianVarietyTheory.Definitions.Foundations.SmoothPartStable
 import Formalism.SatakeDualWeyl.StatementF
-import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.IsSubquotientDetRepParInd
 import Development.AbelianVarietyTheory.Definitions.Divisors.EqOfHasValueAtInfinite
+import Mathlib.Data.Int.Star
+import Mathlib.MeasureTheory.Measure.Haar.MulEquivHaarChar
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.RepresentationTheory.Coinvariants
+import Mathlib.Topology.Algebra.Group.Units
 
 open MeasureTheory Matrix
 open scoped NNReal TensorProduct

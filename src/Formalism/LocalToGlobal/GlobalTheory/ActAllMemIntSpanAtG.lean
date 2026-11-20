@@ -1,7 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.ElemZeroZeroMulApply
 import Formalism.SharpRestriction.GlobalSchurBounds.TotallyPositiveTraceGeOfNormDiscr
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.LClosedeqLemmas
-import Formalism.GradedWeylDivisibility.FinalD
 
 open MvPolynomial
 

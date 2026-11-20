@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.FoldDCUnfold
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FoldUnfold
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FoldingUnfolding.FoldDCUnfoldOf
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FoldingUnfolding.TranslationIndependent

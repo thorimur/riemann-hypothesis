@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFlagBundleIff
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CellColumnsFrame
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PullbackFrameEndomorphismMatrixStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMatrixUnitsIrreducibleStatement

@@ -1,10 +1,5 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.EmbeddingTypes
 import Development.AutomorphicArithmetic.ResidueCharacters.TwoRoot
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SplitPrimeImpliesPlacesSplit
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CmHalfTypePlacesMeetConjugatePairsAndCount
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsSplitPlacesDeclarationSplitRowPrime
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugatePlaces
 
 noncomputable section
 

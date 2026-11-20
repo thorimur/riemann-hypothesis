@@ -1,4 +1,8 @@
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.DerAlong
+import Formalism.LocalRingCardinality.DataHost
+import Mathlib.Analysis.Real.Pi.Bounds
+import Mathlib.NumberTheory.ZetaValues
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
 open Formalism.BasicNotions Formalism.BasicNotions.TH Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes Formalism.L2.Theta Formalism.IndefR Formalism.IndefR.Links Formalism.IndefR.Mult Formalism.IndefR.Datum MeasureTheory NumberField Matrix
 open GlobalTheory.IndefiniteRowSideFullHecke.AdjointIsotropicDecomposition GlobalTheory.MixedTerm
 attribute [local instance] Formalism.BasicNotions.Host.cmStar

@@ -1,4 +1,9 @@
 import Formalism.UnipotentAdelicQuotients.EllRegCut
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace ZetaZeros.D.EllReg
 

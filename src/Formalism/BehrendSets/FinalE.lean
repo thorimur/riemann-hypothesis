@@ -1,10 +1,4 @@
-import Formalism.BehrendSets.BehrendVariance.TwoPowDvdPowTwoPowSubOne
-import Formalism.BehrendSets.BehrendVariance.TwoLeCastOfTwoLe
-import Formalism.BehrendSets.BehrendVariance.SpaceFreeOfBehrendFree
-import Formalism.BehrendSets.BehrendVariance.MemWindowIff
 import Formalism.BehrendSets.BehrendVariance.TotientLeOfIsPrimitiveRoot
-import Formalism.BehrendSets.BehrendVariance.ProdDimVNeZero
-import Formalism.BehrendSets.BehrendVariance.CoeffPowEqZeroOfLt
 
 namespace Formalism.BehrendSets.FinalE
 open Formalism.BehrendSets

@@ -2,7 +2,6 @@ import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.IsClosedOfCoh
 import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.DescEval
 import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.SumNormSqUnitary
 import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.FormHeightOneEq
-import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.StCharts
 import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.ChowDegreeSection
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Assembly
 

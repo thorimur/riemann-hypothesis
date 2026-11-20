@@ -4,6 +4,7 @@ import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.ResGAppLE
 import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.LeDimQuotientHorizontal
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ResidueDegreeOfIsClosedImmersion
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PCharacterised
+import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.SerreHolomorphicSections
 
 set_option autoImplicit false
 

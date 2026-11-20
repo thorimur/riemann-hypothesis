@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ExtFormAdjEqNegSecondForm
 
 open Matrix Complex ComplexConjugate GlobalTheory.HermFrame

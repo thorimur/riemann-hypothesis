@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.ThDistC
 import Formalism.LocalRingCardinality.DataKerI
-import Formalism.LocalToGlobal.Columns.CoefModB
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.StandardWeylLatticesFockDual
 
 open MvPolynomial Formalism.BasicNotions Formalism.L2.Col Formalism.L2.DIV Formalism.L2.Ker NumberField IsDedekindDomain

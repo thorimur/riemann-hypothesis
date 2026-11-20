@@ -1,4 +1,7 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.SRelOneOneIff
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.Clauses
 open ReciprocityTheory.ChartRestriction.G.Geo.Tor
 
 namespace GlobalTheory.SympModN

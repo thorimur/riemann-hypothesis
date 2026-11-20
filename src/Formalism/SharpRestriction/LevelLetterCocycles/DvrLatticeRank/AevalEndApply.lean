@@ -1,6 +1,4 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.LevConstOfEv
-import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ModelFPfB
-import Formalism.SharpRestriction.LevelLetterCocycles.FrobeniusPowUniformizerFactorisation
 
 noncomputable section
 

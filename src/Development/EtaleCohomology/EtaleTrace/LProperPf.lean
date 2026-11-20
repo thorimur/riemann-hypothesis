@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleTrace.LPdCut
+import Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Proper
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 open CategoryTheory AlgebraicGeometry

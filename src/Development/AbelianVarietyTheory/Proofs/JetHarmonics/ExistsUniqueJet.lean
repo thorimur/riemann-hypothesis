@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsAlgHomValuationSubring
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLieCoordinates
 import Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.ExistsToJetEq
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 open CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj AlgebraicGeometry IsLocalRing

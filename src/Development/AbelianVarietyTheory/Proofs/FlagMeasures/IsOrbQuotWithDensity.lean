@@ -1,8 +1,6 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.LeadMinorK
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.UnipotentCoordinatesMeasurePreserving
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.Admissible
-import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ThresholdProductsBounded
+import Formalism.SharpRestriction.CuspSpanNormBounds.RootMeasBig
 
 open Formalism.FourierDecayAlt Formalism.MainNotions.S GlobalTheory.ThA Formalism.QuantumDeterminants MeasureTheory Matrix
 open Formalism.FourierDecayAlt.P.Dx2.OrbJ

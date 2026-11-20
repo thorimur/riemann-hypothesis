@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.NoetherianLocalChartOverlapFiniteComplement
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 open LateralTheory.E.StandardEtaleChartsIdempotentGluing

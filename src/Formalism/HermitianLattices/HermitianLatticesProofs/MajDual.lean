@@ -1,6 +1,6 @@
-import Mathlib
-import Formalism.HermitianLattices.StatementMaj
 import Formalism.HermitianLattices.HermitianLatticesProofs.MajLattice
+import Mathlib.RingTheory.DedekindDomain.Different
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField
 open scoped nonZeroDivisors

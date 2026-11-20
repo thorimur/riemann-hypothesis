@@ -1,12 +1,5 @@
-import Mathlib
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.ExistsIntEKMulVbar
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.GalBasic
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.ExistsDvdQKPowSubOne
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.InflationH2InjectiveOfSameRamification
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.BrBound
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.InvRes
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.EqZeroOfMemBrKerOfCoprime
-import ReciprocityTheory.ClassFieldTheory.LocalClassField.FinCoh
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField
 

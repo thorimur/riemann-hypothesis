@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL6.LatticeInclusionOfSubIntegral
 import Formalism.GradedWeylDivisibility.FinalD
+import Formalism.LocalToGlobal.HermitianForms.FormsTied
 
 noncomputable section
 

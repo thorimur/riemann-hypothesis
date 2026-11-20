@@ -1,8 +1,7 @@
-import Mathlib
 import GroundTheory.LocalFields.LubinTateReciprocity.Descent
 import GroundTheory.LocalFields.LocalAxiom
 import GroundTheory.LocalFields.AbstractLocalReciprocity.ReciprocityMap
-import GroundTheory.LocalFields.AbstractLocalReciprocity.NormFormula
+import GroundTheory.LocalFields.LubinTateTower
 
 noncomputable section
 

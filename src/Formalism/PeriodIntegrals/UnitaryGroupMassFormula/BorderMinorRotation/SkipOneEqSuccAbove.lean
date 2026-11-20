@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BorderMinorRotation.Development
+import Mathlib.Tactic.ENatToNat
 
 open Finset Formalism.REAL
 

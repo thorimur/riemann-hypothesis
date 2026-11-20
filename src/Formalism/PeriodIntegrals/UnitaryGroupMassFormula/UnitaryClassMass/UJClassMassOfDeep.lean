@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.CardStepOf
+import Mathlib.RingTheory.PiTensorProduct
 
 open NumberField PI.UJClassFin PI.UJClassMass
 

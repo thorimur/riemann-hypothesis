@@ -1,4 +1,5 @@
 import Formalism.GaussJetBounds.GaussJetProofs.AsmRDotAddRight
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 open scoped BigOperators

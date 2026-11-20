@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleTrace.FinSurjPfDense
+import Mathlib.RingTheory.MvPolynomial.Ideal
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry MvPolynomial

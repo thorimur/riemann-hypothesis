@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MaximalIdealEqJointEigen
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option autoImplicit false
 noncomputable section

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.UniformizerUnitAndQFactor
 
 noncomputable section

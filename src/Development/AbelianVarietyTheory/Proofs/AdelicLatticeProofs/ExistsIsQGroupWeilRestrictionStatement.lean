@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsQGroupWeilRestriction
-import Development.AbelianVarietyTheory.Definitions.AdelicHermitianForms.AdelicPair
 open Matrix GlobalTheory.ClassFin
 open scoped Kronecker ComplexOrder TensorProduct
 open NumberField IsDedekindDomain

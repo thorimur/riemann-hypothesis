@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.ThDistC
-import Formalism.LocalToGlobal.Columns.ScaledRamifiedLattice
 
 open NumberField IsDedekindDomain
 

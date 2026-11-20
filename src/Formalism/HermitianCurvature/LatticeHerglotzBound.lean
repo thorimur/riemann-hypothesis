@@ -1,5 +1,6 @@
-import Mathlib
 import Formalism.HermitianCurvature.StatementTB
+import Mathlib.Algebra.Module.ZLattice.Covolume
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace Formalism.FourierDecayAlt.crystallineComparison
 

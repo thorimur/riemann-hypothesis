@@ -1,7 +1,17 @@
 import Formalism.SharpRestriction.GlobalSchurBounds.FlipTwoThree
 import Formalism.LocalRingCardinality.Lemmas
 import Formalism.LogVandermondeBounds.HookGammaAmgmMultinomialBounds
-import Formalism.GL3MeanSquares.TraceIntegralityResults
+import Formalism.GL3MeanSquares.HookFormulaTorsion.BlockOperatorNormBound
+import Formalism.GL3MeanSquares.HookFormulaTorsion.HookRowProductEqFactorial
+import Formalism.GL3MeanSquares.HookFormulaTorsion.MinkowskiDivisorBound
+import Formalism.GL3MeanSquares.HookFormulaTorsion.SeparatedSetPackingBound
+import Formalism.GL3MeanSquares.HookFormulaTorsion.SquareMomentArithmeticBound
+import Formalism.GL3MeanSquares.HookFormulaTorsion.SquareMomentFromBound
+import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
+import Mathlib.Analysis.Complex.MeanValue
+import Mathlib.MeasureTheory.Measure.RegularityCompacts
+import Mathlib.Order.Interval.Finset.Box
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

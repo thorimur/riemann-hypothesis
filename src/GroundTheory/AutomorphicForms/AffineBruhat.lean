@@ -1,7 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.GLnLocal
 import GroundTheory.AutomorphicForms.GLnLattice
 import GroundTheory.AutomorphicForms.FiniteBruhat
+import Mathlib.GroupTheory.SemidirectProduct
 
 noncomputable section
 

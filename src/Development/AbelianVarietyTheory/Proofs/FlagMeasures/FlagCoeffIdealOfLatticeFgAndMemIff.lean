@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.CuspSpanNormBounds.IsPrimitiveSub
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.Ia
 
 open NumberField

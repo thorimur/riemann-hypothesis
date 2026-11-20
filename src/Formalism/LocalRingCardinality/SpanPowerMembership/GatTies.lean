@@ -1,7 +1,7 @@
 import Formalism.LocalRingCardinality.DataGatTies
 import Formalism.LocalRingCardinality.HostCls
-import Formalism.FrobeniusOrbits.HostCorollaries
 import Formalism.LocalRingCardinality.SpanPowerMembership.GatSetting
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.HostFacts
 
 noncomputable section
 

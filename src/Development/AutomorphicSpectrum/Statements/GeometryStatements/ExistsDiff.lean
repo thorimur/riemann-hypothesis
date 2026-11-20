@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.AdelicGroupAlgebraActionInjective
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.InjectiveOfIsCptGen
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsCocharLieLieModel
@@ -6,6 +5,7 @@ import Development.AbelianVarietyTheory.Definitions.ModuliSpaces.SystemPrimesDis
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.LeftEqIffLieVecSmul
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.BCRing
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.GaIsHTFormOver
+import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.HomBaseChangeBijectiveOfLeNilradical
 
 set_option backward.isDefEq.respectTransparency false
 

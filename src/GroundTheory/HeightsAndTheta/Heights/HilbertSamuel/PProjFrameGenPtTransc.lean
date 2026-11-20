@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsProjFrameGenPtTransc
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ProjFrameGraphChart
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PProjFrameFibrePt
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.LemSec
 set_option maxSynthPendingDepth 1

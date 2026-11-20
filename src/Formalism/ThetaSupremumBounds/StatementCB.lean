@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.QuotientMetricDivisors.HeightBoundExactNorms
 import Formalism.ThetaSupremumBounds.DivIneqExplicit6
 

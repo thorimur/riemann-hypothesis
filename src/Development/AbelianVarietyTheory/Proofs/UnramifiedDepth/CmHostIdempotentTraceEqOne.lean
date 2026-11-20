@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.CharacterGerms.HostTraceIdentity
+import Mathlib.Algebra.Order.Star.Real
 
 open scoped BigOperators
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.Geo.Tor.Germ Formalism.L2.Pj Formalism.L2.FormalSeriesBounds NumberField

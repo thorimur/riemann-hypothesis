@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.Columns.TiedUpDnA
+import Formalism.LocalToGlobal.HermitianForms.PrkSmul
 
 open NumberField IsDedekindDomain Module Matrix
 open scoped TensorProduct

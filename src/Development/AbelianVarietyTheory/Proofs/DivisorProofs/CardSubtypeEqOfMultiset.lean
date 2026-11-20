@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsCyclotomicExtensionQI
 
 open Matrix GlobalTheory.LKTrip Finset

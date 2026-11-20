@@ -1,5 +1,4 @@
 import ReciprocityTheory.L2DbarEstimates.SymmetricSections.Sheets
-import ReciprocityTheory.L2DbarEstimates.SymmetricSections.HoloSectionStatement
 
 namespace ReciprocityTheory.L2DbarEstimates.Norm
 

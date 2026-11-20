@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.MultiplicityOne.Injective
 import GroundTheory.AutomorphicForms.CuspidalDiscreteness
 

@@ -1,4 +1,5 @@
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.AffineGLForms.GenSpace
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.DifferentiableAtChart
+import Development.AutomorphicArithmetic.IntegralCasts.IsOpenStabOfMemNhds
 
 noncomputable section
 

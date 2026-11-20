@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.CupProducts
 import GroundTheory.ProfiniteCohomology.CupProducts.Cocycles
 set_option maxSynthPendingDepth 1
 

@@ -1,4 +1,3 @@
-import CompanionTheory.AutomorphicTheory.PadicCyclotomicFields.GcohCmp
 import CompanionTheory.AutomorphicTheory.PadicCyclotomicFields.GcohField
 import CompanionTheory.AutomorphicTheory.PadicCyclotomicFields.GcohMu
 import CompanionTheory.AutomorphicTheory.PadicCyclotomicFields.GcohTate

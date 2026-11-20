@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.StmtFields
 import Development.AutomorphicArithmetic.QuadraticCharacters.GaussRoot
+import Development.AutomorphicArithmetic.CharacterBoxes.ExistsPageN
 
 open NumberField Formalism.HC UpperTheory.Top UpperTheory.V
 

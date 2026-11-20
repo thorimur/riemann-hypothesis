@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.IsUnitOfRadOfMultEqZero
 set_option maxSynthPendingDepth 1
 

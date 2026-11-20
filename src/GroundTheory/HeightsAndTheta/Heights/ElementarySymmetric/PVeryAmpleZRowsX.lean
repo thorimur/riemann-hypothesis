@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PVeryAmpleZRows
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechPartition
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PZChartSmul

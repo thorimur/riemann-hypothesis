@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.SupportMore
+import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.QcohLocal
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL6.IntegralTensorBasisLinIndep
-import Formalism.LocalToGlobal.GlobalTheory.CoordinateLengths.PairingContinuityBound
+import Formalism.LocalToGlobal.GlobalTheory.GL6.LocalBasisChangeDecompCompatible
 
 noncomputable section
 

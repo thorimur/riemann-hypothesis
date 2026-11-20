@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.FlagImmersions.Transport
+import Mathlib.Data.Matrix.ColumnRowPartitioned
 
 noncomputable section
 

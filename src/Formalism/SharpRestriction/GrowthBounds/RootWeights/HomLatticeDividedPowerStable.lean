@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.WeightProjectionPreservesLattice
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsClearDenominators
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.WeightProjectionDiagonalApplyEqSmul
 
 noncomputable section
 

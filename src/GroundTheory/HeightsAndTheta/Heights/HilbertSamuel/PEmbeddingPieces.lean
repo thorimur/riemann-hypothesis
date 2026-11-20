@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEmbeddingPieces
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsPiecesAdditive
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsPieceDegree

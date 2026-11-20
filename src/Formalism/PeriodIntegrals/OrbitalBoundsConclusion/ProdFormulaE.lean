@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.ProdFormulaE
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ProductFormulaHaar.Assemble
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ProductFormulaHaar.HaarAlg
 

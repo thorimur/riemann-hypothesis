@@ -1,6 +1,5 @@
-import ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.SplitB
-import ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.SplitC
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.URepCompRed
+import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Unique
 
 noncomputable section
 

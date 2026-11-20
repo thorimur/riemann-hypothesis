@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.DualFockLinear.XiStepNOfP
 import Formalism.SharpRestriction.GrowthBounds.ProjectionOfIsotypicDecomposition
+import Formalism.SharpRestriction.GrowthBounds.ScaleEdges.ManyEdges
 
 noncomputable section
 

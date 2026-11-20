@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartJetTrD
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartJetSubSt
+import Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartTransportSt
 
 set_option autoImplicit false
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.StrictTransform
-import Development.ResolutionOfSingularities.Foundations.Blowup.StrictTransform
 universe u
 
 open CategoryTheory AlgebraicGeometry TopologicalSpace

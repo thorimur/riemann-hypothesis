@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.EigenOfTwoStep
 import Development.AbelianVarietyTheory.Definitions.Foundations.SiegelNeZeroIff
+import Mathlib.NumberTheory.ModularForms.LevelOne.Basic
 open scoped MatrixGroups
 open GlobalTheory.KZ
 

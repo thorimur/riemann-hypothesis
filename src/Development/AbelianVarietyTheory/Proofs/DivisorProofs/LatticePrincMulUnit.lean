@@ -1,9 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DTermOrigin
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinPartEqOneOfLevel
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModFMulPosPrincipal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdNormSq
 import Development.AbelianVarietyTheory.Definitions.Divisors.HasSumZeroOfTwoLe
+import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.DefiningCoordinates
 
 noncomputable section
 

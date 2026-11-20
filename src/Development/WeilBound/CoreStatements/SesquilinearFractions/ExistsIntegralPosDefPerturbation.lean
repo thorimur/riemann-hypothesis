@@ -1,5 +1,12 @@
-import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsRestMore
 import Development.WeilBound.CoreStatements.SesquilinearFractions.ExistsIntegerNearConjVector
+import Mathlib.Analysis.Matrix.Hermitian
+import Mathlib.LinearAlgebra.Matrix.PosDef
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
 
 open NumberField Matrix GlobalTheory.CompanionTheory.Ar GlobalTheory.CompanionTheory.Ar.Fl
 open scoped ComplexOrder

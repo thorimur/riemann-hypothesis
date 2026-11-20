@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SuperFact
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WinSet
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagDegreeEqFormDegree
+import Std.Tactic.BVDecide.Normalize.BitVec
 
 noncomputable section
 

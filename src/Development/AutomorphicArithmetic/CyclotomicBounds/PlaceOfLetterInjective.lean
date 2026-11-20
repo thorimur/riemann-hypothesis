@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.FrameFacts
 
 noncomputable section

@@ -1,5 +1,11 @@
-import Mathlib
 import Development.ResolutionOfSingularities.Foundations.Schemes.AffineOpens
+import Mathlib.AlgebraicGeometry.IdealSheaf.Functorial
+import Mathlib.AlgebraicGeometry.Modules.Sheaf
+import Mathlib.AlgebraicGeometry.Morphisms.Proper
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 universe u
 

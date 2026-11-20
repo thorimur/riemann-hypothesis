@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.GenSubHwOfSurjective
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFockMap
 
 noncomputable section
 

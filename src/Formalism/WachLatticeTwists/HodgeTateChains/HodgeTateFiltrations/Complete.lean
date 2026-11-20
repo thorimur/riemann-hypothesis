@@ -1,4 +1,6 @@
 import Formalism.WachLatticeTwists.HodgeTateChains.Statement
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

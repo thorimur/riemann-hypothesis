@@ -1,6 +1,5 @@
-import Mathlib
 import ReciprocityTheory.NeutralLocalFields.Duality
-import ReciprocityTheory.GroupCohomology.LowLES
+import ReciprocityTheory.GroupCohomology.ContinuousContractNth
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField.Kummer
 

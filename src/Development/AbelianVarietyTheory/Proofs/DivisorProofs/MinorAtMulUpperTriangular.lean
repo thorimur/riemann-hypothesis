@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FullFrameRight
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MinorAtZero
 open GlobalTheory.WholeFlag GlobalTheory.WholeFlag.Glue
 open scoped Matrix
 

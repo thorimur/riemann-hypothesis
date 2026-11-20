@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsLiftCountAlongMultiples
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsPowerBlock
 set_option maxSynthPendingDepth 1
 

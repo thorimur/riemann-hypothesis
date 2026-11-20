@@ -1,6 +1,5 @@
 import Formalism.FormalDegreeBessel.StatementIO
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
-import Formalism.RealPlaceAnalysis.FinalF
+import Formalism.RealPlaceAnalysis.QuotientSettingHolds
 
 open Matrix
 open scoped ContDiff

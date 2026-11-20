@@ -1,5 +1,10 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.TruncatedPerronKernel
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.NumberTheory.Harmonic.Bounds
+import Mathlib.NumberTheory.LSeries.DirichletContinuation
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 open Complex DirichletCharacter ArithmeticFunction MeasureTheory
 
 namespace GlobalTheory.PerronPsi

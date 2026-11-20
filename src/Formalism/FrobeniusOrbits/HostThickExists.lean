@@ -1,4 +1,3 @@
-import Formalism.FrobeniusOrbits.HostOrbitsPlaces
 import Formalism.FrobeniusOrbits.HostDiffSupport
 
 open NumberField IntermediateField Ideal

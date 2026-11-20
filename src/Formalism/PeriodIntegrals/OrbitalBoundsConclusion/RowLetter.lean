@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.RowLetter
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowDerivationChainRule.Development
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowDerivationChainRule.ChainRule
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowDerivationChainRule.NvFalseEq
 

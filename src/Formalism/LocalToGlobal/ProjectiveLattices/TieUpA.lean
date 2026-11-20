@@ -1,6 +1,7 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.CurveComp
-import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.PublishedIntClosHolds
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.SpanSteps
+import Formalism.LocalToGlobal.ProjectiveLattices.IntAtExtExtAll
+import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.AlgebraMapOlInjective
+import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.GlobalFamilyData
 
 noncomputable section
 

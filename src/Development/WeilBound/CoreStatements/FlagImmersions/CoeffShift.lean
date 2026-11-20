@@ -1,4 +1,9 @@
 import Development.WeilBound.CoreStatements.FlagImmersions.AltCMul
+import Mathlib.Algebra.MvPolynomial.Coeff
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

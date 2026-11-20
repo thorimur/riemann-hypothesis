@@ -1,7 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.PtCellUniq
 import Formalism.HermitianCurvature.StatementC
 import Formalism.SharpRestriction.CuspSpanNormBounds.LeadMinorK
+import Mathlib.LinearAlgebra.Matrix.Permutation
 
 noncomputable section
 

@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafVanBStalkPf
+import Mathlib.RingTheory.Etale.StandardEtale
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC

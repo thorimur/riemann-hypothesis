@@ -1,5 +1,7 @@
 import Development.AutomorphicSpectrum.Definitions.AdelicLattices.FactPrimes
-import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LatNormGrLatNeZeroOfSpan
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.Valuation.Integral
+import Mathlib.Tactic.Monotonicity.Lemmas
 open NumberField GlobalTheory.CompanionTheory.Ar GlobalTheory.CompanionTheory.Ar.Fl
 
 namespace PositivityTheory.Xgf

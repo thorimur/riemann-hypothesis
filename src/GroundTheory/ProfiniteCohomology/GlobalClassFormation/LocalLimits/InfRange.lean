@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalLimits.InfLiesOver
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalLimits.ApplyCompletionEmbeddingOfLocalDecompHomEqOne
+import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalLimits.InfDefs
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

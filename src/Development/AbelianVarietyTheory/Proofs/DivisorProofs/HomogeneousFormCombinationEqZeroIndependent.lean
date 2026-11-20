@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsRatioOfWeight
 open Filter Topology MvPolynomial GlobalTheory.HSAmp
 

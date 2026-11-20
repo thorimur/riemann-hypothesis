@@ -1,9 +1,7 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.CuspidalL2Subspace
 import Formalism.LocalToGlobal.ProjectiveLattices.BaseEmbeddingInclusion
-import Formalism.LocalToGlobal.IndefiniteReal.GramCEqTranspose
-import Formalism.LocalToGlobal.IndefiniteReal.SubgroupCharExtensionOneApply
 import Formalism.SharpRestriction.Divisibility.AbelianOpenPart.KaSmallNonpos
+import Formalism.LocalToGlobal.Divisibility.DefGroup
 
 noncomputable section
 

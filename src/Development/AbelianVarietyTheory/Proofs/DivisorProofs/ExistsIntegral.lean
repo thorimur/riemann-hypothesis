@@ -1,5 +1,11 @@
-import Mathlib
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PhiBoundPartsOfRadicalParametrisation
+import Mathlib.LinearAlgebra.Multilinear.FiniteDimensional
+import Mathlib.MeasureTheory.SpecificCodomains.Pi
+import Mathlib.Topology.Compactification.OnePoint.Sphere
+import Mathlib.Topology.Compactness.CompactlyGeneratedSpace
+import Mathlib.Topology.ContinuousMap.SecondCountableSpace
+import Mathlib.Topology.Metrizable.ContinuousMap
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

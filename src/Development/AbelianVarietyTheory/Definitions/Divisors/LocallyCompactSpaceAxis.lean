@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EisensteinIsotropicLine
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.LanglandsSquareIntegrable
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.InfiniteOfConcl
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsContinuousSplitTorusSection
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplitTorusElementUnique

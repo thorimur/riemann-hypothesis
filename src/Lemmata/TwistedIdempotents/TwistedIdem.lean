@@ -1,18 +1,8 @@
-import Mathlib
 import Formalism.PadicSubsetSums.CentralIdempotents.EigenbasisOfDistinctRoots
-import Formalism.PadicSubsetSums.StableGradedCounts.PropositionOneCentralCount
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRCycleProbSum
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRPrimeRecipSum
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRLemmaLWeight
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRPrimeToPartEqIff
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRPrimeToPartSpec
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRLemmaP
-import Formalism.GaloisIrreducibility.NoSolvableTransitive
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRCentralIdemSelfAdjoint
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRIrredCountUpper
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRSquarefreeCount
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRTypeCountExact
-import Formalism.PadicSubsetSums.StableGradedCounts.IRRCycleTypeProb
+import Mathlib.LinearAlgebra.Eigenspace.Triangularizable
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace Bl.CyclicComponents
 

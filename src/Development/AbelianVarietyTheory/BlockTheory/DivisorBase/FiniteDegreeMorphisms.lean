@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsTorsionFreeOfForallExists
+import Mathlib.AlgebraicGeometry.Morphisms.FlatRank
 
 set_option autoImplicit false
 

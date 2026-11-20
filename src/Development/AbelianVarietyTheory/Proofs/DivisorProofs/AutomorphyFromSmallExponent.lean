@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSystemOf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmallPlaceBlockDecompositionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmallPlaceFiniteSetStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmallPlaceBlockBoundStatement

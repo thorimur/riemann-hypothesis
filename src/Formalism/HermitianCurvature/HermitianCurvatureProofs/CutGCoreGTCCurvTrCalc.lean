@@ -1,5 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCRefCut
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.NormalFormOrderZeroOfParts
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.cut_GCore_GTConnCut
+import Mathlib.Analysis.Calculus.FDeriv.Star
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

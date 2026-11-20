@@ -1,6 +1,6 @@
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.UnitLemmaGroup
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.LinearDescent
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.FourierMatch
+import Mathlib.Tactic.ENatToNat
 open GlobalTheory.UnitLemma Matrix MeasureTheory
 
 noncomputable section

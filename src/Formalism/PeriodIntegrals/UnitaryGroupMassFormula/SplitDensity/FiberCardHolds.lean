@@ -1,5 +1,5 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SplitDensity.PhiXFinrankRange
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SplitDensity.CardFibreCompl
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SplitDensity.FiberCard
 
 namespace PI.DensSplitW
 

@@ -1,4 +1,9 @@
 import Formalism.LocalToGlobal.LatticeGeometry.OperatorNormFibers.StExtInv
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.Ideal.Norm.RelNorm
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
 
 open Module NumberField TensorProduct
 

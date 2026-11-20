@@ -1,5 +1,4 @@
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.GaugeTopology.SSmoothW
-import GroundTheory.AutomorphicForms.GL2.GJZetaDefs
 
 noncomputable section
 

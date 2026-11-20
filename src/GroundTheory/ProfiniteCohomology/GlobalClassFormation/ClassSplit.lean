@@ -1,9 +1,4 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.CupDecompositionGlobal
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.ClassLevels
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.ResLocal
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.NatCardGroupCohomologyTwoIdeleClassRepDvd
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LevelCyclic
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

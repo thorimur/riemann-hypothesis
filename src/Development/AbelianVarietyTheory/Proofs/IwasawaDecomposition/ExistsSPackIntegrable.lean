@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.UnipotentAdelicQuotients.SiegelWeilUnitaryConvergent
-import Formalism.PeriodIntegrals.BesselMapUniq
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.SameDegreeZeroFormsSelf
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsGlobalSettingStatement
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.RowDictGoodOpNonempty

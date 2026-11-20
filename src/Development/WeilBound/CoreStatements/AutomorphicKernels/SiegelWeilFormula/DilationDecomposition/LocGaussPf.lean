@@ -1,5 +1,4 @@
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.DilationDecomposition.Imports
-import Mathlib.Analysis.SpecialFunctions.Gaussian.FourierTransform
 
 noncomputable section
 

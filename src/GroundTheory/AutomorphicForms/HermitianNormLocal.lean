@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.HasseNorm
+import Mathlib.Algebra.QuadraticAlgebra.NormDeterminant
 
 namespace GroundTheory.Automorphic
 

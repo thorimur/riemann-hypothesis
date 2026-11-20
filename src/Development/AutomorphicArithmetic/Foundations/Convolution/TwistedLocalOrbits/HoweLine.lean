@@ -1,8 +1,6 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.TwistedLocalOrbits.HoweInj
 import Development.AutomorphicArithmetic.Foundations.Convolution.TwistedLocalOrbits.HoweEx
 import Development.AutomorphicArithmetic.Foundations.Convolution.TwistedLocalOrbits.WhitOne
-import Development.AutomorphicArithmetic.Foundations.Convolution.TwistedLocalOrbits.HoweSpace
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.PadicIsNonarchimedeanLocalField
 
 open GlobalTheory.PRep GlobalTheory.SmGL GlobalTheory.SplitWeil ValuativeRel Matrix GlobalTheory.IndefiniteRowSideFullHecke.IwahoriDoubleCosets UpperTheory.ConvolutionTheory.Loc
 

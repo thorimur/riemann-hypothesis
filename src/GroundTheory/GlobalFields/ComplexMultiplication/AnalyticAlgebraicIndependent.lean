@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.ComplexMultiplication.AnalyticAlgebraicPoints
 
 open Filter Topology Set Polynomial

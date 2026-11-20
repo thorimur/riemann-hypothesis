@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.QuasiOfFam
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.IsThetaFam
 
 noncomputable section
 

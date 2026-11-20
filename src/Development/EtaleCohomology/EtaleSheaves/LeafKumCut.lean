@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.H0TwistOverClosedField
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.E4

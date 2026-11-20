@@ -3,6 +3,7 @@ import Formalism.LocalToGlobal.GlobalTheory.GL5.PNamed
 import Formalism.LocalToGlobal.GlobalTheory.GL5.PClassItems
 import Formalism.LocalToGlobal.GlobalTheory.GL5.LocalEndomorphismContinuous
 import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ClassCountRec
+import Formalism.LocalToGlobal.GlobalTheory.GL5.VolumeAndDsigCompatOfCompatibleData
 
 noncomputable section
 

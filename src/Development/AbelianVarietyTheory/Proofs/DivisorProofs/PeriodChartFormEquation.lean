@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsL2OnDiagonalOfIsL2Metric
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HolAtlasPullbackEqChartExpressionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatCubicalStatementStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PointsMapHolomorphic

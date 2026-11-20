@@ -1,8 +1,5 @@
-import Development.EtaleCohomology.EtaleSheaves.EtaleSpreading.SpreadOf
-import Mathlib.RingTheory.Smooth.NoetherianDescent
 import Mathlib.Algebra.Category.Ring.FinitePresentation
-import Mathlib.Algebra.Category.Ring.Constructions
-import Mathlib.RingTheory.RingHom.Etale
+import Development.EtaleCohomology.EtaleSheaves.EtaleSpreading.EtSpreadsOf
 
 noncomputable section
 open CategoryTheory Limits TensorProduct

@@ -1,9 +1,9 @@
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.StandardLatticesGL3
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsDual
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsGlob
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsInverseOneAddPreservingAdelicCompletion
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.AfsplitB
+import Mathlib.NumberTheory.Padics.HeightOneSpectrum
 
 noncomputable section
 

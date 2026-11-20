@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.Divisibility.DivisibilityRemainder.RationalColumns.ColFacts
-import Formalism.LocalToGlobal.Divisibility.TupUsed
+import Formalism.LocalToGlobal.Divisibility.DivisibilityRemainder.RationalColumns.Descent
+import Formalism.LocalToGlobal.GroupLattices.JointServices.LevelOperatorFixesImage
 
 noncomputable section
 

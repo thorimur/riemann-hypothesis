@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.Divisibility.HookProducts.LwPNonneg
-import Formalism.SharpRestriction.Divisibility.LocalQuadraticParts
 
 noncomputable section
 

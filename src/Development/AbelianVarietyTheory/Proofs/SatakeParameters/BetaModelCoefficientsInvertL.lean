@@ -1,7 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.InertKernelTheory.DefsBeCob
 import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.ExistsCoprimePowEqOne
-import Formalism.SharpRestriction.AdmissibleParameterJoins.GandSq
 
 noncomputable section
 

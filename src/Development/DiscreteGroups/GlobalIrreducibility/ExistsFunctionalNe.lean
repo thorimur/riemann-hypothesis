@@ -1,5 +1,6 @@
-import Mathlib
 import Development.DiscreteGroups.GlobalIrreducibility.DzRedLift
+import Development.DiscreteGroups.GlobalIrreducibility.DzRedMat
+import Development.DiscreteGroups.GlobalIrreducibility.SuppConst
 
 noncomputable section
 

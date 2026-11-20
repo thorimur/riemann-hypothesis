@@ -1,6 +1,6 @@
 import Mathlib.Analysis.Normed.Operator.Extend
-import Mathlib.Analysis.InnerProductSpace.Subspace
-import Mathlib.LinearAlgebra.Finsupp.LinearCombination
+import Mathlib.Algebra.Order.Field.Power
+import Mathlib.Analysis.InnerProductSpace.Basic
 
 noncomputable section
 

@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ProjectionSurjective
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsCplAtApprox
+import Mathlib.RingTheory.AdicCompletion.RingHom
 
 open IsLocalRing GlobalTheory.Pat
 

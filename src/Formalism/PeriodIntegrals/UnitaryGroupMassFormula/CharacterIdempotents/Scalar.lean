@@ -1,6 +1,12 @@
-import Mathlib
-import Formalism.PeriodIntegrals.CharIdem
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CharacterIdempotents.Development
+import Mathlib.Algebra.Category.ModuleCat.Algebra
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open CategoryTheory
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.OmStable
+import Mathlib.LinearAlgebra.BilinearForm.Orthogonal
 
 noncomputable section
 

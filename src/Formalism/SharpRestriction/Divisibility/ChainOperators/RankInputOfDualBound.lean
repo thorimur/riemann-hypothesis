@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.RankTruncation.RkLemmaBridge
 
 namespace Formalism.MainNotions.DIV.CutRk

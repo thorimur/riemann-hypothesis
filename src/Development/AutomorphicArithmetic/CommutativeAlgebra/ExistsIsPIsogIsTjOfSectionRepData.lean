@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.SpecialMaps.QuotObjDefs
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjIsogeniesRepresentable
 

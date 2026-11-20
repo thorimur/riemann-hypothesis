@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairInfApply
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.FockFormApply
+import Mathlib.Analysis.Calculus.ContDiff.FiniteDimension
 open MeasureTheory
 
 namespace GlobalTheory.FockFamily

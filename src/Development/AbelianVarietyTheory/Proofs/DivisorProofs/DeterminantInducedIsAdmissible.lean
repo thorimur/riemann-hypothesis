@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsMidJacAt
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IsLocallyConstantModulus
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.L2DbarEstimates.IsLocalHomeomorph
 open Filter Topology MeasureTheory Metric ReciprocityTheory.L2DbarEstimates
 open scoped ComplexOrder

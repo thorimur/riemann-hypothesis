@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits.SmulOfEqOfMemFixingSubgroup
+import GroundTheory.GlobalFields.CyclotomicCharacters.Character
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

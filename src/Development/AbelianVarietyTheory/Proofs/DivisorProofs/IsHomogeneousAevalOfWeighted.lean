@@ -1,9 +1,6 @@
-import Mathlib
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.FrameFacts
-import Formalism.SharpRestriction.Divisibility.WeightThresholdDefs
 import Formalism.LocalToGlobal.LatticeGeometry.CmTypeMeetsConjugatePair
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEmbCompEq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrobeniusPowerEmbeddingStatement
+import Formalism.SharpRestriction.Divisibility.LatticeTransfer
 
 noncomputable section
 

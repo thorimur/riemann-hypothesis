@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TransferIndices.MemOOfIsIntegral
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TransferIndices.AsAlgebraHomMemSpan
 
 noncomputable section
 

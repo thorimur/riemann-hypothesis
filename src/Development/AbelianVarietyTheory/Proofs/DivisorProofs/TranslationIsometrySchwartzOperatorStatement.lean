@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationIsometrySchwartzOperator
-import Mathlib
 open MeasureTheory Filter Topology
 open scoped SchwartzMap
 set_option maxHeartbeats 1000000 in

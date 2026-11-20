@@ -1,10 +1,11 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsTerExtra
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StLocRingFrac
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StLocRingLocal
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StLocRingNoeth
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StLocRingPow
 import GroundTheory.HeightsAndTheta.Heights.Intersections.AvoidRing
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Ideal.KrullsHeightTheorem
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Inter

@@ -1,6 +1,6 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.LiftErrorLocal
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.PsiGeOn
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.PerIntOnAmb
+import Formalism.LocalRingCardinality.DataErr
 
 noncomputable section
 

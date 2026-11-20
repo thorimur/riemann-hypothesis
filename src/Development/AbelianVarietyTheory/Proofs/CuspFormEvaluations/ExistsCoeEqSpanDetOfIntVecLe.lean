@@ -1,10 +1,9 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.ThetaValues.FlatMemLatIffStdLat
-import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.NsmulApplyMemOfMemTensorLat
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsSmulMemOfMemSpanFraction
-import ReciprocityTheory.SemistableReduction.ExistsIntSmulMemSpan
 import ReciprocityTheory.SemistableReduction.SemiDegCE
-import ReciprocityTheory.DualLattices.WedgeNeZeroOfLinearIndependent
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.Monotonicity.Lemmas
+import ReciprocityTheory.DualLattices.SmallLevelClassSet
 
 namespace GlobalTheory.TensorLat
 

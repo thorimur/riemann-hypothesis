@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.CrystallinePeriodRings.ExistsMapEqOfPowMul
 import Development.WeilBound.CoreStatements.CrystallinePeriodRings.FrobAinfMapFrobenius
 import GroundTheory.PAdicHodge.FundamentalSeqFixed
 

@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.ColsS
 import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.ColXCnt
-import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.ColXSeg
+import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CardEqChainSum
+import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.TCoreDef
 
 noncomputable section
 

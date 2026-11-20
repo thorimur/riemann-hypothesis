@@ -1,7 +1,4 @@
 import Formalism.LocalToGlobal.InertKernelTheory.DefsInt
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PIopIso
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PHfGen
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PThIndep
 import Formalism.LocalToGlobal.GlobalTheory.GL3.NormNatCoprime
 import Formalism.LocalToGlobal.GlobalTheory.GL3.LinkThetaStatementFamily
 

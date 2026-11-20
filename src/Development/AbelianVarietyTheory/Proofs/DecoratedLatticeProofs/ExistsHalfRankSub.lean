@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.GlobalTheory.HLatOpsP
-import Formalism.HarderNarasimhan.FinalCor
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 open Module NumberField Formalism.BasicNotions
 
 namespace GlobalTheory.HalfRankSub

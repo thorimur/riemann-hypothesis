@@ -1,8 +1,6 @@
-import Formalism.SharpRestriction.GlobalSchurBounds.MassRatioUnfoldedOfTheoremTwo
 import Formalism.SharpRestriction.GlobalSchurBounds.TheoremThreeUnderScaleOfGeneral
 import Formalism.LocalToGlobal.GlobalTheory.GL5.PClassDecomp
 import Formalism.GL3MeanSquares.HookFormulaTorsion.MassUpperBoundClosed
-import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.UnitTraceSumBounds.TheoremThreeHypothesesOfMultiplicity
 
 noncomputable section
 

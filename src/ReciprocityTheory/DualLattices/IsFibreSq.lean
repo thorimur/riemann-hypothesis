@@ -1,4 +1,6 @@
 import ReciprocityTheory.DualLattices.ModuliPointsState
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

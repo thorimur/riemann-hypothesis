@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.RealPlaceAnalysis.FockPairGl
 
 open MvPolynomial

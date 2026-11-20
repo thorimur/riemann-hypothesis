@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsMulVal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsionPrechartPointsSeparateStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteFreeAffineOpenStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EqZeroOfLocalCoveringStatement

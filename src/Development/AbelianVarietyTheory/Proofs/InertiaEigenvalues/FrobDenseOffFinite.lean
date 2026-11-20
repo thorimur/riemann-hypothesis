@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.ConjugateSelfDual.StatementRest
-import Formalism.SharpRestriction.ValuationFrobeniusEpsilon.ScaledValuations.ValuationApplyLtOneIff
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ChebotarevDegreeOne
 
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual Formalism.MainNotions.V

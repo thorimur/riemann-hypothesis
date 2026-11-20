@@ -1,5 +1,5 @@
-import Formalism.LocalRingCardinality.DataTies
 import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowE
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowD
 
 noncomputable section
 

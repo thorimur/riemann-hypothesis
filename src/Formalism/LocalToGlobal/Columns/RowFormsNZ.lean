@@ -1,8 +1,8 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.RowFormsRank
 import Formalism.LocalToGlobal.Columns.RowFormsNZs
 import Formalism.LocalToGlobal.Columns.RowFormsNZc
 import Formalism.LocalToGlobal.Columns.RowFormsNZw
+import Formalism.LocalToGlobal.Columns.RowFormsLemmas
 
 open NumberField IsDedekindDomain Module Matrix
 

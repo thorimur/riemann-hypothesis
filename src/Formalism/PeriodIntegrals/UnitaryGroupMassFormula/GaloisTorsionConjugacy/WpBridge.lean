@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.GalTorsConj
+import Mathlib.Analysis.SpecialFunctions.Elliptic.Weierstrass
 
 noncomputable section
 

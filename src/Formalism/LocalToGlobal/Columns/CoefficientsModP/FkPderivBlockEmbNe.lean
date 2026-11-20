@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.Columns.CoefficientsModP.FkMapInitMinor
+import Formalism.LocalToGlobal.Divisibility.CoefModLemmas
 
 open MvPolynomial
 open scoped Matrix

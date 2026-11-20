@@ -1,4 +1,5 @@
 import Development.WeilBound.CoreStatements.GaussianSeminormBounds.RealSeminormFiltration.Tensor
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

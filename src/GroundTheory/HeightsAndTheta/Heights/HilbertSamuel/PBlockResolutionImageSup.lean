@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBlockResolutionImageSup
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartSup
 set_option maxSynthPendingDepth 1

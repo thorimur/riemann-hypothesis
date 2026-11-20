@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.DualStdModelField
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StandardModelDualRank
 set_option maxSynthPendingDepth 1
 

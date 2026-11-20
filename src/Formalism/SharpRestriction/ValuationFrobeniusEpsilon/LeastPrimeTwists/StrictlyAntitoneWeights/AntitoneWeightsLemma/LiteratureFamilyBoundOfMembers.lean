@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.ValuationFrobeniusEpsilon.UnitaryThreeHeightBounds
 
 noncomputable section

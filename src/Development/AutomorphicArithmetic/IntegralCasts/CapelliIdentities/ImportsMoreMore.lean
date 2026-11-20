@@ -1,9 +1,4 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 import Formalism.SharpRestriction.CuspSpanNormBounds.LocalGroupInFamilyNontrivial
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
-import Formalism.LocalRingCardinality.Params
-import Formalism.LocalRingCardinality.DataHost
 
 theorem UpperTheory.Reformulated.B.Qf52.not_both :
     ∀ (D : Formalism.BasicNotions.D7) (p : Formalism.MainNotions.S.LocalSplitGroups.PlF D),

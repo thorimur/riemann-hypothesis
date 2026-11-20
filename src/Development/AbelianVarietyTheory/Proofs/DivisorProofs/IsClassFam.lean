@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.TopPlaceLogTheta
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ConjugateFieldBounds
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.TauPlBijective
+import Formalism.LocalToGlobal.Divisibility.Numbers
 
 noncomputable section
 

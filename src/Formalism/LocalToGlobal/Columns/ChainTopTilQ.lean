@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.Columns.XiTopTilRefHolds
 import Formalism.LocalToGlobal.Columns.ChainTwFrA
+import Formalism.LocalToGlobal.Columns.XtIntAtQpow
 
 open NumberField IsDedekindDomain Module Matrix
 

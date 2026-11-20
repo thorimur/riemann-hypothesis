@@ -1,7 +1,9 @@
-import Formalism.LocalToGlobal.BesselHermitianTheta.TiedWeilUnr
-import Formalism.LocalToGlobal.BesselHermitianTheta.LemmasWeil
-import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.ShiftMapsUpDown
-import Development.AbelianVarietyTheory.Counterexamples.HeightSurvey.SymplHAddRight
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open NumberField
 

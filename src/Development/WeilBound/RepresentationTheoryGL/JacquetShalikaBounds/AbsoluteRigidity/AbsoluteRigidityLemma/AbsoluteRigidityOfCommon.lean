@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.JacquetShalikaBounds.AbsoluteRigidity.NewtonLow
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

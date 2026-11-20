@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectPairingDualSymplectic
-import Mathlib
 set_option maxHeartbeats 1000000 in
 theorem _root_.GlobalTheory.T.perfect_pairing_dual_symplectic : ∀ (R : Type) [CommRing R] (M : Type) [AddCommGroup M] [Module R M]
     (N : Type 1) [AddCommGroup N] [Module R N] (e : M ≃ₗ[R] N) (g : ℕ),

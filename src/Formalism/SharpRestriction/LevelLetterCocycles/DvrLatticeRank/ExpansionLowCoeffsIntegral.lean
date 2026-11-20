@@ -1,7 +1,7 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.PolyExpand
-import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DescentValuation
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DvdOfCoeffSubstXPowNeZero
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ConstantCoeffQZeroEqP
+import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.U3downPfFildRConst
 
 noncomputable section
 

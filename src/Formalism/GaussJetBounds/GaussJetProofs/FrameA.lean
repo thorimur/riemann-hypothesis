@@ -1,4 +1,3 @@
-import Formalism.GaussJetBounds.GenLogInverse
 import Formalism.GaussJetBounds.StatementK
 import Formalism.GaussJetBounds.GaussJetProofs.NormDetLeOneOfEntries
 import Formalism.GaussJetBounds.GaussJetProofs.ConstantCoeffAevalLinP

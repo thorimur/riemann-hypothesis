@@ -1,7 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NormSubOneMulRiemannZetaLe
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.TsumOneDivRpowLe
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NormOneSubConjMul
+import Mathlib.NumberTheory.Harmonic.ZetaAsymp
+import Mathlib.RingTheory.SimpleRing.Principal
 open Complex DirichletCharacter ArithmeticFunction MeasureTheory
 
 namespace GlobalTheory.ZetaWide

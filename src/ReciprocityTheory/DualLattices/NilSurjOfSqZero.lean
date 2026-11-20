@@ -1,4 +1,6 @@
-import ReciprocityTheory.DualLattices.ModuliPointsState
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Polynomial.Basic
+import ReciprocityTheory.DualLattices.IsFibreSq
 
 noncomputable section
 

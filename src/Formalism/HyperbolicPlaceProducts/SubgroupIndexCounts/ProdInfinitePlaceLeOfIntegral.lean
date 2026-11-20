@@ -1,4 +1,8 @@
 import Formalism.HyperbolicPlaceProducts.DetIndexProductHyperbolicInequality
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open NumberField
 

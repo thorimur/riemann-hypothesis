@@ -1,5 +1,7 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.HkRowIntegral
 import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.QuasiPeriodConstUnique
+import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.EisensteinS2LimitFormula
+import Mathlib.Analysis.Normed.Group.Tannery
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

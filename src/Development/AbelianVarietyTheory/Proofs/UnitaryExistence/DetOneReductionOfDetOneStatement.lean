@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.DetOneReductionOfDetOne
 open scoped TensorProduct
 set_option maxHeartbeats 1000000 in

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.SignedLogMeans
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ThetaZeroMeanLogNormConjugatesOfWeberStatement
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.LatticePeriodEtaObj
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ThetaWeberStatement

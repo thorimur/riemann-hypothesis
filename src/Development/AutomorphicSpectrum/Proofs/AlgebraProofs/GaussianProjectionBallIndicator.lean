@@ -1,5 +1,14 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.IsScaleStable
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeFiniteFibreDim
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeJacMeasurable
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeKrullDimLe
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeTangentDim
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PKernelProjMeasurable
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PTangentGaussInvariant
+import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PTangentJacCompress
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.Assembly
+import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PConormalGenerationGeneric
+import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PFrameJacobianGeneric
+import GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.PJacobianRankGeneric
 set_option maxSynthPendingDepth 1
 
 namespace GlobalTheory.CompanionTheory.Ar.Short.Crofton

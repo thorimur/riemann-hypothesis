@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsNefCountUpper
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsNefSmallApprox
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsNefCountUpperCurve

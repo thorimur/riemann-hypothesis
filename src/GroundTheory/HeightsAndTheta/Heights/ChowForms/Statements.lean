@@ -1,5 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Statements
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.NumberTheory.Padics.PadicIntegers
+import Mathlib.RingTheory.KrullDimension.Polynomial
+import Mathlib.RingTheory.OrderOfVanishing.Basic
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

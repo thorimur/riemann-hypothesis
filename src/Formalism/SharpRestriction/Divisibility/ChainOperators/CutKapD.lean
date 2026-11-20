@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.RankTruncation.KapDLemmaBridge
 
 namespace Formalism.MainNotions.DIV.CutKapD

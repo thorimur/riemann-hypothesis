@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.IndepOf
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.DensGFC
 
 noncomputable section
 

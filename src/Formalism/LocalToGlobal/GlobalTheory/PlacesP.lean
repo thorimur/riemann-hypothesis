@@ -1,9 +1,8 @@
 import Formalism.LocalToGlobal.GlobalTheory.Places
 import Formalism.SharpRestriction.AdmissibleParameterJoins.DIVfromGLo
 import Formalism.SharpRestriction.GrowthBounds.TopChoiceBounds
-import Formalism.LogFactorialBounds.LogFactorialProofs.PrimeSum
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.ExistsNsmulMem
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.WeightedSlopeExcessDecomposition
+import Formalism.SharpRestriction.GlobalSchurBounds.LinkPk
 
 open Module NumberField IsDedekindDomain
 

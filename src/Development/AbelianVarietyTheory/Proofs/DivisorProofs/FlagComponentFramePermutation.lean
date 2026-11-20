@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CellOpenLe
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CellAtCoordEqInf
 
 set_option autoImplicit false

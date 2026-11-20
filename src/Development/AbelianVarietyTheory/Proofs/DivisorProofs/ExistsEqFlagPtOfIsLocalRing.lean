@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.NormSqColGrLineOfOrthogonal
-import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EqOfIsometricTrivShift
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchubertCellOpenImmersionStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagPointInSomeCellStatement
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry Matrix

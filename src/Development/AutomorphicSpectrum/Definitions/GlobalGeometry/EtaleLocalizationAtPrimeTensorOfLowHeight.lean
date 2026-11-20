@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.CoordsAt
+import Mathlib.LinearAlgebra.ExteriorPower.Basic
 
 noncomputable section
 

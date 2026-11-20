@@ -1,5 +1,7 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.FinalTheorems
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 open IsLocalRing TensorProduct
 
 namespace GlobalTheory.GeomRegFibTransport

@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.KernelLattices.FirstKernelLawReading
-import Formalism.LocalToGlobal.HermitianForms.TiedTwGen
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.JetLL
 
 noncomputable section

@@ -1,9 +1,9 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.HermitianSpaces
 import GroundTheory.HeightsAndTheta.Heights.HermitianLattice
 import GroundTheory.AutomorphicForms.HermitianDisc
 import GroundTheory.HeightsAndTheta.Theta.CMDatum
-import GroundTheory.HeightsAndTheta.Theta.EisensteinZeta.DedekindZetaSeries.ChainWittIndexHypothesesMet
+import Mathlib.Analysis.InnerProductSpace.Dual
+import Mathlib.LinearAlgebra.Dual.BaseChange
+import Mathlib.NumberTheory.NumberField.Discriminant.Defs
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Theta

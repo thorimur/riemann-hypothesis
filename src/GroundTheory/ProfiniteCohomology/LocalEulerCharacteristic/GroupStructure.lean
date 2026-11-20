@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.GroupStructureDefs
 import GroundTheory.LocalFields.RamificationStructure
 import GroundTheory.LocalFields.UnramifiedRootsOfUnity

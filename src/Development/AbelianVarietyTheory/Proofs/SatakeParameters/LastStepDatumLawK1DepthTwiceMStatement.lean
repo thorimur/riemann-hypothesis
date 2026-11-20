@@ -1,14 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.LastStepDatumLawK1DepthTwiceM
-import Mathlib
-import Formalism.LocalToGlobal.Columns.KOneCharacterTrivialNearOne
-import Formalism.LocalToGlobal.Columns.ChainInstY
-import Formalism.LocalToGlobal.Columns.XtSumSingle
-import Formalism.LocalToGlobal.Columns.LastRowColLevSym
-import Formalism.LocalToGlobal.Columns.ChainTopLawB
-import Formalism.LocalToGlobal.Columns.ChainLawPhiTop
-import Formalism.LocalToGlobal.Columns.ChainTopLawTw
-import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.TopLawQ
 
 open Formalism.BasicNotions Formalism.HermitianLatticesTheory Formalism.L2.DIV Formalism.L2.Col Formalism.L2.Ker NumberField IsDedekindDomain Classical
 set_option maxHeartbeats 1000000 in

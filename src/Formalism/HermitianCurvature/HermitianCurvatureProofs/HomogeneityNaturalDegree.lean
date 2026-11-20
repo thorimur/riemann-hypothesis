@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.BigCellVanishingOfCommute
+import Mathlib.Tactic.ENatToNat
 
 open Formalism.FourierDecayAlt Formalism.QuantumDeterminants MvPolynomial
 

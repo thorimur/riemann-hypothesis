@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.BesselHermitianTheta.TiedMY
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Tjcosets
 import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.UnramifiedMeasureTuples
 import Development.AbelianVarietyTheory.Counterexamples.HeightSurvey.IsEmptyPlacesReferenceTuple

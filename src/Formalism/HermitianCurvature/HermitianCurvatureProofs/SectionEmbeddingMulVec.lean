@@ -1,7 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAPolyRadialCut
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAPRTWNeAlgSt
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJASSnRepThtFacts
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJATCLineNonzero
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJASSnRepDatumUnit
 
 open Matrix Finset Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

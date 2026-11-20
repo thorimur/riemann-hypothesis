@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsCastMap
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ModelSame
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AssembleLattice
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsReferenceTupleThetaComparisonNormalisedDat
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 200000

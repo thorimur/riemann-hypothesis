@@ -1,5 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ThmPActualCptOfOuter
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ContinuousExtensionOfFourierDecay
+import Formalism.HermitianCurvature.HerGenC
 
 open MeasureTheory Filter Topology
 

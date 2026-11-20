@@ -1,10 +1,9 @@
-import Mathlib
-import Formalism.LocalRingCardinality.Params
 import Formalism.LocalRingCardinality.DataHost
 import Formalism.LocalRingCardinality.DataRows
 import Formalism.GaloisCohomology.Statement
 import Formalism.CyclotomicNorms.StatementT
 import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
+import Mathlib.Topology.Algebra.Nonarchimedean.AdicTopology
 
 noncomputable section
 

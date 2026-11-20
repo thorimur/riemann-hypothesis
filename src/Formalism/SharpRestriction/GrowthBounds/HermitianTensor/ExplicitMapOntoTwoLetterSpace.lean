@@ -1,4 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TieDefs
+import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ShapeCovering.CovDet
+import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ShapeCovering.CovWeyl
+import Mathlib.Order.Interval.Finset.Box
 
 noncomputable section
 

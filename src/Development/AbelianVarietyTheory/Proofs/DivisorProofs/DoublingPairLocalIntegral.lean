@@ -1,9 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SiegelWeilAnisotropicHermitian
-import Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsAut
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RegFamOfContinuousAt
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoxC
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TopCMulBlk
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairLatticeMeasure
 open scoped TensorProduct NNReal Matrix

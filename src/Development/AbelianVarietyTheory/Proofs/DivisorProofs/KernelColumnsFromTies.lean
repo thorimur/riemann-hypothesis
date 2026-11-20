@@ -1,9 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.ShiftOfColTie
-import Formalism.LocalToGlobal.IndefiniteReal.FaceOf3
-import Formalism.LocalToGlobal.Divisibility.ColPins
-import Development.AbelianVarietyTheory.Definitions.Divisors.KerSizes
-import Formalism.LocalToGlobal.Divisibility.TrivialExtensionSideWellFormed
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FramesTildeGammaValuesStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemberRowsOfKernelDatumSizesStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsLatticeOfEqSpanFracSmul

@@ -1,5 +1,6 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.LocalCongruenceBound
 import Formalism.SharpRestriction.LevelLetterCocycles.EndomorphismIndexBound
+import Mathlib.LinearAlgebra.Eigenspace.Pi
 
 open Module
 

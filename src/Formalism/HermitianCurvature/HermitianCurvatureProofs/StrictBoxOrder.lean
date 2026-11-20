@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.CapelliDeterminantAndBranching
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.PicardGroup
 
 open Matrix Finset
 

@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.LamSatRestrict
+import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.RestLamOfRests
 
 noncomputable section
 

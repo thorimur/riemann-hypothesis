@@ -1,11 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalRingCardinality.DataParams₂
-import Formalism.LocalRingCardinality.DataDIV
-import Formalism.LocalRingCardinality.DataDIVDefs
-import Formalism.LocalRingCardinality.DataIdx
-import Formalism.LocalRingCardinality.DataKap
-import Formalism.LocalRingCardinality.DataAmbForm
 import Formalism.LocalRingCardinality.DataRRMetric
 import Formalism.SharpRestriction.Divisibility.InnerProductFormulaField
 

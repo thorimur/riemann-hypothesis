@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToGAdMat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralSmoothAlongRealLinesStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralPolynomialGrowthStatement
 

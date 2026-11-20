@@ -1,4 +1,9 @@
 import Formalism.CMTypeGalois.StatementField
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.Ideal.Int
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField Ideal
 

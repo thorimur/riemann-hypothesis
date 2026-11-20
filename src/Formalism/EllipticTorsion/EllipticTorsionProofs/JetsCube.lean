@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.EllipticTorsion.JetsCube
 import Formalism.FormalGroupLog.LogDeterminesLaw
+import Mathlib.Analysis.Normed.Ring.Ultra
 
 open PowerSeries
 

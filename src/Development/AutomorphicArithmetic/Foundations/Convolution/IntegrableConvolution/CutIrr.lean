@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.TrDefs
 
 open GroundTheory.Automorphic UpperTheory.ConvolutionTheory.C

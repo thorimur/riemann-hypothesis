@@ -1,4 +1,7 @@
 import Development.EtaleCohomology.EtaleSheaves.UliftSmulEq
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC LateralTheory.E.MulPf LateralTheory.E.TwistTrivial

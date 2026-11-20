@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SuperFact
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WinSet
+import Development.AbelianVarietyTheory.Definitions.Foundations.CurveCl
+import Std.Tactic.BVDecide.Normalize.Prop
 open MvPolynomial GlobalTheory.FlagPoly GlobalTheory.FlagForm GlobalTheory.FlagCurve Formalism.DegreeFormula
 
 namespace GlobalTheory.FlagCurve

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AlgebraMapGFEqGval
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SubMemDifferentIdeal
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsNormSubEqOne

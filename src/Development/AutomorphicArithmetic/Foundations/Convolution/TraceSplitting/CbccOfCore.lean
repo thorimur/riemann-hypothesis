@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.Places
 import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.CoreLift
 import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.CoreDesc
 import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.LiftStep

@@ -1,8 +1,7 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.RefLinked
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterSt
 import Development.WeilBound.CoreStatements.FlagImmersions.RealTowerPlurisubharmonicPotential
 import Development.WeilBound.CoreStatements.FlagImmersions.PshSumPotentialsSmallParameter
+import Development.WeilBound.CoreStatements.FlagImmersions.DifferentiableAtAffCoord
 
 noncomputable section
 

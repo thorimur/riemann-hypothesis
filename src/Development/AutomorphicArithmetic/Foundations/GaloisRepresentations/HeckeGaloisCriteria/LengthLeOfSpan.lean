@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.HeckeGaloisCriteria.ActEqZeroOfQK
+import Mathlib.RingTheory.OrderOfVanishing.Basic
 
 noncomputable section
 

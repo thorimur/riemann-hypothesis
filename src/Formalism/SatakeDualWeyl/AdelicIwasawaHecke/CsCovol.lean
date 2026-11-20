@@ -1,4 +1,8 @@
 import Formalism.SatakeDualWeyl.DefsCS
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Data.Rat.Star
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 noncomputable section
 open Module NumberField Matrix

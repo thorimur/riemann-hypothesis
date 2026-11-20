@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.Tower
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.BlockRelationTwistedHeight
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.ContinuousZetaL
 
 open Matrix MeasureTheory Filter Topology
 open scoped ComplexConjugate ContDiff ENNReal

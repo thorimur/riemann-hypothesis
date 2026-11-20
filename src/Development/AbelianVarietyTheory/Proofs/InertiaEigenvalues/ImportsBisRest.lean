@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.HerrClassFieldOfNorms
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HerrAAndNatural
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SmulCocycle
 open Formalism.WeaklyAdmissibleFiltrations Formalism.BasicNotions Formalism.BasicNotions.Loc

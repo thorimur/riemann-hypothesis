@@ -1,6 +1,8 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KernelsMatrix
 import ReciprocityTheory.ThetaQuasiPeriods.NormInvSmulMemSphere
+import Mathlib.Dynamics.Ergodic.Action.Regular
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 set_option maxSynthPendingDepth 1
 
 open Matrix MeasureTheory Real

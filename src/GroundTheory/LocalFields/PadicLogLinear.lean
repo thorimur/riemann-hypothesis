@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.PrincipalUnitsModule
 
 namespace GroundTheory.LocalField

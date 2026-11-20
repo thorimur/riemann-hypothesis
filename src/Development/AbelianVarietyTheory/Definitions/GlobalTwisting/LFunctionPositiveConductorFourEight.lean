@@ -1,7 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.SmulCommClassGalIntegers
-import Formalism.LandauZeroFreeBounds.Statement
-import Formalism.FrobeniusOrbits.Statement
+import Formalism.GL3MeanSquares.SmoothedRemainderRealIntegralFormula
+import Formalism.SharpRestriction.GlobalSchurBounds.Chosen
 
 noncomputable section
 

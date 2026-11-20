@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.QuotientMetricDivisors.StatementK
-import Formalism.ThetaSupremumBounds.StatementC
 import Formalism.ThetaSupremumBounds.StatementE
 
 open Finset

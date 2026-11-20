@@ -1,4 +1,5 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SymSum
+import GroundTheory.AutomorphicForms.SphericalLaurent
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 open MeasureTheory GroundTheory.Automorphic GroundTheory.Automorphic.Spherical GroundTheory.Automorphic.GLnLocal GroundTheory.Automorphic.Iwasawa UpperTheory.ConvolutionTheory.H
 

@@ -1,5 +1,7 @@
-import Mathlib
 import Development.ResolutionOfSingularities.EmbeddedResolution.StrictTransformCharts.CoordinateBlowupChart
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RingHom.Flat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open CategoryTheory Limits AlgebraicGeometry TensorProduct
 open FunctorialResolution.Blowup FunctorialResolution.EmbeddedResolution

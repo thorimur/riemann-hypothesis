@@ -1,4 +1,7 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockHarmonicSplitting.FockInnerSelfReNonneg
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Data.Finsupp.Interval
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 

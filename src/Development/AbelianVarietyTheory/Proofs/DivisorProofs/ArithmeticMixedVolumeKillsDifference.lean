@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SemiposAtOfPositive
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsMonomialEqProd
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ArTopTrue
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagAtOfLocalFlagStatement

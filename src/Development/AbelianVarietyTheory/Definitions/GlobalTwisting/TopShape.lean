@@ -1,8 +1,15 @@
-import Mathlib
 import Development.AutomorphicArithmetic.CharacterBoxes.ExS
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DRS
 import Formalism.LocalToGlobal.TieTwRecOf
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.JoinSISel
+import Formalism.LocalToGlobal.Divisibility.TupUsed
+import Formalism.LocalToGlobal.FiniteTOf
+import Formalism.LocalToGlobal.GlobalTheory.IrreducibleOfCountSizes
+import Formalism.LocalToGlobal.GroupLattices.AdmissibleAtGeneratorPlaces
+import Formalism.LocalToGlobal.GroupLattices.ServiceOfTiedSelection
+import Formalism.LocalToGlobal.HilbertRowConditions.AllJoin
+import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.CountT
+import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RowsPos
+import Formalism.SharpRestriction.GlobalSchurBounds.MainSup
 
 noncomputable section
 

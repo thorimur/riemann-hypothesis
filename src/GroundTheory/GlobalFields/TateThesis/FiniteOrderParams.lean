@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.HeckeCharRayClass
 set_option maxSynthPendingDepth 1
 

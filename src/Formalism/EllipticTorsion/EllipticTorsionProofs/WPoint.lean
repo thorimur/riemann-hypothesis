@@ -1,4 +1,10 @@
-import Formalism.EllipticTorsion.WChordSeries
+import Formalism.EllipticTorsion.WSeriesUnique
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.LocalProperties.Reduced
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open PowerSeries
 

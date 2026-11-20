@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.StatementK
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.RecText
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace Formalism.FourierDecayAlt.P.K
 

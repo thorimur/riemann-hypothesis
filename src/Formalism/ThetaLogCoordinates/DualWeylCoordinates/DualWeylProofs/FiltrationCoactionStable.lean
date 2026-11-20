@@ -1,4 +1,6 @@
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DualWeylProofs.BCoreT
+import Formalism.ThetaLogCoordinates.DualWeylCoordinates.FiltrationTheoremOfClauses
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 

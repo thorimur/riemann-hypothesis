@@ -1,8 +1,6 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BetaUniqueness.Lemmas
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ScalarPairOrthogonal.XLeOrthXplus
 import Formalism.HermitianLattices.HermitianLatticesProofs.DualLattice
-import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WittExtensionTheorem
 
 noncomputable section
 

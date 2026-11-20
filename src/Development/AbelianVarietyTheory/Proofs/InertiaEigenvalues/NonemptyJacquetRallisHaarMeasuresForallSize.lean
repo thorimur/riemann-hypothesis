@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.FourierMatch
+import Mathlib.Analysis.Normed.Field.ProperSpace
+import Mathlib.Topology.Algebra.Star.Unitary
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 
 open GlobalTheory.JR Matrix MeasureTheory Filter Topology
 

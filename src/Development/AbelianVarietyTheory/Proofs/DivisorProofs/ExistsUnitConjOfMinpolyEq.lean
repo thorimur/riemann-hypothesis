@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.Brauer.SkolemNoether
 import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsRootSelectionUnitaryRankOne
 
 noncomputable section

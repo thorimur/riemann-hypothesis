@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FromSpecComapEqBotEqGenericPoint
-import Mathlib
 open CategoryTheory AlgebraicGeometry TopologicalSpace
 open scoped TensorProduct
 set_option maxHeartbeats 1000000 in

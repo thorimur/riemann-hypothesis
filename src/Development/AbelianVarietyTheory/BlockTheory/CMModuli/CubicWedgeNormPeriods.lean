@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.CMModuli.ExponentialDifferential
 import Development.AbelianVarietyTheory.BlockTheory.CMModuli.PolarizationCorrespondence
 

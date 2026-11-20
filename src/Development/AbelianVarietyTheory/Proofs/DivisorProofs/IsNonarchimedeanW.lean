@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MinorAtZero
-import Development.AbelianVarietyTheory.Definitions.Divisors.NatCastNeZeroG
 
 set_option autoImplicit false
 

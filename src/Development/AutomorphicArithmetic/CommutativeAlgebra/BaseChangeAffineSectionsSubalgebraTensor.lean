@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.IsChart
 import Development.EtaleCohomology.EtaleSheaves.H0TwistOverClosedField
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.PullbackGamma
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC GroundTheory.FunctionField UpperTheory.Et.Sel LateralTheory.E.E4

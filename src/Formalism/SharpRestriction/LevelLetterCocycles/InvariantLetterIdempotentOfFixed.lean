@@ -1,9 +1,5 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.IsTruncIff
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.Pi0PowSmulInjective
-import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.ExistsInIInPNPowSmulSubMap
 import Formalism.SharpRestriction.LevelLetterCocycles.KillerLevCoreOf
-import Formalism.SharpRestriction.LevelLetterCocycles.CoordHomMapTrace
-import Formalism.SharpRestriction.LevelLetterCocycles.DeltaInvariantLattices
 import Formalism.SharpRestriction.LevelLetterCocycles.ExpRules
 
 noncomputable section

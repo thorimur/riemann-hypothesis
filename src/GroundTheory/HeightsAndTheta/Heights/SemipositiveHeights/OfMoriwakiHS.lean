@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.OfMoriwakiHS
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PBirationalModelExists
 set_option maxSynthPendingDepth 1

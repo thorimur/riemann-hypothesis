@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.Wp3ApplyEqSqMulSubSqMul
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.JEvExists
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RealIoX
 
 noncomputable section
 

@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.RestRawTail1Of
-import Formalism.SharpRestriction.GrowthBounds.FrobeniusPaths.LiftSubstitutionCoeffDivisible
+import Mathlib.RingTheory.LocalProperties.Reduced
 
 noncomputable section
 

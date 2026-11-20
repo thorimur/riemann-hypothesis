@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsSemilocRing
 set_option maxSynthPendingDepth 1
 

@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.GaloisLevelStructure.DefsLevel
 import Formalism.LocalToGlobal.AdelicCompactOpens.GLintCompactOpen
+import Formalism.LocalToGlobal.GaloisLevelStructure.DefsAut
 
 namespace Formalism.L2.Props
 

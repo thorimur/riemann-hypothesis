@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.ThetaLifts.SmallCones.ThetaUniq
 import Development.WeilBound.ThetaLifts.SmallCones.IdeleTop
 import GroundTheory.GlobalFields.TateThesis.GlobalZeta

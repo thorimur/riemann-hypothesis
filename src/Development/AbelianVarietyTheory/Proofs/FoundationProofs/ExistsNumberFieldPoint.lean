@@ -1,10 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.ExistsFlatSecRankZero
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.FrameLawsOfModuli
-import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.AbelianSchemeLawsUnconditional
-import Formalism.LocalToGlobal.ProjectiveLattices.LocFld
 import Formalism.LocalToGlobal.ProjectiveLattices.LocFrLoc
-import Formalism.LocalToGlobal.ProjectiveLattices.GenSpecCut
 
 noncomputable section
 

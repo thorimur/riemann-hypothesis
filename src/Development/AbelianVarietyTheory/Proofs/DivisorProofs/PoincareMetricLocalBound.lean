@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ModelDdcForms
-import ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FormAtContinuousStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositivePotentialFormPosStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.QuadraticFormTwoSidedBoundStatement

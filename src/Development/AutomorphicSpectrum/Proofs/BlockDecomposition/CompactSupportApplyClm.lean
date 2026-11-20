@@ -1,12 +1,6 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AverageDerivativeL1Bound
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LengthFunctionFactsHold
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DifferentiableAtOfSmooth
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.Rr
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousOnFderivApply
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FderivZeroApply
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RdSkewEqConst
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CasimirRightLaplacianFormula
 
 noncomputable section
 

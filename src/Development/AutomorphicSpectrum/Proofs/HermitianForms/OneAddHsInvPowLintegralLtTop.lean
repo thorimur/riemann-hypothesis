@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.PeriodIntegrals.IsLowUnitH
-import Formalism.RealPlaceAnalysis.FinalF
+import Formalism.PeriodIntegrals.UpqRep
+import Formalism.RealPlaceAnalysis.RealPlaceTaylor.FrobeniusBoundOfMulNearOne
 open MeasureTheory Matrix Finset PI.UpqRep
 open scoped InnerProductSpace ENNReal ComplexOrder
 

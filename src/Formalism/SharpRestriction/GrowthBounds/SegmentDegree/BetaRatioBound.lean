@@ -1,8 +1,8 @@
-import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.DminusLeBeS
 import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.DiscriminantNonzeroModUniformiser
 import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.FrameZeroStrictMono
 import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.DistAddTwoLeOfSameVec
 import Formalism.ThetaLogCoordinates.ResidueClassEstimates.VandermondeRankEstimates.AdmissibleSmallRatio
+import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.TauDegreeOnPathBound
 
 noncomputable section
 

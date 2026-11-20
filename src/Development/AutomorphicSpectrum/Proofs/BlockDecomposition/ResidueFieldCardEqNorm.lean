@@ -1,8 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.PoitouTateNormalised
-import GroundTheory.LocalFields.MainTheorem
-import GroundTheory.GlobalFields.LocalFieldAtPlace
 import GroundTheory.GlobalFields.KummerTheory.LocalIndexAtPlace
+import Formalism.ConjugateSelfDual.Statement
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ValuativeRel
 
 namespace GlobalTheory.CompanionTheory.LocRes

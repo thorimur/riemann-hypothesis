@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeGroups.BaseRepGL3NormalisedOfPsiEqOne
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerMore
 
 theorem UpperTheory.Reformulated.B.StationaryPhaseModel.matIrr_conj :

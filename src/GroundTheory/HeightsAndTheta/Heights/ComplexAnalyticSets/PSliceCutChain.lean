@@ -1,14 +1,10 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceCutChain
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StChartMassCompact
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCutOffBoundaryBound
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCutOffGradient
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PHessCCompPluri
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PLogLogCutHessDeriv
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFibreBound
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSheetSumMeasurable
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PSliceIdeal
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PartsPiola
+import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PartsAlg
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

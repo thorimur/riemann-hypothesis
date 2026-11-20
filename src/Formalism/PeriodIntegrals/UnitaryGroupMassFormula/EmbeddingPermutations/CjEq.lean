@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.EmbPerm
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace PI.EmbPermWork
 

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.IntegralModels.ChartGlueLat
+import GroundTheory.HeightsAndTheta.Heights.IntegralModels.ChartGlueSat
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Model

@@ -1,5 +1,7 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.IsFundSet
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.LinearAlgebra.Matrix.Permutation
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

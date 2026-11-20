@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.IntegralNormalization.NormAICOf
+import Mathlib.Order.CompletePartialOrder
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry LateralTheory.E.t_E2Cut Polynomial

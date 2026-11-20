@@ -1,5 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.DvdMulOfIdem
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.Fourier.FiniteAbelian.PontryaginDuality
+import Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar
+import Mathlib.Data.Int.Star
+import Mathlib.GroupTheory.IndexNSmul
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 open scoped nonZeroDivisors
 

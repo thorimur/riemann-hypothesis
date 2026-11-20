@@ -1,7 +1,4 @@
-import Formalism.LocalToGlobal.Columns.XiFirstLawAllLevels
 import Formalism.LocalToGlobal.Columns.ChainLawPhiPf
-import Formalism.LocalToGlobal.Columns.ChainLawXi
-import Formalism.LocalToGlobal.Columns.ChainLawXiTgt
 
 open NumberField IsDedekindDomain
 

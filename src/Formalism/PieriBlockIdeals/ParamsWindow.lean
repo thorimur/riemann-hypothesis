@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.RankGapBounds.CloudMinFalse
 
 noncomputable section

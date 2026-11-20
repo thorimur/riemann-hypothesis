@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.NormResidueSymbol.Abstract
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Topology.Connected.Separation
 
 namespace GroundTheory.Global
 

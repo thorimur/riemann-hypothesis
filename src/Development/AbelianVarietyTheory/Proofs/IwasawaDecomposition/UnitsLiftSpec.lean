@@ -1,11 +1,10 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RingSpecNormalisedCharacterEq
-import Formalism.LocalToGlobal.NormalizedHeckeFactors.CoverStd
-import Formalism.LocalToGlobal.NumberFieldFamilies.NPartCNdTie
 import Formalism.LocalToGlobal.NumberFieldFamilies.NPartCNdStd
 import Formalism.LocalToGlobal.NumberFieldFamilies.NPartCNdProj
 import Formalism.LocalToGlobal.NumberFieldFamilies.HeckeLift0
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTameGenAt
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LocAutHodgeTateWeightsLevelZeroDef
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.WdOfMono0L
+import Formalism.LocalToGlobal.ProjectiveLattices.HalfOneAddSqrtNegIsIntegral
+import Formalism.SharpRestriction.LevelLetterCocycles.TwGood
 open Formalism.BasicNotions Formalism.MainNotions Formalism.MainNotions.N Formalism.ConjugateSelfDual ReciprocityTheory.Gal ReciprocityTheory.Aut Formalism.AUTREP Formalism.L2 Formalism.L2.Host Formalism.L2.NT Formalism.IndefR.NX GlobalTheory.HeightCounting NumberField IsDedekindDomain Polynomial
 open Formalism.L2.Fam.NPC Formalism.L2.Fam.NPC.BaseC
 

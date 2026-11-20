@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ComapBcComp
+import Mathlib.Order.CompletePartialOrder
 open AlgebraicGeometry CategoryTheory CategoryTheory.Limits Opposite
 universe u
 

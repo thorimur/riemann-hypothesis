@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GKModules.Garding
 import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.GKStableConv
 

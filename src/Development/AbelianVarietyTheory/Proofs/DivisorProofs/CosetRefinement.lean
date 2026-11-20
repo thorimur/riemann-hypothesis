@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.TopPlaceLogTheta
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.PaddedLastEntry
-import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeightedNormSquareRows
-import Development.AbelianVarietyTheory.BlockTheory.GlobalSignature.MeanPeriodLogarithms
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LeastPrimeTwists.StrictlyAntitoneWeights.GaussianCaseFreeExponents
 
 noncomputable section

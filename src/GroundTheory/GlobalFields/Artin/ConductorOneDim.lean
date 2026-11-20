@@ -1,8 +1,5 @@
-import Mathlib
 import GroundTheory.GlobalFields.Artin.ConductorInflation
 import GroundTheory.GlobalFields.Artin.OneDim
-import GroundTheory.LocalFields.ArtinConductorMax
-import GroundTheory.LocalFields.SeparableClosure
 
 noncomputable section
 

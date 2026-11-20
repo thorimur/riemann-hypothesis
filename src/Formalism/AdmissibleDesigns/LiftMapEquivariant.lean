@@ -1,4 +1,3 @@
-import Formalism.AdmissibleDesigns.FinDimOfLat
 import Formalism.AdmissibleDesigns.LenComapSurj
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]

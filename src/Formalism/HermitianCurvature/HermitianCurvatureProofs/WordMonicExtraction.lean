@@ -1,4 +1,10 @@
 import Formalism.HermitianCurvature.LevelRecursionCondNeeded
+import Mathlib.LinearAlgebra.Lagrange
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.FourierDecayAlt.P.WordMonicExtraction
 

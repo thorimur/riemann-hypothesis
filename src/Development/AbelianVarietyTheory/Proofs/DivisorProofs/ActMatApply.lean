@@ -1,8 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPreChain
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CutsSecOfIsLat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsOpenImmersionChart
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalModelLettersPresentation
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 400000

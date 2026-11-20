@@ -1,5 +1,7 @@
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FamilyLeCoords
 import ReciprocityTheory.L2DbarEstimates.JacobianInterpolationStatement
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace ReciprocityTheory.L2DbarEstimates.Y
 

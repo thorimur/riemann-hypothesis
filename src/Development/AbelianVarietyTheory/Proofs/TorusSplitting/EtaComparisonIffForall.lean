@@ -1,11 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.ProjectiveLattices.I2AtFramePointsAlpha
 import Development.AbelianVarietyTheory.BlockTheory.ArchimedeanEta.EtaleProductAlpha
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.DifferentiableConjConj
-import Development.AbelianVarietyTheory.Proofs.TorusSplitting.SemicharUnitFrame
 import Development.AbelianVarietyTheory.Proofs.TorusSplitting.AppellHumbertSectionEntireWithFactor
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.EtaProductOfTorusBound
-import Development.AbelianVarietyTheory.Proofs.JetHarmonics.TorusConditionWithW0OfPins
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.Columns.BrpStarLatLattice
+import Formalism.LocalToGlobal.Columns.BzdConjTTranspose
+import Mathlib.LinearAlgebra.Matrix.Permutation
 
 open MvPolynomial NumberField
 open scoped Matrix

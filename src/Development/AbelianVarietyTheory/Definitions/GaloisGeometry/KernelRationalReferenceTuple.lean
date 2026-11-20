@@ -1,8 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.JetsRationalOfKernelRationality
-import Formalism.SharpRestriction.Divisibility.OrbitPlaces
 import Formalism.LocalToGlobal.KernelLattices.ColumnData.KerEntHyp
-import Formalism.GradedWeylDivisibility.FinalC
 
 noncomputable section
 

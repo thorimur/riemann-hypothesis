@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.GelfandTransference.Statement
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace Bl.DetNormLeProdRows
 

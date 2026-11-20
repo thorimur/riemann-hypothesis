@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.FixedVectorEqOfStandardData
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsTwIffCanonEq
 import Formalism.LocalToGlobal.HilbertRowConditions.RowPin
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LastAllTranspose
 

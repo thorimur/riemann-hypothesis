@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.TemperedSubrepresentationComplex
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.ConclusionOfStepsOne
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.NegNotMemSpecialLinearPartUnitaryOneOne
 
 noncomputable section

@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.LocalFields.LubinTatePoints
-import GroundTheory.LocalFields.Eisenstein
+import Mathlib.Algebra.GroupWithZero.Submonoid.CancelMulZero
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

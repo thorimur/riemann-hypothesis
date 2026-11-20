@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WirtConst
+import Mathlib.LinearAlgebra.Matrix.Hermitian
 open Matrix GlobalTheory.MatDeriv
 open scoped Topology
 

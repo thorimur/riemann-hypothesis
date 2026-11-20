@@ -1,27 +1,9 @@
-import Mathlib
-import Formalism.SharpRestriction.Divisibility.ZetaProductPairs
 import Formalism.SharpRestriction.Divisibility.InnerProductFormulaField
 import Formalism.SharpRestriction.Divisibility.AbsolutelyIrreducibleSpan
 import Formalism.SharpRestriction.Divisibility.JumpSets
-import Formalism.SharpRestriction.Divisibility.LiftErrorLocal
 import Formalism.SharpRestriction.Divisibility.LocalQuadraticParts
 import Formalism.SharpRestriction.Divisibility.FamilyThetaDenominatorValues
-import Formalism.SharpRestriction.ParConsts
 import Formalism.SharpRestriction.GrowthBounds.WeilJacquetShalikaLaw
-import Formalism.SharpRestriction.GlobalSchurBounds.ProductFirstZerothParts
-import Formalism.SharpRestriction.CuspSpanNormBounds.CayleySignature
-import Formalism.SharpRestriction.ElevenLe
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalRingCardinality.DataBu
-import Formalism.LocalRingCardinality.DataDIV
-import Formalism.LocalRingCardinality.DataDIVDefs
-import Formalism.LocalRingCardinality.DataErr
-import Formalism.LocalRingCardinality.DataForced
-import Formalism.LocalRingCardinality.DataParams₂
-import Formalism.LocalRingCardinality.PrincipalHermitianLattice
-import Formalism.LocalRingCardinality.DataTheta
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
-import Formalism.LocalRingCardinality.Lemmas
 import Formalism.LocalRingCardinality.CoeNeZeroOfNotMem
 
 noncomputable section

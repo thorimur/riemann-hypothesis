@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ImportsAlt
 import Development.AbelianVarietyTheory.CrystallinePeriods.RingBasics
 
 open Formalism.Per GlobalTheory.PSer

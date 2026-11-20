@@ -1,8 +1,10 @@
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.SplitDict
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.PairwiseDisjointCell
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyDeepSubset
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegrableZetaIntegrand
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LocallyConstantExtensionByZero
+import Formalism.DoubleCosetMeasures.Statement
+import Mathlib.Data.Pi.Interval
+import Mathlib.Topology.Algebra.Nonarchimedean.TotallyDisconnected
 
 open MeasureTheory ValuativeRel Matrix Topology Filter
 open scoped NNReal ENNReal Pointwise

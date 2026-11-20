@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorsorsTrivial
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbsIntClosedLocalizationAndQuotient
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PicardGroup
 open IsLocalRing Polynomial
 
 namespace GlobalTheory.LocAcyc

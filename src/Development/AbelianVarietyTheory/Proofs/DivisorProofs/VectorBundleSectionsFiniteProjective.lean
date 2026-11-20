@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CrdInjective
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftBaseChangeDualBijective
 
 set_option autoImplicit false

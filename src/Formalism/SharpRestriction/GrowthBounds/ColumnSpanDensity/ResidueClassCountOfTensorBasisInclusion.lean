@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.EdgeLatRS
+import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.TensorBoundOfOrderBound
 
 noncomputable section
 

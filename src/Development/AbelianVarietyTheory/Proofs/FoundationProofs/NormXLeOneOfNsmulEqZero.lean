@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAddOfLt
+import Mathlib.Algebra.Order.Ring.Star
 
 namespace GlobalTheory.TorsionIntegral
 

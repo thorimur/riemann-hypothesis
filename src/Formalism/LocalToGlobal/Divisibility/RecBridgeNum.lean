@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.Divisibility.RecBridge
 import Formalism.SharpRestriction.Divisibility.HookProducts.HookProd
+import Formalism.LocalToGlobal.Divisibility.NumbersLink
 
 noncomputable section
 

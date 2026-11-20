@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.FibreUniformisationLevelTwo
-import Formalism.LocalToGlobal.ProjectiveLattices.UnifGen
 
 noncomputable section
 

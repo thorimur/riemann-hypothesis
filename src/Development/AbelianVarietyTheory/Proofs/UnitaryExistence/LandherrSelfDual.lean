@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.ComponentWModel
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsScaledIsometry
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.HasseNormTheoremQuadraticExtension

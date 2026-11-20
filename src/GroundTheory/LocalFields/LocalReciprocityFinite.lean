@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.LocalFields.LocalAxiom
-import GroundTheory.LocalFields.LocalReciprocityLimitAbstract
+import GroundTheory.LocalFields.AbstractLocalReciprocity.Isomorphism
 
 namespace GroundTheory.LocalField
 

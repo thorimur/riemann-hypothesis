@@ -1,4 +1,3 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.LeafSHNbSys
 import Development.EtaleCohomology.EtaleSheaves.LeafSHSysPf
 

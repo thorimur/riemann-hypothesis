@@ -1,12 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.LineOppositeParabolicUnitaryLeviSectionEq
-import Formalism.SatakeDualWeyl.StatementE
-import Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.RelIndexMulMeasure
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemGUIffAdjJ
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexEqOfSurj
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexUpLatEqSq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexUpLatEqProd
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnipLatIsOpenIsCompact
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ImportsTerTail
 
 open MeasureTheory GlobalTheory.PRep GlobalTheory.LGrp Formalism.UG

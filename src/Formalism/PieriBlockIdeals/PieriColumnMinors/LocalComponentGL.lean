@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PieriBlockIdeals.ContentDistanceBounds
 
 noncomputable section

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.TranslationInv
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodMapRigidity
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetricTranslationPullbackFlat

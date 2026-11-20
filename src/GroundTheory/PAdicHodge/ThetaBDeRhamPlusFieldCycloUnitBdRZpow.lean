@@ -1,8 +1,5 @@
-import Mathlib
-import GroundTheory.PAdicHodge.UntiltFrobeniusEquivSymmEpsilonNeOne
 import GroundTheory.PAdicHodge.BdRTGalois
 import GroundTheory.PAdicHodge.BdRField
-import GroundTheory.PAdicHodge.BdRAlgCl
 set_option maxSynthPendingDepth 1
 
 noncomputable section

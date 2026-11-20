@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.GlobalFields.SemilocalAlgebras.Galois
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FixedUnitsFinitelyManyNorms
-import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsRootSelectionUnitaryRankOne
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.NumberTheory.NumberField.ClassNumber
 
 noncomputable section
 

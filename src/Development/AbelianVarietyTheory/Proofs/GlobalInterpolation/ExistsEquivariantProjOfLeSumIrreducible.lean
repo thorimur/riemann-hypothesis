@@ -1,4 +1,4 @@
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.BasicForm
+import PositivityTheory.AutomorphicForms.PublishedInputs.BorelInjectivity.EquivariantProjections.ExistsEquivariantProjOfLeSumIrreducible
 open GlobalTheory.BorelCoh CategoryTheory
 open scoped ContDiff Matrix
 

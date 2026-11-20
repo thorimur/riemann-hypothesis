@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.VeryAmpleEmbedSectionsSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PNefPlusAmple
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSectionCountTop

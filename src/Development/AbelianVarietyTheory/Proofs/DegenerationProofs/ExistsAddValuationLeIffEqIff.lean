@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAddValuation
 
 namespace GlobalTheory.PadicVal

@@ -1,5 +1,5 @@
-import Formalism.PadicSubsetSums.CentralIdempotents.CentralIdempotentIntegral
 import Formalism.PadicSubsetSums.StableGradedCounts.TWCentralIdempotentIntegral
+import Mathlib.RingTheory.PiTensorProduct
 
 namespace Formalism.IrreducibleCountingLemmas.TW
 

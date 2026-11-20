@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.AdelicProofs.IdealNormPrincipalInExtension
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.TotallySplit
 open NumberField
 
 namespace GlobalTheory.CompanionTheory.Ar.Basis

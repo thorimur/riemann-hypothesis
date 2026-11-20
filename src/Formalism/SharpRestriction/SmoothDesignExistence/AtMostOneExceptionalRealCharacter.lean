@@ -1,11 +1,4 @@
-import Formalism.SharpRestriction.SmoothDesignExistence.ClosedLinkSOfClosedPeriodAndFiltration
-import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.CMFieldLemmas
-import Mathlib
-import Formalism.LandauZeroFreeBounds.NoZeroComplex
-import Formalism.SharpRestriction.GlobalSchurBounds.FirstClaimLemmaTwoFourOfLemmaTwoThree
-import Formalism.SharpRestriction.GlobalSchurBounds.PropositionTwoFiveFamilyOfAdmitted
-import Formalism.SharpRestriction.GlobalSchurBounds.JointsL
-import Formalism.PeriodIntegrals.ExplicitFormulaCounts.ExplicitFormula
+import Formalism.SharpRestriction.GlobalSchurBounds.ShortIntervalPrimes
 
 noncomputable section
 

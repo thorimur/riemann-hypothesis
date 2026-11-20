@@ -1,10 +1,6 @@
-import Mathlib
-import GroundTheory.GlobalFields.ComplexMultiplication.EllipticFunctions
-import GroundTheory.GlobalFields.ComplexMultiplication.EllipticConstant
 import GroundTheory.GlobalFields.ComplexMultiplication.EllipticRational
-import GroundTheory.GlobalFields.ComplexMultiplication.Residue
-import GroundTheory.GlobalFields.ComplexMultiplication.ResidueTheorem
 import GroundTheory.GlobalFields.ComplexMultiplication.EllipticResidues
+import Mathlib.Order.CompletePartialOrder
 
 open Complex Filter Topology Set
 open scoped PeriodPair

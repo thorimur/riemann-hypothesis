@@ -1,6 +1,9 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.RealPointsToUnitaryGroupVal
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankLeCardOfVanish
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 open NumberField GlobalTheory.LKTrip GlobalTheory.HTBetti GlobalTheory.Kg
 open scoped TensorProduct Matrix.Norms.L2Operator
 

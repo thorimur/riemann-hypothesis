@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Foundations.IsIwasawaOfIsCompact
+import Mathlib.RingTheory.PicardGroup
 
 namespace GlobalTheory.Doubling
 

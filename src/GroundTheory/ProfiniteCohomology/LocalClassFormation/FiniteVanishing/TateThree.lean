@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.TateCohomology.TateTheorem
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.FiniteVanishing.IntScalars
 set_option maxSynthPendingDepth 1

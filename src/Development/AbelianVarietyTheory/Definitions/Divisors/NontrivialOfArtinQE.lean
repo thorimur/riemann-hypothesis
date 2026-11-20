@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.CircleAsphGNontrivial
 import Development.AbelianVarietyTheory.Definitions.Divisors.HxiTZeroComb
+import Mathlib.Topology.Separation.Lemmas
 
 noncomputable section
 namespace GlobalTheory.KS

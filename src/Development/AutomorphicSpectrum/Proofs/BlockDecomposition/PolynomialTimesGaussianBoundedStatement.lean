@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PolynomialTimesGaussianBounded
 universe u
 set_option maxHeartbeats 1000000 in

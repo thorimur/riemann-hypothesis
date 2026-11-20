@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TriModOfBlockTriangular
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBlowupEffectiveCartierCoverStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoverMorphismGenericPointSpecializesStatement

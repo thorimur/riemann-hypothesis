@@ -1,6 +1,6 @@
-import Formalism.LocalToGlobal.Columns.TiedCls
-import Formalism.LocalToGlobal.Columns.AtTOwedS
 import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleLayerExistsGenerators
+import Formalism.LocalToGlobal.Columns.RecLevelStep
+import Formalism.LocalToGlobal.Columns.TiedCrd
 
 open NumberField IsDedekindDomain Module Matrix
 open scoped TensorProduct

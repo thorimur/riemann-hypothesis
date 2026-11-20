@@ -1,5 +1,5 @@
-import Mathlib
 import ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialOfFun
+import Mathlib.Order.CompletePartialOrder
 
 namespace GlobalTheory.IndefiniteRowSideFullHecke.BoundaryPolynomialFunctions
 

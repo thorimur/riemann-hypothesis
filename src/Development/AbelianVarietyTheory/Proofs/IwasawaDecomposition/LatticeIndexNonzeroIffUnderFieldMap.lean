@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.QuotientMetricDivisors.Statement
-import Formalism.HermitianLattices.StatementLat
 import Formalism.LocalRingCardinality.Lemmas
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.MapSpanBaseChangeEquivSubmoduleOf
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.LengthBaseChangeQuotientOfMapMaximalIdeal

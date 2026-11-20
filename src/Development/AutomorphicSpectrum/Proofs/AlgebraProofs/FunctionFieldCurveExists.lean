@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.HodgeTatePoints.InhConj
 
 open AlgebraicGeometry CategoryTheory NumberField

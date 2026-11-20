@@ -1,5 +1,6 @@
-import Formalism.LocalToGlobal.GlobalTheory.ColValOfTiedSOfFin
-import Formalism.LocalToGlobal.GlobalTheory.ColMemOfIsLocBasis
+import Formalism.LocalToGlobal.GlobalTheory.GL6.BwAValIntegralNonneg
+import Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocGlob
+import Formalism.LocalToGlobal.GlobalTheory.GramNDetNe
 
 noncomputable section
 

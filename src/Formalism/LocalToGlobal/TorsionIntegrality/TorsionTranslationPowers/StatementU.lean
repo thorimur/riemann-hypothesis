@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.IsTransSys
+import Formalism.GaussJetBounds.Statement
 
 open PowerSeries
 

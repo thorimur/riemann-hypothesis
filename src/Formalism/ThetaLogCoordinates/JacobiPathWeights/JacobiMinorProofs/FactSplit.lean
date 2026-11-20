@@ -1,7 +1,6 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.CorA3primeB
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.JacobiMinorProofs.ExistsSuppOfEvalNe
-import Formalism.ThetaLogCoordinates.JacobiPathWeights.JacobiMinorProofs.IndexWeightsDominance
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

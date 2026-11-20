@@ -1,5 +1,6 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.LeafSHSysPf
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
+import Mathlib.RingTheory.TotallySplit
 
 open CategoryTheory Limits TensorProduct
 

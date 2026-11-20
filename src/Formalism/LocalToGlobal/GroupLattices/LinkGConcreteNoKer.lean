@@ -1,6 +1,7 @@
 import Formalism.LocalToGlobal.GroupLattices.StdSubAtOfRing
 import Formalism.LocalToGlobal.GroupLattices.AdmissibleFamilyNoKernel
 import Formalism.LocalToGlobal.GroupLattices.TrivialTransfer.GramTotallyDefinite
+import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NpDescFOfValRatF
 
 noncomputable section
 

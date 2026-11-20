@@ -1,5 +1,5 @@
 import Formalism.WachLatticeTwists.CoprimeLiftBounds.Statement
-import Formalism.CharacterColumnKernels.IdempotentNormalForms.ColKerChiOne
+import Mathlib.Tactic.Polynomial.Basic
 
 open Finset
 

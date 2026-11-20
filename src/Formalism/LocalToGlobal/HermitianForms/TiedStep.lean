@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.HermitianForms.PsiZeroNontrivialCharacter
 import Formalism.LocalToGlobal.HermitianForms.DetShiftShW
+import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 
 noncomputable section
 

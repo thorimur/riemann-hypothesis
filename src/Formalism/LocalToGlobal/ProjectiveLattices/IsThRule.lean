@@ -1,7 +1,6 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.IsCombAt
 import Formalism.LocalToGlobal.ProjectiveLattices.RowDeg
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ThetaVV
-import Mathlib.RingTheory.RingHom.FaithfullyFlat
 
 set_option autoImplicit false
 

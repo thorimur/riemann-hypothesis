@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.EnInParamKProd
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.EnGePProdRat
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.FacEmbDomain
 
 noncomputable section
 

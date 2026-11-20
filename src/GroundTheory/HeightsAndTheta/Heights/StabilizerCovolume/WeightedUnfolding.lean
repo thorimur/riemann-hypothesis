@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.StabilizerCovolume.WeightedScaling
 set_option maxSynthPendingDepth 1
 

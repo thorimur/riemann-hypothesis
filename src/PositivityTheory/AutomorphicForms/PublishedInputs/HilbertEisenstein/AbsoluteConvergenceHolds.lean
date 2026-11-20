@@ -1,4 +1,3 @@
-import PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.P5meas
 import PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.GaussianWeightRealNonneg
 import PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.KernelMeasureBoundAndMeasurability
 

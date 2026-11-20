@@ -1,5 +1,4 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL4.BranchingNormalisedOfAdjoint
-import Formalism.GradedWeylDivisibility.FockSpaceTableaux.FockQRowDivAdj
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

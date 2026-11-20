@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.CoprimeRanks.OfPInjective
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.AnyLevel
 
 open NumberField Formalism.HC Formalism.FrobeniusOrbits

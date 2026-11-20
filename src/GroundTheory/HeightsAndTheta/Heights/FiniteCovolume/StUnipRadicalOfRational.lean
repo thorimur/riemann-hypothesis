@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsStabilizerLevi
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume

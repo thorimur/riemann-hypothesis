@@ -1,5 +1,7 @@
-import Mathlib
 import ReciprocityTheory.CommutativeAlgebra.PolynomialHeights.HeightAddRingKrullDimQuotientMvPolynomialField
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.MvPolynomial.IrreducibleQuadratic
 
 namespace ReciprocityTheory.AnForm.R.IntegerToRational
 

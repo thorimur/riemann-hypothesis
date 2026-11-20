@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.LocalFormOfThreeInputs
+import Formalism.SharpRestriction.LevelLetterCocycles.LocalTheoremOfGoodExtensions
 
 noncomputable section
 

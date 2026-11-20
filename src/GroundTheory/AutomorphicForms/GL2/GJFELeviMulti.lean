@@ -1,5 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJFELeviPeel
+import GroundTheory.AutomorphicForms.GL2.GJFEBlock
+import GroundTheory.AutomorphicForms.GL2.GJFELeviConv
+import Mathlib.GroupTheory.IsPerfect
 
 noncomputable section
 

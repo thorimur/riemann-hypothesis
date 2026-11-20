@@ -1,6 +1,7 @@
-import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.SchAFacts
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.SplitStab
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.HalfIndexLattices.IsLatRepL
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzMemL2
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfMemSchA
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerPreservesSchwartz
 
 set_option synthInstance.maxHeartbeats 200000
 

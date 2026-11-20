@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.StRedOfParts
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

@@ -1,7 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.ParConsts
-import Formalism.LocalRingCardinality.DataKerI
-import Formalism.LocalRingCardinality.CoeNeZeroOfNotMem
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyPlacesOfRecord
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.NotMemTopPlaces
 open Formalism.MainNotions Formalism.BasicNotions Formalism.MainNotions.G Classical

@@ -1,9 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.LFunctionPositiveConductorFourEight
-import Formalism.GL3MeanSquares.PrimeCountAsymptoticInProgressions
-import Formalism.FrobeniusOrbits.HostCorollaries
-import Formalism.SharpRestriction.GlobalSchurBounds.MainIn
-import Formalism.SharpRestriction.GlobalSchurBounds.ZetaZeroFreeRegion
+import Formalism.SharpRestriction.GrowthBounds.IsResidueClassZero
 open GlobalTheory.NT Formalism.MainNotions Formalism.MainNotions.GlobalTheoryTheory Formalism.BasicNotions NumberField IsDedekindDomain
 
 namespace GlobalTheory.OrbitTerms

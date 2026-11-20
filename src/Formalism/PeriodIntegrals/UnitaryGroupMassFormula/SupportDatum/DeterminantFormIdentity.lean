@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SupportParts
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.Blocks
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.PowModTwoOfSq
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.ModKUnitMul

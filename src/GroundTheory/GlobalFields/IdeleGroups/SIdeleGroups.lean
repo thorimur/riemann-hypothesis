@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.ClassGroup
+import Mathlib.NumberTheory.NumberField.ClassNumber
+import Mathlib.RingTheory.DedekindDomain.SInteger
 
 namespace GroundTheory.Global
 

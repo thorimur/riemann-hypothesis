@@ -1,4 +1,6 @@
 import Formalism.PeriodIntegrals.QmRowForm
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Mathlib.Tactic.ENatToNat
 
 open Finset Formalism.REAL
 

@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.DropLevelBounds.Statement
 import Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.LeWeightOfCoeffPow
+import Mathlib.RingTheory.MvPowerSeries.Rename
 open Formalism.UnitaryBoundIntegral Formalism.IncomingBounds
 open scoped BigOperators
 

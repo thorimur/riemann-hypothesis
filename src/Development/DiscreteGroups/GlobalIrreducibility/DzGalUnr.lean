@@ -1,7 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.LocalLanglandsGL
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.BlockValAe
 import Development.DiscreteGroups.GlobalIrreducibility.DzIneEq
+import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.HasExponentZeroIff
+import Mathlib.Data.Int.Star
+import Mathlib.NumberTheory.RamificationInertia.Basic
 
 noncomputable section
 

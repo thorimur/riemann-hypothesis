@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.RegularUFDLocalization
+import Mathlib.LinearAlgebra.Alternating.Uncurry.Fin
+import Mathlib.LinearAlgebra.ExteriorPower.Basis
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Ideal.UFD
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

@@ -1,4 +1,3 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJfSmoothCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutBesselEigen
 
 open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt NumberField MeasureTheory

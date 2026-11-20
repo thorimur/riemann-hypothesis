@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HasProdLocalRankinSelbergFactorSelfOfEulerProduc
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SchurDir
 open NumberField IsDedekindDomain GlobalTheory.JSW
 open scoped ENNReal
 set_option maxHeartbeats 1000000 in

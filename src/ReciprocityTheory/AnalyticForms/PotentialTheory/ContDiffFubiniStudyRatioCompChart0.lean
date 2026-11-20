@@ -1,4 +1,6 @@
 import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffOnFubiniStudyProfileInvNormSqFirst
+import Mathlib.Analysis.SpecialFunctions.Complex.Analytic
+import Mathlib.Analysis.SpecialFunctions.SmoothTransition
 
 namespace ReciprocityTheory.AnForm.M
 

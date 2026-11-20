@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.MeanSquareBounds.PrimeSetTwoBounds
 import Development.AutomorphicArithmetic.MeanSquareBounds.TwistPrim
 import Development.AutomorphicArithmetic.MeanSquareBounds.IndUnique
 

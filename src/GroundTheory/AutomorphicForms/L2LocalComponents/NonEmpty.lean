@@ -1,6 +1,8 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.L2LocalComponents.NonEmptyOps
 import GroundTheory.AutomorphicForms.MultiplicityOne.ArchTypeExists
+import GroundTheory.AutomorphicForms.L2LocalComponents.ArchBump
+import GroundTheory.AutomorphicForms.L2LocalComponents.CenterCommute
+import GroundTheory.AutomorphicForms.L2LocalComponents.Summand
 
 open MeasureTheory Filter Topology
 open scoped InnerProductSpace

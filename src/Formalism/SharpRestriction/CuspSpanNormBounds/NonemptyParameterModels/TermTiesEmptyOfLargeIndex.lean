@@ -1,8 +1,6 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.FlagEEqHyperbolic
-import Formalism.SharpRestriction.CuspSpanNormBounds.LocalGroupInFamilyNontrivial
 import Formalism.SharpRestriction.CuspSpanNormBounds.UniformConstantsAndStatements
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 import Formalism.LocalRingCardinality.SpanPowerMembership.ExampleClassGroupCardPos
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

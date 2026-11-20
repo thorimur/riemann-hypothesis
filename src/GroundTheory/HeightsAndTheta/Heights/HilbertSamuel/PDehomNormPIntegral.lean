@@ -1,6 +1,9 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDehomNormPIntegral
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PDehomCharpolyForms
+import Mathlib.NumberTheory.Padics.PadicNumbers
+import Mathlib.RingTheory.Polynomial.IsIntegral
+import Mathlib.RingTheory.Valuation.AlgebraInstances
+import Mathlib.RingTheory.Valuation.LocalSubring
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

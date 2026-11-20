@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.IsLocalHom
+import Mathlib.RingTheory.AdicCompletion.RingHom
 
 private theorem UpperTheory.Reformulated.B.LevelOfCongruence.level {C R T : Type} [CommRing C] [CommRing R] [CommRing T]
     (a : C →+* R) (f : C →+* T) (M : Ideal R) (K : Ideal T)

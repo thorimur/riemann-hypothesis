@@ -1,6 +1,5 @@
-import Mathlib
-import Formalism.PeriodIntegrals.LongWeylElementSquare
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GaussianUniqueness.MulMApply
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.GlobalFields.SUnits
+import Mathlib.GroupTheory.IndexNSmul
+import Mathlib.RingTheory.RootsOfUnity.EnoughRootsOfUnity
 
 namespace GroundTheory.Global
 

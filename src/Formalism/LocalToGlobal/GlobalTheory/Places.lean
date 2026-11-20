@@ -1,4 +1,6 @@
-import Formalism.SharpRestriction.GlobalSchurBounds.LinkPk
+import Formalism.SharpRestriction.Divisibility.LocalQuadraticParts
+import Formalism.SharpRestriction.GlobalSchurBounds.JointsF
+import Formalism.SharpRestriction.GlobalSchurBounds.TopDensityNGeSixteen
 
 noncomputable section
 

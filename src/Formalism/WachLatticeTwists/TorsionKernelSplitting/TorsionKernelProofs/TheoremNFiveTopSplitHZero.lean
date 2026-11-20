@@ -1,5 +1,4 @@
-import Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.TheoremNFiveTopSplit
-import Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.TorsionLeHZero
+import Formalism.WachLatticeTwists.TorsionKernelSplitting.WachTwistSplitTheoremHZero
 
 open Finset Classical
 

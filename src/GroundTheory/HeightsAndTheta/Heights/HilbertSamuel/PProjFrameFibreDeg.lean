@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsProjFrameFibreDeg
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsProjFrameFibrePt
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRatioFieldDeg
@@ -6,6 +5,7 @@ import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsTranscRatioD
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsProjFrameGenPtRel
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsProjFrameGenPtTransc
 import GroundTheory.HeightsAndTheta.Heights.Intersections.PChartRankAdjoin
+import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ProjFrameGraphChart
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.HilbertSamuel

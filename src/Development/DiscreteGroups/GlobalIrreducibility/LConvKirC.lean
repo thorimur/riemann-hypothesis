@@ -1,5 +1,4 @@
-import Mathlib
-import Development.DiscreteGroups.GlobalIrreducibility.ContinuousKinv2
+import Development.DiscreteGroups.GlobalIrreducibility.InHCorner
 
 noncomputable section
 set_option linter.unusedSimpArgs false

@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.StatementsElem
-import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.Elementary
 import GroundTheory.HeightsAndTheta.Heights.RemainderTerms.PrimeWeightEqZeroOfLt
 set_option maxSynthPendingDepth 1
 

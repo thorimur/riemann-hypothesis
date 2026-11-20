@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WittDecomposition.Anisotropic
+import Mathlib.RingTheory.SimpleRing.Principal
 
 namespace PI.Witt
 

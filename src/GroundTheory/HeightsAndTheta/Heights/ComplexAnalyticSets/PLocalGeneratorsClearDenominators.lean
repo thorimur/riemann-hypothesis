@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLocalGeneratorsClearDenominators
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerRest
 set_option maxSynthPendingDepth 1

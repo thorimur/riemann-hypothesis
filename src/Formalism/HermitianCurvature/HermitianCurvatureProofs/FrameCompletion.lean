@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.FrameExists2
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.AnisotropicColumnSums
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LemmaDDeterminantIdentity
 
 open Matrix Finset Filter Topology
 

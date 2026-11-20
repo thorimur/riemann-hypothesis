@@ -1,6 +1,3 @@
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BrgStdR
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousActP
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StdSideUnique
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ClassPresBasic
 open Formalism.BasicNotions Formalism.MainNotions Formalism.BasicNotions.TH NumberField IsDedekindDomain Formalism.L2.Theta Formalism.L2.DIV Formalism.IndefR Formalism.IndefR.Links GlobalTheory.Mem GlobalTheory.Mem.R3
 attribute [local instance] Formalism.BasicNotions.Host.cmStar

@@ -1,4 +1,9 @@
 import ReciprocityTheory.CommutativeAlgebra.CohenMacaulay.ModDepthGE
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.RingTheory.WittVector.IsPoly
+import ReciprocityTheory.CommutativeAlgebra.ChainConnInDim
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace ReciprocityTheory.CA
 

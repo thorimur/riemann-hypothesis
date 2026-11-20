@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsLatBasisHtLatIffSpanEq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHomExtOfGrpPullback
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTorsionMap
 

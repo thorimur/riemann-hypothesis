@@ -1,7 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CountDefs
-import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.SegLow
-import Formalism.SharpRestriction.GrowthBounds.CountingStatementReduction
 import Formalism.SharpRestriction.GrowthBounds.ProjectionOfIsotypicDecomposition
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralPolyLinearMapClosed
 
 noncomputable section
 

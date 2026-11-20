@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.ArithmeticGeometry.AbelianVarieties.KodairaNeronSplit
+import GroundTheory.ArithmeticGeometry.AbelianVarieties.KodairaNeronLine
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.Abelian

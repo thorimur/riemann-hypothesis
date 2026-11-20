@@ -1,7 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.TiedAt
-import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TensorOneApply
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemSplit
+import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ExistsUnitarySupportedAtPlaceOfMulEqIdem
+import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemOrth
 
 noncomputable section
 

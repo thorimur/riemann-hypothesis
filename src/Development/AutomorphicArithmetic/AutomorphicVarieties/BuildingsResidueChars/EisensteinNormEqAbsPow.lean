@@ -1,5 +1,4 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.PerDeriv
-import Development.AbelianVarietyTheory.Definitions.Foundations.AbsCharNotUnitary
 open UpperTheory.V.Sd.Eis NumberField GlobalTheory.Mem.Chr.CharModel
 
 theorem UpperTheory.eisenstein_norm_eq_abs_pow :

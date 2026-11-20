@@ -1,6 +1,7 @@
-import Mathlib
 import GroundTheory.LocalFields.LocalFourierHaar
 import GroundTheory.GlobalFields.TateThesis.NoSmallSubgroups
+import Mathlib.Analysis.Fourier.FiniteAbelian.PontryaginDuality
+import Mathlib.Topology.Algebra.PontryaginDual
 
 noncomputable section
 

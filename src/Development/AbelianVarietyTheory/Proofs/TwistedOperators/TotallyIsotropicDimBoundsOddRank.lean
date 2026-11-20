@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.ConstantTermVanishing
+import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.AdelicUnitaryGroups
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 noncomputable section
 

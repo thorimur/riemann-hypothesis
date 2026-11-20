@@ -1,6 +1,7 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.ChartChg
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.WickVanishing.ContinuousPderivDisc
+import Mathlib.Algebra.DualNumber
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Topology.Connected.Separation
 
 set_option autoImplicit false
 

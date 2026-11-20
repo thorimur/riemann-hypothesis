@@ -1,6 +1,6 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PlurisubharmonicCones.DeterminantLatticeGradedTensor
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.SpecializesOfUnits
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.EtaleLocalizationAtPrimeTensorOfLowHeight
+import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.Metric
 
 open AlgebraicGeometry CategoryTheory Matrix MvPolynomial
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo

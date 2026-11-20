@@ -1,6 +1,5 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.FourthHypothesisOfLifting
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.StepJumpDirect
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.RowsExhaust
+import Formalism.SharpRestriction.LevelLetterCocycles.PairedCharacterCondition
 
 noncomputable section
 

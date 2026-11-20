@@ -1,4 +1,4 @@
-import Formalism.WachLatticeTwists.SandwichH1Classes.StatTBW
+import Formalism.WachLatticeTwists.SandwichH1Classes.HypothesisWGivesUnitCongruence
 
 noncomputable section
 

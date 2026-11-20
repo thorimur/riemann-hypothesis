@@ -1,6 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.StandardFiveNontrivial
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ImportsMore
+import Mathlib.RepresentationTheory.Basic
+import Mathlib.Tactic.Polynomial.Basic
 open Polynomial Classical GlobalTheory.BadShare
 
 namespace GlobalTheory.BadShare

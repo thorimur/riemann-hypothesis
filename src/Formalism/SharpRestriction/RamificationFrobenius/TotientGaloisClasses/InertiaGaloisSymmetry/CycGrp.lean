@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.RootEqOfSubMem
-import Mathlib
+import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Inertia
 
 open NumberField IntermediateField Ideal
 open scoped Pointwise

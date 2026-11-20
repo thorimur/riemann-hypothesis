@@ -1,5 +1,9 @@
-import Mathlib
 import Formalism.TameInertiaTowers.StatementGroup
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Subgroup
 open scoped commutatorElement

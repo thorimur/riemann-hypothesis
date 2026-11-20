@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.IsOrthCo
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.CsGlob
 

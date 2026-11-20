@@ -1,14 +1,5 @@
-import Mathlib
-import Formalism.LocalToGlobal.UnitaryNorms.CharExCol
-import Formalism.LocalToGlobal.UnitaryNorms.CharExFacts
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InfiniteEtaGenerators.CompEqEmbedding
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InfinityTypeCharacter.ContinuousUnitsMap
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GlobalFormGenerator.IntValuationConjP
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HostFieldFacts.HostFieldFacts
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HostPrimeSplitting.FinrankOE
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HostPrimeSplitting.DSplit
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMTypeEmbeddings.OnePsi
-import Formalism.LocalToGlobal.UnitaryNorms.CharExMu
+import Formalism.LocalToGlobal.Columns.AbelianHostFieldConditions
+import Formalism.LocalToGlobal.UnitaryNorms.CharExGen
 
 noncomputable section
 

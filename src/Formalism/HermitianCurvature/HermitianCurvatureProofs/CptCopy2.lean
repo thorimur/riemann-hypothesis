@@ -1,6 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutMainCpt
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutNFMainS
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.ThmBpAtEqNFR
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutBPEqNF
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.ThmBpAtEqOfShiftR
 
 namespace Formalism.FourierDecayAlt.P.CutBPEq
 open Formalism.FourierDecayAlt Formalism.FourierDecayAlt.TBB Formalism.QuantumDeterminants Formalism.FourierDecayAlt.P.CutBP Formalism.FourierDecayAlt.P.CutBP2 MeasureTheory

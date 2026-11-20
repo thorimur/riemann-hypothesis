@@ -1,5 +1,7 @@
-import Mathlib
 import Formalism.SatakeDualWeyl.Statement
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.NumberTheory.NumberField.AdeleRing
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

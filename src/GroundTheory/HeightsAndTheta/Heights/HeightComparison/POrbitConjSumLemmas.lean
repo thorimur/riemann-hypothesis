@@ -1,6 +1,6 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitConjSum
 import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.FieldChange
+import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightPtsIntegralPoints
+import GroundTheory.HeightsAndTheta.Heights.HeightComparison.POrbitDegree
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

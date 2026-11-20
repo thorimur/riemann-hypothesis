@@ -1,7 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.SemiposAtOfPositive
 import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpecializationMapCompUniversalSection
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithTopOfAdelicIsoStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntersectionOfDivisorIsoStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicIsoSymmStatement

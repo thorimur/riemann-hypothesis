@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.Columns.TiedGlSplit
-import Formalism.LocalToGlobal.Columns.TwQDefs
 
 open NumberField IsDedekindDomain Matrix
 open scoped TensorProduct

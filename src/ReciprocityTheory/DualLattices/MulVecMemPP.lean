@@ -1,4 +1,5 @@
-import ReciprocityTheory.DualLattices.HasLenLeOfSurj
+import Mathlib.Tactic.ENatToNat
+import ReciprocityTheory.DualLattices.LiftMonomialDeterminantStatement
 
 noncomputable section
 

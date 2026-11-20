@@ -1,5 +1,4 @@
-import Mathlib
-import Formalism.LocalToGlobal.BesselHermitianTheta.MinfDensity
+import Formalism.LocalToGlobal.BesselHermitianTheta.DefsReal
 
 noncomputable section
 

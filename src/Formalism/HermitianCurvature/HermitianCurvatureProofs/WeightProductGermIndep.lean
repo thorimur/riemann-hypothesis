@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.Lam1
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.SecondDefectNonneg
 
 namespace Formalism.FourierDecayAlt.P.GermRateSplit
 

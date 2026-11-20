@@ -1,5 +1,6 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsLeadBlockGaussTail
+import Mathlib.Analysis.SpecialFunctions.Gaussian.FourierTransform
+import Mathlib.MeasureTheory.Measure.Lebesgue.VolumeOfBalls
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

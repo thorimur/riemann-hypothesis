@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.RkLe
+import Formalism.LocalToGlobal.InertKernelTheory.KernelDifferenceOfFrame
 noncomputable section
 
 namespace GlobalTheory.TwV.DelA

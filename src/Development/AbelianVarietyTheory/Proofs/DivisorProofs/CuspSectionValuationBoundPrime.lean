@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeVolSlopeOfTendsto
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DrAtNonneg
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SectionIntegralReductionDvrStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinitePlaceNormBoundIntegralStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DerivativeBoundAllPointsStatement

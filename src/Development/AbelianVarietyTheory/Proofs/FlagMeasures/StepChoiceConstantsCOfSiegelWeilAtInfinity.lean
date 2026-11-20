@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.MassDataChoiceLeaves
-import Formalism.UnipotentAdelicQuotients.SiegelWeilUnitaryConvergent
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.ProdConvHoldsGen
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.SwxsOfSiegelWeil
 

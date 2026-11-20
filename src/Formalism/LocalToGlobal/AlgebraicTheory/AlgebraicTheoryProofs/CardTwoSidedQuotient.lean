@@ -1,6 +1,7 @@
-import Formalism.LocalToGlobal.AlgebraicTheory.AlgebraicTheoryProofs.KernelIndexForm
 import Formalism.LocalToGlobal.AlgebraicTheory.AlgebraicTheoryProofs.XiConn
 import Formalism.LocalToGlobal.AlgebraicTheory.AlgebraicTheoryProofs.DvdOfNormIntCastLt
+import Formalism.LocalToGlobal.AlgebraicTheory.AlgebraicTheoryProofs.LinearSubstitutionDiagonal
+import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ThDistC
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

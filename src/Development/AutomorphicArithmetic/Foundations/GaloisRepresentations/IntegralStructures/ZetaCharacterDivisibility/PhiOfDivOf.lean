@@ -1,6 +1,8 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.InsideRefl
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCommonModel
+import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.LimWPhi
+import Development.WeilBound.CoreStatements.PadicHodgeComparison.CocharacterLieDivisors.StGalW
+import Formalism.SharpRestriction.LevelLetterCocycles.SumRepresentations
 
 noncomputable section
 

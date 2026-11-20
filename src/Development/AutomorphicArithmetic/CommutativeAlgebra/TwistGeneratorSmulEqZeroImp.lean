@@ -1,5 +1,3 @@
-import Mathlib
-import Development.EtaleCohomology.EtaleSheaves.DerivUnit
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TateTwistModuleFreeAndGeneratorSummandStatement
 open CategoryTheory AlgebraicGeometry GlobalTheory.EtC
 

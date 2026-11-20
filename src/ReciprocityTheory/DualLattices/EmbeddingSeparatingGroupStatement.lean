@@ -1,4 +1,4 @@
-import ReciprocityTheory.DualLattices.EigenLiftsFrobeniusStatement
+import ReciprocityTheory.DualLattices.EigenLengthFrobeniusStatement
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ThetaConvergenceOfSiegelSetStatement
 import Development.WeilBound.ThetaLifts.Reductions.SiegelOfCore
 

@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.NewtonPowerSeriesSurjectiveLinearizationSolution
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.PowerSeriesTaylorSubstFirstOrder
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConstantCoeffHasse
+import Mathlib.RingTheory.SimpleRing.Principal
 
 open Polynomial
 

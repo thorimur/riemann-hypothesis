@@ -1,8 +1,6 @@
 import Formalism.FlagUnipotentLattices.SubmoduleGeneratorsBound
-import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.LatticeSumBounds
-import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.SchurAverage
 import Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.SumComplexEmbeddingsEqSumInfinitePlace
-import Formalism.HyperbolicPlaceProducts.SubgroupIndexCounts.DedekindLFunctions
+import Mathlib.RingTheory.PicardGroup
 
 open Module Matrix Formalism.HermitianLatticeCounting.LatticeSumBounds
 open scoped BigOperators ComplexConjugate

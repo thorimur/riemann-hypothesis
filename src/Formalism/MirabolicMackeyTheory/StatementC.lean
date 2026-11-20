@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.MirabolicMackeyTheory.StatementT
 
 open Module NumberField IsDedekindDomain

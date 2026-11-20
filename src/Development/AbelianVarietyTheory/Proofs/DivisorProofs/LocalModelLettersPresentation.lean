@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatHalfSt
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDualPullback
+import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsBaseEqChain
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 400000

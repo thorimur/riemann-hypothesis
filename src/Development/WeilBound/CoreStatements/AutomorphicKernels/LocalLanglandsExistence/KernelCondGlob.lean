@@ -1,8 +1,9 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.LocalLanglandsExistence.KernelCond
 import GroundTheory.GlobalFields.TateThesis.HeckeLFunction
 import GroundTheory.GlobalFields.SemilocalAlgebras.ContinuousCompletionMap
 import GroundTheory.GlobalFields.TateThesis.AdelicCharLocal
-import GroundTheory.GlobalFields.TateThesis.RootNumberLocalFinite
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.EpsMeasFamily
+import GroundTheory.AutomorphicForms.GL2.FiniteIdeleDecomp
+import GroundTheory.LocalFields.LocalZetaEpsilon
 
 noncomputable section
 

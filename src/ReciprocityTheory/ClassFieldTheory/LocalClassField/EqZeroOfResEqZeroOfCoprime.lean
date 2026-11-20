@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.SubsingletonHOfSubsingleton
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField

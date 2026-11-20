@@ -1,4 +1,3 @@
-import ReciprocityTheory.AnalyticForms.RegularLocalRings.MemBasicOpenSecHomIff
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.LiftChartIdeal
 
 namespace ReciprocityTheory.AnForm.R

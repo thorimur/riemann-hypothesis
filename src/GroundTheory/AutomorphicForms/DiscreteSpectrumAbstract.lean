@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.UnitaryRepresentations
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.SetTheory.ZFC.PSet
+import Mathlib.Topology.Separation.CompletelyRegular
+import Mathlib.Topology.Sheaves.Presheaf
 
 namespace GroundTheory.Automorphic
 

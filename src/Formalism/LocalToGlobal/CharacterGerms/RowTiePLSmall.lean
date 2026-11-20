@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePLSmallCv
+import Formalism.LocalToGlobal.CharacterGerms.EndomorphismLimitIntegral
 
 noncomputable section
 

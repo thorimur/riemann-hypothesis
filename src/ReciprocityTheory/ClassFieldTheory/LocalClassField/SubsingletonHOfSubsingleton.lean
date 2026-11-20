@@ -1,7 +1,6 @@
-import Mathlib
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.HomFInjective
-import ReciprocityTheory.GroupCohomology.ResNormalHolds
 import ReciprocityTheory.GroupCohomology.Shapiro
+import Mathlib.GroupTheory.IndexNormal
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField.Deg2
 

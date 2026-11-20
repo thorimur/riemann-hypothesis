@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.GrNormCompCast
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLengthOneChainIdentityEmbedding
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDvrPowEqPrime
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFrobCokernelSmulHomPow
 
 set_option autoImplicit false
 set_option synthInstance.maxHeartbeats 400000

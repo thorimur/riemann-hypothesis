@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.CyclicStrongAtCusp
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.LtOneOfContinuous
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSubquotientComp

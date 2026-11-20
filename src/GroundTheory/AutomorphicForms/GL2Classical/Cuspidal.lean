@@ -1,8 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2Classical.ConstantTerm
 import GroundTheory.AutomorphicForms.GL2Classical.Periodic
-import GroundTheory.AutomorphicForms.GL2Classical.Growth
 import GroundTheory.GlobalFields.TateThesis.AdelePoissonUniform
+import Mathlib.NumberTheory.ModularForms.Basic
 
 open NumberField IsDedekindDomain Matrix MeasureTheory Set Filter Topology CongruenceSubgroup
 open UpperHalfPlane hiding I I_re I_im

@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.LZIdemSumApprox
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open LateralTheory.E.StandardEtaleChartsIdempotentGluing Polynomial

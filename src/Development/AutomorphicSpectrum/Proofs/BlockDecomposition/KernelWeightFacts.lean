@@ -1,8 +1,8 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.FriedrichsKernels.CalcSteps
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ZOpMemCE
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryMemGLs
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LengthFunctionFactsHold
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
 
 noncomputable section
 

@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.CountLoc
-import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.FormValuationGeNegDegree
+import Formalism.SharpRestriction.GrowthBounds.LatticeSystems
 
 noncomputable section
 

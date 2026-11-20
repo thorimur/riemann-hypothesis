@@ -1,5 +1,8 @@
-import Mathlib
 import GroundTheory.Brauer.BaseChangeCSA
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
+import Mathlib.RingTheory.SimpleModule.WedderburnArtin
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.Tactic.ENatToNat
 
 set_option autoImplicit false
 noncomputable section

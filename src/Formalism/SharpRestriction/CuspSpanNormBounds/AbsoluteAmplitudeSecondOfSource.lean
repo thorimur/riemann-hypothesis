@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.LocalBesselAndTopKernel
 import Formalism.SharpRestriction.CuspSpanNormBounds.AuxiliaryNormPrimes
 import Formalism.SharpRestriction.CuspSpanNormBounds.GlobalAssemblyOfStatements

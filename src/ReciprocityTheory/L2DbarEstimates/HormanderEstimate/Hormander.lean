@@ -1,7 +1,7 @@
-import ReciprocityTheory.L2DbarEstimates.Localization.UnweightBackStatement
-import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.Imports
-import ReciprocityTheory.L2DbarEstimates.MinimalSolutions.HilbertLemmas
 import ReciprocityTheory.L2DbarEstimates.HormanderEstimate.GmSingleIsTestForm
+import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.IntegralFderivApplyEqZero
+import ReciprocityTheory.L2DbarEstimates.JacobianInterpolationStatement
+import ReciprocityTheory.L2DbarEstimates.MinimalSolutions.MinimalSolution
 
 namespace ReciprocityTheory.L2DbarEstimates.F
 

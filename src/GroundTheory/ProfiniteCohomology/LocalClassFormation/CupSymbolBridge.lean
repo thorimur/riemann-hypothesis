@@ -1,7 +1,4 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.CupProducts
 import GroundTheory.ProfiniteCohomology.CupProducts.Cocycles
-import GroundTheory.ProfiniteCohomology.CohomologyFunctoriality
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.FiniteVanishing.IntScalars
 set_option maxSynthPendingDepth 1
 

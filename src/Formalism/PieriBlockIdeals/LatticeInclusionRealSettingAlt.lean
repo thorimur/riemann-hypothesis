@@ -1,8 +1,6 @@
-import Formalism.PieriBlockIdeals.LocalFaithfullyFlat
 import Formalism.PieriBlockIdeals.BlockIdealBound5Derived
-import Formalism.PieriBlockIdeals.MertensReciprocalElementary
-import Formalism.PieriBlockIdeals.LastGradedOfGradedAlone
 import Formalism.PieriBlockIdeals.MultiplicityZeroThickEmbedding
+import Formalism.PieriBlockIdeals.ExponentBoundCounterexample
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.TwGHerm
 open NumberField TensorProduct
 

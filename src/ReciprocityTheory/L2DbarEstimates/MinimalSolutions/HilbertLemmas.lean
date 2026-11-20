@@ -1,5 +1,4 @@
 import ReciprocityTheory.L2DbarEstimates.MinimalSolutions.CvxOfConvex
-import ReciprocityTheory.L2DbarEstimates.MinimalSolutions.MinimalSolution
 import ReciprocityTheory.L2DbarEstimates.MinimalSolutions.HormanderLemma
 import ReciprocityTheory.L2DbarEstimates.MinimalSolutions.OntoWithBoundTop
 

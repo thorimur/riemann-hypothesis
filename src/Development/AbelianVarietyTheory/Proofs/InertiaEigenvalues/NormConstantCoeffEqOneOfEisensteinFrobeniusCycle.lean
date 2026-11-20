@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NormPowLeNormFactorial
+import Mathlib.Order.CompletePartialOrder
 
 namespace GlobalTheory.BK.Cycle
 

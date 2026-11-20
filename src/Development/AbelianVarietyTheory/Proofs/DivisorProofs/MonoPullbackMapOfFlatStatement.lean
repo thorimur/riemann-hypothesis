@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MonoPullbackMapOfFlat
-import Mathlib
 
 open CategoryTheory AlgebraicGeometry
 

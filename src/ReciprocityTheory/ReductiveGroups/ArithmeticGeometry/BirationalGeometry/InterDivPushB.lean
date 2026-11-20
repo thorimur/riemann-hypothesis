@@ -1,5 +1,4 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterDivPushA
-import ReciprocityTheory.AnalyticForms.PotentialTheory.SNCAtlas
 
 noncomputable section
 

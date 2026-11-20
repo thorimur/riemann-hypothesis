@@ -1,4 +1,3 @@
-import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.BuildCut
 
 open CategoryTheory Limits AlgebraicGeometry TopologicalSpace LateralTheory.E.BuildCut

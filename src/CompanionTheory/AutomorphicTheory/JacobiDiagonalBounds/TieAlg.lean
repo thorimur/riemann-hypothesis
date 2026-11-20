@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.FrameOfAdmissibleWord
+import Mathlib.Order.CompletePartialOrder
 
 namespace Formalism.FourierDecayAlt.P.NormalFormRelations
 

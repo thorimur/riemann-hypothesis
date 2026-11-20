@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.UniformGaussModels.IsHypPair
-import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.OneLetterGaussEvery
+import Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementE
+import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementG
 
 noncomputable section
 open scoped BigOperators

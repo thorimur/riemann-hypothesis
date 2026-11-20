@@ -1,5 +1,12 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ResMapBijective
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.PiSpanVariable
+import Mathlib.RingTheory.KrullDimension.NonZeroDivisors
+import Mathlib.RingTheory.MvPowerSeries.Equiv
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
 open IsLocalRing UpperTheory.V.Alg
 
 private theorem dim_ge (E : Type) [Field E] (n : ℕ) :

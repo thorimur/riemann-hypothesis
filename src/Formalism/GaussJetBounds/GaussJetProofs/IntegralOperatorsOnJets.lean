@@ -1,8 +1,6 @@
-import Formalism.GaussJetBounds.GenLogInverse
 import Formalism.GaussJetBounds.StatementQ
 import Formalism.GaussJetBounds.GaussJetProofs.ConstantCoeffQuadSer
 import Formalism.GaussJetBounds.GaussJetProofs.OneRow
-import Formalism.GaussJetBounds.GaussJetProofs.ThmAOp
 
 noncomputable section
 open scoped BigOperators

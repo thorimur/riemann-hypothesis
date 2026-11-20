@@ -1,4 +1,7 @@
 import Formalism.SuccessiveMinima.StatementNP
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Topology.Sheaves.Presheaf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace Formalism.FN
 open Filter Topology

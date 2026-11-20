@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniq
+import Formalism.LocalToGlobal.ProjectiveLattices.IsExpChart
 
 set_option autoImplicit false
 

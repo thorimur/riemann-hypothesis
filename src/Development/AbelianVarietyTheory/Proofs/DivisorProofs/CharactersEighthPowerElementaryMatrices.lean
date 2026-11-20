@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.TorMatch
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PowCompMonHom
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorMatchComp
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorMatchIdOneMul

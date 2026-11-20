@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardHermiteDataPowerQ
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IwasawaExponentHnfGL
 open GroundTheory.Automorphic GLnLocal Iwasawa
 open scoped ValuativeRel
 set_option maxHeartbeats 1000000 in

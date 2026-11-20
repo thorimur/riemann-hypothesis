@@ -5,7 +5,6 @@ import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.
 import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.InertData
 import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.OffStable
 import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.TypedEx
-import Development.AutomorphicArithmetic.Foundations.Convolution.IntegrableConvolution.EigBasic
 
 open UpperTheory.ConvolutionTheory UpperTheory.ConvolutionTheory.T in
 theorem UpperTheory.ConvolutionTheory.T.tyEx :

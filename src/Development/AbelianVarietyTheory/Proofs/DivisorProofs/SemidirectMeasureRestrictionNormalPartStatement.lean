@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SemidirectMeasureRestrictionNormalPart
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SupMeas
 
 open MeasureTheory Pointwise
 open GlobalTheory.SupMeas

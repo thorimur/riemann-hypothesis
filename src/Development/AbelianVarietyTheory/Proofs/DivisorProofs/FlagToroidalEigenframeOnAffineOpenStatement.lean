@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagToroidalEigenframeOnAffineOpen
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFrameIn
 open CategoryTheory AlgebraicGeometry Limits NumberField TopologicalSpace
 open ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.BasicNotions Formalism.L2.Pj GlobalTheory.Toroidal GlobalTheory.Cartier GlobalTheory.ShFam
 open scoped CategoryTheory.MonObj

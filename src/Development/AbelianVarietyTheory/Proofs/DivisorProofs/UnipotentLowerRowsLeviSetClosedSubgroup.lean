@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeasurableToGLEntry
 
 open MeasureTheory GlobalTheory.JSW

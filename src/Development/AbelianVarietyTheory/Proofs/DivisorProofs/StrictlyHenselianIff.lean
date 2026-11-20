@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BijectiveResidueCompEtaleHenselianStatement
+import Mathlib.RingTheory.TotallySplit
 open IsLocalRing Polynomial
 
 namespace GlobalTheory.StrictHensel

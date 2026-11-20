@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.StandardPolynomials.IoDScalLast
+import Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.DegSplit
 
 noncomputable section
 

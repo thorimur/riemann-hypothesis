@@ -1,9 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ConjEMemHostFIff
-import Formalism.LocalRingCardinality.Params
-import Formalism.LocalRingCardinality.DataHost
-import Formalism.LocalRingCardinality.DataSpaces
 import Formalism.SharpRestriction.CuspSpanNormBounds.BlockEnds
 
 attribute [local instance] Formalism.MainNotions.S.starE

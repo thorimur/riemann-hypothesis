@@ -1,4 +1,6 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.GaloisIrreducibility
+import Mathlib.Tactic.ENatToNat
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open Finset
 

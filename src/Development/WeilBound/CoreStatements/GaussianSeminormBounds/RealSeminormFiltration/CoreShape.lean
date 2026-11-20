@@ -1,4 +1,6 @@
 import Development.WeilBound.CoreStatements.GaussianSeminormBounds.RealSeminormFiltration.CoreDefs
+import Mathlib.Data.Rat.Star
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

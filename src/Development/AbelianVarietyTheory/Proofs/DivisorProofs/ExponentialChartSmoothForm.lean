@@ -1,11 +1,10 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ContinuousAndSmul
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffCutoffStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ParameterIntegralSmoothStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveQuadraticUniformLowerBoundStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalInverseFstProdStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffOnFderivDetStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChangeOfVariablesInjectiveIndicatorStatement
+import Mathlib.Analysis.Calculus.Deriv.Abs
 open Filter Topology Set Metric MeasureTheory GlobalTheory.ChernReg
 open scoped ContDiff
 

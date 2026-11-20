@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.UnitaryGroupScheme
 
 namespace GroundTheory.Automorphic

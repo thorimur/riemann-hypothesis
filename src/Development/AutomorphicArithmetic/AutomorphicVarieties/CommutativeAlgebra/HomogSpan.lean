@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ResMapBijective
+import Mathlib.Tactic.ENatToNat
 
 open IsLocalRing MvPowerSeries UpperTheory.V.Alg
 

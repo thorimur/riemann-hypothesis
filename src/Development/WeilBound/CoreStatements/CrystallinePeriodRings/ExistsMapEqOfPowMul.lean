@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
 import Development.WeilBound.CoreStatements.CrystallinePeriodRings.InstCommRingBcris
 import GroundTheory.PAdicHodge.BCrisPlusInvariants

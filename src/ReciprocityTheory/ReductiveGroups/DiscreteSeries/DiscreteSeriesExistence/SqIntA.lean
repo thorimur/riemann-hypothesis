@@ -1,4 +1,9 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSchur
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.MeasureTheory.Function.L2Space
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 open MeasureTheory Filter Topology
 open scoped InnerProductSpace ENNReal

@@ -1,6 +1,4 @@
 import Formalism.LocalToGlobal.IndefiniteReal.SobolevIteration.IsDualParamAt
-import Formalism.SharpRestriction.Divisibility.SchurIrreducible
-import Formalism.LocalToGlobal.BesselHermitianTheta.MinfDensity
 import Formalism.SharpRestriction.AdmissibleParameterJoins.GandSc
 
 noncomputable section

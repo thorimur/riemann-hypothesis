@@ -1,4 +1,4 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.QuadInner1
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.GNMulRpow
 
 noncomputable section
 

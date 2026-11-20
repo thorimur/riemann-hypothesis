@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.GlobalFields.Artin.MackeyFrobenius
+import GroundTheory.GlobalFields.Artin.Mackey
 set_option maxSynthPendingDepth 1
 
 noncomputable section

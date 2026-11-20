@@ -1,7 +1,7 @@
-import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.SharpRestriction.CuspSpanNormBounds.FractionFieldToGenericStalkAlgebraMapEq
 import Formalism.SharpRestriction.CuspSpanNormBounds.LinQRawRange
 import Formalism.SharpRestriction.ParConsts
+import Mathlib.Tactic.PNatToNat
+import Mathlib.Topology.Algebra.PontryaginDual
 
 noncomputable section
 

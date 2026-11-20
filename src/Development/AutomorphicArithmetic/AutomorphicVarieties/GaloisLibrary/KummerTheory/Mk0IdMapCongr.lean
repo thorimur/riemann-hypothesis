@@ -1,6 +1,7 @@
-import Mathlib
-import Development.AutomorphicArithmetic.AutomorphicVarieties.PartsSign
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SelmerTransport.ConjStableShaFam
+import Development.AutomorphicArithmetic.AutomorphicVarieties.PartsConj
+import Mathlib.RingTheory.DedekindDomain.SelmerGroup
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

@@ -3,7 +3,7 @@ import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.RootOfUnityEqOneOfSu
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.MemIdealSmulTopIffForallDual
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.IdealInfSmulTopOfProjective
 import Development.WeilBound.CoreStatements.EqualVolumeCompactOpens.DiagMulVecTmul
-import Development.WeilBound.CoreStatements.EqualVolumeCompactOpens.InfSpanNeBot
+import Development.WeilBound.CoreStatements.EqualVolumeCompactOpens.LevelIdeal
 
 noncomputable section
 

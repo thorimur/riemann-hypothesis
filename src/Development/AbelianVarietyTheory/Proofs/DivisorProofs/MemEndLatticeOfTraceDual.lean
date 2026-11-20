@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmulMemOfIsIntegral
+import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.DefiniteBound
 open NumberField Matrix GlobalTheory.UCls GlobalTheory.SUVol ReciprocityTheory.ChartRestriction.G.FD GlobalTheory.LieDisc
 
 namespace GlobalTheory.LieDisc

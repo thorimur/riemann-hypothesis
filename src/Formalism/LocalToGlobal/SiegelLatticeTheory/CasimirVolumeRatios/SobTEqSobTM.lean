@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeDeepQ
-import Formalism.SharpRestriction.CuspSpanNormBounds.SGauge
 
 noncomputable section
 

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.DirichletDensity.Statement
 import Formalism.CMTypeGalois.HalfTypesFromGeneral
 

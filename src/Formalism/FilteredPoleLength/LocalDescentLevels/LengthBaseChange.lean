@@ -1,5 +1,7 @@
 import Formalism.FilteredPoleLength.ReducedBasisBounds.LengthBaseChangeLocal
 import Formalism.FilteredPoleLength.LocalDescentLevels.MemSpanBasisFun
+import Mathlib.RingTheory.OrderOfVanishing.Noetherian
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

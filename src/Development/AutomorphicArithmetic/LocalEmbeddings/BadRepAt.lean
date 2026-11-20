@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.RankCover
 
 set_option synthInstance.maxHeartbeats 400000

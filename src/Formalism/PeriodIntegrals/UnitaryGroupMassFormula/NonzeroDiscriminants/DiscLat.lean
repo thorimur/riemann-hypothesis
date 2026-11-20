@@ -1,5 +1,8 @@
-import Mathlib
-import Formalism.PeriodIntegrals.DiscrNe
+import Formalism.PeriodIntegrals.LatDefs
+import Mathlib.NumberTheory.ModularForms.EisensteinSeries.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 open ModularForm EisensteinSeries UpperHalfPlane
 

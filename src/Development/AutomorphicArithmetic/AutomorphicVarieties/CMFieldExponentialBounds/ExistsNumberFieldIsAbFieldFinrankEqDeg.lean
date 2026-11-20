@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.StmtFields
+import Mathlib.NumberTheory.Cyclotomic.Gal
+import Mathlib.RingTheory.PicardGroup
 
 open NumberField Formalism.HC UpperTheory.Top UpperTheory.V
 

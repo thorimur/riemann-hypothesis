@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsConstMul
 import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FixedByAutomorphismsMemFieldStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.FramedPointDescendsStatement
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.FlatGenFrameIndependentStatement

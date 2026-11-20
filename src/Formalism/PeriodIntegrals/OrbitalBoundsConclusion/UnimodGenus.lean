@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnimodGenus
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnimodularGenus.Bridge
 
 theorem unimodular_genus_unique : PI.UnimodGenus :=

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.WeightCongruences.ProdNegOneZpow
+import Mathlib.NumberTheory.NumberField.Cyclotomic.Basic
 
 open NumberField IsDedekindDomain
 

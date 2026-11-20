@@ -1,6 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.EtaleBaseChangeFractionFieldIndEtaleOverPolynomi
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonDenom
-import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailTer
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Polynomial GlobalTheory.EtC

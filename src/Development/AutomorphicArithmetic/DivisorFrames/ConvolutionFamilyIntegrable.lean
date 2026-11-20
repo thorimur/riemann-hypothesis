@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicArithmetic.LocalEmbeddings.ConeBDefs
+import Mathlib.Topology.Separation.CompletelyRegular
 open MeasureTheory FreeSingleHomotopyEquivDiscreteChains.UpperTheory.Dv.ConeB
 
 private theorem norm_projection_le {ι : Type} [Fintype ι] {n : ℕ} (v η : Fin n × ι → ℂ) :

@@ -1,6 +1,6 @@
-import Mathlib
 import Formalism.MoebiusJetDuality.StatementU
-import Formalism.SatakeDualWeyl.Statement
+import Mathlib.Algebra.Module.ZLattice.Covolume
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PrimeMapPrimeMap
+import Mathlib.Algebra.AffineMonoid.Basic
 open NumberField IsDedekindDomain GlobalTheory.FixNormCls
 open scoped Classical nonZeroDivisors
 

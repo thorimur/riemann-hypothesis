@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Counterexamples.HeightSurvey.ConjAtFixedIff
 
 noncomputable section

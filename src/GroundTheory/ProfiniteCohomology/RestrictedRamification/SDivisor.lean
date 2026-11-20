@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.SUnits
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.SPicDefs
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.ValuationTransport

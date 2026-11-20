@@ -1,4 +1,5 @@
-import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.Legendre
+import Formalism.LocalToGlobal.TorsionIntegrality.EisensteinTranslationProducts.SemiChar
+import Mathlib.Algebra.Module.ZLattice.Covolume
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

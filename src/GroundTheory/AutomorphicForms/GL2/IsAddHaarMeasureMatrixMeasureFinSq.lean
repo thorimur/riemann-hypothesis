@@ -1,7 +1,4 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.GL2.GJFEDefs
-import GroundTheory.AutomorphicForms.GL2.GJLeviZetaBlocks
-import GroundTheory.AutomorphicForms.MeasuresGL
 
 noncomputable section
 

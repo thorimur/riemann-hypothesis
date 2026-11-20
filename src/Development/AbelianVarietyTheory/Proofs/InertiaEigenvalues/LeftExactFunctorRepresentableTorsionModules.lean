@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.H1MapSubgroup
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGeneratorsOfCardHomResidueFieldLeStatement
+import Mathlib.Algebra.Order.PUnit
+import Mathlib.CategoryTheory.Monoidal.Mon
 open CategoryTheory GlobalTheory.SelFun
 
 namespace GlobalTheory.SelFun.Level

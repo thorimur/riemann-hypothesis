@@ -1,6 +1,3 @@
-import Mathlib
-import Development.ResolutionOfSingularities.Foundations.Blowup.AffineBlowup
-import Development.ResolutionOfSingularities.Foundations.Blowup.AffineBlowupCartier
 import Development.ResolutionOfSingularities.EmbeddedResolution.StrictTransformCharts.CoordinateBlowupChart
 
 open CategoryTheory Limits AlgebraicGeometry TensorProduct

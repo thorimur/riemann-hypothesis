@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.ChartHypothesisOfCharacters
+import Formalism.LocalToGlobal.CharacterGerms.CharacteristicFromRanks
 
 set_option autoImplicit false
 

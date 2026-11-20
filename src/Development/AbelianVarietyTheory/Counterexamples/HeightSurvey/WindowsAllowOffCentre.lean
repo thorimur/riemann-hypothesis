@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.SharpRestriction.Divisibility.AbelianOpenPart.OEOsInjective
 
 noncomputable section

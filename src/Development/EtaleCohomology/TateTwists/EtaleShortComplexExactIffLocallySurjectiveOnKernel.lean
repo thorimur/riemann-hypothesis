@@ -1,6 +1,6 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.DivisorSupportCondition
-import Development.AbelianVarietyTheory.Definitions.Divisors.SecClass
 import Development.EtaleCohomology.TateTwists.EtaleShortComplexExactIffLocallySurjectiveOnKern
+import Development.EtaleCohomology.TateTwists.EtaleSheafTensorComplexExists
+import Mathlib.CategoryTheory.Sites.EpiMono
 
 open CategoryTheory Limits AlgebraicGeometry Opposite GlobalTheory.EtC
 

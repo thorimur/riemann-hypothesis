@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualLatticeIndex
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesIsLattice
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesGenIndexTrans
@@ -6,6 +5,8 @@ import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesLatticeBasis
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesGenIndexDet
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesIdealLatticeFG
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BoxBounds
+import Mathlib.Data.Int.Star
+import Std.Tactic.BVDecide.Normalize.Prop
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

@@ -1,6 +1,12 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModGDefs
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModQuadInt
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Data.Finsupp.Pointwise
+import Mathlib.Data.Int.Star
+import Mathlib.RingTheory.ClassGroup.Basic
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Polynomial.Basic
 
 noncomputable section
 open scoped BigOperators Classical UpperHalfPlane

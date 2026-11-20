@@ -1,4 +1,6 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.IsGenFrGenFr
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 

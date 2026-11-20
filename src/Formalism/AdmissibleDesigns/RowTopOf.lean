@@ -1,5 +1,5 @@
-import Formalism.AdmissibleDesigns.FiniteClassesRowEqGeneric
 import Formalism.AdmissibleDesigns.CoboundaryMemFiniteClasses
+import Formalism.AdmissibleDesigns.LenComapSurj
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

@@ -1,4 +1,4 @@
-import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapEverySecondPlace
+import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapLift
 
 open Finset Classical
 

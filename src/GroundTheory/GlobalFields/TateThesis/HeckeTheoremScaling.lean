@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.GlobalFields.TateThesis.TateMainUnique
 import GroundTheory.GlobalFields.TateThesis.EulerFactorsFourier
 

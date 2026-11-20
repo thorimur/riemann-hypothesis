@@ -1,4 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ScalarInverseSimplification
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.SecondExpansionIdentity
 
 open Matrix Finset
 

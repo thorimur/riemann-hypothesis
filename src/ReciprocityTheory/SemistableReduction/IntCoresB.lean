@@ -1,4 +1,7 @@
 import ReciprocityTheory.SemistableReduction.IntCoresA
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.MeasureTheory.Measure.RegularityCompacts
+import Mathlib.Topology.UniformSpace.Uniformizable
 
 noncomputable section
 

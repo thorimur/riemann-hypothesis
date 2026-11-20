@@ -1,4 +1,6 @@
 import Development.EtaleCohomology.EtaleSheaves.LeafObjFPPf
+import Mathlib.AlgebraicGeometry.QuasiAffine
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite LateralTheory.E.E4 LateralTheory.E.LeafDescendVCut LateralTheory.E.LeafDescendFPPf

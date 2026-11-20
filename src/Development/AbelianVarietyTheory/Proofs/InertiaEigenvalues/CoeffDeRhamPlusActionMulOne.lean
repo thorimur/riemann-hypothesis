@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ZAEqAlgebraMapPt
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.IsPotential
 
 noncomputable section
 

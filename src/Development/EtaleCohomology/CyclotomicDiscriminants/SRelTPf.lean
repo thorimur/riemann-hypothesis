@@ -1,6 +1,17 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ClassCounting.LemmaKOfSteps
 import Development.EtaleCohomology.CyclotomicDiscriminants.SZcTPf
 import Development.EtaleCohomology.CyclotomicDiscriminants.SChainPf
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.Algebra.Order.PUnit
+import Mathlib.Algebra.Ring.BooleanRing
+import Mathlib.CategoryTheory.EffectiveEpi.Comp
+import Mathlib.CategoryTheory.ExtremalEpi
+import Mathlib.CategoryTheory.Monoidal.Mon
+import Mathlib.Data.Int.Star
+import Mathlib.RepresentationTheory.FiniteIndex
+import Mathlib.RepresentationTheory.Homological.GroupHomology.LongExactSequence
+import Mathlib.RepresentationTheory.Homological.GroupHomology.Shapiro
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 namespace LateralTheory.Q.SRelT

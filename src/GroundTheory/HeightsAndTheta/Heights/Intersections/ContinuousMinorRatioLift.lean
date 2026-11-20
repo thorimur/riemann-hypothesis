@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.ProjectionPullbackZeroSetNull
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsFibreIsolFinite
 set_option maxSynthPendingDepth 1

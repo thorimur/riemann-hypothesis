@@ -1,6 +1,13 @@
-import Mathlib
 import GroundTheory.LocalFields.AbstractLocalReciprocity.ProfiniteInteger
 import GroundTheory.GlobalFields.CyclotomicCharacters.Frobenius
+import Mathlib.FieldTheory.Galois.Profinite
+import Mathlib.NumberTheory.Cyclotomic.CyclotomicCharacter
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.RootsOfUnity.AlgebraicallyClosed
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.Tactic.Polynomial.Basic
 
 open NumberField IntermediateField
 open scoped Pointwise

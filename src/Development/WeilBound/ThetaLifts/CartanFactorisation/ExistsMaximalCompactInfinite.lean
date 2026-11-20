@@ -1,4 +1,3 @@
-import Development.WeilBound.ThetaLifts.CartanFactorisation.CartanConj
 import Development.WeilBound.CoreStatements.CompactAveragingSplitting.EigenvectorLifting.Kcompact
 
 noncomputable section

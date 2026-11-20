@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.DivisorSupportCondition
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 

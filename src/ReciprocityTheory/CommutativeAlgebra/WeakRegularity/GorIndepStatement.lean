@@ -1,4 +1,5 @@
 import ReciprocityTheory.CommutativeAlgebra.ChainConnInDim
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 namespace ReciprocityTheory.CA.Link
 

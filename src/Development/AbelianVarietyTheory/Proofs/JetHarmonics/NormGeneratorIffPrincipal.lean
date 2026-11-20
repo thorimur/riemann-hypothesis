@@ -1,8 +1,4 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.NoCommonZeroSt
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.BarTorsionGenerators
-import Development.AbelianVarietyTheory.Proofs.ModuliProofs.SplitOfFactorisation
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.TransvectionEq
 
 noncomputable section
 

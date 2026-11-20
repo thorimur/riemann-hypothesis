@@ -2,7 +2,6 @@ import Development.AutomorphicArithmetic.PrimeDiscriminants.RamDiscr
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.halfSupp
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.CondRd
 import Development.AutomorphicArithmetic.FrobeniusLocalisation.RamEq
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.HostFacts
 
 open UpperTheory.HF
 

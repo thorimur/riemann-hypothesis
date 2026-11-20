@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHaarProd
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpecialUnitaryAdelicSplittingStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArchimedeanCmTypeHomeomorphStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArchimedeanSpecialUnitaryIsoStatement

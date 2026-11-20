@@ -1,5 +1,7 @@
-import Formalism.SharpRestriction.GrowthBounds.RootWeights.ContravariantOrthogonalityHolds
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightComponentsMemInvariant
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.ContravariantIsotypicOrthogonal
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.MemWeightSpaceIffDiagonalRep
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

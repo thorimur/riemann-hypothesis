@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsAbsIrrCharCompIff
-import Formalism.LocalToGlobal.BesselHermitianTheta.TiedWeil
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueIsStdChar
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.InfFam
 

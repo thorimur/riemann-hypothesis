@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.MoveStep
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.SubAddLeSpread
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AdmissibleAdjointRationalPointPadicMatrix
@@ -6,6 +5,7 @@ import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.MemHomAtGmap
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.RatTermOfRatStep
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.RatStepOfChThOk
 import Formalism.LocalToGlobal.Columns.TiedAtT
+import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.JetsAllOfColIn
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.L2.DIV Formalism.L2.Ker GlobalTheory.Mem GlobalTheory.Mem.Col2 GlobalTheory.LvT GlobalTheory.LvT.Built GlobalTheory.LvT.Built.TrueLaws
 
 noncomputable section

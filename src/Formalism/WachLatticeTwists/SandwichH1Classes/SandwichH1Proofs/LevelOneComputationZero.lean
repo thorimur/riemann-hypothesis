@@ -1,5 +1,5 @@
 import Formalism.WachLatticeTwists.SandwichH1Classes.PerturbationForScalarTwist
-import Formalism.WachLatticeTwists.SandwichH1Classes.SandwichH1Proofs.MatrixMapH1EqOnH1
+import Formalism.WachLatticeTwists.SandwichH1Classes.SandwichH1Proofs.SandwichCompositeOnH1
 
 noncomputable section
 

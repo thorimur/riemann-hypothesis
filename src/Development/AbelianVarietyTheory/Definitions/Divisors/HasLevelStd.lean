@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.OmegaFactorization
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.DefiningCoordinates
+import Mathlib.Data.Pi.Interval
 
 set_option autoImplicit false
 

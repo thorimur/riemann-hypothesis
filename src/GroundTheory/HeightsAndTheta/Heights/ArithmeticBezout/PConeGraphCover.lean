@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeGraphCover
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeFiniteFibreDim
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsConeTangentDim

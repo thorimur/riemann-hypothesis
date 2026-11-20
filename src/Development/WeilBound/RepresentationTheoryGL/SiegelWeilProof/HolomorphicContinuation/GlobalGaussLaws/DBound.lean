@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.GlobalGaussLaws.DetNeOfPosDef
+import Mathlib.Topology.Algebra.MvPolynomial
 
 noncomputable section
 

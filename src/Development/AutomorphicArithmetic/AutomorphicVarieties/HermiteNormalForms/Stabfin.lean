@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.SmulNeZeroLat
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Rypos
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Locfin
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Spanpsd

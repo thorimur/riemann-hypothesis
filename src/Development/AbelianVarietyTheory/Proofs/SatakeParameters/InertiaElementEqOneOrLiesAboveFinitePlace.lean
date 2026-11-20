@@ -1,6 +1,5 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModGDefs
 import ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ModGBasic
+import Mathlib.Tactic.ENatToNat
 open NumberField IsDedekindDomain Neutral.HilbertClassField
 
 namespace GlobalTheory

@@ -1,10 +1,10 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.IntegerUnitsToUnitsHomApply
 import GroundTheory.LocalFields.UnramifiedNorms
 import GroundTheory.LocalFields.UnramifiedGalois
 import GroundTheory.TateCohomology.Herbrand
-import GroundTheory.TateCohomology.TateLow
 import GroundTheory.ProfiniteCohomology.ClassFormations.IsIsoCohomologyMapAlongResSubgroupOfHom
+import Mathlib.CategoryTheory.EffectiveEpi.Comp
+import Mathlib.CategoryTheory.ExtremalEpi
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

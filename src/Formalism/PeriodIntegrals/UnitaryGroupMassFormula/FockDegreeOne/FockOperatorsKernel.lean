@@ -2,6 +2,7 @@ import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockRaisingLowering.Kro
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockRaisingLowering.BlockDiagonalPreservesDegree
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockRaisingLowering.RaisingLoweringSplit
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockDegreeOne.OneDegOfHalves
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 

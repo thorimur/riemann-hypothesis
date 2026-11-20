@@ -1,4 +1,4 @@
-import ReciprocityTheory.GroupCohomology.CupConnRightStatement
+import ReciprocityTheory.GroupCohomology.IsTowerLim
 
 namespace ReciprocityTheory.Coh
 

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.PoitouTate.RealTrace
 set_option maxSynthPendingDepth 1
 

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Statements.GeometryStatements.PropFTop
+import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.Birational
 
 noncomputable section
 

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.GeometricLemmaFiltration
 import CompanionTheory.AutomorphicTheory.TemperedLocalSpectra.LocalGeometry.Imports
 
 namespace GlobalTheory

@@ -1,6 +1,7 @@
 import Formalism.SharpRestriction.InertJacobiLevels.PrimeSupply
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
-import Formalism.CyclotomicNorms.IrreducibilityOfGoodTuple
+import Formalism.LocalRingCardinality.HostCls
+import Formalism.SharpRestriction.InertJacobiLevels.GenSplit
+import Formalism.SharpRestriction.InertJacobiLevels.SizeDataAt
 
 noncomputable section
 

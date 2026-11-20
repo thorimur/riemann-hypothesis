@@ -1,8 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FormalDegreeLower
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsFinsetSelfDualClassesRootDiscr
 import Formalism.HermitianLattices.HermitianLatticesProofs.GenusBasic
 import Formalism.LocalRingCardinality.SpanPowerMembership.Spaces
+import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GapAtLeast
 
 open Formalism.BasicNotions Formalism.BasicNotions.TH MeasureTheory NumberField IsDedekindDomain
 open Formalism.MainNotions.StandardLattice (stdForm stdLat)

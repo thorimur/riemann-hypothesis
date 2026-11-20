@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.GaloisLevelStructure.NGalTied
 import Formalism.SharpRestriction.LevelLetterCocycles.SumRepresentations
 
 noncomputable section

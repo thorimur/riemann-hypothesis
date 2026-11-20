@@ -1,6 +1,5 @@
 import Formalism.FormalDegreeBessel.FinalWR
 import Formalism.YangianSpanCharacter.ExchangeGen
-import Formalism.YangianSpanCharacter.TJTrev
 
 namespace Formalism.YangianSpanCharacter.B
 

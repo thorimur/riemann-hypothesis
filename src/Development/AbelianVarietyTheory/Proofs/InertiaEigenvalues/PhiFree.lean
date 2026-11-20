@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MemEurOfTeichmullerSeries
 import Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.ExistsPolynomialSubMem
+import Mathlib.RingTheory.Polynomial.DegreeLT
+import Mathlib.RingTheory.PowerSeries.Expand
 
 noncomputable section
 

@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.InertiaQuadraticRamification.InertiaGenAlt
-import ReciprocityTheory.GaloisValuations.Global
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FinitePlacesInertiaNotFixingFiniteExtension
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilGroupRestriction
 
 noncomputable section
 

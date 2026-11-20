@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTieSelf
-import Formalism.LocalToGlobal.CharacterGerms.ValBlocksChart
+import Formalism.LocalToGlobal.CharacterGerms.RowTieAdm
+import Formalism.LocalToGlobal.CharacterGerms.RowTieJet
 
 noncomputable section
 

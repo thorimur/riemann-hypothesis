@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.ConcretePkgSpec
-import Formalism.LocalToGlobal.UnitaryNorms.CharUniq
-import Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.RamBasic
 
 noncomputable section
 

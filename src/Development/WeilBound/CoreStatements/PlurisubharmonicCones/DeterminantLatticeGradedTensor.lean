@@ -1,4 +1,3 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.PlurisubharmonicCones.DeterminantLatticeGenerator
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.GrIsGenAt
 

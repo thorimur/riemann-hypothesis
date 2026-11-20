@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Statements
 import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ChowFormHomog
 set_option maxSynthPendingDepth 1

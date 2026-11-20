@@ -1,6 +1,4 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.KunnethLefschetz.BasisOne
-import Development.EtaleCohomology.EtaleTrace.FrobTraceOf
-import Development.EtaleCohomology.EtaleTrace.LPdCut
 import Development.EtaleCohomology.EtaleTrace.LEmptyPf
 
 noncomputable section

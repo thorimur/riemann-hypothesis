@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DerivCompM
+import Mathlib.Tactic.Polynomial.Basic
 
 open GlobalTheory.Nef
 

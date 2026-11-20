@@ -1,4 +1,6 @@
 import Formalism.JumpKernelCokernel.Statement
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 noncomputable section
 

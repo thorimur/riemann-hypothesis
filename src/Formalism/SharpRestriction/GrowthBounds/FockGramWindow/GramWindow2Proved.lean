@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.FockGramWindow.GramWindow2
+import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.BejjSmulLeft
 
 noncomputable section
 

@@ -1,6 +1,4 @@
-import Formalism.LocalToGlobal.Columns.HeckeInertComm
-import Formalism.LocalToGlobal.Divisibility.CoefModLemmas
-import Formalism.LocalToGlobal.Columns.LocWLemmas
+import Formalism.LocalToGlobal.Columns.StdLatUnimodular
 
 namespace GlobalTheory.SmulMemOfIsLattice
 

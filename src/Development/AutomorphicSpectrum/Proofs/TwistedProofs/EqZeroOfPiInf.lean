@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilTensorModels
 
 open NumberField Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes

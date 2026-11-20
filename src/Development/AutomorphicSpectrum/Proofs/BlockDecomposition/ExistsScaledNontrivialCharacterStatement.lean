@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsScaledNontrivialCharacter
 open ValuativeRel MeasureTheory Matrix
 set_option maxHeartbeats 1000000 in

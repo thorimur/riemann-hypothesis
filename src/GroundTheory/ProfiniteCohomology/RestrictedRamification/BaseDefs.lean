@@ -1,11 +1,7 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.Brauer
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChangeMackey
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.SumInvariants
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.RealPlaces
 import GroundTheory.ProfiniteCohomology.CompactSupportCohomology
 import GroundTheory.ProfiniteCohomology.PoincareDuality.Torsion
-import GroundTheory.ProfiniteCohomology.CohomologicalDimension.SubsingletonCohomologyOfPrimaryOfFinite
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

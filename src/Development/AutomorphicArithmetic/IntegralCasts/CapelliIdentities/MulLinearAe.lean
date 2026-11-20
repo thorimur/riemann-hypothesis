@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MultiplicationFunction
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MultiplicationNormBound
 
 theorem UpperTheory.Reformulated.B.MulLinearAe.mulL_ae.{u_1} :

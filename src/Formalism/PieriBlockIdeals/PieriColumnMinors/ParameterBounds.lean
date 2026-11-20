@@ -3,6 +3,9 @@ import Formalism.PieriBlockIdeals.PieriColumnMinors.SharperSizeNeedsMleKFalse
 import Formalism.PieriBlockIdeals.PieriColumnMinors.LocalComponentGL
 import Formalism.PieriBlockIdeals.PieriColumnMinors.LogarithmEquivalence
 import Formalism.RankGapBounds.RankGapProofs.CardLargePrimeFactorsLeOneHolds
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
 
 noncomputable section
 

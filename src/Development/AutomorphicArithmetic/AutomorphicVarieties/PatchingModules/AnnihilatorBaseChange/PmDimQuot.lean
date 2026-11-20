@@ -1,11 +1,7 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.PatchingModules.AnnihilatorBaseChange.SpecializationMapCompUniversalSection
 import Development.AutomorphicArithmetic.AutomorphicVarieties.PatchingModules.AnnihilatorBaseChange.YPrime
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplLift
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplFlat
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplModfree
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCmPatch
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplMap
 
 open IsLocalRing Matrix Filter UpperTheory.V.Alg UpperTheory.V.W UpperTheory.V.AlgebraTools UpperTheory.V.Pa UpperTheory.V.Pa.Core
 open scoped TensorProduct

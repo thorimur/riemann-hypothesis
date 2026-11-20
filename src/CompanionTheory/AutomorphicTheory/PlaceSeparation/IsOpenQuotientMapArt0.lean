@@ -1,9 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsUniqueHcharOfFiniteOrder
 import GroundTheory.GlobalFields.GlobalArtinMap.Kernel
 import GroundTheory.GlobalFields.ClassFieldConsequences.RayClassFieldLocal
-import GroundTheory.GlobalFields.GlobalReciprocity.Frobenius
-import GroundTheory.GlobalFields.GlobalReciprocity.LocalSurjective
 import CompanionTheory.AutomorphicTheory.PlaceSeparation.ArtinA
 import CompanionTheory.AutomorphicTheory.PlaceSeparation.ArtinKer
 

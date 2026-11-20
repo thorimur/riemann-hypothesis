@@ -1,4 +1,4 @@
-import ReciprocityTheory.DualLattices.TowerZeroSurjective
+import ReciprocityTheory.DualLattices.FormalChartAtZero
 
 noncomputable section
 

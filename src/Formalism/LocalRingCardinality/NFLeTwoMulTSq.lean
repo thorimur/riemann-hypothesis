@@ -1,4 +1,4 @@
-import Formalism.LocalRingCardinality.HeightBoundGeFourthPowerRank
+import Formalism.LocalRingCardinality.DataParamsT
 
 namespace Formalism.BasicNotions
 

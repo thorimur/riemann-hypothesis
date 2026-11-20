@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ActFromBlocks
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FourierInversionHaarSymmForm
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulRealAdEqZero
 open scoped Matrix GlobalTheory.VacAny

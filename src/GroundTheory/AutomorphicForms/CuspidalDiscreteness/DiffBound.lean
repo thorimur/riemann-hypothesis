@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.CuspidalDiscreteness.SmoothingFinite
 import GroundTheory.AutomorphicForms.CuspidalDiscreteness.MixedDifference
+import GroundTheory.AutomorphicForms.CuspidalDiscreteness.Smoothing
 
 open MeasureTheory Set Filter Topology Function
 open NumberField IsDedekindDomain

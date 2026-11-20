@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.CokLenLeOfRangeLe
-import Formalism.GaloisCohomology.Statement
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.DualDiv
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AdditiveValuationNorms.TorsFin
 

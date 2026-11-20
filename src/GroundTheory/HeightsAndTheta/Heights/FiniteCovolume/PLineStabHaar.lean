@@ -1,10 +1,12 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsLineStabHaar
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsSemidirectHaar
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsUnitsInvHaar
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsTorusEmbedding
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsLineEigenvalue
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsTorusModulus
+import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.MajorantInvolutionDiagonalForm
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.TotallySplit
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

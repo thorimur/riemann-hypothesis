@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.PAdicHodge.AxLemma
+import Mathlib.NumberTheory.Padics.PadicIntegers
 
 open TensorProduct GroundTheory.PAdicHodge UniformSpace
 

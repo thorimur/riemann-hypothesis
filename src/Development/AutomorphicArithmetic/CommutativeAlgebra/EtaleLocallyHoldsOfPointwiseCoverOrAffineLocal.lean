@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.LocallyExactCech
 import Development.AutomorphicArithmetic.CommutativeAlgebra.LocallyHoldsOfForallAndMonoAndInterAndPullback
+import Mathlib.AlgebraicGeometry.Sites.Etale
 
 open CategoryTheory Limits AlgebraicGeometry Opposite UpperTheory.Et
 

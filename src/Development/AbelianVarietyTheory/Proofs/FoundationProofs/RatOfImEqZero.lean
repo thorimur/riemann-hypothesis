@@ -1,6 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Foundations.NormSumPairRankZeroOfCurveCoordNorm
-import Formalism.PairingDivisors.StatementH
+import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 
 namespace GlobalTheory.RationalOfReal
 

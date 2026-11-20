@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.CohomologicalPurity.LeafChartCut
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 open TensorProduct

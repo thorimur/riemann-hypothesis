@@ -1,6 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.ToHLat
-import Formalism.GL3MeanSquares.TraceIntegralityResults
+import Formalism.GL3MeanSquares.HookFormulaTorsion.SquareMomentArithmeticBound
 
 open NumberField IsDedekindDomain Module
 open scoped Matrix ComplexOrder

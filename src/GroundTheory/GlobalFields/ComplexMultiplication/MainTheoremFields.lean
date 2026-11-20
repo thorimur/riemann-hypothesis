@@ -1,7 +1,7 @@
-import Mathlib
-import GroundTheory.GlobalFields.ComplexMultiplication.HilbertClassFieldArtin
 import GroundTheory.GlobalFields.ComplexMultiplication.AutCFixed
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.Supersingular
+import GroundTheory.GlobalFields.ComplexMultiplication.ReductionRespectsAdd
+import GroundTheory.GlobalFields.TateThesis.Chebotarev
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Global

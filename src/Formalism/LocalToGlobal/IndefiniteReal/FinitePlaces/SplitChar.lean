@@ -1,5 +1,3 @@
-import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.StdCharExists
-import Formalism.LocalToGlobal.IndefiniteReal.PublishedAut
 import Formalism.LocalToGlobal.IndefiniteReal.ExistsGADet
 import Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemSum
 

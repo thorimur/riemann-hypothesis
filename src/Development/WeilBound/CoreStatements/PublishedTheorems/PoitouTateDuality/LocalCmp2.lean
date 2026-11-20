@@ -1,7 +1,7 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.PublishedTheorems.PoitouTateDuality.PtfsDefs
-import GroundTheory.ProfiniteCohomology.PoitouTate.PoitouTateNineTermGs
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsAlgHomMulEquivDec
+import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseChangeMackey
+import Mathlib.RingTheory.PicardGroup
+import ReciprocityTheory.Hypotheses.GalCoh
 
 noncomputable section
 

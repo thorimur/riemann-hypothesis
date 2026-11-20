@@ -1,4 +1,6 @@
 import Formalism.FrobeniusContraction.Statement
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ReduceModChar
 
 namespace Formalism.WachCohomologyFacts.PContractBij
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsUnipMir
+import GroundTheory.LocalFields.LocalFourierChar
 
 noncomputable section
 

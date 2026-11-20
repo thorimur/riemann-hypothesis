@@ -1,5 +1,3 @@
-import Formalism.PeriodIntegrals.OrbRestr
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrbitPowerSeriesCoefficients.KillSubst
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrbitPowerSeriesCoefficients.OrbEmb
 
 noncomputable section

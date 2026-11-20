@@ -1,7 +1,7 @@
 import Formalism.LocalToGlobal.KernelLattices.KerStd
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.ColInst
 import Formalism.LocalToGlobal.KernelLattices.KernelLocalFactors.BaseEx
-import Formalism.LocalToGlobal.GlobalTheory.GL3.PStdOK
+import Formalism.LocalToGlobal.AlgebraicTheory.StatementEig
 
 noncomputable section
 open scoped BigOperators

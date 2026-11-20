@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.AnnNormAcrisToAnnPosBig
 import GroundTheory.PAdicHodge.WAFracGlue
 set_option maxSynthPendingDepth 1

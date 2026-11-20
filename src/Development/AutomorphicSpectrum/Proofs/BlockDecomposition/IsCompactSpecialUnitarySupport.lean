@@ -1,5 +1,3 @@
-import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PlaneSupports.PlaneSupp
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousSingleV
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ConjMemSupp
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PlaneStrongApproxProduct

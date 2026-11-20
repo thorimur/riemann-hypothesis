@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.FormsOver
+import Formalism.LocalToGlobal.LatticeGeometry.ViewsB
 
 noncomputable section
 

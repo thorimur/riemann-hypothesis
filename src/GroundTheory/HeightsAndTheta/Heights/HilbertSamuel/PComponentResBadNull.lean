@@ -1,8 +1,5 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComponentResBadNull
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ComponentResBadNullFlat
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterBridgeL
-import ReciprocityTheory.AnalyticForms.AnalyticCharts.NullZero
 set_option maxSynthPendingDepth 1
 
 noncomputable section

@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PKaehlerBound
 import GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StBoundingKaehler
 set_option maxSynthPendingDepth 1

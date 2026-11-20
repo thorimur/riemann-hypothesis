@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FrmOfPosDef
-import Formalism.LocalToGlobal.HilbertRowConditions.CenterIdempotentAction
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PosDefMapEmbeddingOfPositiveAtPlaceStatement
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TargetMtOfAmbTie
 open NumberField Formalism.L2.DIV Formalism.L2.Rows GlobalTheory.AmbCrd

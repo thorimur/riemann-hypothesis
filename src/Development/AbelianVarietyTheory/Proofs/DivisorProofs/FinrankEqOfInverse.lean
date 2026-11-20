@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsBasisOfBot
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SandwichDatumScalarAction
 

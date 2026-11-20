@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IndEtOfForallFinset
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CartanZero
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConeMapFApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExactAtOfProd

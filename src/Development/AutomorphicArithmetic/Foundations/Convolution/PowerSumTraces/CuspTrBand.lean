@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.DecayTraceClassAlt
 import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.EigSplit
 import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.EigSummands
 import Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.SummandsSpan

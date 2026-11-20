@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.IsStepWeil
+import Formalism.LocalToGlobal.IndefiniteReal.LinksChar
 
 noncomputable section
 

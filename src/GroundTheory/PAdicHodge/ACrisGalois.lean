@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.PAdicHodge.FactorizationFactorialLe
 import GroundTheory.PAdicHodge.AInfGalois
 set_option maxSynthPendingDepth 1

@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FlagMeasures.PrimOfIsUnitDet
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.NormGaussSumHermitianFormLinearLeStatement
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open GlobalTheory.GramCount
 open scoped Classical

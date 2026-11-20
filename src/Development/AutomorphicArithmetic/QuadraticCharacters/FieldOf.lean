@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.QuadraticCharacters.MemRealCyclotomicSubgroup
+import Mathlib.NumberTheory.NumberField.Cyclotomic.Galois
 
 open NumberField
 

@@ -1,7 +1,6 @@
-import Formalism.LocalToGlobal.LatticeGeometry.GeometryDefinitions.PClassE
 import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Levelv
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.AdelstabL
 import Formalism.LocalToGlobal.GlobalTheory.EqGlobOfHat
+import Formalism.LocalToGlobal.LatticeGeometry.GeometryDefinitions.PClassD
 
 noncomputable section
 

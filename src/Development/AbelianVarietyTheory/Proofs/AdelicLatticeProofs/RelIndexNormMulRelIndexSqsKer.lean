@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AdelicHermitianForms.SqSubLeNormSub
 open NumberField IsDedekindDomain GlobalTheory.QNorm
 open scoped WithZero

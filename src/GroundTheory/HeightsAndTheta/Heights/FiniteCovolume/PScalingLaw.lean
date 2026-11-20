@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.SecondCountableTopologyArchUnitary
+import Mathlib.Order.CompletePartialOrder
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume
 

@@ -1,5 +1,8 @@
 import Formalism.AdmissibleDesigns.NonemptyPl
 import Formalism.WeaklyAdmissibleFiltrations.CrystallineStableLifts.Galois
+import Formalism.CharacterColumnKernels.IdempotentNormalForms.GlobalConcreteOf
+import Formalism.WachLatticeTwists.RealClassMaps.RealClassMapTheorem
+import Formalism.WachLatticeTwists.RealClassMaps.StatClassMapReal
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

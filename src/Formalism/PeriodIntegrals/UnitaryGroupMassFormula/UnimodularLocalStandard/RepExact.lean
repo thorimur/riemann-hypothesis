@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnimodularLocalStandard.RepArith
+import Formalism.PeriodIntegrals.UnimodLocStd
 
 noncomputable section
 open scoped ComplexConjugate

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GlESymmApply
-import Formalism.FrobeniusOrbits.RealSubfieldLeCompositum
 
 noncomputable section
 

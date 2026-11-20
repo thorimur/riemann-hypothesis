@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalDensityBoundNearPoint
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnCosSq
 open MeasureTheory
 open scoped ComplexOrder
 set_option maxHeartbeats 1000000 in

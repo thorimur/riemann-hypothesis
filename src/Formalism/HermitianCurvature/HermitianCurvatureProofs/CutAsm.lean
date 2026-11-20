@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutMP2
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelSystemAdmissibleSize
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutRegFF
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open Formalism.FourierDecayAlt
 

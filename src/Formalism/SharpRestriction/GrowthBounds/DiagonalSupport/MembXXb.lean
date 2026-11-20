@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.ThresholdGeOddPosition
+import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.FrMemLetters
+import Formalism.SharpRestriction.GrowthBounds.DiagonalSupport.RestValBdG
 
 noncomputable section
 

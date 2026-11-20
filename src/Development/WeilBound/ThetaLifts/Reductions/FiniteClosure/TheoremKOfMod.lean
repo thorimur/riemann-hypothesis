@@ -1,11 +1,14 @@
 import Development.WeilBound.ThetaLifts.SphericalSplitting.SphSplitGeo
-import Development.WeilBound.ThetaLifts.SphericalLattices.TheoremKSphOf
 import Development.WeilBound.ThetaLifts.SphericalLattices.HoweDuality
 import Development.WeilBound.ThetaLifts.SphericalLattices.FunTop
 import Development.WeilBound.ThetaLifts.SphericalLattices.ModSt2
-import Development.WeilBound.ThetaLifts.SphericalLattices.BelowIffRows
 import Development.WeilBound.CoreStatements.AbelianHeightsDuality.PublishedTheoremStatements.SiegelSetUnitaryHolds
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.BernsteinNarrowness.BernsteinClosure.RamifiedMultiplicityOne
+import Development.WeilBound.ThetaLifts.Reductions.ArchLie
+import Development.WeilBound.ThetaLifts.Reductions.KReal
+import Development.WeilBound.ThetaLifts.Reductions.LocalLift
+import Development.WeilBound.ThetaLifts.Reductions.WeilPairs.WeilEx
+import Development.WeilBound.ThetaLifts.SphericalLattices.FinInert
+import Development.WeilBound.ThetaLifts.SphericalLattices.SphericalClosure.CloseSph
 
 namespace PositivityTheory.ThKR
 

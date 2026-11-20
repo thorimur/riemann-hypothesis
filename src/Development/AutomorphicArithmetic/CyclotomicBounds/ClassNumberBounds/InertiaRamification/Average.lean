@@ -1,4 +1,6 @@
 import Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.InertiaRamification.ConductorLocalPartDvdIff
+import Mathlib.Data.Nat.GCD.Prime
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace KStar.Ram
 

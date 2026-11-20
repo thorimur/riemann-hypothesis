@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.TateCohomology.TateConnecting
-import GroundTheory.TateCohomology.TateLow
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.GroupCoh

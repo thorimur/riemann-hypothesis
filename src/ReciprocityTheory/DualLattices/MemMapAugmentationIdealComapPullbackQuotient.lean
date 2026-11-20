@@ -1,4 +1,5 @@
-import ReciprocityTheory.DualLattices.ExistsFamilyValuationDetEqOne
+import ReciprocityTheory.DualLattices.IsUnitDetOfSpanEq
+import ReciprocityTheory.DualLattices.ValuationDetLeOneOfEntriesIntegral
 
 noncomputable section
 

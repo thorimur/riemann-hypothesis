@@ -1,12 +1,7 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.FundSetPf
-import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.CongruenceFiniteIndex
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ChangeOfNormalisation
 import Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.EntireEqZeroOrEqZeroOfMulEqZero
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.FromBlocksMapIntCastMemSymplecticGroup
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.MatRmulUnipMulHeadProj
-import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ContinuousRmulPair
-import Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.LatDen
 
 open NumberField Matrix Complex
 open scoped ComplexConjugate Real

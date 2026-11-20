@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TieTrH
-import Formalism.LocalToGlobal.HermitianForms.RankEqFirstLevel
 import Formalism.LocalToGlobal.GroupLattices.DownNaturalLevelZero
 
 noncomputable section

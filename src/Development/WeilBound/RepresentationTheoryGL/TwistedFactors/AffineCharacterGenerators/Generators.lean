@@ -1,5 +1,5 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.AffineCharacterGenerators.AffChar
+import Mathlib.Analysis.CStarAlgebra.Classes
 
 noncomputable section
 

@@ -1,6 +1,7 @@
-import Mathlib
 import Formalism.PadicSubsetSums.CentralIdempotents.GaloisConjCentralIdempotent
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelCharpoly.IrreducibleCharpolyInv
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelCharpoly.RootPowCard
+import Mathlib.Tactic.ENatToNat
 
 open Polynomial CategoryTheory Formalism.IrreducibleCountingLemmas.TYPES
 

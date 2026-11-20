@@ -1,5 +1,4 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.TraceFormulas.LatDefs
+import ReciprocityTheory.GaloisValuations.GlobalB
 open ReciprocityTheory.Gal Pointwise NumberField IsDedekindDomain
 
 namespace GlobalTheory

@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsUnifAt
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DoubleCosetMultiplication
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactSupportDcos
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeAlgebraStructure

@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TsumRingEqSumIdealCosetsTsum
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EmbAApply
 open NumberField MeasureTheory
 open scoped RealInnerProductSpace FourierTransform
 set_option maxHeartbeats 1000000 in

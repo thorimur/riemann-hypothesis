@@ -1,4 +1,5 @@
 import Formalism.UnipotentAdelicQuotients.ClassNumberFinite
+import Mathlib.NumberTheory.NumberField.AdeleRing
 
 namespace HeckeCharacterZeroLocus
 

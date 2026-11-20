@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SecondChernDensity
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EigenGramSmoothStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryDistanceSmoothInteriorStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GradedMixCurvatureLimitStatement

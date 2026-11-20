@@ -1,6 +1,5 @@
 import Formalism.SharpRestriction.GlobalSchurBounds.ProductFirstZerothParts
 import Formalism.SharpRestriction.GlobalSchurBounds.StandardLatticesGL3
-import Formalism.SharpRestriction.Divisibility.ZetaProductPairs
 import Formalism.SharpRestriction.Divisibility.LocalQuadraticParts
 
 noncomputable section

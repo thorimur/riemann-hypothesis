@@ -1,6 +1,5 @@
-import Mathlib
-import Development.DiscreteGroups.GlobalIrreducibility.DzLcFin
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.NotIsGenericDetRepTwo
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.LabelDatum
 
 noncomputable section
 

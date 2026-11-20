@@ -1,5 +1,7 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.HaarVolumes.TriDens
 import Lemmata.CurryModusPonens.CurryMp
+import Mathlib.CategoryTheory.Countable
+import Mathlib.Tactic.ENatToNat
 
 noncomputable section
 

@@ -1,6 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OfFnSplit
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LoeSubStates
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.SizeAtMinusW
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutIntervalLong
 
 namespace Formalism.FourierDecayAlt.P.PBL
 

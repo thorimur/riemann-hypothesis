@@ -1,6 +1,6 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjectiveCohomology.TwistingSheaf
-import GroundTheory.ArithmeticGeometry.SchemeCohomology.CechSeparated
+import Mathlib.AlgebraicGeometry.Noetherian
+import Mathlib.Tactic.Monotonicity.Lemmas
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Arith.SchemeCoh

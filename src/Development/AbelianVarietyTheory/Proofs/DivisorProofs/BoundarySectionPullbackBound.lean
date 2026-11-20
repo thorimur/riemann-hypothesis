@@ -1,10 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AnalyticLogResolution
-import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffAtOfIsPotential
-import ReciprocityTheory.AnalyticForms.LeviForms.TailBoundA
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MixedIntegralTailBoundExists
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PshPullbackHolomorphic
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SectionPullbackHolomorphic
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProjectiveAtlasPositivePotential
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsBdPullbackBoundary
 

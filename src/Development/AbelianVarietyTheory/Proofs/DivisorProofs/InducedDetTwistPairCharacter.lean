@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusThreeBlockApply
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.InducedFullRankIrreducible
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviBlockSizesSum
 open GlobalTheory.SmGL GlobalTheory.PRep GlobalTheory.LeviBlockExponent GlobalTheory.IndJacBlock
 
 noncomputable section

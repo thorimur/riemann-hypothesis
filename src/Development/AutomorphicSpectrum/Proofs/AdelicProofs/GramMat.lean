@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightsOfSets.Slopes
+import GroundTheory.HeightsAndTheta.Heights.HermitianLattice
 
 namespace GlobalTheory.CompanionTheory.Ar.Lines
 

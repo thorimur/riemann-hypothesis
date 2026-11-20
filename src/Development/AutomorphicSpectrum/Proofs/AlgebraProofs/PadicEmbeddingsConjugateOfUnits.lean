@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.AdelicLattices.FactPrimes
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Topology.Connected.Separation
+import Mathlib.Topology.MetricSpace.Ultra.TotallySeparated
 
 open NumberField IsDedekindDomain GlobalTheory.CompanionTheory.Ar.Fl
 

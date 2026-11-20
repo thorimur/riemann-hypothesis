@@ -1,8 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.JSmul
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ExistsPresOfRealD
-import Formalism.LocalRingCardinality.AdicCompletionLocal.LocTied
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GammaActionReduction
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.Saturated
+import Mathlib.LinearAlgebra.SymmetricAlgebra.Basis
+import Mathlib.LinearAlgebra.TensorAlgebra.Basis
 
 noncomputable section
 namespace GlobalTheory.RankOneReduction

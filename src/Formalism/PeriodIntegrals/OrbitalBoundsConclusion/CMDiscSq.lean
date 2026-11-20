@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.MassRatio
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMDiscriminantSquare.Development
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMDiscriminantSquare.SubMemDifferentIdeal
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMDiscriminantSquare.FinrankTwoOf

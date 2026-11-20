@@ -1,7 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.CohomologicalDimension.SubsingletonCohomologyOfPrimaryOfFinite
 import GroundTheory.ProfiniteCohomology.Colimit
-import GroundTheory.ProfiniteCohomology.OfNatRelIndexSupAntitone
 import GroundTheory.ProfiniteCohomology.IsProPGroupSubgroupIffIsPGroupMap
 set_option maxSynthPendingDepth 1
 

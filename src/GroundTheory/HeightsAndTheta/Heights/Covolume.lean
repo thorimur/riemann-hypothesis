@@ -1,7 +1,7 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.CovolumeGram
 import GroundTheory.HeightsAndTheta.Heights.HermitianEuclidean
-import GroundTheory.HeightsAndTheta.Heights.ArithDegreeExact
+import Mathlib.Algebra.Module.ZLattice.Covolume
+import Mathlib.NumberTheory.NumberField.Discriminant.Defs
+import Mathlib.NumberTheory.NumberField.EquivReindex
 
 namespace GroundTheory.Heights₂.Heights
 

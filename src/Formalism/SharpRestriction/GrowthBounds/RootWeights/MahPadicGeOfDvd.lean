@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.PadicGeMulNat
+import Formalism.GrowthSums.FactorialBaseGrowth.Coarse
 
 noncomputable section
 

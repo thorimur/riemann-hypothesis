@@ -1,4 +1,3 @@
-import Mathlib
 import Lemmata.FirstBlockLemmaJ.Imports
 
 namespace ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf

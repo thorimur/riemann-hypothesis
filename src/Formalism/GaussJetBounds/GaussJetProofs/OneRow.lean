@@ -1,6 +1,4 @@
-import Formalism.GaussJetBounds.GenLogInverse
 import Formalism.GaussJetBounds.StatementN
-import Formalism.GaussJetBounds.MonoShapeTop
 import Formalism.GaussJetBounds.GaussJetProofs.NormDetLeOneOfEntries
 import Formalism.GaussJetBounds.GaussJetProofs.ThmAOp
 

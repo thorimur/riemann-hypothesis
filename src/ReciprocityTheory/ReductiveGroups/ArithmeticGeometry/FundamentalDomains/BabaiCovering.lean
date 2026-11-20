@@ -1,4 +1,3 @@
-import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.Transference
 
 namespace ReciprocityTheory.ChartRestriction.G.FD.BabaiCovering

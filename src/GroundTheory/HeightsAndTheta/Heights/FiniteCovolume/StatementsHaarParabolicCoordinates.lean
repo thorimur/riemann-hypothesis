@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.StatementsVecFixGroup
 
 namespace GroundTheory.Heights₂.Heights.FiniteCovolume

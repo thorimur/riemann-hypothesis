@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsRestMore
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ChartRingOverOneBlockEqChartRing
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemSpanOfMemIdealMod

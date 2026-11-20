@@ -1,5 +1,5 @@
-import Formalism.LocalToGlobal.GlobalTheory.GL4.PLinks
 import Formalism.LocalToGlobal.Columns.CoefficientsModP.WeTransposeWordTransposeWord
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

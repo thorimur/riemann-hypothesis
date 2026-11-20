@@ -1,9 +1,8 @@
 import Formalism.SizeWindowBrackets.SBrDiv
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.LevelOfCongruence
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.StronglyIrreducible
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.DualPl
-import Formalism.HarderNarasimhan.HarderNarasimhanProofs.SizeMu
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.Rerealize
+import Formalism.ThickAverageLoss.ThickAverageProofs.Balance
+import Mathlib.GroupTheory.SpecificGroups.KleinFour
 
 open Module NumberField IsDedekindDomain
 open Formalism.HN

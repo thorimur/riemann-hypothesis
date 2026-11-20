@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.CharacterGerms.HostTraceIdentity
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePEmbIntSt
 
 set_option autoImplicit false

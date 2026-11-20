@@ -2,7 +2,6 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutHBPts
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PbWords
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CornerMatrixBlockThreeMul
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.VLetZeroNear
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.OpApplyZeroNear
 
 open Matrix MeasureTheory
 

@@ -1,5 +1,4 @@
 import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TieEvR
-import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.RecAct
 
 noncomputable section
 

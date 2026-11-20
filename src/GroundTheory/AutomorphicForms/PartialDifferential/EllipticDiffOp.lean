@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.PartialDifferential.EllipticSmooth
+import GroundTheory.AutomorphicForms.PartialDifferential.EllipticLocal
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
 
 namespace GroundTheory.Automorphic.Sobolev
 

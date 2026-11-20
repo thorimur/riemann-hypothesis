@@ -1,9 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.RealLowestKTypeCoeffSquareIntegrable
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FormOfClassSums
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.AeZeroOfSmall
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.TotallyDefiniteMass
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.FockNormMinorProductDeltaAtEmbeddingPosStatement
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolEqIndexMulMass
 
 noncomputable section
 

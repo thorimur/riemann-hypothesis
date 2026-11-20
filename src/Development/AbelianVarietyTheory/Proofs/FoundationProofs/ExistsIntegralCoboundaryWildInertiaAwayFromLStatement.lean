@@ -1,8 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIntegralCoboundaryWildInertiaAwayFromL
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.FoundationProofs.MemCoc
-import Formalism.SharpRestriction.LevelLetterCocycles.DataN
 open NumberField IsDedekindDomain Formalism.ConjugateSelfDual ReciprocityTheory.Gal Formalism.MainNotions.N GlobalTheory.GalOfCusp UpperTheory.V UpperTheory.V.Af UpperTheory.V.HV GlobalTheory.Ord2 GlobalTheory.KZ GlobalTheory.KA GlobalTheory.InertCoh
 open scoped Matrix
 set_option maxHeartbeats 1000000 in

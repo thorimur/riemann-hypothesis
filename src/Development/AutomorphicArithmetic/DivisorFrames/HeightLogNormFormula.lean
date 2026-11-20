@@ -1,9 +1,6 @@
-import Mathlib
 import Development.AutomorphicArithmetic.DivisorFrames.ProductFormulaHeight
 import Development.AutomorphicArithmetic.DivisorFrames.AlgebraicPointsDegreeSum
 import Development.AutomorphicArithmetic.DivisorFrames.PointFieldExtensionLift
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AmpleOnAbelianBase
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RingKrullDimIntegers
 open CategoryTheory AlgebraicGeometry NumberField IsDedekindDomain ReciprocityTheory.ChartRestriction.G.Geo.Tor GlobalTheory.Cartier GlobalTheory.ProjVar GlobalTheory.TrueGeo GlobalTheory.ShFam.Pad
 
 private theorem embedding_extends_algebraicClosure {K Ω : Type} [Field K] [NumberField K] [Field Ω] [IsAlgClosed Ω] (ι : K →+* Qb)

@@ -1,11 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.ActAtApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHarmonicHighestWeight
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankFockJointHarmonicsHighestWeightOfShape
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.JointShapeUniqueAndDegWEq
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FockActionHomogeneousEigenvector
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MinFirst
-import Development.AbelianVarietyTheory.Proofs.TwistedOperators.AbsSubOfDisjoint
 
 noncomputable section
 open scoped TensorProduct

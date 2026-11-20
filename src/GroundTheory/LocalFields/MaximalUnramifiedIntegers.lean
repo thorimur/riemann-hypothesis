@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.LocalFields.MaximalUnramified
 import GroundTheory.LocalFields.SeparableClosureValuation
 set_option maxHeartbeats 4000000

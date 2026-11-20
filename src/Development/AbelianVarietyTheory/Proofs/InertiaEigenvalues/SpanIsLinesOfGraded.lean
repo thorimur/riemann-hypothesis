@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
 import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.GradedSeries
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CompletionLines
 

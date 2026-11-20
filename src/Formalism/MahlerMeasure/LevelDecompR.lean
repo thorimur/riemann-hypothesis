@@ -1,4 +1,4 @@
-import Formalism.MahlerMeasure.IsIntegral
+import Formalism.MahlerMeasure.GoodCount
 
 namespace Formalism.GM.M
 

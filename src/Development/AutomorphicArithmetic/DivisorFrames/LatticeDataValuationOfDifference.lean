@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.LocalEmbeddings.RootFrame
 import Development.AutomorphicArithmetic.DivisorFrames.IntegralSpanMembershipOfEigen
 import Development.AutomorphicArithmetic.DivisorFrames.LatticeDataGivesCutAndDual
 open CategoryTheory AlgebraicGeometry NumberField IsDedekindDomain ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.SpanPowerMembership
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsLocTheoryTied
 

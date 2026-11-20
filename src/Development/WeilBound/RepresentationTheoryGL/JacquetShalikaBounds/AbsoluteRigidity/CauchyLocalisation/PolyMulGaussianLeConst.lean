@@ -1,4 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.JacquetShalikaBounds.AbsoluteRigidity.CauchyLoc
+import Mathlib.Data.Finset.Functor
 
 noncomputable section
 

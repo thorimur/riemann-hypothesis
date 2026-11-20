@@ -1,7 +1,7 @@
-import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.RealDescent.RealLeviDescent.DiracOfDiracZeroModule
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CliffordHighestWeightVector
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DiracKHolds
+import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ParthasarathyRaoVaradarajanStatement
 
 noncomputable section
 

@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.LengthCommensurableSpanSpanOfDetNeZero
+import Mathlib.RingTheory.LocalProperties.Reduced
 
 open Module IsDiscreteValuationRing Polynomial
 open scoped TensorProduct

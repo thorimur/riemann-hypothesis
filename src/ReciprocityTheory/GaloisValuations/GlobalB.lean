@@ -1,4 +1,10 @@
 import ReciprocityTheory.GaloisValuations.GlobalA
+import Mathlib.FieldTheory.Galois.Profinite
+import Mathlib.NumberTheory.NumberField.Ideal.Basic
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Invariant.Profinite
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Topology.Sheaves.Presheaf
 
 set_option linter.style.haveILetI false
 

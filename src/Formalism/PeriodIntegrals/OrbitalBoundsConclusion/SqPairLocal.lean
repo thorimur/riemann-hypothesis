@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SqPair
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.LocCartanPair
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SquarePairLocal.SqPairLocalOf
 

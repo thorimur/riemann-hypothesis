@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.PsiEDef
+import Formalism.SharpRestriction.CuspSpanNormBounds.FractionFieldToGenericStalkAlgebraMapEq
 
 noncomputable section
 

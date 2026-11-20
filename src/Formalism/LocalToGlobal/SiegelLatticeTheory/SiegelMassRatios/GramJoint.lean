@@ -1,6 +1,5 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.FlagEEqHyperbolic
 import Formalism.FlagUnipotentLattices.SignaturePreservingEntryNorms
-import Formalism.LocalRingCardinality.PosOfIsomEmb
 
 noncomputable section
 

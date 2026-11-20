@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.AdmissibleParameterJoins.GandSt
+import Formalism.SharpRestriction.AdmissibleParameterJoins.GandSq
+import Formalism.SharpRestriction.GrowthBounds.FormalGroupSystem
 
 noncomputable section
 

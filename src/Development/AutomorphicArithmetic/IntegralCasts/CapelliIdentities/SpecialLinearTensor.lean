@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SpecialLinearMap
 
 noncomputable def UpperTheory.Reformulated.B.SpecialLinearTensor.sl :

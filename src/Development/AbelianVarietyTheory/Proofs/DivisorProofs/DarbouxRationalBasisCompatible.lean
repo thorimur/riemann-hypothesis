@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RealisedOne
 
 open scoped TensorProduct Matrix

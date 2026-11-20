@@ -1,5 +1,6 @@
 import Development.WeilBound.CoreStatements.HodgeTatePoints.Comp1IdentityLeft
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.WickVanishing.CanonA
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

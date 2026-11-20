@@ -1,5 +1,6 @@
-import Mathlib
-import ReciprocityTheory.ReductiveGroups.ExtensionEmbeddings.ExtEmb
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Data.Rat.Star
+import ReciprocityTheory.ReductiveGroups.LatticeEmbeddings.IotaPlaceB
 
 open NumberField IsDedekindDomain
 open scoped Cardinal Polynomial IntermediateField

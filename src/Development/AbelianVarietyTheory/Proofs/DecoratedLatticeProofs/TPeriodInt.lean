@@ -1,8 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.LatticeFrames.PerIntOnAmb
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.AdmissiblePeriodOfPeriodInt
 import Development.AbelianVarietyTheory.Definitions.LatticeFrames.HypOver
-import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowX
 
 noncomputable section
 

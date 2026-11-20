@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.PartialDifferential.EllipticDiffOp
 
 namespace GroundTheory.Automorphic.Sobolev

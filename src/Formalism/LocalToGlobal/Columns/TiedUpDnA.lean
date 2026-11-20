@@ -1,4 +1,6 @@
 import Formalism.LocalToGlobal.Columns.TiedUpDnLoc
+import Formalism.LocalToGlobal.Columns.BtExistsSmulLeOfFg
+import Formalism.LocalToGlobal.Columns.Record
 
 open NumberField IsDedekindDomain Module Matrix
 open scoped TensorProduct

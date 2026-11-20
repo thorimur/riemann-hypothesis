@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.EqZeroOfCoefficientsSeparatingCharactersEqZero
+import Mathlib.Topology.Compactness.Paracompact
 
 open MeasureTheory
 open scoped Pointwise

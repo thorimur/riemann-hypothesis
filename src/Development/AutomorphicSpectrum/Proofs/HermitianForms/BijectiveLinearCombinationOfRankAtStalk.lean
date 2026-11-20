@@ -1,5 +1,8 @@
-import Mathlib
 import Formalism.UnipotentAdelicQuotients.SWXSDefs
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Analysis.Fourier.Inversion
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
 
 open MeasureTheory HeckeCharacterZeroLocus.SiegelWeilU
 open scoped FourierTransform RealInnerProductSpace

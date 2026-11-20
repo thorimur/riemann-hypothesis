@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.MemPreG
+import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.LevNOsmul
+import Formalism.SharpRestriction.LevelLetterCocycles.QuotientImageDivisibility.MemOfExp
 
 set_option linter.unusedVariables false
 

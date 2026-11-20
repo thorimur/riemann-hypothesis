@@ -1,4 +1,5 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.PatchingModules.EpsilonEtaMatrices.MemW1IffPattern
+import Development.AutomorphicArithmetic.AutomorphicVarieties.PatchingModules.DegreeCountCohomology.TyCard
+import Mathlib.RingTheory.PowerSeries.Inverse
 
 open Matrix UpperTheory.V.Alg UpperTheory.V.W
 

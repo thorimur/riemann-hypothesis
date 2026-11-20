@@ -1,6 +1,7 @@
-import Mathlib
-import Formalism.PeriodIntegrals.SameFormAllLevels
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ArithmeticCylinders
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Principal
 
 noncomputable section
 

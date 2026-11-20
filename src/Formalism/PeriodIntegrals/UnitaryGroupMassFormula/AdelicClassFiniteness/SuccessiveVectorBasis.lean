@@ -1,4 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.PartShortOf
+import Mathlib.Algebra.AffineMonoid.Basic
 
 noncomputable section
 

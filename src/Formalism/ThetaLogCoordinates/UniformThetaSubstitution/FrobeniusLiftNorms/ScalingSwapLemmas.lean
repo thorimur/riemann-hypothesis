@@ -1,6 +1,8 @@
-import Mathlib
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FirstDeriv
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TopsChoicePartA
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.MvPowerSeries.Rename
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 

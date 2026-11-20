@@ -1,4 +1,4 @@
-import Development.AbelianVarietyTheory.Definitions.Divisors.MaxWeightGL1EqOne
+import Development.AbelianVarietyTheory.Definitions.Divisors.SimpleTwistedTraceFormulaStable
 
 noncomputable section
 

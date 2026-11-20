@@ -1,4 +1,7 @@
 import Formalism.RealPlaceAnalysis.StatementU
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 open scoped InnerProductSpace
 open Finset

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.PrimesDyadicRS
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicPrimeIntervals.ThetaDiff
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ChebyshevPrimeBounds.PsiLowerBoundHolds

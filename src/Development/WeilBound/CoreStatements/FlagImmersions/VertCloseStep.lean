@@ -1,10 +1,7 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.FlagImmersions.DivCycleEqZeroOfNotMemZ
 import Development.WeilBound.CoreStatements.FlagImmersions.SamePotTransRsmul
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.RootOriginHeightComparisonTwo
 import Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.RootOriginHeightComparisonThreeStatement
-import Development.AutomorphicSpectrum.Proofs.GeometryProofs.FlagLabelBasesExist
-import GroundTheory.HeightsAndTheta.Heights.HeightComparison.IsMultiHomogIdealIff
 
 noncomputable section
 

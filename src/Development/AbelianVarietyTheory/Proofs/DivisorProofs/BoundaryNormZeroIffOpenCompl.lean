@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ModelDdcForms
+import Std.Tactic.BVDecide.Normalize.Prop
 open ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M GlobalTheory.IndefiniteRowSideFullHecke.ModelDdcForms MeasureTheory
 open scoped ContDiff
 

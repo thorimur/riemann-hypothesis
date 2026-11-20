@@ -1,13 +1,9 @@
-import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.DiagonalPowerBalanced
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.BoxTauBalOfLinear
-import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.GlobalFnsHolds
-import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.LocGenOfTrivial
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.LocZeroTranslDiffComp
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.TauBalOfSubsingleton
 import Development.AbelianVarietyTheory.Proofs.ThetaFamilyOrigin.RosatiAdjOfPoints
 import Development.AbelianVarietyTheory.Counterexamples.JetSurvey.ExistsPowWithAction
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.InhTate
 
 set_option autoImplicit false
 

@@ -1,8 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.ParConsts
-import Formalism.SharpRestriction.ParamsHeightRankConstant
-import Formalism.SharpRestriction.GlobalSchurBounds.MainIn
-import Formalism.LocalRingCardinality.DataErr
 
 noncomputable section
 

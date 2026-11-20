@@ -1,5 +1,8 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.InstSecondCountableSub
+import Development.AbelianVarietyTheory.Statements.CuspFrameWeights.DiscreteSpectrumKFiniteDecomposition
+import Formalism.RealPlaceAnalysis.RealPlaceTaylor.CompactHaarRightInvariantInst
+import Mathlib.MeasureTheory.Order.Group.Lattice
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 open MeasureTheory Matrix GlobalTheory.Dec GlobalTheory.IwaInt
 open scoped ComplexOrder
 

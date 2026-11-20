@@ -1,5 +1,4 @@
-import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.EdgeNoTrunc
-import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EChain
+import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementG
 
 open scoped BigOperators
 open Finset

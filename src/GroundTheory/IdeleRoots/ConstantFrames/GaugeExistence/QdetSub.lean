@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.IdeleRoots.ConstantFrames.GaugeExistence.RotationOfDiagonalGenerator
 set_option maxSynthPendingDepth 1
 

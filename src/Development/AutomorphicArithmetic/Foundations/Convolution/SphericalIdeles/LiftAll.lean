@@ -1,4 +1,9 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.Cbcc
+import Development.AutomorphicArithmetic.Foundations.Convolution.BlockEvaluation.Ci
+import Development.AutomorphicArithmetic.Foundations.Convolution.GeneralizedMeasures.GmOfBcfl
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.CoreLift
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.LiftAll
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.LiftStep
+import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.IntegralUnitBaseChange.BcflUnit
 
 theorem UpperTheory.ConvolutionTheory.Sph.gm : UpperTheory.ConvolutionTheory.GM.GM := UpperTheory.ConvolutionTheory.GM.gm_of_bcfl PositivityTheory.Rg.Tf.Loc.bcflUnit
 

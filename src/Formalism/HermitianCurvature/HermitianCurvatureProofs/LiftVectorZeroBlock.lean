@@ -1,6 +1,4 @@
 import Formalism.HermitianCurvature.StatementHeads
-import Formalism.HermitianCurvature.RealInputsClosedAdmissibleSettings
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelsOfBuiltSetting
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorPreservesFusionForms
 
 open Matrix MeasureTheory Filter Topology

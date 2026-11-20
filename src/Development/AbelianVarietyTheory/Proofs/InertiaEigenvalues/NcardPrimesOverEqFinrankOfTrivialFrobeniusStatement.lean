@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NcardPrimesOverEqFinrankOfTrivialFrobenius
 open NumberField IsDedekindDomain Polynomial
 set_option maxHeartbeats 1000000 in

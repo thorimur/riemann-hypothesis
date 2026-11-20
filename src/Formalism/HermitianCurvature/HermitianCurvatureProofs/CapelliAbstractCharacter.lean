@@ -1,5 +1,6 @@
 import Formalism.HermitianCurvature.CapelliDeterminantAndBranching
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.QuantumMinorCommutation
+import Mathlib.LinearAlgebra.Lagrange
 
 open Finset Polynomial
 

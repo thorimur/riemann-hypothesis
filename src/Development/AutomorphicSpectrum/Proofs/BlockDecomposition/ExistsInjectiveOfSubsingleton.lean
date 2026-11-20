@@ -1,12 +1,8 @@
-import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PrincipalSeriesSupport.PrinSeriesWord
-import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HasSupportOfIsSubquotientProdIrr
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ParabolicInductionPreservesSubquotient
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsCuspidalOfIsSubquotient
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdMapInjective
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvalMapLaw
-import CompanionTheory.AutomorphicTheory.HeckeStandardModules.EqZeroOfCompAt
-import BuildAid.D3
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsEquivProdIrrTw
 open GlobalTheory.PRep GlobalTheory.SplitWeil GlobalTheory.SmGL GlobalTheory.LocGL GlobalTheory.JHMult GlobalTheory.SmGL.Exponents
 
 noncomputable section

@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.CntLocalParts
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountPositivity.LeadingMinorFullEqProd
 

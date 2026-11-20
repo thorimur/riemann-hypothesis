@@ -1,6 +1,8 @@
-import Mathlib
 import GroundTheory.LocalFields.MaximalUnramifiedIntegers
 import GroundTheory.PowerSubgroups.CountableNeighbourhoods.UnitMulPowAdic
+import Mathlib.RingTheory.AdicCompletion.AsTensorProduct
+import Mathlib.RingTheory.AdicCompletion.Noetherian
+import Mathlib.RingTheory.PicardGroup
 
 noncomputable section
 

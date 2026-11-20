@@ -1,5 +1,3 @@
-import PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.CIface
-import PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.GIface
 import PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.TensorProductVectors
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.Brauer
 

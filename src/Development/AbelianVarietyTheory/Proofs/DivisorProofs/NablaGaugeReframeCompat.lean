@@ -1,13 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameAtApply
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarAddVectorScalar
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExtMapComp
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodMapMoebiusDenomUnit
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMapContraction
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMapWedgeCompat
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ReframeVerticalDerivative
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FderivReframeHorizontalStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MoebImaginaryPartTransformStatement
+import Mathlib.Analysis.Calculus.FDeriv.Star
 
 set_option autoImplicit false
 

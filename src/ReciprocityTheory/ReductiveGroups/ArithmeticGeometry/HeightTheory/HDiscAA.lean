@@ -1,5 +1,5 @@
-import Mathlib
-import ReciprocityTheory.SemistableReduction.AlgAll
+import Mathlib.RingTheory.PiTensorProduct
+import ReciprocityTheory.SemistableReduction.DetSubtypeCompAssociatedProd
 
 namespace ReciprocityTheory.ChartRestriction.G.T0
 

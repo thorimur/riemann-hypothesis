@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.EulerCharDefs
+import GroundTheory.ProfiniteCohomology.DiscreteModules
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

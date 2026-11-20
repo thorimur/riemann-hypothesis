@@ -1,5 +1,7 @@
-import Formalism.ThetaLogCoordinates.DualWeylCoordinates.StatementH
-import Formalism.GradedWeylDivisibility.StatementE
+import Formalism.GradedWeylDivisibility.StatementA
+import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DefsMod
+import Mathlib.RingTheory.PiTensorProduct
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open MvPolynomial
 

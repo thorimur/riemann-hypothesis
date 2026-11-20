@@ -1,6 +1,6 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
-import Formalism.RealPlaceAnalysis.RealPlaceTaylor.MemUnitaryGroupIffMulConjTranspose
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
 
 open MeasureTheory Filter Topology
 

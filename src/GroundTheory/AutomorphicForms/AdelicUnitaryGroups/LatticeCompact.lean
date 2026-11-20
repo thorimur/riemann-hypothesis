@@ -1,6 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.AdelicUnitaryGroups.Lattice
-import GroundTheory.GlobalFields.LocalAtPlace
+import Std.Tactic.BVDecide.Normalize.Prop
 
 set_option linter.unusedSectionVars false
 

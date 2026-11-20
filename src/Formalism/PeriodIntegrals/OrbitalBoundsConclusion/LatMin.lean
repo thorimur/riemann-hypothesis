@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.LatMin
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MinimalLatticeNorm.NormTwoEqOne
 

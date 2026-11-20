@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.DetUnitScalarMul
+import Mathlib.Topology.Compactness.CompactlyGeneratedSpace
 
 open MeasureTheory Matrix Formalism.REAL Formalism.MainNotions.S GlobalTheory.OpTrace GlobalTheory.HCChar GlobalTheory.SUChar
 open GlobalTheory.Orb (ujMat ujRep CcMat IsCharFn IsRegSS)

@@ -1,8 +1,6 @@
-import Mathlib
 import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 import Formalism.LocalRingCardinality.ConjSqrtMinusD
 import Formalism.HermitianLattices.HermitianLatticesProofs.LocDual
-import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Stdform
 import Formalism.LocalToGlobal.ProjectiveLattices.UnramBridgeHolds
 import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.BaseChangeInertUnramified
 import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.DefiniteFormInstances

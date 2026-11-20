@@ -1,4 +1,3 @@
-import Formalism.LocalToGlobal.Columns.TiedCH
 import Formalism.LocalToGlobal.Columns.TiedCB
 
 open NumberField IsDedekindDomain Module Matrix

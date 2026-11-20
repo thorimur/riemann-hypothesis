@@ -1,7 +1,5 @@
 import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.WittFractionToCpAlgebraMap
 import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.WittEmbeddingsCompatible
-import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.DetOfColSpanEq
-import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.WeightUpdateAtPlace
 import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.SubstZOfXCoordZA
 import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.XiOfSpec
 import Formalism.LocalToGlobal.GroupLattices.PendingLemmas.DetYtMatNeZero

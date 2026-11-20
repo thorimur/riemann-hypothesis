@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.NormalisedAdaptedVectorZero
-import Formalism.LocalRingCardinality.SpanPowerMembership.RankRecordRowDimensionZero
+import Formalism.LocalRingCardinality.SpanPowerMembership.BaseFormAnisotropicOrthogonalSingle
 
 noncomputable section
 

@@ -1,4 +1,6 @@
 import Formalism.HermitianCurvature.StatementJ
+import Mathlib.Algebra.Order.Archimedean.Real.Hom
+import Mathlib.Tactic.Monotonicity.Lemmas
 
 namespace Formalism.FourierDecayAlt.P.Jx2
 

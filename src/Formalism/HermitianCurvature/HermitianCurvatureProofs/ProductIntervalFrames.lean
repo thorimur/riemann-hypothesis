@@ -1,5 +1,5 @@
 import Formalism.HermitianCurvature.FrameExists2
-import Formalism.HermitianCurvature.StatementQ
+import Mathlib.Data.Int.Star
 
 open Matrix Finset
 

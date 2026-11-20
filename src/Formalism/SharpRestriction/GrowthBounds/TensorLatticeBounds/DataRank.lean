@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.TensorLatticeBounds.DataLP
+import Formalism.SharpRestriction.GrowthBounds.TensorLatticeBounds.DataLPa
 
 noncomputable section
 

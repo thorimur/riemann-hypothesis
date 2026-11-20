@@ -1,6 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.EisensteinTails.Statements
-import GroundTheory.HeightsAndTheta.Heights.EisensteinTails.ExistsIntOfIsIntegralThree
 import GroundTheory.HeightsAndTheta.Heights.EisensteinTails.FourierTailEqEisRest
 import GroundTheory.HeightsAndTheta.Heights.EisensteinTails.PRowPoisson
 set_option maxSynthPendingDepth 1

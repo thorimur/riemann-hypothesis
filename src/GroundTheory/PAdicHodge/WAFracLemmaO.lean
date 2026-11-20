@@ -1,12 +1,9 @@
-import Mathlib
 import GroundTheory.PAdicHodge.WAFracBridge
 import GroundTheory.PAdicHodge.WAFracOrbit
 import GroundTheory.PAdicHodge.WAFracNorm
-import GroundTheory.PAdicHodge.AnnNormAcrisToAnnPosBig
 import GroundTheory.PAdicHodge.WAFracAnnPt
 import GroundTheory.PAdicHodge.FundamentalSeqSurj
-import GroundTheory.PAdicHodge.BCrisPlusInvariants
-import GroundTheory.PAdicHodge.FontaineLemmaInvariants
+import GroundTheory.PAdicHodge.WAFracAnnCris
 set_option maxSynthPendingDepth 1
 
 noncomputable section

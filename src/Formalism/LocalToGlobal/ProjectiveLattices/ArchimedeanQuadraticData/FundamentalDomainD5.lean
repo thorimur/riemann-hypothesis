@@ -5,6 +5,9 @@ import Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.Latti
 import Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.ThetaDotSelf
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.CoveringRadiusStatement
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.PhiCMinF
+import Mathlib.Data.Rat.Star
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 
 set_option autoImplicit false
 

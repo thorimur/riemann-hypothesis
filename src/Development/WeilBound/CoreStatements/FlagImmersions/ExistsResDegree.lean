@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.MetricPeriods.MetricsProjectionFormulaNef
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.LogResolutionFunctorialHolomorphicStatement
 import Development.WeilBound.CoreStatements.FlagImmersions.BirationalOfClosure
 import Development.WeilBound.CoreStatements.FlagImmersions.InteriorUnionEmpty
 

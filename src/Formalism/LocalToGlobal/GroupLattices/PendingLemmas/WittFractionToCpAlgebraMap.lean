@@ -1,7 +1,14 @@
-import Mathlib
 import Formalism.LocalToGlobal.GroupLattices.PerfectRings.IsLocalRingOfComplete
 import Lemmata.FirstBlockLemmaF.Imports
 import Lemmata.GeneralBFactThird.Imports
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.Normed.Field.Instances
+import Mathlib.RingTheory.LocalProperties.Reduced
+import Mathlib.RingTheory.WittVector.Compare
+import Mathlib.RingTheory.WittVector.DiscreteValuationRing
+import Mathlib.RingTheory.WittVector.TeichmullerSeries
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Topology.Algebra.Nonarchimedean.Completion
 
 open Polynomial IsLocalRing Filter Topology
 

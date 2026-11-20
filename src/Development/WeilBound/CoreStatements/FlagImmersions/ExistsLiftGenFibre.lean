@@ -5,6 +5,7 @@ import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFormNotInCoor
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.DvrModelOfNumberFieldPlace
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsUniqueValuationRingLift
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.ValAtCompLocalHom
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.AbProj
 
 noncomputable section
 

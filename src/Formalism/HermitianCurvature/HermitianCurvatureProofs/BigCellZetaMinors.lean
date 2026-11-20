@@ -1,8 +1,6 @@
-import Formalism.HermitianCurvature.StatementJF
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.RegularisedPairingViaPhase
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellInversePair
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BigCellHermitian
-import Formalism.FormalDegreeBessel.FinalG
 import Formalism.FormalDegreeBessel.FinalBF
 
 open Matrix MeasureTheory Filter

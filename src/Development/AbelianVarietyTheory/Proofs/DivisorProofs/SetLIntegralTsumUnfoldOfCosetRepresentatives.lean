@@ -1,5 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.LocallyCompactSpaceAxis
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Dynamics.Ergodic.Action.Regular
 open MeasureTheory Filter Topology GlobalTheory.ResLine
 open scoped ENNReal Pointwise
 

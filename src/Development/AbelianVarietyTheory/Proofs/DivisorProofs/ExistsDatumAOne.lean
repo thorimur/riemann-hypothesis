@@ -1,6 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.NotCompactOfMEqOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemBotOfIsIntegral
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.Data.Int.Star
 
 noncomputable section
 open NumberField

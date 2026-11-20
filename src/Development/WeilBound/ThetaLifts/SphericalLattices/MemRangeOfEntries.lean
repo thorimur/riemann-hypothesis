@@ -1,4 +1,5 @@
 import Development.WeilBound.ThetaLifts.SphericalLattices.LocCommSt
+import Mathlib.RingTheory.Ideal.Quotient.Index
 
 noncomputable section
 

@@ -1,7 +1,5 @@
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ScaleRootOfPrintStatement
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CohomologicalCsdTempered
-import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ScaleRootAltBis
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ScaleRootOfPrint
+import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.SeriesRatSOf
 
 set_option synthInstance.maxHeartbeats 200000
 

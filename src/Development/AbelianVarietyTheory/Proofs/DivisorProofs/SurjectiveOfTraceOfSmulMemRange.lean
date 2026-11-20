@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DiscrIsUnit
 open IsLocalRing TensorProduct
 

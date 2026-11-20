@@ -1,5 +1,4 @@
 import Formalism.SharpRestriction.GrowthBounds.IsResidueClassZero
-import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 import Formalism.LocalRingCardinality.SpanPowerMembership.GatTies
 
 noncomputable section

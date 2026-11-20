@@ -1,12 +1,5 @@
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.AdditiveLawExample
-import Formalism.FormalGroupWitt.FormalGroupWittProofs.GroupV
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.FunctionalEquationHomVector
-import Formalism.FormalGroupWitt.FormalGroupWittProofs.CongrV
-import Formalism.FormalGroupWitt.FormalGroupWittProofs.ShiftFE
-import Formalism.FormalGroupWitt.FormalGroupWittProofs.ShiftAsm
-import Formalism.FormalGroupWitt.FormalGroupWittProofs.HeightV
-import Formalism.FormalGroupWitt.FormalGroupWittProofs.WittTeichmullerRoot
-import Formalism.FormalGroupWitt.FormalGroupWittProofs.GaussV
 
 namespace Formalism.FG
 

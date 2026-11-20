@@ -1,5 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.RingIndep
-import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.MemColSpanIff
+import Formalism.SharpRestriction.GrowthBounds.UnramifiedQuadraticSetting
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
 
 noncomputable section
 

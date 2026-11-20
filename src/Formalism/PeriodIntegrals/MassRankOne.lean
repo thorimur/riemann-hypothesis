@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HermitianLattices.StatementMass
 
 noncomputable section

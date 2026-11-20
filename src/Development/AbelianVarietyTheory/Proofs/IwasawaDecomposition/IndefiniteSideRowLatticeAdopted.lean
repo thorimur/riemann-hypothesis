@@ -1,13 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.Divisibility.DivisionCompatibleToSub2Indef2
-import Formalism.LocalToGlobal.Divisibility.TiedLemmas
 import Formalism.LocalToGlobal.Divisibility.LiftLatLemmas
-import Formalism.LocalToGlobal.HilbertRowConditions.CenterIdempotentAction
-import Formalism.LocalRingCardinality.DataBu
-import Formalism.QuotientMetricDivisors.ClassSumDualLe
-import Formalism.LocalRingCardinality.DataRows
-import Formalism.HermitianLattices.StatementMaj
-import Formalism.LocalToGlobal.Divisibility.GoodPartHermitianSpec
 
 section
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.DivisionValues Formalism.L2.DIV Formalism.L2.Indef Formalism.L2.Rows

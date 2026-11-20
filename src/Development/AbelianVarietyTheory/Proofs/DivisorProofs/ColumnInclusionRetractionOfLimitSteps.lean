@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MvIsIntMapMap
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsNormEqNegOne
 
 set_option autoImplicit false
 

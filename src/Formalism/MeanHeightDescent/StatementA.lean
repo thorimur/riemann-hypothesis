@@ -1,6 +1,4 @@
-import Mathlib
-import Formalism.MeanHeightDescent.MuMaxMinkowski
-import Formalism.MeanHeightDescent.BadRowsNumeric
+import Formalism.QuotientMetricDivisors.Statement
 
 open Finset Module NumberField
 

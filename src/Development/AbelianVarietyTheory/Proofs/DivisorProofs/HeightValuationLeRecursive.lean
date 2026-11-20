@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeVolSlopeOfTendsto
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumAbsExponentLeL1Norm
+import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ValVwProdLe
 
 set_option autoImplicit false
 

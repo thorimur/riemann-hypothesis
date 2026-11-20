@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.InertiaGaloisSymmetry.CycBasic
+import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.Decomp
 
 open NumberField IntermediateField Ideal
 open scoped Pointwise

@@ -1,8 +1,9 @@
-import Formalism.SharpRestriction.GrowthBounds.ChartComparison.StepIn
 import Formalism.LocalToGlobal.GroupLattices.LevelCharts.LevelsOfChChartsCover
 import Formalism.LocalToGlobal.GroupLattices.LevelCharts.FiniteClassSetOfFiniteIndex
-import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TiePtOneRec
-import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TiePsi
+import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CompFintype
+import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TiePtOne
+import Formalism.LocalToGlobal.GroupLattices.TiedFamilies.TiePtRec
+import Formalism.SharpRestriction.GrowthBounds.ChartComparison.CmpGlMemMIff
 
 noncomputable section
 

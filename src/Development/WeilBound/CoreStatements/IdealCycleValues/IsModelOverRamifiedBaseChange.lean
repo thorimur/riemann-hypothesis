@@ -1,9 +1,7 @@
-import Mathlib
-import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsPreFamilyOfLatticeFamilyTwo
-import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsFlagIndependence
 import GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PIntNumBaseChange
 import Development.WeilBound.CoreStatements.IdealCycleValues.FlatColon
 import Development.WeilBound.CoreStatements.IdealCycleValues.OfIdealCycleNe
+import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.BundleChernComparison
 
 namespace BaseChangeColon.BC
 

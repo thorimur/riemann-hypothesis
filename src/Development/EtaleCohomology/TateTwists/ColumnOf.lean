@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.TateTwists.MapMapEq
+import Mathlib.RingTheory.TensorProduct.DirectLimitFG
 
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex GlobalTheory.EtC
 open scoped TensorProduct

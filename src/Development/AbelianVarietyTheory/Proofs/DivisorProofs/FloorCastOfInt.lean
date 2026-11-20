@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FormalDegreeLower
 import Formalism.SharpRestriction.Divisibility.LocalNonemptiness.LiftErrorLocal
 

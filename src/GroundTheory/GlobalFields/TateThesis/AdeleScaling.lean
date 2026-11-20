@@ -1,7 +1,6 @@
-import Mathlib
-import GroundTheory.GlobalFields.TateThesis.AdeleMeasure
 import GroundTheory.GlobalFields.TateThesis.FiniteAdeleScaling
-import GroundTheory.GlobalFields.IdeleGroups.IdeleNorms
+import Mathlib.Algebra.Order.Positive.Field
+import Mathlib.RingTheory.Complex
 
 namespace GroundTheory.Global
 

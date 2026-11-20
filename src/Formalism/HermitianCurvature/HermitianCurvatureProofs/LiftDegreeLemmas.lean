@@ -1,9 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.FormPos
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BlockOfChoices
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.OpApplyZeroNear
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SliceCompactSupportCoefficient
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.JfBetaAdjCOfLemmaBNorm
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelFormSesquilinearFiniteClass
 
 namespace Formalism.FourierDecayAlt.P.PBL
 

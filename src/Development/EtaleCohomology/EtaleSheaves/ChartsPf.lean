@@ -1,4 +1,6 @@
-import Development.EtaleCohomology.EtaleSheaves.LineOneCut
+import Development.EtaleCohomology.EtaleSheaves.LineHigh
+import Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Basic
+import Mathlib.Order.CompletePartialOrder
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC LateralTheory.E.t_E2Cut

@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenDegAmple
-import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenericFibreVar
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsMultiDegreePositive
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PGenDegTwist
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PIntersectionRecursion

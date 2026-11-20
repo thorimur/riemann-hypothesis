@@ -1,5 +1,3 @@
-import Formalism.LocalToGlobal.ProjectiveLattices.IntAtExtExtAll
-import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.PublishedIntClosHolds
 import Formalism.LocalToGlobal.ProjectiveLattices.CurveInstSt
 
 set_option synthInstance.maxHeartbeats 400000

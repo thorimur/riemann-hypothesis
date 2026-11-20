@@ -1,6 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SiegelMeanCc
 import Formalism.UnipotentAdelicQuotients.SiegelWeilUnitaryConvergent
+import Mathlib.Algebra.Module.StablyFree.Basic
 
 open MeasureTheory NumberField IsDedekindDomain
 open scoped TensorProduct

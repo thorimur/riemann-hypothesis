@@ -1,7 +1,3 @@
-import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.RegularisedSiegelWeil.ThetaIdempotents.HeckeEta
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PartialConstantTermBound
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MeanTransport
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.JacobiMapsExist
 
 noncomputable section

@@ -1,4 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.EBeta
+import Mathlib.LinearAlgebra.Matrix.Permutation
 
 noncomputable section
 

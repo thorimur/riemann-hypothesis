@@ -1,9 +1,6 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.AdmissibleFiniteLength
-import GroundTheory.LocalFields.LocalFourierHaar
-import GroundTheory.LocalFields.LocalFourierChar
 import GroundTheory.LocalFields.LocalZetaEpsilon
 import GroundTheory.LocalFields.ExistsUnitFiltrationUnitsLeRangeNormUnits
+import GroundTheory.AutomorphicForms.Cartan
 
 noncomputable section
 

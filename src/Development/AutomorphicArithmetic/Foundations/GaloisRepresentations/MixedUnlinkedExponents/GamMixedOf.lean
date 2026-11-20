@@ -1,6 +1,8 @@
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.MixedUnlinkedExponents.ValsExtOf
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.BijectiveOfSplit
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.WeakStable
+import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.CyclicStrongAtCusp
+import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSubquotientComp
+import Development.AutomorphicArithmetic.Foundations.Convolution.TraceSplitting.NormCharSplit
 
 noncomputable section
 

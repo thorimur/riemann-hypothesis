@@ -1,6 +1,9 @@
-import Mathlib
-import Formalism.FlagUnipotentLattices.QDetNegTranspose
-import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
+import Formalism.FlagUnipotentLattices.MemLpTwoOfOneTop
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 open Finset TensorProduct Formalism.HermitianLatticeCounting.S8
 
 noncomputable section

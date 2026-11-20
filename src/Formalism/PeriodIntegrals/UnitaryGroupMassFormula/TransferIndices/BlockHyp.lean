@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TransferIndices.MatVTransvection
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ExistsSmulMemTer
 

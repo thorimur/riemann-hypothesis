@@ -1,5 +1,4 @@
-import Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ExistsIsLZBasis
-import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HyperbolicFlagDataBasePoint
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.Signature
 
 namespace GlobalTheory.SubmoduleScalarClosure
 

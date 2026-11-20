@@ -1,6 +1,5 @@
-import Mathlib
-import CompanionTheory.SpectralGeometry.CountingDefinitions.VoronoiMeans.VorFunEvalEqFineMean
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MinkowskiWeylOrthantConeIntegralConstraints
+import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsStrictIff
 
 set_option autoImplicit false
 

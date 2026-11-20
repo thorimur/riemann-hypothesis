@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.FiniteIntegralClosureOfEssFiniteTypeField
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.RingTheory.Valuation.LocalSubring
 
 namespace GlobalTheory
 

@@ -1,9 +1,5 @@
-import Mathlib
 import Formalism.DistinguishedUnitIdeals.FinalArcProps
-import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.ThmEPrim
-import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.Partners
 import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.PolynomialEvaluationValuation
-import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.Graded
 import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.Rounding
 import Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.Bridge
 

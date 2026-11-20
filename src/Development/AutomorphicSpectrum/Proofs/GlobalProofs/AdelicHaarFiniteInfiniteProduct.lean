@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.ExistsUnitOfComm
+import Development.AutomorphicSpectrum.Proofs.GlobalProofs.FiniteDimensionalOfSlices
 
 namespace GlobalTheory.CompanionTheory.LeviGen
 open GlobalTheory.CompanionTheory.Hypotheses₂.LeviPart

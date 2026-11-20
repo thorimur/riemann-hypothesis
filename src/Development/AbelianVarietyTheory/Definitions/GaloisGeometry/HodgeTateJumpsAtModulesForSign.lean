@@ -1,6 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.DecompositionData
-import Formalism.LocalRingCardinality.DataParams₂
 
 noncomputable section
 

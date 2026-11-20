@@ -1,5 +1,8 @@
-import Mathlib
 import ReciprocityTheory.L2DbarEstimates.WeakHolomorphy.HoloWeakStatement
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.ReduceModChar
 
 namespace Bl.SecondBlockLemmaG
 

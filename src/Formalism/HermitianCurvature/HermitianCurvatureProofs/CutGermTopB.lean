@@ -1,5 +1,8 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGermTop
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.TopCore
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.IsCompactRoots
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.OneSubPowLe
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.StandardPairingDecay
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.WeightProductGermIndep
 
 namespace Formalism.FourierDecayAlt.P.CutBP.GT
 

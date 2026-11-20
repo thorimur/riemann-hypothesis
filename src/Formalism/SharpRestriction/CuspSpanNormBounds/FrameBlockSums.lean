@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.IsPtRepTrDat
+import Formalism.SharpRestriction.CuspSpanNormBounds.FrameFactorGe
+import Formalism.SharpRestriction.CuspSpanNormBounds.TheoremBConstants
 
 open MeasureTheory Matrix Finset
 

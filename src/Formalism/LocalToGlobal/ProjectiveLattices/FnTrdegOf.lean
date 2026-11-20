@@ -1,5 +1,6 @@
 import Formalism.LocalToGlobal.ProjectiveLattices.CompHt
-import Mathlib
+import Mathlib.LinearAlgebra.SymmetricAlgebra.Basis
+import Mathlib.LinearAlgebra.TensorAlgebra.Basis
 
 noncomputable section
 

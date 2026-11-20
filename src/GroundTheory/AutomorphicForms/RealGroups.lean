@@ -1,9 +1,3 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.RealGroupsLie
-import GroundTheory.AutomorphicForms.RealGroupsPolar
-import GroundTheory.AutomorphicForms.RealGroupsKAK
-import GroundTheory.AutomorphicForms.RealGroupsIwasawa
-import GroundTheory.AutomorphicForms.RealGroupsHaar
 import GroundTheory.AutomorphicForms.RealGroupsIwasawaHaar
 
 namespace GroundTheory.Automorphic

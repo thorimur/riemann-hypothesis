@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.RwAppend
 
 open MeasureTheory Matrix Finset Filter Topology

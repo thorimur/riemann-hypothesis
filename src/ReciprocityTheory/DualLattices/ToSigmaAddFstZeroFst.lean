@@ -1,4 +1,4 @@
-import ReciprocityTheory.DualLattices.ModuliPointsState
+import ReciprocityTheory.DualLattices.SqZeroOfSpan
 
 noncomputable section
 

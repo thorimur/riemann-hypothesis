@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.KfBijective
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsUnitCarries
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpandsFOfIntegral
 import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.IntegralDegenerationFamilyBaseChangeExtensionFie

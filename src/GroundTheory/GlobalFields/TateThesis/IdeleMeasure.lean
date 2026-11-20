@@ -1,8 +1,11 @@
-import Mathlib
-import GroundTheory.GlobalFields.IdeleGroups.NormOneCompact
 import GroundTheory.GlobalFields.IdeleGroups.StandardOpenEquiv
 import GroundTheory.GlobalFields.Adele.Topology
 import GroundTheory.GlobalFields.TateThesis.AdeleMeasurable
+import GroundTheory.GlobalFields.IdeleGroups.ClassGroup
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Complex
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open NumberField IsDedekindDomain Topology Filter MeasureTheory TopologicalSpace
 open scoped NumberField.AdeleRing RestrictedProduct ENNReal NNReal

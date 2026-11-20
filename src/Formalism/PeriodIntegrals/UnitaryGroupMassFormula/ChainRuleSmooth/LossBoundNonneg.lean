@@ -1,4 +1,6 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ChainRuleSmooth.Curves
+import Formalism.HermitianCurvature.FiniteOrderIntersectionInSmooth
+import Mathlib.RingTheory.PiTensorProduct
 
 open Matrix
 open scoped ContDiff

@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsPosFrameQuotIn
 open Set Matrix Filter Topology
 open ReciprocityTheory.L2DbarEstimates (V)

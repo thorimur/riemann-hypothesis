@@ -3,6 +3,7 @@ import Development.EtaleCohomology.KummerTheory.CupAWCutEv
 import Development.EtaleCohomology.TateTwists.CupflipWdPf
 import Development.EtaleCohomology.TateTwists.CupflipAwExistsPfCochain
 import Development.EtaleCohomology.TateTwists.EtaleChainCochainExistsOfEvalData
+import Mathlib.RingTheory.PiTensorProduct
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry Opposite CochainComplex CochainComplex.HomComplex GlobalTheory.EtC

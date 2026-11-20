@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsSemilocResidueDeg
+import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsSemilocMaxIdeals
 set_option maxSynthPendingDepth 1
 
 noncomputable section

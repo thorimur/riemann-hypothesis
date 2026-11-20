@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.CharacterGerms.PullbackLogCoordsEvalZero
-import Formalism.LocalToGlobal.CharacterGerms.RowTieCartFB
+import Formalism.LocalToGlobal.CharacterGerms.ValuationEqPairOfLogUnitGerm
 
 noncomputable section
 

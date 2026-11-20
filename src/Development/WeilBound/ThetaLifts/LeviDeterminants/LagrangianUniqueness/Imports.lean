@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Definitions.Divisors.HilbertNinetyQuotientHomEqIff
+import Mathlib.Topology.Sheaves.Presheaf
 
 open GlobalTheory.WeilM Filter Topology
 open scoped Classical

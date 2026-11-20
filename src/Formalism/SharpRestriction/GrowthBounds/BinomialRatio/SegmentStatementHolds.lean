@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.BinomialRatio.Transported
+import Formalism.SharpRestriction.GrowthBounds.ColumnSystems
 
 noncomputable section
 

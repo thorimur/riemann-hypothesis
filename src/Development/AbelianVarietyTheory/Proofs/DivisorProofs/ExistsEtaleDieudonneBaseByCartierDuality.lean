@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.RedSurjective
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEtDualOfConn
 open CategoryTheory GlobalTheory.PDiv GlobalTheory.PDivGroup
 

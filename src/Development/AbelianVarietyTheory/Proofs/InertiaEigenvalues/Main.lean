@@ -1,4 +1,4 @@
-import Formalism.LocalToGlobal.CharacterGerms.RowTiePProjFB
+import Formalism.LocalToGlobal.CharacterGerms.GeNatCast
 
 namespace GlobalTheory.ScalarStatement
 

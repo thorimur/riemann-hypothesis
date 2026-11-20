@@ -1,9 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BrgStdR
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousActP
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StdSideUnique
-import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ClassPresBasic
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsIntegralOfLine
+import Formalism.SharpRestriction.CuspSpanNormBounds.BesselShellMomentBounds
 
 noncomputable section
 

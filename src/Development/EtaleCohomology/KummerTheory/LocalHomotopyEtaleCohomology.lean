@@ -1,13 +1,10 @@
 import Development.EtaleCohomology.KummerTheory.DictExistPf
 import Development.EtaleCohomology.KummerTheory.NrmMkPf
-import Development.EtaleCohomology.KummerTheory.DictNormalPf
 import Development.EtaleCohomology.KummerTheory.DictZeroPf
-import Development.EtaleCohomology.KummerTheory.DictPfEv
 import Development.EtaleCohomology.KummerTheory.CupAWCut
 import Development.EtaleCohomology.KummerTheory.CupSchPf
 import Development.EtaleCohomology.KummerTheory.GhostPf
 import Development.EtaleCohomology.KummerTheory.ForgetInjPf
-import Development.EtaleCohomology.KummerTheory.InjSlicePf
 import Development.EtaleCohomology.KummerTheory.SHenCutPf
 import Development.EtaleCohomology.KummerTheory.FivePf
 import Development.EtaleCohomology.KummerTheory.ISupFinSuccEq
@@ -19,20 +16,17 @@ import Development.EtaleCohomology.KummerTheory.ExactPf
 import Development.EtaleCohomology.KummerTheory.MVnatPf
 import Development.EtaleCohomology.KummerTheory.AffRingPf
 import Development.EtaleCohomology.KummerTheory.LimOfIso
-import Development.EtaleCohomology.KummerTheory.ContCut
 import Development.EtaleCohomology.KummerExtensions.EtaleLefschetzHochschildSectionOfCupSchemaAndKum
 import Development.EtaleCohomology.KummerTheory.LhNatPf
 import Development.EtaleCohomology.KummerTheory.ConeAlgPf
 import Development.EtaleCohomology.KummerTheory.LocKerPf
 import Development.EtaleCohomology.KummerTheory.CokAffPf
-import Development.EtaleCohomology.KummerTheory.LocCokPf
 import Development.EtaleCohomology.KummerTheory.EtaleLerayHirschConeSourceComponentVanishesAfter
 import Development.EtaleCohomology.KummerTheory.ExIsoPf
 import Development.EtaleCohomology.KummerTheory.CorepPf
 import Development.EtaleCohomology.KummerTheory.HomKillPf
 import Development.EtaleCohomology.KummerTheory.ConeObjPf
 import Development.EtaleCohomology.KummerTheory.ConeCxPf
-import Development.EtaleCohomology.KummerTheory.LHCutGlue
 
 namespace LateralTheory.Fin.LH
 theorem etale_kunneth_normalized_dictionary_exists_in_continuity_assembly : LateralTheory.KummerTheory.DictExist := by

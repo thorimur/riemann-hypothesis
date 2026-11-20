@@ -1,4 +1,5 @@
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DifferentIdealSmulMemSpanRational
+import Mathlib.Tactic.Monotonicity.Lemmas
 open NumberField
 
 namespace GlobalTheory

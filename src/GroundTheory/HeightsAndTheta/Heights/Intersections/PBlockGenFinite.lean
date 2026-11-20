@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsBlockRatioAlg
 import GroundTheory.HeightsAndTheta.Heights.Intersections.AvoidRing
 import GroundTheory.HeightsAndTheta.Heights.Intersections.IsHorizontalImageZ
+import GroundTheory.HeightsAndTheta.Heights.Intersections.StatementsBlockGenFinite
 set_option maxSynthPendingDepth 1
 
 noncomputable section

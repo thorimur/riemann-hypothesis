@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.FibStalkPf
+import Std.Tactic.BVDecide.Normalize.Prop
 
 noncomputable section
 open CategoryTheory AlgebraicGeometry Polynomial LateralTheory.E.t_E2Cut LateralTheory.E.FibStalkPf

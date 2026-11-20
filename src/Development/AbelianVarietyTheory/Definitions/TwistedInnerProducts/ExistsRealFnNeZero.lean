@@ -1,7 +1,7 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Statements.HeckeThetaIntegrals.StepUnfold
 import Development.AbelianVarietyTheory.Definitions.Foundations.ForallEventuallyFinLocIff
-import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.StatementWithTransposeOfBranching
+import Development.AbelianVarietyTheory.Definitions.Divisors.BplusOfEquivariant
+import Development.AbelianVarietyTheory.Definitions.Divisors.InvVolConjLevelOne
+import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.SplitLastBlockActX
 
 noncomputable section
 

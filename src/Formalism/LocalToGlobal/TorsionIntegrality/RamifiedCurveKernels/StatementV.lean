@@ -1,6 +1,4 @@
 import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.StatementS
-import Formalism.LocalToGlobal.TorsionIntegrality.RamifiedCurveKernels.StatementR
-import Formalism.GaussJetBounds.StatementQ
 
 noncomputable section
 open scoped BigOperators

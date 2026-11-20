@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.MetricPeriods.MainNotions
 
 namespace GlobalTheory.CompanionTheory.Ar.HS

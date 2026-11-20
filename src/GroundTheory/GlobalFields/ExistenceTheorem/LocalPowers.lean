@@ -1,8 +1,8 @@
-import Mathlib
-import GroundTheory.GlobalFields.SplittingFromInequality
 import GroundTheory.GlobalFields.IdeleGroups.SIdeleGroups
 import GroundTheory.GlobalFields.KummerTheory.SplittingKummer
 import GroundTheory.GlobalFields.KummerTheory.Unramified
+import GroundTheory.GlobalFields.FirstInequalityStatement
+import GroundTheory.GlobalFields.IdeleGroups.LocalNormsEverywhere
 
 namespace GroundTheory.Global
 

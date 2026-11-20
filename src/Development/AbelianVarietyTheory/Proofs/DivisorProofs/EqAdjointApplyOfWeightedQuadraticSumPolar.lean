@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsUnimodMod
 
 open GlobalTheory.Poinc Matrix

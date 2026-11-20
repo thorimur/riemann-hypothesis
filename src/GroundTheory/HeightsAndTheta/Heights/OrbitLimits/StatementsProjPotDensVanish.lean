@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsProjPotMassEq
+import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.StatementsProjMaxRank
 set_option maxSynthPendingDepth 1
 
 noncomputable section

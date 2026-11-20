@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.CharSumInv
+import Mathlib.GroupTheory.Schreier
+import Mathlib.Order.CompletePartialOrder
 
 open Module
 open TensorProduct

@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.TensorProductTheorem.TwoFactor
+import GroundTheory.AutomorphicForms.TensorProductTheorem.OuterTensor
+import Mathlib.RingTheory.Coalgebra.CoassocSimps
 
 noncomputable section
 

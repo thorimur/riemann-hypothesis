@@ -1,4 +1,5 @@
 import Formalism.PadicSubsetSums.StableGradedCounts.CrossFactorCount
+import Mathlib.Algebra.Order.Field.GeomSum
 
 open Finset Polynomial
 

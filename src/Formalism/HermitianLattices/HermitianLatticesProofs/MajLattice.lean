@@ -1,7 +1,14 @@
-import Mathlib
 import Formalism.HermitianLattices.StatementMaj
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonMajorizingLattice
 import Lemmata.GeneralBFactSecondRest.Imports
+import Mathlib.Algebra.AffineMonoid.Basic
+import Mathlib.NumberTheory.NumberField.CanonicalEmbedding.Basic
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open NumberField NumberField.InfinitePlace NumberField.mixedEmbedding Module
 open scoped Matrix

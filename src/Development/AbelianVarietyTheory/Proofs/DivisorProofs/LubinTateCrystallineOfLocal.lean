@@ -1,7 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.LtChar
-import Development.AbelianVarietyTheory.Statements.WeilDeligneCrystalline.LTCrys
-import Development.AbelianVarietyTheory.Statements.WeilDeligneCrystalline.EqNegOneOfJumpAt
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapAlgebraMap
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FKEqResDeg
 open NumberField IsDedekindDomain Neutral.B1 Formalism.ConjugateSelfDual ReciprocityTheory.Gal Formalism.L2.Host Formalism.BasicNotions Formalism.BasicNotions.Loc Formalism.WeaklyAdmissibleFiltrations

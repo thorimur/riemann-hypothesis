@@ -1,9 +1,6 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalLimits.InfRange
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolReal
 import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolSep
-import GroundTheory.GlobalFields.InfiniteNormIndex.LocalSymbol
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

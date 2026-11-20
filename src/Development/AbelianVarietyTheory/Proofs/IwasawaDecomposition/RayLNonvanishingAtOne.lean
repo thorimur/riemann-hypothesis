@@ -1,7 +1,8 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.NonemptyRayDataOfNeZero
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.RayClassPartialZetaContinuationStatement
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.DedekindZetaFactorizationRayStatement
+import Mathlib.GroupTheory.FiniteAbelian.Duality
+import Mathlib.NumberTheory.LSeries.Positivity
+import Mathlib.RingTheory.RootsOfUnity.AlgebraicallyClosed
 
 open NumberField IsDedekindDomain GlobalTheory.Mem Complex
 open scoped ComplexOrder

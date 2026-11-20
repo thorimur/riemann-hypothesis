@@ -1,6 +1,5 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsKSValueOneOfRetraction
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DividedPowerFiltration
+import Mathlib.Algebra.Polynomial.Basis
 
 set_option autoImplicit false
 

@@ -1,4 +1,6 @@
 import Development.AbelianVarietyTheory.Definitions.Divisors.DivisorSupportCondition
+import Mathlib.AlgebraicGeometry.ProjectiveSpectrum.Basic
+import Mathlib.RingTheory.RegularLocalRing.Defs
 
 noncomputable section
 open CategoryTheory Limits AlgebraicGeometry GlobalTheory.EtC

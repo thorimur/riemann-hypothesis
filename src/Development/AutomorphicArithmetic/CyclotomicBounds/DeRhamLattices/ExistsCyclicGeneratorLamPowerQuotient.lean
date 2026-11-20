@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstOneMem
 open GlobalTheory.UseLoc.Cases
 

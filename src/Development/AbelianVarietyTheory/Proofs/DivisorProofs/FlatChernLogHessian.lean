@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DbarEqZeroOfHolomorphic
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CurvatureFormVerticalRiemannStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DdcLogVerticalStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PotentialMixedDerivativeStatement

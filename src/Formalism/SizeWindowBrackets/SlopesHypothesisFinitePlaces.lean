@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HarderNarasimhan.StatementPl
 import Formalism.SizeWindowBrackets.RealSlopeBoundsSplit
 

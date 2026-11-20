@@ -1,5 +1,6 @@
-import Mathlib
 import Development.ResolutionOfSingularities.Foundations.Schemes.IdealSheafData
+import Mathlib.AlgebraicGeometry.Morphisms.Flat
+import Mathlib.Tactic.Polynomial.Basic
 universe u
 
 open CategoryTheory AlgebraicGeometry TensorProduct

@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.PAdicHodge.SlopeRobbaDegree
+import Mathlib.Data.Rat.Star
 set_option maxSynthPendingDepth 1
 
 noncomputable section

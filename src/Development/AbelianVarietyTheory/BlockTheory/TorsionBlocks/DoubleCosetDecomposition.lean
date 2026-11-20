@@ -1,7 +1,4 @@
-import Mathlib
 import Formalism.SharpRestriction.GlobalSchurBounds.StandardLattice
-import Formalism.HermitianLattices.StatementMass
-import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GenusMassVolumes
 
 noncomputable section
 

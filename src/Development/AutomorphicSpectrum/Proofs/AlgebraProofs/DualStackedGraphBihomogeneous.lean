@@ -1,5 +1,3 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsDualStackedExcLead
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedGraphBihomog
 
 namespace GlobalTheory.CompanionTheory.Ar.Giv

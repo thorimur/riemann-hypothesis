@@ -2,6 +2,9 @@ import PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.SConjS
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ContinuousMapGL
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicGLHomeomorphInfiniteFinite
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CapelliOperatorAlgebraStableUnderComplexConj
+import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MkMemAdmissibleAtIffCocycle
+import GroundTheory.AutomorphicForms.GLnLocal
+import GroundTheory.GlobalFields.LocalFieldAtPlace
 
 noncomputable section
 

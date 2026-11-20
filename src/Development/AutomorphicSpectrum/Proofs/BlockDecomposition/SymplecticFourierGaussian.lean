@@ -1,10 +1,8 @@
-import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.VerticalStrips.UnramifiedEulerProductIntegral
-import GroundTheory.AutomorphicForms.GL2.GJMatrixLocal
-import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OneDim
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NormMixedToEuclideanConjSqRat
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoeAbsNormUnitsPrimeIdealUnit
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFourierCosetIndValBall
+import GroundTheory.GlobalFields.TateThesis.RootNumberLocalPlace
 
 noncomputable section
 

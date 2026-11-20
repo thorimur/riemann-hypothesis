@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.FiltrationCocycleLiftCriterion
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ReLtOneOfZero
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NeOneOfIsPrimitive
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.InRegionMono

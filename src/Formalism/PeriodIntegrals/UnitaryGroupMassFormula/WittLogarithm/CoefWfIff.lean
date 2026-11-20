@@ -1,5 +1,5 @@
-import Formalism.PeriodIntegrals.InvSerSub
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExponentialIntegrality.InvNatMemWf
+import Mathlib.RingTheory.PowerSeries.Basic
 
 noncomputable section
 

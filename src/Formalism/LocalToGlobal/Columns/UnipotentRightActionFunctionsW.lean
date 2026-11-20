@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.RowForms
 import Formalism.LocalToGlobal.Columns.HeckeSp
 import Formalism.LocalToGlobal.Columns.MemWmPerp

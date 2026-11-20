@@ -1,10 +1,9 @@
 import Formalism.SharpRestriction.GrowthBounds.FlipOneThree
-import Formalism.MahlerMeasure.CoarseLevelSlackInequalities
-import Formalism.PolynomialDimension.FinalM
-import Formalism.ThetaLogCoordinates.TraceIsometryWeights.DischargeHeightBound
 import Formalism.ThetaLogCoordinates.PartnerMeanCoordinates.LatticeTheoremEps28Valid
 import Formalism.SharpRestriction.GrowthBounds.GLWeightTheory
 import Lemmata.GeneralBFactLeftBisForm.Imports
+import Mathlib.Algebra.AffineMonoid.UniqueSums
+import Mathlib.Algebra.Order.Antidiag.FinsuppEquiv
 
 noncomputable section
 

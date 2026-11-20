@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.RegularUFDLocalization
+import Mathlib.RingTheory.Regular.LinearMap
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

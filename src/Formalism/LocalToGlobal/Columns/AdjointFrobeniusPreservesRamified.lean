@@ -1,11 +1,5 @@
-import Mathlib
 import Formalism.LocalToGlobal.Columns.SmulMemTrpSet
 import Formalism.LocalToGlobal.Columns.LocWLemmas
-import Formalism.LocalToGlobal.Columns.AtTLemmas
-import Formalism.LocalToGlobal.Columns.DiamondPreservesRamified
-import Formalism.LocalToGlobal.Columns.AtTRank
-import Formalism.LogVandermondeBounds.LogVandermondeProofs.RamifiedLatticeOperatorIdentity
-import Formalism.LogVandermondeBounds.LogVandermondeProofs.FourierIsometryOnNormKernel
 
 open NumberField IsDedekindDomain Module
 

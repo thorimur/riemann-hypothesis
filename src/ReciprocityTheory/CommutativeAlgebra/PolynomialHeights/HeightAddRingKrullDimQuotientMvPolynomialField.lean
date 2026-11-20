@@ -1,5 +1,8 @@
 import ReciprocityTheory.CommutativeAlgebra.PolynomialHeights.PolyCM
 import ReciprocityTheory.CommutativeAlgebra.SaturatedChains.Integral
+import Mathlib.LinearAlgebra.SymmetricAlgebra.Basis
+import Mathlib.LinearAlgebra.TensorAlgebra.Basis
+import Mathlib.RingTheory.NoetherNormalization
 
 namespace ReciprocityTheory.CA
 

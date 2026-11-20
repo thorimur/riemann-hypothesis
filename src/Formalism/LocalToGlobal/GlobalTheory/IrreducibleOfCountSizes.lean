@@ -1,7 +1,8 @@
-import Formalism.LocalToGlobal.GlobalTheory.FamColC
 import Formalism.PadicSubsetSums.CentralIdempotents.StretchedExponentialDominance
-import Formalism.SharpRestriction.GlobalTheoremInputs
-import Formalism.SharpRestriction.LevelLetterCocycles.CylinderCountFamily
+import Formalism.LocalToGlobal.GlobalTheory.FamCol
+import Formalism.PadicSubsetSums.CentralIdempotents.EigenbasisOfDistinctRoots
+import Formalism.SharpRestriction.CuspSpanNormBounds.PlaceDegreeData
+import Formalism.SharpRestriction.LevelLetterCocycles.ArithmeticCylinders
 
 open NumberField
 

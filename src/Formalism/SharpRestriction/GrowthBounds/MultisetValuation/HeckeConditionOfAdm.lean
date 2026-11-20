@@ -1,5 +1,7 @@
 import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.HkEsymmSmul
 import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.PrimeCastNeZero
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.CoupledSumOfEntries
+import Formalism.SharpRestriction.GrowthBounds.MultisetValuation.SmulUpdate
 
 noncomputable section
 

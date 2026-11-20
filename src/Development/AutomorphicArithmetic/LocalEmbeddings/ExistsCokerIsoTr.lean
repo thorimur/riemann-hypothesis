@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CmpNaturality
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsFrameOfBijectiveStalk
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AppInjectiveOfFrames
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIsometryPullIdComp
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MonoPullbackOfIsOpenImmersion
@@ -9,6 +7,7 @@ import Development.AutomorphicArithmetic.DivisorFrames.FrameExtendsFromPullback
 import Development.AutomorphicArithmetic.DivisorFrames.QuotientFrameFromPermutation
 import Development.AutomorphicArithmetic.DivisorFrames.ExistsSubbundleCokernelFrame
 import Development.AutomorphicArithmetic.DivisorFrames.CokernelFrameCompatMono
+import Mathlib.AlgebraicGeometry.AffineSpace
 
 set_option autoImplicit false
 set_option backward.isDefEq.respectTransparency false

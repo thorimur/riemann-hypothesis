@@ -1,5 +1,6 @@
 import Formalism.IncomingBounds.ValuationWindowImpliesOriginal
 import Formalism.IncomingBounds.LevelTail
+import Mathlib.LinearAlgebra.Matrix.Rank
 
 noncomputable section
 open scoped BigOperators

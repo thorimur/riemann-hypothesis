@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.WhittakerLSpace
 import GroundTheory.AutomorphicForms.SmoothRep
-import GroundTheory.AutomorphicForms.LocallyProfinite
+import Mathlib.Topology.Algebra.Group.OpenMapping
+import Mathlib.Topology.Baire.LocallyCompactRegular
 
 namespace GroundTheory.Automorphic
 

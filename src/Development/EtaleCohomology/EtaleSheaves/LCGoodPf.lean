@@ -1,4 +1,5 @@
 import Development.EtaleCohomology.EtaleSheaves.EtaleDegreeZeroCohomologyEquivLocallyConstantFun
+import Std.Tactic.BVDecide.Normalize.Prop
 
 open LateralTheory.E.t_E1Cut
 

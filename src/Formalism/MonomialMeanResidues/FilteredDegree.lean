@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.HarderNarasimhan.StatementPl
 
 open Module NumberField Finset

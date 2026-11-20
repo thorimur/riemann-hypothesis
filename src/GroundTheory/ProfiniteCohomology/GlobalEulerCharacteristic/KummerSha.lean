@@ -1,8 +1,5 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.BaseKummer
-import GroundTheory.ProfiniteCohomology.RestrictedRamification.SInvariantToInvariantsEqZeroIff
 import GroundTheory.ProfiniteCohomology.PoitouTate.PtCompactDualMapEqZeroOfPtCompactToGlobalEqZero
-import GroundTheory.ProfiniteCohomology.CupProducts.Projection
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

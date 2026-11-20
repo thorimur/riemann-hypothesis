@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.IsFieldChartRingOverPnPtZero
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ConstVanishHypSegment
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ImportsBisMore

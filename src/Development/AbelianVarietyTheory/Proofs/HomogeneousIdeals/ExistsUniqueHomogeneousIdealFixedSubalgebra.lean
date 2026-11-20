@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.MvPolynomialIsHomogeneousComapWeighted
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RepresentationTheory.Invariants
 
 open TensorProduct Module
 

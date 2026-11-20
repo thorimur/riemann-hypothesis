@@ -1,6 +1,7 @@
-import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.DplusLeBeA
-import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.TypicalPathOrdersSmall
-import Formalism.ThetaLogCoordinates.ResidueClassEstimates.FinalT
+import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.AtypicalPathSmallWeight
+import Formalism.ThetaLogCoordinates.ResidueClassEstimates.StatementT
+import Mathlib.Algebra.Order.Star.Real
+import Std.Tactic.BVDecide.Normalize.BitVec
 
 noncomputable section
 

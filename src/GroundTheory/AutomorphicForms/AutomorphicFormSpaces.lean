@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.Archimedean
 import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.LeftTranslate
 import GroundTheory.AutomorphicForms.AutomorphicFormSpaces.Height

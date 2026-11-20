@@ -1,4 +1,11 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.TailInt
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Analysis.SpecialFunctions.PolarCoord
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.ENatToNat
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
 
 open MeasureTheory Set
 open scoped ENNReal Real

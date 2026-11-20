@@ -1,5 +1,6 @@
 import Formalism.ZeroFreeRegion.SmallHeightLogDeriv
 import Formalism.LFunctionBounds.LFunctionBoundsProofs.RectResidue
+import Mathlib.Tactic.ENatToNat
 
 open Complex
 

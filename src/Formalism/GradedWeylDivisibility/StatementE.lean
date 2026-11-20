@@ -1,4 +1,5 @@
-import Formalism.GradedWeylDivisibility.FinalD
+import Formalism.GradedWeylDivisibility.FinalB
+import Formalism.GradedWeylDivisibility.StatementD
 
 open MvPolynomial
 

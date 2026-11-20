@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.LocalEmbeddings.RootFrame
 import Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.Casimir
 import Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.LocalGen
 import Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.NormGen

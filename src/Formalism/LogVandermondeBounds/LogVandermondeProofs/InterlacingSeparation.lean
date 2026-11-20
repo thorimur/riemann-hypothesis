@@ -1,4 +1,6 @@
 import Formalism.LogVandermondeBounds.MultinomialPowerBound
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
 
 namespace Formalism.LogVandermondeBounds.flipTwoThree
 

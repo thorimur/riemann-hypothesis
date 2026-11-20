@@ -1,5 +1,5 @@
-import Development.AbelianVarietyTheory.Definitions.Foundations.IsFirstChernClassOfLineBundle
 import ReciprocityTheory.CommutativeAlgebra.PolynomialHeights.HeightAddRingKrullDimQuotientMvPolynomialField
+import Mathlib.RingTheory.Nullstellensatz
 open GlobalTheory.NeedB Polynomial
 
 namespace GlobalTheory

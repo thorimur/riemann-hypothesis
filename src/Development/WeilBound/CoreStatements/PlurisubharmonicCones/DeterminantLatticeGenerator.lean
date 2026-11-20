@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.PotentialsBoundedRegSettingEqReference
+import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsGenericFlag
 
 open AlgebraicGeometry CategoryTheory Matrix
 open GlobalTheory.CompanionTheory.Ar GlobalTheory.CompanionTheory.Ar.Cusp

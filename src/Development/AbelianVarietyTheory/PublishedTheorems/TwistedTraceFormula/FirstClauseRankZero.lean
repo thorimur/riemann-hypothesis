@@ -1,5 +1,3 @@
-import Mathlib
-import Formalism.LocalRingCardinality.SpanPowerMembership.Spaces
 import Formalism.SharpRestriction.AdmissibleParameterJoins.SfromGLw
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.WeilSiegelFormulaUnitary
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.IntegrableOfIsAniso

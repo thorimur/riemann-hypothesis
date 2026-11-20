@@ -1,5 +1,5 @@
-import Mathlib
 import Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc
+import Mathlib.Topology.Algebra.Nonarchimedean.Completion
 
 noncomputable section
 

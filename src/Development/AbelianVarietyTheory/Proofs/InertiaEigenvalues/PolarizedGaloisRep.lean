@@ -1,10 +1,6 @@
-import Mathlib
 import Formalism.LocalRingCardinality.ConjSqrtMinusD
 import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
 import Formalism.SharpRestriction.ParamsHeightRankConstant
-import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.DeterminantInTorus
-import Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.BaseChangeInertUnramified
-import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.GaloisSideTwistedSelmerAuxiliaryPrimes
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsComplDescCompl
 
 noncomputable section

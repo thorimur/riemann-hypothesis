@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.HypLine
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.HypLineMore
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.HypLineBis
@@ -6,6 +5,7 @@ import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.HypLineAlt
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.HypLineTer
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.EventuallyInFrameDomain
 import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.MCoordIdealGenericPointEq
+import GroundTheory.HeightsAndTheta.Heights.HodgeLowerBound.FrameDefinitions.Values
 set_option maxSynthPendingDepth 1
 
 noncomputable section

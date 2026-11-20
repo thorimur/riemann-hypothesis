@@ -1,9 +1,6 @@
-import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.StripEstimates.FaceMapCompSuccAboveCastSucc
 import GroundTheory.GlobalFields.AnalyticClassNumber.DirichletHeckeCorrespondence
 import GroundTheory.GlobalFields.TateThesis.RootNumberLocalPlace
-import GroundTheory.GlobalFields.TateThesis.NonvanishingPrimes
-import GroundTheory.GlobalFields.KummerTheory.LocalIndexAtPlace
 
 open Ad3 Ad3.S
 open NumberField IsDedekindDomain GroundTheory.Global GroundTheory.LocalField

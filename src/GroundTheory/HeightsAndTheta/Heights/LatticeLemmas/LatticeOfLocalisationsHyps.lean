@@ -1,7 +1,7 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.ArithDegreeIdeal
-import GroundTheory.HeightsAndTheta.Heights.ArithDegreeExact
 import GroundTheory.HeightsAndTheta.Heights.HermitianDual
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.Tactic.Monotonicity.Lemmas
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.LatticeLemmas

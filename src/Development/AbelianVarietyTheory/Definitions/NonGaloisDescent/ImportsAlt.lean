@@ -1,4 +1,3 @@
-import Mathlib
 import Formalism.LocalRingCardinality.AdicCompletionLocal.InstIsAdicCompleteOCSpanSingletonSetCast
 
 noncomputable section

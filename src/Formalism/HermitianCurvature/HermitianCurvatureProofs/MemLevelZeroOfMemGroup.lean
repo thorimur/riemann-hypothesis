@@ -1,9 +1,5 @@
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.PictureMemLevelZeroClass
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.OpApplyZeroNear
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LiftClosedUnderOperations
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.WeylCellConjTransposeMulApply
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.RestrictionIrrelevantDoubleLevelOperator
-import Formalism.HermitianCurvature.HerGenC
 
 namespace Formalism.FourierDecayAlt.P.PBF
 

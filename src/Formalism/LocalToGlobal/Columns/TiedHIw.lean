@@ -1,5 +1,7 @@
 import Formalism.LocalToGlobal.Columns.LocalLevelIsKOneEverywhere
-import Formalism.LocalToGlobal.Columns.TiedGlRec
+import Formalism.LocalToGlobal.Columns.TiedGlCore
+import Formalism.LocalToGlobal.Columns.TiedGlLev
+import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Levelvsplit
 
 open NumberField IsDedekindDomain Module Matrix
 open scoped TensorProduct

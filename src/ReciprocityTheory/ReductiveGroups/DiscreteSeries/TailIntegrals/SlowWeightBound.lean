@@ -1,4 +1,12 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.TailIntegrals.TailInt
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.MeasureTheory.Order.Group.Lattice
+import Mathlib.RingTheory.PiTensorProduct
+import Mathlib.RingTheory.WittVector.IsPoly
+import Mathlib.Tactic.Monotonicity.Lemmas
+import Mathlib.Tactic.Polynomial.Basic
+import Mathlib.Tactic.ReduceModChar
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

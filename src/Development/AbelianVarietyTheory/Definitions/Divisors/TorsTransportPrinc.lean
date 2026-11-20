@@ -1,7 +1,7 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.TorsTransport
 import Development.AbelianVarietyTheory.Definitions.ThetaMetrics.HasSumLocallyUniformlyWeierstrassZetaExcept
 import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsValuedHeckeCharRamified
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 noncomputable section
 

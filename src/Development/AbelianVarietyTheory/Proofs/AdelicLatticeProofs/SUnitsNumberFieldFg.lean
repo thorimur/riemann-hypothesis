@@ -1,5 +1,6 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AdelicHermitianForms.SqSubLeNormSub
+import Mathlib.NumberTheory.NumberField.Units.DirichletTheorem
+import Mathlib.Tactic.Monotonicity.Lemmas
 open NumberField IsDedekindDomain GlobalTheory.QNorm
 open scoped WithZero
 

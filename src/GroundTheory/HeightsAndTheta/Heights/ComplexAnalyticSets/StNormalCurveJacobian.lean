@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalCurveRegularPoint
+import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModel
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

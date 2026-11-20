@@ -1,5 +1,4 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLEig
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLAtMost
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLIsoAlg
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLLieGrp
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLExistsOf

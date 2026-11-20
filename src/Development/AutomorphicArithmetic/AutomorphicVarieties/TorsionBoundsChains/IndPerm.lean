@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.FaceDSingle
+import Mathlib.RepresentationTheory.Induced
 
 open CategoryTheory UpperTheory.V.KH
 

@@ -1,4 +1,3 @@
-import Development.WeilBound.ThetaLifts.TowerModels.PlaneHerm
 import Development.WeilBound.ThetaLifts.TowerModels.StabCpt
 
 noncomputable section

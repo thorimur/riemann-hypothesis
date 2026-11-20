@@ -1,6 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.SemiposAtOfPositive
-import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PotentialSmoothOffBoundaryStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PlurisubharmonicOffBoundaryStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PotentialLogGrowthBoundStatement

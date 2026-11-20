@@ -1,4 +1,5 @@
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.DualFamilyCounting.NcRealXECPfB
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 noncomputable section
 

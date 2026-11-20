@@ -1,4 +1,8 @@
 import ReciprocityTheory.AnalyticForms.MaIntEmpty
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Order
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Analysis.SpecialFunctions.RegularizedHypergeometric
+import Std.Tactic.BVDecide.Normalize.Prop
 
 namespace ReciprocityTheory.AnForm.A
 

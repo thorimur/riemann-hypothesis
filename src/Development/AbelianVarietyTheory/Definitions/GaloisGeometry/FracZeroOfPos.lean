@@ -1,5 +1,6 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.IsGaloisCover
+import Development.AbelianVarietyTheory.Definitions.Divisors.OneFormMapEqKaehlerDifferentialMap
+import Mathlib.RingTheory.MvPowerSeries.Basic
+import Mathlib.Topology.Sheaves.Presheaf
 
 set_option autoImplicit false
 

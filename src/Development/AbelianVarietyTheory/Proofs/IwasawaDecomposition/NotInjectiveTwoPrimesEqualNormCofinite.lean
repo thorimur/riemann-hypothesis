@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.TsumIdealMulAbsNormCpowEqExpTsum
+import Mathlib.Algebra.Order.Star.Real
 
 open NumberField IsDedekindDomain Filter Topology
 

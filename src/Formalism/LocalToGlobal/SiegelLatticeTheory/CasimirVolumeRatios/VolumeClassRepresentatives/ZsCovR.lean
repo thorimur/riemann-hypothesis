@@ -2,7 +2,6 @@ import Formalism.LocalToGlobal.SiegelLatticeTheory.CasimirVolumeRatios.VolumeCla
 import Formalism.LocalToGlobal.GlobalTheory.GL5.Statement
 import Formalism.SharpRestriction.CuspSpanNormBounds.MassRatioBoundPower
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemV
-import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelGen
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeVolRatio
 
 noncomputable section

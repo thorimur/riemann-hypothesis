@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.StatementOfDegreeAndBound
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

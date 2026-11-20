@@ -1,5 +1,5 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsFlatLift
+import Mathlib.RingTheory.PiTensorProduct
 
 open GlobalTheory GlobalTheory.DI
 

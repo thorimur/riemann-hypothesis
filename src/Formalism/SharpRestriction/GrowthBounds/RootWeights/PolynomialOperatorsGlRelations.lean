@@ -1,4 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.V2conSumApply
+import Formalism.SharpRestriction.GrowthBounds.RootWeights.StableSubspaceCompleteReducibility
+import Mathlib.RingTheory.Derivation.Lie
 
 noncomputable section
 

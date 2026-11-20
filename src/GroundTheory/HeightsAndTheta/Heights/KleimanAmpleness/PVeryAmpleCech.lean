@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.VeryAmpleZFamilySt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.VeryAmpleZFiniteSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.VeryAmpleZTwistSt
@@ -7,6 +6,7 @@ import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CechHdegOfSubSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.CechDoubleSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.VeryAmpleZColumnsSt
 import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.VeryAmpleZRowsSt
+import GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.VeryAmpleCechSt
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights.Kleiman

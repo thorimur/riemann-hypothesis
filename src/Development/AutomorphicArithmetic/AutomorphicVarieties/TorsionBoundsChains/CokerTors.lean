@@ -1,9 +1,7 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.FaceDSingle
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.MaxIndep
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.FullEnum
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.IndexLe
 import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.TorsSat
-import Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.Transport
 
 open CategoryTheory UpperTheory.V.KH
 

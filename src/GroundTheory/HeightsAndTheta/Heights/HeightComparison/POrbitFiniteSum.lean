@@ -1,9 +1,8 @@
-import Mathlib
-import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitFiniteSum
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitDegreeRatio
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitCenterZero
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.HeightOrbitLocalSum
 import GroundTheory.HeightsAndTheta.Heights.HeightComparison.PHeightRecR
+import Mathlib.Order.CompletePartialOrder
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.Heights₂.Heights

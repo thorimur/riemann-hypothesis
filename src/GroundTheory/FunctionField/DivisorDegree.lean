@@ -1,8 +1,5 @@
-import Mathlib
-import GroundTheory.FunctionField.PlaceDefs
-import GroundTheory.FunctionField.PlaceBasic
-import GroundTheory.FunctionField.ValuationAevalSubCoeffZeroLe
 import GroundTheory.FunctionField.Divisor
+import Mathlib.RingTheory.PicardGroup
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.FunctionField

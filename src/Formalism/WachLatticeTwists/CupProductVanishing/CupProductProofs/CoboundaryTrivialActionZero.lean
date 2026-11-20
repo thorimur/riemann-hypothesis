@@ -1,4 +1,5 @@
 import Formalism.WachLatticeTwists.CupProductVanishing.StatVhEInChi
+import ReciprocityTheory.ReductiveGroups.TraceFormulas.LatDefs
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

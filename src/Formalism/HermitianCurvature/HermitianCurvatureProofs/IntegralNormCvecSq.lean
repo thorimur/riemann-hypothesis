@@ -1,5 +1,5 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.TendstoSmulCocompact
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.LastBlockDecay
+import Mathlib.Algebra.Ring.IsFormallyReal
 
 namespace Formalism.FourierDecayAlt.P.PBK
 

@@ -1,6 +1,4 @@
-import Formalism.SizeWindowBrackets.ErrorFormsEventualPowerBound
 import Formalism.SizeWindowBrackets.ChainSlopeWindows.SubThreeMulLogTwoLe
-import Formalism.SizeWindowBrackets.ChainSlopeWindows.LevelOfCongruence
 
 open Real
 

@@ -1,6 +1,5 @@
-import Mathlib
-import GroundTheory.AutomorphicForms.QuotientKernel
 import GroundTheory.AutomorphicForms.TraceFormulaConvolution
+import Mathlib.MeasureTheory.Function.AEEqOfIntegral
 
 open MeasureTheory Set Filter Topology Function
 open scoped ENNReal Pointwise InnerProductSpace ComplexConjugate

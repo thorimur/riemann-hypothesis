@@ -1,5 +1,5 @@
-import Mathlib
-import GroundTheory.GlobalFields.ComplexMultiplication.ClassGroupActionIso
+import GroundTheory.GlobalFields.ComplexMultiplication.AnalyticAlgebraic
+import Mathlib.NumberTheory.NumberField.FractionalIdeal
 
 open NumberField Module
 open scoped nonZeroDivisors

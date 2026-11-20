@@ -1,6 +1,3 @@
-import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MirabolicBound.Development
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MirabolicBound.LastRowMul
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MirabolicBound.RowExists
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MirabolicBound.CharSumOne
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MirabolicBound.CardNonzero

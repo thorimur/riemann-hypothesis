@@ -1,7 +1,6 @@
 import Development.WeilBound.CoreStatements.CentralCharts.PotLoc
 import Development.WeilBound.CoreStatements.VolumeEquality.BaseUnifVec
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.CuspCorrespondenceBoundStatement
-import Development.AutomorphicSpectrum.Proofs.MetricProofs.SectionBoundaryClosedAndCodenseStatement
 
 noncomputable section
 

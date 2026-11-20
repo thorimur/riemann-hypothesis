@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ProfiniteCohomology.RealPlaces.LocalDualityCup
 set_option maxSynthPendingDepth 1
 

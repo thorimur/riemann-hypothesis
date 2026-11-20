@@ -1,5 +1,5 @@
-import Mathlib
 import GroundTheory.AutomorphicForms.PartialDifferential.Sobolev
+import Mathlib.Order.CompletePartialOrder
 
 namespace GroundTheory.Automorphic.Sobolev
 

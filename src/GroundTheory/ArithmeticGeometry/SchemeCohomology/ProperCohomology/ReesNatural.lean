@@ -1,4 +1,3 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.SchemeCohomology.ProperCohomology.ReesSheaf
 set_option maxSynthPendingDepth 1
 

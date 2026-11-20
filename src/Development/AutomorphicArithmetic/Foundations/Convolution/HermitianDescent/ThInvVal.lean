@@ -1,4 +1,3 @@
-import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.UniformExportStatement
 import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.GramBasic
 
 open Matrix Polynomial

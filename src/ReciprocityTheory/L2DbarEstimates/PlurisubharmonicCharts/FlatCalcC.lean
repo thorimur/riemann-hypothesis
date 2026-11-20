@@ -1,5 +1,9 @@
 import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FlatCalcB
 import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.MeasurableSetImageOfIsLocalHomeomorph
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.RingTheory.Complex
+import Mathlib.Topology.Sheaves.Presheaf
+import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.ContinuousOnSec
 
 namespace ReciprocityTheory.L2DbarEstimates.Y
 

@@ -1,5 +1,5 @@
-import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowX
 import Formalism.LocalRingCardinality.SpanPowerMembership.NStageTrivialCharacterCoeffEq
+import Formalism.LocalRingCardinality.SpanPowerMembership.NZRowF
 
 noncomputable section
 

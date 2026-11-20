@@ -1,7 +1,6 @@
-import Mathlib
-import Formalism.LocalRingCardinality.DataParams₂
 import Formalism.SharpRestriction.ParConsts
 import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.FiltrationCocycleLiftCriterion
+import Mathlib.NumberTheory.NumberField.ClassNumber
 
 noncomputable section
 

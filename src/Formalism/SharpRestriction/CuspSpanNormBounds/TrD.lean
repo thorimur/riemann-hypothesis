@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.DMiMulVecApply
+import Formalism.SharpRestriction.CuspSpanNormBounds.ContinuousCjIT
 
 open MeasureTheory Matrix Finset
 

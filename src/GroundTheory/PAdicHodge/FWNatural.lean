@@ -1,5 +1,4 @@
-import Mathlib
-import GroundTheory.PAdicHodge.TiltEquiv
+import GroundTheory.PAdicHodge.UntiltGaloisCorr
 set_option maxSynthPendingDepth 1
 
 noncomputable section

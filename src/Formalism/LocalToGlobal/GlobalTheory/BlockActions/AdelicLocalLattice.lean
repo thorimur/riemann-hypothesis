@@ -1,4 +1,7 @@
 import Formalism.LocalToGlobal.GlobalTheory.BlockActions.InclEMemTensInt
+import Formalism.LocalToGlobal.GlobalTheory.BlockActions.LatSOfMem
+import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.AfsplitB
+import Mathlib.Algebra.AffineMonoid.Basic
 
 noncomputable section
 

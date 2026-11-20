@@ -1,4 +1,5 @@
-import Formalism.WachLatticeTwists.CharacterSplitJumps.Statement
+import Formalism.CharacterColumnKernels.StatementRho
+import Mathlib.NumberTheory.Padics.PadicIntegers
 
 noncomputable section
 

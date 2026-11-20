@@ -1,4 +1,5 @@
-import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.FactorialMulChooseEqProdRange
+import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.RestCountOf
+import Mathlib.Order.Interval.Finset.Box
 
 noncomputable section
 

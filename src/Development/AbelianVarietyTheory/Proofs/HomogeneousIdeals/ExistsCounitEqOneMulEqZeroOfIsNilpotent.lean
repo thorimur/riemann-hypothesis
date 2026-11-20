@@ -1,6 +1,11 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.NatCardAlgHomEqFinrankOfIsReducedOfIsFractionRin
 import Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.IsCounitDerivationCounitComp
+import Mathlib.AlgebraicGeometry.Group.Affine
+import Mathlib.AlgebraicGeometry.Group.Smooth
+import Mathlib.AlgebraicGeometry.Modules.Sheaf
+import Mathlib.Combinatorics.Quiver.ReflQuiver
+import Mathlib.FieldTheory.PurelyInseparable.Exponent
+import Mathlib.RingTheory.HopfAlgebra.Quotient
 
 open Coalgebra Bialgebra HopfAlgebra WithConv
 open scoped TensorProduct

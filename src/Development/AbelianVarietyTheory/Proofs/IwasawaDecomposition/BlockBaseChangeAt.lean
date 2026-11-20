@@ -1,5 +1,3 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.BlockBaseChange
 import Formalism.LocalToGlobal.IndefiniteReal.PartsOrth
 
 noncomputable section

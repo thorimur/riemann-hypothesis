@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.DualFockLinear.DvdOfCompl
+import Formalism.SharpRestriction.GrowthBounds.PathWeight.DvDegOtherMono
 
 noncomputable section
 

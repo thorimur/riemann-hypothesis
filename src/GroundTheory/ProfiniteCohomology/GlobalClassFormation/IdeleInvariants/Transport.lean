@@ -1,9 +1,4 @@
-import Mathlib
-import GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalResKill
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.ResLocal
-import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolUnramified
-import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolNorm
-import GroundTheory.ProfiniteCohomology.LocalClassFormation.CupSymbolReal
 import GroundTheory.LocalFields.MainTheorem
 set_option maxSynthPendingDepth 1
 

@@ -1,6 +1,4 @@
-import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CrdInjective
-import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHomOfBasis
 
 set_option synthInstance.maxHeartbeats 400000
 open CategoryTheory Limits AlgebraicGeometry IsLocalRing NumberField

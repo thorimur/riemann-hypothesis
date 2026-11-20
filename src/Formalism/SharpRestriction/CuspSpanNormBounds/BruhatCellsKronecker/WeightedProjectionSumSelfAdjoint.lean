@@ -1,4 +1,7 @@
-import Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.ShiftedParametersOfDifferingLetters
+import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.InnerProductSpace.Adjoint
+import Mathlib.Topology.Sheaves.Presheaf
 
 noncomputable section
 

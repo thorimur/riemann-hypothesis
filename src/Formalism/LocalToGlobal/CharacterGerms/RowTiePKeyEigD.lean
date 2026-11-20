@@ -1,4 +1,8 @@
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyEigC
+import Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyJointDef
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.TotallySplit
 
 noncomputable section
 

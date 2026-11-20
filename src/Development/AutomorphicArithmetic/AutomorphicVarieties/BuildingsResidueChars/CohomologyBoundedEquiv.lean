@@ -1,4 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank.RankHomology
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.Functoriality
 
 theorem UpperTheory.cohomology_bounded_equiv :
     UpperTheory.V.Af.CohB.BddEquiv := by

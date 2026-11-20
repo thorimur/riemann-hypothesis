@@ -1,4 +1,3 @@
-import Mathlib
 import Development.AutomorphicArithmetic.OrbitLabellings.ColDefs
 import Formalism.GaussJetBounds.OneLetterRadius
 

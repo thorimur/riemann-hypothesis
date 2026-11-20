@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.CohomologicalPurity.LeafLocCutAug
+import Development.EtaleCohomology.CohomologicalPurity.LeafLocCut
 
 set_option linter.unusedSimpArgs false
 noncomputable section

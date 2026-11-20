@@ -1,6 +1,4 @@
-import Mathlib
 import GroundTheory.ArithmeticGeometry.AbelianVarieties.FormalGroupFiltration
-import GroundTheory.LocalFields.FormalGroups.Basics
 
 namespace GroundTheory.Arith.Abelian
 

@@ -1,5 +1,4 @@
-import Mathlib
-import Development.AbelianVarietyTheory.Definitions.Divisors.FormalCanLat
+import Development.AbelianVarietyTheory.Definitions.Divisors.CanExtOfCharts
 
 set_option autoImplicit false
 
