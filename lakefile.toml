@@ -64,3 +64,8 @@ roots = ["Statements", "Main"]
 [[lean_lib]]
 name = "Challenge"
 roots = ["Challenge"]
+
+# Import minimizer, by local path for now (see ~/LeanContribution/agitate).
+[[require]]
+name = "agitate"
+path = "../../agitate"
