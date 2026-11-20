@@ -219,6 +219,42 @@ on one thread.
   about 3.2 million declarations, a solution export of 70 to 75 GB, and about 12 hours for the
   five checkers in sequence, with a peak of roughly 285 GB of memory in con-ron.
 
+## Published oleans
+
+A third party publishes compiled `.olean` files for every module at
+<https://proofsandreasons.io/rh-oleans.html>, with the SHA-256 of each one. They were built with
+a bare `lean <file> -o <olean> --setup <json>` per module, not with Lake, so they have no Lake
+trace files and Lake treats them as out of date. Checked on 2026-11-20:
+
+- They were built from this repository's source: the page gives the same joined-archive sha256 as
+  above.
+- Their dependency files (Mathlib, Batteries, Aesop, Qq, ProofWidgets, importGraph, plausible,
+  LeanSearchClient) are byte-identical to Mathlib's official cache for the pinned commit.
+- `Formalism.SuccessiveMinima` (15 modules) was rebuilt on macOS (arm64) with the same Lean
+  `v4.33.1` release. 11 oleans match the published hashes. The other 4 differ only in a file path.
+
+**Why the 4 differ.** Lean `v4.33.1` writes every linter warning a module emits into its olean
+through the `lintLogExt` extension (`src/Lean/Linter/PersistentLintLog.lean`). Each entry
+records the source file name exactly as it was passed to `lean`. The 4 modules are the ones in
+the sample that emit linter warnings (deprecations, `haveI`, unused section variables). The
+recorded path depends on the build:
+
+| Build | Path in the olean |
+|---|---|
+| published | `/mnt/data/sdedeo/alp/work/lean/src/…` |
+| `lake build` | the absolute path of the checkout's `src/…` |
+| the published bare command, run from the checkout | `src/…` |
+
+Two checks show the path is the only difference. With the publisher's prefix replaced by `src/`,
+the published oleans and the bare-command rebuild contain the same strings. Each published file
+is also 32 bytes larger: the 31 extra characters of the path, padded to 8-byte alignment. That
+is strong evidence but not a structural comparison. Rebuilds are otherwise deterministic: repeated
+runs, and runs with `-j1` and `-j4`, give identical files.
+
+So **an olean's hash depends on the build directory whenever the module emits a linter warning.**
+Comparing hashes across machines confirms only warning-free modules unless both builds pass the
+same path. The published oleans also record the builder's directory layout.
+
 ## Limits
 
 - Comparator checks the challenge and the solution against the same Mathlib, so it cannot
